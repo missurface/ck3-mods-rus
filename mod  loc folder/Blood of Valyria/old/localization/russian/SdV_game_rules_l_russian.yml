@@ -1,0 +1,82 @@
+﻿l_russian:
+ game_rule_category_SdV: "Кровь Валирии — Правила игры"
+  
+ rule_hv_vi_100_gr: "Автоматическое назначение черты [GetTrait('vi_100').GetName(GetNullCharacter)|l] черта для  $high_valyrian$ персонажам."
+ setting_hv_vi_100_enable: "Включить"
+ setting_hv_vi_100_enable_desc: "[GetTrait('vi_100').GetName(GetNullCharacter)|l] будет автоматически назначаться персонажам $high_valyrian$ появляющимся в ходе игры."
+ setting_hv_vi_100_disable: "Отключить"
+ setting_hv_vi_100_disable_desc: "[GetTrait('vi_100').GetName(GetNullCharacter)|l] не будет назначаться персонажам $high_valyrian$ появляющимся в ходе игры."
+  
+ rule_wv_vi_50_gr: "Автоматическое назначение черты [GetTrait('vi_50').GetName(GetNullCharacter)|l] черта для $westerosi_valyrian$ персонажам."
+ setting_wv_vi_50_enable: "Включить"
+ setting_wv_vi_50_enable_desc: "[GetTrait('vi_50').GetName(GetNullCharacter)|l] будет автоматически назначаться персонажам $westerosi_valyrian$ появляющимся в ходе игры."
+ setting_wv_vi_50_disable: "Отключить"
+ setting_wv_vi_50_disable_desc: "[GetTrait('vi_50').GetName(GetNullCharacter)|l] не будет назначаться персонажам $westerosi_valyrian$ появляющимся в ходе игры."
+  
+ rule_ev_vi_50_gr: "Автоматическое назначение черты [GetTrait('vi_50').GetName(GetNullCharacter)|l] черта для $essosi_valyrian$ персонажей."
+ setting_ev_vi_50_enable: "Включить"
+ setting_ev_vi_50_enable_desc: "[GetTrait('vi_50').GetName(GetNullCharacter)|l] будет автоматически назначаться персонажам $essosi_valyrian$ появляющимся в ходе игры."
+ setting_ev_vi_50_disable: "Отключить"
+ setting_ev_vi_50_disable_desc: "[GetTrait('vi_50').GetName(GetNullCharacter)|l] не будет назначаться персонажам $essosi_valyrian$ появляющимся в ходе игры."
+  
+ rule_mdd_gr: "Удаление драконов"
+ setting_mdd_enable: "Включить"
+ setting_mdd_enable_desc: "#N Только в новых играх (до гибели Последнего Дракона) и одиночных. #! Произойдёт событие, требующее уничтожить всех драконов..."
+ setting_mdd_disable: "Отключить"
+ setting_mdd_disable_desc: "Драконы не будут удалены"
+  
+ rule_sdv_ad_gr: "Шанс вылупления и приручения драконов."
+ setting_sdv_ad_enable: "Увеличить удачу."
+ setting_sdv_ad_enable_desc: "Ваши шансы или ИИ вылупить драконьи яйца во время церемоний или успешно приручить дракона значительно возрастают в зависимости от процента валирийской крови."
+ setting_sdv_ad_disable: "Удача без изменений"
+ setting_sdv_ad_disable_desc: "Ваши шансы или ИИ успешно приручить дракона или вылупить яйцо во время церемоний остаются как в ванильной версии."
+  
+ rule_sdv_debug_traits_gr: "Отладка: добавить или удалить черты из #N Blood of Valyria#!."
+ setting_sdv_debug_traits_enable: "Включить."
+ setting_sdv_debug_traits_enable_desc: "Вы сможете удалять или добавлять черты (из #N Blood of Valyria#!) персонажам."
+ setting_sdv_debug_traits_disable: "Выключить."
+ setting_sdv_debug_traits_disable_desc: "Вы не сможете удалять или добавлять черты (из #NBlood of Valyria#!) персонажам. (всё ещё возможно, если включён режим отладки.)"
+  
+ rule_sdv_celtigar_hv_gr: "Селтигары: $high_valyrian$ или $westerosi_valyrian$."
+ setting_sdv_celtigar_hv_disable: "По умолчанию."
+ setting_sdv_celtigar_hv_disable_desc: "Селтигары остаются $high_valyrian$ как в моде #N Blood of Valyria #!"
+ setting_sdv_celtigar_hv_enable: "Ванильная версия"
+ setting_sdv_celtigar_hv_enable_desc: "Вы получите событие для смены Селтигаров на $westerosi_valyrian$ как в ванильной версии #N CKA AGOT #!"
+  
+ rule_sdv_scales_hv_gr: "Ламеллины: $high_valyrian$ или $westerosi_valyrian$."
+ setting_sdv_scales_hv_disable: "По умолчанию."
+ setting_sdv_scales_hv_disable_desc: "Ламеллины остаются $high_valyrian$ как в моде #N Blood of Valyria #!"
+ setting_sdv_scales_hv_enable: "Ванильная версия"
+ setting_sdv_scales_hv_enable_desc: "Вы получите событие для смены Ламеллинов на $westerosi_valyrian$ как в ванильной версии #N CKA AGOT #!"
+  
+ rule_sdv_beauty_fertility_gr: "Фертильность черт внешности"
+ setting_sdv_beauty_fertility_vanilla: "Ванильная"
+ setting_sdv_beauty_fertility_vanilla_desc: "По умолчанию"
+ setting_sdv_beauty_fertility_disable: "Отключить"
+ setting_sdv_beauty_fertility_disable_desc: "Персонажи с одной из черт: [GetTrait('beauty_good_1').GetName(GetNullCharacter)|l], [GetTrait('beauty_good_2').GetName(GetNullCharacter)|l], [GetTrait('beauty_good_3').GetName(GetNullCharacter)|l], [GetTrait('beauty_bad_1').GetName(GetNullCharacter)|l], [GetTrait('beauty_bad_2').GetName(GetNullCharacter)|l] или [GetTrait('beauty_bad_3').GetName(GetNullCharacter)|l], получат штраф или бонус для нейтрализации эффектов фертильности от этих черт."
+  
+ rule_sdv_three_pt_gr: "Количество черт характера" #NT!
+ setting_sdv_three_pt_disable: "4" #NT!
+ setting_sdv_three_pt_disable_desc: "У персонажей 4 черты характера, как в базовой версии #N CK3 AGOT #!" #NT!
+ setting_sdv_three_pt_enable: "3" #NT!
+ setting_sdv_three_pt_enable_desc: "Дети теряют одну черту характера в 16 лет, в соответствии с версией Vallia для CK3" #NT!
+  
+ rule_sdv_three_pt_gr: "Существующие персонажи: 3 или 4 черты?" #NT!
+ setting_sdv_three_pt_after_loby_enable_disable: "4" #NT!
+ setting_sdv_three_pt_after_loby_enable_disable_desc: "Персонажи, уже присутствующие в игре, сохранят свои 4 черты" #NT!
+ setting_sdv_three_pt_after_loby_enable_enable: "3" #NT!
+ setting_sdv_three_pt_after_loby_enable_enable_desc: "У существующих персонажей будет удалена одна черта при начале новой игры. (Работает только если включено предыдущее правило)." #NT!
+  
+ rule_sdv_pw_ls_g: "Принц Вестероса"
+ setting_sdv_pw_ls_enable: "Включить"
+ setting_sdv_pw_ls_enable_desc: "Эта функция в разработке, пожалуйста отключите правило"
+ setting_sdv_pw_ls_disable: "Отключить"
+ setting_sdv_pw_ls_disable_desc: "Пожалуйста оставьте это правило отключенным."
+  
+ rule_sdv_pw_culture_gr: "Принц Вестероса Культура"
+ setting_sdv_pw_culture_strict: "Включить"
+ setting_sdv_pw_culture_strict_desc: "Эта функция в разработке, пожалуйста отключите правило"
+ setting_sdv_pw_culture_no_strict: "Отключить"
+ setting_sdv_pw_culture_no_strict_desc: "Пожалуйста оставьте это правило отключенным."
+  
+  #[trait|El] [GetTrait('incapable').GetName(GetNullCharacter)|l] 

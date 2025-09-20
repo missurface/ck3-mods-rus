@@ -1,0 +1,128 @@
+﻿l_russian:
+  #CROWNS 
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_crown_aerys_II: "@asoiaf_icon! Корона Эйриса II"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_asoiaf_crown_aerys_II: "@asoiaf_icon! Корона Эйриса II"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_crown_robert_I: "@asoiaf_icon! Корона Роберта I"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_asoiaf_crown_robert_I: "@asoiaf_icon! Корона Роберта I"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_crown_renly: "@asoiaf_icon! Корона Ренли"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_asoiaf_crown_renly: "@asoiaf_icon! Корона Ренли"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_crown_baratheon_tyrell: "@asoiaf_icon! Корона Баратеон-Тирелл"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_asoiaf_crown_baratheon_tyrell: "@asoiaf_icon! Корона Баратеон-Тирелл"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_crown_joffrey_I: "@asoiaf_icon! Корона Льва и Оленя"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_asoiaf_crown_joffrey_I: "@asoiaf_icon! Корона Льва и Оленя"
+  
+  #HELMETS 
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_crownlands_gold_cloak_helm_1: "@asoiaf_icon! Шлем Золотых Плащей (Закрытый)"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_crownlands_gold_cloak_helm_1: "@asoiaf_icon! Шлем Золотых Плащей (Закрытый)"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_crownlands_gold_cloak_helm_2: "@asoiaf_icon! Шлем Золотых Плащей (Открытый)"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_crownlands_gold_cloak_helm_2: "@asoiaf_icon! Шлем Золотых Плащей (Открытый)"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_north_plate_helm: "@asoiaf_icon! Северный Пластинчатый Шлем"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_lannister_plate_2_helm: "@asoiaf_icon! Шлем Ланнистера Офицера"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_lannister_plate_2_helm_open: "@asoiaf_icon! Шлем Ланнистера Офицера - Открытый"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_lannister_plate_2_helm_closed: "@asoiaf_icon! Шлем Ланнистера Офицера - Закрытый"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_kingsguard_helm_default: "@asoiaf_icon! Шлем Королевского Гвардейца"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_nights_watch_hood: "@asoiaf_icon! Кожаный капюшон Ночного дозора" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_nights_watch_coif: "@asoiaf_icon! Головной убор Ночного дозора" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_reach_headdress_1: "@asoiaf_icon! Головной убор Простора"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_tyrell_helm_dynast: "@asoiaf_icon! Шлем Тиреллов - Богато украшенный"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_tyrell_helm_high: "@asoiaf_icon! Шлем Тиреллов - Высокий"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_tyrell_helm_low: "@asoiaf_icon! Шлем Тиреллов - Низкий"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_septa_wimple: "@asoiaf_icon! Септа Вимпл"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_silent_sister_hood: "@asoiaf_icon! Капюшон Молчаливых Сестёр"
+  
+  #CHEST ARMOUR 
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_gold_cloak_chest: "@asoiaf_icon! Броня Золотых Плащей"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_crownlands_gold_cloak_chest: "@asoiaf_icon! Броня Золотых Плащей"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_north_war_chainmail: "@asoiaf_icon! Северная Кольчуга"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_north_war_padding: "@asoiaf_icon! Северная Подкладка"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_north_war_plate: "@asoiaf_icon! Северная Пластинчатая Броня"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_north_war_plate_stark: "@asoiaf_icon! Северная Пластинчатая Броня - Старк"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_lannister_war_plate_2: "@asoiaf_icon! Броня Ланнистера Офицера"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_lannister_war_plate_2_sash: "@asoiaf_icon! Броня Династии Ланнистеров"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_lannister_war_plate_2_sash_ceremonial: "@asoiaf_icon! Церемониальная Броня Ланнистера"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_kingsguard_armour_default: "@asoiaf_icon! Броня Королевской Гвардии"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_stormlands_stannis_clothes_1: "@asoiaf_icon! Плащ  и кольчуга Станниса"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_westerlands_tywin_tunic_1: "@asoiaf_icon! Черная туника Тайвина"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_kingsguard_tunic: "@asoiaf_icon! Туника Королевской Гвардии"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_reach_tunic_1_high: "@asoiaf_icon! Туника Простора - Высокая"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_reach_tunic_1_low: "@asoiaf_icon! Туника Простора с низким вырезом"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_reach_tunic_1_coa: "@asoiaf_icon! Династическая туника Простора"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_joffrey_sash: "@asoiaf_icon! Туника и пояс Джоффри" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_joffrey_no_clasps: "@asoiaf_icon! Бархат Джоффри" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_joffrey_mourning: "@asoiaf_icon! Траурная туника Джоффри" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_tommen: "@asoiaf_icon! Туника Томмена" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_high_sash: "@asoiaf_icon! Туника и пояс жителя Королевских Земель - Высокие" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_high: "@asoiaf_icon! Туника жителя Королевских Земель - Высокие" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_low_sash: "@asoiaf_icon! Туника и пояс жителя Королевских Земель - Низкие" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_low: "@asoiaf_icon! Туника жителя Королевских Земель - Низкие" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_coa_sash: "@asoiaf_icon! Династическая туника и пояс жителя Королевских Земель" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_coa: "@asoiaf_icon! Династическая туника жителя Королевских Земель" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_westerlands_mourning_1: "@asoiaf_icon! Траурное платье Западных земель"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_reach_gown_1: "@asoiaf_icon! Платье из Простора"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_handmaiden_dress_1: "@asoiaf_icon! Платье служанки"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_handmaiden_dress_2: "@asoiaf_icon! Платье служанки Простора"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_tyrell_armour_dynast: "@asoiaf_icon! Доспехи Тирелла - богато украшенные"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_tyrell_armour_high: "@asoiaf_icon! Броня Тиррелов - Высокая"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_greyjoy_armour_dynast: "@asoiaf_icon! Доспех Грейджоев - Украшенный"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_greyjoy_armour_high: "@asoiaf_icon! Доспех Грейджоев - Высокий"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_ironborn_armour_dynast_coa: "@asoiaf_icon! Династические доспехи Железнорожденных - Украшенный"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_ironborn_armour_high_coa: "@asoiaf_icon! Династические доспехи Железнорожденных - Высокий"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_vale_baelish_tunic_1: "@asoiaf_icon! Туника Бейлиша"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_vale_baelish_tunic_1_sigil: "@asoiaf_icon! Туника Бейлиша - Пересмешник"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_nights_watch_leather: "@asoiaf_icon! Кожаная одежда Ночного дозора" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_maester_robes_black: "@asoiaf_icon! Мантия мейстера - Черная"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_maester_robes_tan: "@asoiaf_icon! Мантия Мейстера - Коричневая"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_maester_robes_brown: "@asoiaf_icon! Мантия Мейстера - коричневая"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_maester_robes_pale_blue: "@asoiaf_icon! Мантия Мейстера - Бледно-голубая"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_maester_robes_pale_green: "@asoiaf_icon! Мантия Мейстера - Бледно-зеленая"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_maester_robes_grey: "@asoiaf_icon! Мантия мейстера - Серая"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_septon_robes_1: "@asoiaf_icon! Одеяние септона - Скромное"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_septon_robes_2: "@asoiaf_icon! Одеяния септонов"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_drowned_man_robes_low: "@asoiaf_icon! Робы Утонувшего - Низкие"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_drowned_man_robes_high: "@asoiaf_icon! Робы Утонувшего - Высокие"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_septa_robes: "@asoiaf_icon! Робы Сестры"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_silent_sister_robes: "@asoiaf_icon! Молчаливые Сестры одеяния"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_stepstones_pirate_prince_tunic: "@asoiaf_icon! Туника Принца пиратов"
+  
+  #CLOAKS 
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_asoiaf_crownlands_gold_cloak_cloak: "@asoiaf_icon! Плащ Золотых Плащей"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloak_asoiaf_crownlands_gold_cloak_cloak: "@asoiaf_icon! Плащ Золотых Плащей"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_secular_asoiaf_lannister_war_plate_2_cloak: "@asoiaf_icon! Плащ Ланнистера Офицера"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_secular_asoiaf_kingsguard_default_cloak: "@asoiaf_icon! Плащ Королевской Гвардии"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_asoiaf_stormlands_stannis_cloak_1: "@asoiaf_icon! Плащ Станниса"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloak_asoiaf_stormlands_stannis_cloak_1: "@asoiaf_icon! Плащ Станниса"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_asoiaf_nights_watch_cloak_1: "@asoiaf_icon! Плащ Ночного Дозора"
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloak_asoiaf_nights_watch_cloak_1: "@asoiaf_icon! Плащ Ночного Дозора"
+  
+  #LEGWEAR 
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_crownlands_gold_cloak_legs: "@asoiaf_icon! Штаны Золотых Плащей"
+ PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_crownlands_gold_cloak_legs: "@asoiaf_icon! Штаны Золотых Плащей"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_asoiaf_kingsguard_default_legs: "@asoiaf_icon! Всаднические Сапоги"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_kingsguard_legs_1: "@asoiaf_icon! Сапоги Королевской Гвардии 1"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_kingsguard_legs_2: "@asoiaf_icon! Сапоги Королевской Гвардии 2"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_asoiaf_north_war_plate_legs: "@asoiaf_icon! Северные Пластинчатые Штаны"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_asoiaf_lannister_war_plate_2_legs: "@asoiaf_icon! Ботинки Ланнистера для Офицера"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_tyrell_legs: "@asoiaf_icon! Одежда для ног Тиреллов"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_greyjoy_legs: "@asoiaf_icon! Поножи Грейджоев"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_ironborn_legs_coa: "@asoiaf_icon! Династические поножи Железнорожденных"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_nights_watch_legs: "@asoiaf_icon! Сапоги Ночного дозора" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_slippers_1: "@asoiaf_icon! Тапочки"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_leather_boots_1: "@asoiaf_icon! Коричневые кожаные сапоги"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_leather_boots_2: "@asoiaf_icon! Высокие черные кожаные сапоги"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_leather_boots_3: "@asoiaf_icon! Короткие коричневые кожаные сапоги"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_leather_boots_4: "@asoiaf_icon! Тёмно-коричневые кожаные сапоги"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_leather_boots_5: "@asoiaf_icon! Черные кожаные ботинки на шнуровке" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_leather_boots_1: "@asoiaf_icon! Короткие кожаные сапоги"
+ PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_shoes_1: "@asoiaf_icon! Черные туфли"
+  
+  #JEWELLERY 
+ PORTRAIT_MODIFIER_custom_jewelry_female_jewellery_asoiaf_lion_necklace_gold: "@asoiaf_icon! Ожерелье со львом - Золотое"
+ PORTRAIT_MODIFIER_custom_jewelry_female_jewellery_asoiaf_lion_necklace_silver: "@asoiaf_icon! Ожерелье со львом - Серебряное"
+ PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_shark_tooth_necklace: "@asoiaf_icon! Ожерелье из акульих зубов"
+ PORTRAIT_MODIFIER_custom_jewelry_female_jewellery_asoiaf_shark_tooth_necklace: "@asoiaf_icon! Ожерелье из акульих зубов"
+ PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_septon_necklace_1: "@asoiaf_icon! Ожерелье Септона"
+ PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_maester_chain_1: "@asoiaf_icon! Цепь мейстера - Уровень 1"
+ PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_maester_chain_2: "@asoiaf_icon! Цепь мейстера - Уровень 2"
+ PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_maester_chain_3: "@asoiaf_icon! Цепь мейстера - Уровень 3"
+ PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_maester_chain_4: "@asoiaf_icon! Цепь мейстера - Уровень 4"
+ PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_maester_chain_5: "@asoiaf_icon! Цепь мейстера - Верховный мейстер"

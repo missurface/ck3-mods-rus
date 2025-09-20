@@ -1,0 +1,42 @@
+﻿l_russian:
+  
+ rule_dragon_flames: "#color_red More Dragon Events #! - Черты драконьего пламени."
+ setting_enable_dragon_flames: "Включено"
+ setting_enable_dragon_flames_desc: "Включить это - все #p НОВЫЕ #![dragons_plural|E] получат цвет пламени"
+ setting_disable_dragon_flames: "Выключено"
+ setting_disable_dragon_flames_desc: "Выключить это - #n НЕ #! получат [dragons_plural|E] получат цвет пламени"
+  
+ rule_dragon_trait_chance: "#color_red More Dragon Events#! - Шанс драконих черт."
+ setting_agot_main_chance: "Шанс от AGOT"
+ setting_agot_main_chance_desc: "Игра будет проходить в обычном режиме, что сделает черты #bold очень редкими.#!"
+ setting_enable_slighty_common: "Средне распространненые"
+ setting_enable_slighty_common_desc: "Игра сделает черты дракона #bold более распространнеными,#! драконы обычно имеют 1-2 черты."
+ setting_enable_alot_common: "Очень распространненые"
+ setting_enable_alot_common_desc: "Игра сделает черты дракона #bold очень распространнеными,#! драконы обычно имеют 2-4 черты."
+  
+ rule_mde_dragon_ride_cooldown: "#color_red More Dragon Events#! - Перезарядка 'Оседлать дракона'."
+ setting_ride_dragon_mde: "2 года"
+ setting_ride_dragon_mde_desc: "По умолчанию - More Dragon Events - перезарядка решения оседлать вашего [dragon|E]."
+ setting_ride_dragon_yearly: "1 год"
+ setting_ride_dragon_yearly_desc: "Решение оседлать [dragon|E] будет иметь годовую перезарядку."
+ setting_ride_dragon_five_years: "5 лет"
+ setting_ride_dragon_five_years_desc: "По умолчанию - основной AGOT - перезарядка решения оседлать [dragon|E]."
+  
+ #  #for comp 
+ #  setting_agot_dragon_trait_inheritance_full_desc: "Dragons will inherit parental congenital traits at a rate comparable to humans. #X This might cause issues with 'Dragons Expanded' submod.#!"
+ #  setting_agot_dragon_trait_inheritance_reduced_desc: "Dragons congenital trait inheritance is reduced to 75% of human default rate. #X This might cause issues with 'Dragons Expanded' submod.#!"
+ #  setting_agot_dragon_trait_inheritance_half_desc: "Dragons congenital trait inheritance is reduced to 50% of human default rate. #X This might cause issues with 'Dragons Expanded' submod.#!"
+  
+ dragon_aerodynamic.tt: "[GetTrait('dragon_aerodynamic').GetName( GetNullCharacter )]"
+ dragon_glowing_scales.tt: "[GetTrait('dragon_glowing_scales').GetName( GetNullCharacter )]"
+ dragon_withered_wings.tt: "[GetTrait('dragon_withered_wings').GetName( GetNullCharacter )]"
+ dragon_thin_scales.tt: "[GetTrait('dragon_thin_scales').GetName( GetNullCharacter )]"
+ dragon_thick_scales.tt: "[GetTrait('dragon_thick_scales').GetName( GetNullCharacter )]"
+ dragon_small_wingspan.tt: "[GetTrait('dragon_small_wingspan').GetName( GetNullCharacter )]"
+ dragon_large_wingspan.tt: "[GetTrait('dragon_large_wingspan').GetName( GetNullCharacter )]"
+ dragon_obtuse.tt: "[GetTrait('dragon_obtuse').GetName( GetNullCharacter )]"
+ dragon_agile.tt: "[GetTrait('dragon_agile').GetName( GetNullCharacter )]"
+ dragon_physique_good_4.tt: "[GetTrait('dragon_physique_good_4').GetName( GetNullCharacter )]"
+ dragon_physique_bad_4.tt: "[GetTrait('dragon_physique_bad_4').GetName( GetNullCharacter )]"
+  
+  

@@ -1,0 +1,23 @@
+﻿l_russian:
+ asoiaf_tell_jons_secret_interaction: "Рассказать секрет Джона"
+  
+ asoiaf_told_jons_secret_desc: "Рассказан секрет Джона"
+ asoiaf_told_jons_secret_tt: "Рассказал [recipient.GetFirstName] о тайном происхождении Джона"
+ asoiaf_learned_jons_secret_desc: "Узнал секрет Джона"
+ asoiaf_learned_jons_secret_tt: "Узнал о тайном происхождении Джона Сноу от [actor.GetName]"
+  
+ asoiaf_designate_heir_interaction: "Незаконно назначить наследника"
+ asoiaf_designate_heir_interaction_desc: "Выберите [recipient.GetShortUINameNoTooltip] в качестве вашего [designated_heir|E], несмотря на вашу низкую [crown_authority|E]\n@warning_icon! #X Это акт [tyranny|E], вызывающий потерю [opinion|E] ваших подданных#!"
+  
+ asoiaf_dismiss_kingsguard_interaction: "Уволить члена Королевской гвардии"
+ asoiaf_dismiss_kingsguard_interaction_desc: "Принудительно уволить сэра [recipient.GetFirstNameNoTooltip] из [kingsguard|E]\n@warning_icon! #X Это акт [tyranny|E], вызывающий потерю [opinion|E] ваших подданных/вассалов#!"
+ asoiaf_is_in_entrenched_regency: "Вы находитесь в укрепленном [regency|E]"
+ asoiaf_recipient_is_lord_commander_of_the_kingsguard: "[recipient.GetShortUINameNoTooltip] — лорд-командующий [kingsguard|E]"
+ asoiaf_kingsguard_dismissal_notification: "Принудительное увольнение из Королевской гвардии"
+ asoiaf_kingsguard_dismissal_notification_desc: "[asoiaf_dismissing_monarch.GetTitledFirstNameNoTooltip] принудительно уволил сэра [recipient.GetFirstNameNoTooltip] из Королевской гвардии"
+  
+ asoiaf_force_spouse_heir_designation_interaction: "Заставить супруга назначить вас наследником"
+ asoiaf_force_spouse_heir_designation_interaction_desc: "Заставить [recipient.GetShortUINameNoTooltip] объявить вас [recipient.GetHerHis] [designated_heir|E]\n@warning_icon! #X Это злоупотребление властью и вызовет [strife|E] с вашими [vassals|E]#!"
+ asoiaf_is_sadistic_or_torturer: "У вас #bold нет#! черт #V Sadistic#! или #V Torturer#!"
+ asoiaf_spouse_is_in_dungeon: "[recipient.GetShortUINameNoTooltip] #bold не#! находится в тюрьме типа: #V Dungeon#!"
+ asoiaf_spouse_has_been_tortured: "[recipient.GetShortUINamePossessiveNoTooltip] #bold не#! был сломлен через #V torture#!"

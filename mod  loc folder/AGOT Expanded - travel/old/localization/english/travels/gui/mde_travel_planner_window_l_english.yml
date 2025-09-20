@@ -1,0 +1,140 @@
+﻿l_english:
+
+ # mde travel
+
+ TRAVEL_POINT_OF_INTEREST_TT_mde_poi_new: "[PROVINCE.Custom('MdeCastleName')]"
+
+
+ mde_poi_new_tt: "Will trigger a Sight-Seeing Event"
+ TRAVEL_POINT_OF_INTEREST_TT_mde_poi_dragonspots: "Site of Draconic Significance"
+ mde_poi_dragonspots_tt: "Will trigger a Dragonlore Event"
+
+ TRAVEL_POINT_OF_INTEREST_TT_mde_poi_dragonspots_minor: "[PROVINCE.Custom('MdeHistoricalDragons')]"
+
+ TRAVEL_POINT_OF_INTEREST_TT_mde_poi_historical_battle: "Site of the [PROVINCE.Custom('MdeHistoricalBattle')]"
+ mde_poi_historical_battle.visit: "Visited the location of the [province.Custom('MdeHistoricalBattle')]"
+ mde_poi_historical_battle.visit.tt: "[province.Custom('MdeHistoricalBattleDesc')]"
+ 
+ mde_poi_dragonspots_minor.visit: "Visited the location of the [province.Custom('MdeHistoricalDragons')]"
+ mde_poi_dragonspots_minor.visit.tt: "[province.Custom('MdeHistoricalDragonsDesc')]"
+
+
+ #battles
+
+ historical_battle_of_the_gullet: "Battle of the Gullet"
+ historical_battle_of_the_gullet_desc: "During the Dance of the Dragons, the Triarchy was convinced to support the Greens. Resulting in the bloodiest sea battle between the Velaryons and Free Cities."
+
+ historical_battle_at_rooks_rest: "Battle at Rook's Rest"
+ historical_battle_at_rooks_rest_desc: "If you talk to the Smallfolk, you will hear a tale of three demons in the sky and the ground afire. Others would call it the Battle of Rook’s Rest, where the blood red dragon Meleys fell from the sky."
+
+ historical_battle_at_long_lake: "Battle at Long Lake"
+ historical_battle_at_long_lake_desc: "The cunning wildling Raymun Redbeard managed to elude the Night’s Watch and led a host beyond the Wall. It would be up to the Starks to intercept and slay this so-called ‘King-Beyond-the-Wall’."
+
+ historical_battle_ninepenny_stepstones: "Monstrous End"
+ historical_battle_ninepenny_stepstones_desc: "The firth and hopefully final Blackfyre Rebellion met its end on these shores, when a Targaryen host landed here. A young Barristan Selmy would slay Maelys the Monstrous, who was the last male Blackfyre."
+
+ historical_battle_of_six_kings: "Battle of Six Kings"
+ historical_battle_of_six_kings_desc: "Legend says that the Storm Kings crashed into rivers and killed the five kings trying to rule the mud. All of it happened in between these lovely pairs of hills."
+
+ historical_battle_at_the_great_fork: "Battle at the Great Fork"
+ historical_battle_at_the_great_fork_desc: "The battle marked the slow downhill tumble that was the Faith Militant: After Balerion descended on the Faith's host, the Faith would never field a large army again, and would eventually be dissolved by the Conciliator."
+
+ historical_battle_storming_of_seagard: "Storming of Seagard"
+ historical_battle_storming_of_seagard_desc: "With the victory at Lannisport, the rebellious Greyjoy’s would attack Seagard. With King Balon’s young son Rodrik leading the charge. But the Kraken failed to pull the Eagle down, and with a son dead retreated."
+
+ historical_battle_at_lordsport: "Battle at Lordsport"
+ historical_battle_at_lordsport_desc: "The Battle at Lordsport marked the beginning of the end for the Greyjoy’s Rebellion, the Stag washed ashore with an intense fury. The aftermath would leave numerous ships wrecked on the beaches, and port in ruin."
+
+#  historical_battle_meraxes_fall: "Meraxes’s Fall"
+#  historical_battle_meraxes_fall_desc: "Aegon the Conqueror's first real taste of rule was hearing the news of the death of Rhaenys and Meraxes. An iron bolt went through Meraxes’s eye, and the dragon fell from the skies. Some even suggest the beast's bones can still be found."
+
+ #rhoyne
+#  historical_battle_valyrian_chase: "Valyria’s Chase"
+#  historical_battle_valyrian_chase_desc: "When the Valyrian Dragon’s first descended on the Rhoynish, the river folk was caught unaware, and chased all the way to Choyan Drohe. The dragon’s would burn the great city to ruins. Yet the Rhoynish managed to hold the line."
+
+#  historical_battle_qarlon_wish: "Qarlon’s Final Wish"
+#  historical_battle_qarlon_wish_desc: "When Qarlon the Great marched south from Lorath, and attempted to expand his domain. The Free City of Norvos appealed to Valyria for aid. Caught unaware, the Andel king and his host were set afire, those lucky enough to survive was enslaved."
+
+#  historical_battle_scouring_of_lorath: "Scouring of Lorath"
+#  historical_battle_scouring_of_lorath_desc: "Before the Valyrian Free City of Lorath, the Andels ruled the islands. In an attempt to expand his rule, he angered the wrath of the Dragon Lords. After his fall, the Dragons turned to the islands, where no Andel was left alive."
+
+
+
+ #lairs
+ historical_battle_arrax_corpse: "Arrax's Fall"
+ historical_battle_arrax_corpse_desc: "Smallfolk in the nearby towns have erected an altar on the nearby shoreline, made of driftwood, bones and burnt rocks; the altar is dedicated to a prince and his dragon."
+
+ historical_battle_balerions_lair: "R'hllor's Wrath"
+ historical_battle_balerions_lair_desc: "During Maegor the Cruel exiled to Pentos, he would let Balerion roam free in Essos. Letting the dragon eat and play with whatever it wanted. Now, some in Essos refer to this time period as R’hllors Wrath, as the black ‘demon’ would one day burn your town and never return."
+
+ historical_battle_caraxes_lair: "Caraxes' Rest"
+ historical_battle_caraxes_lair_desc: "While not busy burning and eating entire islands in the Stepstones, Caraxes produced a large den. Still noticeable today for its endless bones and rusted treasures."
+
+ historical_battle_dreamfyre_lair: "Dreamfyre's Fair Visit"
+ historical_battle_dreamfyre_lair_desc: "For a short while, not once, but twice, the Smallfolk of Fair Isle hosted Dreamfyre and her princess. The dragon was famed for laying an endless amount of eggs, and local legends tell of trading livestock for a dragon egg."
+
+ historical_battle_morning_lair: "Morning's Lair"
+ historical_battle_morning_lair_desc: "The Giant’s Lance is the tallest mountain peak in the Vale. The Smallfolk tell a tale of a dragon living deep within its forgotten caves. Yet it is safe to presume it is dead."
+
+ historical_battle_tessarion_lair: "Tessarion’s Small Lair"
+ historical_battle_tessarion_lair_desc: "While the magnificent blue dragon Tessarion only lived near Old Town for a short while, the dragon made its mark by building a small lair on top of a hill."
+
+ historical_battle_urrax_lair: "Forgotten Lair of Urrax"
+ historical_battle_urrax_lair_desc: "Lords and Smallfolk both tell tales of Urrax’s death by Serwyn of the Mirror Shield, and some even tell of a large mountain cave sprouting with bones."
+
+
+
+ #castles
+
+ TRAVEL_POINT_OF_INTEREST_TT_mde_poi_castle_martial: "[PROVINCE.Custom('MdeCastleName')]"
+ TRAVEL_POINT_OF_INTEREST_TT_mde_poi_castle_stewardship: "[PROVINCE.Custom('MdeCastleName')]"
+ TRAVEL_POINT_OF_INTEREST_TT_mde_poi_castle_learning: "[PROVINCE.Custom('MdeCastleName')]"
+
+ mde_poi_notable_castle_visit: "Visited [province.Custom('MdeCastleName')]"
+ mde_poi_notable_castle_visit.tt: "[province.Custom('MdeCastleDesc')]"
+
+ 
+
+ lakehaven_name: "Lakehaven is a minor castle located near the shores of 'God's Eye', it suits as the perfect place to explore the lake."
+ quiet_isle_name: "The Quiet Isle is an Island at the mouth of the Tridnet, the island's inhabitants are male penitents seeking atonement."
+ 
+ ten_towers_name: "Ten Towers"
+ ten_towers_desc: "While each Tower in Ten Towers has a different shape and look, one can still get lost in the endless stairs, halls, wall walks and bridges. Yet it’s a perfect opportunity to reflect on construction."
+ glimmering_tower_name: "Tower of Glimmering"
+ glimmering_tower_desc: "While other islands and mainlanders have need of lighthouses, the Tower of Glimmering is itself a lighthouse and tower, the tower's oily blackstone reflects both moonlight and sunlight in a huge radius."
+ wolfswood_name: "The Heart of Wolfswood"
+ wolfswood_desc: "No sleep is found within the center of the Wolfswood, every night rings out with endless howling. The woods are known for being inhabited by a large number of animals, including bears, boars, treecats, elks and so on."
+ orkmont_tt_name: "Home of Greyiron and Hoare."
+ orkmont_tt_desc: "Orkmont is not the most populated, nor the richest of the Iron Islands, but it is rich in lore and mines. Every inhabitant will boast about being a bastard of a Greyiron or a Hoare king."
+ queenscrown_tt_name: "Queenscrown"
+ queenscrown_tt_desc: "The tower of Queenscrown is located on an island in the center of a lake, known for once hosting a Queen, it is now hosting dust and spiders."
+ harrenhal_tourney_name: "Tourney at Harrenhal"
+ harrenhal_tourney_desc: "Lord Whent’s great tournament was held in the year 281 during the ‘false spring’, called the greatest tourney of its time. Most houses in Westeros have a tale to tell about it."
+ jeyne_burning_name: "Burning of Jeyne Poore"
+ jeyne_burning_desc: "During Maegor the Cruel endless hunting of the faithful, a young captain of the Poor Fellows would elude Maegor for years, yet she would eventually be caught and declared a witch."
+ viserys_birth_name: "Viserys’s Birth"
+ viserys_birth_desc: "Also known as Tournament in honor of Viserys's birth, as a grand tournament to honor the birth of the last dragon prince in Westeros. Now remembered for thunderous cheers, ruined friendships, and witches in the woods."
+ golden_wedding_name: "Golden Wedding"
+ golden_wedding_desc: "On the seventh day of the seventh moon, a dowager Seahorse queen would marry a Stag. The celebration is known as the Golden Wedding to Smallfolk and Maesters alike, and it is remembered for its grand tournament and endless dragons in the sky."
+ pentos_dragon_road_name: "End of the Dragon Road"
+ pentos_dragon_road_desc: "The Dragon road’s most western point ends at the gates of Pentos. Here, one can begin their path on the long, wide and endless black oily road towards the east."
+
+ #rhoyne 
+#  explusion_hairy_men_name: "Expulsion of the Hairy Men"
+#  explusion_hairy_men_desc: "Before the times of the free cities, the Rhoyne was ruled by the Rhoynar. To cement their rule, a Thoynish prince ‘Garris the Grey’ drove the Hairy Men further east."
+
+#  crab_king_name: "Home of the Crab King"
+#  crab_king_desc: "The Grab king is a lesser god of the Rhoynar, set to be the adversary of the Old Men of the River. They are within an endless struggle for the dominance of the river. Yet the Grab King's children can only be found in the lower parts of the Rhoyne."
+
+#  birth_of_rhoyne_name: "Birth of Mother Rhoyne"
+#  birth_of_rhoyne_desc: "On these high mountains and hills, the water feeds into the Rhoyne and gives endless water to the largest river on Essos. Some still make pilgrims to where the river begins."
+
+#  old_men_of_rhoyne_name: "Old Men of the River"
+#  old_men_of_rhoyne_desc: "Sacred to the Rhoynar, the Old Men of the River are a species of gigantic turtles living and breeding in the upper river. This location serves as a perfect place to find and study them."
+
+#  garin_curse_name: "Garin’s Curse"
+#  garin_curse_desc: "After Garin’s defeat in the Second Spice War, the Valyrians would hang Garin the Great in a golden cage high above Chroyane. One night Garin called for Mother Rhoyne, and his prayer was answered, bringing down the enemy and the lost city."
+
+
+
+

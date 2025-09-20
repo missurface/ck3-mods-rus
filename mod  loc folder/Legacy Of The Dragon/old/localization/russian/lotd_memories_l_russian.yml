@@ -1,0 +1,37 @@
+﻿l_russian:
+ read_aegon_prophecy_confirm: "Прочитать пророчество"
+ read_prophecy_desc: "Мной прочитано пророчество, скрытое в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive]"
+ read_prophecy_desc_second_perspective: "Вы прочитали пророчество, скрытое в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive]"
+ read_prophecy_desc_third_perspective: "[owner.GetName] [Select_CString(owner.IsFemale, 'прочитала', 'прочитал' )] пророчество, скрытое в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive]"
+  
+ read_prophecy_to_heir_desc: "[heir.GetName] [Select_CString(heir.IsFemale, 'узнала', 'узнал' )] от меня о пророчестве, скрытом в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive]"
+ read_prophecy_to_heir_desc_second_perspective: "[heir.GetName] [Select_CString(heir.IsFemale, 'узнала', 'узнал' )] от вас о пророчестве, скрытом в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive]"
+ read_prophecy_desc_to_heir_third_perspective: "[heir.GetName] [Select_CString(heir.IsFemale, 'узнала', 'узнал' )]узнал о пророчестве, скрытом в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive], от [owner.GetName]"
+  
+ inherit_prophecy_desc: "Я [Select_CString(owner.IsFemale, 'узнала', 'узнал' )] о пророчестве, скрытом в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive] от [daggerOwner.GetName]"
+ inherit_prophecy_desc_second_perspective: "Вы узнали о пророчестве, скрытом в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive], от [daggerOwner.GetName]"
+ inherit_prophecy_desc_third_perspective: "[owner.GetName] [Select_CString(owner.IsFemale, 'узнала', 'узнал' )] о пророчестве, скрытом в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive] от [daggerOwner.GetName]"
+  
+ discover_prophecy_desc: "Мной вновь открыто пророчество, скрытое в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive]"
+ discover_prophecy_desc_second_perspective: "Вы вновь открыли пророчество, скрытое в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive]"
+ discover_prophecy_desc_third_perspective: "[owner.GetName] вновь [Select_CString(owner.IsFemale, 'открыла', 'открыл' )] пророчество, скрытое в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive]"
+  
+  
+ read_prophecy: "Прочитать пророчество"
+ discover_prophecy: "Вновь открыть пророчество"
+  
+ inherit_prophecy: "Передать пророчество"
+ read_prophecy_to_heir: "Передать пророчество наследнику"
+  
+ buy_rubies_desc: "Я [Select_CString(owner.IsFemale, 'выкупила', 'выкупил' )] рубины из моей короны."
+ buy_rubies_desc_second_perspective: "Вы выкупили рубины из вашей короны"
+ buy_rubies_desc_third_perspective: "[owner.GetName] [Select_CString(owner.IsFemale, 'выкупила', 'выкупил' )] рубины из [owner.GetHerHis] короны"
+  
+  
+ sold_rubies_desc: "Я [Select_CString(owner.IsFemale, 'продала', 'продал' )] рубины из моей короне за золото."
+ sold_rubies_desc_second_perspective: "Вы продали рубины из вашей короны за золото"
+ sold_rubies_desc_third_perspective: "[owner.GetName] [Select_CString(owner.IsFemale, 'продала', 'продал' )] рубины из [owner.GetHerHis] короны за золото"
+  
+  
+ buy_rubies: "Выкупленные рубины короны"
+ sold_rubies: "Проданные рубины короны"

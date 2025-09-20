@@ -1,0 +1,5 @@
+﻿l_russian:
+ sdv_mdd_events.001.t: "Смерть драконов"
+ sdv_mdd_events.001.desc: "Драконы с начала времён несли лишь #XB Пламя и Кровь#!, возможно, пора положить этому конец?"
+ sdv_mdd_events.001.a: "Пусть умрут в #XB Пламени и Крови#! @icon_dragon_combat_effectiveness!"
+ sdv_mdd_events.001.b: "Нет!! Пусть живут!!"

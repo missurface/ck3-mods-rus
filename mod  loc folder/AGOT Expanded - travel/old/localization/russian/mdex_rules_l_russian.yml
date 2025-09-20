@@ -1,0 +1,7 @@
+﻿l_russian:
+  
+ rule_mde_modcanon_travel: "#color_red Расширенные путешествия #! - Локации AGOT."
+ setting_enable_modcanon_travel: "Включить"
+ setting_enable_modcanon_travel_desc: "Будут добавлены несколько небольших локаций AGOT - как из сериала, так и другие малоизвестные события вселенной."
+ setting_disable_modcanon_travel: "Отключить"
+ setting_disable_modcanon_travel_desc: "Локации AGOT появляться не будут - доступны только места, упомянутые в книжном каноне."

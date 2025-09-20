@@ -1,0 +1,7 @@
+﻿l_russian:
+ dismantle_pretender_cb: "Dismantle Valyrian Pretender" #NT!
+ DISMANTLE_PRETENDER_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][ATTACKER.GetShortUINameNotMe][DEFENDER.GetPrimaryTitle.GetBaseName]" #NT!
+ DISMANTLE_PRETENDER_WAR_NAME: "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] Coalition War to Dismantle [DEFENDER.GetPrimaryTitle.GetBaseName]" #NT!
+ DISMANTLE_PRETENDER_CB_NAME: "[ATTACKER.GetShortUINamePossessive|U] War" #NT!
+ dismantle_pretender_cb_victory_desc: "The [war.GetName] has ended: The pretender empire of [defender.GetShortUIName] has been dissolved." #NT!
+ dismantle_pretender_cb_defeat_desc: "The [war.GetName] has ended: The coalition of [attacker.GetShortUIName] against [defender.GetPrimaryTitle.GetBaseName] has been dissolved." #NT!

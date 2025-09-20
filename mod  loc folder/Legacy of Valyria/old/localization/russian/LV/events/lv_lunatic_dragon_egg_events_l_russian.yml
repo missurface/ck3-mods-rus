@@ -1,0 +1,36 @@
+﻿l_russian:
+ decision_cook_dragon_egg.t: "Cook your Dragon Egg" #NT!
+ decision_cook_dragon_egg_desc: "Nobody has ever cooked a dragon egg before, I wonder what it would taste like..." #NT!
+ decision_cook_dragon_egg_confirm: "This egg will taste divine!" #NT!
+ decision_cook_dragon_egg_tooltip: "Cook your dragon egg and make the world's best omlette!" #NT!
+  
+ cook_egg_decision_tt: "You shall light a massive bonfire to cook your egg" #NT!
+ character_is_a_lunatic: "You are a lunatic" #NT!
+ character_has_a_dragon_egg_to_cook: "You have a [dragon|E] egg to cook" #NT!
+  
+ lunatic_cook_dragon_egg.001.t: "Cooking the Egg!" #NT!
+  
+ lunatic_cook_dragon_egg.001.intro: "Your dragon egg lays there, invitingly. No man has ever tasted a dragon egg before. You wonder what it tastes like as you pick up your egg and carry it out into the courtyard. A pot of hot oil lies ready and boiling. As you pick up your dragon egg for the final time, a thought bursts through your mind:\n\n" #NT!
+ lunatic_cook_dragon_egg.001.gluttonous.desc: "What will it taste like?" #NT!
+ lunatic_cook_dragon_egg.001.dragonslayer.desc: "I slew a dragon, now I shall taste one." #NT!
+ lunatic_cook_dragon_egg.001.just_lunatic.desc: "I shall be the first to taste a dragon egg!" #NT!
+ lunatic_cook_dragon_egg.001.end: "\n\nBefore you can place the egg into the boiling pot, a voice emerges behind you '[ROOT.Char.GetFirstName], stop this at once! That is a [dragon|E] egg!'. You turn around, only to see [protesting_courtier.GetFirstName] rushing towards you, [protesting_courtier.GetHerHisMy] eyes pleading." #NT!
+  
+ lunatic_cook_dragon_egg.001.a: "Drop the Egg into the pot" #NT!
+ lunatic_cook_dragon_egg.001.b: "Step back from the pot" #NT!
+  
+ lunatic_cook_dragon_egg.002.t: "The Egg Explodes!" #NT!
+ lunatic_cook_dragon_egg.002.intro: "[protesting_courtier.GetFirstName] watches in horror as you drop the egg into the pot. The boiling oil seems to burn more violently and the egg begins to crack. You smile, anticipating a delicious meal.\n\nInstead, as the egg cracks, a massive green fireball surges towards you with incredible speed..." #NT!
+  
+ lunatic_cook_dragon_egg.0002.a: "Aaaargh!" #NT!
+  
+ mass_coutier_death: "Every courtier and guest dies as the settlement is obliterated" #NT!
+  
+ lunatic_cook_dragon_egg.003.t: "A Dragon hatches" #NT!
+ lunatic_cook_dragon_egg.003.desc: "[protesting_courtier.GetFirstName] watches in horror as you drop the egg into the pot. The boiling oil seems to burn more violently and the egg begins to crack. You smile, anticipating a delicious meal. But then, your expectations are shattered as you spot tiny flapping wings. A dragon enters the world!" #NT!
+ lunatic_cook_dragon_egg.0003.a: "My delicious meal..." #NT!
+  
+ hatched_dragon_via_cooking_notification: "[ROOT.Char.GetName] hatched [dragon.GetName] by attempting to cook it!" #NT!
+  
+ lunatic_cook_dragon_egg.0004.t: "The Egg Hatches!" #NT!
+ lunatic_cook_dragon_egg.0004.desc: "I feel strange as the scene unfolds before me. My egg has hatched and a dragon has crawled from the ruins of its shell.\n\nWhat ever possessed me to want to kill a magnificent beast? I can already feel overwhelming the bond that we share, and how they will be with me until the end of my days. Though I cannot yet say what their sex is, they are still in need of a name that history will never forget.\n\nWhat should I call them?" #NT!

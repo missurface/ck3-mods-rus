@@ -1,0 +1,86 @@
+﻿l_english:
+
+
+
+
+ mde_dragonstone.0001.t: "Dragonstone"
+ mde_dragonstone.0001.desc: "Before me sits the ancient rock of Dragonstone, a truly grim island, as dark and mysterious as the tales say. Quiet too, even for an island centered in the mouth of the Blackwater Rush. Activity is sparse, and villages are few.\n\nThe black smoke from the Dragonmont could be seen days before we arrived. That awful, smooth blackstone; or #bold dragonstone#!, rose into view as soon as the island itself came into sight.\n\nEven now, the dragons are visible - #italic stone dragons#!, to be true. Yet likely just as bleak as the dragons of old. They sit, endless and everywhere across the island, staring down at helpless smallfolk, petty lords... and now, me."
+ mde_dragonstone.0001.alive.desc: "Before me sits the ancient rock of Dragonstone, a truly grim island, as dark and mysterious as the tales say. Endless activity streams around the island, fishing boats, galleys, and sparse villages come into view.\n\nThe black smoke from the Dragonmont could be seen days before we arrived. That awful, smooth blackstone; or #bold dragonstone#!, rose into view as soon as the island itself came into sight.\n\nWhile the walls are lined with stone dragons, I’m sure if I stay here long enough, I would see a living dragon fly by. "
+ mde_dragonstone.0001.a: "Visit Aegon's Garden."
+ mde_dragonstone.0001.a.f: "A small garden to be truth, but fair, and full of pines, flowers and other flora, within it is endless black statues of dragons and dragon people. Perhaps you'll find peace here, or other lost items..."
+ mde_dragonstone.0001.b: "Visit the Dragonmont."
+ mde_dragonstone.0001.b.f: "The active volcano of old, fiece, loud and always showing in the skies. Paths still lead down into it, a vast hatchery and endless lairs of legendary beasts. Perhaps you'll get lost, or perhaps you'll find something long forgotten."
+ mde_dragonstone.0001.c: "Sail past."
+ mde_dragonstone.0001.d: "The Dungeons"
+ mde_dragonstone.0001.d.f: "Old and grim, flithy and forgotten, the dungeons have nothing but old bones and thin rats. Perhaps you'll humble yourself here, or..."
+#  mde_dragonstone.0001.e: ""
+#  mde_dragonstone.0001.e.f: ""
+
+
+ mde_dragonstone.0001.another: "Visit another place."
+
+ #dungeons
+ mde_dragonstone.0011.t: "The Dungeons"
+ mde_dragonstone.0011.desc: "#italic Down and down#! I go, endlessly descending the black, grim stairs. The only light is the flickering torch in my hand.\n\nI had asked the castellan of the keep to guide me to the famed cells beneath Dragonstone. Yet by the time we reach the bottom, sweat clings to my brow, not only from the long descent, but from the very walls themselves, which #strong_glow radiate#! a faint, unnatural warmth to the touch.\n\nBefore me lies a row of windowless, narrow cells, both filthy and damp, carved straight from the volcanic rock. Here, men have rotted in silence since before the Doom of Valyria. Dying slow deaths in the dark.#!"
+ mde_dragonstone.0011.a: "Even dungeons have secrets."
+ mde_dragonstone.0011.b: "Why did I come here? Lets go back."
+
+ mde_dragonstone.0012.desc: "Walking along the dark cells yields nothing. Each is as wretched and lifeless as the next…\n\nWhat did I think I would find here? #bold A dragon egg?#! In a #italic prison cell?#! Foolish. I have places to be! Yet here I am, pacing through the bowels of a forgotten dungeon.\n\nAt last, after trudging from one end to the other, I call it quits. I turn back, dragging my feet up the stairs, having gained nothing but sweat, dust, and a few more worries to carry with me."
+ mde_dragonstone.0012.a: "#italic “What a waste of time!”#!"
+
+ mde_dragonstone.0013.desc: "Walking along the dark cells yields nothing. Each is as wretched and lifeless as the next…\n\nWhat did I think I would find here? #bold A dragon egg?#! In a #italic prison cell?#! Foolish. I have places to be! Yet here I am, pacing through the bowels of a forgotten dungeon.\n\nA sudden skitter breaks the silence, a rat darting across the floor. I flinch, stumbling backward and catching myself against the wall. But the stone gives way. It loosens beneath my touch and tumbles down, crashing onto my foot with a dull thud.\n\nWhere the brick once sat, the torchlight dances against something buried deeper in the wall… cold, shaped, and unmistakably metal."
+ mde_dragonstone.0013.a: "#italic “It can’t be….”#!"
+
+ #garden
+
+ mde_dragonstone.0021.t: "Aegon's Garden"
+ mde_dragonstone.0021.desc: "The castellan of the keep has sent me down a seemingly endless spiral of staircases, the black walls flowing with a pattern like dragon scales.\n\nAs I emerge, a sharp scent of pine strikes me. Towering dark trees; taller than ship masts, surround me on all sides. Beneath them, wild thorny hedges creep, roses bloom sweetly, and between the tangled flora lurks that same smooth black stone, like an unavoidable shadow.\n\nBehind me stands the Dragon’s Tail from which I exited, and the natural blackrock of the volcano. Now I ask myself, why did I come here?"
+ mde_dragonstone.0021.a: "Go for a walk." 
+ mde_dragonstone.0021.b: "Find a place to sit and reflect."
+
+ mde_dragonstone.0022.desc: "Walking among the wild bushes and the shadows of towering pine trees, I find peace.\n\nIf a man once known as #italic the Conqueror#! could rest here, then surely anyone could. No issue, no worry, no burden could be too great. Not compared to those of the past.\n\nEven if just for a short while, I’ve calmed down. And now, I’m ready to continue my journey."
+ mde_dragonstone.0022.a: "Return to the ship."
+
+ mde_dragonstone.0023.desc: "On my walk, I find endless bushes, towering pine trees, and flowers beyond count. I had hoped to find peace, instead every new turn captures my interest.\n\nBetween the lush flora, blackstone juts out like a cruel pox upon a child.\n\nIt is while I’m observing and reflecting on the blackstone benches, vases, and statues that I notice a glimmer, half-hidden behind something, deep within a thorny bush."
+ mde_dragonstone.0023.a: "Take it."
+ mde_dragonstone.0023.b: "Return to the ship."
+
+ mde_dragonstone.0024.desc: "Within the gardens, I find a bench made of pure, black, oily stone. It feels stronger than anything I’ve ever touched, and it’s unyielding, untouched by time. No cracks, no wear. Only the slow creep of vines at its base, and the droppings of birds upon its surface.\n\nI look up at the rustling pine trees, watching a light breeze weave through their branches. Even with dead stone dragons and lifeless stone figures all around me, I find peace. And with that, I prepare to continue my journey."
+ mde_dragonstone.0024.a: "Return to the ship."
+
+ mde_dragonstone.0025.desc: "Within the gardens, I find a bench made of pure, black, oily stone. It feels stronger than anything I’ve ever touched, and it’s unyielding, untouched by time. No cracks, no wear. Only the slow creep of vines at its base, and the droppings of birds upon its surface.\n\nAs I look around, I notice blackstone jutting out behind every bush and tree, like a cruel pox on a young child. Yet just then, an unexpected glimmer catches my eye from across the path.\n\nCurious, I step closer to investigate the source…"
+ mde_dragonstone.0025.a: "Take it."
+ mde_dragonstone.0025.b: "Return to the ship."
+
+ #dragonmont
+
+ mde_dragonstone.0031.t: "The Dragonmont"
+ mde_dragonstone.0031.desc: "The castellan of Dragonstone understood my wishes when I asked to see the Dragonmont. I am not here merely for the volcanic rock above, but for the vast, ancient tunnels that wind endlessly beneath it. Where hot steam seeps from cracks in the walls, and veins of dragonglass run along all four sides.\n\nYet as we walk in the dark, guided only by the faint glow of a single torch, I am left with another decision: should I visit the dragon hatcheries, or venture deeper, into the ancient lairs?"
+ mde_dragonstone.0031.a: "Hatchery." 
+ mde_dragonstone.0031.b: "Lairs."
+
+ mde_dragonstone.0032.desc: "The sheer size of the place stuns me. The light of the flames barely reaches the top of the caves. I feel like an insect intruding in someone else’s home.\n\n And as I turn a corner, I enter what must be the hatcheries. A vast chamber, still lit after all these years, surrounds me. Ancient Valyrian carvings catch my eye, depicting what seems to be techniques to nurture and hatch dragon eggs.\n\nWhen I finally leave, I carry with me a sense of quiet awe, and a feeling that I now understand just a little more of the dragon mysteries."
+ mde_dragonstone.0032.a: "Return to the ship."
+
+ mde_dragonstone.0033.desc: "The sheer size of the place stuns me. The light of the flames barely reaches the top of the caves. I feel like an insect intruding in someone else’s home.\n\n And as I turn a corner, I enter what must be the hatcheries. A vast chamber, still lit after all these years, surrounds me. Ancient Valyrian carvings catch my eye, depicting what seems to be techniques to nurture and hatch dragon eggs.\n\nInspecting the carvings closer, my eyes come to a stone dragonkeeper, hands outstretched. Resting within his palms is a scaly stone. As I reach out and touch it, a faint heat pulses beneath my fingers. This is no #italic #bold mere#!#! carving! It must be a real Dragon egg!"
+ mde_dragonstone.0033.a: "Pry it out."
+ mde_dragonstone.0033.b: "Leave it be."
+ mde_dragonstone.0033.custom: "You gain #high one#! dragon egg."
+
+
+ mde_dragonstone.0034.desc: "I find myself wandering through endless tunnels, feeling like an intruding insect in someone else’s long-abandoned home. I’m beyond thankful for the local guide, who walks beside me in silence.\n\nYet as we walk, I struggle to comprehend the sheer size of these lairs. Dragons lived here for centuries. And now, here I am. The dragons may be gone forever, but this place remains.\n\nObsidian juts out from the walls like broken glass. Old claw marks scar the stone. The flame from my torch flickers upward, barely reaching the cavern’s vaulted heights.\n\nWhen I finally leave, I carry with me a little more understanding of the old dragon mysteries."
+ mde_dragonstone.0034.a: "Return to the ship."
+
+ mde_dragonstone.0035.desc: "I find myself wandering through endless tunnels, feeling like an intruding insect in someone else’s long-abandoned home. I’m beyond thankful for the local guide, who walks beside me in silence.\n\nYet as we walk, I struggle to comprehend the sheer size of these lairs. Dragons lived here for centuries. And now, here I am. The dragons may be gone forever, but this place remains.\n\nMy guide walks with the ease of someone who’s passed through these halls a thousand times. Yet every detail pulls at my attention - until suddenly, I stop…\n\nBefore me lie three small mounds, barely visible in the dim light. I kneel and place my hands upon them. A faint warmth pulses beneath my fingertips.\n\nDigging, clawing, kicking at the edges. I pry the stone loose, and I see it, scales, unmistakeable, glinting in the torchlight."
+ mde_dragonstone.0035.a: "Dragon eggs..."
+ mde_dragonstone.0035.b: "I should leave them be..."
+ mde_dragonstone.0035.custom: "You gain 3 dragon eggs."
+ 
+ mde_dragonstone.0036.desc: "I find myself wandering through endless tunnels, feeling like an intruding insect in someone else’s long-abandoned home. I’m beyond thankful for the local guide, who walks beside me in silence.\n\nYet as we walk, I struggle to comprehend the sheer size of these lairs. Dragons lived here for centuries. And now, here I am. The dragons may be gone forever, but this place remains.\n\nAs we descend deeper into the tunnels, my mind begins to blur. Thoughts dissolve into streaks of torchlight and jagged stone. My legs feel heavier than stone, I stagger forward…"
+ mde_dragonstone.0036.a: "Sit down... Just for a bit..."
+ mde_dragonstone.0036.b: "Slap yourself, focus, move ahead."
+
+ mde_dragonstone.0037.desc: "#high With my immense feet, I stomp out of the cave, and just like that, I soar. My arms take me down the mountain, across the skies, and above the water.\n\n#X Fire#! rules me, and my  #X blood#! runs thick with heat. With just a few flaps, I cross the Narrow Sea. I spy the old Valyrian roads below, as straight as my aim.\n\nThe wind rushes past my scales as the clouds begin to darken. And then it hits me: the doom, the end, the fall of true civilization.\n\nMountains #italic erupt#!, spewing lava, ash, and rock in every direction. Dragons tumble from the sky, and all progress is lost.\n\n#italic Valyria…#!#!"
+ mde_dragonstone.0037.a: "My dreams, what do they mean?"
+
+

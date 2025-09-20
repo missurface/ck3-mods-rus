@@ -1,0 +1,12 @@
+﻿l_russian:
+ cm_dragonpit.0001: "Драконий Пит Построен" #NT!
+ cm_dragonpit.0001.t: "Драконий Пит Построен" #NT!
+ cm_dragonpit.0001.desc: "Драконий Пит возведён на фундаменте бывшей Септы Памяти. Бывший центр религиозного поклонения в городе теперь готов приютить драконов королевства. Появление драконов вызвало возобновлённую потребность в этом сооружении как доме для чудовищ, вдали от городского простонародья.\n\nНесмотря на опасения лордов и простолюдинов перед драконами, немногие выступили против строительства Драконьего Пита, который теперь стоит как величественный памятник мощи трона." #NT!
+ cm_dragonpit.0001.a: "Это поистине величественно" #NT!
+  
+  #COWBOOK HARRENHAL 
+ #  cowbook.1000.t: "The Mighty Harrenhal" #NT!
+ #  cowbook.1000.desc: "The five great towers of Harrenhal become visible to my armies miles away. Stretching up to the heavens, it is clear to all that this great city and its mighty keep can never be taken by men and siege weapons alone.\n\nAs my commanders report the fading morale of my soldiers, I remind them that the power of House Targaryen has never come from the men who carry our banners.\n\nAs I leave the war camp behind, I climb aboard Balerion and take flight. Flying high above the city, I know how to destroy this monument to the vanity of mortal men." #NT!
+ #  cowbook.1000.a: "Dracarys!" #NT!
+ #  cowbook.1000.c: " I cannot unleash such wanton death" #NT!
+ #  cowbook.1000.a.desc: "Harrenhal is laid to waste, melted and twisted by Dragonfire, a broken shell of what it once was" #NT!

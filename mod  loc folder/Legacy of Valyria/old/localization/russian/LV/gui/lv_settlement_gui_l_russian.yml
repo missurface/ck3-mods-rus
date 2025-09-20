@@ -1,0 +1,36 @@
+﻿l_russian:
+ lv_ruins_reconstruct_tooltip: "This holding is in ruins, but we can restore it to a self-sustaining colony. You will begin planning an expedition to reclaim this land.\n" #NT!
+ lv_ruins_reconstruct_tooltip_cost: "Estimated costs:" #NT!
+ lv_ruins_reconstruct_tooltip_cost_value: "@gold_icon![GetPlayer.MakeScope.ScriptValue('lv_settlement_cost')|0]" #NT!
+ lv_ruins_reconstruct_tooltip_cost_insufficient: "[AddLocalizationIf( Not(GetScriptedGui('lv_ruin_can_afford').IsShown( GuiScope.SetRoot( GetPlayer.MakeScope ).End)), 'lv_ruins_reconstruct_tooltip_cost_insufficient_text' )]" #NT!
+ lv_ruins_reconstruct_tooltip_cost_insufficient_text: "\n#X @warning_icon! You do #bold not#! have @gold_icon![GetPlayer.MakeScope.ScriptValue('lv_settlement_cost_difference')|0]#!" #NT!
+  
+   # Cost Breakdown 
+ lv_ruins_reconstruct_tooltip_breakdown_title: "Ruin Restoration" #NT!
+ lv_ruins_reconstruct_tooltip_breakdown_subheading: "Cost Breakdown" #NT!
+  
+   # Settlement Cost and Breakdown 
+ lv_ruins_reconstruct_tooltip_breakdown_settlement: "Ruin Size and Progress #V @gold_icon![GetPlayer.MakeScope.ScriptValue('lv_settlement_cost_settlement')|0]#!" #NT!
+ lv_ruins_reconstruct_tooltip_breakdown_settlement_base: "$BULLET$[HoldingView.GetProvince.Custom('LV_RuinsReconstructTooltip_RuinType')]: #N [GetPlayer.MakeScope.ScriptValue('lv_settlement_cost_settlement_base')|0]#!" #NT!
+ lv_ruins_reconstruct_tooltip_breakdown_settlement_valyrian_architecture: "$BULLET$Culture uses Valyrian architecture: #P -[GetPlayer.MakeScope.ScriptValue('lv_settlement_cost_settlement_valyrian_architecture')|0]#!" #NT!
+ lv_ruins_reconstruct_tooltip_breakdown_settlement_hard_working: "$BULLET$Culture has $tradition_hard_working_name$ tradition: #P -[GetPlayer.MakeScope.ScriptValue('lv_settlement_cost_settlement_hard_working')|0]#!" #NT!
+  
+   # Expedition Cost and Breakdown 
+ lv_ruins_reconstruct_tooltip_breakdown_expedition: "Preparation and Logistics #V @gold_icon![GetPlayer.MakeScope.ScriptValue('lv_settlement_cost_expedition')|0]#! #weak (Minimum: 30)#!" #NT!
+ lv_ruins_reconstruct_tooltip_breakdown_expedition_base: "$BULLET$Expedition Cost: #N [GetPlayer.MakeScope.ScriptValue('lv_settlement_cost_expedition_base')|0]#!" #NT!
+ lv_ruins_reconstruct_tooltip_breakdown_expedition_isolationist: "$BULLET$Culture has $tradition_isolationist_name$ tradition: #N +[GetPlayer.MakeScope.ScriptValue('lv_settlement_cost_expedition_isolationist')|0]#!" #NT!
+ lv_ruins_reconstruct_tooltip_breakdown_expedition_republican_legacy: "$BULLET$Culture has $tradition_republican_legacy_name$ tradition: #P -[GetPlayer.MakeScope.ScriptValue('lv_settlement_cost_expedition_republican_legacy')|0]#!" #NT!
+ lv_ruins_reconstruct_tooltip_breakdown_expedition_valyrian: "$BULLET$Culture has $agot_tradition_valyrian_name$ tradition: #P -[GetPlayer.MakeScope.ScriptValue('lv_settlement_cost_expedition_valyrian')|0]#!" #NT!
+ lv_ruins_reconstruct_tooltip_breakdown_expedition_north_valyrian_1: "$BULLET$Culture has $agot_tradition_north_valyrian_1_name$ tradition: #P -[GetPlayer.MakeScope.ScriptValue('lv_settlement_cost_expedition_north_valyrian_1')|0]#!" #NT!
+ lv_ruins_reconstruct_tooltip_breakdown_expedition_north_valyrian_2: "$BULLET$Culture has $agot_tradition_north_valyrian_2_name$ tradition: #P -[GetPlayer.MakeScope.ScriptValue('lv_settlement_cost_expedition_north_valyrian_2')|0]#!" #NT!
+ lv_ruins_reconstruct_tooltip_breakdown_expedition_doom: "$BULLET$Culture has $agot_tradition_doom_name$ tradition: #P -[GetPlayer.MakeScope.ScriptValue('lv_settlement_cost_expedition_doom')|0]#!" #NT!
+  
+ lv_abandon_settlement: "Abandon Settlement" #NT!
+ lv_abandon_settlement_desc: "Abandon all efforts at restoring this settlement, relinquishing the ruins back to the wilderness." #NT!
+  
+ lv_upgrade_settlement: "Establish Holding" #NT!
+ lv_upgrade_settlement_desc: "Our efforts in this province have yielded us a sizeable, self-sustaining colony. At this point, it would not be wrong to establish a permanent holding here." #NT!
+  
+ HAS_SETTLEMENT_BLOCKERS: "There must be settlement blockers present in the colony." #NT!
+ HAS_NO_SETTLEMENT_BLOCKERS: "There must be no settlement blockers present in the colony." #NT!
+  

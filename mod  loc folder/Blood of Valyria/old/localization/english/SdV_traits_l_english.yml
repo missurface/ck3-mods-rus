@@ -1,0 +1,100 @@
+﻿l_english:
+    trait_vi_100: "#italic The blood of dragons and gods (32/32).#!"
+    trait_vi_100_desc: "#italic;N [ROOT.Char.GetHerHis] blood is the blood of old Valyria, the blood of dragons and gods.. #!"
+
+    trait_vi_96: "The [GetCultureTradition('agot_tradition_valyrian').GetName] (31/32)"
+    trait_vi_96_desc: "The blood of [ROOT.GetCharacter.GetFirstNameNoTooltip] is the [GetCultureTradition('agot_tradition_valyrian').GetName], the few marriages outside this people now date back to forgotten times."
+
+    trait_vi_93: "The [GetCultureTradition('agot_tradition_valyrian').GetName] (30/32)"
+    trait_vi_93_desc: "The blood of [ROOT.GetCharacter.GetFirstNameNoTooltip] is the [GetCultureTradition('agot_tradition_valyrian').GetName], the few marriages outside this people now date back to forgotten times."
+
+    trait_vi_90: "The [GetCultureTradition('agot_tradition_valyrian').GetName] (29/32)"
+    trait_vi_90_desc: "The blood of [ROOT.GetCharacter.GetFirstNameNoTooltip] is the [GetCultureTradition('agot_tradition_valyrian').GetName], the few marriages outside this people now date back to forgotten times."
+
+    trait_vi_87: "Almost nothing Human left (28/32)."
+    trait_vi_87_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] has only a few non-$heritage_valyrian_name$ drops in his veins, [ROOT.Char.GetSheHe] is almost beyond Humanity, almost..."
+
+    trait_vi_84: "Almost nothing Human left (27/32)."
+    trait_vi_84_desc: "The [ROOT.Char.GetHouse.GetName]s practiced marriages with $heritage_andal_name$s, $heritage_first_man_name$s, or maybe even with $heritage_ghiscari_name$s, a few generations ago."
+
+    trait_vi_81: "Almost nothing Human left (26/32)."
+    trait_vi_81_desc: "The [ROOT.Char.GetHouse.GetName]s practiced marriages with $heritage_andal_name$s, $heritage_first_man_name$s, or maybe even with $heritage_ghiscari_name$s, a few generations ago."
+
+    trait_vi_78: "Almost nothing Human left (25/32)."
+    trait_vi_78_desc: "The [ROOT.Char.GetHouse.GetName]s practiced marriages with $heritage_andal_name$s, $heritage_first_man_name$s, or maybe even with $heritage_ghiscari_name$s, a few generations ago."
+
+#75/100
+    trait_vi_75: "The Quarter Man (24/32)."
+    trait_vi_75_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] would only have one grandparent or something like that whose blood was not that of the #E [dragon|El]s#!? In any case, [ROOT.GetCharacter.GetFirstNameNoTooltip] is much closer to the gods, and has only a quarter of common blood."
+
+    trait_vi_71: "Member of a family of the [GetModifier('valyrian_heritage_dynasty_modifier').GetName] (23/32)"
+    trait_vi_71_desc: "The house [ROOT.Char.GetHouse.GetName] known for its extensive intermarrying with members of its people. However, she is keen to maintain a certain purity of blood."
+
+    trait_vi_68: "Member of a family of the [GetModifier('valyrian_heritage_dynasty_modifier').GetName] (22/32)"
+    trait_vi_68_desc: "The house [ROOT.Char.GetHouse.GetName] known for its extensive intermarrying with members of its people. However, she is keen to maintain a certain purity of blood."
+
+    trait_vi_65: "Member of a family of the [GetModifier('valyrian_heritage_dynasty_modifier').GetName] (21/32)"
+    trait_vi_65_desc: "The house [ROOT.Char.GetHouse.GetName] known for its extensive intermarrying with members of its people. However, she is keen to maintain a certain purity of blood."
+
+    trait_vi_62: "Member of a family of the [GetModifier('valyrian_heritage_dynasty_modifier').GetName] (20/32)"
+    trait_vi_62_desc: "The house [ROOT.Char.GetHouse.GetName] known for its extensive intermarrying with members of its people. However, she is keen to maintain a certain purity of blood."
+
+    trait_vi_59: "Member of a family of the [GetModifier('valyrian_heritage_dynasty_modifier').GetName] (19/32)"
+    trait_vi_59_desc: "The house [ROOT.Char.GetHouse.GetName] known for its extensive intermarrying with members of its people. However, she is keen to maintain a certain purity of blood."
+
+    trait_vi_56: "Member of a family of the [GetModifier('valyrian_heritage_dynasty_modifier').GetName] (18/32)"
+    trait_vi_56_desc: "The house [ROOT.Char.GetHouse.GetName] known for its extensive intermarrying with members of its people. However, she is keen to maintain a certain purity of blood."
+
+    trait_vi_53: "Member of a family of the [GetModifier('valyrian_heritage_dynasty_modifier').GetName] (17/32)"
+    trait_vi_53_desc: "The house [ROOT.Char.GetHouse.GetName] known for its extensive intermarrying with members of its people. However, she is keen to maintain a certain purity of blood."
+
+#50/
+    trait_vi_50: "Closer to gods than men? (16/32)."
+    trait_vi_50_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] has a parent who has the [GetCultureTradition('agot_tradition_valyrian').GetName], and the other a most ordinary human... The question is whether [ROOT.GetCharacter.GetFirstNameNoTooltip] is closer to the gods or to men?"
+
+    trait_vi_46: "Ancestral ties with $heritage_valyrian_name$s (15/32)"
+    trait_vi_46_desc: "The [ROOT.Char.GetHouse.GetName] are known for their marriages with families from the [GetModifier('valyrian_heritage_dynasty_modifier').GetName], unless it's the other way around?"
+
+    trait_vi_43: "Ancestral ties with $heritage_valyrian_name$s (14/32)"
+    trait_vi_43_desc: "The [ROOT.Char.GetHouse.GetName] are known for their marriages with families from the [GetModifier('valyrian_heritage_dynasty_modifier').GetName], unless it's the other way around?"
+
+    trait_vi_40: "Ancestral ties with $heritage_valyrian_name$s (13/32)"
+    trait_vi_40_desc: "The [ROOT.Char.GetHouse.GetName] are known for their marriages with families from the [GetModifier('valyrian_heritage_dynasty_modifier').GetName], unless it's the other way around?"
+
+    trait_vi_37: "Ancestral ties with $heritage_valyrian_name$s (12/32)"
+    trait_vi_37_desc: "The [ROOT.Char.GetHouse.GetName] are known for their marriages with families from the [GetModifier('valyrian_heritage_dynasty_modifier').GetName], unless it's the other way around?"
+
+    trait_vi_34: "Ancestral ties with $heritage_valyrian_name$s (11/32)"
+    trait_vi_34_desc: "The [ROOT.Char.GetHouse.GetName] are known for their marriages with families from the [GetModifier('valyrian_heritage_dynasty_modifier').GetName], unless it's the other way around?"
+
+    trait_vi_31: "Ancestral ties with $heritage_valyrian_name$s (10/32)"
+    trait_vi_31_desc: "The [ROOT.Char.GetHouse.GetName] are known for their marriages with families from the [GetModifier('valyrian_heritage_dynasty_modifier').GetName], unless it's the other way around?"
+
+    trait_vi_28: "Ancestral ties with $heritage_valyrian_name$s (9/32)"
+    trait_vi_28_desc: "The [ROOT.Char.GetHouse.GetName] are known for their marriages with families from the [GetModifier('valyrian_heritage_dynasty_modifier').GetName], unless it's the other way around?"
+#25/100
+    trait_vi_25: "A quarter of divine (8/32)."
+    trait_vi_25_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] would only have one grandparent or something like that whose blood was that of the #E [dragon|El]s#!?"
+
+    trait_vi_21: "A Human almost like the others (7/32)"
+    trait_vi_21_desc: "The house of [ROOT.GetCharacter.GetFirstNameNoTooltip] can boast of having had a marriage with a noble $heritage_valyrian_name$ family, a few generations ago."
+
+    trait_vi_18: "A Human almost like the others (6/32)"
+    trait_vi_18_desc: "The house of [ROOT.GetCharacter.GetFirstNameNoTooltip] can boast of having had a marriage with a noble $heritage_valyrian_name$ family, a few generations ago."
+
+    trait_vi_15: "A Human almost like the others (5/32)"
+    trait_vi_15_desc: "The house of [ROOT.GetCharacter.GetFirstNameNoTooltip] can boast of having had a marriage with a noble $heritage_valyrian_name$ family, a few generations ago."
+
+    trait_vi_12: "Nothing divine, everything human... (4/32)."
+    trait_vi_12_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] no longer has anything valyrian in his veins, except for a few drops..."
+
+    trait_vi_9: "Nothing divine, everything human... (3/32)"
+    trait_vi_9_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] no longer has anything valyrian in his veins, except for a few drops..."
+
+    trait_vi_6: "Nothing divine, everything human... (2/32)"
+    trait_vi_6_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] no longer has anything valyrian in his veins, except for a few drops..."
+
+    trait_vi_3: "To a distant ancestor of the [GetCultureTradition('agot_tradition_valyrian').GetName] (1/32)."
+    trait_vi_3_desc: "It is said that [ROOT.GetCharacter.GetFirstNameNoTooltip] had at most one great-great-great relative whose blood was that of #E [dragon|El]s#! and gods, but these are only rumors."
+
+    #[GetModifier('valyrian_heritage_dynasty_modifie').GetNameWithTooltip]

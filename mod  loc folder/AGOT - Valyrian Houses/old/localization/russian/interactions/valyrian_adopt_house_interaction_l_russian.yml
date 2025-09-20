@@ -1,0 +1,3 @@
+﻿l_russian:
+ adopt_house_interaction: "Принять Валирийский дом"
+ adopt_house_interaction_desc: "Попросите [recipient.GetFirstNameNoTooltip] принять слова и герб Валирийского дома"

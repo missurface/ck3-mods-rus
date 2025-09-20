@@ -1,0 +1,26 @@
+﻿l_russian:
+ #宗教 
+ #islam_religion_opinion: "Islam opinion"
+ tengrism_religion_opinion: "Мнение тенгрианства"
+ #zoroastrianism_religion_opinion: "Zoroastrianism opinion"
+ judaism_religion_opinion: "Мнение иудаизма"
+ slavic_religion_opinion: "Славянское мнение славянское"
+ #hinduism_religion_opinion: "Hinduism opinion"
+ #christianity_religion_opinion: "Christianity opinion"
+  
+ catholic_opinion: "Мнение католичества"
+ orthodox_opinion: "Мнение православия"
+  
+ # Game Rules 
+ rule_bloodline_inheritance: "Наследование по линии крови"
+ rule_bloodline_inheritance_desc: "Управляет тем, как черты родословной передаются по наследству потомкам."
+  
+ # Game Rule Options 
+ setting_all_descendants: "Все потомки"
+ setting_all_descendants_desc: "Все потомки наследуют черты кровной линии независимо от законности рождения или пола."
+  
+ setting_ck2_version: "Стиль CK2"
+ setting_ck2_version_desc: "Наследование кровной линии следует правилам Crusader Kings 2 - обычно патрилинейное наследование с некоторыми исключениями."
+  
+ setting_ck2_realfather_version: "CK2 Реальный отец"
+ setting_ck2_realfather_version_desc: "Наследование кровной линии определяется кровной линией реального отца, аналогично механике CK2 для бастардов и законности рождения."

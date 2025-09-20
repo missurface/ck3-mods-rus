@@ -1,0 +1,10 @@
+﻿l_russian:
+ cce_agot_ninepenny_intervention_cb:0 "Интервенциональная Война "
+ cce_agot_dragon_subjugation_cb:0 "Война Завоевания"
+ CCE_AGOT_DRAGON_SUBJUGATION_CB_NAME:0 "Завоевать [DEFENDER.GetShortUIName]"
+ CCE_AGOT_DRAGON_SUBJUGATION_WAR_NAME:0 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetPrefix]-[DEFENDER.GetPrimaryTitle.GetAdjective] война за завоевание"
+ CCE_AGOT_DRAGON_SUBJUGATION_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+ #cce_agot_ninepenny_intervention_cb:0 "Intervention War"
+ NINEPENNY_INTERVENTION_WAR_NAME:0 "Интервенция против Девяти Медяков"
+ NINEPENNY_INTERVENTION_WAR_NAME_BASE:0 "Интервенция"
+ NINEPENNY_INTERVENTION_CB:0 "Интервенция"

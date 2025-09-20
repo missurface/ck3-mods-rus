@@ -1,0 +1,16 @@
+﻿l_russian:
+ agot_ac_first_dornish_war: "Завоевать Дорн"
+ agot_ac_first_dornish_war_desc: "Завоевание еще не завершено, дорнийцы все еще вне моей власти. Они отвергли наше предложение, мы напомним им наш девиз, Пламя и Кровь."
+ agot_ac_first_dornish_war_tooltip: "Пришло время привести Дорн к покорности."
+ agot_ac_first_dornish_war_confirm: "Пламя и Кровь"
+  
+ agot_ac_vale_conquest: "Завоевать Долину"
+ agot_ac_vale_conquest_desc: "Завоевание еще не завершено, долинцы все еще вне моей власти. Они отразили наше первое вторжение, мы напомним им наши девиз, Пламя и Кровь."
+ agot_ac_vale_conquest_tooltip: "Пришло время привести Долину к покорности."
+ agot_ac_vale_conquest_confirm: "Пламя и Кровь"
+  
+ agot_ac_north_conquest: "Завоевать Север"
+ agot_ac_north_conquest_desc: "Завоевание еще не завершено, северяне все еще вне моей власти. Они отразили наше первое вторжение, мы напомним им наши девиз, Пламя и Кровь."
+ agot_ac_north_conquest_tooltip: "Пришло время привести Север к покорности."
+ agot_ac_north_conquest_confirm: "Пламя и Кровь"
+  

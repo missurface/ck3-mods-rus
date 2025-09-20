@@ -1,0 +1,90 @@
+﻿l_russian:
+  
+ mde_filler_dragon.0002.t: "Яйцо лицедея"
+ mde_filler_dragon.0002.desc: "Когда моя [GetCourtPositionType('wet_nurse_court_position').GetName()] [nursemaid.GetFirstName] #italic врывается #!в мои покои, меня накрывает волна беспокойства — и, возможно, легкого раздражения. Воспитание детей, даже с прислугой, никогда не было простым делом.\n\nЗа [nursemaid.GetFirstName] следуют [older_child.GetFirstName] и [younger_child.GetFirstName], и пока [nursemaid.GetSheHe] пытается объяснить выходку [older_child.GetFirstName], дети начинают громко переругиваться.\n\nОказывается, [older_child.GetFirstName] подарил [younger_child.GetFirstName] поддельное драконье яйцо в шутку, и теперь об этом говорят все дети в [ROOT.Char.Custom('ResidenceBuilding')]."
+ mde_filler_dragon.0002.a: "#italic Забавно вышло, [older_child.GetFirstName]!#!"
+ mde_filler_dragon.0002.b: "#italic Хватит этих глупостей, [older_child.GetFirstName].#!"
+ mde_filler_dragon.0002.c: "Какая морока..."
+  
+ mde_filler_dragon.0004.t: "Детские капризы"
+ mde_filler_dragon.0004.desc: "По всему [ROOT.Char.Custom('ResidenceBuilding')] разносится яростный рёв, доносящийся из детской.\n\nВорвавшись туда, я вижу юного [child.GetFirstName] с покрасневшим лицом, тыкающего пальцем в своё [egg_child.GetName] в колыбели. Слёзы текут по щекам, пока [child.GetHeShe] кричит: #italic "Не хочу! Хочу красивое яйцо!"#! — и жадно смотрит на моё невостребованное [egg.GetName].\n\nМой [child.Custom('GetDaughterSon')] уже демонстрирует сильную волю и дорогие вкусы! Пойти на поводу у драконьего каприза или преподать урок благодарности?"
+ mde_filler_dragon.0004.a: "Уступить [child.GetHerHim]."
+ mde_filler_dragon.0004.b: "Забрать яйцо."
+ mde_filler_dragon.0004.c: "[child.GetSheHe] забудет об этом завтра."
+  
+ mde_filler_dragon.0006.t: "Первое настоящее испытание"
+ mde_filler_dragon.0006.desc: "Сегодня я планировал совершить полёт со своим [child_rider.Custom('GetDaughterSon')]. Даже для [ROOT.Char.GetTitleTierName] время, проведённое с ребёнком, важно.\n\nОднако в Драконьем Питомнике царит хаос. #italic "Что за суматоха?"#! спрашиваю я у драконьих стражей. #italic "Ваш [child_rider.Custom('GetDaughterSon')] и дракон, мой [ROOT.Char.GetTitleTierName]... [child_dragon.GetName] отказывается покидать гнездо!"#!\n\n[child_rider.GetFirstNameNicknamed] стоит рядом, явно нервничая и смущаясь, отчаянно пытаясь усмирить дракона.\n\nЭто первое настоящее испытание для [child_rider.GetFirstNameNicknamed]. Я делаю шаг вперёд, сохраняя спокойный, но твёрдый тон: #italic "Всадник должен командовать драконом уверенно. Они гордые и умные создания — но приказы отдаёшь ты. Говори твёрдо. Повтори."#!\n\n#italic "Я попробую, [child_rider.Custom2('RelationToMeShort', SCOPE.sC('root_char')]... [Glossary( 'Dohaerās', 'DOHAERAS_GLOSS' )], [child_dragon.GetName]! [Glossary( 'Dohaerās', 'DOHAERAS_GLOSS' )]!"#!"
+ mde_filler_dragon.0006.a: "Будем надеяться [child_rider.GetHerHis] голос звучит уверенно..."
+ mde_filler_dragon.0006.b: "#italic "Я возьму ситуацию в свои руки!"#!"
+ mde_filler_dragon.0006.a.one: "[child_rider.GetFirstNameNicknamed] усмиряет дракона."
+ mde_filler_dragon.0006.a.two: "[child_rider.GetFirstNameNicknamed] не справляется с драконом."
+ mde_filler_dragon.0006.a.a: "[child_rider.GetFirstNameNicknamed] controls the dragon"
+ mde_filler_dragon.0006.a.b: "[child_rider.GetFirstNameNicknamed] fails to control the dragon"
+  
+ mde_filler_dragon.0008.t: "Опасный сон"
+ mde_filler_dragon.0008.desc: "С рассветным звоном колоколов ко мне в панике подбегает взволнованная [nursemaid.GetFirstName] Ломая руки, [nursemaid.GetSheHe] сообщает, что [child_lost.GetFirstNameNicknamed] пропал!\n\n"
+ mde_filler_dragon.0008.desc.outpit: "Только к полудню я узнаю, где [child_lost.GetHerHis] искать.\n\nОказывается, [child_lost.GetFirstNameNicknamed] провёл ночь в логове [active_dragon.GetName], прижавшись к боку чудовища!\n\nСвидетели клянутся, что [child_lost.GetSheHe] разговаривал с драконом и скакал по [active_dragon.GetHerHis] спине!"
+ mde_filler_dragon.0008.desc.inpit: "Только к полудню я узнаю, где [child_lost.GetHerHis] искать.\n\nОказывается, [child_lost.GetFirstNameNicknamed] спал рядом с [active_dragon.GetName] в Драконьем Питомнике!\n\nИ это ещё не всё: [child_lost.GetSheHe] лазил по спине [random_pit_dragon.GetHerHis], #italic смеясь#! и уворачиваясь от стражей!"
+ mde_filler_dragon.0008.a: "Отчитать  [child_lost.GetFirstNameNicknamed]"
+ mde_filler_dragon.0008.b: "Поощрить поведение."
+ mde_filler_dragon.0008.c: "Переселить  [active_dragon.GetName] в Питомник!"
+ mde_filler_dragon.0008.b.a: "[child_lost.GetFirstNameNicknamed] развивает драконьи сны"
+ mde_filler_dragon.0008.b.b: "Ничего не произошло"
+  
+ #ROOT.Char.GetCouncillorPosition( 'councillor_steward' ).GetPositionName] 
+ mde_filler_dragon.0010.t: "Вечная Сытность"
+ mde_filler_dragon.0010.desc: "Война затягивается, а мой совет раз за разом поднимает одни и те же проблемы:\n\nПеребои с распределением еды на рынках, рост цен на все товары, растущее недовольство простонародья.\n\nХотя лишения ожидаемы в военное время, меня тревожит нечто новое. У черни появилась безумная идея: будто #bold тело#! одного дракона сможет кормить их вечно. Шёпоты перерастают в разговоры, а разговоры - в опасную надежду. Мёртвый зверь, говорят они, решит все проблемы голода..."
+ mde_filler_dragon.0010.a: "Выделить средства на подавление бунтов."
+ mde_filler_dragon.0010.b: "Никто не посмеет тронуть драконов!"
+ mde_filler_dragon.0010.c: "Покажем им, чем #bold на самом деле#! являются драконы."
+  
+ mde_filler_dragon.0011.desc: "На очередном совете наконец поступают добрые вести: абсурдная идея о вечной сытности от драконьей туши почти исчезла из уличных разговоров.\n\nПохоже, расплодившиеся #italic крысы#! и прочая мерзость предоставили достаточно пропитания, чтобы утолить голод и отвлечь от безумных мыслей.\n\nВпрочем, всегда найдутся более pressing matters."
+ mde_filler_dragon.0011.a: "Следующий вопрос, #italic [ROOT.Char.GetCouncillorPosition( 'councillor_castellan' ).GetPositionName]#!."
+  
+ mde_filler_dragon.0012.desc: "Во время совета врывается мой [ROOT.Char.GetCouncillorPosition( 'councillor_castellan' ).GetPositionName]. На [hand.GetHerHis] лице читается panic, пока [hand.GetSheHe] пытается объяснить ситуацию.\n\nЧернь осмелилась #bold ПОСЯГНУТЬ#! на мою собственность! Ревущая толпа голодных предателей, barely human, штурмует Драконье Логово!\n\nХотя dragonkeepers и стражи отбивались, а земля усыпана телами... сообщают, что #color_red [dead_dragon.GetName]#! был убит.\n\nВыжившие использовали tools, оружие - всё, чтобы сорвать священные чешуйки."
+ mde_filler_dragon.0012.a: "Народ поплатится за это!"
+  
+ mde_filler_dragon.0014.t: "Далекое Место"
+ mde_filler_dragon.0014.desc: "Пока я сижу за столом, погружённый в бесконечные отчёты, заходит [child.GetFirstName].\n\n#italic "Ты выглядишь напряжённым в последнее время, [child.Custom2('RelationToMeShort', SCOPE.sC('root_char'))]."#! — замечает [child.GetSheHe]. #italic "Пойдём со мной. Я покажу тебе особое место, которое нашёл(ла) с [child_dragon.GetName]. Хоть на день оставь заботы другим. Даже правителю нужен отдых."#!\n\nЯ колеблюсь. Как часто я мечтал(а) сбросить этот груз, пусть на день! Умчаться на [ridden_dragon.GetName] подальше от склок лордов, бесконечных советов и требований.\n\n#italic "Там спокойно,"#! — продолжает [child.GetFirstName]. #italic "Иногда я просто сижу с [child_dragon.GetName] до заката, смотрю на отражение в воде, пока небо сливается с ночью."#!\n\nМожет... хоть один день тишины не сломит меня..."
+ mde_filler_dragon.0014.a: "#italic "Хочу увидеть твоё место..."#!"
+ mde_filler_dragon.0014.a.a: "В [child.GetFirstNameNicknamed] пробуждается что-то"
+ mde_filler_dragon.0014.a.b: "Ничего особенного не происходит"
+ mde_filler_dragon.0014.b: "#italic "У меня нет времени. Пусть будет короткий полёт."#!"
+  
+ mde_filler_dragon.0016.t: "Драконий Инцидент"
+ mde_filler_dragon.0016.desc: "Я мчусь к стойлам, в вихре кожаных ремней и отчаянных приказов, вскакиваю в седло и скачу к Драконьему Питу, моя свита едва поспевает.\n\nСердце колотится всё #italic сильнее#! и #italic сильнее#! с тех пор, как до меня дошли слова. Даже издалека слышны #x рыдания#! - не зверя, а разбитого детского сердца.\n\nРыдания [child.GetFirstNameNicknamed] вонзаются, как ножи, в ветер. А там, среди камней и пепла, лежит искалеченная груда чешуи и сломанных зубов, которую [child.GetHersHis] трепещущие руки прижимают к груди.\n\n#italic «Я не... Я не хотел!»#! - рыдает [child.GetFirstNameNicknamed]. #italic «Мы... мы играли. Я поскользнулся и упал сверху...»#! [child.GetSheHe] всхлипывает сквозь слезы. #italic «Что я наделал?!»#!"
+ mde_filler_dragon.0016.a: "#italic «Нет...»#!"
+ mde_filler_dragon.0016.b: "Наказать [child.GetFirstNameNicknamed] за ошибку."
+ mde_filler_dragon.0016.c: "Добей его..."
+ mde_filler_dragon.0016.a.a: "Неизгладимый след"
+ mde_filler_dragon.0016.a.b: "Все совершают ошибки"
+  
+ mde_filler_dragon.0018.t: "Огненный Зверинец"
+ mde_filler_dragon.0018.desc: "Когда заседание совета подходит к концу и члены расходятся, мой [ROOT.Char.GetCouncillorPosition( 'councillor_steward' ).GetPositionName]; [steward.GetTitleTierName] [steward.GetNameNicknamed] задерживается с довольно нелепым предложением.\n\nОказывается, мелкие лорды, богатые купцы и даже простые ремесленники отчаянно жаждут увидеть, а то и прикоснуться к моему [ridden_dragon.GetName].\n\n[steward.GetNameNicknamed] предлагает превратить эту глупую прихоть в грандиозный одноразовый фестиваль. Праздник в честь дома [ROOT.Char.GetDynastyHouseName] и способ наполнить нашу казну золотом.\n\nВсе, что мне нужно... это удержать зверя в спокойствии."
+ mde_filler_dragon.0018.a: "#italic «Ладно, давайте сделаем.»#!"
+ mde_filler_dragon.0018.b: "Дракон - не часть зверинца."
+ mde_filler_dragon.0018.c: "#italic «А не хочешь ли ты его погладить?»#!"
+ mde_filler_dragon.0018.a.a: "Всё прошло хорошо"
+ mde_filler_dragon.0018.a.b: "Дракон вырвался"
+  
+ mde_filler_dragon.0020.t: "Угасающий Дракон"
+ mde_filler_dragon.0020.desc: "#italic «Как!»#! - требую я. #x «КАК!»#! - реву я.\n\nНикто не отвечает. Мейстеры лихорадочно листают свитки и бормочут чепуху. Септоны молятся Отцу Наверху, будто святые слова смогут исцелить то, что уже сломалось.\n\nДраконы не болеют. Ни в сказаниях, ни в фолиантах. Ни в историях бардов или каменных скрижалях. Но когда я смотрю на [ridden_dragon.GetName], истина предстает перед моими глазами.\n\nЗверь шевелится вяло, его конечности дрожат с каждым вздохом. #italic Я тоже чувствую это#! где-то глубоко внутри, общую боль, грызущую кости и душу. Гниль добралась до зубов. Они трескаются, как старые камни.\n\nЭто не обычная болезнь. Будь то порождение колдовства, яда или #S нечто более гнусного#!... я не знаю.\n\nНо вопрос прилип к моим губам, как кровь: Как...?"
+ mde_filler_dragon.0020.a: "У меня нет слов..."
+ mde_filler_dragon.0020.b: "#x Прикончить его.#!"
+  
+ mde_filler_dragon.0022.t: "Новый Козёл Отпущения"
+ mde_filler_dragon.0022.desc: "Я просыпаюсь от кулаков #bold стучащих#! в мою дверь, колоколов #bold гудящих#! на башнях и голосов #bold кричащих#! в панике.\n\nЧума не чужда простонародью, они уже хоронили родных. Но на этот раз они выбрали нового козла отпущения.\n\n#S Драконов.#!\n\nЗа ночь собралась вонючая толпа с вилами, топорами, дубинами, факелами. Безумие и страх придали им сил. Они хлынули к Драконьему Питу, как поток крыс.\n\nСтража была сметена, растерзана в хаосе. И даже с когтями, огнем и яростью, сражаясь в ответ, случилось худшее..."
+ mde_filler_dragon.0022.a: "Простонародье заплатит!"
+  
+ mde_filler_dragon.0024.t: "Невозмутимое Присутствие"
+ mde_filler_dragon.0024.desc: "Кормёжка обычно представляет собой контролируемый хаос, где драконьи смотрители осторожно раздают мясо, сохраняя дистанцию.\n\nОднако [ridden_dragon.GetName] проявил замечательное хладнокровие. Он терпеливо ждал свою долю, позволяя смотрителям перемещаться вокруг с минимальными признаками беспокойства.\n\nВ какой-то момент смотритель споткнулся, опрокинув ведро. Звук прозвенел, как сталь, но [ridden_dragon.GetName] лишь поднял голову, наблюдал, как человек приходит в себя, затем вернулся к еде без единого фырканья.\n\nТакое спокойствие среди человеческой суеты говорит о существе, необычайно комфортно чувствующем себя в нашем мире."
+ mde_filler_dragon.0024.a: "Какой славный дракон."
+ mde_filler_dragon.0024.b: "Давайте поощрим его."
+ mde_filler_dragon.0024.a.tt: "Темперамент дракона улучшится."
+  
+ mde_filler_dragon.0026.t: "Привередливый Едок"
+ mde_filler_dragon.0026.desc: "Сегодня подали козу, обычно любимое лакомство молодых драконов. Однако [ridden_dragon.GetName] лишь обнюхал тушу и отвернулся, не проявив интереса.\n\nВчера он с готовностью сожрал предложенную свинью.\n\nСмотрители отметили повторяющуюся закономерность: дракон проявлял явные предпочтения, часто отвергая идеально хорошее мясо, если оно ему не нравилось.\n\nХотя это и раздражало смотрителей, такой разборчивый вкус невольно привёл к меньшему потреблению, что делает [ridden_dragon.GetName] необычайно сдержанным в своих потребностях."
+ mde_filler_dragon.0026.a: "Ладно, кормите тем, что он ест."
+ mde_filler_dragon.0026.b: "Морите голодом, пока не станет есть всё подряд."
+ mde_filler_dragon.0026.b.tt: "Темперамент дракона ухудшится на 5."
+  

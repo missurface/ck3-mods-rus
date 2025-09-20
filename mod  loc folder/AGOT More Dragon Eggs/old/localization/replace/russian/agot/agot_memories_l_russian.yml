@@ -1,0 +1,236 @@
+﻿l_russian:
+  #Descs 
+ agot_kingsguard_memory: "Вступил в Королевскую Гвардию"
+ agot_kingsguard_memory_desc: "Я вступил в Королевскую Гвардию [king.GetFullNamePossessiveRegnal]"
+ agot_kingsguard_memory_desc_second_perspective_1: "Вы вступили в Королевскую Гвардию [king.GetFullNamePossessiveRegnal]"
+ agot_kingsguard_memory_desc_third_perspective_1: "[owner.GetName] вступил(а) в Королевскую Гвардию [king.GetFullNamePossessiveRegnal]"
+  
+ agot_kingsguard_lord_commander_memory: "Стал Лордом-командующим Королевской Гвардии"
+ agot_kingsguard_lord_commander_memory_desc: "Я был назначен Лордом-командующим Королевской Гвардии [king.GetFullNamePossessiveRegnal]"
+ agot_kingsguard_lord_commander_memory_desc_second_perspective_1: "Вы были назначены Лордом-командующим Королевской Гвардии [king.GetFullNamePossessiveRegnal]"
+ agot_kingsguard_lord_commander_memory_desc_third_perspective_1: "[owner.GetName] был(а) назначен(а) Лордом-командующим Королевской Гвардии [king.GetFullNamePossessiveRegnal]"
+  
+ agot_melee_winner: "Победитель меле"
+ agot_melee_winner_desc_1: "Я выиграл(а) меле [MeleeHost.GetTitledFirstNamePossessive]"
+ agot_melee_winner_desc_second_perspective_1: "Вы выиграли меле [MeleeHost.GetTitledFirstNamePossessive]"
+ agot_melee_winner_desc_third_perspective_1: "[owner.GetName] выиграл(а) меле [MeleeHost.GetTitledFirstName]"
+  
+ agot_tournament_winner: "Победитель турнира"
+ agot_tournament_winner_desc_1: "Я выиграл(а) турнир [TourneyHost.GetTitledFirstNamePossessive]"
+ agot_tournament_winner_desc_second_perspective_1: "Вы выиграли турнир [TourneyHost.GetTitledFirstName]"
+ agot_tournament_winner_desc_third_perspective_1: "[owner.GetName] выиграл(а) турнир [TourneyHost.GetTitledFirstName]"
+ agot_tournament_second_place: "Финалист турнира"
+ agot_tournament_second_place_desc_1: "Я стал(а) финалистом турнира [TourneyHost.GetTitledFirstName]"
+ agot_tournament_second_place_desc_second_perspective_1: "Вы стали финалистом турнира [TourneyHost.GetTitledFirstName]"
+ agot_tournament_second_place_desc_third_perspective_1: "[owner.GetName] стал(а) финалистом турнира [TourneyHost.GetTitledFirstName]"
+  
+ agot_got_squire: "Приобрёл оруженосца"
+ agot_got_squire_desc_1: "[squire.GetTitledFirstName] стал моим оруженосцем"
+ agot_got_squire_desc_second_perspective_1: "[squire.GetTitledFirstName] стал вашим оруженосцем"
+ agot_got_squire_desc_third_perspective_1: "[squire.GetTitledFirstName] стал оруженосцем [owner.GetNamePossessive]"
+  
+ agot_became_squire: "Стал оруженосцем"
+ agot_became_squire_desc_1: "Я стал оруженосцем [knight.GetTitledFirstNamePossessive]"
+ agot_became_squire_desc_second_perspective_1: "Вы стали оруженосцем [knight.GetTitledFirstNamePossessive]"
+ agot_became_squire_desc_third_perspective_1: "[owner.GetName] стал(а) оруженосцем [knight.GetTitledFirstNamePossessive]"
+  
+ agot_lost_squire: "Потерял оруженосца"
+ agot_lost_squire_desc_1: "[squire.GetTitledFirstName] перестал быть моим оруженосцем."
+ agot_lost_squire_desc_second_perspective_1: "[squire.GetTitledFirstName] больше не ваш оруженосец."
+ agot_lost_squire_desc_third_perspective_1: "[squire.GetTitledFirstName] больше не оруженосец [owner.GetNamePossessive]"
+  
+ agot_removed_me_as_squire: "Перестал быть оруженосцем"
+ agot_removed_me_as_squire_desc_1: "Я перестал(а) быть оруженосцем [knight.GetTitledFirstNamePossessive]"
+ agot_removed_me_as_squire_desc_second_perspective_1: "Вы больше не оруженосец [knight.GetTitledFirstNamePossessive]"
+ agot_removed_me_as_squire_desc_third_perspective_1: "[owner.GetName] перестал(а) быть оруженосцем [knight.GetTitledFirstNamePossessive]"
+  
+ agot_was_knighted: "Посвящён в рыцари"
+ agot_was_knighted_desc_1: "Я был(а) посвящён(а) в рыцари [knight.GetTitledFirstName]"
+ agot_was_knighted_desc_second_perspective_1: "Вы были посвящены в рыцари [knight.GetTitledFirstName]"
+ agot_was_knighted_desc_third_perspective_1: "[owner.GetName] был(а) посвящён(а) в рыцари [knight.GetTitledFirstName]"
+  
+ agot_knighted_someone: "Посвятил в рыцари"
+ agot_knighted_someone_desc_1: "Я посвятил(а) в рыцари [squire.GetTitledFirstName]"
+ agot_knighted_someone_desc_second_perspective_1: "Вы посвятили в рыцари [squire.GetTitledFirstName]"
+ agot_knighted_someone_desc_third_perspective_1: "[owner.GetName] посвятил(а) в рыцари [squire.GetTitledFirstName]"
+  
+ agot_bought_knighthood: "Купил рыцарство"
+ agot_bought_knighthood_desc_1: "Я купил(а) своё рыцарство"
+ agot_bought_knighthood_desc_second_perspective_1: "Вы купили своё рыцарство"
+ agot_bought_knighthood_desc_third_perspective_1: "[owner.GetName] купил(а) рыцарство"
+  
+ agot_was_knighted_as_tourney_prize: "Посвящён в рыцари на турнире"
+ agot_was_knighted_as_tourney_prize_desc: "Стал(а) рыцарем на турнире"
+ agot_was_knighted_as_tourney_prize_desc_1: "Я был(а) посвящён(а) в рыцари [knight.GetTitledFirstName] после победы на их турнире"
+ agot_was_knighted_as_tourney_prize_desc_second_perspective_1: "Вы были посвящены в рыцари [knight.GetTitledFirstName] после победы на их турнире"
+ agot_was_knighted_as_tourney_prize_desc_third_perspective_1: "[owner.GetName] был(а) посвящён(а) в рыцари [knight.GetTitledFirstName] после победы на их турнире"
+  
+ agot_knighted_someone_as_tourney_prize: "Посвятил в рыцари на турнире"
+ agot_knighted_someone_as_tourney_prize_desc_1: "Я посвятил(а) [squire.GetTitledFirstName] в рыцари после их победы на моём турнире"
+ agot_knighted_someone_as_tourney_prize_desc_second_perspective_1: "Вы посвятили [squire.GetTitledFirstName] в рыцари после их победы на вашем турнире"
+ agot_knighted_someone_as_tourney_prize_desc_third_perspective_1: "[owner.GetName] посвятил(а) [squire.GetTitledFirstName] в рыцари после победы на своём турнире"
+  
+ agot_was_stripped_of_knighthood: "Лишён рыцарства"
+ agot_was_stripped_of_knighthood_desc_1: "Я был(а) лишён(а) рыцарства [stripper.GetTitledFirstName] в качестве наказания"
+ agot_was_stripped_of_knighthood_desc_second_perspective_1: "Вы были лишены рыцарства [stripper.GetTitledFirstName] в качестве наказания"
+ agot_was_stripped_of_knighthood_desc_third_perspective_1: "[owner.GetName] был(а) лишён(а) рыцарства [stripper.GetTitledFirstName] в качестве наказания"
+  
+ agot_stripped_knighthood: "Лишил рыцарства"
+ agot_stripped_knighthood_desc_1: "Я лишил(а) [knight.GetTitledFirstName] рыцарства в качестве наказания"
+ agot_stripped_knighthood_desc_second_perspective_1: "Вы лишили рыцарства [knight.GetTitledFirstName] в качестве наказания"
+ agot_stripped_knighthood_desc_third_perspective_1: "[owner.GetName] лишил(а) рыцарства [knight.GetTitledFirstName] в качестве наказания"
+  
+ agot_joined_nightswatch: "Вступил в Ночной Дозор"
+ agot_joined_nightswatch_desc_1: "Я был(а) завербован(а) в Ночной Дозор под началом [commander.GetTitledFirstName]"
+ agot_joined_nightswatch_desc_second_perspective_1: "Вы были завербованы в Ночной Дозор под началом [commander.GetTitledFirstName]"
+ agot_joined_nightswatch_desc_third_perspective_1: "[owner.GetName] был(а) завербован(а) в Ночной Дозор под началом [commander.GetTitledFirstName]"
+  
+ agot_swore_nightswatch_oath: "Принёс Клятву Дозора"
+ agot_swore_nightswatch_oath_desc_1: "Я принёс(ла) клятву и стал(а) братом/сестрой Ночного Дозора"
+ agot_swore_nightswatch_oath_desc_second_perspective_1: "Вы принесли клятву и стали братом/сестрой Ночного Дозора"
+ agot_swore_nightswatch_oath_desc_third_perspective_1: "[owner.GetName] принёс(ла) клятву и стал(а) братом/сестрой Ночного Дозора"
+  
+ agot_joined_silent_sisters: "Вступил в Тихие Сёстры"
+ agot_joined_silent_sisters_desc_1: "Я вступил(а) в Тихие Сёстры под началом [silent_mother.GetTitledFirstName]"
+ agot_joined_silent_sisters_desc_second_perspective_1: "Вы вступили в Тихие Сёстры под началом [silent_mother.GetTitledFirstName]"
+ agot_joined_silent_sisters_desc_third_perspective_1: "[owner.GetName] вступил(а) в Тихие Сёстры под началом [silent_mother.GetTitledFirstName]"
+  
+ agot_got_paramour: "Взял(а) любовник(цу)"
+ agot_got_paramour_desc_1: "Я взял(а) [paramour.GetFirstName] в любовники(цы)"
+ agot_got_paramour_desc_second_perspective_1: "Вы взяли [paramour.GetFirstName] в любовники(цы)"
+ agot_got_paramour_desc_third_perspective_1: "[owner.GetName] взял(а) [paramour.GetFirstName] в любовники(цы)"
+  
+ agot_became_paramour: "Стал(а) любовник(цей)"
+ agot_became_paramour_desc_1: "Я стал(а) любовник(цей) [paramour.GetFirstName]"
+ agot_became_paramour_desc_second_perspective_1: "Вы стали любовник(цей) [paramour.GetFirstName]"
+ agot_became_paramour_desc_third_perspective_1: "[owner.GetName] стал(а) любовник(цей) [paramour.GetFirstName]"
+  
+ agot_joined_citadel: "Начал(а) обучение в Цитадели"
+ agot_joined_citadel_desc_1: "Я отправился(ась) в Цитадель и начал(а) обучение для первого звена цепи"
+ agot_joined_citadel_desc_second_perspective_1: "Вы отправились в Цитадель и начали обучение для первого звена цепи"
+ agot_joined_citadel_desc_third_perspective_1: "[owner.GetName] отправился(ась) в Цитадель и начал(а) обучение для первого звена цепи"
+  
+ agot_earned_maester_link: "Получил(а) первое звено"
+ agot_earned_maester_link_desc_1: "Я получил(а) первое звено цепи мейстера под руководством [instructor.Custom('MaesterCheck')] [instructor.GetFirstName]"
+ agot_earned_maester_link_desc_second_perspective_1: "Вы получили первое звено цепи мейстера под руководством мейстера [instructor.GetFirstName]"
+ agot_earned_maester_link_desc_third_perspective_1: "[owner.GetName] получил(а) первое звено цепи мейстера под руководством мейстера [instructor.GetFirstName]"
+  
+ agot_became_maester: "Стал(а) мейстером"
+ agot_became_maester_desc_1: "Я стал(а) полноправным мейстером в Цитадели"
+ agot_became_maester_desc_second_perspective_1: "Вы стали полноправным мейстером в Цитадели"
+ agot_became_maester_desc_third_perspective_1: "[owner.GetName] стал(а) полноправным мейстером в Цитадели"
+  
+ agot_became_archmaester: "Избран(а) архимейстером"
+ agot_became_archmaester_desc_1: "Я стал(а) архимейстером Цитадели"
+ agot_became_archmaester_desc_second_perspective_1: "Вы стали архимейстером Цитадели"
+ agot_became_archmaester_desc_third_perspective_1: "[owner.GetName] стал(а) архимейстером Цитадели"
+  
+ agot_became_grandmaester: "Назначен(а) Великим мейстером"
+ agot_became_grandmaester_desc_1: "Я был(а) назначен(а) на королевский пост Великого мейстера"
+ agot_became_grandmaester_desc_second_perspective_1: "Вы были назначены на королевский пост Великого мейстера"
+ agot_became_grandmaester_desc_third_perspective_1: "[owner.GetName] был(а) назначен(а) на королевский пост Великого мейстера"
+  
+ agot_widowed_memory: "Смерть супруга/супруги"
+ agot_widowed_memory_desc_1: "Мой супруг(а) умер(ла), оставив меня вдовцом/вдовой"
+ agot_widowed_memory_desc_second_perspective_1: "Ваш(а) супруг(а) умер(ла), оставив вас вдовцом/вдовой"
+ agot_widowed_memory_desc_third_perspective_1: "Супруг(а) [owner.GetNamePossessive] умер(ла), оставив [owner.GetHerHis] вдовцом/вдовой"
+  
+ agot_tortured_memory: "Подвергся(лась) пыткам"
+ agot_tortured_memory_desc: "Я подвергся(лась) пыткам со стороны [torturer.GetTitledFirstName]"
+ agot_tortured_memory_desc_second_perspective_1: "Вы подверглись пыткам со стороны [torturer.GetTitledFirstName]"
+ agot_tortured_memory_desc_third_perspective_1: "[owner.GetName] подвергся(лась) пыткам со стороны [torturer.GetTitledFirstName]"
+  
+ agot_castrated_memory: "Был(а) кастрирован(а)"
+ agot_castrated_memory_desc: "Я был(а) кастрирован(а) [torturer.GetTitledFirstName]"
+ agot_castrated_memory_desc_second_perspective_1: "Вы были кастрированы [torturer.GetTitledFirstName]"
+ agot_castrated_memory_desc_third_perspective_1: "[owner.GetName] был(а) кастрирован(а) [torturer.GetTitledFirstName]"
+  
+ agot_blinded_memory: "Ослеплён(а)"
+ agot_blinded_memory_desc: "Я был(а) ослеплён(а) [torturer.GetTitledFirstName]"
+ agot_blinded_memory_desc_second_perspective_1: "Вы были ослеплены [torturer.GetTitledFirstName]"
+ agot_blinded_memory_desc_third_perspective_1: "[owner.GetName] был(а) ослеплён(а) [torturer.GetTitledFirstName]"
+  
+ agot_disfigured_memory: "Изуродован(а)"
+ agot_disfigured_memory_desc: "Я был(а) изуродован(а) [torturer.GetTitledFirstName]"
+ agot_disfigured_memory_desc_second_perspective_1: "Вы были изуродованы [torturer.GetTitledFirstName]"
+ agot_disfigured_memory_desc_third_perspective_1: "[owner.GetName] был(а) изуродован(а) [torturer.GetTitledFirstName]"
+  
+ agot_maimed_memory: "Искалечен(а)"
+ agot_maimed_memory_desc: "Я был(а) искалечен(а) [torturer.GetTitledFirstName]"
+ agot_maimed_memory_desc_second_perspective_1: "Вы были искалечены [torturer.GetTitledFirstName]"
+ agot_maimed_memory_desc_third_perspective_1: "[owner.GetName] был(а) искалечен(а) [torturer.GetTitledFirstName]"
+  
+ agot_muted_memory: "Лишён(а) дара речи"
+ agot_muted_memory_desc: "Я был(а) лишён(а) дара речи [torturer.GetTitledFirstName]"
+ agot_muted_memory_desc_second_perspective_1: "Вы были лишены дара речи [torturer.GetTitledFirstName]"
+ agot_muted_memory_desc_third_perspective_1: "[owner.GetName] был(а) лишён(а) дара речи [torturer.GetTitledFirstName]"
+  
+ agot_raised_to_nobility_memory: "Возведён(а) в дворянство"
+ agot_raised_to_nobility_memory_desc: "[raiser.GetTitledFirstName] возвёл(ла) меня в дворянство"
+ agot_raised_to_nobility_memory_desc_second_perspective_1: "[raiser.GetTitledFirstName] возвёл(ла) вас в дворянство"
+ agot_raised_to_nobility_memory_desc_third_perspective_1: "[raiser.GetTitledFirstName] возвёл(ла) [owner.GetName] в дворянство"
+  
+ agot_memory_interesting_area_explored: "Исследовал(а) [ROOT.Var('city_location').GetProvince.GetName]"
+ interesting_area_explored_desc: "Я исследовал(а) [ROOT.Var('city_location').GetProvince.GetName] во время путешествий"
+ interesting_area_explored_desc_second_perspective: "вы исследовали [ROOT.Var('city_location').GetProvince.GetName] во время путешествий"
+ interesting_area_explored_desc_third_perspective: "[owner.GetName] исследовал(а) [ROOT.Var('city_location').GetProvince.GetName] во время [owner.GetHerHis] путешествий"
+  
+ agot_named_a_qolab: "Назвал(а) Королевой Любви и Красоты"
+ agot_named_a_qolab_desc: "Я назвал(а) [qolab.GetTitledFirstName] Королевой Любви и Красоты"
+ agot_named_a_qolab_desc_second_perspective: "Вы назвали [qolab.GetTitledFirstName] Королевой Любви и Красоты"
+ agot_named_a_qolab_desc_third_perspective: "[owner.GetName] назвал(а) [qolab.GetTitledFirstName] Королевой Любви и Красоты"
+  
+ agot_named_as_qolab: "Коронован(а) Королевой Любви и Красоты"
+ agot_named_as_qolab_desc: "Я был(а) коронован(а) как Королева Любви и Красоты [crowner.GetTitledFirstName]"
+ agot_named_as_qolab_desc_second_perspective: "Вы были коронованы как Королева Любви и Красоты [crowner.GetTitledFirstName]"
+ agot_named_as_qolab_desc_third_perspective: "[owner.GetName] был(а) коронован(а) как Королева Любви и Красоты [crowner.GetTitledFirstName]"
+  
+ agot_freed_from_slavery_memory: "Освобождён(а) из рабства"
+ agot_freed_from_slavery_memory_desc: "[liberator.GetTitledFirstName] освободил(а) меня из рабства у [slaveowner.GetTitledFirstName]"
+ agot_freed_from_slavery_memory_desc_second_perspective_1: "[liberator.GetTitledFirstName] освободил(а) вас из рабства у [slaveowner.GetTitledFirstName]"
+ agot_freed_from_slavery_memory_desc_third_perspective_1: "[liberator.GetTitledFirstName] освободил(а) [owner.GetName] из рабства у [slaveowner.GetTitledFirstName]"
+  
+ agot_divorced_spouse: "Расторг(ла) брак"
+ agot_divorced_spouse_desc_1: "Я расторг(ла) брак с [divorcee.GetTitledFirstName]"
+ agot_divorced_spouse_desc_second_perspective_1: "Вы расторгли брак с [divorcee.GetTitledFirstName]"
+ agot_divorced_spouse_desc_third_perspective_1: "[divorcee.GetTitledFirstName] был(а) разведён(а) с [owner.GetNamePossessive]"
+  
+ agot_was_divorced_by_spouse: "Был(а) разведён(а) супругом"
+ agot_was_divorced_by_spouse_desc_1: "Я был(а) разведён(а) [divorcer.GetTitledFirstName]"
+ agot_was_divorced_by_spouse_desc_second_perspective_1: "Вы были разведены [divorcer.GetTitledFirstName]"
+ agot_was_divorced_by_spouse_desc_third_perspective_1: "[owner.GetTitledFirstName] был(а) разведён(а) [divorcer.GetNamePossessive]"
+  
+ agot_bonded_a_dragon: "Установил(а) связь с драконом"
+ agot_bonded_a_dragon_desc_1: "Я установил(а) связь с [tamed_dragon.GetName]"
+ agot_bonded_a_dragon_desc_second_perspective_1: "Вы установили связь с [tamed_dragon.GetName]"
+ agot_bonded_a_dragon_desc_third_perspective_1: "[owner.GetName] установил(а) связь с [tamed_dragon.GetName]"
+  
+ agot_tamed_a_dragon: "Приручил(а) дракона"
+ agot_tamed_a_dragon_desc_1: "Я приручил(а) [tamed_dragon.GetName]"
+ agot_tamed_a_dragon_desc_second_perspective_1: "Вы приручили [tamed_dragon.GetName]"
+ agot_tamed_a_dragon_desc_third_perspective_1: "[owner.GetName] приручил(а) [tamed_dragon.GetName]"
+  
+ agot_failed_tamed_a_dragon: "Не удалось приручить дракона"
+ agot_failed_to_tame_a_dragon_desc_1: "Мне не удалось приручить [dragon.GetName]"
+ agot_failed_to_tame_a_dragon_desc_second_perspective_1: "Вам не удалось приручить [dragon.GetName]"
+ agot_failed_to_tame_a_dragon_desc_third_perspective_1: "[owner.GetName] не удалось приручить [dragon.GetName]"
+  
+ agot_dragon_died: "Дракон погиб"
+ agot_dragon_died_desc_1: "Мой дракон [dead_dragon.GetName] погиб"
+ agot_dragon_died_desc_second_perspective_1: "Ваш дракон [dead_dragon.GetName] погиб"
+ agot_dragon_died_desc_third_perspective_1: "Дракон [dead_dragon.GetName] [owner.GetNamePossessive] погиб"
+  
+ agot_slayed_dragon: "Убил(а) дракона"
+ agot_slayed_dragon_desc_1: "Я убил(а) дракона [slayed_dragon.GetName]"
+ agot_slayed_dragon_desc_second_perspective_1: "Вы убили дракона [slayed_dragon.GetName]"
+ agot_slayed_dragon_desc_third_perspective_1: "[owner.GetName] убил(а) дракона [slayed_dragon.GetName]"
+  
+ agot_wounded_by_dragon: "Ранен(а) драконом"
+ agot_wounded_by_dragon_desc_1: "Я был(а) ранен(а) драконом [wounding_dragon.GetName]"
+ agot_wounded_by_dragon_desc_second_perspective_1: "Вы были ранены драконом [wounding_dragon.GetName]"
+ agot_wounded_by_dragon_desc_third_perspective_1: "[owner.GetName] был(а) ранен(а) драконом [wounding_dragon.GetName]"
+  
+ agot_hatched_egg: "Вылупил(а) дракона"
+ agot_hatched_egg_desc_1: "Я вылупил(а) дракона [dragon.GetName] из яйца"
+ agot_hatched_egg_desc_second_perspective_1: "Вы вылупили дракона [dragon.GetName] из яйца"
+ agot_hatched_egg_desc_third_perspective_1: "[owner.GetName] вылупил(а) дракона [dragon.GetName] из яйца"

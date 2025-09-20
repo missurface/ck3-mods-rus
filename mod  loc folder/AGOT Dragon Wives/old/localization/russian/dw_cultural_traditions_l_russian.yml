@@ -1,0 +1,78 @@
+﻿l_russian:
+ dw_tradition_valyrian_polgamy_name: "Принцы-чародеи"
+ dw_tradition_valyrian_polgamy_desc: "Принцы-чародеи и Повелители Драконов древней Валирии практиковали уникальные обычаи, главным из которых было многожёнство."
+  
+ faith_uprising_war: "Восстание Веры"
+ FAITH_UPRISING_WAR_NAME: "Восстание Веры против ереси [DEFENDER.GetShortUINameNotMe]"
+  
+ faith_militant_name: "Воинствующая Вера"
+ faith_militant_starry_sept_name: "Воинствующая Вера Звёздного Септы"
+  
+ AGOT_SECONDARY_SPOUSE: "Супруг"
+  
+ request_polygamy_personal_interaction: "Запросить разрешение на многожёнство"
+ request_polygamy_personal_interaction_desc: "Вы попросите у своего сюзерена разрешения взять ещё одну жену"
+ request_polygamy_exception_interaction: "Провозгласить исключение для многожёнства"
+ request_polygamy_exception_interaction_desc: "Вы попросите Верховного септона распространить Доктрину Исключительности на многожёнство"
+ request_polygamy_multiple_interaction: "Требовать больше жён"
+ request_polygamy_multiple_interaction_desc: "Вы потребуете, чтобы Верховный септон позволил вам иметь до четырёх жён"
+  
+ take_dragon_wives: "Взять драконью жену"
+ take_dragon_wives_confirm: "Как Принцы-чародеи древности"
+  
+ dw_offer_vassalization_interaction_aibehavior_power_tt: "Разница в военной мощи: $VALUE|=+0$ #weak (макс. +200)#!"
+ your_knights_ride_dragons: "Наездников драконов в вашей армии: $VALUE|=+0$"
+ i_ride_a_dragon: "Вы - наездник дракона: $VALUE|=+0$"
+ crown_has_no_dragons: "У вас нет драконов: $VALUE|=+0$"
+  
+ proclaim_fail_text_dw: "@warning_icon!#X Это вызовет Восстание Веры#!"
+ proclaim_success_text_dw: "Доктрина Исключительности будет расширена, чтобы включить многожёнство для одобренных членов династии Таргариенов."
+ placeholder_empty: ""
+ demand_success_text_dw: "Вы получите право иметь до четырёх жён!"
+ liege_approves_polygamy: "Ваш сюзерен разрешает вам взять ещё одну жену"
+ liege_disapproves_polygamy: "Ваш сюзерен отказывает вам в разрешении взять ещё одну жену"
+  
+ concede_on_polygamy: "Мы не сможем выдвигать подобные требования в течение этой жизни"
+  
+ dw_events.0002.opening: "Возражение против ереси"
+ dw_events.0002.desc: "Дорогой [actor.GetName], ваши нечестивые требования ереси не будут приняты. Не испытывайте Веру, иначе готовьтесь встретиться с самими Семью!"
+ dw_events.0002.a: "Мы должны отступить"
+ dw_events.0002.b: "Черт побери Семерых! К оружию!"
+  
+ dw_events.0003.opening: "Исключение для Таргариенов"
+ dw_events.0003.desc: "Дорогой [actor.GetName], Вера одобрила ваш запрос, ибо Таргариены ближе к богам, чем к людям!"
+ dw_events.0003.a: "Отлично"
+  
+ polygamy_approved_dw: "Наши требования одобрены!"
+ needs_liege_permission: "Ваш сюзерен разрешил вам иметь нескольких жён"
+ has_exceptionalism_doctrine_text: "Ваша вера следует Доктрине Исключительности"
+ has_exception_polygamy_text: "Верховный септон расширил Доктрину Исключительности, включив в неё многожёнство"
+  
+ liege_denies_polygamy: "Ваш сюзерен запретил вам брать ещё одну жену"
+  
+ dw_events.0001.t: ""
+ dw_events.0001.a: ""
+ dw_events.0001.desc: ""
+  
+ agot_scenario_dd.0317.t: "Дракон должен иметь три головы"
+ agot_scenario_dd.0317.desc: ""
+ agot_scenario_dd.0317.opt.a: "От моего рода..."
+ agot_scenario_dd.0317.opt.b: "Этот обычай должен остаться с Гибелью"
+ agot_scenario_dd.0317.a.tt: "Вы обручитесь с этим человеком после своей первой свадьбы"
+ agot_scenario_dd.0317.b.tt: "Вы не возьмёте вторую жену"
+  
+ agot_scenario_dd_betrothe_catelyn: "[catelyn.GetName] станет [betrothed|E] [bachelor.GetShortUINamePossessiveNoTooltipNoFormat] с обещанием [grand_wedding_promise|E]."
+ agot_scenario_dd_betrothe_lynesse: "[lynesse.GetName] станет [betrothed|E] [bachelor.GetShortUINamePossessiveNoTooltipNoFormat] с обещанием [grand_wedding_promise|E]."
+ knows_the_prophecy: "Вы знаете о Пророчестве"
+ PERSONAL_POLYGAMY_PROPOSAL: "Запрос на разрешение многожёнства"
+ PERSONAL_POLYGAMY_REJECT: "Отказано"
+ PERSONAL_POLYGAMY_ACCEPT: "Разрешено"
+  
+ agot_scenario_rr_toj.rhaegar.j: "Давай обвенчаемся с Элией по валирийскому обычаю, Лианна, и я клянусь - наши дети унаследуют королевство."
+ agot_scenario_rr_toj.rhaegar.k: "Давай обвенчаемся с Элией по валирийскому обычаю, Лианна, и оставим эти смутные времена позади."
+  
+ AGOT_SCENARIO_RR_TOJ_MARRY_LYANNA_PRIMARY: "Вы берёте Лианну основной женой наравне с Элией. Если ваш ребёнок жив, он будет назван наследником"
+ AGOT_SCENARIO_RR_TOJ_MARRY_LYANNA_SECONDARY: "Вы берёте Лианну второй женой после Элии."
+  
+ take_dragon_wives_tooltip: "Взять дополнительную жену"
+ take_dragon_wives_desc: "Взять дополнительную жену"

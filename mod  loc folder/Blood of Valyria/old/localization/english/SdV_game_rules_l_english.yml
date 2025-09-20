@@ -1,0 +1,82 @@
+﻿l_english:
+ game_rule_category_SdV: "Blood of Valyria - Game rules"
+
+ rule_hv_vi_100_gr: "Automatic assignment of the [GetTrait('vi_100').GetName(GetNullCharacter)|l] trait to $high_valyrian$ characters."
+ setting_hv_vi_100_enable: "Enable"
+ setting_hv_vi_100_enable_desc: "The [GetTrait('vi_100').GetName(GetNullCharacter)|l] will be automatically assigned to $high_valyrian$ characters who spawn during the game."
+ setting_hv_vi_100_disable: "Disable"
+ setting_hv_vi_100_disable_desc: "The [GetTrait('vi_100').GetName(GetNullCharacter)|l] will not be automatically assigned to $high_valyrian$ characters who spawn during the game."
+
+ rule_wv_vi_50_gr: "Automatic assignment of the [GetTrait('vi_50').GetName(GetNullCharacter)|l] trait to $westerosi_valyrian$ characters."
+ setting_wv_vi_50_enable: "Enable"
+ setting_wv_vi_50_enable_desc: "The [GetTrait('vi_50').GetName(GetNullCharacter)|l] will be automatically assigned to $westerosi_valyrian$ characters who spawn during the game."
+ setting_wv_vi_50_disable: "Disable"
+ setting_wv_vi_50_disable_desc: "The [GetTrait('vi_50').GetName(GetNullCharacter)|l] will not be automatically assigned to $westerosi_valyrian$ characters who spawn during the game."
+
+ rule_ev_vi_50_gr: "Automatic assignment of the [GetTrait('vi_50').GetName(GetNullCharacter)|l] trait to $essosi_valyrian$ characters."
+ setting_ev_vi_50_enable: "Enable"
+ setting_ev_vi_50_enable_desc: "The [GetTrait('vi_50').GetName(GetNullCharacter)|l] will be automatically assigned to $essosi_valyrian$ characters who spawn during the game."
+ setting_ev_vi_50_disable: "Disable"
+ setting_ev_vi_50_disable_desc: "The [GetTrait('vi_50').GetName(GetNullCharacter)|l] will not be automatically assigned to $essosi_valyrian$ characters who spawn during the game."
+
+ rule_mdd_gr: "Dragons Suppression"
+ setting_mdd_enable: "Enable"
+ setting_mdd_enable_desc: "#N Only in new games (before the Last Dragon dies) and solo. #! An event will be triggered, asking you to kill all the dragons..."
+ setting_mdd_disable: "Disable"
+ setting_mdd_disable_desc: "No dragon will be removed"
+
+ rule_sdv_ad_gr: "Chance of hatching and taming dragons."
+ setting_sdv_ad_enable: "Increased luck."
+ setting_sdv_ad_enable_desc: "The chances of you or the AI ​​hatching dragon eggs during ceremonies, or successfully taming a dragon, are greatly increased based on your Valyrian blood percentage."
+ setting_sdv_ad_disable: "Luck unchanged"
+ setting_sdv_ad_disable_desc: "The chances of you or the AI ​​successfully taming a dragon or hatching a dragon egg during a ceremony remain the same as in vanilla."
+
+ rule_sdv_debug_traits_gr: "Debug: add or remove the traits from #NBlood of Valyria #!."
+ setting_sdv_debug_traits_enable: "Enable."
+ setting_sdv_debug_traits_enable_desc: "You will be able to remove or add traits (from #NBlood of Valyria #!) to the characters."
+ setting_sdv_debug_traits_disable: "Disable."
+ setting_sdv_debug_traits_disable_desc: "You will not be able to remove or add traits (from #NBlood of Valyria #!) to characters. (still possible if debug mode is enabled.)"
+
+ rule_sdv_celtigar_hv_gr: "Celtigar: $high_valyrian$ or $westerosi_valyrian$."
+ setting_sdv_celtigar_hv_disable: "Default."
+ setting_sdv_celtigar_hv_disable_desc: "Les Celtigars remain $high_valyrian$ as does the #N Blood of Valyria #! mod"
+ setting_sdv_celtigar_hv_enable: "Vanilla"
+ setting_sdv_celtigar_hv_enable_desc: "You will have an event to make the Celtigars $westerosi_valyrian$ like the vanilla version of #N CK3 AGOT #!"
+
+ rule_sdv_scales_hv_gr: "Scales: $high_valyrian$ or $westerosi_valyrian$."
+ setting_sdv_scales_hv_disable: "Default."
+ setting_sdv_scales_hv_disable_desc: "The Scales remain $high_valyrian$ as does the #N Blood of Valyria #! mod"
+ setting_sdv_scales_hv_enable: "Vanilla"
+ setting_sdv_scales_hv_enable_desc: "You will have an event to make the Lamelins $westerosi_valyrian$like the vanilla version of #N CK AGOT #!"
+
+ rule_sdv_beauty_fertility_gr: "Fertility of beauty traits."
+ setting_sdv_beauty_fertility_vanilla: "Vanilla"
+ setting_sdv_beauty_fertility_vanilla_desc: "Default"
+ setting_sdv_beauty_fertility_disable: "Disable"
+ setting_sdv_beauty_fertility_disable_desc: "Characters with one of the following traits: [GetTrait('beauty_good_1').GetName(GetNullCharacter)|l], [GetTrait('beauty_good_2').GetName(GetNullCharacter)|l], [GetTrait('beauty_good_3').GetName(GetNullCharacter)|l], [GetTrait('beauty_bad_1').GetName(GetNullCharacter)|l], [GetTrait('beauty_bad_2').GetName(GetNullCharacter)|l] or [GetTrait('beauty_bad_3').GetName(GetNullCharacter)|l], will receive a penalty, or a bonus, in order to avoid the effects on fertility brought by these traits."
+
+ rule_sdv_three_pt_gr: "Number of personality traits"
+ setting_sdv_three_pt_disable: "4"
+ setting_sdv_three_pt_disable_desc: "Characters have 4 personality traits like in the vanilla version of #N CK3 AGOT #!"
+ setting_sdv_three_pt_enable: "3"
+ setting_sdv_three_pt_enable_desc: "Children lose a personality trait at 16, to match the Vallia version of CK3"
+
+ rule_sdv_three_pt_gr: "Existing characters: 3 or 4 traits?"
+ setting_sdv_three_pt_after_loby_enable_disable: "4"
+ setting_sdv_three_pt_after_loby_enable_disable_desc: "Characters already present in the game will keep their 4 traits"
+ setting_sdv_three_pt_after_loby_enable_enable: "3"
+ setting_sdv_three_pt_after_loby_enable_enable_desc: "Characters already in the game will have a trait removed when starting a new game. (Only works if the previous game rule is enabled)."
+
+ rule_sdv_pw_ls_g: "Prince of Westeros"
+ setting_sdv_pw_ls_enable: "Enable"
+ setting_sdv_pw_ls_enable_desc: "This feature is under development, please disable the game rule"
+ setting_sdv_pw_ls_disable: "Disable"
+ setting_sdv_pw_ls_disable_desc: "Please leave this game rule disabled."
+
+ rule_sdv_pw_culture_gr: "Prince of Westeros: Culture"
+ setting_sdv_pw_culture_strict: "Enable"
+ setting_sdv_pw_culture_strict_desc: "This feature is under development, please disable the game rule"
+ setting_sdv_pw_culture_no_strict: "Disable"
+ setting_sdv_pw_culture_no_strict_desc: "Please leave this game rule disabled."
+
+ #[trait|El] [GetTrait('incapable').GetName(GetNullCharacter)|l]

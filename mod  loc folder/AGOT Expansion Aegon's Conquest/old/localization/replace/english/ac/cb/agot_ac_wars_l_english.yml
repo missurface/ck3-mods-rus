@@ -1,0 +1,66 @@
+﻿l_english:
+ # Aegon's Conquest Wars
+ aegons_landing_crownlands_war:0 "Aegon's First Test"
+ AEGONS_LANDING_CROWNLANDS_WAR_NAME:0 "[ATTACKER.GetFirstNamePossessive] First Test"
+ AEGONS_LANDING_CROWNLANDS_WAR_NAME_BASE:0 "[ATTACKER.GetFirstNamePossessive] First Test"
+ AEGONS_LANDING_CROWNLANDS_WAR_CB_NAME:0 "Aegon's First Test" # Should never be seen
+
+ aegons_invasion_of_riverlands:0 "Aegon's Conquest of the Riverlands"
+ AEGONS_INVASION_RIVERLANDS_WAR_NAME:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the Riverlands"
+ AEGONS_INVASION_RIVERLANDS_WAR_NAME_BASE:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the Riverlands"
+ AEGONS_INVASION_RIVERLANDS_WAR_CB_NAME:0 "Aegon's Conquest of the Riverlands" # Should never be seen\
+ 
+ aegons_invasion_of_stormlands:0 "Aegon's Conquest of the Stormlands"
+ AEGONS_INVASION_STORMLANDS_WAR_NAME:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the Stormlands"
+ AEGONS_INVASION_STORMLANDS_WAR_NAME_BASE:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the Stormlands"
+ AEGONS_INVASION_STORMLANDS_WAR_CB_NAME:0 "Aegon's Conquest of the Stormlands" # Should never be seen\
+
+ aegons_invasion_of_the_west:0 "Aegon's Conquest of the West"
+ AEGONS_INVASION_THE_WEST_WAR_NAME:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the West"
+ AEGONS_INVASION_THE_WEST_WAR_NAME_BASE:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the West"
+ AEGONS_INVASION_THE_WEST_WAR_CB_NAME:0 "Aegon's Conquest of the West" # Should never be seen\
+
+ aegons_invasion_of_the_west:0 "Aegon's Conquest of the West"
+ AEGONS_INVASION_THE_WEST_WAR_NAME:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the West"
+ AEGONS_INVASION_THE_WEST_WAR_NAME_BASE:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the West"
+ AEGONS_INVASION_THE_WEST_WAR_CB_NAME:0 "Aegon's Conquest of the West" # Should never be seen\
+
+ aegons_invasion_of_the_reach:0 "Aegon's Conquest of the Reach"
+ AEGONS_INVASION_THE_REACH_WAR_NAME:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the Reach"
+ AEGONS_INVASION_THE_REACH_WAR_NAME_BASE:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the Reach"
+ AEGONS_INVASION_THE_REACH_WAR_CB_NAME:0 "Aegon's Conquest of the Reach" # Should never be seen\
+
+ aegons_invasion_of_the_westerlands:0 "Aegon's Conquest of the Westerlands"
+ AEGONS_INVASION_THE_WESTERLANDS_WAR_NAME:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the Westerlands"
+ AEGONS_INVASION_THE_WESTERLANDS_WAR_NAME_BASE:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the Westerlands"
+ AEGONS_INVASION_THE_WESTERLANDS_WAR_CB_NAME:0 "Aegon's Conquest of the Westerlands" # Should never be seen\
+
+ aegons_invasion_of_the_north:0 "Aegon's Conquest of the North"
+ AEGONS_INVASION_THE_NORTH_WAR_NAME:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the North"
+ AEGONS_INVASION_THE_NORTH_WAR_NAME_BASE:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the North"
+ AEGONS_INVASION_THE_NORTH_WAR_CB_NAME:0 "Aegon's Conquest of the North" # Should never be seen\
+
+ oldtowns_defiance:0 "The Defiance of Oldtown"
+ OLDTOWNS_DEFIANCE_WAR_NAME:0 "The Defiance of Oldtown"
+ OLDTOWNS_DEFIANCE_WAR_NAME_BASE:0 "The Defiance of Oldtown"
+ OLDTOWNS_DEFIANCE_WAR_CB_NAME:0 "The Defiance of Oldtown" # Should never be seen\
+
+ aegons_invasion_of_the_vale:0 "Aegon's Conquest of the Vale"
+ AEGONS_INVASION_THE_VALE_WAR_NAME:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the Vale"
+ AEGONS_INVASION_THE_VALE_WAR_NAME_BASE:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the Vale"
+ AEGONS_INVASION_THE_VALE_WAR_CB_NAME:0 "Aegon's Conquest of the Vale" # Should never be seen\
+
+ first_dornish_war:0 "Dornish War"
+ FIRST_DORNISH_WAR_NAME:0 "Dornish War"
+ FIRST_DORNISH_WAR_NAME_BASE:0 "Dornish War"
+ FIRST_DORNISH_WAR_CB_NAME:0 "Dornish War" # Should never be seen\
+
+ vale_conquest:0 "Conquest of the Vale"
+ INVASION_THE_VALE_WAR_NAME:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the Vale"
+ INVASION_THE_VALE_WAR_NAME_BASE:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the Vale"
+ INVASION_THE_VALE_WAR_CB_NAME:0 "Conquest of the Vale" # Should never be seen\
+
+ north_conquest:0 "Conquest of the North"
+ INVASION_THE_NORTH_WAR_NAME:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the North"
+ INVASION_THE_NORTH_WAR_NAME_BASE:0 "[ATTACKER.GetFirstNamePossessive] Conquest of the North"
+ INVASION_THE_NORTH_WAR_CB_NAME:0 "Conquest of the North" # Should never be seen\

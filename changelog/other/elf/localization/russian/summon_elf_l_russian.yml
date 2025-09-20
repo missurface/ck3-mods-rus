@@ -1,0 +1,18 @@
+﻿l_russian:
+ summon_all_elfs_decision: "Призвать всех эльфов" #NT!
+ summon_all_elfs_decision_desc: "Пришло время разослать приглашение всем эльфам в мире." #NT!
+ summon_all_elfs_decision_tooltip: "Все эльфы будут призваны посетить ваш двор" #NT!
+ summon_all_elfs_decision_confirm: "Отправить приглашение" #NT!
+ summon_elf_effect_1: "Все эльфы без дома соберутся под вашим знаменем." #NT!
+ summon_all_elfs.0001.title: "Эльф прибыл" #NT!
+ summon_all_elfs.0001.desc: "Одарённый эльф был собран со всех земель и представлен перед вами.\n\nПосле внимательного рассмотрения двор пришёл к выводу, что наиболее достойным вступить в ваш двор является [target1.GetFirstName].\n\nВы желаете пригласить его присоединиться к вам?" #NT!
+ no_elf.0001.title: "Нет эльфов?" #NT!
+ no_elf.0001.desc: "Эльфов для тебя нет, шутник." #NT!
+ summon_all_elfs.0001.a: "Пригласить [target1.GetFirstName], самого достойного эльфа." #NT!
+ no_elf.0001.a: "Не будет тебе эльфа." #NT!
+  
+ rule_using_has_lormelis: "#R;medium_glow Судьба эльфов#!: Родовая совместимость" #NT!
+ setting_using_has_lormelis_yes: "Используется" #NT!
+ setting_using_has_lormelis_yes_desc: "Судьба эльфов — Atlantis активна, теперь вы можете приглашать эльфов/эльфиек с родовой линией Лормелис." #NT!
+ setting_not_using_has_lormelis: "Не используется" #NT!
+ setting_not_using_has_lormelis_desc: "Судьба эльфов — Atlantis неактивна, вы не можете приглашать эльфов/эльфиек с родовой линией Лормелис." #NT!

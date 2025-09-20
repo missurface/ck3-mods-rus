@@ -1,0 +1,18 @@
+﻿l_english:
+ summon_all_elfs_decision:0 "Invite all Elfs"
+ summon_all_elfs_decision_desc:0 "It is time to send an invitation to all elfs in the world."
+ summon_all_elfs_decision_tooltip:0 "All elfs are summoned to visit your court"
+ summon_all_elfs_decision_confirm:0 "Send the invitation"
+ summon_elf_effect_1:0 "All Elfs without a home shall flock to your banner."
+ summon_all_elfs.0001.title:0 "An Elf Has Arrived"
+ summon_all_elfs.0001.desc:0 "A talented elf has been gathered from across the realm and presented before you.\n\nAfter careful consideration, the court has come to the consensus that the most qualified to join your court is [target1.GetFirstName].\n\nDo you choose to invite them to join your court?"
+ no_elf.0001.title:0 "No Elfs?"
+ no_elf.0001.desc:0 "No Elfs for you goofy."
+ summon_all_elfs.0001.a:0 "Invite [target1.GetFirstName], the most worthy elf."
+ no_elf.0001.a:0 "No Elf for you."
+
+ rule_using_has_lormelis:0 "#R;medium_glow Elf Destiny#!: Bloodline Compatch"
+ setting_using_has_lormelis_yes:0 "Using"
+ setting_using_has_lormelis_yes_desc:0 "Elf Destiny - Atlantis is active, you can now invite elfs/elfesses with the Lormelis bloodline."
+ setting_not_using_has_lormelis:0 "Not Using"
+ setting_not_using_has_lormelis_desc:0 "Elf Destiny - Atlantis is inactive, you can't invite elfs/elfesses with the Lormelis bloodline."

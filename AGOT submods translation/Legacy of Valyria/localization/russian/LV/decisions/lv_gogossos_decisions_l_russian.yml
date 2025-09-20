@@ -1,26 +1,26 @@
 ﻿l_russian:
- restore_gogossos: "Proclaim The Tenth City" #NT!
- restore_gogossos_tooltip: "Restore Gogossos" #NT!
- restore_gogossos_desc: "Hundreds of years had passed since the Doom, and Gogossos finally returns to the fold under my leadership, worthy once again to be called a contender for the legacy of the [valyrian_freehold_short|E]." #NT!
- restore_gogossos_choice: "You will be presented a list of choices on how you want to restore Gogossos" #NT!
- restore_gogossos_confirm: "The Tenth City shall rise again!" #NT!
+ restore_gogossos: "Провозгласить Десятый город"
+ restore_gogossos_tooltip: "Восстановить Гогоссос"
+ restore_gogossos_desc: "Прошли сотни лет с момента Рока, и теперь Гогоссос вновь возвращается под моё правление. Он снова достоин считаться наследником Валирийского Вольного государства."
+ restore_gogossos_choice: "Вам будет предложен список вариантов, как именно восстановить Гогоссос."
+ restore_gogossos_confirm: "Десятый город восстанет вновь!"
   
- gogossos_restoration.0001.t: "The Tenth City Reborn" #NT!
- gogossos_restoration.0001.desc: "After many years and gold spent rebuilding and restoring not just the city, but all of the isles surrounding Gogossos, I have brought wealth and prosperity to this region. With the pirate lords driven out and my dominion over the former colony of the [valyrian_freehold_short|E] uncontested, I proclaim Gogossos as being worthy once more of the glory it achieved. The crown jewel of Sothoryos stands more beautiful than all her rival states." #NT!
- gogossos_restoration.0001.a: "Gogossos shall become the Tenth Free City once more!" #NT!
- gogossos_restoration.0001.b: "Only through influence and power shall Gogossos thrive!" #NT!
- gogossos_restoration.0001.c: "It takes the strong rule of a monarch to not repeat the slavers' mistakes." #NT!
- gogossos_restoration.0001.d: "This city will prosper under my rulership." #NT!
- gogossos_restoration.0001.d.tooltip: "You will retain your current form of government." #NT!
+ gogossos_restoration.0001.t: "Возрождение Десятого города"
+ gogossos_restoration.0001.desc: "Годы труда и огромные суммы золота были вложены в восстановление не только самого города, но и всех островов вокруг Гогоссоса. Я принёс богатство и процветание этим землям. С пиратскими лордами покончено, а моя власть над бывшей колонией Вольного государства остаётся бесспорной. Я провозглашаю, что Гогоссос вновь обрёл былую славу. Корона Соториоса теперь сияет ярче, чем все её соперники."
+ gogossos_restoration.0001.a: "Гогоссос вновь станет Десятым Вольным городом!"
+ gogossos_restoration.0001.b: "Только через влияние и могущество Гогоссос сможет процветать!"
+ gogossos_restoration.0001.c: "Только сильная монархия не повторит ошибок прежних работорговцев."
+ gogossos_restoration.0001.d: "Этот город будет процветать под моим правлением."
+ gogossos_restoration.0001.d.tooltip: "Вы сохраните текущую форму правления."
   
- gogossos_restoration.0002.t: "The Tenth Free City Reborn" #NT!
- gogossos_restoration.0002.desc: "Once ruined and ravaged by the Red Death, Gogossos stands tall once. Trade flows once more into the city, and the former Valyrian colony's restoration will be told for years to come." #NT!
- gogossos_restoration.0002.a: "Only time will tell what becomes of this..." #NT!
+ gogossos_restoration.0002.t: "Возрождение Десятого Вольного города"
+ gogossos_restoration.0002.desc: "Когда-то разрушенный и опустошённый Красной смертью, Гогоссос вновь стоит во всей своей красе. Торговые пути снова пересекаются в его портах, а история восстановления бывшей валирийской колонии будет передаваться из поколения в поколение."
+ gogossos_restoration.0002.a: "Только время покажет, что ждёт нас дальше..."
   
- expedition_quest: "Fund an Expedition" #NT!
- expedition_quest_tooltip: "Fund an expedition to explore the old ruins along the Basilisk Isles" #NT!
- expedition_quest_desc: "The call for adventure stirs within me, an irresistible pull toward the forgotten ruins spoken of in old sailors' tales—the lost remnants of Sothoryos and Gogossos. Places of legend, shrouded in mystery and dread, where ancient civilizations once thrived and fell to ruin.\n\nI can almost hear the whispers of untold secrets hidden beneath their crumbling stones, the promise of lost relics waiting to be unearthed. The thought alone sets my heart racing.\n\nI must act swiftly. I'll need maps, supplies, and a crew willing to brave the unknown. There's no time to waste—an expedition must be planned at once." #NT!
- expedition_quest_effect: "You fund an expedition to Gogossos" #NT!
- expedition_quest_confirm: "Treasures and dangers ahead—how alluring..." #NT!
+ expedition_quest: "Финансировать экспедицию"
+ expedition_quest_tooltip: "Профинансируйте экспедицию по исследованию старых руин на островах Василиска"
+ expedition_quest_desc: "Во мне просыпается жажда приключений, непреодолимое влечение к забытым руинам, о которых говорится в рассказах старых моряков, — затерянным останкам Соториоса и Гогоссоса. Легендарные места, окутанные тайной и ужасом, где древние цивилизации когда-то процветали, а затем пришли в упадок.\n\nЯ почти слышу шепот о нераскрытых тайнах, скрытых под их крошащимися камнями, обещание утерянных реликвий, ожидающих своего часа. От одной этой мысли мое сердце начинает биться чаще..\n\nЯ должен действовать быстро. Мне понадобятся карты, припасы и команда, готовая бросить вызов неизвестному. Нельзя терять времени — экспедицию нужно планировать немедленно."
+ expedition_quest_effect: "Вы финансируете экспедицию в Гогоссос"
+ expedition_quest_confirm: "Сокровища и опасности впереди — как заманчиво..."
   
- gobshite.1: "Why are you even looking I said it doesn't work... Gobshite" #NT!
+ gobshite.1: "Зачем ты вообще смотришь, я же сказал, что это не работает... Идиот"

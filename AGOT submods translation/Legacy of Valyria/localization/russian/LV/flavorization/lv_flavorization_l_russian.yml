@@ -1,109 +1,109 @@
 ﻿l_russian:
    # Special 
- emperor_valyrian_male: "Emperor" #NT!
- emperor_valyrian_female: "Empress" #NT!
- empire_valyrian: "Empire" #NT!
+ emperor_valyrian_male: "Император"
+ emperor_valyrian_female: "Императрица"
+ empire_valyrian: "Империя"
   
- county_major_city: "[city]" #NT!
+ county_major_city: "[city]"
   
    # Colonies 
- county_colony: "Colony" #NT!
- barony_colony: "Settlement" #NT!
+ county_colony: "Колония" #NT!
+ barony_colony: "Поселение" #NT!
   
    # Free Cities 
- king_free_city_male_k_volantis: "Triarch" #NT!
- king_free_city_female_k_volantis: "Triarch" #NT!
+ king_free_city_male_k_volantis: "Триарх"
+ king_free_city_female_k_volantis: "Триарх"
   
    # Volantene Triarchy 
- volantene_male: "[CHARACTER.Custom('VOLANTENE_MALE')]" #NT!
- volantene_female: "[CHARACTER.Custom('VOLANTENE_FEMALE')]" #NT!
- volantene_male_triarch: "Triarch" #NT!
- volantene_female_triarch: "Triarch" #NT!
- volantene_male_freeholder: "Lord Freeholder" #NT!
- volantene_female_freeholder: "Lady Freeholder" #NT!
- volantene_male_fallback: "Magister" #NT!
- volantene_female_fallback: "Magister" #NT!
+ volantene_male: "[CHARACTER.Custom('VOLANTENE_MALE')]"
+ volantene_female: "[CHARACTER.Custom('VOLANTENE_FEMALE')]"
+ volantene_male_triarch: "Триарх"
+ volantene_female_triarch: "Триарх"
+ volantene_male_freeholder: "Лорд Свобододержатель"
+ volantene_female_freeholder: "Леди Свобододержатель"
+ volantene_male_fallback: "Магистр"
+ volantene_female_fallback: "Магистр"
   
    # Rhoynar 
- king_rhoynish_male: "Prince" #NT!
- king_rhoynish_female: "Princess" #NT!
- emperor_rhoynish_male: "Prince" #NT!
- emperor_rhoynish_female: "Princess" #NT!
+ king_rhoynish_male: "Принц"
+ king_rhoynish_female: "Принцесса"
+ emperor_rhoynish_male: "Принц"
+ emperor_rhoynish_female: "Принцесса"
   
- kingdom_rhoynish: "Principality" #NT!
- empire_rhoynish: "Principality" #NT!
+ kingdom_rhoynish: "Княжество"
+ empire_rhoynish: "Княжество"
   
    # Oligarchy 
- oligarchic_government: "Oligarchic" #NT!
- oligarchic_government_with_icon: "@civilian_administration! Oligarchic Government" #NT!
- oligarchic_government_adjective: "Oligarchic" #NT!
- oligarchic_government_desc: "Many of the city-states of Essos further east of the Free Cities are oligarchies ruled by a handful of noble families." #NT!
+ oligarchic_government: "Олигархия"
+ oligarchic_government_with_icon: "@civilian_administration! Олигархическое правление"
+ oligarchic_government_adjective: "Олигархическое"
+ oligarchic_government_desc: "Многие города-государства Эссоса, расположенные к востоку от Свободных Городов, представляют собой олигархии, управляемые несколькими знатными семьями."
   
- government_is_oligarchic: "[government|E] type is [GetGovernment( 'oligarchic_government' ).GetName]" #NT!
+ government_is_oligarchic: "Тип [government|E] — [GetGovernment('oligarchic_government').GetName]"
   
- baron_oligarchic_male: "Master" #NT!
- baron_oligarchic_female: "Mistress" #NT!
- count_oligarchic_male: "Master" #NT!
- count_oligarchic_female: "Mistress" #NT!
- duke_oligarchic_male: "Master" #NT!
- duke_oligarchic_female: "Mistress" #NT!
- duke_oligarchic_independent_male: "Master" #NT!
- duke_oligarchic_independent_female: "Mistress" #NT!
- king_oligarchic_male_spouse: "Master" #NT!
- king_oligarchic_female_spouse: "Mistress" #NT!
- king_oligarchic_male: "[CHARACTER.Custom('KINGDOM_OLIGARCHIC_MALE')]" #NT!
- king_oligarchic_female: "[CHARACTER.Custom('KINGDOM_OLIGARCHIC_FEMALE')]" #NT!
- king_oligarchic_independent_male: "[CHARACTER.Custom('KINGDOM_OLIGARCHIC_MALE')]" #NT!
- king_oligarchic_independent_female: "[CHARACTER.Custom('KINGDOM_OLIGARCHIC_FEMALE')]" #NT!
- king_oligarchic_male_fallback: "Master" #NT!
- king_oligarchic_female_fallback: "Mistress" #NT!
- emperor_oligarchic_male_spouse: "Master" #NT!
- emperor_oligarchic_female_spouse: "Mistress" #NT!
- emperor_oligarchic_male: "Master" #NT!
- emperor_oligarchic_female: "Mistress" #NT!
- emperor_oligarchic_independent_male: "Master" #NT!
- emperor_oligarchic_independent_female: "Mistress" #NT!
+ baron_oligarchic_male: "Мастер"
+ baron_oligarchic_female: "Госпожа"
+ count_oligarchic_male: "Мастер"
+ count_oligarchic_female: "Госпожа"
+ duke_oligarchic_male: "Мастер"
+ duke_oligarchic_female: "Госпожа"
+ duke_oligarchic_independent_male: "Мастер"
+ duke_oligarchic_independent_female: "Госпожа"
+ king_oligarchic_male_spouse: "Мастер"
+ king_oligarchic_female_spouse: "Госпожа"
+ king_oligarchic_male: "[CHARACTER.Custom('KINGDOM_OLIGARCHIC_MALE')]"
+ king_oligarchic_female: "[CHARACTER.Custom('KINGDOM_OLIGARCHIC_FEMALE')]"
+ king_oligarchic_independent_male: "[CHARACTER.Custom('KINGDOM_OLIGARCHIC_MALE')]"
+ king_oligarchic_independent_female: "[CHARACTER.Custom('KINGDOM_OLIGARCHIC_FEMALE')]"
+ king_oligarchic_male_fallback: "Мастер"
+ king_oligarchic_female_fallback: "Госпожа"
+ emperor_oligarchic_male_spouse: "Мастер"
+ emperor_oligarchic_female_spouse: "Госпожа"
+ emperor_oligarchic_male: "Мастер"
+ emperor_oligarchic_female: "Госпожа"
+ emperor_oligarchic_independent_male: "Мастер"
+ emperor_oligarchic_independent_female: "Госпожа"
   
- barony_oligarchic: "City" #NT!
- county_oligarchic: "City" #NT!
- duchy_oligarchic: "City" #NT!
- duchy_oligarchic_independent: "City" #NT!
- kingdom_oligarchic: "Grand City" #NT!
- kingdom_oligarchic_independent: "Grand City" #NT!
- empire_oligarchic: "Grand City" #NT!
+ barony_oligarchic: "Город"
+ county_oligarchic: "Город"
+ duchy_oligarchic: "Город"
+ duchy_oligarchic_independent: "Город"
+ kingdom_oligarchic: "Великий Город"
+ kingdom_oligarchic_independent: "Великий Город"
+ empire_oligarchic: "Великий Город"
   
    # Slaver's Bay Oligarchies 
- king_oligarchic_male_k_meereen: "Great Master" #NT!
- king_oligarchic_female_k_meereen: "Great Mistress" #NT!
- king_oligarchic_male_k_yunkai: "Wise Master" #NT!
- king_oligarchic_female_k_yunkai: "Wise Mistress" #NT!
- king_oligarchic_male_k_astapor: "Good Master" #NT!
- king_oligarchic_female_k_astapor: "Good Mistress" #NT!
+ king_oligarchic_male_k_meereen: "Великий Мастер"
+ king_oligarchic_female_k_meereen: "Великая Госпожа"
+ king_oligarchic_male_k_yunkai: "Мудрый Мастер"
+ king_oligarchic_female_k_yunkai: "Мудрая Госпожа"
+ king_oligarchic_male_k_astapor: "Добрый Мастер"
+ king_oligarchic_female_k_astapor: "Добрая Госпожа"
   
    # Dothraki 
- empire_dothraki: "Khalasar" #NT!
- kingdom_dothraki: "Khalasar" #NT!
- duchy_dothraki: "Khalasar" #NT!
- county_dothraki: "Khalasar" #NT!
- barony_dothraki: "Khalasar" #NT!
+ empire_dothraki: "Кхаласар"
+ kingdom_dothraki: "Кхаласар"
+ duchy_dothraki: "Кхаласар"
+ county_dothraki: "Кхаласар"
+ barony_dothraki: "Кхаласар"
   
- khal_count_male: "Khal" #NT!
- khal_count_female: "Khaleesi" #NT!
- khal_duke_male: "Khal" #NT!
- khal_duke_female: "Khaleesi" #NT!
- khal_king_male: "Khal" #NT!
- khal_king_female: "Khaleesi" #NT!
- khal_emperor_male: "Khal" #NT!
- khal_emperor_female: "Khaleesi" #NT!
+ khal_count_male: "Кхал"
+ khal_count_female: "Кхалиси"
+ khal_duke_male: "Кхал"
+ khal_duke_female: "Кхалиси"
+ khal_king_male: "Кхал"
+ khal_king_female: "Кхалиси"
+ khal_emperor_male: "Кхал"
+ khal_emperor_female: "Кхалиси"
   
    # Asshai 
- empire_asshai: "Ancient City" #NT!
- kingdom_asshai: "Ancient City" #NT!
- duchy_asshai: "Ancient City" #NT!
+ empire_asshai: "Древний Город"
+ kingdom_asshai: "Древний Город"
+ duchy_asshai: "Древний Город"
   
- emperor_asshai_male: "Shadow Emperor" #NT!
- emperor_asshai_female: "Shadow Empress" #NT!
- king_asshai_male: "Shadow Councillor" #NT!
- king_asshai_female: "Shadow Councillor" #NT!
- duke_asshai_male: "Shadow Councillor" #NT!
- duke_asshai_female: "Shadow Councillor" #NT!
+ emperor_asshai_male: "Император Теней"
+ emperor_asshai_female: "Императрица Теней"
+ king_asshai_male: "Советник Теней"
+ king_asshai_female: "Советница Теней"
+ duke_asshai_male: "Советник Теней"
+ duke_asshai_female: "Советница Теней"

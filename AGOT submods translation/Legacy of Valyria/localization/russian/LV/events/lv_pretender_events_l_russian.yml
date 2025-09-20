@@ -1,26 +1,26 @@
 ﻿l_russian:
- lv_pretender_empire.1.title: "An Heir to [valyria|E]" #NT!
- lv_pretender_empire.1.desc: "Since the [doom_of_valyria|E], [essos|E] has been without a guiding hand. To the north, [dothraki|E] savages lay waste to all beneath their steeds, and to the east the scions of the harpy grow bolder in embracing their Ghiscari heritage, and the daughter-colonies of the [valyrian_freehold_short|E] have been left to their own devices as the [free_cities|E] of [essos|E].\n\nYou ponder your options going forward. Many have dreamed of reviving the legacy of the [valyrian_freehold_short|E], and even fewer have dared to attempt. The [free_cities|E]—having resisted attempts at subjugation numerous times prior—are themselves still proud of their Valyrian heritage, with each in some form asserting themselves as the true heirs to [valyria|E]. To establish yourself as its successor state would no doubt signal to them your intentions of dominion over the [valyrian_freehold_short|E]'s former lands." #NT!
- lv_pretender_empire.1.a: "It is time for [essos|E] to be brought into the fold once more" #NT!
- lv_pretender_empire.1.b: "The [valyrian_freehold_short|E] continues through us" #NT!
- lv_pretender_empire.1.c: "I must bide my time for now..." #NT!
+ lv_pretender_empire.1.title: "Наследник Валирии"
+ lv_pretender_empire.1.desc: "С момента Рока Валирии Эссос лишился единого управления. На севере дикари-дотракийцы разрушают всё на своём пути, а на востоке наследники гарпии всё смелее утверждают своё гискарское наследие. Дочерние колонии Фригольда, ставшие Свободными Городами Эссоса, остаются без единого правления, разделённые между собой.\n\nВы раздумываете над своими действиями. Мечта возродить величие Фригольда овладевала многими, но немногие осмеливались приступить к её реализации. Гордые Свободные Города, не раз противостоявшие попыткам их подчинить, сохраняют чувство собственной значимости как хранители валирийского наследия. Каждый из них в той или иной мере заявляет о своём праве называться истинным преемником Валирии. Провозглашение себя наследником Фригольда будет явным знаком для всех — вы намерены подчинить себе бывшие земли этой великой империи."
+ lv_pretender_empire.1.a: "Настало время вновь объединить Эссос под единым знаменем"
+ lv_pretender_empire.1.b: "Пока что я должен оставаться в тени..."
+ lv_pretender_empire.1.c: "А пока я должен выждать свое время..."
   
- LV_form_pretender_empire_effect_form_title_successor: "You proclaim your realm as the legitimate successor of the old [valyrian_freehold_short|E], which will be known to the world as #game_link $LV_NEW_PRETENDER_EMPIRE_NAME_SUCCESSOR$#!" #NT!
- LV_form_pretender_empire_effect_form_title_continuation: "As a remnant of the old [valyrian_freehold_short|E] and a member of a dynasty of the blood of old [valyria|E], you assert that you are the legitimate continuation of the [valyrian_freehold_short|E]. Your empire will be known as #game_link $LV_NEW_PRETENDER_EMPIRE_NAME_CONTINUATION$#!" #NT!
- LV_form_pretender_empire_effect_warning: "#warning @warning_icon! The [free_cities|E] will take this as a threat and will form a coalition against you!#!" #NT!
+ LV_form_pretender_empire_effect_form_title_successor: "Вы провозглашаете своё государство законным преемником старой Валирии, и весь мир узнает его как #game_link $LV_NEW_PRETENDER_EMPIRE_NAME_SUCCESSOR$#!"
+ LV_form_pretender_empire_effect_form_title_continuation: "Как наследник старой Валирии и представитель династии, в жилах которой течёт её древняя кровь, вы утверждаете, что являетесь истинным продолжателем Фригольда. Ваше государство будет носить имя #game_link $LV_NEW_PRETENDER_EMPIRE_NAME_CONTINUATION$#!"
+ LV_form_pretender_empire_effect_warning: "#warning @warning_icon! Вольные города воспримут это как угрозу и объединятся в коалицию против вас!#!"
   
- #LV_NEW_PRETENDER_EMPIRE_NAME: "[pretender.GetPrimaryTitle.GetAdjectiveNoTooltip] [valyria|E]" #NT!
- LV_NEW_PRETENDER_EMPIRE_NAME_SUCCESSOR: "[forming_kingdom.GetBaseNameNoTier]" #NT!
- LV_NEW_PRETENDER_EMPIRE_NAME_CONTINUATION: "[valyria|E]" #NT!
- #LV_NEW_PRETENDER_EMPIRE_NAME: "[valyria|E]" #NT!
- #SPECIAL_CREATED_TITLE_NAME: "[special_duchy.GetBaseNameNoTierNoTooltip]" #NT!
+ #LV_NEW_PRETENDER_EMPIRE_NAME: "Валирия"
+ LV_NEW_PRETENDER_EMPIRE_NAME_SUCCESSOR: "[forming_kingdom.GetBaseNameNoTier]"
+ LV_NEW_PRETENDER_EMPIRE_NAME_CONTINUATION: "Валирия"
+ #LV_NEW_PRETENDER_EMPIRE_NAME: "Валирия"
+ #SPECIAL_CREATED_TITLE_NAME: "[special_duchy.GetBaseNameNoTierNoTooltip]"
   
- lv_pretender_empire.2.title: "An Heir to [valyria|E]" #NT!
- lv_pretender_empire.2.desc: "Since the [doom_of_valyria|E], [essos|E] has been without a guiding hand. To the north, [dothraki|E] savages lay waste to all beneath their steeds, and to the east the scions of the harpy grow bolder in embracing their Ghiscari heritage, and the daughter-colonies of the [valyrian_freehold_short|E] have been left to their own devices as the [free_cities|E] of [essos|E].\n\nWord has reached you that [pretender.GetName] of [pretender.GetCapitalLocation.GetName] had claimed the legacy of [valyria|E], with [pretender.GetPrimaryTitle.GetName] as its successor state. This is no mere proclamation, but a declaration of authority over the former lands and colonies of the [valyrian_freehold_short|E]." #NT!
- lv_pretender_empire.2.a: "The pretender shall fall!" #NT!
- lv_pretender_empire.2.b: "The affairs of upstarts do not concern me." #NT!
+ lv_pretender_empire.2.title: "Наследник Валирии"
+ lv_pretender_empire.2.desc: "После Рока Валирии Эссос остался без единого управления. На севере дикари-дотракийцы топчут всё под копытами своих коней, а на востоке потомки гарпии продолжают восстанавливать былую мощь гискарского наследия. Дочерние колонии Фригольда, ставшие Свободными Городами Эссоса, разъединены.\n\nВам становятся известны вести: [pretender.GetName] из [pretender.GetCapitalLocation.GetName] объявил себя наследником Валирии и провозгласил [pretender.GetPrimaryTitle.GetName] её преемником. Это не просто слова, а декларация претензий на все земли и колонии Фригольда."
+ lv_pretender_empire.2.a: "Этот самозванец будет свергнут!"
+ lv_pretender_empire.2.b: "Дела этих выскочек меня не волнуют."
   
- lv_pretender_empire.3.title: "The [pretender_opponent.GetPrimaryTitle.GetAdjective] Coalition" #NT!
- lv_pretender_empire.3.desc: "Since the [doom_of_valyria|E], [essos|E] has been without a guiding hand. To the north, [dothraki|E] savages lay waste to all beneath their steeds, and to the east the scions of the harpy grow bolder in embracing their Ghiscari heritage, and the daughter-colonies of the [valyrian_freehold_short|E] have been left to their own devices as the [free_cities|E] of [essos|E].\n\nWord has reached you that [pretender.GetName] of [pretender.GetCapitalLocation.GetName] had claimed the legacy of [valyria|E], with [pretender.GetPrimaryTitle.GetName] as its successor state. This is no mere proclamation, but a declaration of authority over the former lands and colonies of the [valyrian_freehold_short|E]." #NT!
- lv_pretender_empire.3.a: "The pretender shall fall!" #NT!
- lv_pretender_empire.3.b: "The affairs of upstarts do not concern me." #NT!
+ lv_pretender_empire.3.title: "Коалиция [pretender_opponent.GetPrimaryTitle.GetAdjective]"
+ lv_pretender_empire.3.desc: "После Рока Валирии Эссос остался без единого правления. На севере дикари-дотракийцы уничтожают всё на своём пути, а на востоке потомки гарпии продолжают утверждать своё наследие. Свободные Города, бывшие колонии Фригольда, живут в разрозненности.\n\nВы узнаёте, что [pretender.GetName] из [pretender.GetCapitalLocation.GetName] заявил свои права на наследие Валирии, провозгласив [pretender.GetPrimaryTitle.GetName] её законным преемником. Это заявление ставит под угрозу всех, кто дорожит своей независимостью."
+ lv_pretender_empire.3.a: "Самозванец будет уничтожен!"
+ lv_pretender_empire.3.b: "Меня не интересуют дела этих выскочек."

@@ -1,14 +1,14 @@
 ﻿l_russian:
- volantene_triarchy_succession_law: "Volantene Triarchic Elective" #NT!
- volantene_triarchy_succession_law_subname: "Volantene Triarchy" #NT!
- volantene_triarchy_succession_law_effects: "\n#V Under a $volantene_triarchy_succession_law$, members of noble families who can trace their lineage back to the [valyrian_freehold|E] are eligible for candidacy. All freeborn landowners in the realm can cast their vote, and each of the three triarchs to be chosen will serve for a year.#!\n\n#weak $volantene_triarchy_base_desc$#!" #NT!
- volantene_triarchy_base_desc: "#weak At the first day of the new year, an election will be held to determine the triarchs who will rule for the rest of the year. A ten-day campaign period commences, with much festivity, chaos, and bribery as would-be triarchs vye for the freeholders' votes.\n\nTriarchs who have served their term may run for re-election as many times as they wish.\n#!" #NT!
+ volantene_triarchy_succession_law: "Избирательная система Волантийской Триархии"
+ volantene_triarchy_succession_law_subname: "Волантийская Триархия"
+ volantene_triarchy_succession_law_effects: "\n#V В соответствии с законом $volantene_triarchy_succession_law$, кандидатом может стать любой член благородной семьи, способный доказать свое происхождение от Валирийского Фригольда. Все свободные землевладельцы королевства имеют право голоса, а три триарха избираются сроком на один год.#!\n\n#weak $volantene_triarchy_base_desc$#!"
+ volantene_triarchy_base_desc: "#weak В первый день нового года проводятся выборы, которые определяют триархов, правящих в течение следующего года. Следует десятидневная избирательная кампания, сопровождаемая празднествами, хаосом и взяточничеством, поскольку кандидаты стремятся завоевать голоса свободных землевладельцев.\n\nТриархи, завершившие свой срок, могут баллотироваться повторно неограниченное количество раз.\n#!"
   
- volantene_triarchy_elective_electors: "Freeholders" #NT!
- volantene_triarchy_elective_electors_tooltip: "All freeborn landowners in the realm, regardless of gender, can vote" #NT!
- volantene_triarchy_elective_candidates: "The Old Blood" #NT!
- volantene_triarchy_elective_candidates_tooltip: "Members of the noble families of Volantis who can prove unbroken descent from [old_valyria|E]" #NT!
+ volantene_triarchy_elective_electors: "Свободные землевладельцы"
+ volantene_triarchy_elective_electors_tooltip: "Все свободнорожденные землевладельцы королевства, независимо от пола, имеют право голоса"
+ volantene_triarchy_elective_candidates: "Старая Кровь"
+ volantene_triarchy_elective_candidates_tooltip: "Члены благородных семей Волантиса, способные доказать прямое происхождение от древней Валирии"
   
- volantene_triarchy_succession_attached_titles_law: "Volantene Triarchic Elective" #NT!
- volantene_triarchy_succession_attached_titles_law_subname: "Volantene Triarchy" #NT!
- volantene_triarchy_succession_attached_titles_law_tooltip: "This title will follow the kingdom's election." #NT!
+ volantene_triarchy_succession_attached_titles_law: "Избирательная система Волантийской Триархии"
+ volantene_triarchy_succession_attached_titles_law_subname: "Волантийская Триархия"
+ volantene_triarchy_succession_attached_titles_law_tooltip: "Этот титул будет передаваться в соответствии с результатами выборов королевства."

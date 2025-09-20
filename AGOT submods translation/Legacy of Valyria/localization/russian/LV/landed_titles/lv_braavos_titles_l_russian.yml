@@ -1,183 +1,183 @@
 ﻿l_russian:
- e_braavos: "Braavos" #NT!
- k_braavos: "Braavos" #NT!
- d_braavos: "Braavos" #NT!
- c_braavos: "Braavos" #NT!
- b_the_sealords_palace: "The Sealord's Palace" #NT!
- b_purple_harbor: "Purple Harbor" #NT!
- b_isle_of_the_gods: "Isle of the Gods" #NT!
- b_west_braavos: "West Braavos" #NT!
- b_east_braavos: "East Braavos" #NT!
+ e_braavos: "Браавос"
+ k_braavos: "Браавос"
+ d_braavos: "Браавос"
+ c_braavos: "Браавос"
+ b_the_sealords_palace: "Дворец Морского Лорда"
+ b_purple_harbor: "Пурпурная Гавань"
+ b_isle_of_the_gods: "Остров Богов"
+ b_west_braavos: "Западный Браавос"
+ b_east_braavos: "Восточный Браавос"
   
- c_titan_of_braavos: "The Titan of Braavos" #NT!
- b_the_arsenal: "The Arsenal" #NT!
- b_sellagoros_shield: "Sellagoro's Shield" #NT!
- b_utheros_shield: "Uthero's Shield" #NT!
- b_the_northern_shield: "The Northern Shield" #NT!
- b_anterros_shield: "Anterro's Shield" #NT!
+ c_titan_of_braavos: "Титан Браавоса"
+ b_the_arsenal: "Арсенал"
+ b_sellagoros_shield: "Щит Селлагоро"
+ b_utheros_shield: "Щит Утеро"
+ b_the_northern_shield: "Щит Севера"
+ b_anterros_shield: "Щит Антерро"
   
- c_the_marshes: "The Marshes" #NT!
- b_the_marshes: "The Marshes" #NT!
- b_the_east_horn: "The East Horn" #NT!
- b_embarenza: "Embarenza" #NT!
- b_the_west_horn: "The West Horn" #NT!
+ c_the_marshes: "Болота"
+ b_the_marshes: "Болота"
+ b_the_east_horn: "Восточный Рог"
+ b_embarenza: "Эмбаренца"
+ b_the_west_horn: "Западный Рог"
   
- d_braavosian_coastlands: "Braavosian Coastlands" #NT!
- c_freneros: "Freneros" #NT!
- b_freneros: "Freneros" #NT!
- b_saleo: "Saleo" #NT!
- b_bellea: "Bellea" #NT!
- b_fossano: "Fossano" #NT!
+ d_braavosian_coastlands: "Прибрежные земли Браавоса"
+ c_freneros: "Френерос"
+ b_freneros: "Френерос"
+ b_saleo: "Салео"
+ b_bellea: "Беллеа"
+ b_fossano: "Фоссано"
   
- c_moreos: "Moreos" #NT!
- b_moreos: "Moreos" #NT!
- b_antyris: "Antyris" #NT!
- b_tressio: "Tressio" #NT!
- b_allono: "Allono" #NT!
- b_orbozzo: "Orbozzo" #NT!
+ c_moreos: "Мореос"
+ b_moreos: "Мореос"
+ b_antyris: "Антырис"
+ b_tressio: "Трессио"
+ b_allono: "Аллоно"
+ b_orbozzo: "Орбоззо"
   
- c_malaqovos: "Malaqovos" #NT!
- b_malaqovos: "Malaqovos" #NT!
- b_tyberos: "Tyberos" #NT!
- b_senylo: "Senylo" #NT!
- b_tagganos: "Tagganos" #NT!
- b_arazzo: "Arazzo" #NT!
- b_voharro: "Voharro" #NT!
+ c_malaqovos: "Малакавос"
+ b_malaqovos: "Малакавос"
+ b_tyberos: "Тиберос"
+ b_senylo: "Сенило"
+ b_tagganos: "Тагганос"
+ b_arazzo: "Араззо"
+ b_voharro: "Вохарро"
   
    # Already exists in vanilla, funnily-enough 
- # c_tyrnovo: "Tyrnovo" #NT!
- # b_tyrnovo: "Tyrnovo" #NT!
- b_syris: "Syris" #NT!
- b_largo: "Largo" #NT!
- b_ferrano: "Ferrano" #NT!
- b_beqqos: "Beqqos" #NT!
+ # c_tyrnovo: "Tyrnovo"
+ # b_tyrnovo: "Tyrnovo"
+ b_syris: "Сирис"
+ b_largo: "Ларго"
+ b_ferrano: "Феррано"
+ b_beqqos: "Беккос"
   
- d_moroggos: "Moroggos" #NT!
- c_moroggos: "Moroggos" #NT!
- b_moroggos: "Moroggos" #NT!
- b_vezandal: "Vezandal" #NT!
- b_nohorio: "Nohorio" #NT!
- b_kasporos: "Kasporos" #NT!
- b_ilyos: "Ilyos" #NT!
+ d_moroggos: "Мороггос"
+ c_moroggos: "Мороггос"
+ b_moroggos: "Мороггос"
+ b_vezandal: "Везандал"
+ b_nohorio: "Нохорио"
+ b_kasporos: "Каспорос"
+ b_ilyos: "Ильос"
   
- c_nakeos: "Nakeos" #NT!
- b_nakeos: "Nakeos" #NT!
- b_marronos: "Marronos" #NT!
- b_emphyrios: "Emphyrios" #NT!
- b_myrmello: "Myrmello" #NT!
- b_torlono: "Torlono" #NT!
+ c_nakeos: "Накеос"
+ b_nakeos: "Накеос"
+ b_marronos: "Марронос"
+ b_emphyrios: "Эмфириос"
+ b_myrmello: "Мирмелло"
+ b_torlono: "Торлоно"
   
- c_qyno: "Qyno" #NT!
- b_qyno: "Qyno" #NT!
- # b_lucano: "Lucano" #NT!
- b_qyborro: "Qyborro" #NT!
- b_obaro: "Obaro" #NT!
- b_lotho: "Lotho" #NT!
- b_gylo: "Gylo" #NT!
+ c_qyno: "Кино"
+ b_qyno: "Кино"
+ # b_lucano: "Lucano"
+ b_qyborro: "Киборро"
+ b_obaro: "Обаро"
+ b_lotho: "Лото"
+ b_gylo: "Гило"
   
- d_antaryonos: "Antaryonos" #NT!
- c_antaryonos: "Antaryonos" #NT!
- b_antaryonos: "Antaryonos" #NT!
- b_anterronos: "Anterronos" #NT!
- b_denymos: "Denymos" #NT!
- b_ferromos: "Ferromos" #NT!
- b_tomano: "Tomano" #NT!
- b_demyron: "Demyron" #NT!
- b_sallelo: "Sallelo" #NT!
+ d_antaryonos: "Антарьонос"
+ c_antaryonos: "Антарьонос"
+ b_antaryonos: "Антарьонос"
+ b_anterronos: "Антерронос"
+ b_denymos: "Денимос"
+ b_ferromos: "Ферромос"
+ b_tomano: "Томано"
+ b_demyron: "Демирон"
+ b_sallelo: "Саллео"
   
- c_lazarysos: "Lazarysos" #NT!
- b_lazarysos: "Lazarysos" #NT!
- b_relapho: "Relapho" #NT!
- b_nolonos: "Nolonos" #NT!
- b_esodos: "Esodos" #NT!
- b_lysaros: "Lysaros" #NT!
- b_zarganos: "Zarganos" #NT!
- b_illarios: "Illarios" #NT!
+ c_lazarysos: "Лазарисос"
+ b_lazarysos: "Лазарисос"
+ b_relapho: "Релапхо"
+ b_nolonos: "Нолонос"
+ b_esodos: "Эсодос"
+ b_lysaros: "Лисарос"
+ b_zarganos: "Зарганос"
+ b_illarios: "Иллариос"
   
- c_draqonos: "Draqonos" #NT!
- b_draqonos: "Draqonos" #NT!
- b_syrichos: "Syrichos" #NT!
- b_neseah: "Neseah" #NT!
- b_bylanos: "Bylanos" #NT!
- b_aeriono: "Aeriono" #NT!
- b_amyrio: "Amyrio" #NT!
- b_gohonys: "Gohonys" #NT!
+ c_draqonos: "Драконос"
+ b_draqonos: "Драконос"
+ b_syrichos: "Сирихос"
+ b_neseah: "Несеах"
+ b_bylanos: "Байланос"
+ b_aeriono: "Аэрионо"
+ b_amyrio: "Амирио"
+ b_gohonys: "Гохонис"
   
- c_vargono: "Vargono" #NT!
- b_vargono: "Vargono" #NT!
- b_oromyno: "Oromyno" #NT!
- b_taleos: "Taleos" #NT!
- b_gylenios: "Gylenios" #NT!
- b_qarronyr: "Qarronyr" #NT!
- b_ezzelyno: "Ezzelyno" #NT!
- b_moredo: "Moredo" #NT!
+ c_vargono: "Варгоно"
+ b_vargono: "Варгоно"
+ b_oromyno: "Оромино"
+ b_taleos: "Талеос"
+ b_gylenios: "Гиленос"
+ b_qarronyr: "Карронир"
+ b_ezzelyno: "Эццелино"
+ b_moredo: "Моредо"
   
- d_prestaynos: "Prestaynos" #NT!
- c_prestaynos: "Prestaynos" #NT!
- b_prestaynos: "Prestaynos" #NT!
- b_cossonos: "Cossonos" #NT!
- b_pharionos: "Pharionos" #NT!
- b_grozioso: "Grozioso" #NT!
- b_onossos: "Onossos" #NT!
- b_dranyris: "Dranyris" #NT!
- b_parmonos: "Parmonos" #NT!
- b_donalosso: "Donalosso" #NT!
+ d_prestaynos: "Престайнос"
+ c_prestaynos: "Престайнос"
+ b_prestaynos: "Престайнос"
+ b_cossonos: "Коссонос"
+ b_pharionos: "Фарионос"
+ b_grozioso: "Грозиозо"
+ b_onossos: "Оносос"
+ b_dranyris: "Дранирис"
+ b_parmonos: "Пармосос"
+ b_donalosso: "Доналоссо"
   
- c_vezoremio: "Vezoremio" #NT!
- b_vezoremio: "Vezoremio" #NT!
- b_adareno: "Adareno" #NT!
- b_syrealeno: "Syrealeno" #NT!
- b_utheryonos: "Utheryonos" #NT!
- b_tormyra: "Tormyra" #NT!
- b_narlono: "Narlono" #NT!
- b_jossamyr: "Jossamyr" #NT!
- b_ordellos: "Ordellos" #NT!
- b_sombynos: "Sombynos" #NT!
+ c_vezoremio: "Везоремио"
+ b_vezoremio: "Везоремио"
+ b_adareno: "Адарено"
+ b_syrealeno: "Сирелео"
+ b_utheryonos: "Утерионос"
+ b_tormyra: "Тормира"
+ b_narlono: "Нарлоно"
+ b_jossamyr: "Йоссамир"
+ b_ordellos: "Орделлос"
+ b_sombynos: "Сомбинос"
   
- c_the_refuge: "The Refuge" #NT!
- b_the_refuge: "The Refuge" #NT!
- b_yghanos: "Yghanos" #NT!
- b_ruaragonos: "Ruaragonos" #NT!
- b_syndoros: "Syndoros" #NT!
- b_qibonos: "Qibonos" #NT!
- b_ubnonos: "Ubnonos" #NT!
- b_lykanos: "Lykanos" #NT!
+ c_the_refuge: "Убежище"
+ b_the_refuge: "Убежище"
+ b_yghanos: "Игганос"
+ b_ruaragonos: "Руарагонос"
+ b_syndoros: "Синдорос"
+ b_qibonos: "Кибонос"
+ b_ubnonos: "Убнонос"
+ b_lykanos: "Ликанос"
   
- d_sweetwater: "Sweetwater" #NT!
- c_moonsbridge: "Moonsbridge" #NT!
- b_moonsbridge: "Moonsbridge" #NT!
- b_tistalios: "Tistalios" #NT!
- b_donaqelbo: "Donaqelbo" #NT!
- b_tistavilio: "Tistavilio" #NT!
+ d_sweetwater: "Сладкая Вода"
+ c_moonsbridge: "Мост Луны"
+ b_moonsbridge: "Мост Луны"
+ b_tistalios: "Тисталиос"
+ b_donaqelbo: "Донакельбо"
+ b_tistavilio: "Тиставилио"
   
- c_sweetwater_brook: "Sweetwater Brook" #NT!
- b_sweetwater_brook: "Sweetwater Brook" #NT!
- b_naqa_qelbar: "Naqa Qelbar" #NT!
- b_alderrun: "Alderrun" #NT!
- b_cape_overlook: "Cape Overlook" #NT!
+ c_sweetwater_brook: "Ручей Сладкой Воды"
+ b_sweetwater_brook: "Ручей Сладкой Воды"
+ b_naqa_qelbar: "Нака Кельбар"
+ b_alderrun: "Альдерран"
+ b_cape_overlook: "Мыс Обзор"
   
- c_daerves_hills: "Daerves Hills" #NT!
- b_daerves_hills: "Daerves Hills" #NT!
- b_daeremyros: "Daeremyros" #NT!
- b_kostionos: "Kostionos" #NT!
- b_daeremagonos: "Daeremagonos" #NT!
- b_egronos: "Egronos" #NT!
- b_korzionos: "Korzionos" #NT!
- b_mandano: "Mandano" #NT!
- b_zalynos: "Zalynos" #NT!
- # b_rossano: "Rossano" #NT!
+ c_daerves_hills: "Холмы Дэрвеса"
+ b_daerves_hills: "Холмы Дэрвеса"
+ b_daeremyros: "Дэремирос"
+ b_kostionos: "Костионос"
+ b_daeremagonos: "Дэремагос"
+ b_egronos: "Эгрономос"
+ b_korzionos: "Корзионос"
+ b_mandano: "Манданос"
+ b_zalynos: "Залино"
+ # b_rossano: "Rossano"
   
- c_ironport: "Ironport" #NT!
- b_ironport: "Ironport" #NT!
- b_iron_shore: "Iron Shore" #NT!
- b_aegionos: "Aegionos" #NT!
- b_reyaans_knife: "Reyaan's Knife" #NT!
- b_medonos: "Medonos" #NT!
+ c_ironport: "Железный Порт"
+ b_ironport: "Железный Порт"
+ b_iron_shore: "Железный Берег"
+ b_aegionos: "Аэгионос"
+ b_reyaans_knife: "Нож Реяана"
+ b_medonos: "Медонос"
   
- c_reyaanos: "Reyaanos" #NT!
- b_reyaanos: "Reyaanos" #NT!
- b_orbyno: "Orbyno" #NT!
- b_spina: "Spina" #NT!
- b_uscino: "Uscino" #NT!
- b_spigono: "Spigono" #NT!
- b_pomello: "Pomello" #NT!
+ c_reyaanos: "Реяанос"
+ b_reyaanos: "Реяанос"
+ b_orbyno: "Орбино"
+ b_spina: "Спина"
+ b_uscino: "Уцино"
+ b_spigono: "Спигоно"
+ b_pomello: "Помелло"

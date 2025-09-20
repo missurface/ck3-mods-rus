@@ -1,166 +1,166 @@
 ﻿l_russian:
- wilderness_holding: "Wilderness" #NT!
+ wilderness_holding: "Глушь" #NT!
  wilderness_holding_concept_key: "[wilderness_holding|E]" #NT!
   
- # building_type_wilderness_01: "Untamed Wilds" #NT!
- # building_wilderness_01: "Wilderness" #NT!
- # wilderness_01_desc: "Time and neglect have left this land a shadow of its former self. What little still stands is cracked and broken, a testament to the past and a warning to the future." #NT!
+ building_type_wilderness_01: "Нетронутая глушь" #NT!
+ building_wilderness_01: "Дикая местность" #NT!
+ wilderness_01_desc: "Время и забвение превратили эти земли в тень былого величия. Немногие уцелевшие постройки стоят потрескавшиеся и разрушенные, служа памятником прошлому и предостережением на будущее." #NT!
   
- this_building_desc: "#low This Building:#!\n" #NT!
- TERRAIN_IS_URBAN: "Terrain is $urban$" #NT!
- increased_plague_chance: "@warning_icon! #X Increased risk of plagues in this holding!#!" #NT!
- increased_illness_chance: "@warning_icon! #X Increased risk of becoming ill!#!" #NT!
- increased_raid_chance: "@warning_icon! #X Bandits may raid this holding!#!" #NT!
+ this_building_desc: "#low Это здание:#!\n"
+ TERRAIN_IS_URBAN: "Местность представляет собой $urban$"
+ increased_plague_chance: "@warning_icon! #X Повышенный риск эпидемий в этом владении!#!" #NT!
+ increased_illness_chance: "@warning_icon! #X Повышенный риск заболеть!#!" #NT!
+ increased_raid_chance: "@warning_icon! #X Разбойники могут совершать набеги на это владение!#!" #NT!
   
  #Colony 
   #Colony Buildings 
- building_type_local_markets_01: "Local Markets" #NT!
- building_type_local_markets_01_desc: "A network of bustling marketplaces where merchants peddle their wares, farmers trade their harvests, and artisans sell their crafts. These markets form the economic heart of the settlement, ensuring a steady flow of goods, coin, and prosperity." #NT!
- building_local_markets_01: "Local Markets" #NT!
- building_local_markets_01_desc: "A network of bustling marketplaces where merchants peddle their wares, farmers trade their harvests, and artisans sell their crafts. These markets form the economic heart of the settlement, ensuring a steady flow of goods, coin, and prosperity." #NT!
+ building_type_local_markets_01: "Местные рынки" #NT!
+ building_type_local_markets_01_desc: "Сеть оживлённых рыночных площадей, где торговцы сбывают свой товар, фермеры обменивают урожай, а ремесленники продают свои изделия. Эти рынки образуют экономическое сердце поселения, обеспечивая стабильный поток товаров, монет и процветания." #NT!
+ building_local_markets_01: "Местные рынки" #NT!
+ building_local_markets_01_desc: "Сеть оживлённых рыночных площадей, где торговцы сбывают свой товар, фермеры обменивают урожай, а ремесленники продают свои изделия. Эти рынки образуют экономическое сердце поселения, обеспечивая стабильный поток товаров, монет и процветания." #NT!
   
- #building_type_local_militia_01: "Local Militia" #NT!
- #building_type_local_militia_01_desc: "A loosely trained force of able-bodied townsfolk, armed with whatever weapons can be mustered. Though no match for professional soldiers, these militia serve as the first line of defense against raiders, bandits, and other threats to the settlement." #NT!
- #building_local_militia_01: "Local Militia" #NT!
- #building_local_militia_01_desc: "A loosely trained force of able-bodied townsfolk, armed with whatever weapons can be mustered. Though no match for professional soldiers, these militia serve as the first line of defense against raiders, bandits, and other threats to the settlement." #NT!
+ building_type_local_militia_01: "Местное ополчение" #NT!
+ building_type_local_militia_01_desc: "Плохо обученный отряд из трудоспособных горожан, вооружённых тем, что смогли раздобыть. Хотя им не сравниться с профессиональными солдатами, это ополчение служит первой линией обороны от рейдеров, бандитов и прочих угроз для поселения." #NT!
+ building_local_militia_01: "Местное ополчение" #NT!
+ building_local_militia_01_desc: "Плохо обученный отряд из трудоспособных горожан, вооружённых тем, что смогли раздобыть. Хотя им не сравниться с профессиональными солдатами, это ополчение служит первой линией обороны от рейдеров, бандитов и прочих угроз для поселения." #NT!
   
- #building_type_stockades_01: "Stockades" #NT!
- #building_type_stockades_01_desc: "A simple but effective fortification, consisting of wooden palisades. While not impervious to a determined assault, stockades provide much needed security against sudden attacks and help maintain order within the settlement." #NT!
- #building_stockades_01: "Stockades" #NT!
- #building_stockades_01_desc: "A simple but effective fortification, consisting of wooden palisades. While not impervious to a determined assault, stockades provide much needed security against sudden attacks and help maintain order within the settlement." #NT!
+ building_type_stockades_01: "Частокол" #NT!
+ building_type_stockades_01_desc: "Простое, но эффективное укрепление из деревянных кольев. Хотя оно и не устоит против решительного штурма, частокол обеспечивает столь необходимую защиту от внезапных атак и помогает поддерживать порядок в поселении." #NT!
+ building_stockades_01: "Частокол" #NT!
+ building_stockades_01_desc: "Простое, но эффективное укрепление из деревянных кольев. Хотя оно и не устоит против решительного штурма, частокол обеспечивает столь необходимую защиту от внезапных атак и помогает поддерживать порядок в поселении." #NT!
   
- #building_type_construction_guilds_01: "Construction Guilds" #NT!
- #building_type_construction_guilds_01_desc: "A coalition of skilled masons, carpenters, and engineers dedicated to improving the settlement’s infrastructure. With their expertise, buildings rise faster, stronger, and more efficiently, shaping the foundation of future growth." #NT!
- #building_construction_guilds_01: "Construction Guilds" #NT!
- #building_construction_guilds_01_desc: "A coalition of skilled masons, carpenters, and engineers dedicated to improving the settlement’s infrastructure. With their expertise, buildings rise faster, stronger, and more efficiently, shaping the foundation of future growth." #NT!
+ building_type_construction_guilds_01: "Строительные гильдии" #NT!
+ building_type_construction_guilds_01_desc: "Союз искусных каменщиков, плотников и инженеров, посвятивших себя улучшению инфраструктуры поселения. Благодаря их мастерству здания возводятся быстрее, становятся прочнее и эффективнее, закладывая основу для будущего роста." #NT!
+ building_construction_guilds_01: "Строительные гильдии" #NT!
+ building_construction_guilds_01_desc: "Союз искусных каменщиков, плотников и инженеров, посвятивших себя улучшению инфраструктуры поселения. Благодаря их мастерству здания возводятся быстрее, становятся прочнее и эффективнее, закладывая основу для будущего роста." #NT!
   
- building_type_colony_quarries_01: "Quarries" #NT!
- building_type_colony_quarries_01_desc: "Easily-accessible quarried stone provides building materials for nearby constructions." #NT!
- building_colony_quarries_01: "Simple Stone Quarries " #NT!
- building_colony_quarries_01_desc: "Easily-accessible quarried stone provides building materials for nearby constructions." #NT!
+ building_type_colony_quarries_01: "Каменоломни" #NT!
+ building_type_colony_quarries_01_desc: "Легкодоступный добытый камень предоставляет строительные материалы для ближайших построек." #NT!
+ building_colony_quarries_01: "Простые каменоломни" #NT!
+ building_colony_quarries_01_desc: "Легкодоступный добытый камень предоставляет строительные материалы для ближайших построек." #NT!
   
- building_type_colony_forestry_01: "Forestries" #NT!
- building_type_colony_forestry_01_desc: "Large amounts of lumber, resin, charcoal, and other resources are harvested from these forests, providing an excellent, nearby source of building material for the surrounding towns" #NT!
- building_colony_forestry_01: "Logging Camps" #NT!
- building_colony_forestry_01_desc: "Woodcutters have set up camp along the outskirts of the forest, ensuring a steady production of logs." #NT!
+ building_type_colony_forestry_01: "Лесные хозяйства" #NT!
+ building_type_colony_forestry_01_desc: "Из этих лесов добываются большие объёмы древесины, смолы, угля и других ресурсов, обеспечивая отличный близлежащий источник строительных материалов для окружающих поселений." #NT!
+ building_colony_forestry_01: "Лесозаготовительные лагеря" #NT!
+ building_colony_forestry_01_desc: "Дровосеки разбили лагеря на окраинах леса, обеспечивая steady production of logs." #NT!
   
    #Blockers 
- lv_wilderness_blocker_effect: "@warning_icon! #X This building is a blocker that must be cleared by fully upgrading it before the settlement can be turned into a proper holding#!" #NT!
- lv_wilderness_blocker_effect_mines: "$lv_wilderness_blocker_effect$\n@warning_icon! #X Firewyrms have a chance of emerging each year and will ravage the settlement#!" #NT!
- lv_wilderness_blocker_effect_plague: "$lv_wilderness_blocker_effect$\n@warning_icon! #X Has a chance of starting a plague outbreak each year#!" #NT!
- lv_wilderness_blocker_effect_raid: "$lv_wilderness_blocker_effect$\n@warning_icon! #X Has a chance of initiating raids on the settlement each year#!" #NT!
- lv_firewyrm_blocker_effect: "@warning_icon! #X This building is a blocker that must be cleared by slaying the firewyrm in this province before the settlement can be turned into a proper holding#!" #NT!
+ lv_wilderness_blocker_effect: "@warning_icon! #X Это постройка-блокировщик, которую необходимо расчистить путём полного улучшения, прежде чем поселение можно будет превратить в полноценное владение!#!" #NT!
+ lv_wilderness_blocker_effect_mines: "$lv_wilderness_blocker_effect$\n@warning_icon! #X Огненные вирмы имеют шанс появляться каждый год и будут разорять поселение!#!" #NT!
+ lv_wilderness_blocker_effect_plague: "$lv_wilderness_blocker_effect$\n@warning_icon! #X Есть шанс спровоцировать вспышку м каждый год!#!" #NT!
+ lv_wilderness_blocker_effect_raid: "$lv_wilderness_blocker_effect$\n@warning_icon! #X Есть шанс рейдов на поселение каждый год!#!" #NT!
+ lv_firewyrm_blocker_effect: "@warning_icon! #X Это постройка-блокировщик, которую необходимо расчистить, убив огненного червя в этой провинции, прежде чем поселение можно будет превратить в полноценное владение!#!" #NT!
   
    #Caves 
- building_type_unexplored_caves_01: "Unexplored Caves" #NT!
- building_unexplored_caves_01: "Uncharted Depths" #NT!
- building_unexplored_caves_01_desc: "Dark, winding tunnels stretch beneath the surface, untouched by light or map. Whispers echo through the stone, and every step risks waking what lies hidden. The unknown reigns here, and danger is a certainty." #NT!
- building_unexplored_caves_02: "Marked Tunnels" #NT!
- building_unexplored_caves_02_desc: "Explorers have begun carving paths through the gloom. Crude markings and makeshift camps trace the edges of understanding, yet much remains cloaked in shadow. The threat is lessened—but not gone." #NT!
- building_unexplored_caves_03: "Surveyed Caverns" #NT!
- building_unexplored_caves_03_desc: "The caves have yielded their secrets. Paths are mapped, hazards catalogued, and stability achieved. Though caution still has its place, the subterranean wilds have been brought to heel." #NT!
+ building_type_unexplored_caves_01: "Неисследованные пещеры" #NT!
+ building_unexplored_caves_01: "Неизведанные глубины" #NT!
+ building_unexplored_caves_01_desc: "Тёмные извилистые туннели тянутся под поверхностью, нетронутые светом или картой. Шёпот эхом разносится по камню, и каждый шаг рискует разбудить то, что скрыто во тьме. Здесь правит неизвестность, а опасность неизбежна." #NT!
+ building_unexplored_caves_02: "Меченые туннели" #NT!
+ building_unexplored_caves_02_desc: "Исследователи начали прокладывать пути сквозь мрак. Грубые отметки и импровизированные лагеря обозначают границы познанного, но многое всё ещё окутано тенью. Угроза уменьшилась — но не исчезла." #NT!
+ building_unexplored_caves_03: "Обследованные пещеры" #NT!
+ building_unexplored_caves_03_desc: "Пещеры раскрыли свои секреты. Пути нанесены на карту, опасности учтены, достигнута стабильность. Хотя осторожность всё ещё не помешает, подземные дикие земли были укрощены." #NT!
   
    #Firewyrms 
- building_type_firewyrm_lair: "Firewyrm Lair" #NT!
- building_firewyrm_lair: "Firewyrm Lair" #NT!
- building_firewyrm_lair_desc: "The land is riddled with blackened tunnels and smoldering vents. A firewyrm has made itself seen or felt—charred livestock, collapsed ground, and rising heat warn of its presence. Few dare enter." #NT!
+ building_type_firewyrm_lair: "Логово Огненного червя" #NT!
+ building_firewyrm_lair: "Логово Огненного червя" #NT!
+ building_firewyrm_lair_desc: "Земля испещрена почерневшими туннелями и тлеющими расщелинами. Огненный вирм дал о себе знать — обугленный скот, провалившаяся земля и поднимающееся тепло предупреждают о его присутствии. Немногие осмеливаются войти." #NT!
   
- building_type_firewyrms_01: "Firewyrms" #NT!
- building_firewyrms_01: "Scorched Warrens" #NT!
- building_firewyrms_01_desc: "The land is riddled with blackened tunnels and smoldering vents. Firewyrms have been seen or felt—charred livestock, collapsed ground, and rising heat warn of their presence. Few dare enter." #NT!
- building_firewyrms_02: "Collapsed Tunnels" #NT!
- building_firewyrms_02_desc: "The creatures have been driven deeper or slain, and many of their tunnels have been sealed or collapsed. Occasional tremors or bursts of heat remain, but the worst is passed." #NT!
- building_firewyrms_03: "Cooled Earth" #NT!
- building_firewyrms_03_desc: "The ground has settled, the fires gone cold. The firewyrms have been eradicated or fled beyond reach. Though the earth still bears their scars, it is safe to tread once more." #NT!
+ building_type_firewyrms_01: "Огненные вирмы" #NT!
+ building_firewyrms_01: "Опалённые норы" #NT!
+ building_firewyrms_01_desc: "Земля испещрена почерневшими туннелями и тлеющими расщелинами. Огненные вирмы были замечены или почувствованы — обугленный скот, провалившаяся земля и поднимающееся тепло предупреждают об их присутствии. Немногие осмеливаются войти." #NT!
+ building_firewyrms_02: "Обрушенные туннели" #NT!
+ building_firewyrms_02_desc: "Существа были изгнаны глубже или уничтожены, а многие их туннели запечатаны или обрушены. Временные толчки или всплески тепла остаются, но худшее позади." #NT!
+ building_firewyrms_03: "Остывшая земля" #NT!
+ building_firewyrms_03_desc: "Земля устоялась, огни погасли. Огненные вирмы были истреблены или бежали вне досягаемости. Хотя земля всё ещё носит их шрамы, по ней снова безопасно ступать." #NT!
   
    #Hostile Swamp 
- building_type_swamp: "Hostile Swamp" #NT!
+ building_type_swamp: "Враждебное Болото" #NT!
   
  building_type_swamp_01_01: "$building_type_swamp$" #NT!
- building_swamp_01_01: "Bogged Terrain" #NT!
- building_swamp_01_01_desc: "Soft, spongy ground pulls at boots and carts alike. Progress slows, structures sink, and moisture seeps into everything. A natural barrier to expansion." #NT!
- building_swamp_01_02: "Drained Grounds" #NT!
- building_swamp_01_02_desc: "Channels have been dug, walkways laid, and the wet earth begins to dry. The land is still unsteady, but it yields to persistence and planning." #NT!
- building_swamp_01_03: "Reclaimed Wetlands" #NT!
- building_swamp_01_03_desc: "Once a barrier, now a foundation. The swamp has been drained and reshaped into usable terrain, ready to support settlements and supply lines." #NT!
+ building_swamp_01_01: "Топкая местность" #NT!
+ building_swamp_01_01_desc: "Мягкая, губчатая земля засасывает и сапоги, и телеги. Передвижение замедляется, постройки проседают, а влага просачивается повсюду. Естественный барьер для расширения." #NT!
+ building_swamp_01_02: "Осушенные земли" #NT!
+ building_swamp_01_02_desc: "Были прорыты каналы, проложены дорожки, и влажная земля начинает подсыхать. Земля всё ещё неустойчива, но поддаётся настойчивости и планированию." #NT!
+ building_swamp_01_03: "Осушенные Болота" #NT!
+ building_swamp_01_03_desc: "Когда-то барьер, теперь основание. Болото было осушено и преобразовано в пригодную территорию, готовую поддерживать поселения и пути снабжения." #NT!
   
  building_type_swamp_02_01: "$building_type_swamp$" #NT!
- building_swamp_02_01: "Sunken Mire" #NT!
- building_swamp_02_01_desc: "A treacherous expanse of muck and standing water where every step risks a fall into the bog. Foundations rot, disease festers, and movement is a slow, drowning struggle." #NT!
- building_swamp_02_02: "Reinforced Mire" #NT!
- building_swamp_02_02_desc: "Raised pathways and makeshift supports hold the muck at bay. The land resists progress, but determined effort is carving a path through the sludge." #NT!
- building_swamp_02_03: "Stabilized Mire" #NT!
- building_swamp_02_03_desc: "The ground has been firmed and the water tamed. The mire no longer threatens to swallow all who enter. It may still bear scars of the past, but it is now solid enough for growth." #NT!
+ building_swamp_02_01: "Топь" #NT!
+ building_swamp_02_01_desc: "Коварное пространство из грязи и стоячей воды, где каждый шаг грозит падением в трясину. Фундаменты гниют, болезни процветают, а передвижение — это медленная, удушающая борьба." #NT!
+ building_swamp_02_02: "Укреплённая топь" #NT!
+ building_swamp_02_02_desc: "Приподнятые дорожки и импровизированные опоры сдерживают грязь. Земля сопротивляется прогрессу, но решительные усилия прокладывают путь через слизь." #NT!
+ building_swamp_02_03: "Стабилизированная топь" #NT!
+ building_swamp_02_03_desc: "Земля уплотнена, а вода укрощена. Топь больше не угрожает поглотить всех, кто приходит. Она может всё ещё носить шрамы прошлого, но теперь достаточно крепка для роста." #NT!
   
    #Floods 
- building_type_lv_floods_01: "Floods" #NT!
- building_lv_floods_01: "Inundated Land" #NT!
- building_lv_floods_01_desc: "Heavy rains or rising waters have submerged the area, turning roads into rivers and fields into mire. Settlements are cut off, and danger lies beneath the surface." #NT!
- building_lv_floods_02: "Receding Waters" #NT!
- building_lv_floods_02_desc: "The floodwaters have begun to pull back, though the land remains unstable and treacherous. Cleanup has started, but movement and rebuilding are still limited." #NT!
- building_lv_floods_03: "Drained Terrain" #NT!
- building_lv_floods_03_desc: "The last of the waters have been diverted or absorbed. Though the earth is scarred and sodden, it is once again walkable, tillable, and fit for building anew." #NT!
+ building_type_lv_floods_01: "Наводнения" #NT!
+ building_lv_floods_01: "Затопленная местность" #NT!
+ building_lv_floods_01_desc: "Сильные дожди или поднявшиеся воды затопили область, превратив дороги в реки, а поля — в топь. Поселения отрезаны, и опасность таится под поверхностью." #NT!
+ building_lv_floods_02: "Отступающие воды" #NT!
+ building_lv_floods_02_desc: "Паводковые воды начали отступать, хотя земля остаётся неустойчивой и коварной. Расчистка началась, но передвижение и восстановление всё ещё ограничены." #NT!
+ building_lv_floods_03: "Осушенная территория" #NT!
+ building_lv_floods_03_desc: "Последние воды были отведены или поглощены. Хотя земля изранена и пропитана водой, по ней снова можно ходить, обрабатывать и строить заново." #NT!
   
    #Noxious Gases 
- building_type_noxious_gases: "Noxious Gases" #NT!
+ building_type_noxious_gases: "Ядовитые Газы" #NT!
   
  building_type_noxious_gases_01_01: "$building_type_noxious_gases$" #NT!
- building_noxious_gases_01_01: "Dense Haze" #NT!
- building_noxious_gases_01_01_desc: "Far from the eruption's heart, the volcanic mists still gather. These vapors drift low, seeping into cracks and hollows, weakening the unprotected and choking the careless. It is a quieter threat—but no less real." #NT!
- building_noxious_gases_01_02: "Thinning Haze" #NT!
- building_noxious_gases_01_02_desc: "The mists waver, no longer a wall but a veil. Breathing is easier, though the occasional gust of gas still brings stinging reminders of past danger. Recovery is underway, but caution must guide every step." #NT!
- building_noxious_gases_01_03: "Settled Air" #NT!
- building_noxious_gases_01_03_desc: "Time and wind have done their work. The haze has lifted, the land breathes freely once more. Traces of the past remain in ash and scent, but the noxious fog that plagued these lands has faded into memory." #NT!
+ building_noxious_gases_01_01: "Густой смог" #NT!
+ building_noxious_gases_01_01_desc: "Далеко от сердца извержения всё ещё клубятся вулканические туманы. Эти испарения дрейфуют низко, просачиваясь в трещины и впадины, ослабляя незащищённых и душа неосторожных. Это более тихая угроза — но не менее реальная." #NT!
+ building_noxious_gases_01_02: "Рассеивающийся смог" #NT!
+ building_noxious_gases_01_02_desc: "Туман колеблется, это уже не стена, а лишь завеса. Дышать стало легче, хотя occasional порыв газа всё ещё приносит жгучие напоминания о прошлой опасности. Выздоровление идёт, но каждый шаг должен быть осторожным." #NT!
+ building_noxious_gases_01_03: "Устоявшийся воздух" #NT!
+ building_noxious_gases_01_03_desc: "Время и ветер сделали своё дело. Дымка рассеялась, земля снова свободно дышит. Отголоски прошлого остались в золе и запахе, но ядовитый туман, который мучил эти земли, превратился в память." #NT!
   
  building_type_noxious_gases_02_01: "$building_type_noxious_gases$" #NT!
- building_noxious_gases_02_01: "Suffocating Fumes" #NT!
- building_noxious_gases_02_01_desc: "Thick, acrid gases billow from the volcanic land, blanketing everything in a deadly haze. Breathing is a struggle, visibility is near zero, and life withers under the relentless onslaught. Only the maddest of men dare step into the smothered zone." #NT!
- building_noxious_gases_02_02: "Lingering Fumes" #NT!
- building_noxious_gases_02_02_desc: "The air remains tainted, but by some miracle the worst has passed. Sulfur clings to every breath, stinging eyes and lungs. The danger is still present—insidious and lingering—but it's no longer an immediate death sentence." #NT!
- building_noxious_gases_02_03: "Settled Air" #NT!
- building_noxious_gases_02_03_desc: "The skies have begun to clear. A faint trace of sulfur remains in the wind, but the air is once again fit for life. Vigilance is still required, but the worst has been overcome." #NT!
+ building_noxious_gases_02_01: "Удушающие испарения" #NT!
+ building_noxious_gases_02_01_desc: "Густые едкие газы клубятся над вулканической землёй, покрывая всё смертельной дымкой. Дышать — это борьба, видимость вблизи нулевая, и жизнь увядает под безжалостным натиском. Только безумцы решаются ступить в эту задушенную зону." #NT!
+ building_noxious_gases_02_02: "Стойкие испарения" #NT!
+ building_noxious_gases_02_02_desc: "Воздух остаётся отравленным, но по какому-то чуду худшее миновало. Сера цепляется за каждый вдох, щиплет глаза и лёгкие. Опасность всё ещё присутствует — коварная и lingering — но это больше не немедленный смертный приговор." #NT!
+ building_noxious_gases_02_03: "Устоявшийся воздух" #NT!
+ building_noxious_gases_02_03_desc: "Небо начало очищаться. Лёгкий след серы остаётся на ветру, но воздух снова пригоден для жизни. Бдительность всё ещё требуется, но худшее было overcome." #NT!
   
    #Stonemen Encampment 
- building_type_stonemen_encampment_01: "Stonemen Encampment" #NT!
- building_stonemen_encampment_01: "Infested Encampment" #NT!
- building_stonemen_encampment_01_desc: "A cluster of ruined structures or caves has become home to stonemen—twisted, contagious, and hostile. No sane traveler dares approach without protection." #NT!
- building_stonemen_encampment_02: "Quarantined Zone" #NT!
- building_stonemen_encampment_02_desc: "Most of the afflicted have been driven off or contained. The area is still hazardous, and tales of curses linger, but the worst threat has been subdued." #NT!
- building_stonemen_encampment_03: "Purged Grounds" #NT!
- building_stonemen_encampment_03_desc: "The encampment has been cleared entirely. With fire, steel, and grim resolve, the stonemen have been driven out or destroyed. The land is no longer cursed—at least, not openly." #NT!
+ building_type_stonemen_encampment_01: "Лагерь Каменных людей" #NT!
+ building_stonemen_encampment_01: "Заражённый лагерь" #NT!
+ building_stonemen_encampment_01_desc: "Группа разрушенных сооружений или пещер стала домом для Каменных людей — искажённых, заразных и враждебных. Ни один здравомыслящий путник не осмелится приблизиться без защиты." #NT!
+ building_stonemen_encampment_02: "Карантинная зона" #NT!
+ building_stonemen_encampment_02_desc: "Большая часть поражённых была изгнана или изорирована. Территория всё ещё опасна, и рассказы о проклятиях сохраняются, но худшая угроза была подавлена." #NT!
+ building_stonemen_encampment_03: "Очищенные земли" #NT!
+ building_stonemen_encampment_03_desc: "Лагерь был полностью очищен. С помощью огня, стали и суровой решимости каменные люди были изгнаны или уничтожены. Земля больше не проклята — по крайней мере, не открыто". #NT!
   
    #Bandit Camp 
- building_type_bandit_camps_01: "Bandit Camps" #NT!
- building_bandit_camps_01: "Lawless Encampment" #NT!
- building_bandit_camps_01_desc: "A known refuge for bandits, smugglers, and deserters. Trade routes are unsafe, and locals live in fear. The camp must be broken before peace can return." #NT!
- building_bandit_camps_02: "Scattered Raiders" #NT!
- building_bandit_camps_02_desc: "The camp has been partially dismantled. Some outlaws remain, striking opportunistically, but their power is fading. A final push will root them out." #NT!
- building_bandit_camps_03: "Secure Territory" #NT!
- building_bandit_camps_03_desc: "The last of the bandits have been routed. Patrols now hold the area, and order has been restored. Where blades once ruled, banners now fly." #NT!
+ building_type_bandit_camps_01: "Бандитские лагеря" #NT!
+ building_bandit_camps_01: "Бесправный лагерь" #NT!
+ building_bandit_camps_01_desc: "Известное пристанище бандитов, контрабандистов и дезертиров. Торговые пути unsafe, а местные жители живут в страхе. Лагерь должен быть уничтожен прежде чем вернётся мир." #NT!
+ building_bandit_camps_02: "Разрозненные налётчики" #NT!
+ building_bandit_camps_02_desc: "Лагерь был частично ликвидирован. Некоторые преступники остаются, нанося случайные удары, но их власть ослабевает. Последний рывок уничтожит их". #NT!
+ building_bandit_camps_03: "Безопасная территория" #NT!
+ building_bandit_camps_03_desc: "Последние бандиты были разгромлены. Патрули теперь контролируют территорию, и порядок restored. Там, где когда-то правили клинки, теперь развеваются знамёна." #NT!
   
    #Ruined/Abandoned holding 
- building_type_ruined_holding: "Ruined Holding" #NT!
+ building_type_ruined_holding: "Руины владения" #NT!
   
  building_type_small_ruined_holding_01: "$building_type_ruined_holding$" #NT!
- building_small_ruined_holding_01: "Crumbling Remains" #NT!
- building_small_ruined_holding_01_desc: "Once a minor outpost or estate, now little more than rubble and overgrowth. The ruins are unstable, unguarded, and of limited use until cleared and secured." #NT!
- building_small_ruined_holding_02: "Stabilized Foundations" #NT!
- building_small_ruined_holding_02_desc: "Efforts have been made to shore up broken walls and clear debris. While still far from restored, the structure now poses fewer hazards and may soon be reclaimed for use." #NT!
- building_small_ruined_holding_03: "Restored Shell" #NT!
- building_small_ruined_holding_03_desc: "The holding has been safely cleared and basic repairs completed. It is once again serviceable as a minor bastion or settlement—humble, but no longer forsaken." #NT!
+ building_small_ruined_holding_01: "Разрушающиеся останки" #NT!
+ building_small_ruined_holding_01_desc: "Когда-то это был небольшой аванпост или поместье, а теперь не более чем руины и заросли. Развалины неустойчивы, неохраняемы и имеют ограниченную полезность, пока не будут расчищены и обезопасены." #NT!
+ building_small_ruined_holding_02: "Укреплённые фундаменты" #NT!
+ building_small_ruined_holding_02_desc: "Были приложены усилия по укреплению разрушенных стен и расчистке завалов. Хотя до полного восстановления ещё далеко, сооружение теперь представляет меньше опасностей и вскоре может быть возвращено в использование." #NT!
+ building_small_ruined_holding_03: "Восстановленный фундамент" #NT!
+ building_small_ruined_holding_03_desc: "Владение было безопасно расчищено и проведён базовый ремонт. Теперь оно снова может служить малым бастионом или поселением — скромным, но уже не заброшенным." #NT!
   
  building_type_medium_ruined_holding_01: "$building_type_ruined_holding$" #NT!
- building_medium_ruined_holding_01: "Broken Stronghold" #NT!
- building_medium_ruined_holding_01_desc: "This once-modest fort or estate has fallen into disrepair. Its towers lean, its halls lie silent, and dangers lurk within the decay." #NT!
- building_medium_ruined_holding_02: "Secured Grounds" #NT!
- building_medium_ruined_holding_02_desc: "The worst threats have been cleared, and the site is now safe to inhabit or rebuild. While the glory is gone, the bones of strength remain." #NT!
- building_medium_ruined_holding_03: "Reclaimed Holding" #NT!
- building_medium_ruined_holding_03_desc: "Through steady work and patience, the ruin has been stabilized and brought back to purpose. It stands ready to serve again, even if its banners are new." #NT!
+ building_medium_ruined_holding_01: "Разрушенная крепость" #NT!
+ building_medium_ruined_holding_01_desc: "Эта когда-то скромная крепость или поместье пришла в упадок. Её башни покосились, залы погрузились в тишину, а в разрушении таятся опасности." #NT!
+ building_medium_ruined_holding_02: "Обезопасенная территория" #NT!
+ building_medium_ruined_holding_02_desc: "Наибольшие угрозы устранены, и теперь это место безопасно для проживания или восстановления. Хотя былой славы уже нет, основы былой мощи остались." #NT!
+ building_medium_ruined_holding_03: "Возрождённое владение" #NT!
+ building_medium_ruined_holding_03_desc: "Благодаря упорному труду и терпению руины были стабилизированы и возвращены к жизни. Оно снова готово служить, даже если его знамёна теперь новые." #NT!
   
  building_type_large_ruined_holding_01: "$building_type_ruined_holding$" #NT!
- building_large_ruined_holding_01: "Fallen Legacy" #NT!
- building_large_ruined_holding_01_desc: "The site bears the scars of a grand past—an ancient city or fortress now lost to time. Its vastness is matched only by the dangers hidden within." #NT!
- building_large_ruined_holding_02: "Tamed Ruin" #NT!
- building_large_ruined_holding_02_desc: "Clearance efforts have carved order from chaos. Great halls are no longer perilous, and paths through the wreckage have been secured. The ruin breathes again, if faintly." #NT!
- building_large_ruined_holding_03: "Revived Seat" #NT!
- building_large_ruined_holding_03_desc: "The site is no longer a ruin, but a foundation. Though echoes of its lost greatness remain, it now serves a new purpose—reborn in your image, ready to shape the world once more." #NT!
+ building_large_ruined_holding_01: "Павшее наследие" #NT!
+ building_large_ruined_holding_01_desc: "Это место хранит шрамы великого прошлого — древнего города или крепости, ныне утерянных во времени. Его огромные размеры соперничают лишь с опасностями, сокрытыми внутри." #NT!
+ building_large_ruined_holding_02: "Укрощённые руины" #NT!
+ building_large_ruined_holding_02_desc: "Работы по расчистке привнесли порядок в хаос. Великие залы больше не несут угрозы, а пути через развалины обезопасены. Руины снова дышат, пусть и слабо." #NT!
+ building_large_ruined_holding_03: "Возрождённый оплот" #NT!
+ building_large_ruined_holding_03_desc: "Это место больше не руины, а основание. Хотя отголоски утраченного величия остаются, теперь оно служит новой цели — возрождённое по вашему образу, готовое вновь формировать мир." #NT!

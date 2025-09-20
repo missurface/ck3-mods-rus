@@ -1,19 +1,19 @@
 ﻿l_russian:
   
- lv_travel_danger.0001.t: "The Fog Lives" #NT!
- lv_travel_danger.0001.desc: "The fog rises on the horizon like a wall — dense, unmoving, and wrong. It waits. As your ship enters, the fog swallows everything: the sea, the sky, the sound of the wind. The world behind you vanishes.\n\nThe air thickens. The sails disappear into gray. You can’t see your hands. Voices from the crew echo strangely, as if underwater. The ship groans, but even that sounds distant. Time twists. Minutes stretch. Hours pass — or none at all.\n\nThen a sailor stumbles out of the haze, barefoot and shaking. His skin is pale. His hair has gone white.\n\n“I found the ship,” he mutters. “Our ship. Just like this. Only... we were all dead. Floating. Staring. And I—I think I saw myself looking back at me.”" #NT!
- lv_travel_danger.0001.a: "The fog lies. Stay the course." #NT!
- lv_travel_danger.0001.a.tt.trait: "Every member of your entourage will have a 50% chance of gaining either the [trait|E] [GetTrait('lunatic_1').GetName( GetNullCharacter )] or [GetTrait('paranoid').GetName( GetNullCharacter )]" #NT!
- lv_travel_danger.0001.a.tt.opinion: "Every member of your entourage loses #N 30#! [opinion|E] of #V you#! #weak (Mocked me in my Time of Need)#!" #NT!
- lv_travel_danger.0001.b: "Turn the ship. We return home." #NT!
- lv_travel_danger.0001.b.tt.opinion: "Every member of your entourage gains #P 20#! [opinion|E] of #V you#! for #V 10 years#! #weak (Cared for My Health)#!" #NT!
- lv_travel_danger.0001.c: "Let me walk into the fog." #NT!
- lv_travel_danger.0001.c.tt: "You walk into the fog" #NT!
- lv_travel_danger.0001.c.tt.trait: "You walk out of the fog, not the same person you were before" #NT!
+ lv_travel_danger.0001.t: "Туман Жив" 
+ lv_travel_danger.0001.desc: "Туман поднимается на горизонте словно стена — плотный, недвижимый и неправильный. Он ждет. Когда ваше судно входит в него, туман поглощает все: море, небо, звук ветра. Мир позади вас исчезает.\n\nВоздух сгущается. Паруса исчезают в серости. Вы не видите своих рук. Голоса команды echo странно, словно под водой. Судно стонет, но даже это звучит отдаленно. Время искажается. Минуты растягиваются. Часы проходят — или не проходят вовсе.\n\nЗатем матрос появляется из мглы, босой и дрожащий. Его кожа бледна. Его волосы побелели.\n\n«Я нашел корабль», — бормочет он. «Наш корабль. Такой же. Только... мы все были мертвы. Плавали. Смотрели. И я, я думаю, что видел, как сам на себя смотрю»." 
+ lv_travel_danger.0001.a: "Туман лжет. Держать курс." 
+ lv_travel_danger.0001.a.tt.trait: "Каждый член вашей свиты будет иметь 50% шанс получить либо [trait|E] [GetTrait('lunatic_1').GetName( GetNullCharacter )], либо [GetTrait('paranoid').GetName( GetNullCharacter )]" 
+ lv_travel_danger.0001.a.tt.opinion: "Каждый член вашей свиты теряет #N 30#! [opinion|E] к #V вам#! #weak (Насмехался надо мной в трудную минуту)#!" 
+ lv_travel_danger.0001.b: "Развернуть корабль. Мы возвращаемся домой." 
+ lv_travel_danger.0001.b.tt.opinion: "Каждый член вашей свиты получает #P 20#! [opinion|E] к #V вам#! на #V 10 лет#! #weak (Заботился о моем здоровье)#!" 
+ lv_travel_danger.0001.c: "Позвольте мне войти в туман." 
+ lv_travel_danger.0001.c.tt: "Вы [входите в туман" 
+ lv_travel_danger.0001.c.tt.trait: "Вы входите из тумана не тем человеком, которым были прежде" 
   
- lv_travel_danger.0002.t: "Blood on the Deck" #NT!
- lv_travel_danger.0002.desc: "There is blood on the planks. A sailor lies sprawled in death, a knife still buried in [victim.GetHerHis] ribs. Another stands over [victim.GetHerHim], trembling, face pale and spattered red.\n\n[victim.GetSheHe|U] wasn’t real,” the killer mutters, wide-eyed. “The fog sent [victim.GetHerHim]. I saw what [victim.GetSheHe] truly was.”\n\nThe crew gathers in uneasy silence. No one moves. No one speaks. The air hangs heavy with fear — and the knowledge that sanity is fraying." #NT!
- lv_travel_danger.0002.a: "Execute [killer.GetHerHim] at once." #NT!
- lv_travel_danger.0002.b: "Throw [killer.GetHerHim] overboard." #NT!
- lv_travel_danger.0002.c: "Put [killer.GetHerHim] in a cell." #NT!
- lv_travel_danger.0002.d: "[victim.GetSheHe|U] saw the truth! We must heed it!" #NT!
+ lv_travel_danger.0002.t: "Кровь на палубе" 
+ lv_travel_danger.0002.desc: "На досках кровь. Матрос лежит мертвый, нож все еще застрял в ребрах [victim.GetHerHis]. Другой стоит над [victim.GetHerHim], дрожа, с бледным лицом, забрызганным красным.\n\n«[victim.GetSheHe|U] не был настоящим», — бормочет убийца, широко раскрыв глаза. «Туман послал [victim.GetHerHim]. Я видел, кем [victim.GetSheHe] был на самом деле.»\n\nКоманда собирается в напряженном молчании. Никто не двигается. Никто не говорит. Воздух тяжел от страха — и осознания того, что рассудок дает трещину." 
+ lv_travel_danger.0002.a: "Немедленно казнить [killer.GetHerHim]." 
+ lv_travel_danger.0002.b: "Выбросить [killer.GetHerHim] за борт." 
+ lv_travel_danger.0002.c: "Посадить [killer.GetHerHim] в клетку." 
+ lv_travel_danger.0002.d: "[victim.GetSheHe|U] видел правду! Мы должны прислушаться к ней!" 

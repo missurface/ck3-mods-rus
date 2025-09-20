@@ -1,240 +1,240 @@
 ﻿l_russian:
    # Put here all names that a historical character has that doesn't necessarily appear in any name list 
    # LoV Dev Characters 
- Makshar: "Makshar" #NT!
- Lucicos: "Lucicos" #NT!
+ Makshar: "Макшар"
+ Lucicos: "Люцикос"
   
    # Dragons 
- Alduin: "Alduin" #NT!
+ Alduin: "Алдуин"
   
- Parrido: "Parrido" #NT!
- Kendahl: "Kendahl" #NT!
- Tellezza: "Tellezza" #NT!
- Gwalahuru: "Gwalahuru" #NT!
- Xandarro: "Xandarro" #NT!
- Regon: "Regon" #NT!
- Aelerya: "Aelerya" #NT!
- Ojulondo: "Ojulondo" #NT!
- Alaerya: "Alaerya" #NT!
- Velaenya: "Velaenya" #NT!
- Qubhor: "Qubhor" #NT!
- Xaro: "Xaro" #NT!
- Xhoan: "Xhoan" #NT!
- Xajja: "Xajja" #NT!
- Josaelys: "Josaelys" #NT!
- Lucerre: "Lucerre" #NT!
- Mermesbhar: "Mermesbhar" #NT!
+ Parrido: "Парридо"
+ Kendahl: "Кендаль"
+ Tellezza: "Телецца"
+ Gwalahuru: "Гвалахуру"
+ Xandarro: "Ксандарро"
+ Regon: "Регон"
+ Aelerya: "Аелерия"
+ Ojulondo: "Ожулондо"
+ Alaerya: "Алаерия"
+ Velaenya: "Велаяня"
+ Qubhor: "Кубгор"
+ Xaro: "Ксарро"
+ Xhoan: "Кхоан"
+ Xajja: "Кхаджа"
+ Josaelys: "Джосаэлис"
+ Lucerre: "Лусерре"
+ Mermesbhar: "Мермешбар"
   
- Argoron: "Argoron" #NT!
- La'um: "La'um" #NT!
- Daegor: "Daegor" #NT!
- Caraxa: "Caraxa" #NT!
- Marley: "Marley" #NT!
- Naqir: "Naqir" #NT!
- Kuda: "Kuda" #NT!
- Sidu: "Sidu" #NT!
- Daggon: "Daggon" #NT!
- Nabhaz: "Nabhaz" #NT!
- Kovarri: "Kovarri" #NT!
- Jhigi: "Jhigi" #NT!
- Vogarra: "Vogarra" #NT!
- Donipha: "Donipha" #NT!
- Izembara: "Izembara" #NT!
- Jolinni: "Jolinni" #NT!
- Melezzara: "Melezzara" #NT!
- Dezzala: "Dezzala" #NT!
- Sezza: "Sezza" #NT!
- Curtisos: "Curtisos" #NT!
- Leqsi: "Leqsi" #NT!
- Adeyemu: "Adeyemu" #NT!
- Vysarion: "Vysarion" #NT!
- Melezza: "Melezza" #NT!
- Ricaerdys: "Ricaerdys" #NT!
- Qovatti: "Qovatti" #NT!
- Bellaza: "Bellaza" #NT!
- Jalezza: "Jalezza" #NT!
- Chakki: "Chakki" #NT!
- Rezzala: "Rezzala" #NT!
- Maezar: "Maezar" #NT!
- Lazzala: "Lazzala" #NT!
- Qezzala: "Qezzala" #NT!
- Terrios: "Terrios" #NT!
- Onqi: "Onqi" #NT!
- Horonna: "Horonna" #NT!
- Belicha: "Belicha" #NT!
- Dalli: "Dalli" #NT!
- Mezzala: "Mezzala" #NT!
- Rimmi: "Rimmi" #NT!
- Mellezzara: "Mellezzara" #NT!
- Olezza: "Olezza" #NT!
- Azzara: "Azzara" #NT!
- Ziganni: "Ziganni" #NT!
- Tellezzara: "Tellezzara" #NT!
- Mellezara: "Mellezara" #NT!
- Telleza: "Telleza" #NT!
- Bellezza: "Bellezza" #NT!
- Qazzara: "Qazzara" #NT!
- Azzarah: "Azzarah" #NT!
- Tycha: "Tycha" #NT!
- Fellezzara: "Fellezzara" #NT!
- Kendri: "Kendri" #NT!
- Ilezza: "Ilezza" #NT!
- Azzlaq: "Azzlaq" #NT!
- Denia: "Denia" #NT!
- Oqetti: "Oqetti" #NT!
- Zubhak: "Zubhak" #NT!
- Malakhi: "Malakhi" #NT!
- Aegarox: "Aegarox" #NT!
+ Argoron: "Аргорон"
+ La'um: "Ла'ум"
+ Daegor: "Дейгор"
+ Caraxa: "Каракса"
+ Marley: "Марлей"
+ Naqir: "Накир"
+ Kuda: "Куда"
+ Sidu: "Сиду"
+ Daggon: "Даггон"
+ Nabhaz: "Набаз"
+ Kovarri: "Коварри"
+ Jhigi: "Джиги"
+ Vogarra: "Вогарра"
+ Donipha: "Донифа"
+ Izembara: "Изембара"
+ Jolinni: "Джолинни"
+ Melezzara: "Мелеззара"
+ Dezzala: "Веззала"
+ Sezza: "Сезза"
+ Curtisos: "Куртисос"
+ Leqsi: "Лекси"
+ Adeyemu: "Адейеми"
+ Vysarion: "Визарион"
+ Melezza: "Мелезза"
+ Ricaerdys: "Рикейрдис"
+ Qovatti: "Квоватти"
+ Bellaza: "Беллаза"
+ Jalezza: "Джалезза"
+ Chakki: "Чакки"
+ Rezzala: "Реззала"
+ Maezar: "Мейзара"
+ Lazzala: "Лаззала"
+ Qezzala: "Квеззала"
+ Terrios: "Терриос"
+ Onqi: "Онки"
+ Horonna: "Хоронна"
+ Belicha: "Белича"
+ Dalli: "Далли"
+ Mezzala: "Меццала"
+ Rimmi: "Римми"
+ Mellezzara: "Мелецара"
+ Olezza: "Олецца"
+ Azzara: "Аззара"
+ Ziganni: "Зиганни"
+ Tellezzara: "Телеззара"
+ Mellezara: "Мелезара"
+ Telleza: "Теллеза"
+ Bellezza: "Беллезза"
+ Qazzara: "Квазара"
+ Azzarah: "Аззара"
+ Tycha: "Тича"
+ Fellezzara: "Феллеззара"
+ Kendri: "Кендри"
+ Ilezza: "Илезза"
+ Azzlaq: "Аззлак"
+ Denia: "Дениа"
+ Oqetti: "Окетти"
+ Zubhak: "Зубак"
+ Malakhi: "Малаки"
+ Aegarox: "Эйгорокс"
   
- Line_of_Uthero: "Line of Uthero" #NT!
- Quazzar: "Quazzar" #NT!
- Uhzaq: "Uhzaq" #NT!
- Trello: "Trello" #NT!
- Omdhaz: "Omdhaz" #NT!
- Fendahl: "Fendahl" #NT!
- Larhak: "Larhak" #NT!
- Urkhaz: "Urkhaz" #NT!
- Syrodo: "Syrodo" #NT!
- Yardhar: "Yardhar" #NT!
- Razlahr: "Razlahr" #NT!
- Grozlal: "Grozlal" #NT!
- Ozzak: "Ozzak" #NT!
- Yazzak: "Yazzak" #NT!
- Maezhar: "Maezhar" #NT!
- Harnaz: "Harnaz" #NT!
- Yarkhaz: "Yarkhaz" #NT!
- Hizdhar: "Hizdhar" #NT!
- Kharaq: "Kharaq" #NT!
- Faezdhar: "Faezdhar" #NT!
- Trego: "Trego" #NT!
- Korghaz: "Korghaz" #NT!
- Raqnak: "Raqnak" #NT!
- Omkhaz: "Omkhaz" #NT!
- Yuznak: "Yuznak" #NT!
- Regio: "Regio" #NT!
- Drazdahr: "Drazdahr" #NT!
- Gadhaz: "Gadhaz" #NT!
- Haezdhar: "Haezdhar" #NT!
- Rovo: "Rovo" #NT!
- Yarkaz: "Yarkaz" #NT!
- Zhezzan: "Zhezzan" #NT!
- Qycho: "Qycho" #NT!
- Scori: "Scori" #NT!
- Gazhaq: "Gazhaq" #NT!
- Zadrak: "Zadrak" #NT!
- Remekko: "Remekko" #NT!
- Azzhak: "Azzhak" #NT!
- Torys: "Torys" #NT!
- Zaraq: "Zaraq" #NT!
- Barkhaz: "Barkhaz" #NT!
- Najaho: "Najaho" #NT!
- Uhzak: "Uhzak" #NT!
- Dosko: "Dosko" #NT!
- Zarraq: "Zarraq" #NT!
- Hoqorro: "Hoqorro" #NT!
- Cavo: "Cavo" #NT!
- Kharkaz: "Kharkaz" #NT!
- Cenerro: "Cenerro" #NT!
- Korghan: "Korghan" #NT!
- Dorys: "Dorys" #NT!
- Hizdahrio: "Hizdahrio" #NT!
- Grazdhar: "Grazdhar" #NT!
- Virgo: "Virgo" #NT!
- Haghdon: "Haghdon" #NT!
- Miri: "Miri" #NT!
- Hezzo: "Hezzo" #NT!
- Razdar: "Razdar" #NT!
- Ohzrak: "Ohzrak" #NT!
- Haznak: "Haznak" #NT!
- Zorapho: "Zorapho" #NT!
- Miznahl: "Miznahl" #NT!
- Gighak: "Gighak" #NT!
- Kazak: "Kazak" #NT!
- Gazdhor: "Gazdhor" #NT!
- Hasaro: "Hasaro" #NT!
- Narophos: "Narophos" #NT!
- Harlaro: "Harlaro" #NT!
- Bellaquo: "Bellaquo" #NT!
- Ozzan: "Ozzan" #NT!
- Lazhak: "Lazhak" #NT!
- Mizlaq: "Mizlaq" #NT!
- Garnhak: "Garnhak" #NT!
- Zazhan: "Zazhan" #NT!
- Fregar: "Fregar" #NT!
- Tregys: "Tregys" #NT!
- Maklan: "Maklan" #NT!
- Quiri: "Quiri" #NT!
- Srozdaz: "Srozdaz" #NT!
- Razlar: "Razlar" #NT!
- Quollo: "Quollo" #NT!
- Mosko: "Mosko" #NT!
- Phaezdhar: "Phaezdhar" #NT!
- Grazdhan: "Grazdhan" #NT!
- Rhaezdhar: "Rhaezdhar" #NT!
- Zirqo: "Zirqo" #NT!
- Jhaquo: "Jhaquo" #NT!
- Harro: "Harro" #NT!
- Fono: "Fono" #NT!
- Barghaz: "Barghaz" #NT!
- Qazella: "Qazella" #NT!
- Marghazuo: "Marghazuo" #NT!
- Hazzaara: "Hazzaara" #NT!
- Badir: "Badir" #NT!
- Grazdhor: "Grazdhor" #NT!
- Jarbo: "Jarbo" #NT!
- Qava: "Qava" #NT!
- Paezdhar: "Paezdhar" #NT!
- Obelo: "Obelo" #NT!
- Gorhaz: "Gorhaz" #NT!
- Sharkaz: "Sharkaz" #NT!
- Rhogiri: "Rhogiri" #NT!
- Tihho: "Tihho" #NT!
- Skahazo: "Skahazo" #NT!
- Razdal: "Razdal" #NT!
- Ozdhan: "Ozdhan" #NT!
- Zolli: "Zolli" #NT!
- Jeppo: "Jeppo" #NT!
- Tazraaq: "Tazraaq" #NT!
- Jasso: "Jasso" #NT!
- Mizlak: "Mizlak" #NT!
- Coholli: "Coholli" #NT!
- Azho: "Azho" #NT!
- Azlaq: "Azlaq" #NT!
- Virsallo: "Virsallo" #NT!
- Zerqollo: "Zerqollo" #NT!
- Yhezher: "Yhezher" #NT!
- Aggi: "Aggi" #NT!
- Lanno: "Lanno" #NT!
- Leshahl: "Leshahl" #NT!
- Qohollo: "Qohollo" #NT!
- Torlo: "Torlo" #NT!
- Sharkhaz: "Sharkhaz" #NT!
- Haezhar: "Haezhar" #NT!
- Tokko: "Tokko" #NT!
- Shizhar: "Shizhar" #NT!
- Mothi: "Mothi" #NT!
- Mazdhak: "Mazdhak" #NT!
- Gorlaq: "Gorlaq" #NT!
- Moqorra: "Moqorra" #NT!
- Rakhiri: "Rakhiri" #NT!
- Arakho: "Arakho" #NT!
- Parquella: "Parquella" #NT!
- Sezqa: "Sezqa" #NT!
- Hizdharo: "Hizdharo" #NT!
- Fezzara: "Fezzara" #NT!
- Bellonara: "Bellonara" #NT!
- Dhaki: "Dhaki" #NT!
- Zikki: "Zikki" #NT!
- Benerra: "Benerra" #NT!
- Tezza: "Tezza" #NT!
- Havvi: "Havvi" #NT!
- Fitti: "Fitti" #NT!
- Tagganaria: "Tagganaria" #NT!
- Zhaki: "Zhaki" #NT!
- Gunzak: "Gunzak" #NT!
- Gylenios: "Gylenios" #NT!
- Hirri: "Hirri" #NT!
- Nelezza: "Nelezza" #NT!
- Iggi: "Iggi" #NT!
- Zellazara: "Zellazara" #NT!
- Tyra: "Tyra" #NT!
+ Line_of_Uthero: "Линия Утеро"
+ Quazzar: "Квазар"
+ Uhzaq: "Узак"
+ Trello: "Трелло"
+ Omdhaz: "Омдхаз"
+ Fendahl: "Фендал"
+ Larhak: "Лархак"
+ Urkhaz: "Урхаз"
+ Syrodo: "Сиродо"
+ Yardhar: "Ярдхар"
+ Razlahr: "Разлар"
+ Grozlal: "Грозлал"
+ Ozzak: "Озак"
+ Yazzak: "Язак"
+ Maezhar: "Маезхар"
+ Harnaz: "Харназ"
+ Yarkhaz: "Ярхаз"
+ Hizdhar: "Хиздар"
+ Kharaq: "Харак"
+ Faezdhar: "Фаездар"
+ Trego: "Трего"
+ Korghaz: "Коргаз"
+ Raqnak: "Ракнак"
+ Omkhaz: "Омхаз"
+ Yuznak: "Юзнак"
+ Regio: "Регио"
+ Drazdahr: "Драздар"
+ Gadhaz: "Гадхаз"
+ Haezdhar: "Хаездар"
+ Rovo: "Рово"
+ Yarkaz: "Ярказ"
+ Zhezzan: "Жеззан"
+ Qycho: "Куйчо"
+ Scori: "Скори"
+ Gazhaq: "Газак"
+ Zadrak: "Задрак"
+ Remekko: "Ремекко"
+ Azzhak: "Аззак"
+ Torys: "Торис"
+ Zaraq: "Зарак"
+ Barkhaz: "Бархаз"
+ Najaho: "Наджахо"
+ Uhzak: "Ужак"
+ Dosko: "Доско"
+ Zarraq: "Заррак"
+ Hoqorro: "Хокорро"
+ Cavo: "Каво"
+ Kharkaz: "Харказ"
+ Cenerro: "Сенерро"
+ Korghan: "Корган"
+ Dorys: "Дорис"
+ Hizdahrio: "Хиздарио"
+ Grazdhar: "Граздар"
+ Virgo: "Вирго"
+ Haghdon: "Хагдон"
+ Miri: "Мири"
+ Hezzo: "Хеззо"
+ Razdar: "Раздар"
+ Ohzrak: "Озрак"
+ Haznak: "Хазнак"
+ Zorapho: "Зорафо"
+ Miznahl: "Мизнал"
+ Gighak: "Гигак"
+ Kazak: "Казак"
+ Gazdhor: "Газдор"
+ Hasaro: "Хасаро"
+ Narophos: "Нарофос"
+ Harlaro: "Харларо"
+ Bellaquo: "Беллако"
+ Ozzan: "Озан"
+ Lazhak: "Лазхак"
+ Mizlaq: "Мизлак"
+ Garnhak: "Гарнхак"
+ Zazhan: "Зажан"
+ Fregar: "Фрегар"
+ Tregys: "Трегис"
+ Maklan: "Маклан"
+ Quiri: "Квири"
+ Srozdaz: "Сроздаз"
+ Razlar: "Разлар"
+ Quollo: "Куолло"
+ Mosko: "Моско"
+ Phaezdhar: "Фаездар"
+ Grazdhan: "Граздан"
+ Rhaezdhar: "Раездар"
+ Zirqo: "Зирко"
+ Jhaquo: "Джакво"
+ Harro: "Харро"
+ Fono: "Фоно"
+ Barghaz: "Баргаз"
+ Qazella: "Казелла"
+ Marghazuo: "Маргазу"
+ Hazzaara: "Хаззаара"
+ Badir: "Бадир"
+ Grazdhor: "Граждор"
+ Jarbo: "Жардо"
+ Qava: "Кава"
+ Paezdhar: "Пейждар"
+ Obelo: "Обело"
+ Gorhaz: "Горхаз"
+ Sharkaz: "Шарказ"
+ Rhogiri: "Рогири"
+ Tihho: "Тиххо"
+ Skahazo: "Скахазо"
+ Razdal: "Раздал"
+ Ozdhan: "Ождан"
+ Zolli: "Золли"
+ Jeppo: "Джеппо"
+ Tazraaq: "Тазрак"
+ Jasso: "Джассо"
+ Mizlak: "Мизлак"
+ Coholli: "Кохолли"
+ Azho: "Ажо"
+ Azlaq: "Азлак"
+ Virsallo: "Вирсалло"
+ Zerqollo: "Зерколло"
+ Yhezher: "Ейжер"
+ Aggi: "Агги"
+ Lanno: "Ланно"
+ Leshahl: "Лешахл"
+ Qohollo: "Квохолло"
+ Torlo: "Торло"
+ Sharkhaz: "Шарказ"
+ Haezhar: "Хейзар"
+ Tokko: "Токко"
+ Shizhar: "Шижара"
+ Mothi: "Моти"
+ Mazdhak: "Маждак"
+ Gorlaq: "Горлак"
+ Moqorra: "Макворра"
+ Rakhiri: "Ракхири"
+ Arakho: "Арахо"
+ Parquella: "Парквелла"
+ Sezqa: "Сезка"
+ Hizdharo: "Хиздаро"
+ Fezzara: "Феззара"
+ Bellonara: "Беллонар"
+ Dhaki: "Дхаки"
+ Zikki: "Зикки"
+ Benerra: "Бенерра"
+ Tezza: "Тезза"
+ Havvi: "Хавви"
+ Fitti: "Фитти"
+ Tagganaria: "Тагганариа"
+ Zhaki: "Жаки"
+ Gunzak: "Гунзак"
+ Gylenios: "Гиленос"
+ Hirri: "Хирри"
+ Nelezza: "Нелезза"
+ Iggi: "Игги"
+ Zellazara: "Зеллазара"
+ Tyra: "Тира"

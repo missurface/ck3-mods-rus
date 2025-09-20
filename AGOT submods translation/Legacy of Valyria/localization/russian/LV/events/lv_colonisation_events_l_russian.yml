@@ -1,33 +1,33 @@
 ﻿l_russian:
   
- lv_colonisation_events.0001.t: "Thieves in the Thicket" #NT!
- lv_colonisation_events.0001.desc: "As your party pushes deeper into the wilderness, you're suddenly halted. A rugged man steps out of the trees—bow drawn, a roguish grin on his face. 'The name's Robin,' he says, 'and this land owes me a toll.' Beside him stands a silent brute—his companion, John. The tension crackles like a campfire on a stormy night." #NT!
+ lv_colonisation_events.0001.t: "Воры в Чащобе" 
+ lv_colonisation_events.0001.desc: "Когда ваш отряд продвигается глубже в дикую местность, вас внезапно останавливают. Из деревьев выходит суровый мужчина с натянутым луком и безрассудной ухмылкой на лице. 'Меня зовут Робин', — говорит он, — 'и эта земля должна мне дань'. Рядом с ним стоит молчаливый громила — его спутник Джон. Напряжение разряжается, как костер в грозовую ночь." 
   
- lv_colonisation_events.0001.a: "Outsmart Robin with clever reasoning." #NT!
- lv_colonisation_events.0001.b: "Negotiate safe passage using logistics and supplies." #NT!
- lv_colonisation_events.0001.c: "Persuade John to join you and leave Robin behind." #NT!
- lv_colonisation_events.0001.d: "Confront Robin and drive him off with force." #NT!
- lv_colonisation_events.0001.e: "Intimidate them into backing down through fear." #NT!
- lv_colonisation_events.0001.f: "Challenge Robin to a duel for dominance." #NT!
- lv_colonisation_events.0001.z: "Offer a bribe and hope they take it..." #NT!
+ lv_colonisation_events.0001.a: "Перехитрить Робина с помощью умных рассуждений." 
+ lv_colonisation_events.0001.b: "Договориться о безопасном проходе, используя припасы и логистику." 
+ lv_colonisation_events.0001.c: "Убедить Джона присоединиться к вам и оставить Робина." 
+ lv_colonisation_events.0001.d: "Противостоять Робину и силой прогнать его." 
+ lv_colonisation_events.0001.e: "Запугать их, чтобы они отступили из-за страха." 
+ lv_colonisation_events.0001.f: "Вызвать Робина на дуэль за главенство." 
+ lv_colonisation_events.0001.z: "Предложить взятку и надеяться, что они ее примут..." 
   
- lv_colonisation_events.0001.a.success: "You outwit Robin, leaving him speechless." #NT!
- lv_colonisation_events.0001.a.failure: "Your logic fails to sway the rogue." #NT!
- lv_colonisation_events.0001.b.success: "Your supply offer impresses them into backing off." #NT!
- lv_colonisation_events.0001.b.failure: "Robin laughs at your offer and steps closer." #NT!
- lv_colonisation_events.0001.c.success: "John nods slowly—and steps over to your side." #NT!
- lv_colonisation_events.0001.c.failure: "John hesitates, then lowers his eyes. 'Sorry.'" #NT!
- lv_colonisation_events.0001.d.success: "Your commanding presence sends Robin running." #NT!
- lv_colonisation_events.0001.d.failure: "They don't back down. A fight seems inevitable." #NT!
- lv_colonisation_events.0001.e.success: "Your threats shake their confidence." #NT!
- lv_colonisation_events.0001.e.failure: "They call your bluff. This might get ugly." #NT!
- lv_colonisation_events.0001.f.success: "You beat Robin in single combat—his pride shattered." #NT!
- lv_colonisation_events.0001.f.failure: "Robin overpowers you. You're left bruised and bitter." #NT!
- lv_colonisation_events.0001.z.result: "The bribe is taken, but at what cost?" #NT!
- lv_colonisation_events.0001.a.tip: "Try to outsmart Robin. Success grants [gold|E] and [prestige|E], failure costs you stress and coin." #NT!
- lv_colonisation_events.0001.b.tip: "Offer logistical aid. Success brings supplies, failure drains your pouch." #NT!
- lv_colonisation_events.0001.c.tip: "Attempt to recruit John. Succeed, and he joins your court. Fail, and it eats at your mind." #NT!
- lv_colonisation_events.0001.d.tip: "Force Robin to back off. A win gains loot, a loss leaves bruises." #NT!
- lv_colonisation_events.0001.e.tip: "Strike fear into them. Works? You get spoils. Fails? You feel the strain." #NT!
- lv_colonisation_events.0001.f.tip: "Duel Robin like a true chad. Win, gain glory. Lose, taste regret." #NT!
- lv_colonisation_events.0001.z.tip: "Bribe and pray. The result? Could be a blessing... or a curse." #NT!
+ lv_colonisation_events.0001.a.success: "Вы перехитрили Робина, оставив его безмолвным." 
+ lv_colonisation_events.0001.a.failure: "Ваша логика не смогла убедить разбойника." 
+ lv_colonisation_events.0001.b.success: "Ваше предложение припасов впечатляет их, и они отступают." 
+ lv_colonisation_events.0001.b.failure: "Робин смеется над вашим предложением и делает шаг ближе." 
+ lv_colonisation_events.0001.c.success: "Джон медленно кивает — и переходит на вашу сторону." 
+ lv_colonisation_events.0001.c.failure: "Джон колеблется, затем опускает глаза. 'Прости.'" 
+ lv_colonisation_events.0001.d.success: "Ваше властное присутствие заставляет Робина бежать." 
+ lv_colonisation_events.0001.d.failure: "Они не отступают. Битва кажется неизбежной." 
+ lv_colonisation_events.0001.e.success: "Ваши угрозы поколебали их уверенность." 
+ lv_colonisation_events.0001.e.failure: "Они называют ваш блеф. Это может стать неприятным." 
+ lv_colonisation_events.0001.f.success: "Вы победили Робина в единоборстве — его гордость разбита." 
+ lv_colonisation_events.0001.f.failure: "Робин одолел вас. Вы остаетесь в синяках и с горечью." 
+ lv_colonisation_events.0001.z.result: "Взятка принята, но какой ценой?" 
+ lv_colonisation_events.0001.a.tip: "Попытайтесь перехитрить Робина. Успех принесет [gold|E] и [prestige|E], неудача обойдется вам стрессом и монетами." 
+ lv_colonisation_events.0001.b.tip: "Предложите логистическую помощь. Успех принесет припасы, неудача опустошит ваш кошелек." 
+ lv_colonisation_events.0001.c.tip: "Попытайтесь завербовать Джона. Успех — и он присоединится к вашему двору. Неудача — и это будет глодать ваш разум." 
+ lv_colonisation_events.0001.d.tip: "Заставьте Робина отступить. Победа принесет добычу, поражение оставит синяки." 
+ lv_colonisation_events.0001.e.tip: "Вселите в них страх. Сработает? Вы получите трофеи. Нет? Вы почувствуете напряжение." 
+ lv_colonisation_events.0001.f.tip: "Дуэль с Робином как истинный чемпион. Победа — обретите славу. Поражение — вкусите сожаление." 
+ lv_colonisation_events.0001.z.tip: "Дайте взятку и молитесь. Результат? Может быть благословением... или проклятием." 

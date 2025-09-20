@@ -1,5 +1,0 @@
-﻿l_english:
- #Traits
- trait_cm_abdicated:0 "Abdicated"
- trait_cm_abdicated_desc:0 "This character has chosen to step down from their position of authority, giving up their right to hold titles."
- trait_cm_abdicated_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has chosen to step down from their position of authority, giving up their right to hold titles."

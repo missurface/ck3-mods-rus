@@ -1,11 +1,11 @@
 ﻿l_russian:
- death_firewyrm_ate: "Eaten by a Firewyrm" #NT!
- death_fire_magic: "Died due to use of fire magic" #NT!
- death_water_magic: "Died due to use of water magic" #NT!
- death_air_magic: "Died due to use of air magic" #NT!
- death_blood_magic: "Died due to use of blood magic" #NT!
- death_lost_in_gogossos: "Went Missing in the Gogossi Jungle" #NT!
- death_monster_duel: "Died Fighting a Monster" #NT!
- death_rusty_knife: "Died cutting their hand with a rusty knife like a dumbass" #NT!
- death_fell_on_sword: "Couldn't Deal with all them Doors and Decided to end it all before they got lost in the Backrooms" #NT!
- death_died_in_the_doom: "Perished in the Doom of Valyria" #NT!
+ death_firewyrm_ate: "Съеден огненным змеем"
+ death_fire_magic: "Сгорел в потоке колдовского пламени"
+ death_water_magic: "Был сокрушён потоком воды"
+ death_air_magic: "Был разорван вихрем воздуха"
+ death_blood_magic: "Погиб, поглощённый собственной кровью"
+ death_lost_in_gogossos: "Пропал без вести в джунглях Гогоссоса"
+ death_monster_duel: "Погиб в бою с чудовищем"
+ death_rusty_knife: "Умер, порезав себе руку ржавым ножом, как придурок."
+ death_fell_on_sword: "Не смог справиться со всеми этими дверями и решил покончить со всем этим, пока они не заблудились в Подсобных помещениях."
+ death_died_in_the_doom: "Погиб во время Рока Валирии"

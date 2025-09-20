@@ -1,6 +1,0 @@
-﻿l_english:
-
- # THE CONQUEST
- aegons_supporters.0001:0 "We Stand Behind King Aegon"
- aegons_supporters.0001.desc:0 "We have had good relations with the [aegon.GetDynasty.GetName]'s for generations, we owe them more loyalty than the Storm Kings to the south or the Ironborn to the North.\n\nWe will stand beside [aegon.GetName] the Dragon, our king and see through his conquest."
- aegons_supporters.0001.option1:0 "Fire and Blood."

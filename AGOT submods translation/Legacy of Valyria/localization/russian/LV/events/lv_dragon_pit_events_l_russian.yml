@@ -1,4 +1,10 @@
 ﻿l_russian:
- colonize_valyria.0007.t: "The Dragonkeepers Estabilished" #NT!
- colonize_valyria.0007.desc: "For the first time, Mount Gaelithox has Order of Dragonkeepers. [head_dragonkeeper.GetName] has been appointed as their leader." #NT!
+ colonize_valyria.0007.t: "Основание Ордена Драконьих Хранителей"
+ colonize_valyria.0007.desc: "Впервые на горе Гаэлитокс появился Орден Драконьих Хранителей. [head_dragonkeeper.GetName] был назначен их лидером."
   
+   # New loc from overriden AGOT events 
+ agot_dragon_pits.3000.c: "[valyria.GetNameNoTierNoTooltip]."
+ agot_dragon_pits.3000.d: "[dragonfields.GetNameNoTierNoTooltip]."
+ agot_dragon_pits.3000.e: "[ilvonys.GetNameNoTierNoTooltip]."
+ agot_dragon_pits.3000.f: "[kastaryia.GetNameNoTierNoTooltip]."
+ agot_dragon_pits.3000.g: "[jarqanor.GetNameNoTierNoTooltip]."

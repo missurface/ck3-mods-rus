@@ -1,21 +1,21 @@
 ﻿l_russian:
    #VS Weapons 
- vs_torment_name: "Torment" #NT!
- vs_torment_description: "Torment is a legendary Valyrian steel blade forged by Daemon Volar in the heart of [GetTitleByKey('k_lokiria').GetNameNoTier], long before the [doom|E]. Its first owner, Taurin, the realm’s founding ruler, claimed it during the birth of the realm wielding it to unite fractured lands under his rule. Crafted from the rarest Valyrian steel, and its pommel is shaped like a fierce dragon, symbolizing power and unyielding will.\n\n'Never Conquered, always feared'" #NT!
+ vs_torment_name: "Мучение" #NT!
+ vs_torment_description: "«Мучение» — это легендарный клинок из валирийской стали, выкованный Деймоном Воларом в сердце [GetTitleByKey('k_lokiria').GetNameNoTier], задолго до [doom|E]. Его первым владельцем был Таурин, основатель государства, завладевший мечом во время рождения державы и объединивший разрозненные земли под своей властью. Клинок выкован из самой редкой валирийской стали, а его навершие выполнено в форме свирепого дракона, символизируя силу и несгибаемую волю.\n\n«Никогда не завоёванный, всегда вселявший страх»" #NT!
   
- vs_dragon_halberd_name: "Dragon Halberd" #NT!
- vs_dragon_halberd_description: "An ancient Valyrian Steel Halberd welded by Dragon Guards in Old Valyria." #NT!
+ vs_dragon_halberd_name: "Драконья алебарда" #NT!
+ vs_dragon_halberd_description: "Древняя валирийская стальная алебарда, которой владели Драконьи стражи в Старой Валирии." #NT!
   
- vs_abyss_name: "Abyss" #NT!
- vs_abyss_description: "A Valyrian Steel war axe with a black driftwood handle. The head and tenticles of a kraken are carved in the head of the axe with ruby gemstones set in the eyes." #NT!
+ vs_abyss_name: "Бездна" #NT!
+ vs_abyss_description: "Боевой топор из валирийской стали с рукоятью из чёрного коряка. На лезвии вырезаны голова и щупальца кракена, в глаза которого вставлены рубиновые камни." #NT!
   
- dothraki_arakh_name: "Dothraki Arakh" #NT!
- dothraki_arakh_description: "Traditional weapon of the Dothraki." #NT!
+ dothraki_arakh_name: "Дотракийский арах" #NT!
+ dothraki_arakh_description: "Традиционное оружие дотракийцев." #NT!
   
- vs_frostbite_hammer_name: "Frostbite" #NT!
- vs_frostbite_hammer_description: "Frostbite is a weapon of legend, forged from pale blue Valyrian steel, a testament to the might of House Frost. Its massive head, shaped like a crow's beak, is as fearsome as the northern winds that sweep across its icy homeland.\n\nOnce wielded by the last of the Frost kings, it stood as the symbol of a dynasty that ruled from the heart of Frostguard. After the king’s fall, he was exiled to the [nw_govt|E], eventually deserting to flee toward the Frostfangs.\n\nLost to time, Frostbite’s whereabouts remain unknown — however, its legend endures, with the weapon whispered to lie hidden somewhere in the frozen wastes, awaiting the hand of someone worthy of its power." #NT!
+ vs_frostbite_hammer_name: "Фростбайт" #NT!
+ vs_frostbite_hammer_description: "«Фростбайт» — легендарное оружие, выкованное из бледно-голубой валирийской стали, свидетельство могущества дома Фрост. Его массивная боевая часть, выполненная в форме вороньего клюва, столь же устрашающа, как и северные ветра, что несутся по ледяной родине.\n\nКогда-то он находился в руках последнего из королей Фростов, служа символом династии, правившей из сердца Фростгварда. После падения короля его сослали на [nw_govt|E], откуда он в конце концов бежал к Ледяным клыкам.\n\nПотерянный во времени, «Фростбайт» до сих пор не найден — однако легенда о нём живёт, и шёпот говорит, что оружие скрыто где-то во льдах, ожидая руки достойного." #NT!
   
- dragon_tail_name: "Dragon Tail" #NT!
+ dragon_tail_name: "Драконий хвост" #NT!
  dragon_tail_description: "..." #NT!
- vs_mages_fire_name: "Mage's Fire" #NT!
- vs_mages_fire_desc: "A one-handed rapier with a slender double-edged blade designed for thrusting through an opponents defenses. The metal of its guard is finished in a fading color that transverses from white to blue, matching the blue of its grip and pommel. It is a weapon of precision and closer to a work of art than an implement of war." #NT!
+ vs_mages_fire_name: "Огонь мага" #NT!
+ vs_mages_fire_desc: "Одноручная рапира с тонким двулезвийным клинком, созданная для уколов, пробивающих защиту противника. Металл её гарды покрыт выцветающим переливом от белого к синему, совпадая с синим оттенком рукояти и навершия. Это оружие точности, больше напоминающее произведение искусства, чем орудие войны." #NT!

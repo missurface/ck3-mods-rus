@@ -1,6 +1,6 @@
 ﻿l_russian:
- lv_restoration_steward_modifier: "Restoration Efforts" #NT!
- lv_restoration_steward_modifier_desc: "Management and restoration of this settlement is being overseen by a capable steward, improving its recovery and overall efficiency in handling restoration projects." #NT!
- lv_restoration_steward_modifier_scale_desc: "This modifier reduces construction time by roughly #V 2.5%#! every #V 3#! [stewardship|E] starting at #V 11#! #weak (Scaling Factor: #P $MULTIPLIER|0$#!)#!, Maxes out at #V 50%#! #weak (Scaling Factor: #V 10#!)#!" #NT!
- lv_restoration_steward_title: "Restoration Efforts Bolstered" #NT!
- lv_restoration_steward_desc: "Your steward has been instrumental in the restoration of [county.GetName]." #NT!
+ lv_restoration_steward_modifier: "Усилия по восстановлению" #NT!
+ lv_restoration_steward_modifier_desc: "Управление и восстановление этого поселения курируется способным управителем, что улучшает его восстановление и общую эффективность реализации проектов по восстановлению." #NT!
+ lv_restoration_steward_modifier_scale_desc: "Этот модификатор сокращает время строительства примерно на #V 2.5%#! за каждые #V 3#! пункта [stewardship|E] начиная с #V 11#! #weak (Коэффициент масштабирования: #P $MULTIPLIER|0$#!)#!. Максимум #V 50%#! #weak (Коэффициент масштабирования: #V 10#!)#!" #NT!
+ lv_restoration_steward_title: "Усилия по восстановлению усилены" #NT!
+ lv_restoration_steward_desc: "Ваш управитель сыграл ключевую роль в восстановлении [county.GetName]." #NT!

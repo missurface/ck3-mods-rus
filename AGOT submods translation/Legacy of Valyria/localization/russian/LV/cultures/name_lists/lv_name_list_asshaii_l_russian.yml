@@ -1,143 +1,143 @@
 ﻿l_russian:
- name_list_asshaii: "Asshai'i" #NT!
+ name_list_asshaii: "Асшай'и"
    # Male Asshai'i names 
- Akiya: "Akiya" #NT!
- Ammith: "Ammith" #NT!
- Arnattu: "Arnattu" #NT!
- Awil: "Awil" #NT!
- Arganth: "Arganth" #NT!
- Belshun: "Belshun" #NT!
- Dadanum: "Dadanum" #NT!
- Dadasig: "Dadasig" #NT!
- Dadazig: "Dadazig" #NT!
- Dagan: "Dagan" #NT!
- Enlil: "Enlil" #NT!
- Errath: "Errath" #NT!
- Gudeath: "Gudeath" #NT!
- Hazghan: "Hazghan" #NT!
- Hunhal: "Hunhal" #NT!
- Iddin: "Iddin" #NT!
- Irrara: "Irrara" #NT!
- Ishtup: "Ishtup" #NT!
- Iluath: "Iluath" #NT!
- Ipquath: "Ipquath" #NT!
- Kabid: "Kabid" #NT!
- Kraznak: "Kraznak" #NT!
- Kurum: "Kurum" #NT!
- Kabkath: "Kabkath" #NT!
- Kugbau: "Kugbau" #NT!
- Limer: "Limer" #NT!
- Lezhahl: "Lezhahl" #NT!
- Luenlila: "Luenlila" #NT!
- Laum: "Laum" #NT!
- Lugatum: "Lugatum" #NT!
- Lipith: "Lipith" #NT!
- Mesanepada: "Mesanepada" #NT!
- Mordhan: "Mordhan" #NT!
- Munawirtum: "Munawirtum" #NT!
- Mushtal: "Mushtal" #NT!
- Mutubisir: "Mutubisir" #NT!
- Nawirum: "Nawirum" #NT!
- Nakloz: "Nakloz" #NT!
- Naqqan: "Naqqan" #NT!
- Nergal: "Nergal" #NT!
- Ninurta: "Ninurta" #NT!
- Nurkubi: "Nurkubi" #NT!
- Oznak: "Oznak" #NT!
- Ozamu: "Ozamu" #NT!
- Palusum: "Palusum" #NT!
- Puzur: "Puzur" #NT!
- Qasmath: "Qasmath" #NT!
- Quabum: "Quabum" #NT!
- Quazur: "Quazur" #NT!
- Rezdar: "Rezdar" #NT!
- Shamash: "Shamash" #NT!
- Sharmash: "Sharmash" #NT!
- Shepsin: "Shepsin" #NT!
- Shatath: "Shatath" #NT!
- Shulgi: "Shulgi" #NT!
- Shulpae: "Shulpae" #NT!
- Shullat: "Shullat" #NT!
- Shusuen: "Shusuen" #NT!
- Sumalika: "Sumalika" #NT!
- Samuqan: "Samuqan" #NT!
- Tehuth: "Tehuth" #NT!
- Ubaruth: "Ubaruth" #NT!
- Ugazum: "Ugazum" #NT!
- Utu: "Utu" #NT!
- Urnammu: "Urnammu" #NT!
- Warad: "Warad" #NT!
- Wusum: "Wusum" #NT!
- Yatum: "Yatum" #NT!
- Yasmath: "Yasmath" #NT!
- Yeznak: "Yeznak" #NT!
- Zharaq: "Zharaq" #NT!
+ Akiya: "Акия"
+ Ammith: "Аммит"
+ Arnattu: "Арнатту"
+ Awil: "Ауил"
+ Arganth: "Аргант"
+ Belshun: "Белшун"
+ Dadanum: "Даданум"
+ Dadasig: "Дадасиг"
+ Dadazig: "Дадазиг"
+ Dagan: "Даган"
+ Enlil: "Энлил"
+ Errath: "Эрат"
+ Gudeath: "Гудеат"
+ Hazghan: "Хазган"
+ Hunhal: "Хунхал"
+ Iddin: "Иддин"
+ Irrara: "Иррара"
+ Ishtup: "Иштуп"
+ Iluath: "Илуат"
+ Ipquath: "Ипкуат"
+ Kabid: "Кабид"
+ Kraznak: "Кразнак"
+ Kurum: "Курум"
+ Kabkath: "Кабкат"
+ Kugbau: "Кугбау"
+ Limer: "Лимер"
+ Lezhahl: "Лежахл"
+ Luenlila: "Луэнлила"
+ Laum: "Лаум"
+ Lugatum: "Лугатум"
+ Lipith: "Липит"
+ Mesanepada: "Мезанепада"
+ Mordhan: "Мордан"
+ Munawirtum: "Мунавиртум"
+ Mushtal: "Муштал"
+ Mutubisir: "Мутубисир"
+ Nawirum: "Навирум"
+ Nakloz: "Наклоз"
+ Naqqan: "Наккан"
+ Nergal: "Нергал"
+ Ninurta: "Нинурта"
+ Nurkubi: "Нуркуби"
+ Oznak: "Ознак"
+ Ozamu: "Озаму"
+ Palusum: "Палусум"
+ Puzur: "Пузур"
+ Qasmath: "Касмат"
+ Quabum: "Квабум"
+ Quazur: "Квазор"
+ Rezdar: "Рездор"
+ Shamash: "Шамаш"
+ Sharmash: "Шармаш"
+ Shepsin: "Шепсин"
+ Shatath: "Шатат"
+ Shulgi: "Шульги"
+ Shulpae: "Шульпае"
+ Shullat: "Шуллат"
+ Shusuen: "Шусвен"
+ Sumalika: "Сумалика"
+ Samuqan: "Самукан"
+ Tehuth: "Техут"
+ Ubaruth: "Убарут"
+ Ugazum: "Угазум"
+ Utu: "Уту"
+ Urnammu: "Урнаму"
+ Warad: "Варад"
+ Wusum: "Вусум"
+ Yatum: "Ятум"
+ Yasmath: "Ясмат"
+ Yeznak: "Езнак"
+ Zharaq: "Жарак"
   
    # Female Asshai'i names 
- Aea: "Aea" #NT!
- Ahassuth: "Ahassuth" #NT!
- Amaya: "Amaya" #NT!
- #Anu: "Anu" #NT!
- # Ata: "Ata" #NT!
- Aya: "Aya" #NT!
- Barsena: "Barsena" #NT!
- Berrata: "Berrata" #NT!
- Daqqartum: "Daqqartum" #NT!
- Delondra: "Delondra" #NT!
- # Elara: "Elara" #NT!
- Erethe: "Erethe" #NT!
- Erethkiga: "Erethkiga" #NT!
- Enheduana: "Enheduana" #NT!
- Eala: "Eala" #NT!
- Galara: "Galara" #NT!
- Gemethega: "Gemethega" #NT!
- Gemithe: "Gemithe" #NT!
- Hazmya: "Hazmya" #NT!
- Ishtare: "Ishtare" #NT!
- Ilutha: "Ilutha" #NT!
- Irkalla: "Irkalla" #NT!
- Jezha: "Jezha" #NT!
- Kithar: "Kithar" #NT!
- Keza: "Keza" #NT!
- Malara: "Malara" #NT!
- Murrim: "Murrim" #NT!
- Murrithe: "Murrithe" #NT!
- Nammu: "Nammu" #NT!
- # Nanna: "Nanna" #NT!
- Nindukugga: "Nindukugga" #NT!
- Nin: "Nin" #NT!
- Ninbanda: "Ninbanda" #NT!
- Ninhursag: "Ninhursag" #NT!
- Ninsun: "Ninsun" #NT!
- Nintuda: "Nintuda" #NT!
- Nisaba: "Nisaba" #NT!
- Puabi: "Puabi" #NT!
- Qalana: "Qalana" #NT!
- Quaiduri: "Quaiduri" #NT!
- Quaithe: "Quaithe" #NT!
- Sapurtum: "Sapurtum" #NT!
- Senanoru: "Senanoru" #NT!
- Senera_name: "Senera" #NT!
- Shubad: "Shubad" #NT!
- Summirathe: "Summirathe" #NT!
- Taram: "Taram" #NT!
- Urbau: "Urbau" #NT!
- Waqrat: "Waqrat" #NT!
- Zahrina: "Zahrina" #NT!
- Zimu: "Zimu" #NT!
+ Aea: "Аэа"
+ Ahassuth: "Аассут"
+ Amaya: "Амая"
+ #Anu: "Ану"
+ # Ata: "Ата"
+ Aya: "Ая"
+ Barsena: "Барсена"
+ Berrata: "Беррата"
+ Daqqartum: "Даqqартум"
+ Delondra: "Делондра"
+ # Elara: "Элара"
+ Erethe: "Эрет"
+ Erethkiga: "Эреткига"
+ Enheduana: "Энхедуана"
+ Eala: "Эала"
+ Galara: "Галара"
+ Gemethega: "Геметега"
+ Gemithe: "Гемите"
+ Hazmya: "Хазмя"
+ Ishtare: "Иштаре"
+ Ilutha: "Илута"
+ Irkalla: "Иркалла"
+ Jezha: "Джеха"
+ Kithar: "Китар"
+ Keza: "Кеза"
+ Malara: "Малара"
+ Murrim: "Муррим"
+ Murrithe: "Муррит"
+ Nammu: "Намму"
+ # Nanna: "Нана"
+ Nindukugga: "Ниндкугга"
+ Nin: "Нин"
+ Ninbanda: "Нинбанда"
+ Ninhursag: "Нинхурсаг"
+ Ninsun: "Нинсун"
+ Nintuda: "Нинтуд"
+ Nisaba: "Нисаба"
+ Puabi: "Пуаби"
+ Qalana: "Калана"
+ Quaiduri: "Квайдуи"
+ Quaithe: "Квайт"
+ Sapurtum: "Сапуртум"
+ Senanoru: "Сенанору"
+ Senera_name: "Senera"
+ Shubad: "Шубад"
+ Summirathe: "Суммират"
+ Taram: "Тарам"
+ Urbau: "Урбау"
+ Waqrat: "Вакрат"
+ Zahrina: "Захрина"
+ Zimu: "Зиму"
   
    # Unisex names 
- Amuru: "Amuru" #NT!
- Bunuth: "Bunuth" #NT!
- Damuzi: "Damuzi" #NT!
- Ghuzhu: "Ghuzhu" #NT!
- Humbab: "Humbab" #NT!
- Ibnatum: "Ibnatum" #NT!
- Kunash: "Kunash" #NT!
- Mamagal: "Mamagal" #NT!
+ Amuru: "Амуру"
+ Bunuth: "Бунут"
+ Damuzi: "Дамузи"
+ Ghuzhu: "Гузху"
+ Humbab: "Хумбаб"
+ Ibnatum: "Ибнатум"
+ Kunash: "Кунаш"
+ Mamagal: "Мамагал"
   
    # Mercenary Company Names 
- mercenary_company_order_of_the_shadow: "Order of the Shadows" #NT!
- mercenary_company_bearers_of_darkness: "Bearers of Darkness" #NT!
- mercenary_company_of_the_ghosts: "Company of the Ghosts" #NT!
- mercenary_company_withered_men: "Withered Men" #NT!
+ mercenary_company_order_of_the_shadow: "Орден Теней"
+ mercenary_company_bearers_of_darkness: "Носители Тьмы"
+ mercenary_company_of_the_ghosts: "Компания Призраков"
+ mercenary_company_withered_men: "Изможденные Люди"

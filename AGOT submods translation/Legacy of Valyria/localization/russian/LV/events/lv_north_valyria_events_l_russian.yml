@@ -1,19 +1,19 @@
 ﻿l_russian:
- agot_EE_establish_north_valyria_decision: "Establish Northern Valyria" #NT!
- agot_EE_establish_north_valyria_decision_desc: "Establish the kingdom of Northern Valyria from the various squabbling principalities that exist to the north of the once great peninsula into a mighty realm not to be trifled with." #NT!
- agot_EE_establish_north_valyria_decision_tooltip: "Establish the Kingdom of Northern Valyria" #NT!
- agot_EE_establish_north_valyria_decision_confirm: "Gather the realm" #NT!
- agot_EE_establish_north_valyria_tooltip_dejure: "All territories under [GetTitleByKey('k_mantarys').GetName], [GetTitleByKey('k_tolos').GetName], [GetTitleByKey('k_elyria_and_velos').GetName], and [GetTitleByKey('k_draconys').GetName] become [de_jure|E] liege of [GetTitleByKey('e_north_valyria').GetName]" #NT!
+ agot_EE_establish_north_valyria_decision: "Учредить Северную Валирию"
+ agot_EE_establish_north_valyria_decision_desc: "Создать королевство Северной Валирии из множества враждующих княжеств, расположенных к северу от некогда великого полуострова, и превратить его в могущественное царство, с которым будет считаться весь мир."
+ agot_EE_establish_north_valyria_decision_tooltip: "Учредить Королевство Северной Валирии"
+ agot_EE_establish_north_valyria_decision_confirm: "Собрать королевство"
+ agot_EE_establish_north_valyria_tooltip_dejure: "Все территории под властью [GetTitleByKey('k_mantarys').GetName], [GetTitleByKey('k_tolos').GetName], [GetTitleByKey('k_elyria_and_velos').GetName] и [GetTitleByKey('k_draconys').GetName] становятся [de_jure|E] вассалами [GetTitleByKey('k_north_valyria').GetName]"
   
- agot_EE_north_valyria.1.t: "Northern Valyria Rises" #NT!
- agot_EE_north_valyria.1.desc: "From the time of the [valyrian_freehold|E], its northern cities along the Painted Mountains prospered. Though they didn't have the privilege of self-rule, they were wealthy. After the Doom we have fallen from that former glory, left in the ashes to fend for ourselves. The world shall see that this is no longer the case, as I have united these sqauabling petty lords under my banner, either by diplomacy or force.\n\nToday a phoenix rises from the ashes of the [valyrian_freehold_short|E]." #NT!
- agot_EE_north_valyria.1.a: "A king murmurs and a dragon bows its head" #NT!
+ agot_EE_north_valyria.1.t: "Северная Валирия возрождается"
+ agot_EE_north_valyria.1.desc: "В эпоху Валирийской Свободной Империи северные города вдоль Пегментных Гор процветали. Они не пользовались правом самоопределения, но были богаты. После Катастрофы мы утратили прежнее величие и остались среди пепла, вынуждены бороться за выживание. Но этот мир увидит, что это время ушло. Я объединил эти враждующие княжества под своим знаменем, будь то мирным путем или с помощью силы.\n\nСегодня из пепла Свободной Империи восстает феникс."
+ agot_EE_north_valyria.1.a: "Царь шепчет, и дракон склоняет голову"
   
- agot_EE_reestablish_old_valyria_decision: "Restore the Old Empire" #NT!
- agot_EE_reestablish_old_valyria_decision_desc: "From the seat of my flourishing kingdom, I stand poised to revive the old empire, breathing life back into what was once thought lost. The ruins of my forebears whisper of forgotten power, of lands united under one indomitable force, and I am ready to restore that legacy." #NT!
- agot_EE_reestablish_old_valyria_decision_tooltip: "Restablish the Empire of [old_valyria|E]" #NT!
- agot_EE_reestablish_old_valyria_decision_confirm: "Reestablish the Old Empire" #NT!
+ agot_EE_reestablish_old_valyria_decision: "Восстановить Старую Империю"
+ agot_EE_reestablish_old_valyria_decision_desc: "С моего процветающего королевского трона я готов возродить старую империю, вдохнув жизнь в то, что некогда считалось утрачено. Руины моих предков шепчут о забытых мощах, о землях, объединенных под единым и непобедимым флагом, и я готов восстановить это великое наследие."
+ agot_EE_reestablish_old_valyria_decision_tooltip: "Восстановить Империю Старой Валирии"
+ agot_EE_reestablish_old_valyria_decision_confirm: "Восстановить Старую Империю"
   
- agot_EE_old_valyria.1.t: "The Old Empire Rises" #NT!
- agot_EE_old_valyria.1.desc: "As a dragon awakens from its ancient slumber, [old_valyria|E] ascends once more! Our banner soars high over every corner of our once great empire, borne by winds as untamed as the spirit of our people. The ancient [valyrian_freehold_short|E], once a towering light against the darkness, fell in a blaze of ruin. While we may never reclaim its unmatched grandeur, we honor our ancestors by reaching ever higher. Together, we march forward with the olds fire flickering once more. This time, [valyria|E] shall stand the test of ages." #NT!
- agot_EE_old_valyria.1.a: "Restored At Last!" #NT!
+ agot_EE_old_valyria.1.t: "Восхождение Старой Империи"
+ agot_EE_old_valyria.1.desc: "Как древний дракон пробуждается от своего долгого сна, Старая Валирия восстает вновь! Наше знамя гордо реет над каждым уголком когда-то великой империи, несомое ветрами, столь же неукротимыми, как дух нашего народа. Древняя Свободная Империя, когда-то являвшаяся ярким маяком в темных водах, пала в пламени разрушения. Мы не сможем вернуть ей ее былую славу, но мы чтим наших предков и стремимся вперед, с древним огнем в сердцах. Теперь Валирия устоит перед испытаниями веков."
+ agot_EE_old_valyria.1.a: "Возрождена из праха, наконец!"

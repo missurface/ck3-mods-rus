@@ -1,39 +1,39 @@
 ﻿l_russian:
    # Volantis 
- volantis_slaves: "Soldier Slaves" #NT!
- volantis_slaves_flavor: "Every enslaved person must obey their Masters, even if it means risking their lives on the battlefield. Fighting without armor and with improvised weapons, they are supposed to give the rest of the army time to do the real job" #NT!
- free_riders: "Free Riders " #NT!
- free_riders_flavor: "Recruited from mercenaries and sellswords, make up the vast majority of the Volantis cavalry. Despite coming from all parts of Essos, they are able to carry out their missions effectively" #NT!
- elephant_tusk: "Elephant Tusks" #NT!
- elephant_tusk_flavor: "The Elephant Tusks are members of the political faction known as the "Elephants". They fight in a highly organized phalanx formation, wielding long pikes to devastating effect. Like elephants, they are unyielding and steadfast in their defense, and no enemy can overcome their unbreakable wall of spears from the front. Even in retreat, they do not succumb to panic and withdraw in an orderly fashion, providing cover for the rest of the army. Their enemies are left with the impression that they never tire, standing as an impenetrable shield that shatters enemy charges." #NT!
- dragon_lords: "Tiger Lords" #NT!
- dragon_lords_flavor: "The Tiger Lords are members of Volantene nobility who take pride in their aristocratic heritage that traces back to the long-lost Valyria. Their bloodlines are revered and their combat prowess is unmatched. As heavy armoured cataphracts, they ride into battle with their lances held high, ready to strike fear into the hearts of their enemies. The Tiger Lords are known for their aggression and ferocity in battle, and their enemies quiver at the sound of their approaching hoofbeats. They are a proud and arrogant lot, but their bravery and unwavering determination on the battlefield are unmatched." #NT!
- citizen_guard: "Citizen Guard" #NT!
- citizen_guard_flavor: "The Citizen Guard is a civic militia made up of the inhabitants of the Volantis state, particularly those from the cities of Volantis, Volon Therys, Valysar, and their surrounding areas. Only free people can join the Citizen Guard, and they do so with great pride, as fighting in this formation is a great honor. They fight as disciplined infantry, equipped with heavy armor, large shields, swords, axes, and hammers. They form the backbone of the Volantene army and are the primary means of defending their borders against their neighboring enemies." #NT!
- volantis_war_elephants: "War Elephants of Volantis" #NT!
- volantis_war_elephants_flavor: "The elephant is a symbol of Great City of Volantis. Their mere presence raises the morale of all its citizens and instills fear in their enemies. The formation is comprised of several dozen great war elephants, clad in heavy armor, each with a handler on its back and a small turret with several archers. They are absolutely deadly in battle, often breaking through entire formations with one powerful charge." #NT!
+ volantis_slaves: "Рабы-солдаты"
+ volantis_slaves_flavor: "Каждый порабощенный должен подчиняться своим Властелинам, даже если это означает рисковать своей жизнью на поле битвы. Сражаясь без доспехов и с импровизированным оружием, они должны дать время остальной армии выполнить настоящую работу"
+ free_riders: "Свободные всадники"
+ free_riders_flavor: "Набранные из наемников и мечников, составляют подавляющее большинство кавалерии Волантиса. Несмотря на их происхождение из разных частей Эссоса, они эффективно выполняют свои миссии"
+ elephant_tusk: "Бивни слонов"
+ elephant_tusk_flavor: "Бивни слонов - это члены политической фракции, известной как 'Слоны'. Они сражаются в высокоорганизованной фаланге, используя длинные пики с разрушительным эффектом. Как и слоны, они непоколебимы и стойки в своей обороне, и ни один враг не может преодолеть их непроницаемую стену копий с фронта. Даже в отступлении они не поддаются панике и отходят в порядке, обеспечивая прикрытие для остальной армии. Их враги остаются с впечатлением, что они никогда не усталяют, стоя как непробиваемый щит, который разрушает вражеские атаки."
+ dragon_lords: "Тигровые лорды"
+ dragon_lords_flavor: "Тигровые лорды - это члены волантийской знати, гордящиеся своим аристократическим наследием, которое восходит к давно утерянной Валарии. Их родословные почитаются, а боевые навыки не имеют себе равных. Как тяжело бронированные катапрактники, они врываются в бой с высоко поднятыми копьями, готовые внушить страх своим врагам. Тигровые лорды известны своей агрессией и яростью в бою, и их враги дрожат от звука их приближающихся копыт. Это гордые и высокомерные люди, но их храбрость и непоколебимая решимость на поле боя не имеют себе равных."
+ citizen_guard: "Гражданская гвардия"
+ citizen_guard_flavor: "Гражданская гвардия - это гражданская милиция, состоящая из жителей волантийского государства, особенно из городов Волантис, Волон Териес, Валисар и их окрестностей. В гвардию могут вступать только свободные люди, и они делают это с большой гордостью, так как участие в этой формации - большая честь. Они сражаются как дисциплинированная пехота, оснащенная тяжелыми доспехами, большими щитами, мечами, топорами и молотами. Они составляют основу волантийской армии и являются основным средством защиты их границ от соседних врагов."
+ volantis_war_elephants: "Боевые слоны Волантиса"
+ volantis_war_elephants_flavor: "Слон - это символ Великого Города Волантис. Одно их присутствие повышает мораль всех его жителей и вселяет страх в сердца врагов. Формирование состоит из нескольких десятков больших боевых слонов, облаченных в тяжелую броню, с всадником на спине и небольшой башней с несколькими лучниками. Они абсолютно смертельны в бою, часто прорывая целые формирования одним мощным ударом."
   
    # Dothraki 
- dothraki_riders: "Dothraki Riders" #NT!
- dothraki_riders_flavor: "The Dothraki have learned to ride and bond with their horses like no other culture, using them for any and all warfare purposes and considering any other style of warfare to be beneath them." #NT!
+ dothraki_riders: "Дотракийские всадники"
+ dothraki_riders_flavor: "Дотракийцы научились ездить верхом и ладить со своими лошадьми так, как ни одна другая культура, используя их для любых военных целей и считая любой другой стиль ведения войны ниже своего достоинства."
   
    # Northern Valyria 
- elyrian_longbowmen: "Elyrian Longbowmen" #NT!
+ elyrian_longbowmen: "Элирийские лучники"
    elyrian_longbowmen_flavor:0 "Elyrian longbowmen are elite archers renowned for their precision and deadly range, wielding tall, intricately crafted bows designed for powerful shots. Trained from a young age, they strike swiftly from afar, blending agility with unmatched skill in ranged warfare. 
- mantaryan_monsters: "Mantaryan Monsters" #NT!
- mantaryan_monsters_flavor: "Mantaryan Monsters are an elite band of warriors twisted by the Doom, their bodies disfigured but their skills lethal. Though their transformation grants them unnatural powers, their altered forms leave them painfully vulnerable." #NT!
+ mantaryan_monsters: "Мантарианские чудовища"
+ mantaryan_monsters_flavor: "Мантарианские чудовища - элитная группа воинов, изуродованных Роком, их тела искажены, но их боевые способности смертоносны. Хотя их превращение дарует им сверхъестественные силы, их измененные формы делают их уязвимыми."
   
    # Gogossos 
- gogossi_berserkers: "Gogossi Berserkers" #NT!
- gogossi_berserkers_flavor: "Gogossi Berserkers are men and woman whom love the thrill of a fight but are also bewitched by the scent and taste of blood, they go into a mad frenzy killing all those around them for they care not from whence the blood flows, only that it flows." #NT!
- basilisk_riders: "Basilisk Riders" #NT!
- basilisk_riders_flavor: "Basilisk Riders are extremely Reveared in Gogossite Culture having taken years of dedicated training these viscious mounts will tear through armour like butter , these fearsome riders are usually sent out on assassintation missions as they are extremely quiet and fast moving too... good luck hiding from them" #NT!
- blood_mutants: "Blood Mutants" #NT!
- blood_mutants_flavor: "Through trial and error the gogossites because of their fascination for the [valyrian_freehold|E], it's mages and the magics within it, have learned to use the powers of the blood to create new unstoppable creatures which are capable of changing the tides of battle by barely lifting a finger making them closer to gods then humans, much like the valyrians..." #NT!
+ gogossi_berserkers: "Гогоссосские берсерки"
+ gogossi_berserkers_flavor: "Гогоссосские берсерки — это мужчины и женщины, которые живут ради битвы, но также находятся во власти безумия, вызванного запахом и вкусом крови. Впадая в неистовство, они убивают всех вокруг, ведь им неважно, чья кровь прольётся — главное, чтобы она текла."
+ basilisk_riders: "Всадники на василисках"
+ basilisk_riders_flavor: "Всадники на василисках пользуются величайшим почётом в культуре Гогоссоса. Годы упорных тренировок позволяют им управлять этими свирепыми существами, способными прорезать доспехи, словно масло. Эти устрашающие воины чаще всего направляются на задания по устранению врагов, ведь их скорость и бесшумность делают их идеальными убийцами... Удачи в попытках спрятаться от них."
+ blood_mutants: "Кровавые мутанты"
+ blood_mutants_flavor: "Методом проб и ошибок гогоссы, очарованные Валирийским Фригольдом, его магами и магией, изучили силы крови, чтобы создавать новых, неостановимых существ. Эти создания способны изменить ход сражения, едва пошевелив пальцем, делая их ближе к богам, чем к людям, подобно валирийцам..."
   
    # Asshai 
- esoteric_grenadiers: "Esoteric Grenadiers" #NT!
- esoteric_grenadiers_flavor: "Esoteric Grenadiers, mostly composed of sorcerers new to the magical crafts, are commonly known for their practice of the Shadowbinder religion. They possess immense strength and can thereby easily change the tides of battle with their enchanted flame-throwing capabilities." #NT!
+ esoteric_grenadiers: "Боевые маги"
+ esoteric_grenadiers_flavor: "Боевые маги, состоящие в основном из акколитов, известны своей приверженностью Заклинателям теней и обладают огромной силой. Они могут легко изменить ход сражения благодаря своим зачарованным огнемётам."
   
- shadow_raiders: "Shadow Raiders" #NT!
- shadow_raiders_flavor: "The Shadowmen are no strangers to battle despite avoiding it, as their ancestors were once pirates and raiders and stole from ships in the neighbouring seas in an attempt to seek loot, glory and infamy." #NT!
+ shadow_raiders: "Теневые Налётчики"
+ shadow_raiders_flavor: "Народ тени не чужд сражениям, несмотря на стремление их избегать. Их предки были пиратами и налётчиками, которые грабили корабли в соседних морях в поисках добычи, славы и известности."

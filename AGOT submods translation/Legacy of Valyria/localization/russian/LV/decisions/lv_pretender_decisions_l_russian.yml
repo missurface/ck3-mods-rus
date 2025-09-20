@@ -1,12 +1,12 @@
 ﻿l_russian:
- LV_form_pretender_empire_decision: "Claim the Mantle of the [valyrian_freehold_short|E]" #NT!
- LV_form_pretender_empire_decision_tooltip: "Declare yourself the successor of the [valyrian_freehold_short|E]" #NT!
- LV_form_pretender_empire_decision_desc: "Since the [doom_of_valyria|E], [essos|E] has been without a guiding hand. To the north, Dothraki savages lay waste to all beneath their steeds, and to the east the scions of the harpy grow bolder in embracing their Ghiscari heritage. The daughter-colonies of the [valyrian_freehold_short|E] have been left to their own devices as the [free_cities|E], with each in some form asserting themselves as the true heirs to [valyria|E]. Many have dreamed of reviving the legacy of the [valyrian_freehold_short|E], and even fewer have dared to attempt." #NT!
+ LV_form_pretender_empire_decision: "Присвоить мантию Фригольда"
+ LV_form_pretender_empire_decision_tooltip: "Объявите себя наследником Фригольда"
+ LV_form_pretender_empire_decision_desc: "С момента Рока Валирии Эссос остался без единого правителя. На севере дикари-дотракийцы уничтожают всё на своём пути, а на востоке потомки гарпии всё смелее заявляют о своём гискарском наследии. Дочерние колонии Фригольда стали Свободными Городами, и каждый из них в какой-то мере утверждает себя как истинного наследника Валирии. Многие мечтали возродить наследие Фригольда, но лишь немногие осмелились попытаться."
   
- LV_form_pretender_empire_legendary_dragonrider_requirement: "Be a [GetTrait('dragonrider').GetName( GetNullCharacter )] and hold at least #V 1#! kingdom title" #NT!
- LV_form_pretender_empire_legendary_generic_requirement: "Be of the blood of old [valyria|E] and hold at least #V 1#! empire title" #NT!
- LV_form_pretender_empire_generic_title_requirement: "Must control at least #V 3#! kingdom titles or #V 2#! empire titles" #NT!
- LV_form_pretender_empire_free_city_requirement: "Must control at least #V 3#! of the [free_cities|E]" #NT!
- LV_form_pretender_empire_capital_requirement: "Must hold at least #V 1#! of the Free City capitals or [GetTitleByKey('c_dragonstone').GetBaseNameNoTier]" #NT!
- LV_form_pretender_empire_decision_effect: "You weigh the costs of claiming the legacy of the [valyrian_freehold_short|E] and asserting yourself as its successor state" #NT!
- LV_form_pretender_empire_decision_confirm: "We are the true heirs of [valyria|E]!" #NT!
+ LV_form_pretender_empire_legendary_dragonrider_requirement: "Обладать [GetTrait('dragonrider').GetName( GetNullCharacter )] и владеть как минимум #V 1#! королевским титулом"
+ LV_form_pretender_empire_legendary_generic_requirement: "Быть из крови древней Валирии и владеть как минимум #V 1#! имперским титулом"
+ LV_form_pretender_empire_generic_title_requirement: "Должно быть под контролем как минимум #V 3#! королевских титула или #V 2#! имперских титула"
+ LV_form_pretender_empire_free_city_requirement: "Должно быть под контролем как минимум #V 3#! Свободных Города"
+ LV_form_pretender_empire_capital_requirement: "Должно быть под контролем как минимум #V 1#! столица Свободного Города или [GetTitleByKey('c_dragonstone').GetBaseNameNoTier]"
+ LV_form_pretender_empire_decision_effect: "Вы оцениваете затраты на утверждение наследия Фригольда и объявление себя его преемником"
+ LV_form_pretender_empire_decision_confirm: "Мы истинные наследники Валирии!"

@@ -1,269 +1,269 @@
 ﻿l_russian:
- e_old_valyria: "Mantarys" #NT!
- e_north_valyria: "Northern Valyria" #NT!
- k_draconys: "Draconys" #NT!
- d_draconys: "Draconys" #NT!
- c_valenys: "Valenys" #NT!
- c_vysarion: "Vysarion" #NT!
- c_draconys: "Draconys" #NT!
- b_draconys: "Draconys" #NT!
- b_draconys1: "Valenys" #NT!
- b_draconys2: "Aegorys" #NT!
- b_draconys3: "Vysygys" #NT!
- b_draconys4: "Gelionys" #NT!
- b_draconys5: "Maegarys" #NT!
- b_draconys6: "Dreosys" #NT!
- b_draconys7: "Zaldras" #NT!
- b_draconys8: "Elyran" #NT!
- b_draconys9: "Laborion" #NT!
- b_draconys10: "Paenymion" #NT!
- b_draconys11: "Vasyron" #NT!
- b_draconys12: "Volaryon" #NT!
- b_draconys13: "Kastaryn" #NT!
- b_draconys14: "Mantarys" #NT!
- b_draconys15: "Vezeny" #NT!
- b_draconys16: "Jelmaron" #NT!
- b_draconys17: "Zobriyon" #NT!
- b_draconys18: "Aegony" #NT!
- b_draconys19: "Baelorian" #NT!
- b_draconys20: "Valyros" #NT!
- b_draconys21: "Gelion" #NT!
- b_draconys22: "Dreony" #NT!
- b_draconys23: "Vysarion" #NT!
- b_draconys24: "Laborian" #NT!
+ e_old_valyria: "Старая Валирия"
+ e_north_valyria: "Северная Валирия" #NT!
+ k_draconys: "Драконис"
+ d_draconys: "Драконис"
+ c_valenys: "Валенис"
+ c_vysarion: "Висарион"
+ c_draconys: "Драконис"
+ b_draconys: "Драконис"
+ b_draconys1: "Валенис"
+ b_draconys2: "Эгориус"
+ b_draconys3: "Визигис"
+ b_draconys4: "Гелионис"
+ b_draconys5: "Маегарис"
+ b_draconys6: "Дреосис"
+ b_draconys7: "Залдрас"
+ b_draconys8: "Элиран"
+ b_draconys9: "Лаборион"
+ b_draconys10: "Паэнимион"
+ b_draconys11: "Васирон"
+ b_draconys12: "Воларион"
+ b_draconys13: "Кастарын"
+ b_draconys14: "Мантарис"
+ b_draconys15: "Везени"
+ b_draconys16: "Джелмарон"
+ b_draconys17: "Зобрион"
+ b_draconys18: "Эгони"
+ b_draconys19: "Байлорьон"
+ b_draconys20: "Валирос"
+ b_draconys21: "Гелион"
+ b_draconys22: "Дреони"
+ b_draconys23: "Висарион"
+ b_draconys24: "Лабориан"
   
- d_anogaria: "Anogaria" #NT!
- c_vasrion: "Vasrion" #NT!
- c_aelyra: "Aelyra" #NT!
- c_anyros: "Anyros" #NT!
- c_anogaria: "Anogaria" #NT!
- b_anogaria: "Anogaria" #NT!
- b_anogaria1: "Valygar" #NT!
- b_anogaria2: "Baelorion" #NT!
- b_anogaria3: "Elyngar" #NT!
- b_anogaria4: "Maegarya" #NT!
- b_anogaria5: "Dreogar" #NT!
- b_anogaria6: "Kastalyra" #NT!
- b_anogaria7: "Zaldrion" #NT!
- b_anogaria8: "Vasyndor" #NT!
- b_anogaria9: "Aegonara" #NT!
- b_anogaria10: "Volantys" #NT!
- b_anogaria11: "Gelionara" #NT!
- b_anogaria12: "Dreyonys" #NT!
- b_anogaria13: "Velyndar" #NT!
- b_anogaria14: "Laborian" #NT!
- b_anogaria15: "Anyros" #NT!
- b_anogaria16: "Mysandor" #NT!
- b_anogaria17: "Rhaegor" #NT!
- b_anogaria18: "Targaryon" #NT!
- b_anogaria19: "Aelyra" #NT!
- b_anogaria20: "Vaelorin" #NT!
- b_anogaria21: "Anelion" #NT!
- b_anogaria22: "Nymeros" #NT!
- b_anogaria23: "Elyndor" #NT!
- b_anogaria24: "Thalyra" #NT!
- b_anogaria25: "Zorhys" #NT!
- b_anogaria26: "Aegonys" #NT!
- b_anogaria27: "Vasrion" #NT!
- b_anogaria28: "Balorian" #NT!
- b_anogaria29: "Maegonys" #NT!
- b_anogaria30: "Zandor" #NT!
- b_anogaria31: "Thoros" #NT!
- b_anogaria32: "Vysylar" #NT!
- b_anogaria33: "Nylarion" #NT!
+ d_anogaria: "Аногария"
+ c_vasrion: "Васрион"
+ c_aelyra: "Аэлира"
+ c_anyros: "Аньрос"
+ c_anogaria: "Аногария"
+ b_anogaria: "Аногария"
+ b_anogaria1: "Валигар"
+ b_anogaria2: "Бейлорион"
+ b_anogaria3: "Элингар"
+ b_anogaria4: "Маегария"
+ b_anogaria5: "Дреогар"
+ b_anogaria6: "Касталыра"
+ b_anogaria7: "Залдрион"
+ b_anogaria8: "Васиндор"
+ b_anogaria9: "Эгонэра"
+ b_anogaria10: "Волантис"
+ b_anogaria11: "Гелионара"
+ b_anogaria12: "Дреёнис"
+ b_anogaria13: "Велиндар"
+ b_anogaria14: "Лабориан"
+ b_anogaria15: "Аньрос"
+ b_anogaria16: "Мисандор"
+ b_anogaria17: "Рэйгор"
+ b_anogaria18: "Таргарион"
+ b_anogaria19: "Аэлира"
+ b_anogaria20: "Ваелорин"
+ b_anogaria21: "Анелион"
+ b_anogaria22: "Нимерос"
+ b_anogaria23: "Элиндор"
+ b_anogaria24: "Талыра"
+ b_anogaria25: "Зорхис"
+ b_anogaria26: "Эгонис"
+ b_anogaria27: "Васрион"
+ b_anogaria28: "Балориан"
+ b_anogaria29: "Маегонис"
+ b_anogaria30: "Зандор"
+ b_anogaria31: "Торос"
+ b_anogaria32: "Высиляр"
+ b_anogaria33: "Ниларион"
   
- c_volandrys: "Velakar" #NT!
- c_howling_bogs: "Howling Bogs" #NT!
- b_howling_bogs: "Howling Bogs" #NT!
- b_howling_bogs1: "Velyndar Bog" #NT!
- b_howling_bogs2: "Aegon Bog" #NT!
- b_howling_bogs3: "Dreothys" #NT!
- b_howling_bogs4: "Maegon Bog" #NT!
- b_howling_bogs5: "Zaldrinar" #NT!
- b_howling_bogs6: "Velakar" #NT!
- b_howling_bogs7: "Gelindor" #NT!
- b_howling_bogs8: "Tharvos" #NT!
- b_howling_bogs9: "Nymeron" #NT!
- b_howling_bogs10: "Elyndor Bog" #NT!
- b_howling_bogs11: "Anokyth" #NT!
- b_howling_bogs12: "Kastaryn" #NT!
- b_howling_bogs13: "Vasyndor" #NT!
- b_howling_bogs14: "Valyryon" #NT!
- b_howling_bogs15: "Howlsaryn" #NT!
- b_howling_bogs16: "Rhaegor Bog" #NT!
- b_howling_bogs17: "Aelyndor" #NT!
- b_howling_bogs18: "Mysandor" #NT!
+ c_volandrys: "Велакар"
+ c_howling_bogs: "Воющие Болота"
+ b_howling_bogs: "Воющие Болота"
+ b_howling_bogs1: "Велиндарское Болото"
+ b_howling_bogs2: "Эгоново Болото"
+ b_howling_bogs3: "Дреотис"
+ b_howling_bogs4: "Маегоново Болото"
+ b_howling_bogs5: "Залдриар"
+ b_howling_bogs6: "Велакар"
+ b_howling_bogs7: "Гелиндор"
+ b_howling_bogs8: "Тарвос"
+ b_howling_bogs9: "Нимерон"
+ b_howling_bogs10: "Элиндорское Болото"
+ b_howling_bogs11: "Анокиф"
+ b_howling_bogs12: "Кастарын"
+ b_howling_bogs13: "Васиндор"
+ b_howling_bogs14: "Валирьон"
+ b_howling_bogs15: "Воулсарын"
+ b_howling_bogs16: "Рэйгорово Болото"
+ b_howling_bogs17: "Аэлиндор"
+ b_howling_bogs18: "Мисандор"
   
- k_mantarys: "Mantarys" #NT!
- d_mantarys: "Mantarys" #NT!
- c_elyndras: "Elyndras" #NT!
- c_mantarys: "Mantarys" #NT!
- b_mantarys: "Mantarys" #NT!
- b_mantarys1: "Maelyndor" #NT!
- b_mantarys2: "Velyndra" #NT!
- b_mantarys3: "Zaldras" #NT!
- b_mantarys4: "Drethonys" #NT!
- b_mantarys5: "Tharion" #NT!
- b_mantarys6: "Aegonys" #NT!
- b_mantarys7: "Gelion" #NT!
- b_mantarys8: "Rhaevaris" #NT!
- b_mantarys9: "Elyndras" #NT!
- b_mantarys10: "Valyndor" #NT!
- b_mantarys11: "Nymeris" #NT!
- b_mantarys12: "Vastharos" #NT!
- b_mantarys13: "Anerys" #NT!
- b_mantarys14: "Kastarys" #NT!
- b_mantarys15: "Maegis" #NT!
+ k_mantarys: "Мантарис"
+ d_mantarys: "Мантарис"
+ c_elyndras: "Элиндрас"
+ c_mantarys: "Мантарис"
+ b_mantarys: "Мантарис"
+ b_mantarys1: "Маэлиндор"
+ b_mantarys2: "Велиндра"
+ b_mantarys3: "Залдрас"
+ b_mantarys4: "Дретонис"
+ b_mantarys5: "Тарион"
+ b_mantarys6: "Эгонис"
+ b_mantarys7: "Гелион"
+ b_mantarys8: "Рэйварис"
+ b_mantarys9: "Элиндрас"
+ b_mantarys10: "Валиндор"
+ b_mantarys11: "Нимерис"
+ b_mantarys12: "Васфарос"
+ b_mantarys13: "Анэрыс"
+ b_mantarys14: "Кастарыс"
+ b_mantarys15: "Маегис"
   
- d_painted_valleys: "Painted Valleys" #NT!
- c_treylys: "Treylys" #NT!
- c_elarion: "Elarion" #NT!
- c_valyron: "Valyron" #NT!
- c_elyndor: "Elyndor" #NT!
- c_painted_valleys: "Painted Valleys" #NT!
- b_painted_valleys: "Painted Valleys" #NT!
- b_painted_valleys1: "Valyndra" #NT!
- b_painted_valleys2: "Draelys" #NT!
- b_painted_valleys3: "Aegorys" #NT!
- b_painted_valleys4: "Vasyndor" #NT!
- b_painted_valleys5: "Thyrenys" #NT!
- b_painted_valleys6: "Maeloris" #NT!
- b_painted_valleys7: "Elyndor" #NT!
- b_painted_valleys8: "Kastaryn" #NT!
- b_painted_valleys9: "Gelionys" #NT!
- b_painted_valleys10: "Nymerith" #NT!
- b_painted_valleys11: "Zaldrar" #NT!
- b_painted_valleys12: "Anarion" #NT!
- b_painted_valleys13: "Drethorys" #NT!
- b_painted_valleys14: "Velyndor" #NT!
- b_painted_valleys15: "Rhysandor" #NT!
- b_painted_valleys16: "Valyron" #NT!
- b_painted_valleys17: "Jelmaris" #NT!
- b_painted_valleys18: "Lorathys" #NT!
- b_painted_valleys19: "Saryon" #NT!
- b_painted_valleys20: "Myrandra" #NT!
- b_painted_valleys21: "Kalys" #NT!
- b_painted_valleys22: "Elarion" #NT!
- b_painted_valleys23: "Velyth" #NT!
- b_painted_valleys24: "Zalyndor" #NT!
- b_painted_valleys25: "Alaryth" #NT!
- b_painted_valleys26: "Thalyra" #NT!
- b_painted_valleys27: "Maegondor" #NT!
- b_painted_valleys28: "Kothirys" #NT!
- b_painted_valleys29: "Geryndor" #NT!
- b_painted_valleys30: "Saryndor" #NT!
- b_painted_valleys31: "Treylys" #NT!
- b_painted_valleys32: "Rhenys" #NT!
- b_painted_valleys33: "Nymyria" #NT!
- b_painted_valleys34: "Aelarion" #NT!
- b_painted_valleys35: "Dreynis" #NT!
- b_painted_valleys36: "Valmira" #NT!
- b_painted_valleys37: "Zaldris" #NT!
- b_painted_valleys38: "Melyndra" #NT!
- b_painted_valleys39: "Kelios" #NT!
- b_painted_valleys40: "Raelion" #NT!
+ d_painted_valleys: "Раскрашенные Долины"
+ c_treylys: "Трейлис"
+ c_elarion: "Эларион"
+ c_valyron: "Валирон"
+ c_elyndor: "Элиндор"
+ c_painted_valleys: "Раскрашенные Долины"
+ b_painted_valleys: "Раскрашенные Долины"
+ b_painted_valleys1: "Валинда"
+ b_painted_valleys2: "Драелис"
+ b_painted_valleys3: "Эгориус"
+ b_painted_valleys4: "Васиндор"
+ b_painted_valleys5: "Тиренис"
+ b_painted_valleys6: "Маэлорис"
+ b_painted_valleys7: "Элиндор"
+ b_painted_valleys8: "Кастарын"
+ b_painted_valleys9: "Гелионис"
+ b_painted_valleys10: "Нимерит"
+ b_painted_valleys11: "Залдрар"
+ b_painted_valleys12: "Анарион"
+ b_painted_valleys13: "Дреториус"
+ b_painted_valleys14: "Велиндор"
+ b_painted_valleys15: "Рисандор"
+ b_painted_valleys16: "Валирон"
+ b_painted_valleys17: "Джелмарис"
+ b_painted_valleys18: "Лоратис"
+ b_painted_valleys19: "Сарийон"
+ b_painted_valleys20: "Миранда"
+ b_painted_valleys21: "Калис"
+ b_painted_valleys22: "Эларион"
+ b_painted_valleys23: "Велит"
+ b_painted_valleys24: "Залиндор"
+ b_painted_valleys25: "Аларит"
+ b_painted_valleys26: "Талыра"
+ b_painted_valleys27: "Маегондор"
+ b_painted_valleys28: "Котирис"
+ b_painted_valleys29: "Гериондор"
+ b_painted_valleys30: "Сариндор"
+ b_painted_valleys31: "Трейлис"
+ b_painted_valleys32: "Ренис"
+ b_painted_valleys33: "Нимирия"
+ b_painted_valleys34: "Аэларион"
+ b_painted_valleys35: "Дрейнис"
+ b_painted_valleys36: "Валмира"
+ b_painted_valleys37: "Залдрис"
+ b_painted_valleys38: "Мелиндра"
+ b_painted_valleys39: "Келиос"
+ b_painted_valleys40: "Раэлион"
   
- d_demon_pass: "Demon Pass" #NT!
- c_demon_pass: "Demon Pass" #NT!
- c_twisted_road: "Twisted Road" #NT!
- b_twisted_road: "Twisted Road" #NT!
- b_varkarios: "Varkarios" #NT!
- b_sinistrys: "Sinistrys" #NT!
- b_kurion: "Kurion" #NT!
- b_deslyros: "Deslyros" #NT!
- b_hushed_crossing: "Hushed Crossing" #NT!
- b_shrieking_woods: "Shrieking Woods" #NT!
- b_cadaver_hills: "Cadaver Hills" #NT!
- b_demons_fork: "Demon's Fork" #NT!
- b_summers_exit: "Summer's Exit" #NT!
- b_dead_mans_post: "Dead Man's Post" #NT!
- b_long_forlorn: "Long Forlorn" #NT!
- b_silent_shore: "Silent Shore" #NT!
- b_burnt_flats: "Burnt Flats" #NT!
+ d_demon_pass: "Демонический Перевал"
+ c_demon_pass: "Демонический Перевал"
+ c_twisted_road: "Извилистая Дорога"
+ b_twisted_road: "Извилистая Дорога"
+ b_varkarios: "Варкарий"
+ b_sinistrys: "Синистрий"
+ b_kurion: "Курион"
+ b_deslyros: "Деслирос"
+ b_hushed_crossing: "Тихий Переход"
+ b_shrieking_woods: "Вопящие Леса"
+ b_cadaver_hills: "Холмы Трупов"
+ b_demons_fork: "Развилка Демонов"
+ b_summers_exit: "Выход Лета"
+ b_dead_mans_post: "Старый Пост Мертвеца"
+ b_long_forlorn: "Долгая Заброшенность"
+ b_silent_shore: "Тихий Берег"
+ b_burnt_flats: "Выжженные Равнины"
   
- c_the_lights: "The Lights" #NT!
- b_the_lights: "The Lights" #NT!
- b_tuneri: "Tuneri" #NT!
- b_nolghir: "Nolghir" #NT!
- b_attalyos: "Attalyos" #NT!
- b_hazmyr: "Hazmyr" #NT!
- b_dying_drake: "Dying Drake" #NT!
- b_quietyr: "Quietyr" #NT!
- b_beasts_way: "Beast's Way" #NT!
- b_deadlights: "Deadlights" #NT!
+ c_the_lights: "Огни"
+ b_the_lights: "Огни"
+ b_tuneri: "Тунери"
+ b_nolghir: "Нолгир"
+ b_attalyos: "Атталийос"
+ b_hazmyr: "Хазмир"
+ b_dying_drake: "Умирающий Дракон"
+ b_quietyr: "Тихийр"
+ b_beasts_way: "Путь Зверя"
+ b_deadlights: "Мертвые Огни"
   
- k_tolos: "Tolos" #NT!
- d_tolos: "Tolos" #NT!
- c_tolos: "Tolos" #NT!
- b_tolos: "Tolos" #NT!
- b_tenelion: "Tenelion" #NT!
- b_elarion: "Elarion" #NT!
- b_azanael: "Azanael" #NT!
- b_nuzatys: "Ostyrys" #NT!
- b_ilvyrion: "Ilvyrion" #NT!
- b_olaerys: "Olaerys" #NT!
- b_mortanys: "Mortanys" #NT!
- b_bantisarys: "Bantisarys" #NT!
- b_zobrastes: "Zobrastes" #NT!
- b_aermysar: "Aermysar" #NT!
+ k_tolos: "Толос"
+ d_tolos: "Толос"
+ c_tolos: "Толос"
+ b_tolos: "Толос"
+ b_tenelion: "Тенелион"
+ b_elarion: "Эларион"
+ b_azanael: "Азанэль"
+ b_nuzatys: "Ostyrys"
+ b_ilvyrion: "Ильвирион"
+ b_olaerys: "Олаэрис"
+ b_mortanys: "Мортанис"
+ b_bantisarys: "Бантисарис"
+ b_zobrastes: "Зобрастес"
+ b_aermysar: "Аермисар"
   
- c_black_cliffs: "Black Cliffs" #NT!
- b_black_cliffs: "Black Cliffs" #NT!
- b_rensylos: "Rensylos" #NT!
- b_maemerys: "Maemerys" #NT!
- b_lykerion: "Lykerion" #NT!
- b_rymion: "Rymion" #NT!
- b_mourhyzar: "Mourhyzar" #NT!
- b_armaelys: "Armaelys" #NT!
- b_syvirys: "Syvirys" #NT!
- b_jelmysarys: "Jelmysarys" #NT!
+ c_black_cliffs: "Черные Утесы"
+ b_black_cliffs: "Черные Утесы"
+ b_rensylos: "Ренсилос"
+ b_maemerys: "Маемерис"
+ b_lykerion: "Ликерион"
+ b_rymion: "Римион"
+ b_mourhyzar: "Моурхизар"
+ b_armaelys: "Армаэлис"
+ b_syvirys: "Сивирис"
+ b_jelmysarys: "Джелмысарис"
   
- d_bhorash: "Bhorash" #NT!
- c_bhorash: "Bhorash" #NT!
- b_bhorash: "Bhorash" #NT!
- b_vythyma: "Vythyma" #NT!
- b_vastyr: "Vastyr" #NT!
- b_nessalion: "Nessalion" #NT!
- b_mylonos: "Mylonos" #NT!
- b_galronys: "Galronys" #NT!
- b_sentyros: "Sentyros" #NT!
- b_hesnyr: "Hesnyr" #NT!
- b_zardurie: "Zardurie" #NT!
- b_dosdyraos: "Dosdyraos" #NT!
- b_golmulos: "Golmulos" #NT!
+ d_bhorash: "Бораш"
+ c_bhorash: "Бораш"
+ b_bhorash: "Бораш"
+ b_vythyma: "Вифима"
+ b_vastyr: "Вастир"
+ b_nessalion: "Нессалион"
+ b_mylonos: "Милонос"
+ b_galronys: "Галронис"
+ b_sentyros: "Сентирос"
+ b_hesnyr: "Хеснир"
+ b_zardurie: "Зардурия"
+ b_dosdyraos: "Досдираос"
+ b_golmulos: "Гольмулос"
   
- c_vezenkarys: "Vezenkarys" #NT!
- b_vezenkarys: "Vezenkarys" #NT!
- b_hostyres: "Hostyres" #NT!
- b_vaekar: "Vaekar" #NT!
- b_ghistalgrys: "Ghistaalgrys" #NT!
- b_kastraea: "Kastraea" #NT!
- b_gahajyr: "Gahajyr" #NT!
- b_syaria: "Syaria" #NT!
- b_alyryn: "Alyryn" #NT!
+ c_vezenkarys: "Везенкарис"
+ b_vezenkarys: "Везенкарис"
+ b_hostyres: "Хостирес"
+ b_vaekar: "Ваекар"
+ b_ghistalgrys: "Гистальгрис"
+ b_kastraea: "Кастраэа"
+ b_gahajyr: "Гахажир"
+ b_syaria: "Сиария"
+ b_alyryn: "Алырын"
   
- k_elyria_and_velos: "Elyria and Velos" #NT!
- d_elyria: "Elyria" #NT!
- c_elyria: "Elyria" #NT!
- b_elyria1: "Elyria" #NT!
- b_elyria2: "Elyria" #NT!
+ k_elyria_and_velos: "Элория и Велос"
+ d_elyria: "Элория"
+ c_elyria: "Элория"
+ b_elyria1: "Элория"
+ b_elyria2: "Элория"
   
- d_velos: "Velos" #NT!
- c_ghozai: "Ghozai" #NT!
- b_ghozai: "Ghozai" #NT!
- b_ghozai_1: "Gimul" #NT!
- b_ghozai_2: "Krazek" #NT!
- b_ghozai_3: "Urdan" #NT!
- b_ghozai_4: "Taruhm" #NT!
+ d_velos: "Велос"
+ c_ghozai: "Гозай"
+ b_ghozai: "Гозай"
+ b_ghozai_1: "Гимул"
+ b_ghozai_2: "Кразек"
+ b_ghozai_3: "Урдан"
+ b_ghozai_4: "Тарухм"
   
- c_velos: "Velos" #NT!
- b_velos: "Velos" #NT!
- b_velos_1: "Ensis" #NT!
- b_velos_2: "Daghar" #NT!
- b_velos_3: "Hazghad" #NT!
- b_velos_4: "Skaryn" #NT!
- b_velos_5: "Udhaz" #NT!
+ c_velos: "Велос"
+ b_velos: "Велос"
+ b_velos_1: "Энсис"
+ b_velos_2: "Дагар"
+ b_velos_3: "Хазгад"
+ b_velos_4: "Скарин"
+ b_velos_5: "Удхаз"
   
- c_elos: "Elos" #NT!
- # b_elos: "Elos" #NT!
- b_elos_1: "Hazlos" #NT!
+ c_elos: "Элос"
+ # b_elos: "Элос"
+ b_elos_1: "Хазлос"

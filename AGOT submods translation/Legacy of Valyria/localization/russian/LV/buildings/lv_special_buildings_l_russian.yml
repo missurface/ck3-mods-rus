@@ -1,351 +1,351 @@
 ﻿l_russian:
    # Braavos 
- building_agot_EE_titan_of_braavos: "The Titan of Braavos" #NT!
- building_type_agot_EE_titan_of_braavos: "The Titan of Braavos" #NT!
- building_agot_EE_titan_of_braavos_desc: "Included by famed Westerosi scribe Lomas Longstrider as one of the Wonders Made by Man, the Titan of Braavos stands as the primary line of defense of the [free_city|E] of Braavos, guarding the narrow entrance into the lagoon in which the city resides. It is a massive statue of granite and bronze in the shape of a warrior, acting as both a fortress and a lighthouse. Murder holes beneath the statue's armored skirt and arrow slits all over its breastplate provide a near-impenetrable defense against enemy ships entering the lagoon." #NT!
+ building_agot_EE_titan_of_braavos: "Титан Браавоса"
+ building_type_agot_EE_titan_of_braavos: "Титан Браавоса"
+ building_agot_EE_titan_of_braavos_desc: "Включён знаменитым вестеросским писцом Ломасом Долгостранником в список Чудес, созданных человеком. Титан Браавоса служит основной линией обороны Свободного города Браавоса, охраняя узкий вход в лагуну, в которой расположен город. Это гигантская статуя из гранита и бронзы в форме воина, которая одновременно является крепостью и маяком. Бойницы под бронированной юбкой статуи и отверстия для стрел на нагруднике обеспечивают почти непробиваемую защиту от вражеских кораблей, пытающихся проникнуть в лагуну."
   
- building_agot_EE_sealords_palace: "The Sealord's Palace" #NT!
- building_type_agot_EE_sealords_palace: "The Sealord's Palace" #NT!
- building_agot_EE_sealords_palace_desc: "The Sealord’s Palace is the home of the Sealord of Braavos. Below the domes and towers of the large palace, an exotic menagerie of birds and beasts from all over the world can be found." #NT!
+ building_agot_EE_sealords_palace: "Дворец Морского Лорда"
+ building_type_agot_EE_sealords_palace: "Дворец Морского Лорда"
+ building_agot_EE_sealords_palace_desc: "Дворец Морского Лорда — это дом Морского Лорда Браавоса. Под куполами и башнями большого дворца можно найти экзотический зверинец птиц и животных со всего света."
   
    # Volantis 
- building_agot_EE_black_walls_of_old_volantis: "The Black Walls" #NT!
- building_type_agot_EE_black_walls_of_old_volantis: "The Black Walls" #NT!
- building_agot_EE_black_walls_of_old_volantis_desc: "The heart of Volantis. Built by the ancient [valyrian_freehold|E], this giant wall of fused black stone protects a series of palaces, courtyards, towers, and temples. Only those of whom their blood traces back to Valyrian ancestry, the Old Blood, are allowed to dwell within it." #NT!
- building_agot_EE_volantis_harbor: "Volantis Harbor" #NT!
- building_type_agot_EE_volantis_harbor: "Volantis Harbor" #NT!
- building_agot_EE_volantis_harbor_desc: "Volantis’ might originates partly from its large harbour, especially due to its favourable geographical location. This vast crescent-shaped location is built right on the mouth of the Rhoyne and is said to be able to contain the entirety of Braavos within it." #NT!
+ building_agot_EE_black_walls_of_old_volantis: "Чёрные стены"
+ building_type_agot_EE_black_walls_of_old_volantis: "Чёрные стены"
+ building_agot_EE_black_walls_of_old_volantis_desc: "Сердце Волантиса. Построенная древним Валирийским Вольным Государством, эта гигантская стена из чёрного спёкшегося камня защищает ряд дворцов, дворов, башен и храмов. Жить за стеной разрешено только тем, чья кровь восходит к валирийским предкам, Старой Крови."
+ building_agot_EE_volantis_harbor: "Гавань Волантиса"
+ building_type_agot_EE_volantis_harbor: "Гавань Волантиса"
+ building_agot_EE_volantis_harbor_desc: "Мощь Волантиса отчасти происходит от его большой гавани, особенно благодаря её выгодному географическому расположению. Этот обширный полумесяц построен у самого устья Ройна и, как говорят, способен вместить весь Браавос."
   
- building_agot_EE_the_long_bridge: "The Long Bridge" #NT!
- building_type_agot_EE_the_long_bridge: "The Long Bridge" #NT!
- building_agot_EE_the_long_bridge_desc: "The Long Bridge joins the two halves of Volantis together and is the longest bridge in the known world. Built by [old_valyria|E] in its prime out of fused stone, it is said to be able to support the weight of a thousand elephants." #NT!
+ building_agot_EE_the_long_bridge: "Длинный мост"
+ building_type_agot_EE_the_long_bridge: "Длинный мост"
+ building_agot_EE_the_long_bridge_desc: "Длинный мост соединяет две половины Волантиса и является самым длинным мостом в известном мире. Построенный Древней Валирией в её расцвете из спёкшегося камня, он, как говорят, способен выдержать вес тысячи слонов."
   
- building_agot_EE_temple_of_the_lord_of_light: "The Temple of the Lord of Light" #NT!
- building_type_agot_EE_temple_of_the_lord_of_light: "The Temple of the Lord of Light" #NT!
- building_agot_EE_temple_of_the_lord_of_light_desc: "This enormous temple rises far above any other building in the city. Its dazzling golden, red, and orange colours make it a true sight to behold. Protected by the Fiery Hand, this temple serves R’hllor, the Lord of Light and it might be one of the biggest testaments to his might in existence." #NT!
+ building_agot_EE_temple_of_the_lord_of_light: "Храм Владыки Света"
+ building_type_agot_EE_temple_of_the_lord_of_light: "Храм Владыки Света"
+ building_agot_EE_temple_of_the_lord_of_light_desc: "Этот огромный храм возвышается над всеми другими постройками города. Его ослепительные золотые, красные и оранжевые цвета делают его настоящим зрелищем. Охраняемый Огненной рукой, этот храм служит Р'глору, Владыке Света, и может быть одним из величайших свидетельств его могущества."
   
- building_agot_EE_volantis_walls: "The Walls of Volantis" #NT!
- building_type_agot_EE_volantis_walls: "The Walls of Volantis" #NT!
- building_agot_EE_volantis_walls_desc: "Although not as impressive as those of Old Volantis, the walls of Volantis will make any attacker think twice about storming the city." #NT!
+ building_agot_EE_volantis_walls: "Стены Волантиса"
+ building_type_agot_EE_volantis_walls: "Стены Волантиса"
+ building_agot_EE_volantis_walls_desc: "Хотя они и не столь впечатляющие, как стены Старого Волантиса, стены Волантиса заставят любого нападающего дважды подумать, прежде чем штурмовать город."
   
    # Rhoyne 
- building_agot_EE_nymeria_palace_01: "Nymeria's Palace" #NT!
- building_type_agot_EE_nymeria_palace_01: "Nymeria's Palace" #NT!
- building_agot_EE_nymeria_palace_01_desc: "At the heart of Ny Sar lie the ruins of Nymeria’s Palace, abandoned since the [valyrian_freehold|E] defeated Prince Garin in the Second Spice War. Its pink and green marble walls, towering domes, and grand spires now stand as a haunting shell of its former self. All life left this place when Nymeria fled to Dorne, leaving these once-proud halls to decay." #NT!
+ building_agot_EE_nymeria_palace_01: "Дворец Нимерии"
+ building_type_agot_EE_nymeria_palace_01: "Дворец Нимерии"
+ building_agot_EE_nymeria_palace_01_desc: "В сердце Нисара лежат руины Дворца Нимерии, заброшенного после того, как Валирийское Вольное Государство разгромило принца Гарина во Второй Пряной войне. Его розовые и зелёные мраморные стены, возвышающиеся купола и величественные шпили теперь стоят как мрачная оболочка своего прежнего великолепия. Жизнь покинула это место, когда Нимерия бежала в Дорн, оставив эти некогда гордые залы разрушаться."
   
- building_agot_EE_nymeria_palace_02: "Nymeria's Palace" #NT!
- building_type_agot_EE_nymeria_palace_02: "Nymeria's Palace" #NT!
- building_agot_EE_nymeria_palace_02_desc: "Standing proudly once more in the heart of Ny Sar, Nymeria’s Palace has been meticulously restored, a testament to Rhoynish resilience and heritage. The vibrant green and pink marble gleams under the sun, while grande domes and soaring spires now dominate the skyline, almost erasing the memories of its tragic past." #NT!
+ building_agot_EE_nymeria_palace_02: "Дворец Нимерии"
+ building_type_agot_EE_nymeria_palace_02: "Дворец Нимерии"
+ building_agot_EE_nymeria_palace_02_desc: "Дворец Нимерии вновь гордо возвышается в сердце Нисара, восстановленный с тщательностью, как свидетельство стойкости и наследия Ройнаров. Яркий зелёный и розовый мрамор сияет под солнцем, а величественные купола и возвышающиеся шпили доминируют над горизонтом, почти стирая воспоминания о его трагическом прошлом."
   
- building_agot_EE_palace_of_love_01: "Palace of Sorrow" #NT!
- building_type_agot_EE_palace_of_love_01: "Palace of Sorrow" #NT!
- building_agot_EE_palace_of_love_01_desc: "The Palace of Sorrows stands as a sombre reminder of the fate that befell Chroyane, the Festival City. Its crumbling towers, covered in moss and dark vines, reveal none of the beauty the Palace of Love once embodied. Sunken statues and the stone men now haunt its foggy, ruined halls." #NT!
+ building_agot_EE_palace_of_love_01: "Дворец Печали"
+ building_type_agot_EE_palace_of_love_01: "Дворец Печали"
+ building_agot_EE_palace_of_love_01_desc: "Дворец Печали стоит как мрачное напоминание о судьбе, постигшей Хроян, Город Фестивалей. Его разрушающиеся башни, покрытые мхом и тёмными лианами, не оставляют следов былой красоты, которой славился Дворец Любви. Затонувшие статуи и Каменные люди теперь населяют его туманные, разрушенные залы."
   
- building_agot_EE_palace_of_love_02: "Palace of Love" #NT!
- building_type_agot_EE_palace_of_love_02: "Palace of Love" #NT!
- building_agot_EE_palace_of_love_02_desc: "The Palace of Love graces the banks of the Rhoyne once more, a breathtaking revival of Chroyane's former glory. Its towers soar high, adorned with vibrant mosaics and delicate carvings that celebrate life, beauty, and love. Sunlight gleams off sparkling fountains that feed into the lush gardens, spilling flowers over every terrace. Under its grand domes, marriages are once again blessed; filling Chroyane with the promise of new beginnings." #NT!
+ building_agot_EE_palace_of_love_02: "Дворец Любви"
+ building_type_agot_EE_palace_of_love_02: "Дворец Любви"
+ building_agot_EE_palace_of_love_02_desc: "Дворец Любви вновь украшает берега Ройна, представляя собой впечатляющее возрождение былого великолепия Хрояна. Его башни взмывают ввысь, украшенные яркими мозаиками и изящной резьбой, прославляющими жизнь, красоту и любовь. Солнечный свет отражается от сверкающих фонтанов, питающих пышные сады, усыпанные цветами. Под его величественными куполами снова благословляются браки, наполняя Хроян обещанием новых начал."
   
- building_agot_EE_bridge_of_dream_01: "Bridge of Dream" #NT!
- building_type_agot_EE_bridge_of_dream_01: "Bridge of Dream" #NT!
- building_agot_EE_bridge_of_dream_01_desc: "Once rivalling the Long Bridge of Volantis, the Bridge of Dream now looms over the Rhoyne in thick fog. Its stone arches used to rise forty feet above the river, but have crumbled under dense moss and black vines. Now a place for the stone men, it stands as a silent, rotting monument to the Rhoynar’s lost pride." #NT!
+ building_agot_EE_bridge_of_dream_01: "Мост Мечты"
+ building_type_agot_EE_bridge_of_dream_01: "Мост Мечты"
+ building_agot_EE_bridge_of_dream_01_desc: "Когда-то соперничавший с Длинным мостом Волантиса, Мост Мечты теперь возвышается над Ройном в густом тумане. Его каменные арки, когда-то поднимавшиеся на сорок футов над рекой, разрушились под тяжестью мха и чёрных лиан. Теперь это место для Каменных людей, стоящее как молчаливый, гниющий памятник утраченной гордости Ройнаров."
   
- building_agot_EE_bridge_of_dream_02: "Bridge of Dream" #NT!
- building_type_agot_EE_bridge_of_dream_02: "Bridge of Dream" #NT!
- building_agot_EE_bridge_of_dream_02_desc: "The Bridge of Dream once again spans the Rhoyne in its full glory. Rising forty feet above the river, its pale stone arches stand strong and defiant. Lush gardens line the bridge’s wooden span, blooming with flowers of all colours. This grand bridge, once lost to time and ruin; has been reborn. A symbol of Rhoynish pride and resilience over the flowing waters of the Rhoyne once more!" #NT!
+ building_agot_EE_bridge_of_dream_02: "Мост Мечты"
+ building_type_agot_EE_bridge_of_dream_02: "Мост Мечты"
+ building_agot_EE_bridge_of_dream_02_desc: "Мост Мечты вновь простирается через Ройн во всей своей славе. Поднимаясь на сорок футов над рекой, его бледные каменные арки стоят крепкими и непокорёнными. Пышные сады украшают деревянный пролет моста, расцветая цветами всех цветов. Этот великий мост, некогда забытый временем и разрухой, был возрождён. Символ гордости и стойкости Ройнаров вновь возвышается над текущими водами Ройна."
   
    # Meereen 
- building_agot_EE_great_pyramid_of_meereen: "The Great Pyramid of Meereen" #NT!
- building_type_agot_EE_great_pyramid_of_meereen: "The Great Pyramid of Meereen" #NT!
- building_agot_EE_great_pyramid_of_meereen_desc: "By far the largest building in the city, the Great Pyramid of Meereen was built by a small army of slaves, a thousand of which died during its construction. The pyramid serves as the administrative centre of Meereen and the city’s rulers have used the great Hall to receive their subjects for centuries." #NT!
+ building_agot_EE_great_pyramid_of_meereen: "Великая Пирамида Миэрина"
+ building_type_agot_EE_great_pyramid_of_meereen: "Великая Пирамида Миэрина"
+ building_agot_EE_great_pyramid_of_meereen_desc: "Крупнейшее здание в городе, Великая Пирамида Миэрина была построена небольшой армией рабов, из которых тысяча погибла во время её строительства. Пирамида служит административным центром Миэрина, а правители города на протяжении веков использовали её великий зал для приёма своих подданных."
   
    # Asshai 
- building_stygai_01: "Haunted City of Stygai" #NT!
- building_type_stygai_01: "Stygai" #NT!
- building_stygai_01_desc: "Stygai, the enigmatic and ancient city shrouded in the dark heart of the Shadow Lands, remains one of the most fear inducing mysteries of the world. Unfathomably old and cloaked in eternal darkness, the city stands as a monument to a forgotten era. Not even the most daring shadowbinders dare to venture into its forsaken streets. The towering spires and labyrinthine alleys are said to be traveled by demons and creatures alike. Veiled in secrecy, its true origins and the extent of its dark powers remain unknown." #NT!
+ building_stygai_01: "Населенный призраками город Стигай"
+ building_type_stygai_01: "Стигай"
+ building_stygai_01_desc: "Стигия, загадочный и древний город, расположенный в темном сердце Земель Теней, остается одной из самых страшных тайн мира. Невероятно древний и окутанный вечной тьмой, этот город стоит как памятник забытой эпохе. Даже самые отважные искатели теней не осмеливаются ступить на его заброшенные улицы. Говорят, что по высоким шпилям и лабиринтам переулков бродят как демоны, так и другие существа. Его истинное происхождение и масштабы его темных сил окутаны тайной.."
   
    # Gogossos 
- building_red_citadel_01: "The Red Tower" #NT!
- building_type_red_citadel_01: "The Red Tower" #NT!
- building_red_citadel_01_desc: "A large coastal tower, believed to be the last remnant of a once-mighty fortress, now serves as the city's primary stronghold. Though much of the original structure has been lost to time, this lone bastion endures—small yet incredibly sturdy and highly defensible. Thick walls of weathered stone stand firm against both the elements and potential sieges, making it a reliable seat of authority within Gogossos. While not yet a grand citadel, it remains a formidable keep, a foundation upon which greater fortifications may one day rise" #NT!
+ building_red_citadel_01: "Красная башня"
+ building_type_red_citadel_01: "Красная башня"
+ building_red_citadel_01_desc: "Большая прибрежная башня, которая, как полагают, является последним остатком некогда могущественной крепости, теперь служит главной цитаделью города. Хотя большая часть первоначального строения была утрачена из—за времени, этот одинокий бастион выстоял - небольшой, но невероятно прочный и хорошо защищаемый. Толстые стены из выветрившегося камня стойко противостоят как стихиям, так и возможным осадам, что делает его надежным оплотом власти в Гогоссосе. Хотя это еще не великая цитадель, она остается грозной крепостью, фундаментом, на котором однажды могут вырасти еще более мощные укрепления"
   
- building_red_citadel_02: "The Red Redoubt" #NT!
- building_type_red_citadel_02: "The Red Redoubt" #NT!
- building_red_citadel_02_desc: "Now reinforced with a sturdy wooden palisade and watchtowers on top the old Crimson Remains, this redoubt has grown into a more formidable stronghold, capable of withstanding prolonged threats. No longer just a lone coastal tower, the expanded defenses now allow it to hold a decent garrison, providing a strong foothold within Gogossos. With ample supplies and reinforced positions, it could even sustain an army for months if necessary, marking its transformation from a mere relic of the past into a true bastion of power within the city." #NT!
+ building_red_citadel_02: "Красный редут"
+ building_type_red_citadel_02: "Красный редут"
+ building_red_citadel_02_desc: "Теперь этот редут, укрепленный прочным деревянным частоколом и сторожевыми башнями на вершине старых Малиновых развалин, превратился в еще более грозную крепость, способную противостоять длительным угрозам. Теперь это не просто одинокая прибрежная башня, расширенные оборонительные сооружения позволяют ей содержать приличный гарнизон, обеспечивая надежный плацдарм в Гогоссосе. Располагая достаточным количеством припасов и укрепленными позициями, он мог бы даже содержать армию в течение нескольких месяцев, если бы это было необходимо, что ознаменовало его превращение из простого пережитка прошлого в настоящий бастион власти в городе."
   
- building_red_citadel_03: "The Red Citadel" #NT!
- building_type_red_citadel_03: "The Red Citadel" #NT!
- building_red_citadel_03_desc: "Once a mere remnant of the past, the Red Citadel has been rebuilt into a vast and unyielding fortress, towering over Gogossos as the city's ultimate seat of power. No longer just a lone tower, it now stands as a fully restored keep and stronghold, its colossal Valyrian Blackstone walls stretching high and thick, a monument to dominance and dread.\n\nLike the Crimson Gate, the walls of the Red Citadel were once infused with blood magic rituals performed by the ancient Valyrians, their sorcery forever staining the stone a deep, unnatural crimson. Though the rituals have long since faded into history, their dark legacy endures, making the citadel not only a near-impenetrable stronghold, but also a haunting symbol of absolute power.\n\nAt its heart, The Red Tower pierces the sky, its presence casting a long shadow over the city, a constant reminder of the archon's authority. The lower walls and courtyard remain slick with blood, not only from the rituals of the past but from the countless executions, betrayals, and brutal conflicts that have played out upon its stones. The blood of rebels, conspirators, and enemies of the state has seeped into its foundations, ensuring that fear is woven into the very fabric of the fortress.\n\nIt is whispered that within these walls, the Red Death first took root, a curse that once ravaged Gogossos, leaving entire districts drowning in blood and suffering. Though the disease has long faded into history, some say the citadel still remembers, that the ghosts of the dying linger in its deepest chambers, whispering to those who listen.\n\nA place of iron rule and legend, the Red Citadel is more than just a fortress—it is the unyielding core of Gogossos, a place where power is absolute, mercy is scarce, and rebellion is crushed before it can begin." #NT!
+ building_red_citadel_03: "Красная цитадель"
+ building_type_red_citadel_03: "Красная цитадель"
+ building_red_citadel_03_desc: "Некогда бывшая простым пережитком прошлого, Красная цитадель была перестроена в огромную и неприступную крепость, возвышающуюся над Гогоссосом и являющуюся главным центром городской власти. Теперь это не просто одинокая башня, а полностью отреставрированный замок и твердыня, его колоссальные стены из валирийского черного камня, высокие и толстые, являются памятником господству и ужасу.\n\nКак и Багровые врата, стены Красной цитадели когда-то были пропитаны ритуалами магии крови, проводимыми древними валирийцами, и их колдовство навсегда окрасило камень в глубокий, неестественный малиновый цвет. Хотя ритуалы давно канули в лету, их мрачное наследие продолжает жить, превращая цитадель не только в почти неприступную крепость, но и в навязчивый символ абсолютной власти.\n\nВ самом центре города возвышается Красная башня, пронзающая небо, ее присутствие отбрасывает длинную тень на город, являясь постоянным напоминанием о власти архонта. Нижние стены и внутренний двор остаются скользкими от крови, не только от ритуалов прошлого, но и от бесчисленных казней, предательств и жестоких конфликтов, которые разыгрывались на его камнях. Кровь мятежников, заговорщиков и врагов государства впиталась в ее основы, гарантируя, что страх вплетен в саму структуру крепости.\n\nХодят слухи, что в этих стенах впервые пустила корни Красная смерть - проклятие, которое когда-то опустошило Гогоссос, оставив целые районы тонуть в крови и страданиях. Хотя эта болезнь давно ушла в историю, некоторые говорят, что цитадель все еще помнит, что призраки умирающих обитают в самых глубоких ее покоях, шепча что-то тем, кто слушает.\n\nМесто железного правления и легенд, Красная цитадель — это больше, чем просто крепость, это непоколебимое ядро Гогоссоса, место, где власть абсолютна, милосердия мало, а бунт подавляется еще до того, как он может начаться."
   
- building_pit_of_sorrows_01: "Overgrown Keep and Ruins" #NT!
- building_type_pit_of_sorrows_01: "Overgrown Keep and Ruins" #NT!
- building_pit_of_sorrows_01_desc: "A ruined keep, its once-mighty walls now draped in creeping vines and swallowed by the relentless embrace of nature, stands in eerie silence. Trees have taken root within its courtyards, their twisted branches clawing at the sky, as if bearing witness to forgotten horrors.\n\nDespite the decay, the keep remains oddly defensible—its towers, though weathered, still loom with an imposing presence. Its gate, half-buried in moss and rubble, suggests a fortress that refuses to yield entirely to time.\n\nYet something feels profoundly wrong about this place. The air is thick with an unnatural stillness, the kind that makes the skin prickle and the mind uneasy. Shadows linger where they should not, and whispers—too faint to be the wind—seem to drift through the ruins, hinting at secrets better left undisturbed." #NT!
+ building_pit_of_sorrows_01: "Заросшая крепость и руины"
+ building_type_pit_of_sorrows_01: "Заросшая крепость и руины"
+ building_pit_of_sorrows_01_desc: "Разрушенный замок, чьи некогда могучие стены теперь увиты ползучими растениями и поглощены безжалостными объятиями природы, стоит в жутковатой тишине. Во внутренних дворах пустили корни деревья, их искривленные ветви цепляются за небо, словно свидетельствуя о забытых ужасах..\n\nНесмотря на упадок, крепость, как ни странно, остается надежной защитой — ее башни, хотя и обветшалые, все еще выглядят внушительно. Ее ворота, наполовину покрытые мхом и щебнем, наводят на мысль о крепости, которая отказывается поддаваться времени.\n\nИ все же в этом месте чувствуется что-то глубоко неправильное. Воздух насыщен неестественной тишиной, от которой мурашки бегут по коже и становится не по себе. Тени задерживаются там, где им не следует быть, и шепот — слишком слабый, чтобы быть ветром, — кажется, проносится по руинам, намекая на тайны, которые лучше не тревожить.."
   
- building_pit_of_sorrows_02: "Keep and Pit Excavations" #NT!
- building_type_pit_of_sorrows_02: "Keep and Pit Excavations" #NT!
- building_pit_of_sorrows_02_desc: "As we expanded our efforts and cleared away the thick tangle of vegetation, we made a startling discovery—the ground beneath us seemed to descend endlessly, no matter how much mud and debris we removed. What at first appeared to be mere overgrowth concealing the ruins soon revealed itself as a vast and layered descent, each lower level exposing remnants of the past.\n\nAmong the crumbling stonework and damp earth, we unearthed countless bones—their origins unknown, their stories long lost to time. With every step downward, a growing certainty took hold: this may indeed be the fabled Pit of Sorrows, a place whispered of in fearful legend, its depths untouched and its mysteries still waiting to be unraveled." #NT!
+ building_pit_of_sorrows_02: "Раскопки крепости и котлована"
+ building_type_pit_of_sorrows_02: "Раскопки крепости и котлована"
+ building_pit_of_sorrows_02_desc: "Когда мы расширили наши усилия и расчистили густые заросли растительности, то сделали поразительное открытие — земля под нами, казалось, бесконечно опускалась, независимо от того, сколько грязи и мусора мы убирали. То, что поначалу казалось просто зарослями, скрывающими руины, вскоре оказалось обширным и многослойным спуском, каждый нижний уровень которого обнажал остатки прошлого.\n\nСреди осыпающейся каменной кладки и влажной земли мы раскопали бесчисленное множество костей — их происхождение неизвестно, их истории давно затеряны во времени. С каждым шагом вниз крепла уверенность: это действительно может быть легендарная Яма скорби, место, о котором ходят страшные легенды, его глубины нетронуты, а тайны все еще ждут своего разгадывания."
   
- building_pit_of_sorrows_03: "The Pit of Sorrows" #NT!
- building_type_pit_of_sorrows_03: "The Pit of Sorrows" #NT!
- building_pit_of_sorrows_03_desc: "The ancient Pit of Sorrows, once a crumbling ruin, has been painstakingly rebuilt and restored to its former ominous grandeur. Yet, for all the efforts to reclaim its upper reaches, the true depths remain an unfathomable abyss. The lower darkness stretches endlessly, swallowing light and sound alike, a gaping maw into the unknown. Many have dared to descend in search of secrets lost to time, but none have ever returned to speak of what lies at the bottom—if, indeed, a bottom exists at all." #NT!
+ building_pit_of_sorrows_03: "Яма Скорби"
+ building_type_pit_of_sorrows_03: "Яма Скорби"
+ building_pit_of_sorrows_03_desc: "Древняя Яма Скорби, когда-то представлявшая собой полуразрушенные руины, была кропотливо перестроена и обрела прежнее зловещее величие. И все же, несмотря на все усилия по восстановлению ее вершин, истинные глубины остаются непостижимой пропастью. Тьма внизу тянется бесконечно, поглощая свет и звуки, словно зияющая пасть в неизвестность. Многие отваживались спускаться в поисках тайн, утраченных временем, но никто так и не вернулся, чтобы рассказать о том, что лежит на дне — если, конечно, дно вообще существует."
   
- building_the_toad: "The Black Toad" #NT!
- building_type_the_toad: "the Black Toad" #NT!
- building_the_toad_desc: "The largest statue ever constructed on the Isle of Toads looms over the landscape, a monolithic relic of a civilization long vanished. Carved from an unknown, oily black stone that seems to glisten even in the absence of light, it takes the form of a great toad—squat, grotesque, and unnervingly lifelike. No one knows who built it, nor for what purpose, and whatever meaning it once held has long been lost to time. To most, it is nothing more than a crude and ominous effigy, a bizarre curiosity in a land already steeped in mystery. Yet, there are whispers—spoken in hushed tones by the locals—of strange dreams that come to those who sleep too close, of an unsettling warmth in the stone when touched, and of eyes that seem to glimmer just beneath its surface, as if something watches from within." #NT!
- building_type_the_toad_desc: "The largest statue ever constructed on the Isle of Toads looms over the landscape, a monolithic relic of a civilization long vanished. Carved from an unknown, oily black stone that seems to glisten even in the absence of light, it takes the form of a great toad—squat, grotesque, and unnervingly lifelike. No one knows who built it, nor for what purpose, and whatever meaning it once held has long been lost to time. To most, it is nothing more than a crude and ominous effigy, a bizarre curiosity in a land already steeped in mystery. Yet, there are whispers—spoken in hushed tones by the locals—of strange dreams that come to those who sleep too close, of an unsettling warmth in the stone when touched, and of eyes that seem to glimmer just beneath its surface, as if something watches from within." #NT!
+ building_the_toad: "Чёрная Жаба"
+ building_type_the_toad: "Чёрная Жаба"
+ building_the_toad_desc: "Самая большая статуя, построенная на Острове Жаб давным-давно каким-то древним народом. Никто не знает её назначения или почему она здесь, но для большинства это просто чёрная, маслянистая жаба."
+ building_type_the_toad_desc: "Самая большая статуя, построенная на Острове Жаб давным-давно каким-то древним народом. Никто не знает её назначения или почему она здесь, но для большинства это просто чёрная, маслянистая жаба."
   
- building_ax_hold: "The Ax Hold" #NT!
- building_type_ax_hold: "The Ax Hold" #NT!
- building_ax_hold_desc: "The stronghold of House Xhore stands as both a sanctuary and a fortress, a bastion of stone and steel built to endure the tempests of the Basilisk Isles. Nestled atop jagged cliffs and surrounded by treacherous waters, it was designed not just as a home, but as an unyielding stronghold from which the Qartheen pirates of the Western Isles could launch their infamous raids. Its walls, weathered yet formidable, bear the scars of countless battles, while its towering watchtowers offer an unbroken view of the surrounding sea, ever watchful for both prey and pursuers" #NT!
+ building_ax_hold: "Рукоять топора"
+ building_type_ax_hold: "Рукоять топора"
+ building_ax_hold_desc: "Твердыня Дома Хор является одновременно святилищем и крепостью, бастионом из камня и стали, построенным, чтобы противостоять бурям островов Василиска. Расположенный на вершине зубчатых скал и окруженный коварными водами, он был задуман не просто как дом, но и как неприступная крепость, из которой картийские пираты Западных островов могли совершать свои печально известные набеги. Его стены, выветренные, но грозные, несут на себе следы бесчисленных сражений, а с высоких сторожевых башен открывается панорамный вид на окружающее море, где всегда можно увидеть как добычу, так и преследователей"
   
- building_garden_of_malice_01: "A Large Overgrown Fort" #NT!
- building_type_garden_of_malice_01: "A Large Overgrown Fort" #NT!
- building_garden_of_malice_01_desc: "A vast, overgrown ringwall encircles the ruins, its ancient stones barely visible beneath layers of creeping vines and thick moss. At its heart stands a crumbling keep, its towers broken and half-swallowed by the relentless embrace of nature. Time has erased whatever history this place once held, leaving only an eerie, suffocating silence in its wake.\n\nYet, those who dare to step beyond the shattered gates quickly realize why no one has reclaimed these ruins—this place is a death trap. Twisting hedges, grown wild and unnatural, form an intricate labyrinth, their paths shifting and closing like living things, leading the unwary deeper into confusion. Among the tangled greenery lurk plants of impossible colors and unnatural shapes, their beauty masking deadly intent. Some release spores that choke the lungs, others secrete toxins that blister the skin, and a few move with unsettling purpose, waiting for prey to draw too close.\n\nLegends whisper that something—perhaps the remnants of a forgotten sorcery, or the lingering presence of whatever force once ruled here—keeps the flora thriving in ways that defy nature. The ruins remain untouched, not because they are forgotten, but because they are feared. Even the boldest raiders and treasure seekers know better than to tempt the wrath of a place where the very plants themselves seem to hunger for blood." #NT!
+ building_garden_of_malice_01: "Большой заросший форт"
+ building_type_garden_of_malice_01: "Большой заросший форт"
+ building_garden_of_malice_01_desc: "Обширная, заросшая кольцом стена окружает руины, ее древние камни едва видны под слоями ползучего винограда и густого мха. В самом центре города стоит разрушающаяся крепость, ее башни разрушены и наполовину поглощены безжалостными объятиями природы. Время стерло всю историю, которую когда-то хранило это место, оставив после себя лишь жуткую, удушающую тишину.\n\nОднако те, кто осмеливается выйти за разрушенные ворота, быстро понимают, почему никто не восстановил эти руины — это место - смертельная ловушка. Извилистые живые изгороди, одичавшие и неестественные, образуют запутанный лабиринт, их тропинки изменяются и смыкаются, как живые существа, приводя неосторожных в еще большее замешательство. Среди густой зелени прячутся растения невероятных расцветок и неестественных форм, их красота скрывает смертоносные намерения. Некоторые из них выделяют споры, которые поражают легкие, другие выделяют токсины, от которых кожа покрывается волдырями, а некоторые двигаются с пугающей целеустремленностью, ожидая, когда добыча подойдет слишком близко.\n\nЛегенды шепчут, что нечто — возможно, остатки забытого колдовства или сохраняющееся присутствие какой—то силы, некогда правившей здесь, - поддерживает процветание флоры, бросая вызов природе. Руины остаются нетронутыми не потому, что о них забыли, а потому, что их боятся. Даже самые смелые налетчики и искатели сокровищ знают, что лучше не навлекать на себя гнев места, где, кажется, сами растения жаждут крови."
   
- building_garden_of_malice_02: "The Garden of Malice" #NT!
- building_type_garden_of_malice_02: "The Garden of Malice" #NT!
- building_garden_of_malice_02_desc: "The Garden of Malice is a fortress of layered death, built from oiled blackstone and ringed by deadly defenses. A vast, shifting maze of thorned vines, toxic blooms, and twisting hedges surrounds it, where light barely penetrates and unseen predators lurk. Beyond the maze lies a black moat filled with horrors and towering walls guarded by silent sentinels. At its core stands a Valyrian keep, untouched by time, crowned by a petrified tree whose roots seem to feed on the fortress itself. More than a stronghold, the Garden is a place where the land itself seeks to destroy intruders." #NT!
+ building_garden_of_malice_02: "Сад злобы"
+ building_type_garden_of_malice_02: "Сад злобы"
+ building_garden_of_malice_02_desc: "Сад Злобы - это многослойная крепость смерти, построенная из промасленного черного камня и окруженная смертоносными укреплениями. Внешняя стена окружает обширный, постоянно меняющийся садовый лабиринт, живую смертельную ловушку, где колючие лозы хлещут, как плети, цветы источают ядовитые споры, а живые изгороди изгибаются, чтобы ввести в заблуждение и заманить в ловушку незваных гостей. Ни один луч света не проникает далеко под его густой полог, где в подлеске шныряют невидимые существа, а воздух пропитан запахом разложения. За пределами лабиринта внутренние стены и ров образуют вторую линию обороны, а черные воды кишат невидимыми ужасами, которые утаскивают неосторожных вниз. Высокие крепостные стены, охраняемые молчаливыми стражами, охраняют единственный вход — укрепленный подъемный мост, который редко опускается. В центре всего этого стоит крепость, массивное, нетронутое валирийское сооружение, в чернокаменных залах которого царит жуткая тишина, отдающаяся эхом. На самой высокой башне замка растет древнее мертвое дерево, окаменевшее и похожее на скелет, корни которого вросли в камень, словно питаясь чем-то глубоко внутри. Говорят, что это было задолго до самого Рока, реликта старой Валирии, пропитанной давно забытым колдовством. Взять Сад Злобы — это не просто битва, это погружение во что-то гораздо более зловещее, где даже земля сговорилась убивать."
   
- building_sapphire_quarter: "The Sapphire Quarter" #NT!
- building_type_sapphire_quarter: "The Sapphire Quarter" #NT!
- building_sapphire_quarter_desc: "The Sapphire Quarter is a vast, walled district perched atop the highest hill of Gogossos. Once the domain of the [dragonlords|El] of old, it now serves as the exclusive enclave of the city's most illustrious slave masters and merchant princes. Only the elite may reside within its walls, for here, only grand manors and palaces stand—constructed from gleaming marble and adorned with gold. Its private markets are draped in the finest silks, reserved for those who can afford luxuries beyond the reach of lesser men." #NT!
+ building_sapphire_quarter: "Сапфировый квартал"
+ building_type_sapphire_quarter: "Сапфировый квартал"
+ building_sapphire_quarter_desc: "Сапфировый квартал - это обширный, обнесенный стеной район, расположенный на вершине самого высокого холма Гогоссоса. В древности он был владением драконлордов, а теперь служит эксклюзивным убежищем для самых знаменитых городских работорговцев и князей-торговцев. Только избранные могут проживать в его стенах, потому что здесь находятся только великолепные усадьбы и дворцы, построенные из сверкающего мрамора и украшенные золотом. Его частные рынки задрапированы тончайшими шелками, предназначенными для тех, кто может позволить себе роскошь, недоступную простым людям."
   
- building_crimson_gate: "The Crimson Gate" #NT!
- building_type_crimson_gate: "The Crimson Gate" #NT!
- building_crimson_gate_desc: "The Crimson Gate is the sole landward entrance to Gogossos, a towering bastion of Valyrian Blackstone that looms over the treacherous bridge leading to the city. Its surface drinks in light, steeped in dark sorcery and stained crimson by ancient blood rituals. Standing 140 feet tall, the gatehouse radiates awe and dread, its walls crowned with dragon statues whose gemstone eyes seem almost alive. More than a barrier, the Crimson Gate is a monument to Gogossos’ forgotten might and Valyria’s dark legacy." #NT!
+ building_crimson_gate: "Багровые врата"
+ building_type_crimson_gate: "Багровые врата"
+ building_crimson_gate_desc: "Багровые врата являются внушающим благоговейный трепет и страх часовым, главной линией обороны легендарного города Гогоссос. Возвышаясь над ландшафтом, они являются единственным наземным входом в город, охраняющим длинный и коварный мост, перекинутый через великую реку. Выкованный из валирийского черного камня, его темная, неестественная поверхность, кажется, впитывает свет, его гладкая, но непреклонная структура пропитана силой забытого колдовства. Сами камни пропитаны историей — они окрашены в темно-красный цвет из-за древних валирийских кровавых ритуалов, которые когда-то проводились здесь, оставив постоянный жуткий след от темных искусств, укреплявших его оборону. Сторожка у ворот, колоссальный бастион высотой 140 футов, подобно титану возвышается над всеми, кто приближается, и само ее присутствие внушает благоговейный трепет и ужас. На вершине его могучих стен в безмолвном бдении стоит ряд статуй драконов, их массивные глаза из драгоценных камней сверкают неестественным блеском — они наблюдают и ждут, как будто души изображенных на них зверей все еще пребывают в камне.\n\nНемногие осмеливались проникнуть за Багровые врата, и еще меньше осталось в живых, чтобы рассказать об этом. Это не просто барьер — это памятник несгибаемой мощи Гогоссоса, непреходящее свидетельство забытой мощи города и мрачного наследия самой Валирии."
   
- building_glittering_pits_01: "The Glittering Pits" #NT!
- building_type_glittering_pits_01: "The Glittering Pits" #NT!
- building_glittering_pits_01_desc: "The jungles of Gogossos and the infamous Isle of Tears are a vast, untamed wilderness—a land teeming with both peril and unimaginable riches. A true treasure trove of natural resources, the dense, shadowed foliage conceals wonders beyond measure for those bold enough to brave its dangers.\n\nAmong the most coveted of its treasures are the diamonds and sapphires, glistening deep within the earth like the trapped essence of the stars. These precious gems, rare and of unparalleled quality, have made the region a whispered legend among traders and fortune-seekers alike. Though the mines here remain small but mighty, their yields are astonishing, each excavation unearthing stones of breathtaking brilliance." #NT!
+ building_glittering_pits_01: "Сверкающие ямы"
+ building_type_glittering_pits_01: "Сверкающие ямы"
+ building_glittering_pits_01_desc: "Джунгли Гогоссоса и печально известный остров Слез представляют собой обширную, неприрученную дикую местность, изобилующую как опасностями, так и невообразимыми богатствами. Настоящая сокровищница природных ресурсов, густая, тенистая растительность скрывает неизмеримые чудеса для тех, кто достаточно смел, чтобы противостоять опасностям.\n\nОдними из самых желанных его сокровищ являются алмазы и сапфиры, сверкающие глубоко в недрах земли, подобно звездам, попавшим в ловушку. Эти драгоценные камни, редкие и непревзойденного качества, сделали этот регион легендой, о которой шепчутся как среди торговцев, так и среди искателей удачи. Хотя здешние рудники остаются небольшими, но мощными, их добыча поражает воображение, и при каждой выемке обнаруживаются камни захватывающей красоты."
   
- building_glittering_pits_02: "The Shimmering Caverns" #NT!
- building_type_glittering_pits_02: "The Shimmering Caverns" #NT!
- building_glittering_pits_02_desc: "As the mines grow, they expand into a sprawling network of underground tunnels, weaving through the jungle floor like the roots of the ancient trees above. The walls glitter with gemstones, their colors reflecting in the dim torchlight, and hidden chambers are discovered, revealing rich veins waiting to be harvested. However, as miners dig deeper, the jungle begins to push back—roots burst through walls, toxic spores linger in the air, and strange unseen creatures stir in the darkness." #NT!
+ building_glittering_pits_02: "Мерцающие пещеры"
+ building_type_glittering_pits_02: "Мерцающие пещеры"
+ building_glittering_pits_02_desc: "По мере роста шахт они превращаются в разветвленную сеть подземных туннелей, пронизывающих дно джунглей, словно корни древних деревьев, растущих над ними. Стены сверкают драгоценными камнями, их цвета отражаются в тусклом свете факелов, и обнаруживаются потайные помещения, в которых обнаруживаются богатые залежи, ожидающие своей добычи. Однако по мере того, как шахтеры копают глубже, джунгли начинают отступать — корни прорываются сквозь стены, ядовитые споры витают в воздухе, а в темноте бродят странные невидимые существа."
   
- building_glittering_pits_03: "The Starlit Depths" #NT!
- building_type_glittering_pits_03: "The Starlit Depths" #NT!
- building_glittering_pits_03_desc: "The Starlit Depths is the richest and most dangerous part of the Gogossosi mines—a vast labyrinth of tunnels and glittering caverns where flawless sapphires and massive diamonds catch even the faintest light, resembling a starry sky underground. Miners work tirelessly to extract these treasures, though the deeper they go, the more perilous it becomes. In the lowest chambers, strange tremors, oppressive heat, and whispered sightings of unnatural things have made some areas forbidden. It is a place of great wealth and greater risk—where digging too deep may awaken something best left buried." #NT!
+ building_glittering_pits_03: "Звёздные Глубины"
+ building_type_glittering_pits_03: "Звёздные Глубины"
+ building_glittering_pits_03_desc: "На самой глубокой и развитой стадии рудник становится известен как "Звездные глубины" — обширная, разветвленная сеть туннелей и массивных подземных камер, где добываются богатейшие залежи сапфиров и алмазов. Стены этих пещер сверкают нетронутыми прожилками темно-синего и ослепительно-белого цветов, драгоценные камни улавливают даже самый слабый свет, создавая иллюзию звездного неба под землей.\n\nЗдесь драгоценные камни крупнее, чище и ценнее, чем где-либо еще в джунглях. Безупречные сапфиры, глубокие, как океан, лежат в ожидании своего часа густыми гроздьями, в то время как алмазы потрясающих размеров остаются в самых твердых породах, для извлечения которых требуются мастерство и точность. Целые бригады шахтеров работают круглосуточно, их звуки эхом разносятся по огромным подземным залам, когда они добывают богатства из самой земли.\n\nНо с глубиной приходит опасность. Туннели уходят в темноту глубже, чем можно представить на карте, а в самых нижних камерах, где воздух густой и тяжкий, есть места, куда шахтеры отказываются заходить. Некоторые утверждают, что они раскопали в глубинах нечто большее, чем драгоценные камни, — предметы, погребенные задолго до того, как люди впервые взяли в руки свои инструменты. Слышен шепот теней, движущихся там, где не должно быть света, отдаленных ритмичных толчков, которые исходят не от обвалов, и глубокого, томительного жара, которого не должно быть так глубоко внизу..\n\nНесмотря на риск, залитые Звездным светом глубины являются жемчужиной рудников Гогоссоси, местом, где в равной степени делаются состояния и гибнут люди. Только самые опытные и целеустремленные шахтеры осмеливаются работать здесь, зная, что в этих стенах хранятся одни из самых ценных драгоценных камней, когда—либо добытых, но также и об опасности копать слишком глубоко... и разбудить то, что лучше не трогать."
   
- building_darkreach_quay_01: "Darkreach Quay" #NT!
- building_type_darkreach_quay_01: "Darkreach Quay" #NT!
- building_darkreach_quay_01_desc: "Darkreach Quay is the humble yet vital heart of Gogossos' trade, the first stage of the city's grand port infrastructure. A modest stone-and-wood harbor, it extends into the dark waters of the bay, its weathered docks creaking under the weight of arriving ships. Though small, it is strategically positioned to serve as the primary point of entry for merchants, smugglers, and adventurers seeking fortune in Gogossos" #NT!
+ building_darkreach_quay_01: "Порт Темного Предела"
+ building_type_darkreach_quay_01: "Порт Темного Предела"
+ building_darkreach_quay_01_desc: "Порт Даркрич - скромное, но жизненно важное место для торговли Гогоссоса, первая ступень грандиозной портовой инфраструктуры города. Скромная порт из камня и дерева, она вдается в темные воды залива, ее потрепанные временем доки скрипят под тяжестью прибывающих судов. Несмотря на небольшой размер, он стратегически расположен так, что служит основным пунктом въезда для торговцев, контрабандистов и искателей приключений, ищущих счастья в Гогоссосе"
   
- building_darkreach_quay_02: "Darkreach Harbour" #NT!
- building_type_darkreach_quay_02: "Darkreach Harbour" #NT!
- building_darkreach_quay_02_desc: "With the expansion of Gogossos' trade empire, Darkreach Harbour has grown into a bustling hub of commerce, far beyond its humble beginnings. The docks have been reinforced with stone and sturdy timber, allowing for larger merchant vessels to safely anchor and unload their exotic cargo. New piers stretch further into the dark waters, accommodating an increasing flow of ships from distant lands, drawn by the riches of Gogossos' sapphires, diamonds, and rare jungle goods." #NT!
+ building_darkreach_quay_02: "Порт Темного предела"
+ building_type_darkreach_quay_02: "Порт Темного предела"
+ building_darkreach_quay_02_desc: "С расширением торговой империи Гогоссоса порт Дарк Рич превратилась в оживленный торговый центр, который вышел далеко за рамки своего скромного происхождения. Доки были укреплены камнем и прочной древесиной, что позволило крупным торговым судам безопасно бросать якорь и выгружать экзотические грузы. Новые причалы уходят все дальше в темные воды, принимая все увеличивающийся поток судов из дальних стран, привлеченных богатством сапфиров, алмазов и редких товаров из джунглей Гогоссоса."
   
- building_darkreach_quay_03: "The Blacktide Port" #NT!
- building_type_darkreach_quay_03: "The Blacktide Port" #NT!
- building_darkreach_quay_03_desc: "With the rebirth of Gogossos, its once-humble trade port has evolved into The Blacktide Harbor, a colossal stronghold of commerce and naval power. No longer just a waypoint for traders, it has become a thriving epicenter of international trade, attracting merchants, mercenaries, and fortune-seekers from across the known world.\n\nThe harbor is now fortified with ancient Valyrian Blackstone, its mighty walls encircling the bustling docks, offering unmatched defense against raids and sieges. These imposing battlements, reforged from the ruins of the past, stand as a testament to the city's resurgence, ensuring that Gogossos' wealth and influence remain untouchable." #NT!
+ building_darkreach_quay_03: "Порт Черного прилива"
+ building_type_darkreach_quay_03: "Порт Черного прилива"
+ building_darkreach_quay_03_desc: "С возрождением Гогоссоса его некогда скромный торговый порт превратился в гавань Блэктайд, колоссальный оплот торговли и военно-морской мощи. Он перестал быть просто перевалочным пунктом для торговцев, а превратился в процветающий эпицентр международной торговли, привлекающий торговцев, наемников и искателей удачи со всего известного мира.\n\Порт теперь укреплена древним валирийским черным камнем, ее мощные стены окружают оживленные доки, обеспечивая непревзойденную защиту от набегов и осад. Эти внушительные крепостные стены, восстановленные из руин прошлого, являются свидетельством возрождения города, гарантируя, что богатство и влияние Гогоссоса останутся неприкосновенными."
   
- building_last_dragon_tower_01: "The Last Dragon Tower" #NT!
- building_type_last_dragon_tower_01: "The Last Dragon Tower" #NT!
- building_last_dragon_tower_01_desc: "The last surviving Dragon Tower outside of [valyria|E], built in the final days before the [doom|E], stands as a monument to both power and tragedy. Originally constructed to house the ruling [dragonlord|E] family of Gogossos, its halls were meant to be a symbol of their eternal reign—yet fate proved otherwise. When the family perished in the [doom_of_valyria|E], the tower became a silent relic of a lost empire, its presence casting a long shadow over the city.\n\nNow, it serves a new master—the most powerful Archon of Gogossos and their family, who rule from its lofty heights. No longer just a symbol of Valyrian grandeur, the Dragon Tower is a reminder to the lesser classes, slaves, and would-be rebels of the city's brutal hierarchy. It stands as an unshakable testament to dominance, an ever-present warning that the elite of Gogossos will crush any who dare to rise against them." #NT!
+ building_last_dragon_tower_01: "Последняя Башня Дракона"
+ building_type_last_dragon_tower_01: "Последняя Башня Дракона"
+ building_last_dragon_tower_01_desc: "Последняя сохранившаяся башня Дракона за пределами Валирии, построенная в последние дни перед Концом света, стоит как памятник могуществу и трагедии. Первоначально он был построен для размещения правящей семьи драконлордов Гогоссос, и его залы должны были стать символом их вечного правления, однако судьба распорядилась иначе. Когда семья погибла при уничтожении Валирии, башня стала безмолвной реликвией утраченной империи, ее присутствие отбрасывало длинную тень на город.\n\nТеперь он служит новому хозяину — самому могущественному архонту Гогоссоса и его семье, которые правят с его величественных высот. Башня Дракона больше не просто символ величия Валирии, она напоминает низшим классам, рабам и потенциальным мятежникам о жестокой иерархии города. Это непоколебимое свидетельство господства, постоянное предупреждение о том, что элита Гогоссо сокрушит любого, кто осмелится восстать против них."
   
    # Valyria 
- building_type_valyria_volcano: "One of the Fourteen Flames" #NT!
- building_valyria_volcano_01: "Mount Gaelithox" #NT!
- building_type_valyria_volcano_01: "$building_type_valyria_volcano$" #NT!
- building_valyria_volcano_01_desc: "Gaelithox is one of the most formidable volcanoes among the legendary Fourteen Flames of [valyria|E]. Towering over the surrounding landscape, its summit is perpetually shrouded in a thick veil of smoke and ash. The slopes of the volcano are marked by ancient lava flows, now solidified into jagged black rock formations, remnants of the [doom|E]." #NT!
+ building_type_valyria_volcano: "Один из Четырнадцати Огней"
+ building_valyria_volcano_01: "Гора Гейлитокс"
+ building_type_valyria_volcano_01: "Один из Четырнадцати Огней"
+ building_valyria_volcano_01_desc: "Гейлитокс — один из самых устрашающих вулканов легендарных Четырнадцати Огней Валирии. Его вершина всегда окутана густым дымом и пеплом, а склоны вулкана покрыты древними потоками лавы, превратившимися в зазубренные черные каменные образования — остатки Рока."
   
- building_valyria_volcano_02: "Rhazalhar" #NT!
- building_type_valyria_volcano_02: "$building_type_valyria_volcano$" #NT!
- building_valyria_volcano_02_desc: "Rhazalhar is the largest of the Fourteen Flames, a colossus of molten fury and ancient power. Its summit, constantly veiled by smoke and ash, pierces the heavens and casts its shadow over the surrounding landscape. Rivers of lava flow from its fiery core, tracing luminous paths through the dark volcanic rock. Due to the extreme temperatures around the volcano, mining is impossible." #NT!
+ building_valyria_volcano_02: "Рхазалхар"
+ building_type_valyria_volcano_02: "Один из Четырнадцати Огней"
+ building_valyria_volcano_02_desc: "Рхазалхар — крупнейший из Четырнадцати Огней, колосс древней мощи и раскаленной ярости. Его вершина, постоянно окутанная дымом и пеплом, пронзает небеса и отбрасывает свою тень на окружающий ландшафт. Реки лавы текут из его огненного сердца, вырисовывая светящиеся пути среди темных вулканических пород. Из-за экстремальных температур добыча полезных ископаемых вокруг вулкана невозможна."
   
- building_valyria_volcano_03: "Epaekros" #NT!
- building_type_valyria_volcano_03: "$building_type_valyria_volcano$" #NT!
- building_valyria_volcano_03_desc: "Epaekros is more dangerous than other volcanoes, a wild beauty with unstable cliffs that drop rocks onto hikers and slippery grounds that cause deadly falls. Those who reach its summit often meet a tragic end due to a nesting firewyrm or [dragon|El]. Yet, for those who manage to delve into the volcano, riches, gold, and precious metals abound." #NT!
+ building_valyria_volcano_03: "Эпаэкрос"
+ building_type_valyria_volcano_03: "Один из Четырнадцати Огней"
+ building_valyria_volcano_03_desc: "Эпаэкрос опаснее других вулканов, с дикой красотой и нестабильными утесами, с которых падают камни, угрожая жизни людей. Те, кто достигают вершины, часто сталкиваются с трагической судьбой из-за гнездящегося там огнекрылого змея или дракона. Тем не менее, для тех, кто осмелится углубиться в вулкан, скрываются богатства — золото и драгоценные металлы."
   
- building_valyria_volcano_04: "Tartarax" #NT!
+ building_valyria_volcano_04: "Тартаракс" #NT!
  building_type_valyria_volcano_04: "$building_type_valyria_volcano$" #NT!
- building_valyria_volcano_04_desc: "Rising high into the sky, though not as high as Rhazalhar, Tartarax is a slimmer but deeper volcano whose curiously shaped summit provides an ideal nesting ground for any fire-loving creature. Its deep caverns and tunnels offer ample mining opportunities but also death. Lava and hostile creatures abound in this dark, deep dungeon. Yet the glow of its majestic lava, visible from afar in the dark of night, remains unforgettable." #NT!
+ building_valyria_volcano_04_desc: "Вздымающийся высоко в небо, хотя и не так высоко, как Разэльхар, Тартаракс является более стройным, но более глубоким вулканом, чья причудливо сформированная вершина предоставляет идеальное место гнездования для любого существа, любящего огонь. Его глубокие пещеры и туннели предлагают ample возможности для добычи, но также и смерть. Лава и враждебные существа кишат в этом темном, глубоком подземелье. Тем не менее, свечение его величественной лавы, видимое издалека в ночной тьме, остается незабываемым." #NT!
   
- building_valyria_volcano_05: "Yontaryos" #NT!
- building_type_valyria_volcano_05: "$building_type_valyria_volcano$" #NT!
- building_valyria_volcano_05_desc: "When Yontaryos was first discovered by the ancient Valyrians, it differed from the other volcanoes in the region. It was small and relatively low, with little magma and limited space for dragons to nest. However, it had its uses. Precious minerals could still be mined from it, and its small size made it ideal for rituals and sacrifices, even though its flames didn’t burn as intensely as the others." #NT!
+ building_valyria_volcano_05: "Йонтариос"
+ building_type_valyria_volcano_05: "Один из Четырнадцати Огней"
+ building_valyria_volcano_05_desc: "Когда Йонтариос был впервые обнаружен валирийцами, он отличался от остальных вулканов в этом регионе. Он был небольшим и относительно низким. В нем было не так много магмы и места для гнезд драконов. Тем не менее, он имел свое применение. Из него все еще можно было добывать драгоценные минералы, а его скромный размер позволял использовать его для ритуалов и жертвоприношений легче, чем другие. И хотя его пламя горело не так жарко, как у прочих вулканов, оно все же горело."
   
- building_type_elyria_great_port_01: "The Great Port of Elyria" #NT!
- building_elyria_great_port_01: "The Great Port of Elyria" #NT!
- building_elyria_great_port_01_desc: "The Great Port of Elyria is an immense dockyard built during the days of the [valyrian_freehold_short|E]. Elyria's strategic position in the Bay of Slaves provides this small island with significant traffic of ships, trade, and slaves, which this massive port can accommodate. After the collapse of the [valyrian_freehold_short|E], this port captured a significant portion of the Bay of Slaves' trade, becoming the envy of the region and its surroundings." #NT!
+ building_type_elyria_great_port_01: "Великий порт Элирии"
+ building_elyria_great_port_01: "Великий порт Элирии"
+ building_elyria_great_port_01_desc: "Великий порт Элирии - это огромный док, построенный во времена Фригольда. Стратегическое расположение Элирии в заливе Работорговцев позволяет маленькому острову получать большой доход от судов, торговли и рабов, которых способен принять этот огромный порт. После распада Фригольда этот порт прибрал к рукам большую часть торговли в заливе Работорговцев и стал предметом зависти всей бухты и региона в целом."
   
- building_type_elyria_dragon_palace_01: "The Dragon Palace of Elyria" #NT!
- building_elyria_dragon_palace_01: "The Dragon Palace of Elyria" #NT!
- building_elyria_dragon_palace_01_desc: "The Dragon Palace is a luxurious and grand station offering everything a lord could desire: grand rooms, immense banquet halls, pools, wine cellars, and much more. Built during the era of the [valyrian_freehold_short|E] to house the governor of Elyria, no expense was spared. Today, it houses the Duke of Elyria, granting him splendor and renown." #NT!
+ building_type_elyria_dragon_palace_01: "Драконий дворец Элирии"
+ building_elyria_dragon_palace_01: "Драконий дворец Элирии"
+ building_elyria_dragon_palace_01_desc: "Драконий дворец - это роскошный и грандиозный курорт, в котором есть все, что только может пожелать лорд. Большие спальни, огромные пиршественные залы, бассейны, винные погреба и многое другое. Поскольку он был построен в эпоху Фригольда для губернатора Элирии, на него не жалели средств. Сегодня в нем живет герцог Элирии, и этот дворец приносит ему много славы."
   
- building_valyria_dead_volcano_01: "Syrabelos" #NT!
+ building_valyria_dead_volcano_01: "Сирабелос" #NT!
  building_type_valyria_dead_volcano_01: "$building_type_valyria_volcano$" #NT!
- building_valyria_dead_volcano_01_desc: "Syrabelos is an extinct volcano, the lava that once flowed through it has long since dried up. This does not mean it is useless, as it remains rich in minerals and precious metals to exploit and can still serve as a refuge during raids or storms." #NT!
+ building_valyria_dead_volcano_01_desc: "Сирабелос — потухший вулкан, лава, что когда-то текла через него, давно высохла. Это не означает, что он бесполезен, так как он остается богат минералами и драгоценными металлами для добычи и все еще может служить укрытием во время набегов или штормов." #NT!
   
- building_valyria_dead_volcano_01_02: "Syrabelos Mines" #NT!
- building_type_valyria_dead_volcano_01_02: "$building_type_valyria_volcano$" #NT!
- building_valyria_dead_volcano_01_02_desc: "Mining operations have been restored in Syrabelos. Slaves descend daily into the pits to extract precious metals and other valuable materials for their oppressors." #NT!
+ building_valyria_dead_volcano_01_02: "Шахты Сирабелоса"
+ building_type_valyria_dead_volcano_01_02: "$building_type_valyria_volcano$"
+ building_valyria_dead_volcano_01_02_desc: "Шахты в Сирабелосе вновь начали свою работу. Рабы ежедневно спускаются в шахты, чтобы добывать драгоценные металлы и другие ценные материалы для своих угнетателей."
   
- building_valyria_dead_volcano_02: "Qazdarsos" #NT!
+ building_valyria_dead_volcano_02: "Каздарсос" #NT!
  building_type_valyria_dead_volcano_02: "$building_type_valyria_volcano$" #NT!
- building_valyria_dead_volcano_02_desc: "Qazdarsos was once an active volcano but is no longer. Now dormant but not silent, the cries of firewyrms and, according to some, even ghosts can still be heard from its depths. Some have dared to venture there without a large enough group and were never seen again." #NT!
+ building_valyria_dead_volcano_02_desc: "Каздарсос когда-то был активным вулканом, но теперь это не так. Ныне спящий, но не безмолвный, из его глубин все еще слышны крики огненных червей и, по словам некоторых, даже призраков. Некоторые осмеливались отправиться туда без достаточно большой группы и больше их никогда не видели." #NT!
   
- building_valyria_dead_volcano_02_02: "Qazdarsos" #NT!
- building_type_valyria_dead_volcano_02_02: "$building_type_valyria_volcano$" #NT!
- building_valyria_dead_volcano_02_02_desc: "The mines of Qazdarsos are fully operational again. Slaves extract wealth and gold daily for their masters. However, tales of supernatural beings and cursed creatures persist about the volcano's interior. Whether these are true or just the ramblings of slaves is another question..." #NT!
+ building_valyria_dead_volcano_02_02: "Каздарсос"
+ building_type_valyria_dead_volcano_02_02: "$building_type_valyria_volcano$"
+ building_valyria_dead_volcano_02_02_desc: "Шахты Каздарсоса снова функционируют. Рабы ежедневно добывают золото и богатства для своих хозяев. Однако легенды о сверхъестественных существах и проклятых созданиях, обитающих в недрах вулкана, продолжают жить. Правда это или всего лишь выдумки рабов — остаётся под вопросом..."
   
- building_royal_barracks_of_valyria_01: "The Ruined Barracks of Valyria" #NT!
- building_type_royal_barracks_of_valyria_01: "The Ruined Barracks of Valyria" #NT!
- building_royal_barracks_of_valyria_01_desc: "Once a grand [valyrian_freehold_short|E] barracks meant to defend the city, it is now in ruins and little more than a pile of rubble." #NT!
- building_type_royal_barracks_of_valyria_01_desc: "Once a grand [valyrian_freehold_short|E] barracks meant to defend the city, it is now in ruins and little more than a pile of rubble." #NT!
+ building_royal_barracks_of_valyria_01: "Разрушенные казармы Валирии"
+ building_type_royal_barracks_of_valyria_01: "Разрушенные казармы Валирии"
+ building_royal_barracks_of_valyria_01_desc: "Когда-то это были грандиозные казармы, предназначенные для защиты города, а теперь они превратились в руины и представляют собой лишь груду щебня."
+ building_type_royal_barracks_of_valyria_01_desc: "Когда-то это были грандиозные казармы, предназначенные для защиты города, а теперь они превратились в руины и представляют собой лишь груду щебня."
   
- building_royal_barracks_of_valyria_02: "The Royal Barracks of Valyria" #NT!
- building_type_royal_barracks_of_valyria_02: "The Royal Barracks of Valyria" #NT!
- building_royal_barracks_of_valyria_02_desc: "The restored Royal Barracks of Valyria, built upon the old ruins, now see guards and soldiers coming and going to ensure the safety of travelers and citizens." #NT!
+ building_royal_barracks_of_valyria_02: "Королевские казармы Валирии"
+ building_type_royal_barracks_of_valyria_02: "Королевские казармы Валирии"
+ building_royal_barracks_of_valyria_02_desc: "В восстановленные королевские казармы Валирии, построенные на старых руинах, теперь приходят и уходят стражники и солдаты, чтобы обеспечить безопасность путешественников и горожан."
   
- building_great_arena_of_valyria_01: "The Remnants of the Great Arena" #NT!
- building_type_great_arena_of_valyria_01: "The Remnants of the Great Arena" #NT!
- building_great_arena_of_valyria_01_desc: "Once a great arena filled with gladiators and spectators, it is now in ruins. Restoring it will be costly, but it could bring joy back to the people." #NT!
+ building_great_arena_of_valyria_01: "Остатки Великой арены"
+ building_type_great_arena_of_valyria_01: "Остатки Великой арены"
+ building_great_arena_of_valyria_01_desc: "Некогда огромная арена, заполненная гладиаторами и зрителями, теперь находится в руинах. Ее восстановление обойдется дорого, но может вернуть радость людям."
   
- building_great_arena_of_valyria_02: "The Great Arena of Valyria" #NT!
- building_type_great_arena_of_valyria_02: "The Great Arena of Valyria" #NT!
- building_great_arena_of_valyria_02_desc: "Now rebuilt, the Great Arena draws thousands of spectators to witness tournaments and blood games where professionals and slaves die in the sand for the entertainment of the people." #NT!
+ building_great_arena_of_valyria_02: "Великая арена Валирии"
+ building_type_great_arena_of_valyria_02: "Великая арена Валирии"
+ building_great_arena_of_valyria_02_desc: "Ныне перестроенная, Великая арена привлекает тысячи зрителей, чтобы стать свидетелями турниров и кровавых игр, где профессионалы и рабы умирают на песке ради развлечения народа."
   
- building_great_library_of_valyria_01: "Decrepit Ruins of the Library" #NT!
- building_type_great_library_of_valyria_01: "Decrepit Ruins of the Library" #NT!
- building_great_library_of_valyria_01_desc: "The ruined remains of the great library could be restored to house great works of art and literature." #NT!
+ building_great_library_of_valyria_01: "Ветхие руины библиотеки"
+ building_type_great_library_of_valyria_01: "Ветхие руины библиотеки"
+ building_great_library_of_valyria_01_desc: "Разрушенные остатки великой библиотеки можно было бы восстановить, чтобы в ней хранились великие произведения искусства и литературы."
   
- building_great_library_of_valyria_02: "The Great Library of Valyria" #NT!
- building_type_great_library_of_valyria_02: "The Great Library of Valyria" #NT!
- building_great_library_of_valyria_02_desc: "The restored Great Library of Valyria, filled with great works of art, literature, and philosophy. Scholars and academics study ancient texts and scrolls here." #NT!
+ building_great_library_of_valyria_02: "Великая библиотека Валирии"
+ building_type_great_library_of_valyria_02: "Великая библиотека Валирии"
+ building_great_library_of_valyria_02_desc: "Восстановленная Великая библиотека Валирии, наполненная великими произведениями искусства, литературы и философии. Здесь ученые изучают древние тексты и свитки."
   
- building_valyria_veilspire_peak: "Veilspire Peak" #NT!
- building_type_valyria_veilspire_peak: "Veilspire Peak" #NT!
- building_valyria_veilspire_peak_desc: "Veilspire Peak is the tallest mountain summit in the entire Valyrian peninsula, even before the [doom|E]. Once used as a sacred pilgrimage for the bravest and strongest, this great summit represents a divine test. It is said that those who manage to climb to the top return wiser and more knowledgeable." #NT!
+ building_valyria_veilspire_peak: "Вершина Вейлспайр"
+ building_type_valyria_veilspire_peak: "Вершина Вейлспайр"
+ building_valyria_veilspire_peak_desc: "Вершина Вейлспайр — это самая высокая горная вершина на всем валирийском полуострове, даже до Рока. Когда-то она использовалась как священное место паломничества для самых храбрых и сильных. Говорят, те, кто сумеет взойти на вершину, возвращаются мудрее и более просвещёнными."
   
- building_velakar_resort_01: "An Old Ruined Resort" #NT!
- building_type_velakar_resort_01: "An Old Ruined Resort" #NT!
- building_velakar_resort_01_desc: "Once a Grand Resort for [dragonlords|El] and wealthy merchants, this resort is now in ruins, little better than a pile of bricks." #NT!
+ building_velakar_resort_01: "Старый разрушенный курорт"
+ building_type_velakar_resort_01: "Старый разрушенный курорт"
+ building_velakar_resort_01_desc: "Когда-то это был великолепный курорт для повелителей драконов и богатых торговцев, а теперь он превратился в руины, немногим отличающиеся от груды кирпичей."
   
- building_velakar_resort_02: "The Illustrious Resort of Velakar" #NT!
- building_type_velakar_resort_02: "The Illustrious Resort of Velakar" #NT!
- building_velakar_resort_02_desc: "The Illustrious Resort of Velakar, now restored, welcomes people of wealth and status to bathe and relax in this majestic resort fit for an emperor. Using volcanic heat to warm the baths and with thousands of servants at their service, it is truly a sight to behold." #NT!
+ building_velakar_resort_02: "Знаменитый курорт Велакар"
+ building_type_velakar_resort_02: "Знаменитый курорт Велакар"
+ building_velakar_resort_02_desc: "Знаменитый курорт Велакар, ныне отреставрированный, приглашает богатых и знатных людей принять ванну и отдохнуть на этом величественном курорте, достойном императора. Ванны нагреваются вулканическим жаром, а тысячи слуг находятся в их распоряжении, и это поистине незабываемое зрелище."
   
- building_aurions_lost_expidition: "Aurion's Lost Expedition" #NT!
- building_type_aurions_lost_expidition: "Aurion's Lost Expedition" #NT!
- building_aurions_lost_expidition_desc: "This is the lost expedition of the self-proclaimed Emperor of Valyria, Aurion Varezys. This barren plain is now the burial site of 30,000 men, reduced to mere heaps of metal and bones, tainted by radiation and toxic gases from sulfur geysers. It is truly a hellish landscape." #NT!
+ building_aurions_lost_expidition: "Потерянная экспедиция Ауриона"
+ building_type_aurions_lost_expidition: "Потерянная экспедиция Ауриона"
+ building_aurions_lost_expidition_desc: "Это потерянная экспедиция самопровозглашённого императора Валирии, Ауриона Варезиса. Эта бесплодная равнина теперь стала местом захоронения 30,000 человек, превращённых в груды металла и костей, отравленных радиацией и ядовитыми газами серных гейзеров. Это поистине адский пейзаж."
   
- building_type_lokirian_barracks_01: "Lokirian Barracks" #NT!
- building_type_lokirian_barracks_01_desc: "The mighty Lokirian Barracks, famed for it's quality of arms." #NT!
- building_lokirian_barracks_01: "The Remnants of a Barracks" #NT!
- building_lokirian_barracks_01_desc: "Once the mighty barracks of Lokiria, now reduced to nothing but a pile of rubble." #NT!
- building_lokirian_barracks_02: "Partially Restored Barracks" #NT!
- building_lokirian_barracks_02_desc: "Though much of its former grandeur is lost, the barracks have been made fit for purpose. Soldiers train within, their voices ringing through half-finished halls." #NT!
- building_lokirian_barracks_03: "The Mighty Barracks of Lokiria" #NT!
- building_lokirian_barracks_03_desc: "The barracks of Lokiria, now rebuilt and fortified with dragonstone and Valyrian steel. Soldiers march day and night, presenting an imposing sight and a nightmare for anyone daring to lay siege." #NT!
+ building_type_lokirian_barracks_01: "Казармы Локирии" #NT!
+ building_type_lokirian_barracks_01_desc: "Могучие локирские казармы, славящиеся своим качеством вооружения." #NT!
+ building_lokirian_barracks_01: "Остатки казармы"
+ building_lokirian_barracks_01_desc: "Некогда могучие казармы Локирии теперь превратились в груду обломков."
+ building_lokirian_barracks_02: "Могучие казармы Локирии"
+ building_lokirian_barracks_02_desc: "Казармы Локирии, ныне перестроенные и укрепленные драконьим камнем и валирийской сталью. Солдаты маршируют днем и ночью, представляя собой впечатляющее зрелище и кошмар для любого, кто осмелится их осадить."
+ building_lokirian_barracks_03: "Могучие казармы Локирии" #NT!
+ building_lokirian_barracks_03_desc: "Казармы Локирии, ныне перестроенные и укрепленные драконьим камнем и валирийской сталью. Солдаты маршируют днем и ночью, представляя собой впечатляющее зрелище и кошмар для любого, кто осмелится их осадить." #NT!
   
   
- building_redwyrms_wrath_01: "Ruined Fortress" #NT!
- building_type_redwyrms_wrath_01: "Ruined Fortress" #NT!
- building_redwyrms_wrath_01_desc: "The Red Wyrm's Wrath was a fearsome fortress made of dragonstone walls and towering spires, once adorned with the skulls of slain dragons as grim trophies of its conquests. Governed by Protector Lord Taurion of Lokiria, it was a bastion of war and domination, its crimson banners inspiring fear across the land. Now in ruins, the Red Wyrm's Wrath is but a shadow of its former glory, its broken walls and faded banners standing as relics of Lokiria's violent reign." #NT!
+ building_redwyrms_wrath_01: "Разрушенная крепость"
+ building_type_redwyrms_wrath_01: "Разрушенная крепость"
+ building_redwyrms_wrath_01_desc: "Гнев Красного Змея был грозной крепостью, построенной из драконьего камня и высоких шпилей, когда-то украшенной черепами убитых драконов в качестве мрачных трофеев своих завоеваний. Управляемый лордом-протектором Локирии Таурионом, он был бастионом войны и господства, его алые знамена внушали страх по всей стране. Теперь "Гнев Красного змея" лежит в руинах, и это лишь тень его былой славы, его разрушенные стены и выцветшие знамена остаются реликвиями жестокого правления Локирии."
   
- building_redwyrms_wrath_02: "The Red Wyrm's Wrath" #NT!
- building_type_redwyrms_wrath_02: "Ruined Fortress" #NT!
- building_redwyrms_wrath_02_desc: "The Red Wyrm's Wrath has risen again, its dragonstone walls restored to their grim glory, dominating the landscape once more as a symbol of terror and power. Once again adorned with [dragon|El] skulls and crimson banners bearing the sigil of Lokiria's Red Dragon, the fortress exudes a dark determination. Rebuilt as both a monument to war and a declaration of dominance, the Red Wyrm's Wrath inspires both fear and respect, its rebirth a testament to a lasting legacy of conquest." #NT!
+ building_redwyrms_wrath_02: "Гнев Красного Змея"
+ building_type_redwyrms_wrath_02: "Разрушенная крепость"
+ building_redwyrms_wrath_02_desc: "Гнев Красного Змея снова восстал, его стены из драконьего камня восстановили свою мрачную славу, вновь доминируя над ландшафтом как символ ужаса и могущества. Вновь украшенная драконьими черепами и алыми знаменами с изображением Красного дракона Локирии, крепость излучает мрачную решимость. Восстановленный как памятник войне и символ господства, "Гнев Красного змея" внушает страх и уважение, а его возрождение является свидетельством прочного наследия завоеваний."
   
- building_valyrian_gate_01: "Ruins of the Gate" #NT!
- building_type_valyrian_gate_01: "Ruins of the Gate" #NT!
- building_valyrian_gate_01_desc: "Ruins of the once great Gate of Valyria, a mighty Symbol of wealth and power now nothing but a pile of bricks." #NT!
+ building_valyrian_gate_01: "Руины ворот"
+ building_type_valyrian_gate_01: "Руины ворот"
+ building_valyrian_gate_01_desc: "Руины некогда великих ворот Валирии, могущественного символа богатства и власти, превратились в груду кирпичей."
   
- building_valyrian_gate_02: "The Great Valyrian Gate" #NT!
- building_type_valyrian_gate_02: "The Great Valyrian Gate" #NT!
- building_valyrian_gate_02_desc: "The Great Gate of Valyria, seven gates and seven portcullises made and reinforced by Valyrian Steel. Thousands of merchants and travellers pass through these gates. Giant Statues of once great heroes can be seen atop the entrance." #NT!
+ building_valyrian_gate_02: "Великие Валирийские врата"
+ building_type_valyrian_gate_02: "Великие Валирийские врата"
+ building_valyrian_gate_02_desc: "Великие врата Валирии, семь ворот и семь опускных решеток, изготовленных и укрепленных из валирийской стали. Тысячи торговцев и путешественников проходят через эти великие врата. Над входом можно увидеть гигантские статуи некогда великих героев."
   
- building_great_harbor_of_valyria_01: "Bay for a Harbor" #NT!
- building_type_great_harbor_of_valyria_01: "The Great Harbor of Valyria" #NT!
- building_great_harbor_of_valyria_01_desc: "This bay is large and deep enough to build a great harbor here. For now, there's not much here, except for fish." #NT!
+ building_great_harbor_of_valyria_01: "Залив для гавани"
+ building_type_great_harbor_of_valyria_01: "Великая гавань Валирии"
+ building_great_harbor_of_valyria_01_desc: " Этот залив достаточно велик и глубок, чтобы построить Великую гавань, но сейчас здесь нет ничего, кроме рыбы."
   
- building_great_harbor_of_valyria_02: "Docks and Repair Workshops" #NT!
- building_type_great_harbor_of_valyria_02: "The Great Harbor of Valyria" #NT!
- building_great_harbor_of_valyria_02_desc: "To facilitate trade and shipbuilding, and to establish a rich trade hub and maritime control, we need to build a great harbor. For now, we will construct long docks and repair workshops for ship production. We will also add a quartermaster's cabin for trade and an inspection office to tax and ensure that no contraband goods enter our city." #NT!
+ building_great_harbor_of_valyria_02: "Верфи и сухие доки"
+ building_type_great_harbor_of_valyria_02: "Великая гавань Валирии"
+ building_great_harbor_of_valyria_02_desc: "Чтобы облегчить торговлю и кораблестроение, а также создать богатый торговый узел и установить контроль над морем, нам нужно построить Большой порт. Сейчас мы построим большие верфи, а также сухие доки для производства кораблей. Мы также построим квартал для торговли и офис инспектора, который будет взимать налоги и следить за тем, чтобы в наш город не привозили контрабанду."
   
- building_great_harbor_of_valyria_03: "Quays" #NT!
- building_type_great_harbor_of_valyria_03: "The Great Harbor of Valyria" #NT!
- building_great_harbor_of_valyria_03_desc: "Building quays and extending the current infrastructure will allow us to accommodate more ships and increase incoming trade. These expansions will also be used to dock military vessels serving our fleet." #NT!
+ building_great_harbor_of_valyria_03: "Причал"
+ building_type_great_harbor_of_valyria_03: "Великая гавань Валирии"
+ building_great_harbor_of_valyria_03_desc: "Строительство причалов и расширение существующей инфраструктуры позволит принимать больше кораблей и увеличит торговые потоки. Эти расширения также будут использоваться для причаливания кораблей военно-морского флота."
   
- building_great_harbor_of_valyria_04: "Cranes and Shipbuilding Supplies" #NT!
- building_type_great_harbor_of_valyria_04: "The Great Harbor of Valyria" #NT!
- building_great_harbor_of_valyria_04_desc: "By building large cranes, we can greatly increase the efficiency of our harbor and allow more ships to arrive and depart. We will also build a shipbuilding supply area near the harbor to improve the efficiency of constructing our warships. With this Great Harbor, no one will be able to challenge us at sea." #NT!
+ building_great_harbor_of_valyria_04: "Краны и судостроительные принадлежности"
+ building_type_great_harbor_of_valyria_04: "Великая гавань Валирии"
+ building_great_harbor_of_valyria_04_desc: "Построив большие краны, мы сможем значительно повысить эффективность нашего порта и позволить большему количеству кораблей приходить и уходить. Мы также построим зону для производства корабельных принадлежностей поближе к порту, чтобы эффективнее строить наши военные корабли. С этим великим портом никто не сможет бросить нам вызов на морях."
   
- building_great_temple_of_valyria_01: "Hill for a Temple" #NT!
- building_type_great_temple_of_valyria_01: "The Dragon Temple of Valyria" #NT!
- building_great_temple_of_valyria_01_desc: "To worship and satisfy the Gods, we will need a Great Temple. Fortunately, there is a hill near Mount Tartarax that we could use to build a Magnificent and Illustrious Temple for our Dragon Gods. The fact that it's close to a volcano suits our needs even better." #NT!
- building_type_great_temple_of_valyria_01_desc: "To worship and satisfy the Gods, we will need a Great Temple. Fortunately, there is a hill near Mount Tartarax that we could use to build a Magnificent and Illustrious Temple for our Dragon Gods. The fact that it's close to a volcano suits our needs even better." #NT!
+ building_great_temple_of_valyria_01: "Холм для храма"
+ building_type_great_temple_of_valyria_01: "Драконий Храм Валирии"
+ building_great_temple_of_valyria_01_desc: "Чтобы поклоняться и ублажать богов, нам нужен Великий Храм. Вблизи горы Тартаракс есть холм, который мы могли бы использовать для строительства великолепного и роскошного храма для наших Драконьих Богов. А то, что он находится рядом с вулканом, подходит нам еще больше."
+ building_type_great_temple_of_valyria_01_desc: "Чтобы поклоняться Богам и ублажать их, нам понадобится Большой храм. К счастью, рядом с горой Тартарракс есть холм, на котором мы могли бы построить Великолепный храм для наших Богов-драконов. Тот факт, что он расположен рядом с вулканом, еще больше удовлетворяет нашим потребностям."
   
- building_great_temple_of_valyria_02: "Prayer Hall and Gathering Place" #NT!
- building_type_great_temple_of_valyria_02: "The Dragon Temple of Valyria" #NT!
- building_great_temple_of_valyria_02_desc: "We will start with a richly decorated prayer hall filled with expensive artifacts—sculptures of dragons and fire, tapestries depicting dragons, braziers, and the finest marble we can find. We will also create a separate open hall for human sacrifices." #NT!
+ building_great_temple_of_valyria_02: "Молитвенный зал и место собраний"
+ building_type_great_temple_of_valyria_02: "Храм Дракона в Валирии"
+ building_great_temple_of_valyria_02_desc: "Мы начнем с богато украшенного Молитвенного зала, наполненного дорогими артефактами. Резные изображения драконов и огня, гобелены с изображением драконов, жаровни и самый лучший мрамор, который мы сможем найти. Мы также создадим отдельный, открытый зал для человеческих жертвоприношений."
   
- building_great_temple_of_valyria_03: "Burning Arena" #NT!
- building_type_great_temple_of_valyria_03: "The Dragon Temple of Valyria" #NT!
- building_great_temple_of_valyria_03_desc: "Valyrians have always burned their dead. Burning our dead in a Temple next to our volcano is a much better way to honor those who have left this world. We will expand the open hall we have already built for this purpose. Sculpted columns, exotic flowers, and a black stone altar to replace the wooden pyres used for human sacrifices and cremation of the dead will be constructed." #NT!
+ building_great_temple_of_valyria_03: "Горящая арена"
+ building_type_great_temple_of_valyria_03: "Храм дракона в Валирии"
+ building_great_temple_of_valyria_03_desc: "Валирийцы всегда сжигали своих мертвых. Сжигание наших мертвых в храме рядом с нашим вулканом - куда лучший способ похоронить тех, кто покинул этот мир. Мы расширим открытый зал, который мы уже построили именно для этой цели. Здесь будут возведены резные колонны, высажены экзотические цветы и построен алтарь из Черного камня, который заменит деревянные костры для сожжения мертвых и человеческих жертвоприношений"
   
- building_great_temple_of_valyria_04: "Dragon Statues" #NT!
- building_type_great_temple_of_valyria_04: "The Dragon Temple of Valyria" #NT!
- building_great_temple_of_valyria_04_desc: "No building in Valyria is truly complete without dragon statues. We will build 14 statues, one for each God. Each statue will be unique and majestic to properly honor our Gods." #NT!
+ building_great_temple_of_valyria_04: "Драконьи статуи"
+ building_type_great_temple_of_valyria_04: "Храм дракона в Валирии"
+ building_great_temple_of_valyria_04_desc: "Ни одно здание в Валирии не будет завершенным без статуй драконов. Мы построим 14 статуй, по одной для каждого Бога. Каждая из них будет уникальной и величественной, чтобы должным образом почтить наших Богов."
   
- building_great_walls_of_valyria_01: "Insignificant Remnants of the Wall" #NT!
- building_type_great_walls_of_valyria_01: "The Great Black Stone Walls of Valyria" #NT!
- building_great_walls_of_valyria_01_desc: "This area is where the remnants of the Great Walls of Valyria are located. There is almost nothing left, as the walls were destroyed during the [doom|E]. The few remnants that survived are so damaged that they are unusable. Of course, we could restore these walls to their former grandeur, and we should do so. Needless to say, this will be a very costly undertaking." #NT!
+ building_great_walls_of_valyria_01: "Незначительные остатки стены"
+ building_type_great_walls_of_valyria_01: "Великие стены Валирии из Черного камня"
+ building_great_walls_of_valyria_01_desc: "Здесь находятся остатки Великой Валирийской стены. От нее почти ничего не осталось, так как стены были разрушены во время Рока Валирии. То немногое, что удалось сохранить, сильно повреждено и уже не пригодно ни для кого. Конечно, мы можем восстановить эти стены до их былого величия, и мы должны это сделать. Излишне говорить, что это будет очень дорогостоящее мероприятие."
   
- building_great_walls_of_valyria_02: "The Great Black Stone Walls of Valyria" #NT!
- building_type_great_walls_of_valyria_02: "The Great Black Stone Walls of Valyria" #NT!
- building_great_walls_of_valyria_02_desc: "Valyria's walls have been fully restored, imposing and vast, encircling the entire city. These massive fortifications are so wide that twelve chariots could race side by side (take that, Volantis!). Watchtowers and moats now line the perimeter, offering additional layers of defense. Entrances are reinforced with portcullises and firing zones, making any attempt to invade the city by force almost impossible for any attacker." #NT!
+ building_great_walls_of_valyria_02: "Великие стены Валирии из Черного камня"
+ building_type_great_walls_of_valyria_02: "Огромные черные каменные стены Валирии"
+ building_great_walls_of_valyria_02_desc: "Стены Валирии были полностью перестроены. Массивные, длинные и широкие стены окружают весь город. Стены достаточно широки, чтобы по ним могли промчаться 12 колесниц (Как тебе такое, Волантис?) Вдоль стен также были построены сторожевые башни и рвы. Герсы (ворота с опускной решеткой) и зоны перекрестного огня также расположены вдоль всех входов, а значит, любому врагу, который захочет войти в город силой, будет крайне сложно это сделать"
   
- building_great_dragonkeep_of_valyria_01: "Palace Site" #NT!
- building_type_great_dragonkeep_of_valyria_01: "The Great Dragonkeep of Valyria" #NT!
- building_great_dragonkeep_of_valyria_01_desc: "We have located a potential site for a great palace. In the future, it will become the place of grandeur. But for now, there's not much of note here." #NT!
+ building_great_dragonkeep_of_valyria_01: "Место дворца"
+ building_type_great_dragonkeep_of_valyria_01: "Великая Драконья Обитель Валирии"
+ building_great_dragonkeep_of_valyria_01_desc: "Мы нашли потенциальное место для великого дворца, который в будущем станет величественной резиденцией. Но пока здесь нет ничего примечательного."
   
- building_great_dragonkeep_of_valyria_02: "Laying the Foundations" #NT!
- building_type_great_dragonkeep_of_valyria_02: "The Great Dragonkeep of Valyria" #NT!
- building_great_dragonkeep_of_valyria_02_desc: "To house the rulers of this great city, we will need an imposing palace. No, the greatest palace the world has ever seen. This will, of course, require many slaves and gold, but these resources can be acquired. This palace will be a testament to Valyrian greatness. We will start with a keep and continue our expansion from there." #NT!
+ building_great_dragonkeep_of_valyria_02: "Закладывая основы"
+ building_type_great_dragonkeep_of_valyria_02: "The Great Dragonkeep of Valyria"
+ building_great_dragonkeep_of_valyria_02_desc: "Для того чтобы разместить правителей этого некогда великого города, нам потребуется великий дворец. Нет, величайший дворец, который когда-либо видел мир. Нет нужды говорить, что нам потребуется много рабов и золота, но их можно достать. Этот дворец должен стать свидетельством валирийского величия. Мы начнем с Цитадели и продолжим расширяться оттуда."
   
- building_great_dragonkeep_of_valyria_03: "Outer Walls" #NT!
- building_type_great_dragonkeep_of_valyria_03: "The Great Dragonkeep of Valyria" #NT!
- building_great_dragonkeep_of_valyria_03_desc: "To ensure that this keep will be impregnable, we will build our walls exclusively out of black stone. These tall and thick walls will repel all enemies and unwanted individuals. Building thick and high walls only with black stone will, of course, be very costly." #NT!
+ building_great_dragonkeep_of_valyria_03: "Внешние стены"
+ building_type_great_dragonkeep_of_valyria_03: "Великая драконья крепость Валирии"
+ building_great_dragonkeep_of_valyria_03_desc: "Чтобы обеспечить неприступность Цитадели, мы построим стены исключительно из Черного камня, высокие и толстые стены не позволят врагам и незваным гостям проникнуть в наш дворец. Нет нужды говорить, что возведение толстых и высоких стен исключительно из Черного камня будет стоить очень дорого."
   
- building_great_dragonkeep_of_valyria_04: "Inner Walls and Decor" #NT!
- building_type_great_dragonkeep_of_valyria_04: "The Great Dragonkeep of Valyria" #NT!
- building_great_dragonkeep_of_valyria_04_desc: "Now that we have built the outer walls, we need to erect inner walls to enhance security and improve the effectiveness of our fortifications. Doors, portcullises, and battlements will be constructed. Furthermore, we will decorate the great keep with silks, tapestries, trophies, and many other things to display our splendor." #NT!
+ building_great_dragonkeep_of_valyria_04: "Внутренние стены и декор"
+ building_type_great_dragonkeep_of_valyria_04: "Великая драконья крепость Валирии"
+ building_great_dragonkeep_of_valyria_04_desc: "Теперь, когда мы построили наши стены, мы должны построить внутренние укрепления, чтобы лучше обеспечить нашу безопасность и повысить эффективность наших фортификационных сооружений. Необходимо построить ворота c опускной решёткой и крепостные валы. Кроме того, мы украсим великий замок шелками, гобеленами, трофеями и многим другим, чтобы подчеркнуть наше великолепие."
   
- building_procrazion_01: "Abandoned Great Castle" #NT!
- building_type_procrazion_01: "Procrazion" #NT!
- building_procrazion_01_desc: "Procrazion was once a bastion of valyrian power, sitting at the top of the central mountain at the heart of the city. Before the [doom|E], this grand castle served as a military and political hub, acting as a center of defense for the whole region. While much of its structure remains intact, time has not been kind to its once-glorious halls. The stone bridges that once connected it to the surrounding city are now destroyed, and the interior shows clear signs of decay. The towering Dragon Towers still stand, but their chambers are empty, and the once-active forge is now dormant. Despite this, its elevated position and limited points of entry still provide a strategic advantage. Though still imposing, Procrazion is but a shadow of its former self, waiting to be restored to its former glory." #NT!
+ building_procrazion_01: "Заброшенный Огромный замок"
+ building_type_procrazion_01: "Прокразион"
+ building_procrazion_01_desc: "Когда-то Прокреацион был бастионом валирийской власти, расположенным на вершине центральной горы в самом центре города. До Рокового дня этот величественный замок служил военным и политическим центром, служившим оплотом обороны всего региона. Хотя большая часть здания осталась нетронутой, время не пощадило его некогда великолепные залы. Каменные мосты, которые когда-то соединяли его с окружающим городом, теперь разрушены, а интерьер демонстрирует явные признаки упадка. Высокие Драконьи башни все еще стоят, но их помещения пусты, а некогда действовавшая кузница теперь бездействует. Несмотря на это, его возвышенное положение и ограниченное количество пунктов въезда по-прежнему обеспечивают стратегическое преимущество. Несмотря на то, что Procrazion по-прежнему впечатляет, это всего лишь тень его прежнего облика, ожидающая восстановления былой славы.."
   
- building_procrazion_02: "Procrazion" #NT!
- building_type_procrazion_02: "Procrazion" #NT!
- building_procrazion_02_desc: "Procrazion has been restored to its former glory, standing proudly atop the mountain at the heart of the city. This grand castle is once again connected to the city below by rebuilt bridges, offering access without the need for dragons. The Dragon Towers have also been restored, providing entry and exit for the majestic creatures, while the dome towers gleam as they did before the [doom|E]. Inside, it is equipped with all the amenities expected for a lord of the region, offering comfort and luxury even during a siege. The unique forge on one side of the mountain has been reactivated, once again channeling lava to create powerful weaponry. Its elevated position, combined with its restoration and limited points of entry, ensures that it remains nearly impregnable, capable of withstanding any threat. Now fully restored, Procrazion serves not only as a defensive stronghold but also as a symbol of the city's resurgence." #NT!
+ building_procrazion_02: "Прокразион"
+ building_type_procrazion_02: "Прокразион"
+ building_procrazion_02_desc: "Прокразион он был восстановлен в своем прежнем великолепии и гордо возвышается на вершине горы в центре города. Этот величественный замок снова соединен с городом, расположенным внизу, восстановленными мостами, что позволяет добраться до него без помощи драконов. Башни драконов также были отреставрированы, обеспечивая вход и выход для величественных созданий, а купола башен сияют, как и до Рокового дня. Внутри он оснащен всеми удобствами, ожидаемыми от правителя региона, предлагая комфорт и роскошь даже во время осады. Уникальная кузница на одном из склонов горы была восстановлена, и лава снова используется для создания мощного оружия. Ее возвышенное расположение в сочетании с восстановлением и ограниченным количеством точек входа гарантирует, что она остается практически неприступной и способна противостоять любой угрозе. Ныне полностью отреставрированный, Прокреазионе служит не только оборонительной крепостью, но и символом возрождения города."
   
- building_eternal_flame_temple_01: "Abandoned Temple" #NT!
- building_type_eternal_flame_temple_01: "The Eternal Flame Temple" #NT!
- building_eternal_flame_temple_01_desc: "The Eternal Flame Temple was presumably the connection spot between the Ancient Gods of Valyria and the Valyrian warriors. Besides being the religious center for the common folk, the temple once rose high as a symbol of Valyria's religious might; now it lies dusty and abandoned. Today, it remains a vague memory of what was once a revered High Temple of Valyrian cosmogony." #NT!
+ building_eternal_flame_temple_01: "Заброшенный храм"
+ building_type_eternal_flame_temple_01: "Храм Вечного огня"
+ building_eternal_flame_temple_01_desc: "Храм Вечного огня, по-видимому, был связующим звеном между древними богами Валирии и валирийскими воинами. Помимо того, что храм был религиозным центром для простого народа, он когда-то возвышался как символ религиозной мощи Валирии; сейчас он лежит пыльный и заброшенный. Сегодня от него осталось смутное воспоминание о том, что когда-то было почитаемым Высшим храмом валирийской космогонии."
   
- building_eternal_flame_temple_02: "The Eternal Flame Temple" #NT!
- building_type_eternal_flame_temple_02: "The Eternal Flame Temple" #NT!
- building_eternal_flame_temple_02_desc: "The Eternal Flame Temple has now been renewed and stands as a symbol of might, religion, and power. Its restored walls tell the stories of the old gods and are filled with legends once known only to the ancient Valyrians. Common folk are now able to enjoy the luxury and dream of what dragons and magic might have been before the [doom|E]. Warriors come and pray to be filled with the rage and might of the dragons that came before them. The temple shines brightly as a beacon of religious faith, hope, and both old and new Valyrian might." #NT!
+ building_eternal_flame_temple_02: "TheХрам Вечного огня"
+ building_type_eternal_flame_temple_02: "Храм Вечного огня"
+ building_eternal_flame_temple_02_desc: "Храм Вечного огня теперь обновлен и является символом могущества, религии и власти. Его восстановленные стены рассказывают истории о старых богах и наполнены легендами, которые когда-то были известны только древним валирийцам. Простые люди теперь могут наслаждаться роскошью и мечтать о том, какими могли быть драконы и магия до Рокового дня. Воины приходят и молятся, чтобы их наполнили ярость и мощь драконов, которые были до них. Храм ярко сияет как маяк религиозной веры, надежды и могущества как старой, так и новой Валирии."
   
- building_red_guard_barracks_01: "Abandoned Barracks" #NT!
- building_type_red_guard_barracks_01: "The Red Guard Barracks" #NT!
- building_red_guard_barracks_01_desc: "The once proud headquarters of the city's elite Red Guard, now lies abandoned and attached to the ancient city walls. Time all-mighty eroded its surroundings and its interior, where the broken battlements and rusty structure speak of abandonment post-[doom|E]. At the rear, two Dragon towers are now nothing but reminiscence of what once was military might. The chambers are only now filled with ghosts of time passed and strength now lost. Despite its decay, these barracks long for restoration to once again become the formidable shield of the city." #NT!
+ building_red_guard_barracks_01: "Заброшенные казармы"
+ building_type_red_guard_barracks_01: "Казармы Красной гвардии"
+ building_red_guard_barracks_01_desc: "Некогда гордая дом элитной Красной гвардии города, ныне находится в заброшенном состоянии и пристроена к древним городским стенам. Время всемогущего разрушило его окрестности и интерьер, где сломанные зубчатые стены и ржавые конструкции говорят о заброшенности после Гибели города. В задней части здания две башни с драконами теперь представляют собой не что иное, как напоминание о том, что когда-то было военной мощью. Помещения теперь наполнены призраками ушедшего времени и утраченной силы. Несмотря на свой упадок, эти казармы нуждаются в реставрации, чтобы вновь стать грозным щитом города."
   
- building_red_guard_barracks_02: "The Red Guard Barracks" #NT!
- building_type_red_guard_barracks_02: "The Red Guard Barracks" #NT!
- building_red_guard_barracks_02_desc: "Thoroughly restored to near its Valyrian might, the Red Guard Barracks are the renewed home for the defenders of the city, lying next to the glorious city walls. The stone structure reminds of its former glory, strengthened, powerful and filled with stories and scars. The Dragon Towers reek of life and vitality, in the likelihood of when real dragons roared in the high-skies. The barracks are no longer greeted by ghosts, but by the recently restored elite Red Guard, filled with energizing discipline, excellence, and glory unmatched. In a complex mixture of ancient with new technology, the building now again protects the city and shields all those who are inside." #NT!
+ building_red_guard_barracks_02: "Казармы Красной гвардии"
+ building_type_red_guard_barracks_02: "Казармы Красной гвардии"
+ building_red_guard_barracks_02_desc: "Тщательно отреставрированные, почти вернувшие себе валирийскую мощь, казармы Красной гвардии - это обновленный дом для защитников города, расположенный рядом со славными городскими стенами. Каменное сооружение напоминает о своей былой славе, укрепленное, мощное и наполненное историями и шрамами. Драконьи башни источают аромат жизни и жизнестойкости, как, вероятно, в те времена, когда в поднебесье ревели настоящие драконы. В казармах больше не обитают призраки, а недавно восстановленная элитная Красная гвардия, наполненная бодрящей дисциплиной, совершенством и непревзойденной славой. Это сложное сооружение, сочетающее в себе древность и новые технологии, теперь снова защищает город и всех, кто находится внутри."
   
- building_red_guard_training_compound_01: "Abandoned Training Compound" #NT!
- building_type_red_guard_training_compound_01: "The Red Guard Training Compound" #NT!
- building_red_guard_training_compound_01_desc: "Decayed walls fail to tell the stories of the now gone Red Guards who trained here. This Training Compound was once a respected and admired building filled with dragons, warriors, and leaders that now lies abandoned and empty, unable to portray its long forgotten energy and glory. Weaponry, dungeons, and rusted equipment can still be found here, but one is left wondering how it might have been during its glory." #NT!
+ building_red_guard_training_compound_01: "Заброшенный тренировочный комплекс"
+ building_type_red_guard_training_compound_01: "Тренировочный комплекс Красной гвардии"
+ building_red_guard_training_compound_01_desc: "Обветшалые стены не в состоянии рассказать истории ныне ушедших хунвейбинов, которые тренировались здесь. Когда-то этот тренировочный комплекс был уважаемым и вызывающим восхищение зданием, полным драконов, воинов и лидеров, но теперь он заброшен и пустует, не в силах передать свою давно забытую энергию и славу. Оружие, подземелья и ржавое снаряжение все еще можно найти здесь, но остается только гадать, каким оно могло быть во времена своего расцвета."
   
- building_red_guard_training_compound_02: "The Red Guard Training Compound" #NT!
- building_red_guard_training_compound_02_desc: "Strength, honor, and power are what one might find when looking at the restored Red Guard Training Compound. Filled with men attempting their best to honor themselves by becoming part of the Elite Red Guard, the compound hosts strategists, leaders, and warriors, all aiming to be the best. With glorious pillars surrounding it with grace, and a rooftop held high with red windows to show that the sky is the only limit, this building now trains the greatest of warriors and the finest of leaders." #NT!
+ building_red_guard_training_compound_02: "Тренировочный комплекс Красной гвардии"
+ building_red_guard_training_compound_02_desc: "Сила, честь и могущество - вот что можно увидеть, глядя на восстановленный тренировочный комплекс Красной гвардии. В этом комплексе, заполненном мужчинами, которые изо всех сил стараются прославить себя, став частью Элитной Красной гвардии, находятся стратеги, лидеры и воины, стремящиеся стать лучшими. С величественными колоннами, окружающими его с изяществом, и высокой крышей с красными окнами, показывающими, что небо - это единственный предел, в этом здании теперь обучаются величайшие воины и лучшие лидеры.."
   
- building_type_zanpur_volcano_01: "Mount Zanpur" #NT!
- building_zanpur_volcano_01: "Mount Zanpur" #NT!
- building_zanpur_volcano_01_desc: "Zanpur is the westernmost twin volcano of the Marahai isles." #NT!
+ building_type_zanpur_volcano_01: "Гора Занпур"
+ building_zanpur_volcano_01: "Гора Занпур"
+ building_zanpur_volcano_01_desc: "Занпур - самый западный вулкан-близнец островов Марахай."
   
- building_type_yovesh_volcano_01: "Mount Yovesh" #NT!
- building_yovesh_volcano_01: "Mount Yovesh" #NT!
- building_yovesh_volcano_01_desc: "Yovesh is the eesternmost twin volcano of the Marahai isles." #NT!
+ building_type_yovesh_volcano_01: "Гора Йовеш"
+ building_yovesh_volcano_01: "Гора Йовеш"
+ building_yovesh_volcano_01_desc: "Йовеш - самый восточный вулкан-близнец островов Марахай."

@@ -1,46 +1,46 @@
 ﻿l_russian:
   
- decision_group_type_zz_valyria_colonisation: "Legacy of Valyria Decisions" #NT!
+ decision_group_type_zz_valyria_colonisation: "Решения Наследия Валирии"
   
- agot_restore_ilvonys_dragonkeepers: "Appoint Gaelithox Dragonkeepers" #NT!
- agot_restore_ilvonys_dragonkeepers_desc: "As you unravel, that Mount Gaelithox atmosphere is suitable for dragonpit, you want to estabilish Order of Dragonkeepers there." #NT!
- agot_restore_ilvonys_dragonkeepers_effect_tooltip: "A new [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] and order of dragonkeepers will be established in [GetTitleByKey('c_ilvonys').GetNameNoTier]." #NT!
-  
-  
- agot_restore_dragonfields_dragonkeepers: "Appoint Rhazalhar Dragonkeepers" #NT!
- agot_restore_dragonfields_dragonkeepers_desc: "As you unravel, that Mount Rhazalhar atmosphere is suitable for dragonpit, you want to estabilish Order of Dragonkeepers there." #NT!
- agot_restore_dragonfields_dragonkeepers_effect_tooltip: "A new [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] and order of dragonkeepers will be established in [GetTitleByKey('c_dragonfields').GetNameNoTier]." #NT!
+ agot_restore_ilvonys_dragonkeepers: "Назначить Драконего Хранителя в Гаэлитокса"
+ agot_restore_ilvonys_dragonkeepers_desc: "Вы выяснили, что атмосфера Горы Гаэлитокс подходит для драконьей ямы. Вы хотите основать здесь Орден Драконоблюстителей."
+ agot_restore_ilvonys_dragonkeepers_effect_tooltip: "Будет создана новая [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и Орден Хранителей Драконов в [GetTitleByKey('c_ilvonys').GetNameNoTier]."
   
   
- agot_restore_valyria_dragonkeepers: "Appoint Tartarax Dragonkeepers" #NT!
- agot_restore_valyria_dragonkeepers_desc: "As you unravel, that Mount Tartarax atmosphere is suitable for dragonpit, you want to estabilish Order of Dragonkeepers there." #NT!
- agot_restore_valyria_dragonkeepers_effect_tooltip: "A new [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] and order of dragonkeepers will be established in [GetTitleByKey('c_valyria').GetNameNoTier]." #NT!
-  
- agot_restore_kastaryia_dragonkeepers: "Appoint Epaekros Dragonkeepers" #NT!
- agot_restore_kastaryia_dragonkeepers_desc: "As you unravel, that Mount Epaekros atmosphere is suitable for dragonpit, you want to estabilish Order of Dragonkeepers there." #NT!
- agot_restore_kastaryia_dragonkeepers_effect_tooltip: "A new [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] and order of dragonkeepers will be established in [GetTitleByKey('c_kastaryia').GetNameNoTier]." #NT!
+ agot_restore_dragonfields_dragonkeepers: "Назначить Драконего Хранителя в Разалхара"
+ agot_restore_dragonfields_dragonkeepers_desc: "Вы выяснили, что атмосфера Горы Разалхар подходит для драконьей ямы. Вы хотите основать здесь Орден Драконоблюстителей."
+ agot_restore_dragonfields_dragonkeepers_effect_tooltip: "Будет создана новая [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и Орден Хранителей Драконов в [GetTitleByKey('c_dragonfields').GetNameNoTier]."
   
   
- agot_restore_jarqanor_dragonkeepers: "Appoint Yontaryos Dragonkeepers" #NT!
- agot_restore_jarqanor_dragonkeepers_desc: "As you unravel, that Mount Yontaryos atmosphere is suitable for dragonpit, you want to estabilish Order of Dragonkeepers there." #NT!
- agot_restore_jarqanor_dragonkeepers_effect_tooltip: "A new [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] and order of dragonkeepers will be established in [GetTitleByKey('c_jarqanor').GetNameNoTier]." #NT!
+ agot_restore_valyria_dragonkeepers: "Назначить Драконего Хранителя в Тартаракса"
+ agot_restore_valyria_dragonkeepers_desc: "Вы выяснили, что атмосфера Горы Тартаракс подходит для драконьей ямы. Вы хотите основать здесь Орден Драконоблюстителей."
+ agot_restore_valyria_dragonkeepers_effect_tooltip: "Будет создана новая [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и Орден Хранителей Драконов в [GetTitleByKey('c_valyria').GetNameNoTier]."
   
- agot_restore_yovesh_dragonkeepers: "Appoint Yovesh Dragonkeepers" #NT!
- agot_restore_yovesh_dragonkeepers_desc: "As you unravel, that Mount Yovesh atmosphere is suitable for dragonpit, you want to estabilish Order of Dragonkeepers there." #NT!
- agot_restore_yovesh_dragonkeepers_effect_tooltip: "A new [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] and order of dragonkeepers will be established in [GetTitleByKey('c_yovesh').GetNameNoTier]." #NT!
+ agot_restore_kastaryia_dragonkeepers: "Назначить Драконего Хранителя в Эпаэкроса"
+ agot_restore_kastaryia_dragonkeepers_desc: "Вы выяснили, что атмосфера Горы Эпаэкрос подходит для драконьей ямы. Вы хотите основать здесь Орден Драконоблюстителей."
+ agot_restore_kastaryia_dragonkeepers_effect_tooltip: "Будет создана новая [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и Орден Хранителей Драконов в [GetTitleByKey('c_kastaryia').GetNameNoTier]."
   
- agot_restore_zanpur_dragonkeepers: "Appoint Zanpur Dragonkeepers" #NT!
- agot_restore_zanpur_dragonkeepers_desc: "As you unravel, that Mount Zanpur atmosphere is suitable for dragonpit, you want to estabilish Order of Dragonkeepers there." #NT!
- agot_restore_zanpur_dragonkeepers_effect_tooltip: "A new [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] and order of dragonkeepers will be established in [GetTitleByKey('c_zanpur').GetNameNoTier]." #NT!
   
- agot_restore_gogossos_dragonkeepers: "Appoint Dragontower Dragonkeepers" #NT!
- agot_restore_gogossos_dragonkeepers_desc: "As you unravel, that the Dragontower is suitable for dragonpit, you want to estabilish Order of Dragonkeepers there." #NT!
- agot_restore_gogossos_dragonkeepers_effect_tooltip: "A new [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] and order of dragonkeepers will be established in [GetTitleByKey('c_gogossos').GetNameNoTier]." #NT!
+ agot_restore_jarqanor_dragonkeepers: "Назначить Драконего Хранителя в Йонтарийос"
+ agot_restore_jarqanor_dragonkeepers_desc: "Вы выяснили, что атмосфера Горы Йонтарийос подходит для драконьей ямы. Вы хотите основать здесь Орден Драконоблюстителей."
+ agot_restore_jarqanor_dragonkeepers_effect_tooltip: "Будет создана новая [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и Орден Хранителей Драконов в [GetTitleByKey('c_jarqanor').GetNameNoTier]."
   
- agot_restore_oreos_dragonkeepers: "Appoint Martivia Dragonkeepers" #NT!
- agot_restore_oreos_dragonkeepers_desc: "As you unravel, that Martivia is suitable for dragonpit, you want to estabilish Order of Dragonkeepers there." #NT!
- agot_restore_oreos_dragonkeepers_effect_tooltip: "A new [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] and order of dragonkeepers will be established in [GetTitleByKey('c_oreos').GetNameNoTier]." #NT!
+ agot_restore_yovesh_dragonkeepers: "Назначить Драконего Хранителя в Йовиш"
+ agot_restore_yovesh_dragonkeepers_desc: "Обнаружив, что атмосфера Горы Йовеш подходит для драконьей ямы, вы решаете основать здесь Орден Хранителей Драконов."
+ agot_restore_yovesh_dragonkeepers_effect_tooltip: "Будет создана новая [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и Орден Хранителей Драконов в [GetTitleByKey('c_yovesh').GetNameNoTier]."
   
- agot_restore_ruklonos_dragonkeepers: "Appoint Ruklonos Dragonkeepers" #NT!
- agot_restore_ruklonos_dragonkeepers_desc: "As you unravel, that Mount Ruklonos atmosphere is suitable for dragonpit, you want to estabilish Order of Dragonkeepers there." #NT!
- agot_restore_ruklonos_dragonkeepers_effect_tooltip: "A new [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] and order of dragonkeepers will be established in [GetTitleByKey('c_ruklonos').GetNameNoTier]." #NT!
+ agot_restore_zanpur_dragonkeepers: "Назначить Драконего Хранителя в Занпур"
+ agot_restore_zanpur_dragonkeepers_desc: "Обнаружив, что атмосфера Горы Занпур подходит для драконьей ямы, вы решаете основать здесь Орден Хранителей Драконов."
+ agot_restore_zanpur_dragonkeepers_effect_tooltip: "Будет создана новая [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и Орден Хранителей Драконов в [GetTitleByKey('c_zanpur').GetNameNoTier]."
+  
+ agot_restore_gogossos_dragonkeepers: "Назначить Драконего Хранителя в Драконью Башню"
+ agot_restore_gogossos_dragonkeepers_desc: "Обнаружив, что Драконья Башня подходит для драконьей ямы, вы решаете основать здесь Орден Хранителей Драконов."
+ agot_restore_gogossos_dragonkeepers_effect_tooltip: "A new [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] and order of dragonkeepers will be established in [GetTitleByKey('c_gogossos').GetNameNoTier]."
+  
+ agot_restore_oreos_dragonkeepers: "Назначить Драконего Хранителя в Мартивию"
+ agot_restore_oreos_dragonkeepers_desc: "Обнаружив, что Мартивия подходит для драконьей ямы, вы решаете основать здесь Орден Хранителей Драконов."
+ agot_restore_oreos_dragonkeepers_effect_tooltip: "Будет создана новая [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и Орден Хранителей Драконов в [GetTitleByKey('c_oreos').GetNameNoTier]."
+  
+ agot_restore_ruklonos_dragonkeepers: "Назначить Драконего Хранителя В Руклонос"
+ agot_restore_ruklonos_dragonkeepers_desc: "Обнаружив, что атмосфера Горы Руклонос подходит для драконьей ямы, вы решаете основать здесь Орден Хранителей Драконов."
+ agot_restore_ruklonos_dragonkeepers_effect_tooltip: "Будет создана новая [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и Орден Хранителей Драконов в [GetTitleByKey('c_ruklonos').GetNameNoTier]."

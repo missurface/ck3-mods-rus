@@ -1,6 +1,0 @@
-﻿l_russian:
-   # Note: Keep this in the replace/(language)/agot folder to ensure we override the locs AGOT already has 
- AGOT_VERSION_BUILD: "\nAGOT Build: #color_yellow;bold $AGOT_BUILD$#!\nAGOT Version: #color_yellow;bold $AGOT_VERSION$#!$LV_VERSION_NUMBER$"
- lv_load_game_log: "Ваша текущая версия Legacy of Valyria $LV_VERSION_NUMBER$"
-  
- LV_VERSION_NUMBER: "\nLegacy of Valyria: #color_yellow;bold Version 1.5.0.2 #!#weak (AGOT Open Beta 0.4.12)#!"

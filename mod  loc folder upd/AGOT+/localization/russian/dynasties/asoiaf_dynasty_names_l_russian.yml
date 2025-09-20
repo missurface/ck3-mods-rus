@@ -1,0 +1,29 @@
+﻿l_russian:
+ dynn_Dummies: "Дубликат"
+ dynn_Bloodraven: "Кровавый Ворон"
+ dynn_Bittersteel: "Горькая Сталь"
+ dynn_Dormand: "Дорманд"
+  
+  #Brightflame overwrite dynastyies 
+ dynn_Galgaeryn: "Галгарины"
+ dynn_Tryzaen: "Тризены"
+  
+  #Maegor Targaryen (founder of Targ dynasty)'s wife dummy dynasty to prevent tree duplication 
+ dynn_Belerys: "Белерисы"
+  
+  #Corlys Velaryon (HBO)'s mother's House 
+ dynn_Xaq: "Зак"
+  
+  #Daena Blackfyre's House 
+ dynn_Malazos: "Малазосы"
+  
+  #EASTER EGG DYNASTY NAMES 
+ dynn_Kobyla: "Кобилы"
+ dynn_Ronov: "Роновы"
+ dynn_Leipa: "Лейпы"
+ dynn_Lichtenburg: "Лихтенбурги"
+ dynn_Bitov: "Битовы"
+ dynn_Krusina: "Крусины"
+ dynn_Zleb: "Злебы"
+ dynn_Capon: "Капуны"
+ dynn_Toth: "Тосы"

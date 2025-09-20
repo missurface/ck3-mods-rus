@@ -1,0 +1,155 @@
+﻿l_russian:
+  
+  # Taming 
+ tame_dragon_interaction: "Приручить дракона"
+ tame_dragon_interaction_desc: "Вы попытаетесь приручить [recipient.GetNameNoTooltip]"
+ tame_dragon_interaction_desc_warning: "Вы попытаетесь приручить [recipient.GetNameNoTooltip].\n\n@warning_icon! #warning Приручение дракона до установления связи крайне рискованно.#!"
+ tame_dragon_no_active_bond_schemes: "У вас нет активной [GetScheme('bond_with_dragon_scheme').GetTypeName] [scheme|e]"
+ tame_dragon_notification: "Попытка приручения дракона"
+ tame_dragon_interaction_tt1: "Вы можете приручить [recipient.GetName] или получить ранение/погибнуть."
+ tame_dragon_interaction_tt2: "#warning Приручение дракона до установления связи крайне рискованно.#!"
+  
+  # Bonding 
+ bond_with_dragon_interaction: "Установить связь с драконом"
+ bond_with_dragon_interaction_desc: "Вы попытаетесь установить связь с [recipient.GetNameNoTooltip]."
+ bond_dragon_notification: "Установление связи с [recipient.GetNameNoTooltip]"
+ deepen_bond_with_dragon_interaction: "Укрепить связь"
+ deepen_bond_with_dragon_interaction_desc: "Вы попытаетесь укрепить связь с [recipient.GetNameNoTooltip]."
+ deepen_bond_dragon_notification: "Укрепление связи с [recipient.GetNameNoTooltip]"
+ blow_dragon_horn_interaction: "Переустановить связь"
+ blow_dragon_horn_interaction_desc: "Связь с [recipient.GetNamePossessiveNoTooltip] ослабла. Вы попытаетесь усилить её с помощью драконьего рога."
+ must_equip_dragon_horn: "Имеет экипированный драконий рог"
+ binding_is_unstable: "Связь с этим драконом ослабевает"
+ visit_dragonpit_with_child_interaction: "Посетить драконий питомник вместе"
+ visit_dragonpit_with_child_interaction_desc: "Вы посещаете драконий питомник с [recipient.GetNameNoTooltip]."
+ visit_dragonpit_interaction_tt: "[recipient.GetName] может установить связь или приручить дракона в ваших питомниках."
+  
+ dragon_beyond_the_wall: "Драконы не пересекают Стену"
+  
+  # Dragon slaying 
+ slay_dragon_interaction: "Убить дракона"
+ slay_dragon_interaction_desc: "Вы попытаетесь убить [recipient.GetNameNicknamed].\n\n@warning_icon! #warning Попытка убить дракона невероятно опасна#!"
+ slay_dragon_notification: "Попытка убийства дракона"
+ slay_dragon_interaction.found_cave: "Вы находите логово [recipient.GetNamePossessiveNoTooltip]"
+ slay_dragon_interaction.found_by_dragon: "[recipient.GetNameNoTooltip] обнаруживает вас"
+ slay_dragon_interaction.cannot_find_cave: "Вам не удаётся найти [recipient.GetNameNoTooltip]"
+ ds_cooldown_desc: "Вы недавно сражались с драконом или пытались убить его"
+ dragon_is_in_combat: "Дракон участвует в бою."
+ dragon_is_in_dragonpit: "Дракон заперт в драконьем питомнике."
+  
+  # Schemes 
+ bond_with_dragon_scheme: "Установить связь с этим драконом"
+ bond_with_dragon_scheme_action: "Установить связь"
+ bond_with_dragon_scheme_desc: "Вы можете попытаться установить связь с этим драконом"
+ bond_with_dragon_scheme_desc_general: "Персонаж может попытаться установить связь с этим драконом"
+ deepen_bond_with_dragon_scheme: "Укрепить связь с вашим драконом"
+ deepen_bond_with_dragon_scheme_action: "Укрепить связь"
+ deepen_bond_with_dragon_scheme_desc: "Вы можете попытаться укрепить связь с вашим драконом"
+ deepen_bond_with_dragon_scheme_desc_general: "Персонаж может попытаться укрепить связь с вашим драконом"
+  
+  # Scheme / success chances 
+ SCHEME_DRAGON_BASE: "База: #V $VALUE|0=$#!"
+ SCHEME_DRAGON_BONDED_BASE: "База связанного дракона: #V $VALUE|0=$#!"
+ SCHEME_DRAGON_UNBONDED_BASE: "База несвязанного дракона: #V $VALUE|0=$#!"
+ SCHEME_BOND_DRAGON_THEIR_OPINION: "Мнение [target.GetTitledFirstNamePossessive] о вас: $VALUE|+0=-+$"
+ SCHEME_BOND_BOTH_TRAIT: "Схожие черты характера: $VALUE|+0=-+$"
+ SCHEME_BOND_OWNER_DILIGENT: "Вы [GetTrait('diligent').GetName(GetNullCharacter)]: $VALUE|+0=-+$"
+ SCHEME_BOND_OWNER_LAZY: "Вы [GetTrait('lazy').GetName(GetNullCharacter)]: $VALUE|+0=-+$"
+ DRAGON_AGE: "Возраст [target.GetTitledFirstNamePossessive]: #N -[target.GetAge]#!"
+ SCHEME_BOND_DRAGON_DREAD: "Ваша устрашающая аура: $VALUE|+0=-+$"
+ SCHEME_BOND_DRAGON_GRAVITAS: "Ваша харизма: $VALUE|+0=-+$"
+ SCHEME_BOND_DRAGON_DRACONIC_DREAD: "[target.GetFirstNamePossessive] [draconic_dread|E]: $VALUE|+0=-+$"
+ SCHEME_BOND_DRAGON_TEMPERAMENT: "[target.GetFirstNamePossessive] [temperament|E]: $VALUE|+0=-+$"
+ SCHEME_BOND_DRAGON_TAMING_CHANCE: "[target.GetFirstNamePossessive] [taming_chance|E]: $VALUE|+0=-+$"
+ BOND_DRAGON_SUCCESS_DESC: "Вы установите связь с этим [dragon|E]"
+ DEEPEN_BOND_DRAGON_SUCCESS_DESC: "Вы #P укрепите#! связь [GetTrait('dragonrider').GetName(GetNullCharacter)]"
+ SCHEME_BOND_VALYRIAN_BLOOD: "У вас кровь дракона: $VALUE|+0=-+$"
+ SCHEME_BOND_DYNASTY_LEGACY: "[GetDynastyPerk( 'dragonrider_dynasty_legacy_2' ).GetName]: $VALUE|+0=-+$"
+ SCHEME_EX_DRAGONRIDER: "Вы уже связаны с [dragon|E]: $VALUE|+0=-+$"
+ SCHEME_BOND_DESTINED_RIDER: "Вы чувствуете предначертанную связь: $VALUE|+0=-+$"
+ bonded_with_me: "Связан(а) со мной"
+ failed_to_bond_with_me: "Не смог(ла) установить связь"
+  
+  # Eggs / hatching 
+ select_egg_for_hatching: "Выбрать яйцо для вылупления"
+ select_egg_for_hatching_desc: "Выберите, какое драконье яйцо будете пытаться вылупить"
+ selected_egg_for_hatching_notification_title: "Яйцо выбрано"
+ selected_egg_for_hatching_notification_desc: "Вы выбрали яйцо [target.GetName] для вылупления."
+ cradle_egg: "Убаюкивать яйцо"
+ cradle_egg_desc: "Убаюкивать драконье яйцо"
+ started_cradling_egg_notification: "Вы убаюкиваете яйцо"
+ started_cradling_egg_notification_title: "Убаюкивание яйца"
+ started_cradling_egg_notification_desc: "Вы убаюкиваете яйцо [target.GetName]."
+ give_egg: "Подарить яйцо"
+ give_egg_desc: "Подарить драконье яйцо [recipient.GetName]"
+ gave_egg_for_cradling_notification: "Яйцо передано ребёнку"
+ gave_egg_for_cradling_notification_title: "Подарено яйцо [recipient.GetFirstName]"
+ gave_egg_for_cradling_notification_desc: "Вы передали яйцо [target.GetName] [recipient.GetFirstName]."
+ received_egg_for_cradling_notification_title: "Получено яйцо от [actor.GetTitledFirstName]"
+ received_egg_for_cradling_notification_desc: "[actor.GetFirstName] подарил(а) вам яйцо [target.GetName]! Теперь вы убаюкиваете его."
+ taught_dragonlore_title: "Обучение драконьим знаниям"
+ taught_dragonlore_desc: "Вы обучили [recipient.GetName] драконьим знаниям."
+ taught_dragonlore_received_desc: "[actor.GetFirstName] обучил(а) вас драконьим знаниям."
+ has_no_dragons: "У [actor.GetFirstName] нет приручённого или связанного дракона"
+  
+  # Terror campaign 
+ agot_instruct_to_conduct_terror_campaign: "Начать кампанию террора"
+ agot_instruct_to_conduct_terror_campaign_desc: "Приказать [recipient.GetName] использовать [recipient.MakeScope.Var('current_dragon').GetCharacter.GetName] для проведения кампании террора.\n$conduct_terror_campaign_tooltip$"
+  
+ agot_stop_conducting_terror_campaign: "Прекратить кампанию террора"
+ agot_stop_conducting_terror_campaign_desc: "Приказать [recipient.GetName] прекратить [recipient.GetHerHis] кампанию террора"
+  
+ agot_refusing_stop_conducting_terror_campaign_tt: "[recipient.GetFirstName] уже отказался(лась) прекратить кампанию террора"
+  
+ agot_dragon.imprisoned_on_terror_campaign.t: "Кампания террора прекращена!"
+ agot_dragon.imprisoned_on_terror_campaign.desc: "[ROOT.Char.GetFirstName] заключён(а) под стражу и больше не будет жечь земли ваших врагов."
+  
+  # Teach dragon lore 
+ agot_teach_dragonlore: "Обучать Драконоведению" #NT!
+ agot_teach_dragonlore_desc: "С помощью вашего [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] вы обучите [recipient.GetName] драконоведению, необходимому для приручения драконов" #NT!
+ scheme_taught_dragonlore: "Обучение драконоведению: $VALUE|+0=-+$" #NT!
+ scheme_dragonkeeper: "Главный смотритель драконов: $VALUE|+0=-+$" #NT!
+ scheme_pitted_dragon: "Заточение в [dragonpit|e]: $VALUE|+0=-+$" #NT!
+ scheme_wild_dragon: "[wild_dragon|E]: $VALUE|+0=-+$" #NT!
+ agot_teach_dragonlore_increased_dragonlore_preview_tt: "[recipient.GetName] повысит [recipient.GetHerHis] уровень драконоведения на #P [TopScope.GetValue('hdk_aptitude')]#!" #NT!
+ agot_teach_dragonlore_increased_dragonlore_interface_tt: "[recipient.GetName] повысил(а) [recipient.GetHerHis] уровень драконоведения на #P [TopScope.GetValue('hdk_aptitude')]#!" #NT!
+  
+ agot_send_to_dragonpit: "ИИ: Отправить в питомник"
+ agot_send_to_dragonpit_desc: "ИИ отправит [recipient.GetName] в [recipient.GetHerHis] [dragonpit|E]"
+  
+ agot_remove_from_dragonpit: "ИИ: Извлечь из питомника"
+ agot_remove_from_dragonpit_desc: "ИИ извлечёт [recipient.GetName] из [recipient.GetHerHis] [dragonpit|E]"
+  
+ agot_grant_dragonpit_permission: "Разрешить доступ к питомнику"
+ agot_grant_dragonpit_permission_desc: "Предоставить [recipient.GetName] доступ к вашему [dragonpit|e] и заключённым в нём [dragons_plural|e]. Это сделает [recipient.GetNameNoTooltip] [authorized_tamer|e] этого питомника."
+ agot_grant_dragonpit_permission_effect_tt: "[recipient.GetName] станет [authorized_tamer|e] [dragon_pit_location.GetNameNoTier] [dragonpit|e]."
+  
+ agot_ban_from_dragonpit: "Запретить доступ к питомнику"
+ agot_ban_from_dragonpit_desc: "[recipient.GetName] имеет доступ к вашему [dragonpit|e] согласно [laws|e]. Это действие лишит его доступа."
+ agot_banned_from_dragonpit_permission_effect_tt: "[recipient.GetName] будет лишён доступа к [dragon_pit_location.GetNameNoTier] [dragonpit|e]."
+ agot_banned_from_dragonpit_interface_tt: "[recipient.GetName] запрещён доступ к вашему [dragonpit|e] в [dragon_pit_location.GetNameNoTier]."
+  
+ agot_reverse_dragonpit_ban: "Снять запрет на питомник"
+ agot_reverse_dragonpit_ban_desc: "[recipient.GetName] забанен в вашем [dragonpit|e]. Это действие снимет запрет."
+ agot_reversed_ban_from_dragonpit_interface_tt: "Запрет [recipient.GetNamePossessive] на доступ к вашему [dragonpit|e] снят."
+ agot_ban_lifted_from_dragonpit_effect_tt: "Запрет [recipient.GetNamePossessive] на доступ к [target.GetNameNoTier] [dragonpit|e] будет снят."
+  
+ agot_request_dragonpit_permission: "Запросить доступ к питомнику"
+ agot_request_dragonpit_permission_desc: "Вы можете запросить доступ к [recipient.GetShortUINamePossessive] [dragonpit|e]."
+ agot_request_dragonpit_permission_effect_tt: "[actor.GetShortUIName] станет [authorized_tamer|e] [dragon_pit_location.GetNameNoTier] [dragonpit|e]."
+  
+ agot_dragonpit_access_gained: "Доступ к питомнику предоставлен"
+ agot_dragonpit_access_gained_interface_tt: "[actor.GetShortUIName] сделал(а) вас [authorized_tamer|E] своего [dragonpit|E]!"
+ agot_dragonpit_access_denied: "Доступ к питомнику запрещён"
+ agot_dragonpit_access_denied_interface_tt: "[recipient.GetShortUIName] отказал(а) вам в доступе к своему [dragonpit|E]!"
+ agot_request_dragonpit_permission_ai_modifier_i_am_blood_of_the_dragon: "Признаёт важность своих драконов"
+  
+ agot_send_egg_to_pit: "Отправить яйцо в питомник"
+ agot_send_egg_to_pit_desc: "Отправить одно из ваших драконьих яиц в [dragonpit|e] для вылупления"
+  
+ agot_retrieve_egg_from_pit: "Забрать яйцо из питомника"
+ agot_retrieve_egg_from_pit_desc: "Забрать яйцо из вашего [dragonpits|e]"
+  
+ rename_dragon_interaction: "Переименовать дракона"
+ rename_dragon_interaction_desc: "Переименовать [recipient.GetName]"
+ renaming_dragon_you_are_house_head_tt: "Хотя бы одно из условий:\n$EFFECT_LIST_BULLET$Вы являетесь компаньоном этого дракона\n$EFFECT_LIST_BULLET$Вы — глава дома компаньона/всадника дракона"

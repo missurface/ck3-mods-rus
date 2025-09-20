@@ -1,0 +1,42 @@
+﻿l_russian:
+ rf_further_east: "Further East" #NT!
+  
+   ## Asshai Religion 
+ shadowbinders: "Shadowbinders" #NT!
+ shadowbinders_religion: "Shadowbinders" #NT!
+ shadowbinders_adj: "Shadowbinders" #NT!
+ shadowbinders_religion_adj: "Far East Essosi" #NT!
+ shadowbinders_adherent: "Shadow Binder" #NT!
+ shadowbinders_adherent_plural: "Shadowbinders" #NT!
+ shadowbinders_religion_desc: "The Shadowbinder faith is practiced primarily in the shadowy lands of Asshai and the surrounding regions, it's a mysterious and esoteric religion centered on the manipulation of shadows and dark magic. Followers revere shadow and magic as both a tool and a divine essence, believing it holds the secrets of power and knowledge hidden from the light. Shadowbinders perform intricate rituals to harness this power, often involving blood magic and arcane symbols, seeking to command the darkness and commune with the enigmatic forces that dwell within it." #NT!
+  
+   # Doctrines 
+ doctrine_asshaii_pantheon_name: "The Gods of the Shadow" #NT!
+ doctrine_asshaii_pantheon_desc: "This faith follows the mysterious gods of the shadow." #NT!
+ doctrine_asshaii_syncreticism_name: "Asshai'i Syncretism" #NT!
+ doctrine_asshaii_syncreticism_desc: "The gods of the shadow, enigmatic as they are, have come to be deemed worthy of our respect and worship of, and thus we will honor the rights and traditions of their devoted." #NT!
+  
+ tenet_magicae_cultus_name: "Magicae Cultus" #NT!
+ tenet_magicae_cultus_desc: "Magicae Cultus as is implied by the name is a mystical tradition devoted to the study and veneration of arcane mysterious forces. Cultures with this tradition seek enlightenment and power through ancient rituals, spellcraft, and communion with unseen magical energies that shape the world" #NT!
+  
+   ## Stonemen 
+ stonemen_religion: "Stonemen" #NT!
+ stonemen_religion_adj: "Stonemen" #NT!
+ shrouded_lord: "Shrouded Lord" #NT!
+ shrouded_lord_adj: "Post Valyria Doom" #NT!
+ shrouded_lord_adherent: "Shrouded Vessel" #NT!
+ shrouded_lord_adherent_plural: "Shrouded Vessels" #NT!
+ shrouded_lord_desc: "The followers of the Shrouded Lord revere a mysterious and shadowy figure believed to rule over death and the afterlife. Rooted in the dark legends of Valyria, this faith intertwines death with power and pain. The Shrouded Lord’s adherents embrace suffering, believing that through the exaltation of pain, they can transcend mortal bounds and earn favor in the afterlife. Human sacrifice is central to their rites, a grim offering to appease the Shrouded Lord and ensure his guidance in death’s dark domain." #NT!
+  
+   ## Gogossi Heresies 
+ green_wyrm_religion_adj: "Valyrian" #NT!
+ green_wyrm_religion: "Cult of the Green Wyrm" #NT!
+ green_wyrm: "Cult of the Green Wyrm" #NT!
+ green_wyrm_adj: "Cult of the Green Wyrm" #NT!
+ green_wyrm_adherent: "Wyrmites" #NT!
+ green_wyrm_adherent_plural: "Wyrmites" #NT!
+ green_wyrm_religion_desc: "Cult of the Green Wyrm religion is an off-spring of the Gods of Valyria that started in the gogossi shores, much like the shrouded Lord this culture venerates death and blood and see it as a way to communicate with the gods and to assure their place in the afterlife, moreover the sanctity of nature is one of its core beliefs giving its own touch of light to a generally dark religion." #NT!
+  
+   # Doctrines 
+ tenet_junglecaster_name: "Jungle oracles" #NT!
+ tenet_junglecaster_desc: "This religion values magic and its practice it understands and respects its crucial and undeniably connecture to nature conciliating it with their bloody traditions." #NT!

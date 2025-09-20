@@ -1,0 +1,14 @@
+﻿l_russian:
+  
+ rule_show_dynamic_crowns: "@Crowns_of_Westeros_icon! Динамические неканонические короны"
+ setting_show_dynamic_crowns_enabled: "Показать неканонические короны"
+ setting_show_dynamic_crowns_enabled_desc: "Персонажи, обладающие уникальными, неканоническими коронами, будут постоянно носить их, став независимыми монархами. (пример: если мейстер Эйемон станет королем, он наденет свою неканоническую корону)."
+ setting_hide_dynamic_crowns_enabled: "Скрыть неканонические короны"
+ setting_hide_dynamic_crowns_enabled_desc: "Персонажи, у которых есть уникальные, неканонические короны, НЕ будут носить их динамически, став независимыми монархами. Однако короны останутся в качестве опции в парикмахерской и для создания артефактов."
+  
+  
+ rule_show_crowns_without_coronation: "@Crowns_of_Westeros_icon! Показать/Скрыть короны без коронации"
+ setting_show_crowns_without_coronation_enabled: "Включено"
+ setting_show_crowns_without_coronation_enabled_desc: "По умолчанию CK3AGOT скрывает короны на персонаже, пока они не будут коронованы. Это отменит это правило."
+ setting_hide_crowns_without_coronation_enabled: "Скрыть короны без коронации"
+ setting_hide_crowns_without_coronation_enabled_desc: "По умолчанию CK3AGOT скрывает короны на персонаже, пока они не будут коронованы. Это сохранит это поведение."

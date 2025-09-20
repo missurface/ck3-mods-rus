@@ -1,0 +1,169 @@
+﻿###################
+# AGOT More Bookmarked #
+###################
+
+ 
+ blackfyre_loyalists:0 "Host of the Black Dragon"
+
+ blackfyre_bookmark_rebellion.0001.t:0 "The Black Dragon"
+ blackfyre_bookmark_rebellion.0001_desc:0 "For years, prominent lords of the realm have called me the true heir to the throne. They say I am the spitting image of the Conqueror. My brother Bittersteel and my mentor Fireball both conspire in my name without my consent. But perhaps they are right? Perhaps Daeron truly is falseborn and illegitimate. It would seem so with how he has sold my sister away to the Dornish and gave favors and rights to these foreigners. When my father granted me Blackfyre and legitimized me, he all but officially declared me his true heir. "
+ blackfyre_bookmark_rebellion.0001.a:0 "I must push my claim or my claim will be forgotten."
+ blackfyre_bookmark_rebellion.0001.a.tt:0 "By right of birth and blood, I do this day lay claim to the Iron Throne of Westeros. Let all true men declare their loyalty."
+ blackfyre_bookmark_rebellion.0001.b:0 "I don't want it."
+ blackfyre_bookmark_rebellion.0001.b.tt:0 "I decline to go to war. For now."
+ blackfyre_bookmark_rebellion.0001.c:0 "I approve. In fact, lets help him!"
+ blackfyre_bookmark_rebellion.0001.c.tt:0 "You will join with the attacker."
+ 
+ 
+  blackfyre_bookmark_rebellion.0002.t:0 "The Black Dragon"
+ blackfyre_bookmark_rebellion.0002_desc:0 "Daemon Blackfyre, my forebear, was by all rights the heir to the Iron Throne. Since his dishonorable slaying at the Battle of Redgrass Field, we have lived in exile. However, the time has come for us to cross the Narrow Sea and reclaim what rightfully belongs to the Black Dragon."
+ blackfyre_bookmark_rebellion.0002.a:0 "I must push my claim or my claim will be forgotten."
+ blackfyre_bookmark_rebellion.0002.a.tt:0 "By right of birth and blood, I do this day lay claim to the Iron Throne of Westeros. Let all true men declare their loyalty."
+ blackfyre_bookmark_rebellion.0002.b:0 "I don't want it."
+ blackfyre_bookmark_rebellion.0002.b.tt:0 "I decline to go to war. For now."
+ 
+ 
+ 
+ got_bookmark.0001.t:0 "Plots in the Capitol"
+ got_bookmark.0001_desc:0 "When King Robert named me Hand of the King, I had no choice but to accept. It wasn't only out of loyalty to my king and friend, but because I had to uncover the truth behind Jon Arryn's death. Lysa whispers of the Lannisters' hand in it. And now, while we hosted the royal family at Winterfell, my son Bran suffered a fall that nearly claimed his life—an accident, they call it, though his steps have always been sure. Catelyn is convinced he was pushed, silenced before he could speak of what he saw.\n\n If there's truth in this, I will discover it."
+ got_bookmark.0001.a:0 "Hopefully Sansa and Arya adjust to the south well."
+ got_bookmark.0001.a.tt:0 "You will begin your investigation into the mysterious death of Jon Arryn."
+ got_bookmark.0001.b:0 "I'm sorry Robert. I must return North."
+ got_bookmark.0001.b.tt:0 "You will abandon your duties to Robert and the realm."
+ 
+ got_bookmark.0002.t:0 "The Investigation Continues"
+ got_bookmark.0002_desc:0 "Robert's words on the King's Road still haunt me:\n #bold "There’s a war coming, Ned. I don’t know when or who we’ll be fighting, but it’s coming."#!\n\n I can feel it now, too—like a storm of swords building on the horizon. \n \n My investigation into Jon Arryn's death has yielded some curious discoveries. It seems Jon and Stannis Baratheon were often in each other’s company before Jon’s untimely end. Strangely, they visited brothels together, an oddity for men of their standing. With Petyr Baelish’s help, I’ve uncovered that they weren’t seeking pleasure, but rather checking on Robert’s many bastards. Why they were so concerned with the king’s illegitimate children, I cannot yet say."
+ got_bookmark.0002.a:0 "Perhaps the books he read would help me understand his mind better."
+ got_bookmark.0002.a.tt:0 "You will ask Grand Maester Pycelle for any books Jon Arryn had been reading."
+ 
+ got_bookmark.0003.t:0 "Abominations of Incest"
+ got_bookmark.0003_desc:0 "I've learned the cold truth that Jon Arryn had died for. The King has no trueborn sons. Every single one of Robert's bastards had his black hair and every Baratheon before him as well. The Queen erased any doubt in my mind when she confessed privately that the Kingslayer, Jamie Lannister, is the father of Joffrey, Tommen, and Mrycella. \n \n What is worse, Robert has been mortally wounded on his hunt. On his deathbed, Robert asks me to help Joffrey rule. But Joffrey is not his heir and I cannot bear to tell him."
+ got_bookmark.0003.a:0 "The throne must pass to Robert's heir, Stannis."
+ got_bookmark.0003.a.tt:0 "With the assistance of Petyr Baelish and the City Watch, I will take the pretender into custody and invite Stannis to take his seat on the Iron Throne."
+ 
+ got_bookmark.0003.b:0 "The realm must know. Jon is the true heir."
+ got_bookmark.0003.b.tt:0 "I will reveal the truth. Jon Snow is not a bastard or my son. He is the son of Rhaegar Targaryen and my sister Lyanna. The throne belongs to him and I will see him on it after Robert passes."
+ 
+ 
+ 
+ got_bookmark.0004.t:0 "Eddard Stark, Traitor to the Realm"
+ got_bookmark.0004_desc:0 "After Robert's death, we made our move on the throne room. With the City Watch and my own household guard, I believed the transition of power in King’s Landing would be swift and uncontested. But we were betrayed. Janos Slynt and Petyr Baelish turned on us, sealing our fate. My entire household was cut down, and my daughters now languish in the hands of these treacherous men.\n\nFor a fleeting moment, I thought mercy had been granted. They offered me the chance to take the Black, and I believed my family’s safety had been assured. But upon the steps of the Sept of Baelor, Joffrey shattered that hope. He called for my head. Ser Ilyn Payne stepped forward, wielding Ice—House Stark’s ancestral greatsword—ready to deliver the final blow."
+ got_bookmark.0004.a:0 "Robb... he's just a boy."
+ got_bookmark.0004.a.tt:0 "Ned is beheaded and his head mounted on a spike. Sansa is held a prisoner. Arya has dissapeared. How will Robb Stark respond?"
+ 
+ got_bookmark.0004.b:0 "That's Arya! She is in the crowd, hanging off the statue of Baelor!"
+ got_bookmark.0004.b.tt:0 "Arya willl flee the capitol."
+ 
+ got_bookmark.0004.c:0 "Lyanna... I'm sorry."
+ got_bookmark.0004.c.tt:0 "Ned fears that he has not kept his promise."
+ 
+ 
+ got_bookmark.0005.t:0 "Stannis Baratheon, the King Who Cared"
+ got_bookmark.0005_desc:0 "The realm was a rotting carcass, and it sickened him to watch the crows pick at it while others danced on the bones. Robert had left it to ruin, seven kingdoms he never cared to rule, seven kingdom he had squandered. Renly, that preening fool, now thinks he will win it with smiles and pretty words, but Stannis knew better. He had always known better. But now the Iron Throne was his by right. If the realm needed saving, he would save it, but there would be no songs, no feasts, no laughter in his reign. Only the cold truth of his will, and the fire to scour the false kings from his throne."
+ got_bookmark.0005.a:0 "By right of birth and blood I do lay claim to the Iron Throne."
+ got_bookmark.0005.a.tt:0 "The War Begins."
+ 
+ 
+  got_bookmark.0007.t:0 "Balon Greyjoy, the Kraken"
+ got_bookmark.0007_desc:0 "Balon Greyjoy stood by the window, staring out at the roiling waves beneath Pyke’s cliffs, the salt wind biting at his face like an old lover’s cruel caress. Theon had returned, not as the boy he’d sent away, but as a Stark in all but name, dressed in their furs and talking of alliances, of bending the knee to wolves while the lions sharpened their claws on the riverlands. He spoke of Robb Stark as a brother, as if Balon’s blood ran thin in his veins. The thought was a bitter one, like swallowing seawater. Yet... there was sense in it, if he could but choke down the bile. Let the Stark boy bleed the lions dry, and when they were spent, Balon could rise, not as a servant to some wolf or stag, but as a true ruler of Salt and Rock. However, with Stark fighting in the South, perhaps his own lands lay undefended. One thing was for certain, Balon had knelt once, and that had cost him everything. Never again. The Ironborn do not sow."
+ got_bookmark.0007.b:0 "The North shall be mine."
+ got_bookmark.0007.b.tt:0 "The Ironborn shall carve out a new realm off the shores of the North."
+  got_bookmark.0007.a:0 "I accept the Young Wolf's offer."
+ got_bookmark.0007.a.tt:0 "The Westermen will fear us again!"
+ 
+  got_bookmark.0006.t:0 "Renly Baratheon"
+ got_bookmark.0006_desc:0 "A king must be loved, Loras had whispered, his breath warm against Renly’s ear the night before. And gods, how right he was. Renly knew in his heart he was the better man to wear the crown, the one who could unite them all—high lords and smallfolk alike. And yet... Stannis. His brother. Cold, humorless, hard as iron, but Renly could still see the older brother he once loved. Could he truly snatch the crown from Stannis's grasp? The thought left a bitter taste in his mouth, though Loras was always there to sweeten it."
+ got_bookmark.0006.a:0 "Stannis is not a King. I am."
+ got_bookmark.0006.a.tt:0 "I will claim the throne. Loras will go to Highgarden to solicit Lord Tyrell's help and secure Margaery's hand in marriage."
+  got_bookmark.0006.b:0 "I cannot go against my brother."
+ got_bookmark.0006.b.tt:0 "I will support Stannis in his war for the Iron Throne."
+ 
+ 
+ got_bookmark.0009.t:0 "Robert Baratheon"
+ got_bookmark.0009_desc:0 "We were on the hunt, having a grand old time. My squire lancel had been extra helpful serving fortified wine. Unfortunately, the boar impaled me with its tusk. On my death bed, I ask Ned to help Joffrey. "
+ got_bookmark.0009.a:0 "Give me something for the pain and let me die."
+ got_bookmark.0009.a.tt:0 "An unfortunate ending."
+ 
+ 
+ 
+ got_bookmark.00061.t:0 "The Young Wolf"
+ got_bookmark.00061_desc:0 "I marched south to free my father but now my father is dead. The Lannisters will pay for this. \n \n When news had reached his camp of northerners and riverlords, the calls for justice and war had reached a fever pitch.\n\n The gathering was in a heated debate on how to continue and who to support. Stannis was Robert Baratheon's heir. However a strong sentiment has arisen amongst my bannermen that they will not bend their knees to a southern king again. They mean to declare me King in the North, the title of my forebears"
+ got_bookmark.00061.a:0 "The King in the North!"
+ got_bookmark.00061.a.tt:0 "House Stark renounces it fealty to the Iron Throne and the Kingdom of the North and the Riverlands is formed."
+ got_bookmark.00061.b:0 "My father died for Stannis, we must fight for the rightful heir."
+ got_bookmark.00061.b.tt:0 "The North and the Riverlands will support Stannis' claim on the Iron Throne"
+ got_bookmark.00061.c:0 "My brother Jon is the true heir!"
+ got_bookmark.00061.c.tt:0 "The North and the Riverlands will fight to install Jon on the Iron Throne``"
+ 
+ 
+ 
+ got_bookmark.0013.t:0 "This is my Destiny"
+ got_bookmark.0013_desc:0 "Renly stole my bannermen. He has broken not only the laws of the realm by attempting to usurp my throne, he has broken the laws of blood by betraying his elder brother. Something I would have never done despite how Robert treated me.\n\n Lady Melisandre says she has seen my brother's army bend the knee to me. That I will sit upon the throne. But first, she says, there must be sacrifices. My brother must die."
+ got_bookmark.0013.a:0 "Agree to Melisandre's plans."
+ got_bookmark.0013.a.tt:0 "You and Melisandre will come together to bring an end to Renly's usurpation."
+ got_bookmark.0013.b:0 "This is not right."
+ got_bookmark.0013.b.tt:0 "You forsake Melisandre and her faith."
+ 
+ 
+ 
+ got_bookmark.0014.t:0 "A Shadowed Assassin"
+ got_bookmark.0014_desc:0 "A Shadow approaches me in the middle of the night. If I did not know better, it looked like my brother Stannis. But that is impossible! Before I can react, I feel a sharp pain in my chest. Blood begins to spill out. It all goes dark."
+ got_bookmark.0014.a:0 "no...."
+ got_bookmark.0014.a.tt:0 "Renly has been assassinated by the dark magic of Melisandre"
+ got_bookmark.0014.b:0 "I hope I am not forgotten."
+ got_bookmark.0014.b.tt:0 "Renly has been assassinated by the dark magic of Melisandre. Brienne of Tarth will set off. Perhaps she will bring justice for Renly eventually."
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ got_bookmark.0008.t:0 "Margaery WILL be Queen (again!)"
+ got_bookmark.0008_desc:0 "With the death of Renly Baratheon, The Lannisters and Joffrey Baratheon appear to be in a strong position to hold the throne. If my daughter is to be queen, she will have to marry Joffrey. Petyr Baelish has arrived with this offer for us to join forces with the crown. He has told my mother Olenna that Joffrey is a kind boy but with his arrival there also came whispers that he has a cruel and sadistic side."
+
+ 
+ got_bookmark.0015.t:0 "Margaery WILL be Queen."
+ got_bookmark.0015_desc:0 "As the Game of Thrones unfolds, the power of The Reach is the biggest cyvasse piece on the board. Through my son Loras we have ties to Storm's End, the young and handsome Renly Baratheon. He tells me he is quite gentle, a good match for my Margaery. Although of course Joffrey sits the Iron Throne and is backed by the mighty Tywin Lannister."
+ got_bookmark.0015.a:0 "Margaery will marry Renly."
+ got_bookmark.0015.a.tt:0 "House Tyrell and House Baratheon of Storm's End will enter into an eternal alliance, one that shall never be broken!"
+ got_bookmark.0015.b:0 "Margaery will marry Joffrey."
+ got_bookmark.0015.b.tt:0 "An alliance with the Lannisters is a smart decision."
+ got_bookmark.0015.c:0 "I shall decide later."
+ got_bookmark.0015.c.tt:0 "Margaery will remain unwed."
+ 
+ 
+ 
+ got_bookmark.0011_opening:0 "To all Lords of the Realm"
+ got_bookmark.0011_desc:0 "My brother Robert left no trueborn issue of his body, the boy Joffrey, the boy Tommen, and the girl Myrcella all being abominations born of incest between Cersei Lannister and her brother Ser Jaime Lannister the Kingslayer. By right of birth and blood, I do this day lay claim to the Iron Throne of the Seven Kingdoms of Westeros. Let all true men declare their loyalty."
+ got_bookmark.0011.a:0 "Is this true!?"
+  got_bookmark.0011.a.tt:0 "Stannis has declared war for the Iron Throne."
+  
+  
+  got_bookmark.2000.t:0 "My Duty"
+ got_bookmark.2000_desc:0 "In order to cross his bridge, my mother had to arrange a betrothal with the Late Lord Walder Frey. My honor and the honor of my house requires I keep this vow.\n \n However, I have found myself in a.... troublesome situation.\n\n\n I will have to make a hard choice."
+ got_bookmark.2000.a:0 "I will do my duty."
+ got_bookmark.2000.a.tt:0 "You will keep your oath to Marry Lord Walder's daughter."
+ got_bookmark.2000.b:0 "I cannot abandon Jeyne."
+ got_bookmark.2000.b.tt:0 "You will wed Jeyne immediately."
+ got_bookmark.2000.c:0 "I will decide my own path."
+ got_bookmark.2000.c.tt:0 "You will be free to make your own plans."
+ 
+   got_bookmark.2001.t:0 "The Sack of Winterfell"
+ got_bookmark.2001_desc:0 "A raven arrived from home. Apparently Theon returned to Winterfell, scaled the walls, and claimed our castle for himself. Of course, he could not hold the castle but the damage is dealth with the loss of Bran and Rickon. Mother was right, never trust a Greyjoy."
+ got_bookmark.2001.a:0 "Turncloak"
+ got_bookmark.2001.a.tt:0 "Theon has betrayed us."
+ 
+    got_bookmark.2002.t:0 "The Future of House Stark"
+ got_bookmark.2002_desc:0 "With the loss of my brothers, my heir should I fall in battle is unclear. My mother suggests distant cousins. But I still have another brother, my closest friend."
+ got_bookmark.2002.a:0 "Jon will be my heir"
+ got_bookmark.2002.a.tt:0 "Jon Snow will be legitimized and officially named your heir."
+  got_bookmark.2002.b:0 "This isn't necessary."
+ got_bookmark.2002.b.tt:0 "The succession is unchanged."
+ 
+agot_events_more_bookmarks_misc.1.t:0 "The Uncrowned"
+agot_events_more_bookmarks_misc.1.desc:0 "[maegor.GetFullName] has stolen my crown."
+ 
+  

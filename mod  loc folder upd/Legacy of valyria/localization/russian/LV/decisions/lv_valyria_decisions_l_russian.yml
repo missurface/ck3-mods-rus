@@ -1,0 +1,14 @@
+﻿l_russian:
+   # Decision group 
+ decision_group_type_valyria: "Решения Валирии"
+  
+ decision_study_dragonlore.t: "Изучить Драконьи Легенды"
+ decision_study_dragonlore_desc: "Прочитайте старинный том о драконьих легендах, который был найден в Древней Валирии."
+ decision_study_dragonlore_tooltip: "Вы будете изучать драконьи мифы."
+ decision_study_dragonlore_confirm: "Время изучить драконов"
+ has_dragonlore_book: "Имеет книгу о драконьих легендах"
+ has_not_read_dragonlore_book: "Не читал книгу о драконьих легендах"
+  
+ unite_valyria_empire_decision: "Объединить Королевство"
+ unite_valyria_empire_decision_desc: "Восстановите сердце некогда могущественного Вальрийского Свободного Царства."
+ unite_valyria_empire_decision_effect_tooltip: "Объедините раздробленные земли Валирии, а также все другие земли, которые вы завоевали."

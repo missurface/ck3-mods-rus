@@ -1,0 +1,13 @@
+﻿l_russian:
+ agot_dragon_personality.0015.warning.desc: "В течение нескольких недель вы посещали свою драконью яму, чтобы наблюдать за растущими драконами. Всё кажется нормальным. За исключением поведения [growing_dragon.GetFirstName].\n\n"
+ agot_dragon_personality.0015.aggressive.desc: "Драконоблюстители сообщают о крайней агрессии со стороны [growing_dragon.Custom('GetDragonHerHis')] по отношению к сверстникам, и в результате [growing_dragon.GetSheHe] стал изгоем, так как ближайшие драконы, похоже, ощущают опасность или агрессию [growing_dragon.Custom('GetDragonHerHis')]. Во время одного из боёв [growing_dragon.GetSheHe] пытался порвать плоть [growing_dragon_victim.GetFirstName].\n\n"
+ agot_dragon_personality.0015.voracious.desc: "[growing_dragon.GetFirstName] имеет обычный ненасытный интерес к живому мясу, но это, похоже, ослабло в последнее время, так как [growing_dragon.GetSheHe] теперь наблюдает за [growing_dragon_victim.GetFirstName] с хищным взглядом во время кормлений.\n\n"
+ agot_dragon_personality.0015.voracious_aggressive_bloodthirsty.desc: "[growing_dragon.GetFirstName] также имеет обычный ненасытный интерес к живому мясу, но это, похоже, ослабло в последнее время, так как [growing_dragon.GetSheHe] теперь наблюдает за [growing_dragon_victim.GetFirstName] с хищным взглядом во время кормлений.\n\n"
+ agot_dragon_personality.0015.warning.end: "Наблюдая за [growing_dragon.GetFirstName], вы понимаете, что у [growing_dragon.GetSheHe] каннибалистические наклонности. К счастью, [growing_dragon.GetSheHe] ещё не поел драконьей плоти, но вам нужно действовать, чтобы разлучить [growing_dragon.GetHerHim] и исправить это поведение."
+ agot_dragon_personality.0015.d: "Это неприемлемо! Я буду учить этого дракона!"
+  
+ agot_dragon_personality.0015.d.f: "Вы разлучаете [growing_dragon.GetFirstName] с другими драконами и начинаете учить [growing_dragon.GetHerHim]"
+ agot_dragon_personality.0015.d.success: "Ваш дракон больше не является каннибалом"
+ agot_dragon_personality.0015.d.success.tt: "Каннибализм исправлен"
+ agot_dragon_personality.0015.d.failure: "Ваш дракон продолжает быть каннибалом"
+ agot_dragon_personality.0015.d.failure.tt: "Исправление каннибализма не удалось"

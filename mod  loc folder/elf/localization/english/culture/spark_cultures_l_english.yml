@@ -1,0 +1,35 @@
+﻿l_english:
+  # ========= CULTURES =========
+ culture_elf:0 "Elven"
+ culture_elf_prefix:0 "Elven"
+ culture_elf_collective_noun:0 "Fey"
+
+ elf_culture_gwynthorn:0 "Snow Elf"
+ elf_culture_gwynthorn_prefix:0 "Snow Elven"
+ elf_culture_gwynthorn_collective_noun:0 "Fey"
+
+ elf_culture_daelurin:0 "Sun Elf"
+ elf_culture_daelurin_prefix:0 "Sun Elven"
+ elf_culture_daelurin_collective_noun:0 "Fey"
+ 
+ elf_culture_serelion:0 "Wood Elf"
+ elf_culture_serelion_prefix:0 "Wood Elven"
+ elf_culture_serelion_collective_noun:0 "Fey"
+ 
+ elf_culture_thundarael:0 "High Elf"
+ elf_culture_thundarael_prefix:0 "High Elven"
+ elf_culture_thundarael_collective_noun:0 "Fey"
+ 
+ elf_culture_valerith:0 "Sand Elf"
+ elf_culture_valerith_prefix:0 "Sand Elven"
+ elf_culture_valerith_collective_noun:0 "Fey"
+
+ elf_culture_lormelis:0 "Sea Elf"
+ elf_culture_lormelis_prefix:0 "Sea Elven"
+ elf_culture_lormelis_collective_noun:0 "Fey"
+ 
+ 
+ heritage_elf_name:0 "Elf"
+ heritage_elf_collective_noun:0 "Fey"
+
+ elf_group_coa_gfx: "Elven"

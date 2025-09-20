@@ -1,0 +1,295 @@
+﻿l_russian:
+  
+ ##################### 
+ # At the Crossroads # 
+ ##################### 
+ agot_travel_events.0001.t: "Путешествие: На Перекрестке" #NT!  
+ agot_travel_events.0001.desc: "Продвигаясь по Речным землям, мы замечаем у перекрестка трехэтажный постоялый двор.\n\nВскоре до нас доносятся громкие голоса и аромат свежей выпечки... такой сладкий, что кажется, будто чувствуешь вкус на языке.\n\nСпутники явно не против передышки." #NT!  
+ agot_travel_events.0001.a: "Отличное место для ночлега." #NT!  
+ agot_travel_events.0001.a.tt: "Вы останавливаетесь в трактире." #NT!  
+ agot_travel_events.0001.b: "Отдохнем по прибытии." #NT!  
+ agot_travel_events.0001.b.tt: "Вы продолжаете путь." #NT!  
+  
+ agot_travel_events.0002.t: "Путешествие: Трактир" #NT!  
+ agot_travel_events.0002.desc: "Мы прибыли как нельзя кстати — трактир полон жизни и смеха.\n\nУ дальней стены группа рыцарей осушает кубки. Судя по виду, они здесь давно... Может, присоединиться?\n\nРядом [fellow_traveler.GetName] предлагает разделить кубок медовухи. Или лучше провести время с [fellow_traveler.GetHerHim] на свежем воздухе?" #NT!  
+ agot_travel_events.0002.a: "Останусь со своими." #NT!  
+ agot_travel_events.0002.gregarious: "Трактирщик! Ваше лучшее пиво сюда!" #NT!  
+ agot_travel_events.0002.gregarious.tt: "Спутники получают #P +20#! к [opinion|E] о вас" #NT!  
+ agot_travel_events.0002.b: "Подойти к рыцарям." #NT!  
+ agot_travel_events.0002.b.tt: "Кажется, они дружелюбны?" #NT!  
+ agot_travel_events.0002.c: "Прогуляюсь с [fellow_traveler.GetName]." #NT!  
+ agot_travel_events.0002.c.tt: "Вы отправляетесь на прогулку." #NT!  
+ agot_travel_events.0002.gluttonous: "А лимонные пирожные у вас есть?" #NT!  
+ agot_travel_events.0002.gluttonous.tt: "Лимонные, лимонные, лимонные..." #NT!  
+  
+ agot_travel_events.0003.t: "На Перекрестке: Разочарованный Наемник" #NT!  
+ agot_travel_events.0003.desc:0 "Среди шумной компании встречаю [sellsword.GetFullName] — лидера отряда. Угрюмое лицо выдает [sellsword.GetHerHis] проблемы.\n\n"Честно говоря, [ROOT.Char.GetTitleAsNameNoTooltip], дела идут хуже некуда. Большинство моих людей погибли или сбежали. Если не найду контракт — остальные разбегутся... или хуже."\n\nОсушив кубок, [sellsword.GetSheHe] добавляет: "Может, эта жизнь не для меня? Вернулся бы домой..." Но сквозь горечь в глазах читается решимость." #NT!  
+ agot_travel_events.0003.a: "Не отчаивайся, у меня для тебя работа." #NT!  
+ agot_travel_events.0003.b: "Наняю твоих людей — иди на свободу." #NT!  
+ agot_travel_events.0003.c: "Наемникам доверять нельзя." #NT!  
+  
+ agot_travel_events.0004.t: "На Перекрестке: Пьяный Рыцарь" #NT!  
+ agot_travel_events.0004.desc:0 "При моем приближении крупный рыцарь багровеет. Внезапно [drunk_knight.GetSheHe] вскакивает, крича: "Ну-ну! Кого я вижу! Сам[ROOT.Char.GetEnding] [ROOT.Char.GetName]!"\n\nНе узнаю [drunk_knight.GetHerHim], но [drunk_knight.GetSheHe] уже обнажает меч: "Интересно, ты и вправду так хорош[ROOT.Char.GetEnding], как говорят? Или просто трус в роскошных доспехах?"\n\nВ трактире воцаряется тишина — все взгляды устремлены на меня." #NT!  
+ agot_travel_events.0004.a: "Хочешь драки? Получишь!" #NT!  
+ agot_travel_events.0004.a.success: "Вы победили рыцаря!" #NT!  
+ agot_travel_events.0004.a.failure: "Рыцарь унизил вас." #NT!  
+ agot_travel_events.0004.b: "Хочешь славы? Присоединяйся ко мне!" #NT!  
+ agot_travel_events.0004.b.success: "Вы убедили рыцаря!" #NT!  
+ agot_travel_events.0004.b.failure: "Рыцарь насмехается над вами." #NT!  
+ agot_travel_events.0004.c: "[ROOT.Char.GetFirstNameNoTooltip]? Вы меня с кем-то путаете..." #NT!  
+ agot_travel_events.0004.c.success: "Вы убедили рыцаря!" #NT!  
+ agot_travel_events.0004.c.success.tt: "Рыцарь оставляет вас в покое." #NT!  
+ agot_travel_events.0004.c.failure: "Вы опозорились." #NT!
+  
+ agot_travel_events.0005.t: "На Перекрестке: Танец Пальцев" #NT!  
+ agot_travel_events.0005.desc:0 "Возвращаясь в трактир, слышу грохот — двое метают топоры друг в друга! Один замечает меня и кричит: "Хочешь присоединиться?"\n\n"Зовется Танцем Пальцев, — поясняет [drunk_ironborn.GetFirstName]. — Лови топор или уклоняйся, не сбивая шага."\n\n"Такой воин как ты справится запросто!" — хохочет [drunk_ironborn.GetSheHe|l]." #NT!  
+ agot_travel_events.0005.a: "Звучит просто!" #NT!  
+ agot_travel_events.0005.b: "Если выиграю — твой топор мой!" #NT!  
+ agot_travel_events.0005.success: "Вы побеждаете." #NT!  
+ ironborn_axe: "Топор Железнорожденного" #NT!  
+ ironborn_axe_description: "Традиционный топор с Железных Островов из чистой стали. Принадлежал [drunk_ironborn.GetFullName] — страннику-железнорожденцу. Выигран в Танце Пальцев [ROOT.Char.GetFullName]." #NT!  
+ agot_travel_events.0005.failure: "Топор настигает вас" #NT!  
+ agot_travel_events.0005.c: "ХА! Метание топоров? Из тебя выйдет отличный шут!" #NT!  
+ agot_travel_events.0005.c.success: "[drunk_ironborn.GetSheHe|U]... соглашается..." #NT!  
+ agot_travel_events.0005.c.failure: "Вы оскорбляете железнорожденца." #NT!  
+ cultural_acceptance_mocked_customs: "Насмешка над обычаями" #NT!  
+ agot_travel_events.0005.d: "Перекрестки сводят странных попутчиков..." #NT!  
+ agot_travel_events.0005.d.tt: "Оставить железнорожденцев их играм." #NT!  
+  
+ agot_travel_events.0006.t: "Путешествие: Проблемы в Трактире" #NT!  
+ agot_travel_events.0006.desc:0 "Приблизившись, чувствуем напряжение. Внутри — перевернутые столы и осколки.\n\nТрактирщик встречает нас с тревогой: "Приблизившись, чувствуем напряжение. Внутри — перевернутые столы и осколки."\n"Нужны умелые руки..."" #NT!  
+ agot_travel_events.0006.a: "Останемся и поможем." #NT!  
+ agot_travel_events.0006.a.brave: "Защита слабых — мой долг." #NT!  
+ agot_travel_events.0006.a.tt: "Вы соглашаетесь сразиться с бандитами." #NT!  
+ agot_travel_events.0006.b: "Помогу... за достойную плату." #NT!  
+ agot_travel_events.0006.b.success: "Трактирщик платит за защиту." #NT!  
+ agot_travel_events.0006.b.failure: "Трактирщик гневается и выгоняет вас." #NT!  
+ agot_travel_events.0006.c: "Мы лишь проезжие." #NT!  
+  
+ agot_travel_events.0007.t: "На Перекрестке: Засада" #NT!  
+ agot_travel_events.0007.desc:0 "При подготовке [fellow_knight.GetName] предлагает: "[ROOT.Char.GetTitleAsNameNoTooltip], ждать — ошибка. Возьмите местных проводников — обойдем бандитов с тыла."" #NT!  
+ agot_travel_events.0007.a: "Не рисковать — сразимся вместе." #NT!  
+ agot_travel_events.0007.a.tt: "Вы ждете подхода бандитов." #NT!  
+ agot_travel_events.0007.b: "Хорошо, жду вашего возвращения." #NT!  
+ agot_travel_events.0007.b.tt: "[fellow_knight.GetSheHe|U] может быть прав[^gender_suffix]..." #NT!  
+ agot_travel_events.0007.b.success: "Засада удалась." #NT!  
+ agot_travel_events.0007.b.fail: "Ваш рыцарь не возвращается." #NT!  
+  
+ agot_travel_events.0008.t: "На Перекрестке: Лже-Рыцарь" #NT!  
+ agot_travel_events.0008.desc: "Бандиты во главе с "сером" [evil_bandit.GetFullNameNicknamed] возвращаются за добычей.\n\nВоины ждут команды. Каков будет приказ?" #NT!  
+ agot_travel_events.0008.a: "Я сам[ROOT.Char.GetEnding] расправлюсь с предводителем." #NT!  
+ agot_travel_events.0008.a.tt: "Начинается дуэль с [evil_bandit.GetFirstName]." #NT!  
+ agot_travel_events.0008.b: "Атаковать всем отрядом." #NT!  
+ agot_travel_events.0008.b.success: "Вы разбиваете бандитов." #NT!  
+ agot_travel_events.0008.b.failure: "Вас отбрасывают, приходится бежать." #NT!  
+ agot_travel_events.0008.c: "БЕЖАТЬ! БЕЖАТЬ!!" #NT!  
+ agot_travel_events.0008.c.escape: "Чудом удается сбежать..." #NT!  
+ agot_travel_events.0008.c.wounded: "Вас ранят стрелой!" #NT! 
+  
+  #agot_travel_events.0009 - Maintenance event 
+  
+ agot_travel_events.0010.t: "На перепутье: Отправление" #NT!
+ agot_travel_events.0010.desc: "Собираясь в путь, [innkeeper.GetFirstName] подходит ко мне с маленькой деревянной шкатулкой.\n\n"Это немного, но всё что осталось после нападения. Примите в знак благодарности. Без вашей помощи не знаю, что бы стало с нами..."" #NT!  
+ agot_travel_events.0010.greed_desc: "Собираясь в путь, [innkeeper.GetFirstName] благодарит:\n\n"Без вас здесь случилось бы несчастье... Пусть дорога будет безопасной. О вашей доблести узнают все."" #NT!  
+ agot_travel_events.0010.a: "Прощайте." #NT!  
+ agot_travel_events.0010.aa: "Очень кстати." #NT!  
+ agot_travel_events.0010.b: "Не стоит. Я лишь исполнил долг." #NT!  
+ agot_travel_events.0010.b.tt: "Спутники отмечают ваше благородство (+#P 10#! к [opinion|E])." #NT!  
+  
+ agot_travel_events.0011.t: "На Перекрестке: Напрасная Трата Времени" #NT!  
+ agot_travel_events.0011.desc.intro: "Проходят дни, но кроме пьяниц никто не появляется. То ли страхи трактирщика были напрасны, то ли наше присутствие отпугнуло бандитов...\n\n" #NT!  
+ agot_travel_events.0011.wasgreedy: "Собирая коней, [innkeeper.GetFirstName] протягивает шкатулку:\n\n"Возьмите, хоть это и жалкая плата за ваш труд..."" #NT!  
+ agot_travel_events.0011.a: "Прощайте." #NT!  
+ agot_travel_events.0011.b: "Прощайте." #NT!  
+  
+ agot_travel_events.1000.t: "Винтерфелл: Прибытие" #NT!  
+ agot_travel_events.1000.desc: "Винтерфелл — твердыня дома [winterfell_lord.GetHouse.GetName], возвышающаяся над северными просторами.\n\nПо Королевскому Тракту прохожу через Винтертаун — ныне почти безлюдный. Восточные стены замка, почерневшие от времени, вздымаются на тридцать метров. Восточные Врата распахнуты: [winterfell_lord.GetFullName] встречает с хлебом-солью. Получив право гостя, исследую замок." #NT!  
+ agot_travel_events.1000.godswood: "Посещу легендарную #bold богорощу#! Старых Богов." #NT!  
+ agot_travel_events.1000.tombs: "Спущусь в прославленные #bold склепы#! — хранилище памяти Севера." #NT!  
+ agot_travel_events.1000.glass_gardens: "Пройдусь по #bold стеклянным садам#! — сердцу замка." #NT!  
+ agot_travel_events.1000.wintertown: "Лучше осмотрю Винтертаун и его... #italic телесные#! прелести." #NT!  
+ agot_travel_events.1000.opt_out: "Некогда тратить время на осмотры." #NT!  
+  
+ agot_travel_events.1001.t: "Винтерфелл: Богороща" #NT!  
+ agot_travel_events.1001.intro_old_gods: "Бродя меж деревьев, чувствую зов древнего дома — мрачная красота богорощи говорит со мной на забытом языке.\n\n" #NT!  
+ agot_travel_events.1001.intro_other: "Чувствую себя чужим в богороще, но её первобытная красота всё равно манит.\n\n" #NT!  
+ agot_travel_events.1001.desc: "Выхожу на поляну с горячим источником и Сердцевым Деревом. Приближаясь, ощущаю необъяснимый порыв." #NT!  
+ agot_travel_events.1001.a: "#bold Сердцевое Дерево#! — зов Старых Богов." #NT!  
+ agot_travel_events.1001.b: "#bold Горячий источник#! — его сила обновит тело." #NT!  
+  
+ agot_travel_events.1002.t: "Винтерфелл: Богороща" #NT!  
+ agot_travel_events.1002.desc: "Стоя на коленях перед деревом, обретаю покой.\n\nСлышу шелест ветвей, журчание воды, шаги зверей — и сквозь всё это #italic да#! — голос истинных богов." #NT!  
+ agot_travel_events.1002.a: "Я рожден заново — последователь [GetReligionByKey('old_gods_religion').GetName]." #NT!  
+ agot_travel_events.1002.b: "Я стал ближе к [GetReligionByKey('old_gods_religion').GetName]." #NT!  
+  
+ agot_travel_events.1003.t: "Винтерфелл: Богороща" #NT!  
+ agot_travel_events.1003.desc: "Погружаясь в источник, чувствую как тревоги покидают меня. Тепло воды противостоит морозному воздуху — такое утешение давно мне неведомо. Хоть здесь бы остаться, но дела ждут." #NT!  
+ agot_travel_events.1003.a: "Обретаю душевный покой." #NT!  
+  
+ agot_travel_events.1004.t: "Винтерфелл: Склепы" #NT!  
+ agot_travel_events.1004.desc: "Прохожу мимо древней Первой Крепости к железной двери склепов. Спускаясь в подземный лабиринт, ощущаю как холод вытесняет тепло живого мира.\n\nФакелы едва освещают путь. На развилке выбираю — #bold направо#! или #bold налево#!." #NT!  
+ agot_travel_events.1004.a: "Направо — там что-то блеснуло." #NT!  
+ agot_travel_events.1004.b: "Налево — там факел, значит путь там!" #NT!  
+  
+ agot_travel_events.1005.t: "Винтерфелл: Склепы" #NT!  
+ agot_travel_events.1005.intro: "В свете факела вижу статую коронованного мужа с мечом на коленях. Надпись на постаменте гласит:\n\n" #NT!  
+ agot_travel_events.1005.jon: "#bold [stark_ancestor.GetFullNameNicknamed]#! Король, изгнавший рейдеров с Востока и построивший Волчье Логово — предтечу Уайт-Харбора. Воитель и мудрый правитель." #NT!  
+ agot_travel_events.1005.brandon: "#bold [stark_ancestor.GetFullNameNicknamed]#! Союзник Джорамуна, сокрушивший Короля-Ночь и его Трупную Невесту. Защитник людей от ужасов Долгой Ночи." #NT!  
+ agot_travel_events.1005.theon: "#bold [stark_ancestor.GetFullNameNicknamed]#! Голодный Волк, гроза андалов и железнорожденцев. Завоеватель Андалоса — воитель, не знавший равных." #NT!  
+ agot_travel_events.1005.rodrik: "#bold [stark_ancestor.GetFullNameNicknamed]#! Легендарный воин, выигравший Медвежий Остров в поединке на руках. Покровитель дома Мормонтов." #NT!  
+ agot_travel_events.1005.a: "История здесь дышит в спину." #NT!
+  
+ agot_travel_events.1006.desc: "Вскоре паж находит меня в глубинах склепов и объявляет о скором начале трапезы. К счастью, он знает путь наружу и выводит меня к свету." #NT!  
+ agot_travel_events.1006.a: "Этот день я не забуду." #NT!  
+  
+ agot_travel_events.1007.t: "Винтерфелл: Склепы" #NT!  
+ agot_travel_events.1007.desc: "Я явно свернул не туда — теперь блуждаю в лабиринте коридоров. Факелы горят неровно, уводя всё глубже. #italic С каждым шагом холод усиливается.#!\n\nЧувствую странное тепло, исходящее от стен. За поворотом вижу нечто немыслимое...\n\nПередо мной #bold драконье яйцо#!! Оно установлено в особом держателе — явно не просто так. Но с какой целью?" #NT!  
+ agot_travel_events.1007.a: "Его место здесь." #NT!  
+ agot_travel_events.1007.b: "А почему бы и нет? Возьму-ка его!" #NT!  
+  
+ agot_travel_events.1008.t: "Винтерфелл: Стеклянные Сады" #NT!  
+ agot_travel_events.1008.desc: "Войдя в сады, ощущаю как жарко в мехах. Медные трубы подают пар из недр, питая ряды овощей даже зимой. В глубине вижу знаменитые #bold;color:{0.52,0.65,0.86} зимние розы#! — их бледно-голубые лепестки завораживают." #NT!  
+ agot_travel_events.1008.a: "Изучить инженерные решения для воссоздания" #NT!  
+ agot_travel_events.1008.b: "Может, попросить отросток?" #NT!  
+ agot_travel_events.1008.c: "Истинное чудо инженерной мысли." #NT!  
+ agot_travel_events_unlocked_glass_garden: "Разблокирована постройка: Стеклянные Сады" #NT!  
+  
+ agot_travel_events.1009.t: "Винтерфелл: Винтертаун" #NT!  
+ agot_travel_events.1009.desc: "В городке кипит жизнь: фермеры торгуют урожаем, ремесленники расхваливают товары, менестрели поют баллады...\n\nПо намёкам нахожу искомое место — таверну #bold Розы#!. Местные уверяют, что здесь можно хорошо провести время, а с моим кошельком — особенно." #NT!  
+ agot_travel_events.1009.a: "Пора тратить серебро..." #NT!  
+ agot_travel_events.1009.b: "Лучше просто выпью в таверне." #NT! 
+  
+  # A Dragon, I saw a dragon! 
+ agot_travel_events.0012.t: "Дракон! Я Видел Дракона!" #NT!  
+ agot_travel_events.0012.desc: "В [location.GetName] слышу спор старухи с сыном:\n\n"Дракон, огромный как гора! Летел прямо над нами!" — кричит она. "Опять твои фантазии?" — отмахивается он. "Все решат, что ты сумасшедшая!"\n\n"Убьёт нас всех — тогда поверишь!" — вопит старуха ему вслед." #NT!  
+ agot_travel_events.0012.a: "Дракон?! Немедленно искать!" #NT!  
+ agot_travel_events.0012.a.f: "Вы неделю ищете дракона." #NT!  
+ agot_travel_events.0012.a.toast.title: "Драконов Не Найдено" #NT!  
+ agot_travel_events.0012.a.toast.desc: "Поиски не дали результатов." #NT!  
+ agot_travel_events.0012.b: "Бедняжка, оплачу ей лечение." #NT!  
+ agot_travel_events.0012.b.f: "Вы нанимаете лекаря для старухи." #NT!  
+ agot_travel_events.0012.c: "Странный разговор..." #NT!  
+ agot_travel_events.0012.c.f: "Вы продолжаете путь." #NT!  
+ agot_travel_events.0012.d: "Она права! Я тоже видел!" #NT!  
+ agot_travel_events.0012.d.f: "Вы поддерживаете бредни старухи." #NT! 
+  
+  # Travel to the Myr Scholastic Guilds 
+ agot_travel_events.0013.t: "Мир: Учёные гильдии" #NT!  
+ agot_travel_events.0013.desc: "Пройдя через город, я натыкаюсь на группу учёных и студентов, погружённых в дискуссию. Это члены Учёных гильдий, горячо обсуждающие детали недавнего открытия. Слушая их, я понимаю, что это уникальный шанс перенять их знания." #NT!  
+ agot_travel_events.0013.a: "Пригласить учёных в свой город." #NT!  
+ agot_travel_events_unlocked_observatory: "Разблокировано герцогское здание: Обсерватория." #NT!  
+ agot_travel_events.0013.b: "Остановиться и поучаствовать в дискуссии." #NT!  
+ agot_travel_events.0013.c: "Продолжить путь." #NT!  
+  
+  # Maester Court Position Option 
+ maester_option_tt: "Вы должны нанять [GetCourtPositionType('maester_court_position').GetName], способного к путешествиям" #NT!  
+
+ agot_travel_events.2000.t: "Угроза [wild_dragon.GetNameNoTooltip]: Засада" #NT!  
+ agot_travel_events.2000.desc: "Путешествие через [location.GetNameNoTooltip] было спокойным — до этого момента. Однако лошади явно встревожены. Я понимаю причину слишком поздно...\n\nНад нами властно кружит дракон [wild_dragon.GetNameNicknamed]. Судя по его манёврам, мы обнаружены." #NT!  
+ agot_travel_events.2000.fight: "Поздно — готовиться к бою." #NT!  
+ agot_travel_events.2000.fight.tt: "Вы начнёте бой с [wild_dragon.GetNameNoTooltip]" #NT!  
+ agot_travel_events.2000.run: "БЕЖАТЬ!" #NT! 
+  
+  # Warband Tryouts 
+  
+ agot_travel_events.3000.t: "Испытания дружины" #NT!  
+ agot_travel_events.3000.desc: "Пока моя свита движется по землям [3000_county_liege.GetTitledFirstName], вдалеке раздаётся лязг грубого оружия. За поворотом я вижу [3000_county_liege.GetTitledFirstNameNoTooltip], стоящего(ую) на холме и наблюдающего за группой одичалых, соревнующихся в испытаниях силы. Их лица красны от напряжения, а лбы покрыты потом. Похоже, мы наткнулись на тренировочный лагерь [3000_county_liege.GetTitledFirstNameNoTooltip] для новой дружины." #NT!  
+ agot_travel_events.3000.kneeler.desc: "Продвигаясь сквозь негостеприимные земли одичалых, мы слышим лязг оружия и стоны усилий за поворотом. С мечами наголо мы бросаемся вперёд — но вместо битвы видим знатного одичалого, наблюдающего за испытаниями. [3000_county_liege.GetSheHe|U] оценивает дикарей, которые корчатся от натуги, пытаясь доказать силу." #NT!  
+ agot_travel_events.3000.a: "Я возьму одного!" #NT!  
+ agot_travel_events.3000.a.tt: "Вы используете престиж, чтобы выбрать участника." #NT!  
+ agot_travel_events.3000.b: "Послушай, [3000_county_liege.GetFirstNameNoTooltip], разве не честь для тебя, если я..." #NT!  
+ agot_travel_events.3000.b.tt: "Вы попытаетесь уговорить [3000_county_liege.GetFirstNameNoTooltip] отдать участника" #NT!  
+ agot_travel_events.3000.b.success.tt: "[3000_county_liege.GetNameNoTooltip] соглашается" #NT!  
+ agot_travel_events.3000.b.failure.tt: "[3000_county_liege.GetNameNoTooltip] оскорблён(а) предложением" #NT!  
+ agot_travel_events.3000.c: "Хочешь узнать, кто здесь лучший? Я покажу." #NT!  
+ agot_travel_events.3000.c.tt: "Вы вступите в поединок один на один" #NT!  
+ agot_travel_events.3000.d: "Оставим их заниматься своим делом." #NT!  
+ agot_travel_events.3000.d.tt: "Вы продолжите путь" #NT!  
+
+ agot_travel_events.3001.t: "$agot_travel_events.3000.t$: Кандидаты" #NT!  
+ agot_travel_events.3001.desc: "Подходя к участникам, я замечаю трёх перспективных: [skilled_fighter.GetName], известного(ую) мастерством; [fit_fighter.GetName], чья выносливость легендарна; и гиганта [big_fighter.GetName]. [3000_county_liege.GetName] подзывает их." #NT!  
+ agot_travel_events.3001.a: "Пусть сразятся — возьму победителя." #NT!  
+ agot_travel_events.3001.a.tt: "Победитель испытаний присоединится к вам" #NT!  
+ agot_travel_events.3001.b: "Исход ясен — я уже знаю, кто лучший." #NT!  
+ agot_travel_events.3001.b.tt: "Вы выберете фаворита испытаний" #NT!  
+
+ agot_travel_events.3002.t: "$agot_travel_events.3000.t$: Победитель" #NT!  
+ agot_travel_events.3002.desc: "После часов схваток с тяжестями и мечами финалисты сошлись в поединке. Клинки скрестились — и вскоре [tryouts_winner.GetName] повергает соперника в грязь." #NT!  
+ agot_travel_events.3002.a: "Вот мой чемпион." #NT!  
+
+ agot_travel_events.3003.t: "$agot_travel_events.3000.t$: Выбор" #NT!  
+ agot_travel_events.3003.desc: "Трое фаворитов явно лучшие в [ROOT.Char.GetCurrentLocation.GetNameNoTooltip]. Осталось выбрать." #NT!  
+ agot_travel_events.3003.a: "Мастерство важнее всего — беру [skilled_fighter.GetFirstNameNoTooltip]." #NT!  
+ agot_travel_events.3003.b: "Выносливость [fit_fighter.GetNamePossessive] вне конкуренции — выбираю [fit_fighter.GetHerHim]." #NT!  
+ agot_travel_events.3003.c: "С таким гигантом мне даже драться не придётся. [big_fighter.GetFirstNameNoTooltip]!" #NT!  
+
+ agot_travel_events.3010.t: "$agot_travel_events.3000.t$: Участие" #NT!  
+ agot_travel_events.3010.desc: "Пробиваюсь к началу толпы, готовясь к испытаниям. Но [3000_county_liege.GetName] останавливает меня, объявляя, что из-за моего статуса я сразу сразюсь с лучшим бойцом — грозным [first_duelist.GetName]." #NT!  
+ agot_travel_events.3010.a: "Ха! Посмотрим, на что способны здешние!" #NT!  
+ agot_travel_events.3010.a.tt: "Начнётся поединок с [first_duelist.GetNameNoTooltip]" #NT!  
+ agot_travel_events.3010.b: "Передумал(а) — не буду мешать." #NT!  
+ agot_travel_events.3010.b.tt: "Вы отказываетесь от поединка" #NT!  
+
+ agot_travel_events.3012.t: "$agot_travel_events.3000.t$: Триумф" #NT!  
+ agot_travel_events.3012.desc: "Клинки гремят в воздухе. В решающий момент я нахожу брешь и побеждаю. По лицу [3000_county_liege.GetNamePossessive] видно — это не тот исход, на который [3000_county_liege.GetSheHe] надеялся(лась). Но грех не воспользоваться победой." #NT!  
+ agot_travel_events.3012.a: "И это лучшие из [first_duelist.GetCulture.GetCollectiveNounNoTooltip]? Жалко." #NT!  
+ agot_travel_events.3012.a.tt: "Оскорбление запомнится надолго" #NT!  
+ agot_travel_events.3012.b: "Слабый вождь — слабая дружина, [3000_county_liege.GetFirstNameNoTooltip]." #NT!  
+ agot_travel_events.3012.b.tt: "[3000_county_liege.GetNameNoTooltip] не забудет этого унижения" #NT!  
+ agot_travel_events.3012.c: "Я здесь лучший — дружина теперь моя." #NT!  
+ agot_travel_events.3012.c.tt: "Вы заберёте лучших бойцов" #NT!  
+ agot_travel_events.3012.d: "Хороший бой, [first_duelist.GetFirstNameNoTooltip]. Служи [3000_county_liege.GetNameNoTooltip] верно." #NT!  
+ agot_travel_events.3012.d.tt: "[first_duelist.GetNameNoTooltip] присоединится к [3000_county_liege.GetNameNoTooltip]" #NT!
+  
+ agot_travel_events.3013.t: "$agot_travel_events.3000.t$: Повержен" #NT!  
+ agot_travel_events.3013.desc: "Мой клинок падает на землю, и я вынужден(а) сдаться. От насмешливых взглядов и смеха воинов кровь приливает к щекам. После такого унижения остаётся лишь один выход." #NT!  
+ agot_travel_events.3013.a: "Эм... Продолжайте в том же духе, а мы пойдём." #NT!  
+ agot_travel_events.3013.a.tt: "Вы уходите, униженный(ая)" #NT!  
+
+ agot_travel_events.3014.t: "$agot_travel_events.3000.t$: Поединок отменён" #NT!  
+ agot_travel_events.3014.desc: "Что-то пошло не так, и поединок отменён." #NT!  
+ agot_travel_events.3014.a: "Что ж, движемся дальше." #NT!  
+ agot_travel_events.3014.a.tt: "Путешествие продолжается" #NT!!
+  
+  #Laughter in the Trees 
+  
+ agot_travel_events.4000.t: "Смех среди деревьев" #NT!  
+ agot_travel_events.4000.desc: "Продвигаясь сквозь густой лес, я чувствую, что за нами следят. Шёпот листвы становится громче, а тревога на лицах спутников говорит, что они тоже это ощущают. Внезапно доносится смех — высокий, словно детский. К нему присоединяются другие голоса, и вскоре нас окружает жутковатый хор насмешливого хихиканья." #NT!  
+ agot_travel_events.4000.unknownchildren.desc: "Я пытаюсь разглядеть силуэты среди деревьев, но лес слишком плотный. Источник смеха остаётся загадкой — и это тревожит." #NT!  
+ agot_travel_events.4000.knownchildren.desc: "Ясно лишь одно: за нами наблюдают Дети Леса." #NT!  
+ agot_travel_events.4000.a: "Вы смеете смеяться над [ROOT.Char.GetTitleAsNameNoTooltip|U]? Я вам покажу!" #NT!  
+ agot_travel_events.4000.a.tt: "Вы бросаетесь в погоню за голосами, чтобы наказать наглецов" #NT!  
+ agot_travel_events.4000.b: "Дети Леса не опасны — разобьём лагерь здесь." #NT!  
+ agot_travel_events.4000.b.tt: "Вы разбиваете лагерь, позволяя наблюдателям удовлетворить любопытство" #NT!  
+ agot_travel_events.4000.c.knownchildren: "Этим уродам доверять нельзя — уходим немедленно!" #NT!  
+ agot_travel_events.4000.c.unknownchildren: "Нужно бежать из этого проклятого леса." #NT!  
+ agot_travel_events.4000.c.tt: "Вы приказываете ускориться и двигаться дальше" #NT!  
+
+ agot_travel_events.4001.t: "$agot_travel_events.4000.t$: Погоня за ветром" #NT!  
+ agot_travel_events.4001.desc: "Охваченный(ая) яростью, я бросаюсь в чащу. Смех не стихает, но сколько бы я ни бежал(а), источник остаётся неуловимым. Вскоре я понимаю, что оторвался(лась) от своих. Окружающий смех теперь звучит не насмешливо, а презрительно." #NT!  
+ agot_travel_events.4001.a: "Покажитесь, или я спалю весь лес дотла!" #NT!  
+ agot_travel_events.4001.a.tt: "Вы пытаетесь выманить голоса угрозами" #NT!  
+ agot_travel_events.4001.b: "Я... не стоило лезть сюда." #NT!  
+ agot_travel_events.4001.b.tt: "Вы пытаетесь вернуться, униженный(ая)" #NT!  
+
+ agot_travel_events.4002.t: "$agot_travel_events.4000.t$: Концерт окончен" #NT!  
+ agot_travel_events.4002.desc: "Смех резко обрывается. Слышен шёпот, а затем скрип дерева — будто десятки луков натягиваются разом." #NT!  
+ agot_travel_events.4002.a: "Думаете, вы мо…#XB ААА!#!" #NT!  
+ agot_travel_events.4002.a.tt: "Сознание гаснет под финальный залп смеха" #NT!  
+
+ agot_travel_events.4003.t: "$agot_travel_events.4000.t$: Вечерняя песнь" #NT!  
+ agot_travel_events.4003.desc: "Смех сопровождает нас до поляны, где мы разбиваем лагерь. Дети Леса явно потешаются над нашими усилиями, но к ночи смех сменяется песней. Их голоса прекраснее всего, что мы слышали. [other_traveller.GetName] шепчет со слезами на глазах: "Я отдал(а) бы всё, чтобы это не кончалось"." #NT!  
+ agot_travel_events.4003.a: "Оставим им подарок." #NT!  
+ agot_travel_events.4003.a.tt: "Вы оставите припасы для Детей Леса" #NT!  
+ agot_travel_events.4003.b: "Такие менестрели заслуживают награды." #NT!  
+ agot_travel_events.4003.b.tt: "Вы подарите Детям Леса свой [artifact_gift.GetName]" #NT!  
+ agot_travel_events.4003.c: "Тише... давайте просто послушаем." #NT!  
+ agot_travel_events.4003.c.tt: "Вы засыпаете под их песню" #NT!  
+
+ agot_travel_events.4004.t: "$agot_travel_events.4000.t$: Утро после" #NT!  
+ agot_travel_events.4004.desc: "Рассвет застаёт меня в прекрасном настроении. Детей Леса не слышно, но воспоминания о вчерашнем ещё свежи." #NT!  
+ agot_travel_events.4004.gotreward.desc: "\n\n На краю лагеря исчез наш подарок, но вместо него лежит свёрток. Внутри — [reward_artifact.GetName]." #NT!  
+ agot_travel_events.4004.a.gotreward: "Щедро с их стороны." #NT!  
+ agot_travel_events.4004.a.noreward: "Было приятно." #NT!  
+ agot_travel_events.4004.a.tt: "Путешествие продолжается" #NT! 
+  

@@ -1,0 +1,59 @@
+﻿l_russian:
+ artifact_blackfyre_name: "Черное Пламя"
+ artifact_blackfyre_description: "Черное Пламя - легендарный полуторный меч из валирийской стали, которым когда-то владел Эйгон Завоеватель. Это самый известный из нескольких артефактов из валирийской стали, принадлежащих дому Таргариенов."
+ artifact_darksister_name: "Темная Сестра"
+ artifact_darksister_description: "Темная Сестра - знаменитый длинный меч из валирийской стали. Это один из двух родовых мечей дома Таргариенов, второй - Черное Пламя."
+  
+ artifact_seafoam_name: "Морская Пена"
+ artifact_seafoam_description: "Морская Пена - легендарная полуторная сабля из валирийской стали, принадлежащая Дому Валирион."
+  
+ artifact_calamity_name: "Бедствие"
+ artifact_calamity_description: "Бедствие - брутальный топор из валирийской стали, принадлежащий дому Селтигар."
+  
+ artifact_subterfuge_name: "Коварство"
+ artifact_subterfuge_description: "Коварство - скрытый кинжал из валирийской стали, принадлежащий дому Кохерис. Говорят, что этот кинжал участвовал в возвышении и падении многих правителей Старой Валирии"
+  
+ artifact_aegons_crown_name: "Корона Эйгона I"
+ artifact_aegons_crown_desc: "Корона Эйгона I - это обруч из валирийской стали с множеством квадратных рубинов, украшающих его. Это один из немногих артефактов, переживших гибель Валирии."
+  
+ artifact_aegon_dagger_name: "Кинжал Эйгона"
+ artifact_aegon_dagger_description: "Кинжал Эйгона - малоизвестный клинок из валирийской стали, принадлежащий дому Таргариен, чье происхождение уходит корнями в старую Валирию. Эфес украшен золотом и драконьей костью.\n\nЭйгон поручил последним выжившим валирийским пиромантам выгравировать на лезвии клинка пророчество.\n\n #COLOR:{1.0,1.0,1.0};FONT:ValyrianGlyphsFont;SIZE:16 ;AB:CV:FLPG:HRP:TIDX:E:YN:WP:JPE:KQ:ZOU;#! \n\n «От моей крови произойдет принц, который был обещан, и его гимном будет Песнь льда и огня»"
+  
+ artifact_orys_hammer_name: "Ярость"
+ artifact_orys_hammer_description: "Ярость — боевой молот, который был подарен [orys.GetFirstName] [aegonTarg.GetTitledFirstName], когда он был узаконен как основатель дома [orys.GetDynasty.GetBaseName].\n\nМолот олицетворяет мощь и славу дома [orys.GetDynasty.GetBaseName] и придает легитимность недавно образованному дому."
+  
+  
+ jaehaerys_crown_description_lotd: "Корона Джейхейриса I, "Миротворца", представляет собой золотую корону с гербом каждого из семи королевств, обрамляющих корону"
+ artifact_blackfyre: "Черное Пламя"
+ artifact_darksister: "Темная Сестра"
+ artifact_seafoam: "Морская Пена"
+ artifact_calamity: "Бедствие"
+ artifact_orys_hammer: "Ярость"
+ artifact_aegon_dagger: "Кинжал Эйгона"
+ artifact_subterfuge: "Коварство"
+  
+  
+ artifact_viserys_mask_name: "Маска Визериса I Таргариена"
+ artifact_viserys_mask_requirements: "Эту маску могут носить только правители, страдающие физическими недугами."
+ artifact_viserys_mask_desc: "Золотая маска, которую когда-то носил Визерис I в последние годы своей жизни. Маска олицетворяет богатство дома Таргариен, а также служит напоминанием о временах, предшествовавших Танцу..."
+  
+  
+  
+  
+ valyrian_mask_01_option: "Золото"
+ valyrian_mask_02_option: "Бронза"
+ valyrian_mask_03_option: "Черная сталь"
+ valyrian_mask_04_option: "Валирийская сталь"
+ valyrian_mask_05_option: "Серебро"
+  
+  
+  # Flavor for when you hover over the options 
+  
+ valyrian_mask_01_tooltip: "Маска из #BOLD;COLOR:{1.00,0.84,0.00} золота#! подойдет!"
+ valyrian_mask_02_tooltip: "#BOLD;COLOR:{0.36,0.38,0.21} Бронза#! будет хорошим материалом."
+ valyrian_mask_03_tooltip: "Мне нужна маска из #BOLD;COLOR:{0.10,0.10,0.10} черной стали#!, она послужит мне хорошую службу."
+ valyrian_mask_04_tooltip: "Возможно, #BOLD;COLOR:{0.30,0.30,0.30} валирийская сталь#! подойдет..."
+ valyrian_mask_05_tooltip: "Маска из #BOLD;COLOR:{0.81.00,0.81,0.81} серебра#! подойдет."
+  
+  
+ artifact_valyrian_mask: "Валирийская маска"

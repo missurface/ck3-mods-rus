@@ -1,0 +1,81 @@
+﻿l_russian:
+   #Titan/Valkyrian 
+ trait_physique_good_4: "Титан" #NT!
+ trait_physique_good_male_4: "Титан" #NT!
+ trait_physique_good_female_4: "Валькирия" #NT!
+ trait_physique_good_4_desc: "Кости и мышцы, словно из железа, и в то же время изящество ловкого танцора; Божественная Искра вмешалась, чтобы даровать им уровень физического совершенства, который ранее считался достижимым лишь в мифах." #NT!
+ trait_physique_good_4_character_desc: "Кости и мышцы, словно из железа, и в то же время изящество ловкого танцора; Божественная Искра вмешалась, чтобы даровать [Root.GetCharacter.GetFirstNameNoTooltip] уровень физического совершенства, который ранее считался достижимым лишь в мифах." #NT!
+   # Erudite 
+ trait_intellect_good_4: "Эрудит" #NT!
+ trait_intellect_good_4_desc: "Сложная арифметика — пустяк, а продуманные стратегические планы — лишь мимолётная мысль. Божественная Искра наполняет ум постоянным вдохновением, даруя проницательность, сравнимую с величайшими учёными в истории." #NT!
+ trait_intellect_good_4_character_desc: "Сложная арифметика — пустяк, а продуманные стратегические планы — лишь мимолётная мысль. Божественная Искра наполняет ум постоянным вдохновением, даруя [ROOT.GetCharacter.GetFirstNameNoTooltip] проницательность, сравнимую с величайшими учёными в истории." #NT!
+   # Adonis => Aphroditic 
+ trait_beauty_good_male_4: "Адонийский" #NT!
+ trait_beauty_good_female_4: "Афродитический" #NT!
+ trait_beauty_good_4_desc: "Их завораживающая грация излучает божественное сияние, привлекающее взоры всех вокруг. Божественная Искра одарила их ангельской красотой, способной вызвать зависть у самих богов." #NT!
+ trait_beauty_good_4_character_desc: "Грация [ROOT.GetCharacter.GetFirstNameNoTooltip] излучает божественное сияние, притягивающее взгляды всех, кто смотрит на [ROOT.GetCharacter.GetHerHim]. Божественная Искра даровала [ROOT.GetCharacter.GetHerHim] ангельскую красоту, способную вызвать зависть у самих богов." #NT!
+  
+   # Shrewd lvl 2 
+ trait_shrewd_2: "Мудрейший" #NT!
+ trait_shrewd_2_desc: "Глубокая мудрость и понимание мира и его обитателей были обретены [ROOT.GetCharacter.GetFirstNameNoTooltip], во многом благодаря бесконечным дебатам и обсуждениям, происходящим в агорах." #NT!
+ trait_shrewd_2_character_desc: "Глубокая мудрость и понимание мира и его обитателей были дарованы [ROOT.GetCharacter.GetHerHim] Божественной Искрой." #NT!
+  
+   # Purer Blood 
+ trait_purer_blooded: "Чистокровный" #NT!
+ trait_purer_blooded_desc: "Этот персонаж происходит из очень чистой кровной линии. Немногие могут похвастаться таким наследием." #NT!
+ trait_purer_blooded_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] происходит из чистой кровной линии. Немногие могут похвастаться таким наследием." #NT!
+  
+   # Purest Blood 
+ trait_purest_blooded: "Чистейший" #NT!
+ trait_purest_blooded_desc: "Чистота кровной линии этого персонажа не имеет себе равных. Говорят, в его жилах течёт кровь самих богов." #NT!
+ trait_purest_blooded_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] обладает чистотой крови, не имеющей равных. Говорят, в его жилах течёт кровь самих богов." #NT!
+  
+ trait_adventurer_1: "Неустанный искатель приключений" #NT!
+ trait_adventurer_1_desc: "Этот персонаж прожил жизнь, полную храбрости и действий, как заядлый авантюрист." #NT!
+ trait_adventurer_1_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] прожил жизнь, полную храбрости и действий, как заядлый авантюрист." #NT!
+ trait_adventurer_2: "Знаменитый искатель приключений" #NT!
+ trait_adventurer_2_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] бесстрашен до безрассудства и прожил жизнь, полную храбрости и действий, как заядлый авантюрист." #NT!
+ trait_adventurer_3: "Легендарный искатель приключений" #NT!
+ trait_adventurer_3_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] известен по всему миру благодаря [ROOT.GetCharacter.GetHerHis] бесстрашным подвигам и героическим свершениям." #NT!
+  
+ trait_track_adventurer: "Искатель приключений" #NT!
+ trait_track_adventurer_desc: "Открывать мир с пламенной страстью и жаждой жизни — вот призвание искателя приключений." #NT!
+  
+ trait_magic_talent: "Талант Искры" #NT!
+  
+ trait_magic_talent_1: "Одарённый Искрой" #NT!
+ trait_magic_talent_1_desc: "Этот персонаж родился со способностью владеть Искрой на базовом уровне." #NT!
+  
+ trait_magic_talent_2: "Гений Искры" #NT!
+ trait_magic_talent_2_desc: "Этот персонаж родился с необычайно сильной способностью владеть Искрой." #NT!
+  
+ trait_magic_talent_3: "Вундеркинд Искры" #NT!
+ trait_magic_talent_3_desc: "Этот персонаж родился бушующей бурей Искры." #NT!
+  
+ spark_talent_increased: "Талант Искры возрос!" #NT!
+  
+ trait_endless_lord: "Вечный лорд" #NT!
+ trait_endless_lord_desc: "Этот персонаж является совершенной генетической копией своего родителя-лорда." #NT!
+  
+ trait_track_endless_lord: "Итерации" #NT!
+ trait_track_endless_lord_desc: "Сколько последовательных поколений эта божественная форма повторялась." #NT!
+  
+ trait_triplet: "Тройня" #NT!
+ trait_triplet_desc: "Этот персонаж родился в тройне." #NT!
+ trait_triplet_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] родился в тройне." #NT!
+  
+ trait_quadruplet: "Четверня" #NT!
+ trait_quadruplet_desc: "Этот персонаж родился в четверне." #NT!
+ trait_quadruplet_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] родился в четверне." #NT!
+  
+ trait_quintuplet: "Пятерня" #NT!
+ trait_quintuplet_desc: "Этот персонаж родился в пятерне." #NT!
+ trait_quintuplet_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] родился в пятерне." #NT!
+  
+ trait_sextuplet: "Шестерня" #NT!
+ trait_sextuplet_desc: "Этот персонаж родился в шестерне." #NT!
+ trait_sextuplet_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] родился в шестерне." #NT!
+  
+ trait_septuplet: "Семерня" #NT!
+ trait_septuplet_desc: "Этот персонаж родился в семерне." #NT!
+ trait_septuplet_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] родился в семерне." #NT!

@@ -1,0 +1,28 @@
+﻿l_russian:
+  
+ valar_vana: "Вала красоты и плодородия" #NT!
+ valar_tulkas_astaldo: "Вала войны и соперничества" #NT!
+  
+ ryumplstilkin: "Рюмплстилкин" #NT!
+ ryumplstilkin_desc: "Хотя происхождение этого имени неизвестно, известно, что какое бы соглашение ни заключил [CharYouHerHim(CHARACTER)], Эйман всегда выходит победителем — и обычно богаче." #NT!
+  
+ nick_the_golden_queen: "Золотая королева" #NT!
+ nick_the_golden_queen_desc: "Рождённая от гордой и древней родословной, [CharYourHerHis(CHARACTER)] стремление вернуть как престиж, так и богатство [CharYourHerHis(CHARACTER)] рода заставило других называть [CharYouHerHim(CHARACTER)] этим именем." #NT!
+  
+ nick_the_silver_dragon: "Серебряный дракон" #NT!
+ nick_the_silver_dragon_desc: "Прозвище «Серебряный» дано за [CharYourHerHis(CHARACTER)] волосы, а «Дракон» — за [CharYourHerHis(CHARACTER)] могущественное присутствие. [CHARACTER.GetShortUINameNoTooltipNoFormat] одинаково очаровывает при дворе и внушает страх на поле боя." #NT!
+  
+ nick_the_mad_mage: "Безумный маг" #NT!
+ nick_the_mad_mage_desc: "Люди ходят вокруг [CHARACTER.GetShortUINameNoTooltipNoFormat] на цыпочках — возможно, справедливо, а возможно, и нет. Но стоит ли рисковать и оскорблять безумн[CHARACTER.GetWomanMan|l]?" #NT!
+  
+ nick_the_enchantress: "Чародейка" #NT!
+ nick_the_enchantress_desc: "С [CharYourHerHis(CHARACTER)] серебряными волосами и завораживающим присутствием [CharYourHerHis(CHARACTER)] взгляд пленяет всех, кто встречается с [CharYourHerHis(CHARACTER)], а [CharYourHerHis(CHARACTER)] обаяние и тонкая магия позволяют [CHARACTER.GetShortUINameNoTooltipNoFormat] манипулировать даже самыми могущественными правителями." #NT!
+  
+ nick_the_black_dragon: "Чёрный дракон" #NT!
+ nick_the_black_dragon_desc: "Прозвище «Чёрный» дано за то, что [CharYourHerHis(CHARACTER)] является изгнанным бастардом [CharYourHerHis(CHARACTER)] дома, а «Дракон» — за [CharYourHerHis(CHARACTER)] великое и ужасное присутствие. [CHARACTER.GetShortUINameNoTooltipNoFormat] [CharAreIs(CHARACTER)] полн[CharGender(CHARACTER, 'а', 'ен')] решимости отомстить соперникам и убить всех, кто встанет на пути." #NT!
+  
+ nick_the_druid: "Друид" #NT!
+ nick_the_druid_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U], происходящий из таинственной линии необычайной силы, [CharAreIs(CHARACTER)] извест[CharGender(CHARACTER, 'на', 'ен')] как целитель и яростный защитник лесов. Неразрывная связь [CHARACTER.GetShortUINamePossessive|U] с природой и скрытая сила принесли [CHARACTER.GetShortUINameNoTooltipNoFormat] титул «[CHARACTER.GetNicknameNoTooltip]»." #NT!
+  
+ nick_wolfslayer: "Волкоубийца" #NT!
+ nick_wolfslayer_desc: "[CHARACTER.GetFirstNameOrMe|U] убил[CharGender(CHARACTER, 'а', ' ')] грозного лютоволка в бою." #NT!

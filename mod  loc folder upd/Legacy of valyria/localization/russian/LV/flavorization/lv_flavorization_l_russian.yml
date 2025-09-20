@@ -1,0 +1,109 @@
+﻿l_russian:
+   # Special 
+ emperor_valyrian_male: "Император"
+ emperor_valyrian_female: "Императрица"
+ empire_valyrian: "Империя"
+  
+ county_major_city: "[city]"
+  
+   # Colonies 
+ county_colony: "Колония" #NT!
+ barony_colony: "Поселение" #NT!
+  
+   # Free Cities 
+ king_free_city_male_k_volantis: "Триарх"
+ king_free_city_female_k_volantis: "Триарх"
+  
+   # Volantene Triarchy 
+ volantene_male: "[CHARACTER.Custom('VOLANTENE_MALE')]"
+ volantene_female: "[CHARACTER.Custom('VOLANTENE_FEMALE')]"
+ volantene_male_triarch: "Триарх"
+ volantene_female_triarch: "Триарх"
+ volantene_male_freeholder: "Лорд Свобододержатель"
+ volantene_female_freeholder: "Леди Свобододержатель"
+ volantene_male_fallback: "Магистр"
+ volantene_female_fallback: "Магистр"
+  
+   # Rhoynar 
+ king_rhoynish_male: "Принц"
+ king_rhoynish_female: "Принцесса"
+ emperor_rhoynish_male: "Принц"
+ emperor_rhoynish_female: "Принцесса"
+  
+ kingdom_rhoynish: "Княжество"
+ empire_rhoynish: "Княжество"
+  
+   # Oligarchy 
+ oligarchic_government: "Олигархия"
+ oligarchic_government_with_icon: "@civilian_administration! Олигархическое правление"
+ oligarchic_government_adjective: "Олигархическое"
+ oligarchic_government_desc: "Многие города-государства Эссоса, расположенные к востоку от Свободных Городов, представляют собой олигархии, управляемые несколькими знатными семьями."
+  
+ government_is_oligarchic: "Тип [government|E] — [GetGovernment('oligarchic_government').GetName]"
+  
+ baron_oligarchic_male: "Мастер"
+ baron_oligarchic_female: "Госпожа"
+ count_oligarchic_male: "Мастер"
+ count_oligarchic_female: "Госпожа"
+ duke_oligarchic_male: "Мастер"
+ duke_oligarchic_female: "Госпожа"
+ duke_oligarchic_independent_male: "Мастер"
+ duke_oligarchic_independent_female: "Госпожа"
+ king_oligarchic_male_spouse: "Мастер"
+ king_oligarchic_female_spouse: "Госпожа"
+ king_oligarchic_male: "[CHARACTER.Custom('KINGDOM_OLIGARCHIC_MALE')]"
+ king_oligarchic_female: "[CHARACTER.Custom('KINGDOM_OLIGARCHIC_FEMALE')]"
+ king_oligarchic_independent_male: "[CHARACTER.Custom('KINGDOM_OLIGARCHIC_MALE')]"
+ king_oligarchic_independent_female: "[CHARACTER.Custom('KINGDOM_OLIGARCHIC_FEMALE')]"
+ king_oligarchic_male_fallback: "Мастер"
+ king_oligarchic_female_fallback: "Госпожа"
+ emperor_oligarchic_male_spouse: "Мастер"
+ emperor_oligarchic_female_spouse: "Госпожа"
+ emperor_oligarchic_male: "Мастер"
+ emperor_oligarchic_female: "Госпожа"
+ emperor_oligarchic_independent_male: "Мастер"
+ emperor_oligarchic_independent_female: "Госпожа"
+  
+ barony_oligarchic: "Город"
+ county_oligarchic: "Город"
+ duchy_oligarchic: "Город"
+ duchy_oligarchic_independent: "Город"
+ kingdom_oligarchic: "Великий Город"
+ kingdom_oligarchic_independent: "Великий Город"
+ empire_oligarchic: "Великий Город"
+  
+   # Slaver's Bay Oligarchies 
+ king_oligarchic_male_k_meereen: "Великий Мастер"
+ king_oligarchic_female_k_meereen: "Великая Госпожа"
+ king_oligarchic_male_k_yunkai: "Мудрый Мастер"
+ king_oligarchic_female_k_yunkai: "Мудрая Госпожа"
+ king_oligarchic_male_k_astapor: "Добрый Мастер"
+ king_oligarchic_female_k_astapor: "Добрая Госпожа"
+  
+   # Dothraki 
+ empire_dothraki: "Кхаласар"
+ kingdom_dothraki: "Кхаласар"
+ duchy_dothraki: "Кхаласар"
+ county_dothraki: "Кхаласар"
+ barony_dothraki: "Кхаласар"
+  
+ khal_count_male: "Кхал"
+ khal_count_female: "Кхалиси"
+ khal_duke_male: "Кхал"
+ khal_duke_female: "Кхалиси"
+ khal_king_male: "Кхал"
+ khal_king_female: "Кхалиси"
+ khal_emperor_male: "Кхал"
+ khal_emperor_female: "Кхалиси"
+  
+   # Asshai 
+ empire_asshai: "Древний Город"
+ kingdom_asshai: "Древний Город"
+ duchy_asshai: "Древний Город"
+  
+ emperor_asshai_male: "Император Теней"
+ emperor_asshai_female: "Императрица Теней"
+ king_asshai_male: "Советник Теней"
+ king_asshai_female: "Советница Теней"
+ duke_asshai_male: "Советник Теней"
+ duke_asshai_female: "Советница Теней"

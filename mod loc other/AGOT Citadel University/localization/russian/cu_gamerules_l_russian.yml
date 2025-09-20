@@ -1,0 +1,19 @@
+﻿l_russian:
+  
+ rule_which_universities: "Какие локации являются университетами" #NT!
+ setting_university_tc: "Цитадель" #NT!
+ setting_university_tc_ss: "Цитадель и Звёздное Септа" #NT!
+ setting_university_more: "Больше" #NT!
+  
+ setting_university_tc_desc: "Только Цитадель будет доступна для посещения университета" #NT!
+ setting_university_tc_ss_desc: "Цитадель и Звёздное Септа доступны для посещения университета" #NT!
+ setting_university_more_desc: "Цитадель, Звёздное Септа и некоторые религиозные локации в Эссосе будут доступны для посещения университета" #NT!
+  
+ rule_citadel_male_only: "Цитадель принимает только мужчин" #NT!
+ setting_citadel_male_only_yes: "Да" #NT!
+ setting_citadel_male_only_no: "Нет" #NT!
+  
+ setting_citadel_male_only_yes_desc: "Игра будет следовать канону и запрещать женщинам посещать Цитадель" #NT!
+ setting_citadel_male_only_no_desc: "Женщинам будет разрешено посещать Цитадель" #NT!
+  
+ game_rule_category_university: "Университет" #NT!

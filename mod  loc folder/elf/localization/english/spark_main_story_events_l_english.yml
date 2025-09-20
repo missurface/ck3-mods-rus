@@ -1,0 +1,89 @@
+﻿l_english:
+  # What is an archeologist?
+  find_realm_lord_sigil_decision:0 "The Old Tales Must be True!"
+  find_realm_lord_sigil_decision_desc:0 "Your steward approaches you, a concerned look on their face. \n\n\"My [ROOT.Char.GetLadyLord|U], an odd woman has arrived seeking an audience with you; She claims that she is a trained 'archeologist', but I am fairly sure that she's made that title up.\n\n"You both glance over as the self-proclaimed expert knocks over a vase. \n\nYour steward shakes their head and continues. \"She has apparently found a great discovery relating to the 'Elves'. As far as I'm concerned they're nothing more than a children's fairytale, but seeing as how insistent she was, I thought it best to bring her to you. What shall I tell her?\""
+  find_realm_lord_sigil_decision_tooltip:0 "Begin your journey into the heart of the Elven mystery."
+  find_realm_lord_sigil_decision_confirm:0 "I would know the truth of this, see her in!"
+
+  # Transport the Grand Portal Decision
+  transport_the_grand_portal_decision:0 "Transport The Portal"
+  transport_the_grand_portal_decision_desc:0 "Restoring the portal is worthy goal, but why should we do so in the far North? \n\nIf we were to instead carefully transport the pieces to my capitol, at a considerable cost, we could make my realm the center of power in the coming age\n\nWhat is gold compared to that kind of power?"
+  transport_the_grand_portal_decision_tooltip:0 "Transport the remains of the Grand Portal to your capitol"
+  transport_the_grand_portal_decision_confirm:0 "We start at once"
+
+  # Restore the Grand Portal Decision
+  restore_the_grand_portal_decision:0 "A Wonder Of Our Age"
+  restore_the_grand_portal_decision_desc:0 "I have learned a great truth of man's history. \n\nBy collecting ancient components, re-discovering lost knowledge, and hunting down the lost seal of a long dead king, I could reforge the Grand Portal and restore our connection to the stars, our ancestors, and the unfathomable dangers of the unknown.\n\nI should not take such a decision lightly..."
+  restore_the_grand_portal_decision_tooltip:0 "Reform the connection to the Higher Realms."
+  restore_the_grand_portal_decision_confirm:0 "I will restore the Grand Portal!"
+
+  restore_the_grand_portal_decision_has_portal_capacitor:0 "I have acquired the Portal Capacitor."
+  restore_the_grand_portal_decision_has_portal_navigation_relay:0 "I have acquired the Portal Navigation Relay."
+  restore_the_grand_portal_decision_has_sigil_of_the_realm_lord:0 "I have the Sigil of The Realm Lord and it has found me worthy!"
+
+  elf_destiny_main_story_events.001.t:0 "Expedition to the Elven Ruins"
+  elf_destiny_main_story_events.001.desc:0 "The woman walks up to you as your steward waves her over. \"My [ROOT.Char.GetLadyLord|U], I am one of the best archeologists in my field, if I may be so bold.\" #weak You spare a glance over to your steward, who looks clearly unimpressed.#! She sets a rolled parchment on the table and lays it flat. You notice strange script lining the borders, perhaps some dialect of Arabic? \n\"I strive to discover clues our ancestors left behind, and my specialty is the study of the mysterious Elven people. The few artifacts found tell us that they were a highly advanced civilization, perhaps more so than ourselves, and seem to have survived for hundreds, or perhaps even #EMP thousands #!of years. This map is covered in an Elven script that I can't decipher, but it appears to show several possible locations of the fortress tomb of The Last Elf Emperor. If real, it may contain great treasures forgotten to time. I would mount an expedition to investigate, but I am in need of funding to supply such a journey. Will you help me?\""
+  elf_destiny_main_story_events.001.a:0 "An adventure? You have my support!"
+  elf_destiny_main_story_events.001.b:0 "The elves? Don't waste my time. Nothing but a children's tale!"
+
+  elf_destiny_main_story_events.002.t:0 "Restore The Grand Portal"
+  elf_destiny_main_story_events.002.desc:0 "Relics of old collected and my worthiness unquestionable. \n\nI now possess the means to re-establish the bond between worlds and establish myself as a true Realm Lord.\n\nBut there are many who will condemn me and would move to halt this great work by any means.\n\nAm I ready for this undertaking?"
+  elf_destiny_main_story_events.002.a:0 "We break ground at once!"
+  elf_destiny_main_story_events.002.c:0 "We break ground at once, but I shall stay in my realm!"
+  elf_destiny_main_story_events.002.b:0 "More preparations are required..."
+  lose_portal_components:0 "You will lose the Grand Portal Spark Capacitor and Navigation Relay"
+
+  elf_destiny_main_story_events.0021.t:0 "The Portal Is Complete!"
+  elf_destiny_main_story_events.0021.desc:0 "After many trials and great personal cost the Grand Portal is finally restored! Once more the gateway between this world and the countless realms of the galaxy is open.\n\nWill this bring limitless prosperity or great dangers to your realm? Who and what will come through the gateway? New allies or powerful foes?\n\nThese questions and many more will soon be answered!\n\n#bold You can feel the threads of destiny pulling.#! You are a true Realm Lord now and it is time you make you mark on history. #bold The time of Elves comes again!#!"
+  elf_destiny_main_story_events.0021.ok_move_capital:0 "Let us make the portal the center of our realm!"
+  elf_destiny_main_story_events.0021.ok:0 "A new age is upon us!"
+
+  elf_destiny_main_story_events.003.desc:0 "[scoped_ruler.GetTitledFirstName] has restored an some kind of ancient portal in the far north.\n\nLegends say this could allow [scoped_ruler.GetHerHim] to communicate with the stars and bring a people old as time to this world.\n\nThe known paradigm of the world could be about to change."
+  elf_destiny_main_story_events.003.a:0 "What will come of this!?"
+
+  elf_destiny_main_story_events.004.title:0 "A Choice of Dreams"
+  elf_destiny_main_story_events.004.desc:0 "You're in the middle of a hard earned slumber when you feel a familiar presence. It's the same feeling you had when you grabbed that amulet in the Elven tomb... It does not say anything to you, but instead projects a single idea into your mind. \n\n #bold \"See.\" #! \n\n And you do;  Thousands of lifetimes flash before your eyes, threatening to overwhelm your every sense. Great wars between humans and elves, vast empires built upon the backs of Human slaves, but also grand feasts shared in friendship between Human and Elf Kings. You begin to understand the intention of the presence as it conveys another idea. \n\n #bold \"Choose.\"  #!"
+  elf_destiny_main_story_events.004.good:0 "Humans and Elves will live together in friendship!"
+  elf_destiny_main_story_events.004.evil:0 "Elves stand above Humans! Any other notion is ridiculous."
+
+  # Find Sigil Of The Realm Lord
+
+  elf_destiny_main_story_events.005.t:0 "A Powerful Presence"
+  elf_destiny_main_story_events.005.desc:0 "After days searching you come upon a large chamber, perhaps once used as a grand hall by Lords of old. \n\nLarge pillars line the room, holding up a majestic ceiling that stretches high above you. In the center of the room sits a long dead King; his throne his final resting place. Soon you notice a radiant amulet hanging around the King's neck. You feel a strange pull towards the gem, and have to fight the urge to draw closer. \n\nUpon touching the gem a brilliant blinding light envelopes you. Suddenly you're lost, feeling like a row boat caught in a raging hurricane, your only solace being the knowledge that #bold you are not alone #!. It is a vast and incomprehensible presence that dwarfs you, the tomb, and the planet you reside on. It both comforts and terrifies you, shielding you from the light while examining every fibre of your being with a piercing gaze. \n\nThe experience elevates your senses, allowing you to examine your body in a way that you never could before. You feel your heart beat, your lungs breathe, your blood flow, and your mind think. You feel your body as a whole and witness your soul tremble."
+  elf_destiny_main_story_events.005.ok:0 "Is this... death?"
+
+  elf_destiny_main_story_events.007.t:0 "Visions of a Past Long Gone"
+  elf_destiny_main_story_events.007.desc:0 "Amidst the blinding lights, the presence fills your mind's eye with images of the past. You see how the great Elves of old lived, and are filled with the plethora of emotions they felt. You know you could keep pulling on this thread and adopt their hopes and beliefs as your own.\n\nDo you convert to the Elf culture and start a fresh slate, or do you continue to evolve your current culture?"
+  elf_destiny_main_story_events.007.convert:0 "I will take the Elf culture as my own."
+  elf_destiny_main_story_events.007.dontConvert:0 "I will shape the New Elvish people from the culture I have."
+
+  elf_destiny_main_story_events.006.t:0 "A Surprising Transformation"
+  elf_destiny_main_story_events.006.desc:0 "The light eventually fades and the world comes back into focus. You feel different, you reach up and feel the tips of your pointy ears with your fingers. \n\nIt looks like you've been transformed into an elf! Like the legendary people of old! \n\nYou look at the gem still clutched in your hand in wonder. What does this change mean for you and your people...?"
+  elf_destiny_main_story_events.006.ok:0 "We should head home and reflect on this."
+
+  elf_destiny_main_story_events.008.t:0 "Expedition has finished"
+  elf_destiny_main_story_events.008.desc:0 "Your supplies have run low enough to warrant a return home. While you might leave with incalculable luxuries, you can't deny that perhaps the most important discoveries from this expedition were both the knowledge you gained of the Elves, and the new questions they have raised."
+  elf_destiny_main_story_events.008.ok:0 "It's time to head home."
+  
+  transformed_into_elf:0 "You have been transformed into an Elf!"
+
+ ascension_ritual_decision:0 "Ritual of Ascension"
+ ascension_ritual_decision_first_threshold:0 "Ritual of Ascension"
+ ascension_ritual_decision_second_threshold:0 "Ritual of Ascension"
+ ascension_ritual_decision_final_threshold:0 "Ritual of Ascension"
+ 
+ ascension_ritual_decision_desc:0 "You have reached the pinnacle of your current Elven level and are ready to ascend!\n\nRetreat to your chambers and begin your meditations. If the Divine Spark is receptive, you will emerge as a higher being."
+ ascension_ritual_threshold_1_decision_desc:0 "Behold your splendor! You have reached a Major Threshold! You have achieved the absolute pinnacle form of the Common Elf Tier, and are ready to ascend to become something #italic more #!.\n\nUpon completing this ascension you will enter the ranks of the regal Fae, elves that stand above the common folk, their mandate to rule clear to all."
+ ascension_ritual_threshold_2_decision_desc:0 "Behold your splendor! You have reached a Major Threshold! You have achieved the absolute pinnacle form of the Fae Tier, and are ready to ascend to become something #italic more #!.\n\nUpon completing this ascension you will enter the ranks of the mystical Celestials, angelic elves of great power and true immortality."
+ ascension_ritual_threshold_3_decision_desc:0 "Behold your splendor! You have reached a Major Threshold! You have achieved the absolute pinnacle form of the Celestial Tier, and are ready to ascend to become something #italic more #!.\n\nUpon completing this ascension you will enter the ranks of the divine Ainur; Gods of the Elves and highest servants of the Divine Spark."
+ 
+ ascension_ritual_decision_confirm:0 "I am ready."
+ ascension_ritual_decision_first_threshold_confirm:0 "I shall become a grand Fae Lord!"
+ ascension_ritual_decision_second_threshold_confirm:0 "I shall walk among the Celestials!"
+ ascension_ritual_decision_final_threshold_confirm:0 "I shall become a God who walks among mortals!"
+ 
+ need_to_restore_portal:0 "There is not enough ambient Spark left in this world to Ascend to the next Elf Tier. The Grand Portal must first be restored."
+ players_cant_be_gods:0 "The method of Ascending to the ranks of the Ainur is known by very few. It is said one must first be chosen by the Divine Spark itself! \n\n#D It is also rumored by the dev that there is not currently anyway to reach this tier yet! Keep an eye out for a future patch!#!"
+ 
+ ascension_ritual_decision_tooltip:0 "Commune with the Divine Spark and Ascend to a higher level of Elvenhood."
+ blessing_ritual_decision_tooltip:0 "Commune with the Divine Spark and Bless your people with one of its gifts."

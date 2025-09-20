@@ -1,0 +1,57 @@
+﻿l_russian:
+ tradition_elven_professionalism_name: "Древние эльфийские военные тактики" #NT!
+ tradition_elven_professionalism_desc: "Эта культура приняла стандартизированное снаряжение и обучение, чтобы выставлять армии профессиональных солдат, но отказывается собирать ополчение." #NT!
+  
+ culture_parameter_unlock_maa_elven_shieldguard: "[GetMaA('elven_shieldguard').GetName] как [men_at_arms|E]" #NT!
+ elven_shieldguard: "Эльфийские стражи со щитами" #NT!
+ elven_shieldguard_flavor: "Эльфийские стражи со щитами — это элитная тяжелая пехота армии эльфийской культуры, вооруженная большими щитами и копьями. Они обучены держать строй против любого врага и известны своей несокрушимой дисциплиной и непоколебимой верностью своим командирам." #NT!
+  
+ culture_parameter_unlock_maa_elven_swordguard: "[GetMaA('elven_swordguard').GetName] как [men_at_arms|E]" #NT!
+ elven_swordguard: "Эльфийские стражи с мечами" #NT!
+ elven_swordguard_flavor: "Эльфийские стражи с мечами — это авангард армии эльфийской культуры. Легко бронированные и вооруженные двуручными мечами, они обучены наносить быстрые и решительные удары, с легкостью прорезая боевые порядки врага." #NT!
+  
+ culture_parameter_unlock_maa_highguard_of_valor: "[GetMaA('highguard_of_valor').GetName] как [men_at_arms|E]" #NT!
+ highguard_of_valor: "Высшая стража доблести" #NT!
+ highguard_of_valor_flavor: "Высшая стража доблести — это элитная пехота армии эльфийской культуры. Облаченные в тяжелые доспехи и вооруженные лучшим снаряжением, какое только возможно достать, они являются воплощением дисциплины и военного мастерства." #NT!
+  
+ culture_parameter_unlock_maa_exalted_bear_highriders: "[GetMaA('exalted_bear_highriders').GetName] как [men_at_arms|E]" #NT!
+ exalted_bear_highriders: "Возвышенные всадники на медведях" #NT!
+ exalted_bear_highriders_flavor: "Возвышенные всадники на медведях — это элитная кавалерия более… простых армий эльфийской культуры. Врываясь в бой верхом на огромных медведях, они могут вселить ужас даже в самых стойких врагов." #NT!
+  
+ culture_parameter_unlock_maa_griffin_knights: "[GetMaA('griffin_knights').GetName] как [men_at_arms|E]" #NT!
+ griffin_knights: "Рыцари грифонов" #NT!
+ griffin_knights_flavor: "Рыцари грифонов сражаются мечом и когтем. Их могучие боевые звери обучены наносить удары с небес, пикируя на врагов со скоростью и яростью бури." #NT!
+  
+ culture_parameter_unlock_maa_honored_drake_lancers: "[GetMaA('honored_drake_lancers').GetName] как [men_at_arms|E]" #NT!
+ honored_drake_lancers: "Почетные копейщики на драках" #NT!
+ honored_drake_lancers_flavor: "Почетные копейщики на драках — пожалуй, самые редкие войска в любой армии эльфийской культуры. Поскольку считалось, что драки давно вымерли, эльфы, которые их оседлали, представляют собой захватывающее зрелище." #NT!
+  
+ culture_parameter_elven_professionalism_decision: "Персонажи этой культуры могут принять решение об Эльфийском профессионализме, чтобы увеличить количество профессиональных воинов, которых они могут содержать, но сократить число ополченцев, которых они могут собрать." #NT!
+  
+ tradition_knights_of_the_sky_name: "Рыцари небес" #NT!
+ tradition_knights_of_the_sky_desc: "Считалось, что техники разведения грифонов и драк были утеряны на тысячелетия. Но это уже не так." #NT!
+  
+ tradition_knights_serelion: "Рыцари Серелион" #NT!
+ tradition_knights_serelion_desc: "Рыцари дома Серелион" #NT!
+  
+ tradition_knights_valerith: "Рыцари Валерит" #NT!
+ tradition_knights_valerith_desc: "Рыцари дома Валерит" #NT!
+  
+ tradition_knights_gwynthorn: "Рыцари Гвинторн" #NT!
+ tradition_knights_gwynthorn_desc: "Рыцари дома Гвинторн" #NT!
+  
+ tradition_knights_lormelis: "Рыцари Лормелис" #NT!
+ tradition_knights_lormelis_desc: "Рыцари дома Лормелис" #NT!
+  
+ tradition_knights_thundarael: "Рыцари Тундараэл" #NT!
+ tradition_knights_thundarael_desc: "Рыцари дома Тундараэл" #NT!
+  
+ tradition_knights_belanor: "Рыцари Беланора" #NT!
+ tradition_knights_belanor_desc: "Рыцари Беланора" #NT!
+  
+ tradition_knights_elros: "Рыцари Элроса" #NT!
+ tradition_knights_elros_desc: "Рыцари Элроса" #NT!
+  
+ tradition_knights_kesselrine: "Рыцари Кессельрин" #NT!
+ tradition_knights_kesselrine_desc: "Рыцари дома Кессельрин" #NT!
+  

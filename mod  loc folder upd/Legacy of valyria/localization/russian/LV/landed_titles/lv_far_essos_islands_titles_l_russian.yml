@@ -1,0 +1,94 @@
+﻿l_russian:
+ k_far_essos_islands: "Далекие острова Эссоси"
+ k_marahai: "Марахай"
+  
+ d_crescent_gates: "Ворота полумесяца"
+  
+ c_zanpur: "Занпер"
+ b_zanpur_1: "Занпер"
+  
+ c_yovesh: "Йовеш"
+ b_yovesh_1: "Йовеш"
+  
+ c_zonar: "Зонар"
+ b_zonar_1: "Зонар"
+ b_zonar_2: "Кирет"
+ b_zonar_3: "Залун"
+ b_zonar_4: "Арван"
+  
+ c_orlath: "Орлат"
+ b_orlath_1: "Орлат"
+ b_orlath_2: "Мирал"
+ b_orlath_3: "Товек"
+ b_orlath_4: "Элхар"
+  
+ c_lirhai: "Лирхай"
+ b_lirhai_1: "Лирхай"
+ b_lirhai_2: "Кираль"
+  
+ d_shanvyr: "Шанвир"
+  
+ c_qinle: "Квинле"
+ b_qinle_1: "Квинле"
+ b_qinle_2: "Сондар"
+ b_qinle_3: "Варет"
+ b_qinle_4: "Халун"
+  
+ c_kaharim: "Кахарим"
+ b_kaharim_1: "Кахарим"
+ b_kaharim_2: "Люрет"
+ b_kaharim_3: "Никен"
+  
+ c_saolun: "Саолун"
+ b_saolun_1: "Саолун"
+ b_saolun_2: "Винет"
+ b_saolun_3: "Джорхай"
+  
+ c_vinet: "Винет"
+ b_vinet_1: "Винет"
+ b_vinet_2: "Орикай"
+ b_vinet_3: "Таломар"
+ b_vinet_4: "Финель"
+  
+ c_xarhai: "Ксархай"
+ b_xarhai_1: "Ксархай"
+ b_xarhai_2: "Ешрал"
+ b_xarhai_3: "Займор"
+  
+ c_nyrak: "Нирак"
+ b_nyrak_1: "Нирак"
+ b_nyrak_2: "Сирхал"
+ b_nyrak_3: "Квинет"
+ b_nyrak_4: "Вахарин"
+  
+  
+   # Manticore 
+ d_manticore_isles: "Острова Мантикоры"
+  
+ c_isle_of_manticores: "Острова Мантикоры"
+  
+ b_isle_of_manticores_1: "Калтари"
+ b_isle_of_manticores_2: "Баракай"
+ b_isle_of_manticores_3: "Милтарик"
+ b_isle_of_manticores_4: "Дулом"
+  
+ c_maritani: "Маритани"
+  
+ b_maritani_1: "Маритани"
+ b_maritani_2: "Форгод"
+ b_maritani_3: "Тума"
+  
+ c_salkare: "Салкер"
+  
+ b_salkare_1: "Салкаре"
+ b_salkare_2: "Балакан"
+  
+   # Faros little pirate islands 
+ k_vehar: "Вахар"
+ d_vehar: "Вехар"
+ c_vehar: "Вехар"
+ c_eastern_steps: "Восточные Шаги"
+ b_vehar_1: "Вехар"
+ b_vehar_2: "Остров Лотосов"
+ b_vehar_3: "Забад"
+ b_vehar_4: "Букт"

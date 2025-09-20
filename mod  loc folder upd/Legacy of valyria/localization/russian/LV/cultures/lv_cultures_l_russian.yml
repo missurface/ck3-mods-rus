@@ -1,0 +1,21 @@
+﻿l_russian:
+   # Valyria 
+ orosi: "Ороси"
+ orosi_collective_noun: "Ороси"
+ orosi_prefix: "Ороси"
+  
+   # Asshai 
+ asshaii: "Асшайский"
+ asshaii_collective_noun: "Асшайцы"
+ asshaii_prefix: "Асшайский"
+ asshaii_history_loc: "Образована группой древних неизвестных [GetTrait('zz_magister').GetName( GetNullCharacter )], возможно, [CULTURE.GetName] в [DATE.GetYear] A.I"
+ asshai_clothing_gfx: "Одежда Асшай'и"
+ language_asshaii_name: "Асшайский"
+  
+ shadowmen: "Теневые Люди"
+ shadowmen_collective_noun: "Народ тени"
+ shadowmen_prefix: "Теневой Человек"
+ shadowmen_history_loc: "Отделились от [CULTURE.GetName] в [DATE.GetYear] A.I"
+  
+   # Special/Mythical Cultures 
+ others_history_loc: "Созданный в результате магического изменения Первого Человека Детьми Леса."

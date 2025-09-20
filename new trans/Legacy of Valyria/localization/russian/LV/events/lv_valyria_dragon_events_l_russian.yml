@@ -1,0 +1,13 @@
+﻿l_russian:
+ agot_dragon_personality.0015.warning.desc: "For weeks now, you have been visiting your dragonpit to observe your growing dragons. Everything appears normal. Except for [growing_dragon.GetFirstName]'s behavior.\n\n" #NT!
+ agot_dragon_personality.0015.aggressive.desc: "Dragonkeepers report extreme aggression towards [growing_dragon.Custom('GetDragonHerHis')] peers and as a result, [growing_dragon.GetSheHe] has become shunned as nearby dragons seemingly sense the danger or [growing_dragon.Custom('GetDragonHerHis')] aggression. During one fight, [growing_dragon.GetSheHe] tried to maul at [growing_dragon_victim.GetFirstName]'s flesh.\n\n" #NT!
+ agot_dragon_personality.0015.voracious.desc: "[growing_dragon.GetFirstName] has a normally insatiable interest in live meat but that has seemed to be curtailed recently as [growing_dragon.GetSheHe] now watches [growing_dragon_victim.GetFirstName] with predatory eyes during feeding sessions.\n\n" #NT!
+ agot_dragon_personality.0015.voracious_aggressive_bloodthirsty.desc: "[growing_dragon.GetFirstName] also has a normally insatiable interest in live meat but that has seemed to be curtailed recently as [growing_dragon.GetSheHe] now watches [growing_dragon_victim.GetFirstName] with predatory eyes during feeding sessions.\n\n" #NT!
+ agot_dragon_personality.0015.warning.end: "Observing [growing_dragon.GetFirstName], you realize that [growing_dragon.GetSheHe] has cannibalistic urges. Fortunately, [growing_dragon.GetSheHe] has not yet feasted upon dragon flesh but you must act to seperate [growing_dragon.GetHerHim] and correct this behavior." #NT!
+ agot_dragon_personality.0015.d: "This is unacceptable! I will educate this dragon!" #NT!
+  
+ agot_dragon_personality.0015.d.f: "You seperate [growing_dragon.GetFirstName] from other dragons and begin educating [growing_dragon.GetHerHim]" #NT!
+ agot_dragon_personality.0015.d.success: "Your dragon is no longer a cannibal" #NT!
+ agot_dragon_personality.0015.d.success.tt: "Cannibalism corrected" #NT!
+ agot_dragon_personality.0015.d.failure: "Your dragon continues being a cannibal" #NT!
+ agot_dragon_personality.0015.d.failure.tt: "Cannibalism correction failed" #NT!

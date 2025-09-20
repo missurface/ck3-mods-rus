@@ -1,0 +1,42 @@
+﻿l_russian:
+   ## Valyria 
+ situation_valyria_situation: "Ruins of Valyria" #NT!
+  
+   # Sub Regions 
+ valyria_situation_sub_region_valyria: "Valyria" #NT!
+ valyria_situation_sub_region_aquos_dhaen: "Aquos Dhaen" #NT!
+ valyria_situation_sub_region_tyria: "Tyria" #NT!
+ valyria_situation_sub_region_dragonfields: "Dragonfields" #NT!
+ valyria_situation_sub_region_kastaryia: "Kastaryia" #NT!
+ valyria_situation_sub_region_mhysa_faer: "Mhysa Faer" #NT!
+ valyria_situation_sub_region_gelios: "Gelios" #NT!
+ valyria_situation_sub_region_pyrys: "Pyrys" #NT!
+ valyria_situation_sub_region_egrys: "Egrys" #NT!
+ valyria_situation_sub_region_nuqiria: "Nuqiria" #NT!
+ valyria_situation_sub_region_jarqanor: "Jarqanor" #NT!
+ valyria_situation_sub_region_rhyos: "Rhyos" #NT!
+ valyria_situation_sub_region_orbar: "Orbar" #NT!
+ valyria_situation_sub_region_jelmazmar: "Jelmazmar" #NT!
+ valyria_situation_sub_region_daervos: "Daervos" #NT!
+ valyria_situation_sub_region_sombazbion: "Sombazbion" #NT!
+ valyria_situation_sub_region_oros: "Oros" #NT!
+ valyria_situation_sub_region_vharomar: "Vharomar" #NT!
+ valyria_situation_sub_region_martivia: "Martivia" #NT!
+ valyria_situation_sub_region_argava: "Argava" #NT!
+ valyria_situation_sub_region_port_of_sighs: "Port of Sighs" #NT!
+ valyria_situation_sub_region_zoglos: "Zoglos" #NT!
+  
+   # Participant Groups 
+ valyria_situation_participant_group_blood_of_valyria: "The Blood of Valyria" #NT!
+ valyria_situation_participant_group_blood_of_valyria_desc: "All those who claim to be of Valyrian descent, whether they are true descendants or not. This includes everyone from the Targaryens and Velaryons, to the Old Blood of Volantis and other noble houses that trace their lineage back to Valyria." #NT!
+ valyria_situation_participant_group_restorationists: "Valyrian Restorationists" #NT!
+ valyria_situation_participant_group_restorationists_desc: "All those who seek to restore Valyria to its former glory through reclaiming the lands lost to the Doom and rebuilding their great cities despite not being of direct Valyrian descent." #NT!
+ valyria_situation_participant_group_remnants: "Remnants of the Freehold" #NT!
+ valyria_situation_participant_group_remnants_desc: "All those who somehow survived the Doom and are all that's left of the ancient Freehold." #NT!
+ valyria_situation_participant_group_opportunists: "Scavengers of the Doom" #NT!
+ valyria_situation_participant_group_opportunists_desc: "All those who seek to profit from the ruins of Valyria, whether through trade, plunder, or other means. This includes merchants, adventurers, and treasure hunters who see the potential for wealth in the ancient ruins." #NT!
+  
+  
+   # Phases 
+ valyria_situation_valyria_ruined_situation_phase: "Ruined" #NT!
+ valyria_restored_01: "Partial Restoration" #NT!

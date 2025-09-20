@@ -1,0 +1,43 @@
+﻿l_russian:
+  
+ agot_dragon_designer.pages.obtuse_add: "Добавить [GetTrait('dragon_obtuse').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.obtuse_remove: "Убрать [GetTrait('dragon_obtuse').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.agile_add: "Добавить [GetTrait('dragon_agile').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.agile_remove: "Убрать [GetTrait('dragon_agile').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.large_wingspan_add: "Добавить [GetTrait('dragon_large_wingspan').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.large_wingspan_remove: "Убрать [GetTrait('dragon_large_wingspan').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.small_wingspan_add: "Добавить [GetTrait('dragon_small_wingspan').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.small_wingspan_remove: "Убрать [GetTrait('dragon_small_wingspan').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.thick_scales_add: "Добавить [GetTrait('dragon_thick_scales').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.thick_scales_remove: "Убрать [GetTrait('dragon_thick_scales').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.thin_scales_add: "Добавить [GetTrait('dragon_thin_scales').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.thin_scales_remove: "Убрать [GetTrait('dragon_thin_scales').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.withered_wings_add: "Добавить [GetTrait('dragon_withered_wings').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.withered_wings_remove: "Убрать [GetTrait('dragon_withered_wings').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.glowing_scales_add: "Добавить [GetTrait('dragon_glowing_scales').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.glowing_scales_remove: "Убрать [GetTrait('dragon_glowing_scales').GetName(GetNullCharacter)]"
+  
+ #agot_dragon_designer.pages.aerodynamic_add: "Add [GetTrait('dragon_aerodynamic').GetName(GetNullCharacter)]"
+ #agot_dragon_designer.pages.aerodynamic_remove: "Remove [GetTrait('dragon_aerodynamic').GetName(GetNullCharacter)]"
+  
+ agot_dragon_designer.pages.green_flames_add: "Добавить [GetTrait('dragon_green_flames').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.green_flames_remove: "Убрать [GetTrait('dragon_green_flames').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.white_flames_add: "Добавить [GetTrait('dragon_white_flames').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.white_flames_remove: "Убрать [GetTrait('dragon_white_flames').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.red_flames_add: "Добавить [GetTrait('dragon_red_flames').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.red_flames_remove: "Убрать [GetTrait('dragon_red_flames').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.blue_flames_add: "Добавить [GetTrait('dragon_blue_flames').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.blue_flames_remove: "Убрать [GetTrait('dragon_blue_flames').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.yellow_flames_add: "Добавить [GetTrait('dragon_yellow_flames').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.yellow_flames_remove: "Убрать [GetTrait('dragon_yellow_flames').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.black_flames_add: "Добавить [GetTrait('dragon_black_flames').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.black_flames_remove: "Убрать [GetTrait('dragon_black_flames').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.purple_flames_add: "Добавить [GetTrait('dragon_purple_flames').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.purple_flames_remove: "Убрать [GetTrait('dragon_purple_flames').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.orange_flames_add: "Добавить [GetTrait('dragon_orange_flames').GetName(GetNullCharacter)]"
+ agot_dragon_designer.pages.orange_flames_remove: "Убрать [GetTrait('dragon_orange_flames').GetName(GetNullCharacter)]"
+  
+  
+  
+  
+  

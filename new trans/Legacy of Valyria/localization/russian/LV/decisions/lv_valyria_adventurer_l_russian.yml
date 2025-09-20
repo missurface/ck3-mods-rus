@@ -1,0 +1,20 @@
+﻿l_russian:
+ colonize_county_or_duchy_decision: "Forge a New Home" #NT!
+ colonize_county_or_duchy_decision_desc: "The time has come to put down roots. No longer mere wanderers, we shall carve out a home for ourselves, seizing the untamed land before us.\n\nWith our warbands prepared and settlers eager, we will stake our claim upon these lands whether by steel, gold, or sheer determination. Once the deed is done, we will no longer be mere adventurers. We will be lords." #NT!
+ colonize_county_or_duchy_decision_tooltip: "Settle the local region, becoming a landed [ruler|E]" #NT!
+ colonize_county_or_duchy_decision_confirm: "The time has come to settle down" #NT!
+  
+ need_settler_camp_3_or_higher: "Needs Pioneer's Outpost or higher level counterpart" #NT!
+ need_settler_camp_6: "Needs Expanded Colonial Mustering Ground" #NT!
+  
+ colonize_one_county: "Colonize the [county|E]" #NT!
+ colonize_one_county_desc: "" #NT!
+ colonize_one_county_tooltip: "$colonize_one_county$" #NT!
+  
+ colonize_a_duchy: "Colonize the entire [duchy|E]" #NT!
+ colonize_a_duchy_desc: "" #NT!
+ colonize_a_duchy_tooltip: "$colonize_a_duchy$" #NT!
+  
+ gain_trait: "You gain [trait|E] [GetTrait('adventurer').GetName( GetNullCharacter )]" #NT!
+ courtier_gain_trait: "Every Courtier gains the [trait|E] [GetTrait('adventurer_follower').GetName( GetNullCharacter )]" #NT!
+ settle_location: "You colonize the selected [county|E] or [duchy|E]" #NT!

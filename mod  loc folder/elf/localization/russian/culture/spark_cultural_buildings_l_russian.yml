@@ -1,0 +1,56 @@
+﻿l_russian:
+   # ========= Tribal Buildings ========= 
+   # Tribal Hold 
+ building_tribe_03: "Эльфийская крепость" #NT!
+ building_tribe_03_desc: "Изысканно вырезанные балки, наполненные прочностью и надежностью стали. Это укрепление соперничает с фортификациями людей." #NT!
+  
+ building_tribe_04: "Великая эльфийская крепость" #NT!
+ building_tribe_04_desc: "Совершенство формы. Безусловное единение с природой. Это укрепление стоит прочнее любого замка, крепости или дворца." #NT!
+  
+   # Long House 
+ building_longhouses_03: "Чертоги Великого пира" #NT!
+ building_longhouses_03_desc: "В Чертогах Великого пира собираются как великие воины, так и простой народ. Здесь они делятся историями о своих подвигах и пьют за славу предков." #NT!
+  
+ building_longhouses_04: "Чертог героя" #NT!
+ building_longhouses_04_desc: "Подвиги великих воинов звучат под сводами, когда племя собирается праздновать свои победы. Еда, питье и веселье усиливаются самой божественной искрой." #NT!
+  
+   # War Camp 
+ building_war_camps_03: "Горнило чемпионов" #NT!
+ building_war_camps_03_desc: "Мальчики становятся мужчинами, мужчины закаляются в воинов, а воины находят свое место среди пантеона. Многие не переживут испытаний Горнила чемпионов, но те, кто выживет, достигнут величия." #NT!
+ building_war_camps_04: "Кузница героев" #NT!
+ building_war_camps_04_desc: "Именно здесь величайшие из мужчин возносятся, чтобы стать героями. Кузница героев позволяет им закаляться и наставлять следующее поколение. Божественная искра укрепляет их тела и волю." #NT!
+  
+ building_palisades_03: "Природные укрепления" #NT!
+ building_palisades_03_desc: "Наряду с крепкими усиленными деревянными и каменными стенами, природный рельеф используется на благо племени. Тайные пещеры и хитроумные ловушки делают засады обычным делом." #NT!
+ building_palisades_04: "Цитадель дикой природы" #NT!
+ building_palisades_04_desc: "Укрепления высочайшей прочности и предельного единения с природой. Божественная искра укрепляет стены и воинов, защищающих их." #NT!
+  
+ building_market_villages_03: "Чертог шамана торговли" #NT!
+ building_market_villages_03_desc: "Наш народ призывает шамана торговли — жречество, которое наблюдает и регулирует священный рынок." #NT!
+ building_market_villages_04: "Аукционный дом и торговый центр" #NT!
+ building_market_villages_04_desc: "Аукционные дома предлагают редкие товары, снабжаемые отлаженным потоком торговли, что поддерживает процветание племени." #NT!
+  
+ building_woodland_grove_farms_01: "Ферма лесной рощи" #NT!
+ building_type_woodland_grove_farms_01: "Ферма лесной рощи" #NT!
+ building_woodland_grove_farms_01_desc: "Обильные поля необычных культур, способных расти в густых лесах этих земель." #NT!
+ building_woodland_grove_farms_02: "Ферма лесной рощи" #NT!
+ building_type_woodland_grove_farms_02: "Ферма лесной рощи" #NT!
+ building_woodland_grove_farms_02_desc: "Обильные поля необычных культур, способных расти в густых лесах этих земель." #NT!
+ building_woodland_grove_farms_03: "Ферма лесной рощи" #NT!
+ building_type_woodland_grove_farms_03: "Ферма лесной рощи" #NT!
+ building_woodland_grove_farms_03_desc: "Обильные поля необычных культур, способных расти в густых лесах этих земель." #NT!
+ building_woodland_grove_farms_04: "Ферма лесной рощи" #NT!
+ building_type_woodland_grove_farms_04: "Ферма лесной рощи" #NT!
+ building_woodland_grove_farms_04_desc: "Обильные поля необычных культур, способных расти в густых лесах этих земель." #NT!
+ building_woodland_grove_farms_05: "Ферма лесной рощи" #NT!
+ building_type_woodland_grove_farms_05: "Ферма лесной рощи" #NT!
+ building_woodland_grove_farms_05_desc: "Обильные поля необычных культур, способных расти в густых лесах этих земель." #NT!
+ building_woodland_grove_farms_06: "Ферма лесной рощи" #NT!
+ building_type_woodland_grove_farms_06: "Ферма лесной рощи" #NT!
+ building_woodland_grove_farms_06_desc: "Обильные поля необычных культур, способных расти в густых лесах этих земель." #NT!
+ building_woodland_grove_farms_07: "Ферма лесной рощи" #NT!
+ building_type_woodland_grove_farms_07: "Ферма лесной рощи" #NT!
+ building_woodland_grove_farms_07_desc: "Обильные поля необычных культур, способных расти в густых лесах этих земель." #NT!
+ building_woodland_grove_farms_08: "Ферма лесной рощи" #NT!
+ building_type_woodland_grove_farms_08: "Ферма лесной рощи" #NT!
+ building_woodland_grove_farms_08_desc: "Обильные поля необычных культур, способных расти в густых лесах этих земель." #NT!

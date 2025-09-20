@@ -1,0 +1,37 @@
+﻿l_russian:
+   # Rhoyne 
+ holy_site_the_sorrows_name: "Печали"
+ holy_site_ny_sar_name: "Ни Сар"
+ holy_site_ghoyan_drohe_name: "Гхойан Дроэ"
+ holy_site_ar_noy_name: "Ар Ной"
+ holy_site_sarhoy_name: "Сархой"
+  
+   # Ghiscar 
+ holy_site_meereen_temple_of_graces_name: "Храм Милостей в Мирине"
+ holy_site_yunkai_temple_of_graces_name: "Храм Милостей в Юнкае"
+ holy_site_astapor_temple_of_graces_name: "Храм Милостей в Астапоре"
+ holy_site_old_ghis_name: "Старый Гис"
+  
+   # Rhllor 
+ holy_site_temple_of_the_lord_of_light_name: "Храм Владыки Света"
+  
+   # Volaena 
+ holy_site_volaena_name: "Волаэна"
+  
+   # Asshai 
+ holy_site_asshai_name: "Ашай"
+ holy_site_stygai_name: "Стигай"
+  
+   # Valyria 
+ holy_site_dragonfields_name: "Рхазалхар"
+ holy_site_ilvonys_name: "Гора Гэйлитокс"
+ holy_site_valyria_name: "Город Валирия"
+ holy_site_kastaryia_name: "Вулкан Эпаэкрос"
+ holy_site_elyria_name: "Элирия"
+ holy_site_dravathor_name: "Пик вуалевого шпиля"
+  
+   # Gogossos 
+ holy_site_gogossos_name: "Гогоссос"
+ holy_site_isle_of_lice_name: "Остров Вшей"
+ holy_site_death_isle_name: "Остров смерти"
+ holy_site_skull_island_name: "Остров черепов"

@@ -1,0 +1,4 @@
+﻿l_russian:
+   #TARGARYEN LEGENDS 
+ legend_aegon_I_targaryen: "Наследие Завоевателя"
+ legend_aegon_I_targaryen_desc: "[ancestor.GetShortUIName], известный как #italic [ancestor.GetNickname]#!, был первым королем Дома [ancestor.GetHouse.GetNameNoTooltip] и основателем [title.GetNameNoTooltip]."

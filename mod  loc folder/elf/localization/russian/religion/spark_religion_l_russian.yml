@@ -1,0 +1,104 @@
+﻿l_russian:
+   #Common Christian Localization 
+ rf_spark: "Эльф" #NT!
+ spark_religion: "Божественная Искра" #NT!
+ spark_religion_adj: "Искра" #NT!
+ spark_religion_adherent: "Просветлённый" #NT!
+ spark_religion_adherent_plural: "Просветлённые" #NT!
+ spark_religion_desc: "Те, кто служит и питает Божественную Искру" #NT!
+ spark_high_god_name: "Божественная Искра" #NT!
+ spark_high_god_name_possessive: "Божественной Искры" #NT!
+ spark_high_god_name_alternate: "Великая Искра" #NT!
+ spark_high_god_name_alternate_possessive: "Великой Искры" #NT!
+ spark_death_deity_name: "Мандос" #NT!
+ spark_death_deity_name_possessive: "Мандоса" #NT!
+ spark_house_of_worship: "Святилище" #NT!
+ spark_house_of_worship_plural: "Святилища" #NT!
+ spark_religious_symbol: "оковы" #NT!
+ spark_religious_text: "свиток" #NT!
+ spark_religious_head_title: "Высший" #NT!
+ spark_religious_head_title_name: "Высший" #NT!
+ spark_devotee_male: "смиренный" #NT!
+ spark_devotee_male_plural: "смиренные" #NT!
+ spark_devotee_female: "смиренная" #NT!
+ spark_devotee_female_plural: "смиренные" #NT!
+ spark_devotee_neuter: "смиренный" #NT!
+ spark_devotee_neuter_plural: "смиренные" #NT!
+ spark_priest_male: "Жрец" #NT!
+ spark_priest_male_plural: "Жрецы" #NT!
+ spark_priest_female: "Жрица" #NT!
+ spark_priest_female_plural: "Жрицы" #NT!
+ spark_priest_alternate_plural: "Сияющие пастыри" #NT!
+ spark_bishop: "Верховный жрец" #NT!
+ spark_bishop_plural: "Верховные жрецы" #NT!
+ spark_witchgodname_the_horned_god: "Мелькор" #NT!
+ spark_creator_god_name: "Сулимо" #NT!
+ spark_creator_god_name_possessive: "Сулимо" #NT!
+ spark_health_god_name: "Эстэ" #NT!
+ spark_health_god_name_possessive: "Эстэ" #NT!
+ spark_fertility_god_name: "Вана" #NT!
+ spark_fertility_god_name_possessive: "Ваны" #NT!
+ spark_wealth_god_name: "Аулэ" #NT!
+ spark_wealth_god_name_possessive: "Аулэ" #NT!
+ spark_household_god_name: "Яванна" #NT!
+ spark_household_god_name_possessive: "Яванны" #NT!
+ spark_fate_god_name: "Вайрэ" #NT!
+ spark_fate_god_name_possessive: "Вайрэ" #NT!
+ spark_knowledge_god_name: "Ирмо" #NT!
+ spark_knowledge_god_name_possessive: "Ирмо" #NT!
+ spark_war_god_name: "Тулкас" #NT!
+ spark_war_god_name_possessive: "Тулкаса" #NT!
+ spark_trickster_god_name: "Несса" #NT!
+ spark_trickster_god_name_possessive: "Нессы" #NT!
+ spark_night_god_name: "Варда" #NT!
+ spark_night_god_name_possessive: "Варды" #NT!
+ spark_water_god_name: "Ульмо" #NT!
+ spark_water_god_name_possessive: "Ульмо" #NT!
+  
+ doctrine_spark_core_tenets: "ТЕСТИРОВАНИЕ ТЕСТИРОВАНИЕ" #NT!
+ doctrine_spark_core_tenets_name: "ТЕСТИРОВАНИЕ ТЕСТИРОВАНИЕ!!" #NT!
+  
+ elf_default: "Высокий эльф" #NT!
+ elf_default_adj: "Эльфийский" #NT!
+ elf_default_desc: "Благородные и могущественные, Высшие эльфы — хозяева мира. Все должны склониться, и в покорности обрести восторг." #NT!
+ elf_default_adherent: "Эльф" #NT!
+ elf_default_adherent_plural: "Эльфы" #NT!
+  
+ aeluran_weavers: "Аэлуран" #NT!
+ aeluran_weavers_adj: "Аэлуранский" #NT!
+  
+ old_aeluran_weavers_adj: "Древнеаэлуранский" #NT!
+ old_aeluran_religion: "Исходный аэлуран" #NT!
+  
+ tenet_children_of_the_divine_spark: "Дети Божественной Искры" #NT!
+ tenet_children_of_the_divine_spark_name: "Дети Божественной Искры" #NT!
+ tenet_children_of_the_divine_spark_desc: "Божественная Искра — источник всей жизни. Она дарует великую силу верным, и верные должны отвечать ей взаимностью." #NT!
+ doctrine_parameter_spark_sacrifice_active: "Пленники могут быть принесены в жертву Божественной Искре." #NT!
+ # doctrine_parameter_mystic_birthright_active: "Children can rarely be born with the [GetTrait('lifestyle_mystic').GetName( GetNullCharacter )] trait, [GetTrait('lifestyle_herbalist').GetName( GetNullCharacter )] is also more common  and grants additional bonuses" #NT!
+  
+ tenet_the_fecund_season: "Плодородный сезон" #NT!
+ tenet_the_fecund_season_name: "Плодородный сезон" #NT!
+ tenet_the_fecund_season_desc: "Каждую весну Божественная Искра даёт знать о своей воле. Эльфийские последователи входят в период течки как божественное побуждение идти вперёд и высвобождать глубинную жизненную энергию рождения во вселенную. Рождается множество детей верных, чтобы ещё больше распространить волю Божественной Искры." #NT!
+  
+ tenet_divinic_endearment: "Божественная притягательность" #NT!
+ tenet_divinic_endearment_name: "Божественная притягательность" #NT!
+ tenet_divinic_endearment_desc: "Последователи веры сдержанны в своих религиозных проявлениях среди чужаков. Чтобы избежать ненужных конфликтов, они приспосабливают свои учения к местной культуре, скрывая своё отклонение от традиционных норм." #NT!
+  
+ tenet_divinic_empowerment: "Божественное наделение силой" #NT!
+ tenet_divinic_empowerment_name: "Божественное наделение силой" #NT!
+ tenet_divinic_empowerment_desc: "Те, кто по-настоящему верны Божественной Искре, время от времени получают дары способностей, чтобы продемонстрировать свою ревность." #NT!
+  
+ tenet_elf_hostlity_name: "Отвержение Искры" #NT!
+ tenet_elf_hostlity_desc: "Эльфийские верования кощунственны. Их ложный Бог Искры оскорбителен для нашей праведной веры в истинное Божество." #NT!
+  
+ tenet_elf_syncretism_name: "Синкретизм Искры" #NT!
+ tenet_elf_syncretism_desc: "Эльфы говорят о странных верованиях, но иногда их слова звучат правдиво. Возможно, их Божественная Искра и мой Бог не так уж различаются. Мы не должны позволять таким незначительным различиям вызывать конфликты." #NT!
+  
+ holy_order_divine_vanguard: "Божественный авангард" #NT!
+ holy_order_high_purifiers: "Высшие очистители" #NT!
+ holy_order_radiant_blades: "Сияющие клинки" #NT!
+ holy_order_high_knights_of_the_empress_guard: "Высшая стража храма" #NT!
+ holy_order_radiant_wardens: "Сияющие стражи" #NT!
+ holy_order_celestial_paladins: "Паладины Искры" #NT!
+ holy_order_order_of_the_radiant_sun: "Сыны сияющего солнца" #NT!
+ holy_order_divine_conclave: "Божественный собор" #NT!

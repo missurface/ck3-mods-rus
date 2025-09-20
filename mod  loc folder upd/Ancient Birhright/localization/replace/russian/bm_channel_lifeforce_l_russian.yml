@@ -1,0 +1,25 @@
+﻿l_russian:
+  
+  
+   # Dynasty Decisions 
+ channel_lifeforce_bloodline: "Наполнить Род Кровавой Магией" #NT!
+ channel_lifeforce_bloodline_confirm: "Связать Нашу Кровь" #NT!
+ channel_lifeforce_bloodline_tooltip: "Совершите мощный ритуал, навсегда усиливающий весь ваш род сущностью вашей кровавой магии." #NT!
+ channel_lifeforce_bloodline_desc: "Каждый модификатор Багрового Рода даёт династии шанс получить опыт на Пути Крови.\n\nЧерез священный ритуал и великую жертву ваша кровавая магия может выйти за пределы вашей личности, чтобы наполнить весь ваш род сверхъестественной силой." #NT!
+ channel_lifeforce_bloodline.effects_list: "Наполните весь ваш род мощными эффектами кровавой магии:\n#indent_newline: $EFFECT_LIST_BULLET$ Дипломатия: [GetModifier('dynasty_crimson_charisma_modifier').GetNameWithTooltip]\n#indent_newline: $EFFECT_LIST_BULLET$ Военное дело: [GetModifier('dynasty_crimson_fury_modifier').GetNameWithTooltip]\n#indent_newline: $EFFECT_LIST_BULLET$ Управление: [GetModifier('dynasty_crimson_prosperity_modifier').GetNameWithTooltip]\n#indent_newline: $EFFECT_LIST_BULLET$ Интриги: [GetModifier('dynasty_crimson_shadows_modifier').GetNameWithTooltip]\n#indent_newline: $EFFECT_LIST_BULLET$ Образование: [GetModifier('dynasty_crimson_insight_modifier').GetNameWithTooltip]\n#indent_newline: $EFFECT_LIST_BULLET$ Генетика: [GetModifier('dynasty_crimson_legacy_modifier').GetNameWithTooltip]\n#indent_newline: $EFFECT_LIST_BULLET$ Опыт: [GetModifier('dynasty_crimson_expertise_modifier').GetNameWithTooltip]" #NT!
+  
+ bm_channel_lifeforce_bloodline.001.title: "Кровавый Завет Рода" #NT!
+ bm_channel_lifeforce_bloodline.001.desc: "Ритуальный круг начертан моей собственной кровью, священные символы связывают меня с каждым членом моего Дома. Произнося древние слова, я чувствую щупальца силы, простирающиеся сквозь время и пространство, отыскивающие тех, кто разделяет мою кровь. Какой дар я ниспошлю своему роду на грядущие поколения?" #NT!
+  
+ bm_channel_lifeforce_bloodline.001.a: "Дипломатия - Наши слова будут повелевать с властью клятвы крови" #NT!
+ bm_channel_lifeforce_bloodline.001.b: "Военное дело - Кровь завоевателей никогда не истощится в наших жилах" #NT!
+ bm_channel_lifeforce_bloodline.001.c: "Управление - Богатство и процветание будут притягиваться к нашей крови" #NT!
+ bm_channel_lifeforce_bloodline.001.d: "Интриги - Наша кровь даст нам очи во мраке глубочайших теней" #NT!
+ bm_channel_lifeforce_bloodline.001.e: "Образование - Шёпот предков навечно будет вести наш род" #NT!
+ bm_channel_lifeforce_bloodline.001.f: "Здоровье - Наша кровь будет противиться тлению и разложению" #NT!
+ bm_channel_lifeforce_bloodline.001.g: "Черты - Каждое поколение будет рождаться сильнее предыдущего" #NT!
+ bm_channel_lifeforce_bloodline.001.h: "Опыт - Древние тайны будут раскрываться перед взором нашей династии" #NT!
+ bm_channel_lifeforce_bloodline.001.x: "Наделённой Багровой Силой" #NT!
+  
+   # Ежегодный опыт крови 
+ blood_mage_yearly_events.002.success: "Наследие вашего Рода даровало вам опыт" #NT!

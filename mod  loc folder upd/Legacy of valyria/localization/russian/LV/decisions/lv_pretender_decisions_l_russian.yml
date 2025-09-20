@@ -1,0 +1,12 @@
+﻿l_russian:
+ LV_form_pretender_empire_decision: "Присвоить мантию Фригольда"
+ LV_form_pretender_empire_decision_tooltip: "Объявите себя наследником Фригольда"
+ LV_form_pretender_empire_decision_desc: "С момента Рока Валирии Эссос остался без единого правителя. На севере дикари-дотракийцы уничтожают всё на своём пути, а на востоке потомки гарпии всё смелее заявляют о своём гискарском наследии. Дочерние колонии Фригольда стали Свободными Городами, и каждый из них в какой-то мере утверждает себя как истинного наследника Валирии. Многие мечтали возродить наследие Фригольда, но лишь немногие осмелились попытаться."
+  
+ LV_form_pretender_empire_legendary_dragonrider_requirement: "Обладать [GetTrait('dragonrider').GetName( GetNullCharacter )] и владеть как минимум #V 1#! королевским титулом"
+ LV_form_pretender_empire_legendary_generic_requirement: "Быть из крови древней Валирии и владеть как минимум #V 1#! имперским титулом"
+ LV_form_pretender_empire_generic_title_requirement: "Должно быть под контролем как минимум #V 3#! королевских титула или #V 2#! имперских титула"
+ LV_form_pretender_empire_free_city_requirement: "Должно быть под контролем как минимум #V 3#! Свободных Города"
+ LV_form_pretender_empire_capital_requirement: "Должно быть под контролем как минимум #V 1#! столица Свободного Города или [GetTitleByKey('c_dragonstone').GetBaseNameNoTier]"
+ LV_form_pretender_empire_decision_effect: "Вы оцениваете затраты на утверждение наследия Фригольда и объявление себя его преемником"
+ LV_form_pretender_empire_decision_confirm: "Мы истинные наследники Валирии!"

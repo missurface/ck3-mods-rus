@@ -1,25 +1,25 @@
 ﻿l_russian:
-   # Death reason 
- death_lifedrain_reason: "Had their life drained out of them by a Blood Mage" #NT!
+   # Death reason
+ death_lifedrain_reason: "Был лишён жизни Магом Крови" #NT!
   
-   # Mass lifedrain 
- mass_lifedrain_prisoners_decision: "Harvest Lifeforce from all Prisoners" #NT!
- mass_lifedrain_prisoners_decision_desc: "The dungeons are filled with prisoners whose lifeforce pulses like ripe fruit ready to be plucked. Their combined energy could fuel powerful blood magic." #NT!
- mass_lifedrain_prisoners_decision_confirm: "Begin the Harvest" #NT!
- mass_lifedrain_prisoners_decision_tooltip: "Select which prisoners to drain, converting their life essence into magical power for your own use." #NT!
- mass_lifedrain_prisoners_decision_effect_message: "Begin a blood ritual to harvest the lifeforce of your prisoners and either\n$EFFECT_LIST_BULLET$Drain all prisoners for maximum lifeforce gain\n$EFFECT_LIST_BULLET$Spare those with valuable traits for potential future use" #NT!
+   # Mass lifedrain
+ mass_lifedrain_prisoners_decision: "Изъять жизненную силу у всех узников" #NT!
+ mass_lifedrain_prisoners_decision_desc: "Темницы полны узников, чья жизненная сила пульсирует как спелые плоды, готовые к сбору. Их объединённая энергия может питать мощную кровяную магию." #NT!
+ mass_lifedrain_prisoners_decision_confirm: "Начать сбор" #NT!
+ mass_lifedrain_prisoners_decision_tooltip: "Выберите узников для поглощения, преобразуя их жизненную сущность в магическую силу для вашего использования." #NT!
+ mass_lifedrain_prisoners_decision_effect_message: "Начните кровавый ритуал по изъятию жизненной силы ваших узников и либо\n$EFFECT_LIST_BULLET$Поглотите всех узников для максимального получения жизненной силы\n$EFFECT_LIST_BULLET$Пощадите тех, кто обладает ценными чертами, для потенциального будущего использования" #NT!
   
-   # Mass Lifedrain 
- bm_mass_lifedrain.001: "The Dungeon Harvest" #NT!
- bm_mass_lifedrain.001.title: "Blood Harvest" #NT!
- bm_mass_lifedrain.001.desc: "You descend into the dank depths of your dungeon, feeling the pulsing lifeforce of your captives through the stone walls. Each prisoner represents raw power waiting to be claimed—their essence transformed into magical energy to fuel your arcane pursuits. The air grows thick with anticipation as you prepare the ritual." #NT!
+   # Mass Lifedrain
+ bm_mass_lifedrain.001: "Жатва в темнице" #NT!
+ bm_mass_lifedrain.001.title: "Кровавая жатва" #NT!
+ bm_mass_lifedrain.001.desc: "Вы спускаетесь в сырые глубины своей темницы, чувствуя пульсацию жизненной силы узников сквозь каменные стены. Каждый пленник представляет собой чистую силу, ожидающую присвоения - их сущность преобразуется в магическую энергию для ваших тайных целей. Воздух сгущается от напряжения, пока вы готовите ритуал." #NT!
   
    # Options 
- bm_mass_lifedrain.001.a: "DRAIN EVERY LAST ONE OF THEM!" #NT!
- bm_mass_lifedrain_custom_tooltip_a: "All prisoners will be drained and you gain lifeforce from each prisoner and blood magic experience, but may incur tyranny for unjustified executions." #NT!
+ bm_mass_lifedrain.001.a: "ВЫСОСАТЬ ИЗ КАЖДОГО ПОСЛЕДНЮЮ КАПЛЮ!" #NT!
+ bm_mass_lifedrain_custom_tooltip_a: "Все узники будут поглощены, вы получите жизненную силу от каждого и опыт кровяной магии, но можете навлечь тиранию за неоправданные казни." #NT!
   
- bm_mass_lifedrain.001.b: "Spare the valuable ones. The rest are fodder." #NT!
- bm_mass_lifedrain_custom_tooltip_b: "Prisoners with valuable traits and close family members will be spared. All others will be drained of their lifeforce." #NT!
+ bm_mass_lifedrain.001.b: "Пощадить ценных. Остальные - расходный материал." #NT!
+ bm_mass_lifedrain_custom_tooltip_b: "Узники с ценными чертами и близкими родственниками будут пощажены. У всех остальных будет изъята жизненная сила." #NT!
   
- bm_mass_lifedrain.001.z: "Perhaps another time..." #NT!
- bm_mass_lifedrain_custom_tooltip_z: "Cancel the ritual. No prisoners will be harmed, and no lifeforce will be gained." #NT!
+ bm_mass_lifedrain.001.z: "Возможно, в другой раз..." #NT!
+ bm_mass_lifedrain_custom_tooltip_z: "Отменить ритуал. Ни один узник не пострадает, жизненная сила не будет получена." #NT!

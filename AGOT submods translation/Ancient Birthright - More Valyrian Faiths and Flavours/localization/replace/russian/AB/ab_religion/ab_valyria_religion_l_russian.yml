@@ -2,138 +2,138 @@
   
  #Valyrian faith addon# 
   
- tenet_lokiria_legacy_desc: "Valyrians are a warrior race. Ever since the days of the old Freehold, our nation has conquered and dominated the lesser races of Essos by right of fire and blood. If we are to reclaim our nation's glorious destiny we must purge the weakness from our bodies." #NT!
- tenet_lokiria_legacy_name: "Warriors of Lokiria" #NT!
- tenet_blood_sorcerer_desc: "Valyria has always been a nation of mighty sorcerers and scientists. Our glory is derived not from mere conquest, but from the domination of the feeble minded. Reclaiming our nation's ancient glory means to rise above the lesser races of the world, in mind and soul." #NT!
- tenet_blood_sorcerer_name: "Legacy of the Sorcerer Kingdom" #NT!
- tenet_blood_purity_desc: "Valyrians are naturally superior to all other races. The blood of the dragon makes us closer to gods than men. We must not allow this sacred blessing to be diluted." #NT!
- tenet_blood_purity_name: "Blood of the Dragon" #NT!
- tenet_aegon_rules_desc: "Aegon the Conqueror achieved what was deemed impossible. He unified the Seven Kingdoms and forged the greatest realm ever seen since the days of old Valyria. His legacy lives on in us and we shall ensure its continuity. Dragons will rule the Seven Kingdoms, now and forever." #NT!
- tenet_aegon_rules_name: "Valar Dohaeris" #NT!
- tenet_valar_morghulis_desc: "They may call us cruel, they may call us tyrants. They may even call us mosters, but is it not a reality of life that the strong triumph over the weak? The ruthless rise high above while the compassionate are left to rot in the dirt. Only he who accepts this eternal truth may call himself a true ruler." #NT!
- tenet_valar_morghulis_name: "Valar Morghulis" #NT!
+ tenet_lokiria_legacy_desc: "Валирийцы — воинственная раса. Со времен древнего Свободного Государства наш народ покорял и подчинял низшие расы Эссоса правом огня и крови. Чтобы вернуть славное предназначение нашей нации, мы должны очиститься от слабости в наших телах."
+ tenet_lokiria_legacy_name: "Воины Локирии"
+ tenet_blood_sorcerer_desc: "Валирия всегда была землей могущественных магов и учёных. Наша слава зиждется не на простых завоеваниях, а на подчинении слабых умом. Возрождение былого величия требует превзойти низшие расы мира — как в разуме, так и в духе."
+ tenet_blood_sorcerer_name: "Наследие Королевства Магов"
+ tenet_blood_purity_desc: "Валирийцы от природы превосходят все иные расы. Кровь дракона делает нас ближе к богам, чем к людям. Мы не позволим осквернить это священное благословение."
+ tenet_blood_purity_name: "Кровь Дракона"
+ tenet_aegon_rules_desc: "Эйгон Завоеватель достиг невозможного. Он объединил Семь Королевств и создал величайшую державу со времён древней Валирии. Его наследие живёт в нас, и мы сохраним его. Драконы будут править Семью Королевствами — ныне и вовеки."
+ tenet_aegon_rules_name: "Valar Dohaeris"
+ tenet_valar_morghulis_desc: "Они могут звать нас жестокими, тиранами или даже чудовищами. Но разве сильный не должен побеждать слабого? Безжалостные возносятся к вершинам, а сострадательные гниют в грязи. Лишь принявший эту истину достоин зваться истинным правителем."
+ tenet_valar_morghulis_name: "Valar Morghulis"
   
-  tenet_scions_desc:0 "The wisdoms of old Valyria are deep and manyfold. Those among us blessed with the gift of foresight speak with the voice of our glorious ancestors and we must listen. 
- tenet_scions_name: "Scions of Fate" #NT!
- tenet_first_daughter_desc: "We are the last true decendants of old Valyria. Preserving this lineage is our sacred mission until there might come a day when the Freehold shall rise anew." #NT!
- tenet_first_daughter_name: "First Daughter of the Freehold" #NT!
+ tenet_scions_desc: "Мудрости древней Валирии глубоки и многогранны. Те из нас, что наделены даром провидения, вещают устами славных предков — и мы должны внимать. 
+ tenet_scions_name: "Наследники Судьбы"
+ tenet_first_daughter_desc: "Мы — последние истинные потомки древней Валирии. Сохранение этой крови — наш священный долг, пока не настанет день возрождения Свободного Государства."
+ tenet_first_daughter_name: "Первая Дочь Свободного Государства"
   
- tenet_good_buisness_desc: "The vast seas of Essos, full of wisdom and treasures long forgotten lay ripe for the taking. Conquering them in the name of our Lord is our sacred duty...and getting filthy rich in the process." #NT!
- tenet_good_buisness_name: "Just Good Business" #NT!
+ tenet_good_buisness_desc: "Необъятные моря Эссоса, полные забытых сокровищ и знаний, ждут своего часа. Покорить их во имя нашего Господа — священный долг... и верный путь к несметному богатству."
+ tenet_good_buisness_name: "Просто Хороший Бизнес"
   
- tenet_anti_magic_desc: "Never forget the pain and the horrors inflicted upon us by the Doom. The Gods punishments are cruel but just. They struck those who, in their folly, sought to become their equal. We have sinned greatly, and we payed for it in fire and blood. May we never stray from the righteous path again, magic in all its dreadful formes must be extinguished." #NT!
- tenet_anti_magic_name: "Never Forget" #NT!
+ tenet_anti_magic_desc: "Помни о боли и ужасах, что принесла нам Погибель. Наказание богов жестоко, но справедливо. Они покарали тех, кто в безумии возмечтал сравняться с ними. Мы согрешили и заплатили огнём и кровью. Чтобы не свернуть с истинного пути вновь, магия во всех её формах должна быть уничтожена."
+ tenet_anti_magic_name: "Никогда Не Забывать"
   
- tenet_priest_council_desc: "While our kin bicker over their so-called 'orthodoxy', we have found that true wisdom can only be achieved through compromise. Our priests regularly commune in a council of fourteen, making sure religious harmony is kept amongst all worshippers, and puishing those who would threaten it." #NT!
- tenet_priest_council_name: "Council of Priests" #NT!
+ tenet_priest_council_desc: "Пока сородичи спорят об «ортодоксии», истинная мудрость рождается лишь в компромиссе. Наши жрецы собираются в Совет Четырнадцати, дабы хранить религиозную гармонию и карать тех, кто ей угрожает."
+ tenet_priest_council_name: "Совет Жрецов"
   
- tenet_beauty_worship_desc: "There is no higher calling in life than the pursuit of beauty. Is not our beauty the most obvious proof of our sacred Valyrian lineage? Those among us blessed by the gods with the radiance of old Valyria deserve our reverence." #NT!
- tenet_beauty_worship_name: "Beauty Worship" #NT!
+ tenet_beauty_worship_desc: "Нет цели благороднее, чем поиск красоты. Разве наша красота — не лучшее доказательство валирийского происхождения? Те, кого боги одарили сиянием древней Валирии, достойны поклонения."
+ tenet_beauty_worship_name: "Поклонение Красоте"
   
- tenet_imperator_desc: "Our emperor's will is absolute. His authority is derived from the gods themselves and so he has the right to judge us for our sins." #NT!
- tenet_imperator_name: "Imperial Divinity" #NT!
+ tenet_imperator_desc: "Воля императора абсолютна. Его власть дана богами, а потому лишь он вправе судить нас за грехи."
+ tenet_imperator_name: "Божественность Императора"
   
- tenet_valyrian_justice_desc: "Our rule is just and true. A Valyrian must judge solely by law and precedent, not compassion. He, who seeks true justice must not allow feelings to cloud his judgement." #NT!
- tenet_valyrian_justice_name: "The Dragon's Law" #NT!
+ tenet_valyrian_justice_desc: "Наше правление справедливо и истинно. Валириец судит только по закону и прецеденту, не ведая милосердия. Тот, кто ищет правду, не позволит чувствам затмить разум."
+ tenet_valyrian_justice_name: "Закон Дракона"
   
- tenet_dragon_union_desc: "Marriage is more than a mere formality or a political instrument. By performing this ancient ritual, two souls are bound together by fire and blood. This sacred union forms the bedrock of our faith and is something everyone should strive defend." #NT!
- tenet_dragon_union_name: "Union of Blood" #NT!
-  
-  
- the_seven_targaryen: "Targaryen Faith of the Seven" #NT!
- the_seven_targaryen_desc: "When Aegon the Conqueror unified the Seven Kingdoms, he and his decendents would adopt the Faith of the Seven. However, for several generations the Targaryen way of worship differed from their Andalic subjects. Most noticeably, in the Targaryen's reverence for Dragons. It was only after the death of their dragons that this distinction became ultimately redundant." #NT!
- the_seven_targaryen_adj: "Targaryen Faith of the Seven" #NT!
- the_seven_targaryen_adherent: "Targaryen Worshipper of the Seven" #NT!
- the_seven_targaryen_adherent_plural: "Targaryen Worshippers of the Seven" #NT!
+ tenet_dragon_union_desc: "Брак - это не просто формальность или политический инструмент. Посредством этого древнего ритуала две души связываются огнём и кровью. Этот священный союз составляет основу нашей веры, и каждый должен стремиться защитить его." #NT!
+ tenet_dragon_union_name: "Союз Крови" #NT!
   
   
- volantene_faith: "Tala hen Perzys" #NT!
- volantene_faith_adj: "Tala hen Perzys" #NT!
- volantene_faith_adherent: "Volantene Worshipper of the Valyrian Gods" #NT!
- volantene_faith_adherent_plural: "Volantene Worshippers of the Valyrian Gods" #NT!
-  volantene_faith_desc:0 "'Tala hen Perzys' or 'Daughter of the Flame' is the name used to refer to the worshippers of the Valyrian gods in Volantis. Since the Doom of Valyria the faith has been steadily declining in favour of other cults or R'hllorism. Today, it is only practiced by a small number of staunch traditionalists among the Volantene nobility and in the more remote regions of the state. Although the followers of 'Tala he Perzys' like to claim they represent an unbroken strain of Valyrian religious orthodoxy, even their faith has been significantly influenced by other religions. Most noteably R'hllorism, as can be seen by the heavy emphasis the faith puts on fire rituals. 
+ the_seven_targaryen: "Вера Семерых Таргариенов"
+ the_seven_targaryen_desc: "Когда Эйгон Завоеватель объединил Семь Королевств, он и его потомки приняли Веру Семерых. Однако поклонение Таргариенов долгое время отличалось от андальских традиций — особенно почитанием драконов. Лишь после гибели драконов эти различия стёрлись."
+ the_seven_targaryen_adj: "Вера Семерых Таргариенов"
+ the_seven_targaryen_adherent: "Таргариенский последователь Веры Семерых"
+ the_seven_targaryen_adherent_plural: "Таргариенские последователи Веры Семерых"
   
- covenant: "Smoking Sea Covenant" #NT!
- covenant_adj: "The Covenant" #NT!
- covenant_adherent: "Sailor of the Lord of Light" #NT!
- covenant_adherent_plural: "Sailors of the Lord of Light" #NT!
- covenant_desc: "The Smoking Sea Covenant is a rather peculiar off-shoot of R'hllorism. Originating in the vibrant and diverse sea port of Elyria its followers seek to spread their lords light from port to port until every ocean shines with his radiance...At least that is what they claim. Many observers have pointed out that their 'holy mission' seems to be nothing but an excuse for personal enrichment." #NT!
   
- mantaryan: "Mantaryan" #NT!
- mantaryan_adj: "Mantaryan Trials" #NT!
- mantaryan_adherent: "Faithful Mantaryan" #NT!
- mantaryan_adherent_plural: "Faithful Mantaryans" #NT!
-  mantaryan_desc:0 "After the Doom befell Valyria, many ancient cultural and religious beliefs were shattered. Nowhere is this more obvious then in Mantarys. For generation the people of the Painted Mountains worshiped the dragons of Valyria as living gods. Following the Doom of Valyria and the nnear extinction of the dragons that came with it, the Mantari became a highly suspicious and isolationist people. Whilestill worshiping the Dragon idols of their ancestors they have developed a fierce hatred for magic and its practitioners whom they deem responsibile for the death of their gods. The Mantari believe that only by cleansing themselves of all forms of magic can they recieve absolution in the next life, where they will be united with their fallen gods once again. 
+ volantene_faith: "Tala hen Perzys"
+ volantene_faith_adj: "Tala hen Perzys"
+ volantene_faith_adherent: "Волантисский почитатель валирийских богов"
+ volantene_faith_adherent_plural: "Волантисские почитатели валирийских богов"
+ volantene_faith_desc: "'Tala hen Perzys' или 'Дочь Пламени' - так называют последователей валирийских богов в Вольантисе. После Гибели Валирии вера неуклонно приходила в упадок, уступая место другим культам и Р'глорову учению. Ныне её исповедуют лишь немногие стойкие традиционалисты среди знати Вольантиса и в отдалённых регионах государства. Хотя последователи 'Tala hen Perzys' любят заявлять, что представляют непрерывную линию валирийской религиозной ортодоксии, даже их вера подверглась значительному влиянию других религий. Наиболее заметно влияние Р'глорового учения, что проявляется в сильном акценте веры на огненные ритуалы." 
   
- maegor_religion: "Maegorism" #NT!
- maegor_religion_adj: "Maegorism" #NT!
- maegor_religion_desc: "A Valyrian offshoot religion practiced by Maegor loyalists" #NT!
-  maegor:0 "Maegorism 
- maegor_adj: "Maegorism" #NT!
-  maegor_adherent:0 "Loyalist 
- maegor_adherent_plural: "Loyalists" #NT!
- maegor_desc: "Although Maegor's rule ultimately ended in defeat, there were still those who remained loyal to his cause until the very end. In the years after, these loyalists began to organise in secret, forming covenants and lamenting the realm's fall from what they precieved to be Valyrian purity. Firmly convinced that Maegor's death was a conspiracy orchestrated by the Worshippers of the Seven, they seek to eradicate the Andalic gods tooth and nail, guiding all those of Valyrian blood back to 'Orthodoxy'. It is unclear, if Maegor himself ever held such beliefs. However his followers have proven to be quite adamant." #NT!
+ covenant: "Договор Дымящегося Моря"
+ covenant_adj: "Договор"
+ covenant_adherent: "Моряк Владыки Света"
+ covenant_adherent_plural: "Моряки Владыки Света"
+ covenant_desc: "Ковенант Дымящегося Моря — необычная ветвь Р'ллоризма. Зародившись в порту Элирии, его последователи стремятся «озарять светом Владыки все моря». Однако многие считают их «священную миссию» прикрытием для личного обогащения."
+  
+ mantaryan: "Мантарьян"
+ mantaryan_adj: "Мантарьянские Испытания"
+ mantaryan_adherent: "Верный Мантариец"
+ mantaryan_adherent_plural: "Верные Мантарийцы"
+ mantaryan_desc: "После того как Гибель обрушилась на Валирию, многие древние культурные и религиозные верования были разрушены. Нигде это не очевиднее, чем в Мантарские. Поколениями жители Раскрашенных Гор поклонялись драконам Валирии как живым богам. После Гибели Валирии и почти полного исчезновения драконов, последовавшего за ней, мантарцы стали крайне подозрительным и изоляционистским народом. Хотя они всё ещё поклоняются драконьим идолам своих предков, у них развилась сильная ненависть к магии и её практикам, которых они считают ответственными за смерть своих богов. Мантарцы верят, что только очистившись от всех форм магии, они смогут получить прощение в следующей жизни, где вновь воссоединятся со своими павшими богами."
+  
+ maegor_religion: "Мейгоризм"
+ maegor_religion_adj: "Мейгоризм"
+ maegor_religion_desc: "Валирийская секта, исповедуемая лоялистами Мейгора"
+ maegor: "Мейгоризм 
+ maegor_adj: "Мейгоризм"
+ maegor_adherent: "Лоялист 
+ maegor_adherent_plural: "Лоялисты"
+ maegor_desc: "После гибели Мейгора его сторонники создали тайные общества, оплакивая «упадок валирийской чистоты». Уверенные, что Мейгор пал жертвой заговора Поклонников Семерых, они стремятся искоренить андальских богов и вернуть «ортодоксию». Неизвестно, разделял ли сам Мейгор эти взгляды, но его последователи фанатичны."
   
  imperial_valyrian: "Geron ēlyr Jaedārys" #NT!
- imperial_valyrian_adj: "Imperial Doctrine" #NT!
- imperial_valyrian_adherent: "Adherent of the Imperial Doctrine" #NT!
- imperial_valyrian_adherent_plural: "Adherents of the Imperial Doctrine" #NT!
- imperial_valyrian_desc: "'Geron ēlȳr Jaedārys' or 'Path of the First Emperor' is a faith which dates back to the last days of the old Freehold. Aurion, sick and tired of the endless bickering and infighting between the factions of the high court, sought to radically reform Valyria's politcal system. Claiming to have recieved a vision from the Gods, he advocated that the noblest and purest of all Dragonlords should rule Valyria by divine mandate as 'Jaedārys' or 'Emperor'. Although Aurion was able to gain a sizeable following, the Doom that soon followed and his disapearance shortly after had forced his remaining followers to reinterpret many of his teachings. What little remains of Aurions following consideres him to be the first Jaedārys, a martyr who died while trying to fulfil his sacred mission of renewing Valyria. Even to this day, there a still those who believe a new Jaedārys will one day rise to reclaim what was lost and fulfil Aurions dream." #NT!
+ imperial_valyrian_adj: "Имперская Доктрина" #NT!
+ imperial_valyrian_adherent: "Последователь Имперской Доктрины" #NT!
+ imperial_valyrian_adherent_plural: "Последователи Имперской Доктрины" #NT!
+ imperial_valyrian_desc: "'Geron ēlȳr Jaedārys' или 'Путь Первого Императора' - вера, восходящая к последним дням старого Вольного Народа. Аурион, уставший от бесконечных склок и междоусобиц между фракциями высшего совета, решил радикально реформировать политическую систему Валирии. Утверждая, что получил видение от богов, он провозгласил, что благороднейший и чистейший из Драконьих Владык должен править Валирией по божественному мандату как 'Jaedārys' или 'Император'. Хотя Аурион смог собрать значительное число последователей, последовавшая вскоре Гибель и его исчезновение вынудили оставшихся приверженцев переосмыслить его учение. Немногие оставшиеся последователи Ауриона считают его первым Jaedārys, мучеником, погибшим при попытке выполнить свою священную миссию по возрождению Валирии. Даже сегодня есть те, кто верит, что новый Jaedārys восстанет, чтобы вернуть утраченное и исполнить мечту Ауриона." #NT!
   
- agot_broken_crown_doctrine_name: "Broken Crown" #NT!
- agot_broken_crown_doctrine_desc: "No one may claim the imperial title until a truly righteous ruler reclaims Valyria from the Doom." #NT!
- agot_broken_crown_name: "$agot_broken_crown_doctrine_name$" #NT!
+ agot_broken_crown_doctrine_name: "Сломанная Корона" #NT!
+ agot_broken_crown_doctrine_desc: "Никто не может претендовать на императорский титул, пока истинно праведный правитель не отвоюет Валирию у Гибели." #NT!
+ agot_broken_crown_name: "$agot_broken_crown_doctrine_name$"
   
- flames_of_passion: "Flames of Passion" #NT!
- flames_of_passion_adj: "Flames of Passion" #NT!
- flames_of_passion_adherent: "Follower of the Empress" #NT!
- flames_of_passion_adherent_plural: "Followers of the Empress" #NT!
- flames_of_passion_desc: "The Flames of Passion trace their origins back to a powerful faction within the ranks of the Valyrian Bloodmages who strongly emphasised the life giving quality of Blood Magic over its more destructive qualities. After the Doom of Valyria, a small fraction of this group went east where this already strongly female centered group adapted many religious and cultural practices of the Court of Leng. Appart from it's largely matriarchical structure, the Flames of Passion's most striking difference to the western Valyrian Cults is its staunch opposition to any form of slavery, believing it to be a practice beneath an otherwise morally and genetically pure Valyrian race." #NT!
+ flames_of_passion: "Пламя Страсти" #NT!
+ flames_of_passion_adj: "Пламени Страсти" #NT!
+ flames_of_passion_adherent: "Последователь Императрицы" #NT!
+ flames_of_passion_adherent_plural: "Последователи Императрицы" #NT!
+ flames_of_passion_desc: "Пламя Страсти ведёт своё происхождение от влиятельной фракции среди валирийских Магов Крови, которая делала особый акцент на жизнетворных аспектах Магии Крови, а не на её разрушительных свойствах. После Гибели Валирии небольшая часть этой группы отправилась на восток, где этот и без того преимущественно женский культ перенял многие религиозные и культурные практики Двора Ленга. Помимо своей в основном матриархальной структуры, главное отличие Пламени Страсти от западных валирийских культов - их решительное неприятие любой формы рабства, которое они считают практикой, недостойной морально и генетически чистой валирийской расы." #NT!
   
- heavenly_wisdom: "Fourteen Heavenly Wisdoms" #NT!
- heavenly_wisdom_adj: "Tolosi Mysticism" #NT!
- heavenly_wisdom_adherent: "Tolosi Mysticist" #NT!
- heavenly_wisdom_adherent_plural: "Tolosi Mysticists" #NT!
- heavenly_wisdom_desc: "A pragmatic faith that originated in Tolos at the crossroads between three worlds. Fourteen Heavenly Wisdoms describes a wide variety of Valyrian beliefs and practices held together mainly by an overarching priesthood which acts as mediator in religious and worldly matters." #NT!
+ heavenly_wisdom: "Четырнадцать Небесных Мудростей" #NT!
+ heavenly_wisdom_adj: "Толосского Мистицизма" #NT!
+ heavenly_wisdom_adherent: "Толосский Мистик" #NT!
+ heavenly_wisdom_adherent_plural: "Толосские Мистики" #NT!
+ heavenly_wisdom_desc: "Прагматичная вера, возникшая в Толосе на перекрёстке трёх миров. Четырнадцать Небесных Мудростей объединяют широкий спектр валирийских верований и практик под руководством всеобъемлющего жречества, выступающего посредником как в религиозных, так и в мирских делах." #NT!
   
- fair_lady: "Cult of Pure Beauty" #NT!
- fair_lady_adj: "Pure Beauty" #NT!
- fair_lady_adherent: "Worshipper of the Pure Beauty" #NT!
- fair_lady_adherent_plural: "Worshippers of the Pure Beauty" #NT!
- fair_lady_desc: "The Cult of Pure Beauty is one the oldest cults in the Free Cities. While originaly hailing from some of the more hedonistic factions within the Valyrian court, it has evolved quite a bit since those days. At its core, it is still a very Valyrian faith with its heavy emphasis on blood purity and proper lineage. The most striking difference however, is the cult's openly matriarchical structure, founded in the believe that only women can give birth to children of pure Valyrian blood and beauty." #NT!
-  
-  
- doctrine_parameter_has_access_to_trials_by_combat: "[crimes|E] by [characters|E] that you cannot [imprison|E] and who aren't your [liege|E] may be settled via [single_combat_fight|E]" #NT!
- doctrine_parameter_can_duel_rivals: "$UNLOCKS_ABILITY_TO_DUEL_RIVALS$" #NT!
- doctrine_parameter_peasant_and_populist_factions_less_common: "Different-[culture|E] [peasant_factions|E] and [popular_factions|E] are less common" #NT!
-  
- agot_maegors_revenge_doctrine_name: "Death to the Seven!" #NT!
- agot_maegors_revenge_doctrine_desc: "The Andals and their accursed gods will pay for what they did. No one shall be spared!" #NT!
- agot_maegors_revenge_name: "$agot_maegors_revenge_doctrine_name$" #NT!
- doctrine_parameter_hostility_override_the_seven_hostility_doctrine: "Considers all $the_seven_religion_adherent_plural$ to be $hostility_evil_tooltippable$" #NT!
- agot_imperial_zealotry_doctrine_name: "Imperial Zealotry" #NT!
- agot_imperial_zealotry_doctrine_desc: "We must not allow anyone to stand in the way of our holy mission. Valyria's might shall cleanse this world." #NT!
- agot_imperial_zealotry_name: "$agot_imperial_zealotry_doctrine_name$" #NT!
- doctrine_parameter_hostility_override_western_essosi_hostility_doctrine: "Consideres the religions of Essos to be $hostility_hostile_tooltippable$" #NT!
- doctrine_parameter_hostility_override_sunset_hostility_doctrine: "Consideres the religions of westeros $hostility_hostile_tooltippable$" #NT!
- doctrine_parameter_hostility_override_grasslands_hostility_doctrine: "Consideres the Dothraki to be $hostility_hostile_tooltippable$" #NT!
- doctrine_parameter_hostility_override_azorian_hostility_doctrine: "Consideres the followers of R'hllor to be $hostility_hostile_tooltippable$" #NT!
+ fair_lady: "Культ Чистой Красоты" #NT!
+ fair_lady_adj: "Чистая красота" #NT!
+ fair_lady_adherent: "Поклонник Чистой Красоты" #NT!
+ fair_lady_adherent_plural: "Поклонники Чистой Красоты" #NT!
+ fair_lady_desc: "Культ Чистой Красоты - один из старейших культов Вольных Городов. Хотя изначально он зародился среди гедонистических фракций валирийского двора, с тех пор он значительно эволюционировал. По своей сути, это всё ещё типично валирийская вера с сильным акцентом на чистоту крови и знатную родословную. Однако самое заметное отличие - открыто матриархальная структура культа, основанная на убеждении, что только женщины способны рождать детей чистой валирийской крови и красоты." #NT!
   
   
+ doctrine_parameter_has_access_to_trials_by_combat: "[crimes|E], совершённые [characters|E], которых вы не можете [imprison|E] и которые не являются вашим [liege|E], могут быть решены через [single_combat_fight|E]"
+ doctrine_parameter_can_duel_rivals: "$UNLOCKS_ABILITY_TO_DUEL_RIVALS$"
+ doctrine_parameter_peasant_and_populist_factions_less_common: "[peasant_factions|E] и [popular_factions|E] разных [culture|E] встречаются реже"
   
- tenet_bobby_b_desc: "BOW YA SHITS!" #NT!
- tenet_bobby_b_name: "Bobby B. Supremacy" #NT!
+ agot_maegors_revenge_doctrine_name: "Смерть Семерке!"
+ agot_maegors_revenge_doctrine_desc: "Андалы и их проклятые боги заплатят за содеянное. Никто не получит пощады!"
+ agot_maegors_revenge_name: "$agot_maegors_revenge_doctrine_name$"
+ doctrine_parameter_hostility_override_the_seven_hostility_doctrine: "Считает всех $the_seven_religion_adherent_plural$ $hostility_evil_tooltippable$"
+ agot_imperial_zealotry_doctrine_name: "Имперский Фанатизм"
+ agot_imperial_zealotry_doctrine_desc: "Мы не позволим никому встать на пути нашей священной миссии. Мощь Валирии очистит этот мир."
+ agot_imperial_zealotry_name: "$agot_imperial_zealotry_doctrine_name$"
+ doctrine_parameter_hostility_override_western_essosi_hostility_doctrine: "Считает религии Эссоса $hostility_hostile_tooltippable$"
+ doctrine_parameter_hostility_override_sunset_hostility_doctrine: "Считает религии Вестероса $hostility_hostile_tooltippable$"
+ doctrine_parameter_hostility_override_grasslands_hostility_doctrine: "Считает дотракийцев $hostility_hostile_tooltippable$"
+ doctrine_parameter_hostility_override_azorian_hostility_doctrine: "Считает последователей Р'глора $hostility_hostile_tooltippable$"
+  
+  
+  
+ tenet_bobby_b_desc: "Поклонитесь, сволочи!"
+ tenet_bobby_b_name: "Верховенство Бобби Б."
   
  #Religious Names# 
   
- imperial_valyrian_religious_head_title: "Jaedārys" #NT!
- imperial_valyrian_religious_head_title_name: "Dragon Throne" #NT!
+ imperial_valyrian_religious_head_title: "Jaedārys"
+ imperial_valyrian_religious_head_title_name: "Драконий Трон"
   
- k_dragon_throne: "Dragon Throne" #NT!
- d_munar: "High Priesthood of the Sacred Mothers" #NT!
+ k_dragon_throne: "Драконий Трон"
+ d_munar: "Верховное Жречество Святых Матерей" #NT!
   
- fire_and_blood_blocked_rel: "This is unlocked via the #bold Fire and Blood decision#!" #NT!
+ fire_and_blood_blocked_rel: "Это разблокируется через решение #bold Огонь и Кровь#!"
   
- doctrine_requires_temporal_head_of_faith: "Requires [GetFaithDoctrine('doctrine_temporal_head').GetBaseName] head of faith" #NT!
+ doctrine_requires_temporal_head_of_faith: "Требуется [GetFaithDoctrine('doctrine_temporal_head').GetBaseName] как глава веры"
   
   

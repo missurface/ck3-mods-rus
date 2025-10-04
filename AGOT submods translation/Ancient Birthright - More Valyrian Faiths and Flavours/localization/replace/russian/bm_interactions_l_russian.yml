@@ -1,53 +1,53 @@
 ﻿l_russian:
    # Give blood magic 
- grant_blood_magic_interaction: "Make Them a Blood Mage" #NT!
- grant_blood_magic_interaction_desc: "[recipient.GetShortUINameNoTooltip] will be granted the power of blood magic" #NT!
+ grant_blood_magic_interaction: "Наделить Магией Крови" #NT!
+ grant_blood_magic_interaction_desc: "[recipient.GetShortUINameNoTooltip] получит силу магии крови" #NT!
   
    # Ask for blood magic 
- ask_for_blood_magic_interaction: "Ask for Blood Magic" #NT!
- ask_for_blood_magic_interaction_desc: "[recipient.GetShortUINameNoTooltip] is granted the power of blood magic" #NT!
- ask_for_blood_magic_interaction_requirement: "Needs to be your friend, best friend, lover or soulmate" #NT!
- NOT_ask_for_blood_magic_interaction_requirement: "Needs to be your friend, best friend, lover or soulmate" #NT!
+ ask_for_blood_magic_interaction: "Просить Магию Крови " #NT!
+ ask_for_blood_magic_interaction_desc: "[recipient.GetShortUINameNoTooltip] получает силу магии крови" #NT!
+ ask_for_blood_magic_interaction_requirement: "Требуется быть вашим другом, лучшим другом, любовником или родственной душой" #NT!
+ NOT_ask_for_blood_magic_interaction_requirement: "Требуется быть вашим другом, лучшим другом, любовником или родственной душой" #NT!
   
    # Get blood magic from prisoner 
- bm_get_blood_magic_from_prisoner_interaction: "Get blood magic from prisoner" #NT!
- bm_get_blood_magic_from_prisoner_interaction.success: "I become a Blood Mage" #NT!
- bm_get_blood_magic_from_prisoner_interaction.fail: "I fail to become a Blood Mage" #NT!
- bm_get_blood_magic_from_prisoner_interaction.desc: "I consume their flesh, in an attempt to gain their Blood Magic" #NT!
+ bm_get_blood_magic_from_prisoner_interaction: "Получить Магию Крови  от пленника" #NT!
+ bm_get_blood_magic_from_prisoner_interaction.success: "Я становлюсь Магом Крови" #NT!
+ bm_get_blood_magic_from_prisoner_interaction.fail: "Мне не удалось стать Магом Крови" #NT!
+ bm_get_blood_magic_from_prisoner_interaction.desc: "Я потребляю их плоть в попытке перенять их Магию Крови " #NT!
   
    # Grant Lifeforce 
- grant_lifeforce_interaction: "Grant Lifeforce" #NT!
- grant_lifeforce_interaction_desc: "Channel your lifeforce into [recipient.GetShortUINameNoTooltip]." #NT!
- grant_lifeforce_interaction.grant_minor: "Grant Minor Lifeforce" #NT!
- grant_lifeforce_interaction.grant_major: "Grant Major Lifeforce" #NT!
- grant_lifeforce_interaction.toast: "I granted [recipient.GetShortUINameNoTooltip] lifeforce" #NT!
- grant_lifeforce_interaction_requirement: "You need either [GetModifier('lifeforce_modifier_minor').GetNameWithTooltip] or [GetModifier('lifeforce_modifier_major').GetNameWithTooltip] to grant lifeforce." #NT!
- NOT_grant_lifeforce_interaction_requirement: "You need either [GetModifier('lifeforce_modifier_minor').GetNameWithTooltip] or [GetModifier('lifeforce_modifier_major').GetNameWithTooltip] to grant lifeforce." #NT!
+ grant_lifeforce_interaction: "Дать Жизненную Силу" #NT!
+ grant_lifeforce_interaction_desc: "Направьте свою жизненную силу в [recipient.GetShortUINameNoTooltip]." #NT!
+ grant_lifeforce_interaction.grant_minor: "Дать Малую Жизненную Силу" #NT!
+ grant_lifeforce_interaction.grant_major: "Дать Основную Жизненную Силу" #NT!
+ grant_lifeforce_interaction.toast: "Я даровал(а) [recipient.GetShortUINameNoTooltip] жизненную силу" #NT!
+ grant_lifeforce_interaction_requirement: "Вам требуется либо [GetModifier('lifeforce_modifier_minor').GetNameWithTooltip], либо [GetModifier('lifeforce_modifier_major').GetNameWithTooltip], чтобы дать жизненную силу." #NT!
+ NOT_grant_lifeforce_interaction_requirement: "Вам требуется либо [GetModifier('lifeforce_modifier_minor').GetNameWithTooltip], либо [GetModifier('lifeforce_modifier_major').GetNameWithTooltip], чтобы дать жизненную силу." #NT!
   
   
    # Reverse lifedrained 
- grant_lifeforce_interaction_reversed: "Reverse Lifedrain" #NT!
- grant_lifeforce_interaction_reversed_desc: "[recipient.GetShortUINameNoTooltip] was [GetModifier('lifedrained_modifier').GetNameWithTooltip], but I can give it back to them" #NT!
+ grant_lifeforce_interaction_reversed: "Обратное Поглощение Жизни" #NT!
+ grant_lifeforce_interaction_reversed_desc: "[recipient.GetShortUINameNoTooltip] был(а) [GetModifier('lifedrained_modifier').GetNameWithTooltip], но я могу вернуть её обратно" #NT!
   
    # Cure illness 
- heal_disease_minor: "Heal Minor Ailment" #NT!
- heal_disease_major: "Heal Ailment" #NT!
- heal_disease_benediction: "Heal Deadly Ailment" #NT!
+ heal_disease_minor: "Лечить Лёгкий Недуг" #NT!
+ heal_disease_major: "Лечить Заболевание" #NT!
+ heal_disease_benediction: "Лечить Смертельный Недуг" #NT!
   
- heal_disease_minor_desc: "Heal Minor Ailment" #NT!
- heal_disease_major_desc: "Heal Ailment" #NT!
- heal_disease_benediction_desc: "Heal Deadly Ailment" #NT!
+ heal_disease_minor_desc: "Лечить Лёгкий Недуг" #NT!
+ heal_disease_major_desc: "Лечить Заболевание" #NT!
+ heal_disease_benediction_desc: "Лечить Смертельный Недуг" #NT!
   
    # Give blood prowess 
- grant_crimson_warrior_interaction: "Make into Crimson Warrior" #NT!
- grant_crimson_warrior_interaction_desc: "Channel your lifeforce into [recipient.GetShortUINameNoTooltip], permanently enhancing their combat abilities through blood magic." #NT!
- lifeforce_modifier_crimson_warrior: "Crimson Warrior" #NT!
- lifeforce_modifier_crimson_warrior_desc: "This warrior's blood has been infused with arcane power, granting supernatural combat abilities." #NT!
+ grant_crimson_warrior_interaction: "Создать Багрового Воина" #NT!
+ grant_crimson_warrior_interaction_desc: "Направьте свою жизненную силу в [recipient.GetShortUINameNoTooltip], постоянно усиливая их боевые способности с помощью магии крови." #NT!
+ lifeforce_modifier_crimson_warrior: "Багровый Воин" #NT!
+ lifeforce_modifier_crimson_warrior_desc: "Кровь этого воина наполнена мистической силой, даруя сверхъестественные боевые способности." #NT!
   
- grant_crimson_champion_interaction: "Make into Crimson Champion" #NT!
- grant_crimson_champion_interaction_desc: "Channel your lifeforce into [recipient.GetShortUINameNoTooltip], permanently enhancing their combat abilities through blood magic." #NT!
- lifeforce_modifier_crimson_champion: "Crimson Champion" #NT!
- lifeforce_modifier_crimson_champion_desc: "This warrior's blood has been infused with arcane power, granting supernatural combat abilities." #NT!
+ grant_crimson_champion_interaction: "Создать Багрового Чемпиона" #NT!
+ grant_crimson_champion_interaction_desc: "Направьте свою жизненную силу в [recipient.GetShortUINameNoTooltip], постоянно усиливая их боевые способности с помощью магии крови." #NT!
+ lifeforce_modifier_crimson_champion: "Багровый Чемпион" #NT!
+ lifeforce_modifier_crimson_champion_desc: "Кровь этого воина наполнена мистической силой, даруя сверхъестественные боевые способности." #NT!
   
    # Tooltips 
- IN_COURT_OR_IMPRISONED: "Can only heal yourself or your courtiers" #NT!
+ IN_COURT_OR_IMPRISONED: "Можно лечить только себя или своих придворных" #NT!

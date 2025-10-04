@@ -1,48 +1,48 @@
 ﻿l_russian:
- trait_born_amongst_the_flames: "Born Amongst the Flames" #NT!
- trait_born_amongst_the_flames_desc: "This character was born in the Obsidian chambers of one of the last remaining Valyrian volcanoes, marking them as high nobility." #NT!
- trait_born_amongst_the_flames_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] was born in the Obsidian chambers of one of the last remaining Valyrian volcanoes, marking [ROOT.Char.GetHerHim|L] as high nobility." #NT!
+ trait_born_amongst_the_flames: "Рождённый среди Пламени"
+ trait_born_amongst_the_flames_desc: "Этот персонаж был рождён в обсидиановых покоях одного из последних действующих вулканов Валирии, что отмечает его принадлежность к высшей знати."
+ trait_born_amongst_the_flames_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] был(а) рождён(а) в обсидиановых покоях одного из последних действующих вулканов Валирии, что отмечает [ROOT.Char.GetHerHim|L] как представителя высшей знати."
   
- trait_dragon_emperor: "Jaedārys" #NT!
- trait_dragon_emperor_desc: "This character is the current holder of the Valyrian imperial title, wielding a power the likes of which hasn't been seen on this earth since the Dawn Age." #NT!
- trait_dragon_emperor_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the current holder of the Valyrian imperial title, wielding a power the likes of which hasn't been seen on this earth since the Dawn Age." #NT!
+ trait_dragon_emperor: "Jaedārys"
+ trait_dragon_emperor_desc: "Этот персонаж — нынешний обладатель валирийского императорского титула, чья сила не видела аналогов с времён Рассветной Эры."
+ trait_dragon_emperor_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] — нынешний обладатель валирийского императорского титула, чья сила не видела аналогов с времён Рассветной Эры."
   
  trait_blood_dawn: "Ōz Ānogar" #NT!
- trait_blood_dawn_desc: "Ancient, mighty, and proud. A power rests in this character that cannot be described in words." #NT!
-  trait_blood_dawn_character_desc:0 "Ancient, mighty, and proud. A power rests in [ROOT.GetCharacter.GetFirstNameNoTooltip] that cannot be described in words. 
+ trait_blood_dawn_desc: "Древний, могучий и гордый. В этом персонаже заключена сила, неописуемая словами." #NT!
+ trait_blood_dawn_character_desc: "Древний(яя), могучий(ая) и гордый(ая). В [ROOT.GetCharacter.GetFirstNameNoTooltip] заключена сила, неописуемая словами." #NT!
   
- trait_doomed: "Marked by the Doom" #NT!
- trait_doomed_desc: "This character survived the Doom of Valyria. Whatever happened that faithful day changed them forever. Although their body will never wither or sucumb to disease, it is also utterly incapable of giving life." #NT!
- trait_doomed_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] survived the Doom of Valyria. Whatever happened that faithful day changed [ROOT.Char.GetHerHim|L] forever. Although [ROOT.Char.GetHerHim|L] body will never wither or sucumb to disease, it is also utterly incapable of giving life." #NT!
+ trait_doomed: "Отмечен(а) Гибелью" #NT!
+ trait_doomed_desc: "Этот персонаж пережил(а) Гибель Валирии. События того рокового дня навсегда изменили его. Хотя его тело никогда не увянет и не поддастся болезням, оно также совершенно неспособно давать жизнь." #NT!
+ trait_doomed_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] пережил(а) Гибель Валирии. События того рокового дня навсегда изменили [ROOT.Char.GetHerHim|L]. Хотя тело [ROOT.Char.GetHerHim|L] никогда не увянет и не поддастся болезням, оно также совершенно неспособно давать жизнь." #NT!
   
- trait_guardian_epaekros: "Guardian of Epaekros" #NT!
- trait_guardian_epaekros_desc: "This character is the guardian of Epaekros, one of the remaining Fourteen Flames of Valyria. A position of great power and prestige." #NT!
- trait_guardian_epaekros_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the guardian of Epaekros, one of the remaining Fourteen Flames of Valyria. A position of great power and prestige." #NT!
+ trait_guardian_epaekros: "Хранитель Эпаэкроса" #NT!
+ trait_guardian_epaekros_desc: "Этот персонаж - хранитель Эпаэкроса, одного из оставшихся Четырнадцати Пламен Валирии. Позиция великой силы и престижа." #NT!
+ trait_guardian_epaekros_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] - хранитель Эпаэкроса, одного из оставшихся Четырнадцати Пламен Валирии. Позиция великой силы и престижа." #NT!
   
- trait_guardian_tartarax: "Guardian of Tartarax" #NT!
- trait_guardian_tartarax_desc: "This character is the guardian of Tartarax, the flame of Valyria's sacred capital. A position of great power and prestige." #NT!
- trait_guardian_tartarax_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the guardian of Tartarax, the flame of Valyria's sacred capital. A position of great power and prestige." #NT!
+ trait_guardian_tartarax: "Хранитель Тартаракса" #NT!
+ trait_guardian_tartarax_desc: "Этот персонаж - хранитель Тартаракса, пламени священной столицы Валирии. Позиция великой силы и престижа." #NT!
+ trait_guardian_tartarax_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] - хранитель Тартаракса, пламени священной столицы Валирии. Позиция великой силы и престижа." #NT!
   
- trait_guardian_gaelithox: "Guardian of Gaelithox" #NT!
- trait_guardian_gaelithox_desc: "This character is the guardian of Gaelithox, one of the remaining Fourteen Flames of Valyria. A position of great power and prestige." #NT!
- trait_guardian_gaelithox_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the guardian of Gaelithox, one of the remaining Fourteen Flames of Valyria. A position of great power and prestige." #NT!
+ trait_guardian_gaelithox: "Хранитель Гаэлитокса" #NT!
+ trait_guardian_gaelithox_desc: "Этот персонаж - хранитель Гаэлитокса, одного из оставшихся Четырнадцати Пламен Валирии. Позиция великой силы и престижа." #NT!
+ trait_guardian_gaelithox_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] - хранитель Гаэлитокса, одного из оставшихся Четырнадцати Пламен Валирии. Позиция великой силы и престижа." #NT!
   
- trait_guardian_yontaryos: "Guardian of Yontaryos" #NT!
- trait_guardian_yontaryos_desc: "This character is the guardian of Yontaryos, one of the remaining Fourteen Flames of Valyria. A position of great power and prestige." #NT!
- trait_guardian_yontaryos_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the guardian of Yontaryos, one of the remaining Fourteen Flames of Valyria. A position of great power and prestige." #NT!
+ trait_guardian_yontaryos: "Хранитель Йонтариоса" #NT!
+ trait_guardian_yontaryos_desc: "Этот персонаж - хранитель Йонтариоса, одного из оставшихся Четырнадцати Пламен Валирии. Позиция великой силы и престижа." #NT!
+ trait_guardian_yontaryos_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] - хранитель Йонтариоса, одного из оставшихся Четырнадцати Пламен Валирии. Позиция великой силы и престижа." #NT!
   
- trait_guardian_qazdarsos: "Guardian of Qazdarsos" #NT!
- trait_guardian_qazdarsos_desc: "This character is the guardian of Qazdarsos, one of the remaining Fourteen Flames of Valyria. Although its flame has long been extinguished, the ruler of Aquos Daen is still considered one of the great lords of Valyria." #NT!
- trait_guardian_qazdarsos_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the guardian of Qazdarsos, one of the remaining Fourteen Flames of Valyria. Although its flame has long been extinguished, the ruler of Aquos Daen is still considered one of the great lords of Valyria." #NT!
+ trait_guardian_qazdarsos: "Хранитель Кваздарсоса" #NT!
+ trait_guardian_qazdarsos_desc: "Этот персонаж - хранитель Кваздарсоса, одного из оставшихся Четырнадцати Пламен Валирии. Хотя его пламя давно угасло, правитель Аквос Дэна всё ещё считается одним из великих лордов Валирии." #NT!
+ trait_guardian_qazdarsos_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] - хранитель Кваздарсоса, одного из оставшихся Четырнадцати Пламен Валирии. Хотя его пламя давно угасло, правитель Аквос Дэна всё ещё считается одним из великих лордов Валирии." #NT!
   
- trait_guardian_syrabelos: "Guardian of Syrabelos" #NT!
- trait_guardian_syrabelos_desc: "This character is the guardian of Syrabelos, on of the remaining Fourteen Flames of Valyria. Although its flame has long been extinguished, the rulers of Draghul have been the stewards of the capital since ancient days." #NT!
- trait_guardian_syrabelos_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the guardian of Syrabelos, on of the remaining Fourteen Flames of Valyria. Although its flame has long been extinguished, the rulers of Draghul have been the stewards of the capital since ancient days." #NT!
+ trait_guardian_syrabelos: "Хранитель Сырабелоса" #NT!
+ trait_guardian_syrabelos_desc: "Этот персонаж - хранитель Сырабелоса, одного из оставшихся Четырнадцати Пламен Валирии. Хотя его пламя давно угасло, правители Драгула с древних времён были хранителями столицы." #NT!
+ trait_guardian_syrabelos_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] - хранитель Сырабелоса, одного из оставшихся Четырнадцати Пламен Валирии. Хотя его пламя давно угасло, правители Драгула с древних времён были хранителями столицы." #NT!
   
- trait_guardian_rhazalhar: "Guardian of Rhazalhar" #NT!
- trait_guardian_rhazalhar_desc: "This character is the guardian of Rhazalhar, one of the remaining Fourteen Flames of Valyria. A position of great power and prestige." #NT!
- trait_guardian_rhazalhar_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the guardian of Rhazalhar, one of the remaining Fourteen Flames of Valyria. A position of great power and prestige." #NT!
+ trait_guardian_rhazalhar: "Хранитель Разалхара" #NT!
+ trait_guardian_rhazalhar_desc: "Этот персонаж - хранитель Разалхара, одного из оставшихся Четырнадцати Пламен Валирии. Позиция великой силы и престижа." #NT!
+ trait_guardian_rhazalhar_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] - хранитель Разалхара, одного из оставшихся Четырнадцати Пламен Валирии. Позиция великой силы и престижа." #NT!
   
- trait_guardian_procrazion: "Castellan of Procrazion" #NT!
- trait_guardian_procrazion_desc: "This character is Castellan of the ancient city of Procrazion, the center of Valyrian power on the mainland. A position of great power and prestige." #NT!
- trait_guardian_procrazion_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is Castellan of the ancient city of Procrazion, the center of Valyrian power on the mainland. A position of great power and prestige." #NT!
+ trait_guardian_procrazion: "Кастелян Прокразиона" #NT!
+ trait_guardian_procrazion_desc: "Этот персонаж - кастелян древнего города Прокразион, центра валирийской власти на материке. Позиция великой силы и престижа." #NT!
+ trait_guardian_procrazion_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] - кастелян древнего города Прокразион, центра валирийской власти на материке. Позиция великой силы и престижа." #NT!

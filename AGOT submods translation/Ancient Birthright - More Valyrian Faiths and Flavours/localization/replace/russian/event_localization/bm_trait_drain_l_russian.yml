@@ -1,16 +1,16 @@
 ﻿l_russian:
    # Blood mage 
- bm_trait_drain.001.title: "The Essence Harvest" #NT!
- bm_trait_drain.001.desc: "The prisoner kneels before you, terror evident in their wide eyes as crimson runes flicker to life on the chamber floor. Their pleas for mercy fade to whispers as you approach, your fingers tracing arcane patterns in the air. You can sense what makes them special—that spark of intelligence, that physical prowess, that uncanny beauty—pulsing beneath their skin like a beacon calling to your power.\n\nBlood magic requires sacrifice, and their unique gifts will soon become yours. The air grows thick with anticipation as tendrils of your consciousness reach out, preparing to extract what you desire. Their lips quiver, forming desperate words:\n\n\"Please... anything but this...\"\n\nBut you know better. Their essence will serve you far more effectively than their flesh ever could." #NT!
+ bm_trait_drain.001.title: "Сбор Сущности" #NT!
+ bm_trait_drain.001.desc: "Узник стоит на коленях перед вами, ужас читается в его широко раскрытых глазах, пока багровые руны вспыхивают на полу покоя. Его мольбы о пощаде затихают, когда вы приближаетесь, выводя в воздухе мистические символы. Вы чувствуете, что делает его особенным - эту искру интеллекта, физическое превосходство, неестественную красоту - пульсирующие под кожей как маяк, взывающий к вашей силе.\n\nКровяная магия требует жертв, и их уникальные дары скоро станут вашими. Воздух сгущается от напряжения, когда щупальца вашего сознания протягиваются, готовые извлечь желаемое. Его губы дрожат, складываясь в отчаянные слова:\n\n\"Прошу... что угодно, только не это...\"\n\nНо вы знаете лучше. Их сущность послужит вам куда эффективнее, чем их плоть." #NT!
   
- bm_trait_drain.001.z: "Let them go..." #NT!
- bm_trait_drain.001.b: "They seem quite smart. I could use that" #NT!
- bm_trait_drain.001.c: "I could be stronger..." #NT!
- bm_trait_drain.001.d: "What a beautiful person... Why shouldn't I look the same?" #NT!
- bm_trait_drain.001.e: "Nice" #NT!
- bm_trait_drain.001.f: "What a tall person. I wonder what the weather is like up there..." #NT!
- bm_trait_drain.001.g: "Their blood is quite delicious..." #NT!
- bm_trait_drain.001.h: "They are very strong, I could use that." #NT!
- bm_trait_drain.001.fail: "I fail to drain their trait" #NT!
- bm_trait_drain.001.success: "I drain their trait" #NT!
- bm_trait_drain.001.nice: "Nice" #NT!
+ bm_trait_drain.001.z: "Отпустить их..." #NT!
+ bm_trait_drain.001.b: "Кажется, они умны. Мне это пригодится" #NT!
+ bm_trait_drain.001.c: "Я мог(ла) бы стать сильнее..." #NT!
+ bm_trait_drain.001.d: "Какой прекрасный человек... Почему я не должна выглядеть так же?" #NT!
+ bm_trait_drain.001.e: "Отлично" #NT!
+ bm_trait_drain.001.f: "Какой высокий человек. Интересно, какая погода там наверху..." #NT!
+ bm_trait_drain.001.g: "Их кровь весьма вкусна..." #NT!
+ bm_trait_drain.001.h: "Они очень сильны, мне это пригодится." #NT!
+ bm_trait_drain.001.fail: "Не удалось поглотить их черту" #NT!
+ bm_trait_drain.001.success: "Я поглощаю их черту" #NT!
+ bm_trait_drain.001.nice: "Отлично" #NT!

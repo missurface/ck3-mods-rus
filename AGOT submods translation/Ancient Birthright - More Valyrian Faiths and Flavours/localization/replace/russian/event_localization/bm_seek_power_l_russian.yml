@@ -1,55 +1,55 @@
 ﻿l_russian:
    # Nature Sacrifice 
- seek_power_decision: "Seek Power in Nature's Domain" #NT!
- seek_power_decision_desc: "Venture into the wilderness beyond your settlement, where the primal forces of blood magic are strongest. Wild beasts and lost wanderers alike can provide sustenance for your arcane hunger or become vessels for your mystical experiments." #NT!
- seek_power_decision_confirm: "Enter the untamed wilds" #NT!
- seek_power_decision_tooltip: "Explore the wilderness to find sacrifices that will fuel your blood magic—either from beasts of the wild or unfortunate souls who cross your path." #NT!
+ seek_power_decision: "Искать Силу во Владениях Природы" #NT!
+ seek_power_decision_desc: "Отправьтесь в дикие земли за пределами своих владений, где первозданные силы кровяной магии наиболее могущественны. Дикие звери и заблудшие странники могут стать пищей для вашего магического голода или сосудами для мистических экспериментов." #NT!
+ seek_power_decision_confirm: "Войти в необузданную глушь" #NT!
+ seek_power_decision_tooltip: "Исследуйте дикие земли в поисках жертв для своей кровяной магии - будь то дикие звери или несчастные души, встретившиеся на вашем пути." #NT!
   
      # Nature Sacrifice 
- seek_power_decision_wanderer: "Seek Power in Nature's Domain" #NT!
- seek_power_decision_wanderer_desc: "Venture into the wilderness beyond your settlement, where the primal forces of blood magic are strongest. Wild beasts and lost wanderers alike can provide sustenance for your arcane hunger or become vessels for your mystical experiments." #NT!
- seek_power_decision_wanderer_confirm: "Enter the untamed wilds" #NT!
- seek_power_decision_wanderer_tooltip: "Explore the wilderness to find sacrifices that will fuel your blood magic—either from beasts of the wild or unfortunate souls who cross your path." #NT!
+ seek_power_decision_wanderer: "Искать Силу во Владениях Природы" #NT!
+ seek_power_decision_wanderer_desc: "Отправьтесь в дикие земли за пределами своих владений, где первозданные силы кровяной магии наиболее могущественны. Дикие звери и заблудшие странники могут стать пищей для вашего магического голода или сосудами для мистических экспериментов." #NT!
+ seek_power_decision_wanderer_confirm: "Войти в необузданную глушь" #NT!
+ seek_power_decision_wanderer_tooltip: "Исследуйте дикие земли в поисках жертв для своей кровяной магии - будь то дикие звери или несчастные души, встретившиеся на вашем пути." #NT!
   
- nick_the_wanderer: "the Wanderer" #NT!
- nick_the_wanderer_desc: "They wander around, aimlessly" #NT!
+ nick_the_wanderer: "Странник" #NT!
+ nick_the_wanderer_desc: "Блуждает бесцельно" #NT!
   
    # Event Titles 
- seek_power.001.title: "The Untamed Wilds" #NT!
- seek_power.002.title: "Wilderness Harvest" #NT!
- seek_power.003.title: "A Lost Soul" #NT!
- seek_power.004.title: "The Bleeding Heart of the Forest" #NT!
+ seek_power.001.title: "Необузданная Глушь" #NT!
+ seek_power.002.title: "Дикая Жатва" #NT!
+ seek_power.003.title: "Заблудшая Душа" #NT!
+ seek_power.004.title: "Кровоточащее Сердце Леса" #NT!
   
    # Event Descriptions 
- seek_power.001.desc: "The wilderness beyond your settlement pulses with life energy. Ancient trees reach toward the sky, their roots drinking deep from soil enriched by countless cycles of death and rebirth. As you venture deeper into nature's domain, you feel the primal power of blood magic growing stronger, drawing you toward potential sacrifices that might feed your arcane hunger." #NT!
- seek_power.002.desc: "Your hunt leads you to a magnificent stag, its breath creating clouds of mist in the cold air. The creature stands proud, unaware of your approach as you prepare your ritual. Blood magic requires no bow or blade—just your will and the ancient words of power. As you begin the incantation, you feel the connection forming between your essence and the animal's life force." #NT!
- seek_power.003.desc: "Deep in the wilderness, far from any path, you encounter a solitary figure. Dressed in tattered clothes and trembling from exposure, the traveler appears to have lost their way days ago. Gaunt and weakened, they look up at your approach with both hope and fear in their eyes. Despite their pitiable state, you sense something valuable that others would overlook—life essence ripe for the taking... or perhaps a chance to demonstrate mercy through your arcane gifts." #NT!
- seek_power.004.desc: "Deep within the primal forest, where sunlight rarely filters through the thick canopy, you discover an aberration of nature—a massive oak tree unlike any you've ever seen. Its trunk, wide as a castle wall, pulses with visible rhythm. Ancient runes are carved into its bark, their meanings lost to time.\n\nWhen you place your hand upon its surface, it's warm like flesh. You feel drawn to make a small cut in the bark, and to your astonishment, crimson sap that looks and smells exactly like blood begins to flow freely. It's not just tree sap—this ancient sentinel has absorbed the essence of thousands of creatures over centuries, creating a nexus of pure life energy.\n\nAs your fingers touch the crimson liquid, visions flood your mind—ancient beasts, forgotten civilizations, and secrets buried by time. This tree has witnessed everything, its roots reaching deep into the heart of the world itself. Such power could fuel your magic beyond measure, but taking too much might anger whatever primordial force sustains this marvel." #NT!
+ seek_power.001.desc: "Дикие земли за пределами ваших владений пульсируют жизненной энергией. Древние деревья тянутся к небу, их корни пьют влагу из почвы, обогащённой бесчисленными циклами смерти и возрождения. По мере погружения во владения природы вы чувствуете, как первобытная сила кровяной магии нарастает, влеча вас к потенциальным жертвам, которые смогут утолить ваш магический голод." #NT!
+ seek_power.002.desc: "Ваша охота приводит вас к великолепному оленю, чьё дыхание создаёт облака пара на холодном воздухе. Гордое создание не замечает вашего приближения, пока вы готовите ритуал. Кровяная магия не требует лука или клинка - лишь вашей воли и древних слов силы. Когда вы начинаете заклинание, вы чувствуете связь между вашей сущностью и жизненной силой животного." #NT!
+ seek_power.003.desc: "В глухой чаще, вдали от троп, вы встречаете одинокую фигуру. В лохмотьях и дрожащую от холода, путница, похоже, заблудилась несколько дней назад. Истощённая и ослабевшая, она смотрит на ваше приближение с надеждой и страхом в глазах. Несмотря на жалкое состояние, вы ощущаете нечто ценное, что другие упустили бы - созревшую для взятия жизненную сущность... или шанс проявить милосердие через ваши магические дары." #NT!
+ seek_power.004.desc: "В глубине первобытного леса, куда редко проникает солнечный свет сквозь плотный полог, вы обнаруживаете аномалию природы - исполинский дуб, непохожий на те, что вы видели прежде. Его ствол шириной с крепостную стену пульсирует в видимом ритме. Древние руны, вырезанные на коре, давно утратили смысл.\n\nКогда вы прикасаетесь к поверхности, она тёплая, как плоть. Вас тянет сделать надрез на коре, и к вашему изумлению, начинает течь багровая смола, выглядящая и пахнущая точно как кровь. Это не просто древесный сок - этот древний страж веками впитывал сущности тысяч созданий, став средоточием чистой жизненной энергии.\n\nКасаясь алой жидкости, вы испытываете поток видений - древних чудовищ, забытых цивилизаций, тайн, погребённых временем. Это дерево видело всё, его корни уходят в самое сердце мира. Такая сила могла бы питать вашу магию безмерно, но взятие слишком многого может разгневать первобытную силу, питающую это чудо." #NT!
   
    # Options 
- seek_power.001.a: "Follow my instincts to seek worthy prey" #NT!
- seek_power.002.a: "I drain the stag" #NT!
- seek_power.003.a: "Their lifeforce will serve a greater purpose in my hands" #NT!
- seek_power.003.b: "Drain their traits" #NT!
- seek_power.003.c: "I wonder if they'll join me" #NT!
- seek_power.003.d: "This wanderer is not worth my attention—I shall continue my search elsewhere" #NT!
- seek_power.004.a: "Collect the sacred blood carefully, taking only what I need" #NT!
+ seek_power.001.a: "Следовать инстинктам в поисках достойной добычи" #NT!
+ seek_power.002.a: "Я поглощаю оленя" #NT!
+ seek_power.003.a: "Их жизненная сила послужит высшей цели в моих руках" #NT!
+ seek_power.003.b: "Поглотить их черты" #NT!
+ seek_power.003.c: "Интересно, присоединится ли ко мне" #NT!
+ seek_power.003.d: "Этот странник не стоит моего внимания - продолжу поиски в другом месте" #NT!
+ seek_power.004.a: "Собрать священную кровь осторожно, взяв лишь необходимое" #NT!
   
    # Duel Result Text 
- seek_power.duel.animal: "I encounter wild game" #NT!
- seek_power.duel.traveler: "I discover a lost traveler" #NT!
- seek_power.duel.legendary: "I encounter a legendary beast" #NT!
- seek_power.duel.silent_harvest: "Silent Harvest" #NT!
- seek_power.duel.escape: "They escape" #NT!
- seek_power.duel.witnessed: "Witnessed" #NT!
- seek_power.duel.join: "They join me" #NT!
- seek_power.duel.separate: "They go their separate ways" #NT!
+ seek_power.duel.animal: "Встречаю дичь" #NT!
+ seek_power.duel.traveler: "Обнаруживаю заблудшего путника" #NT!
+ seek_power.duel.legendary: "Встречаю легендарного зверя" #NT!
+ seek_power.duel.silent_harvest: "Тихая жатва" #NT!
+ seek_power.duel.escape: "Сбежал(а)" #NT!
+ seek_power.duel.witnessed: "Есть свидетель" #NT!
+ seek_power.duel.join: "Присоединяется ко мне" #NT!
+ seek_power.duel.separate: "Уходит своей дорогой" #NT!
   
    # Toast Messages 
- seek_power.toast.stag: "I drained the stag" #NT!
- seek_power.toast.silent_drain: "I drain the traveller without anyone noticing" #NT!
- seek_power.toast.escape: "They got away, I'm left empty handed" #NT!
- seek_power.toast.witnessed: "A witness survived to tell the tale" #NT!
- seek_power.toast.join: "They join me" #NT!
- seek_power.toast.separate: "They go their separate ways" #NT!
- seek_power.toast.ancient_lifeforce: "Ancient Lifeforce Harvested" #NT!
+ seek_power.toast.stag: "Я поглотил оленя" #NT!
+ seek_power.toast.silent_drain: "Тихо поглотил(а) путника без свидетелей" #NT!
+ seek_power.toast.escape: "Сбежал(а), я остался(ась) ни с чем" #NT!
+ seek_power.toast.witnessed: "Выжил свидетель, который может рассказать историю" #NT!
+ seek_power.toast.join: "Присоединяется ко мне" #NT!
+ seek_power.toast.separate: "Уходит своей дорогой" #NT!
+ seek_power.toast.ancient_lifeforce: "Древняя жизненная сила собрана" #NT!

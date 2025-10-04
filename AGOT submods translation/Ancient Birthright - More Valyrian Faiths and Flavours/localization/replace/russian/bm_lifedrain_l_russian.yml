@@ -1,29 +1,29 @@
 ﻿l_russian:
    # Lifedrain courtier (minor) 
- lifedrain_courtier_event_interaction: "Minor Lifedrain" #NT!
- lifedrain_courtier_event_interaction.recipient.notification.tt: "You start a blood magic ritual to partially drain [recipient.GetShortUINameNoTooltip], which might injure them in the process if you're not careful" #NT!
- bm_lifedrain_courtier.001.title: "Minor Lifedrain" #NT!
- bm_lifedrain_courtier.001.desc: "Your courtier stands before you, unaware of your intentions. Their lifeforce pulses invitingly, waiting to be harnessed." #NT!
- bm_lifedrain_courtier.001.a: "Drain part of their lifeforce" #NT!
- bm_lifedrain_courtier.001.a.success_desc: "You successfully harvest a portion of [recipient.GetShortUINameNoTooltip]'s lifeforce" #NT!
- bm_lifedrain_courtier.001.a.fail_desc: "You harvest a portion of [recipient.GetShortUINameNoTooltip]'s' lifeforce, but leave them injured" #NT!
- bm_lifedrain_courtier.001.a.critical_fail_desc: "The ritual spirals out of control, injuring both you and [recipient.GetShortUINameNoTooltip]" #NT!
+ lifedrain_courtier_event_interaction: "Малое Поглощение Жизни" #NT!
+ lifedrain_courtier_event_interaction.recipient.notification.tt: "Вы начинаете ритуал Магии Крови, чтобы частично поглотить [recipient.GetShortUINameNoTooltip], что может травмировать их, если вы не будете осторожны" #NT!
+ bm_lifedrain_courtier.001.title: "Малое Поглощение Жизни" #NT!
+ bm_lifedrain_courtier.001.desc: "Ваш придворный стоит перед вами, не подозревая о ваших намерениях. Их жизненная сила пульсирует, маня к использованию." #NT!
+ bm_lifedrain_courtier.001.a: "Поглотить часть их жизненной силы" #NT!
+ bm_lifedrain_courtier.001.a.success_desc: "Вы успешно извлекаете часть жизненной силы [recipient.GetShortUINameNoTooltip]" #NT!
+ bm_lifedrain_courtier.001.a.fail_desc: "Вы извлекаете часть жизненной силы [recipient.GetShortUINameNoTooltip], но оставляете их травмированными" #NT!
+ bm_lifedrain_courtier.001.a.critical_fail_desc: "Ритуал выходит из-под контроля, травмируя и вас, и [recipient.GetShortUINameNoTooltip]" #NT!
   
    # lifedrain prisoner (major) 
- lifedrain_prisoner_event_interaction: "Major Lifedrain" #NT!
- lifedrain_prisoner_event_interaction.recipient.notification.tt: "You will use blood magic to drain [recipient.GetShortUINameNoTooltip], killing them in the process" #NT!
- lifedrain_prisoner_interaction: "Major Lifedrain" #NT!
- lifedrain_prisoner_interaction_desc: "Completely drain the life force from [recipient.GetShortUINameNoTooltip]" #NT!
- lifedrain_prisoner_interaction.recipient.notification.tt: "[recipient.GetShortUINameNoTooltip]'s life force will be drained and added to yours" #NT!
+ lifedrain_prisoner_event_interaction: "Основное Поглощение Жизни" #NT!
+ lifedrain_prisoner_event_interaction.recipient.notification.tt: "Вы используете Магию Крови, чтобы поглотить [recipient.GetShortUINameNoTooltip], убивая их в процессе" #NT!
+ lifedrain_prisoner_interaction: "Основное Поглощение Жизни" #NT!
+ lifedrain_prisoner_interaction_desc: "Полностью поглотить жизненную силу [recipient.GetShortUINameNoTooltip]" #NT!
+ lifedrain_prisoner_interaction.recipient.notification.tt: "Жизненная сила [recipient.GetShortUINameNoTooltip] будет поглощена и добавлена к вашей" #NT!
   
    # Trait drain 
- trait_drain_prisoner_event_interaction: "Drain Positive Traits" #NT!
- generic_drain_prisoner_trait_interaction_desc: "You will attempt to drain [recipient.GetShortUINameNoTooltip]'s extraordinary traits and make them your own, killing them in the process" #NT!
- generic_drain_prisoner_trait_interaction.recipient.notification.tt: "[recipient.GetShortUINameNoTooltip]'s extraordinary trait will be drained" #NT!
+ trait_drain_prisoner_event_interaction: "Поглотить Позитивные Черты" #NT!
+ generic_drain_prisoner_trait_interaction_desc: "Вы попытаетесь поглотить выдающиеся черты [recipient.GetShortUINameNoTooltip] и сделать их своими, убивая их в процессе" #NT!
+ generic_drain_prisoner_trait_interaction.recipient.notification.tt: "Выдающаяся черта [recipient.GetShortUINameNoTooltip] будет поглощена" #NT!
   
- intellect_drain_prisoner_interaction: "Intellect drain" #NT!
- physique_drain_prisoner_interaction: "Physique drain" #NT!
- beauty_drain_prisoner_interaction: "Beauty drain" #NT!
- fertility_drain_prisoner_interaction: "Fertility drain" #NT!
- giant_drain_prisoner_interaction: "Giant drain" #NT!
- pure_blooded_drain_prisoner_interaction: "Pure Blood drain" #NT!
+ intellect_drain_prisoner_interaction: "Поглощение Интеллекта" #NT!
+ physique_drain_prisoner_interaction: "Поглощение Телосложения" #NT!
+ beauty_drain_prisoner_interaction: "Поглощение Красоты" #NT!
+ fertility_drain_prisoner_interaction: "Поглощение Плодовитости" #NT!
+ giant_drain_prisoner_interaction: "Поглощение Черты Гиганта" #NT!
+ pure_blooded_drain_prisoner_interaction: "Поглощение Чистой Крови" #NT!

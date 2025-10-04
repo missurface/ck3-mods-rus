@@ -4,12 +4,12 @@
   
  #Tenets# 
   
- tenet_dornish_resilience_desc: "Many have sought to conquer us, and just as many have met their demise. We are the men and women of Dorne, and we will and we will happily fight and die to preserve our way of life. Even against an army of dragons!" #NT!
- tenet_dornish_resilience_name: "Dornish Resilience" #NT!
+ tenet_dornish_resilience_desc: "Многие пытались покорить нас, и столь же многие нашли свою погибель. Мы — мужчины и женщины Дорна, и мы будем и будем с радостью сражаться и умирать, чтобы сохранить наш уклад жизни. Даже против армии драконов!"
+ tenet_dornish_resilience_name: "Дорнийская стойкость"
   
- agot_dornish_way_doctrine_name: "The Dornish Way" #NT!
- agot_dornish_way_doctrine_desc: "We have our own way of worshiping the gods. It might not be to everyones liking, but we do not care for their approval." #NT!
- agot_dornish_way_name: "$agot_dornish_way_doctrine_name$" #NT!
+ agot_dornish_way_doctrine_name: "Дорнийский путь"
+ agot_dornish_way_doctrine_desc: "У нас свой способ поклоняться богам. Возможно, он не всем по нраву, но нам не нужно их одобрение."
+ agot_dornish_way_name: "$agot_dornish_way_doctrine_name$"
   
- doctrine_parameter_harder_to_convert_character_faith: "[characters|E] are less likely to accept conversion" #NT!
- doctrine_parameter_harder_to_convert_county_faith: "County Conversion Resistance: #P +30%#!" #NT!
+ doctrine_parameter_harder_to_convert_character_faith: "[characters|E] реже соглашаются на обращение"
+ doctrine_parameter_harder_to_convert_county_faith: "Сопротивление обращению графства: #P +30%#!"

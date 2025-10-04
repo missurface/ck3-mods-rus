@@ -1,16 +1,16 @@
 ﻿l_russian:
    # Decision group type 
- decision_group_type_bm_decision_group: "Blood Mage Decisions" #NT!
- convert_to_blood_magic_from_witch.tooltip: "Become a Blood Mage" #NT!
- mass_lifedrain_prisoners_decision.text: "Has someone imprisoned" #NT!
+ decision_group_type_bm_decision_group: "Решения Мага Крови" #NT!
+ convert_to_blood_magic_from_witch.tooltip: "Стать Магом Крови" #NT!
+ mass_lifedrain_prisoners_decision.text: "Есть пленники" #NT!
   
    # Manifest new lifeforce 
- manifest_lifeforce_decision: "Manifest Lifeforce" #NT!
- manifest_lifeforce_decision_desc: "Through deep meditation and profound spiritual connection, a Blood Mage can manifest raw lifeforce directly by channelling vast amounts of piety." #NT!
- manifest_lifeforce_decision_confirm: "Channel the divine into blood" #NT!
- manifest_lifeforce_decision_tooltip: "Attempt to convert spiritual power directly into tangible lifeforce." #NT!
+ manifest_lifeforce_decision: "Проявить Жизненную Силу" #NT!
+ manifest_lifeforce_decision_desc: "Через глубокую медитацию и духовную связь Маг Крови может проявлять чистую жизненную силу напрямую, направляя огромное количество благочестия." #NT!
+ manifest_lifeforce_decision_confirm: "Превратить божественное в кровь" #NT!
+ manifest_lifeforce_decision_tooltip: "Попытаться преобразовать духовную силу напрямую в осязаемую жизненную силу." #NT!
   
- manifest_lifeforce_major_success_tt: "You Sucessfully manifested Lifeforce" #NT!
- manifest_lifeforce_minor_success_tt: "You Sucessfully manifested Lifeforce" #NT!
- manifest_lifeforce_major_failure_tt: "You failed to manifest Lifeforce" #NT!
- manifest_lifeforce_minor_failure_tt: "You failed to manifest Lifeforce" #NT!
+ manifest_lifeforce_major_success_tt: "Вы успешно проявили Жизненную Силу" #NT!
+ manifest_lifeforce_minor_success_tt: "Вы успешно проявили Жизненную Силу" #NT!
+ manifest_lifeforce_major_failure_tt: "Не удалось проявить Жизненную Силу" #NT!
+ manifest_lifeforce_minor_failure_tt: "Не удалось проявить Жизненную Силу" #NT

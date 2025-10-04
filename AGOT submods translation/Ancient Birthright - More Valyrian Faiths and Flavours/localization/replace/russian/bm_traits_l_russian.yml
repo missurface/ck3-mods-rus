@@ -1,41 +1,41 @@
 ﻿l_russian:
    # Group 
- trait_lifestyle_blood_mage_group: "Blood Mage" #NT!
- trait_blood_mage_desc: "Masters of forbidden magic who manipulate lifeforce to extend life, enhance abilities, heal others, and absorb traits from the worthy." #NT!
+ trait_lifestyle_blood_mage_group: "Маги Крови" #NT!
+ trait_blood_mage_desc: "Мастера запретной магии, манипулирующие жизненной силой, чтобы продлевать жизнь, усиливать способности, исцелять других и поглощать черты достойных." #NT!
   
      # Blood Mage Trait 
- trait_lifestyle_blood_mage: "Blood Mage" #NT!
- trait_lifestyle_blood_mage_desc: "Masters of forbidden magic who manipulate lifeforce to extend life, heal ailments, transfer power to others, and absorb traits from the sacrificed." #NT!
+ trait_lifestyle_blood_mage: "Маг Крови" #NT!
+ trait_lifestyle_blood_mage_desc: "Мастера запретной магии, манипулирующие жизненной силой, чтобы продлевать жизнь, исцелять недуги, передавать силу другим и поглощать черты принесённых в жертву." #NT!
   
- trait_track_enlightenment: "Enlightenment" #NT!
- trait_track_bloodline: "Bloodline" #NT!
- trait_track_benediction: "Benediction" #NT!
- trait_track_hematurgy: "Hematurgy" #NT!
- trait_track_ancient: "Ancient" #NT!
+ trait_track_enlightenment: "Просветление" #NT!
+ trait_track_bloodline: "Кровная Линия" #NT!
+ trait_track_benediction: "Благословение" #NT!
+ trait_track_hematurgy: "Гематургия" #NT!
+ trait_track_ancient: "Древность" #NT!
   
- trait_track_ancient_desc: "#help You gain experience in this track yearly.#!\n\nTime bows before those who command the essence of life itself." #NT!
- trait_track_enlightenment_desc: "#help You gain experience in this track by casting blood magic on yourself.#!\n\nThe path to mastery begins with the transformation of self." #NT!
- trait_track_bloodline_desc: "#help You gain experience in this track by enhancing your dynasty. Yearly chance to gain experience, based on the number of Blood Mage modifiers the dynasty has.#!\n\nBlood calls to blood across generations." #NT!
- trait_track_benediction_desc: "#help You gain experience in this track by healing ailments and granting powers to others.#!\n\nA blood mage's greatest gift is life itself, bestowed through crimson sacrifice." #NT!
- trait_track_hematurgy_desc: "#help You gain experience in this track by draining lifeforce and harvesting traits from others.#!\n\nWhat others possess can be yours through the crimson arts." #NT!
+ trait_track_ancient_desc: "#help Вы получаете опыт в этом пути ежегодно.#!\n\nВремя склоняется перед теми, кто повелевает самой сущностью жизни." #NT!
+ trait_track_enlightenment_desc: "#help Вы получаете опыт в этом пути, применяя магию крови на себе.#!\n\nПуть к мастерству начинается с преображения себя." #NT!
+ trait_track_bloodline_desc: "#help Вы получаете опыт в этом пути, усиливая свою династию. Ежегодный шанс получить опыт, основанный на количестве модификаторов Мага Крови в династии.#!\n\nКровь зовёт кровь сквозь поколения." #NT!
+ trait_track_benediction_desc: "#help Вы получаете опыт в этом пути, исцеляя недуги и даруя силы другим.#!\n\nВеличайший дар мага крови — сама жизнь, дарованная через багровую жертву." #NT!
+ trait_track_hematurgy_desc: "#help Вы получаете опыт в этом пути, поглощая жизненную силу и забирая черты других.#!\n\nТо, чем обладают другие, может стать вашим через багровые искусства." #NT!
   
   
    # Crimson Empowerment 
- trait_lifestyle_crimson_empowerment: "Crimson Empowerment" #NT!
- trait_lifestyle_crimson_empowerment_desc: "This character has reshaped their essence through blood magic, granting extraordinary abilities that evolve with further use of their powers." #NT!
+ trait_lifestyle_crimson_empowerment: "Багровое посвящение" #NT!
+ trait_lifestyle_crimson_empowerment_desc: "Этот персонаж изменил свою сущность с помощью магии крови, наделив ее экстраординарными способностями, которые развиваются по мере дальнейшего использования его способностей." #NT!
   
- trait_track_charisma: "Charisma" #NT!
- trait_track_fury: "Fury" #NT!
- trait_track_prosperity: "Prosperity" #NT!
- trait_track_shadows: "Shadows" #NT!
- trait_track_insight: "Insight" #NT!
- trait_track_legacy: "Legacy" #NT!
- trait_track_expertise: "Expertise" #NT!
+ trait_track_charisma: "Харизма" #NT!
+ trait_track_fury: "Ярость" #NT!
+ trait_track_prosperity: "Процветание" #NT!
+ trait_track_shadows: "Тени" #NT!
+ trait_track_insight: "Проницательность" #NT!
+ trait_track_legacy: "Наследие" #NT!
+ trait_track_expertise: "Мастерство" #NT!
   
- trait_track_charisma_desc: "Blood magic enhances this character's diplomatic presence and persuasive abilities." #NT!
- trait_track_fury_desc: "This character channels blood magic into martial prowess and battlefield dominance." #NT!
- trait_track_prosperity_desc: "Blood magic enhances this character's administrative talents and domain management." #NT!
- trait_track_shadows_desc: "This character uses blood magic to enhance stealth, deception, and scheming." #NT!
- trait_track_insight_desc: "Blood magic grants this character supernatural knowledge and learning abilities." #NT!
- trait_track_legacy_desc: "This character has enhanced their bloodline with magical potency, improving genetic traits and fertility." #NT!
- trait_track_expertise_desc: "Blood magic accelerates this character's mastery of all skills and abilities." #NT!
+ trait_track_charisma_desc: "Магия крови усиливает дипломатические способности этого персонажа и его способность убеждать." #NT!
+ trait_track_fury_desc: "Этот персонаж превращает магию крови в боевую доблесть и господство на поле боя." #NT!
+ trait_track_prosperity_desc: "Магия крови усиливает административные таланты этого персонажа и позволяет управлять доменами." #NT!
+ trait_track_shadows_desc: "Этот персонаж использует магию крови для усиления скрытности, обмана и интриг." #NT!
+ trait_track_insight_desc: "Магия крови наделяет этого персонажа сверхъестественными знаниями и способностями к обучению." #NT!
+ trait_track_legacy_desc: "Этот персонаж усилил свою родословную магической мощью, улучшив генетические особенности и плодовитость." #NT!
+ trait_track_expertise_desc: "Магия крови ускоряет овладение этим персонажем всеми навыками и умениями." #NT!

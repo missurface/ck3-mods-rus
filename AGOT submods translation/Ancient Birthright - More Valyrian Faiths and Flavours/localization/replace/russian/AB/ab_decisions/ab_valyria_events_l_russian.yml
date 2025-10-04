@@ -1,42 +1,42 @@
 ﻿l_russian:
  #Proclaim a new age of Fire and Blood decision 
   
- ab_proclaim_fire_and_blood_tooltip: "Proclaim a New Age" #NT!
- ab_proclaim_fire_and_blood: "Proclaim a new Age of Fire and Blood" #NT!
- ab_proclaim_fire_and_blood_desc: "The time has come, with the Valyrian heartlands firmly under my control, I am given a choice. Do I proclaim myself the true heir of Aurion's dream, or do I simply rebuild our ancient homeland?" #NT!
- ab_proclaim_fire_and_blood_decision_effect_tooltip: "You will be given a choice between proclaiming yourself [GetTrait('dragon_emperor').GetName(GetNullCharacter)] (emperor) and ushering in a new age of #bold Valyrian reconquest #!or, simply embracing the old ways" #NT!
- ab_proclaim_fire_and_blood_confirm: "Perzys se Ānogar!" #NT!
- ab_proclaim_fire_and_blood_requirements: "All of these: Has [trait|E] [GetTrait('ambitious').GetName( GetNullCharacter )] Has [trait|E] [GetTrait('dragonrider').GetName( GetNullCharacter )]" #NT!
+ ab_proclaim_fire_and_blood_tooltip: "Провозгласить Новую Эру"
+ ab_proclaim_fire_and_blood: "Провозгласить новую Эру Пламени и Крови"
+ ab_proclaim_fire_and_blood_desc: "Пришёл час. С валирийскими землями под моим контролем, я стою перед выбором: объявить себя истинным наследником мечты Ауриона или просто восстановить древнюю родину?"
+ ab_proclaim_fire_and_blood_decision_effect_tooltip: "Выберите: провозгласить себя [GetTrait('dragon_emperor').GetName(GetNullCharacter)] (император) и начать эпоху #bold валирийского реванша#! или вернуться к старым устоям"
+ ab_proclaim_fire_and_blood_confirm: "Perzys se Ānogar!"
+ ab_proclaim_fire_and_blood_requirements: "Требуется: Имеет [trait|E] [GetTrait('ambitious').GetName( GetNullCharacter )] Имеет [trait|E] [GetTrait('dragonrider').GetName( GetNullCharacter )]"
   
- ab_valyrian_events.0001.title: "Valyria Rises" #NT!
- ab_valyrian_events.0001.desc: "It is done, after years of hardship I have reclaimed the heartland of old Valyria. For the first time in centuries the hearts of my people are filled with hope and pride for our glorious nation. Now I am left to decide which path this nation shall take. With all my vassals gathered before me in the throne room, I know the decision I will make today shall echo through millenia. Do I decide to simply rebuilt our homeland as it was before the doom, or are my ambitions higher? Considering my current strenght, I could proclaim myself [GetTrait('dragon_emperor').GetName(GetNullCharacter)] and declare the birth of a new Valyria with me as it's one true ruler." #NT!
- ab_valyrian_events.0001.a: "We must focus on rebuilding the nation" #NT!
- ab_valyrian_events.0001.b: "Today marks the birth of a new Valyria" #NT!
+ ab_valyrian_events.0001.title: "Валирия Восстаёт"
+ ab_valyrian_events.0001.desc: "Свершилось. После лет тягот я вернул сердцевину древней Валирии. Впервые за века сердца моего народа наполнены гордостью за нацию. Теперь предстоит выбрать путь. Собрав вассалов в тронном зале, я понимаю: сегодняшний выбор отзовётся в веках. Восстанавливать родину как прежде или стремиться выше? С моей мощью я могу провозгласить себя [GetTrait('dragon_emperor').GetName(GetNullCharacter)] и возродить Валирию с собой во главе."
+ ab_valyrian_events.0001.a: "Мы должны восстановить державу"
+ ab_valyrian_events.0001.b: "Сегодня рождается новая Валирия"
   
- dragon_rises_tooltip: "#bold The Dragon Rises #!" #NT!
+ dragon_rises_tooltip: "#bold Восход Дракона#!"
   
- ab_valyrian_events.0002.title: "A New Emperor" #NT!
- ab_valyrian_events.0002.desc: "The mantle of [GetTrait('dragon_emperor').GetName(GetNullCharacter)] now rests upon my shoulders. As my gaze wanders around the throne room, I see the countless trophies and treasures collected by my predecessors.I \"will not fall behind\" I wisper to myself, \"one day I shall be their equal\"." #NT!
- ab_valyrian_events.0002.a: "I will lead Valyria to new heights" #NT!
+ ab_valyrian_events.0002.title: "Новый Император"
+ ab_valyrian_events.0002.desc: "Мантия [GetTrait('dragon_emperor').GetName(GetNullCharacter)] теперь покоится на моих плечах. Когда мой взгляд бродит по тронному залу, я вижу бесчисленные трофеи и сокровища, собранные моими предшественниками. Я \"не отстану\", шепчу я себе, \"однажды я сравняюсь с ними\"."
+ ab_valyrian_events.0002.a: "Я вознесу Валирию к новым высотам"
   
- ab_valyrian_events.0003.title: "Fallen From Grace" #NT!
- ab_valyrian_events.0003.desc: "Oh, the shame, the humiliation! I have lost the divine mandate! Have the gods forsaken me? Was this glorious destiny never mine to claim in the first place? All is lost and all I can do is bow my head in shame." #NT!
- ab_valyrian_events.0003.a: "My Gods, my gods! why have you forsaken me?" #NT!
+ ab_valyrian_events.0003.title: "Падение"
+ ab_valyrian_events.0003.desc: "Позор! Я утратил божественный мандат! Неужели боги отвергли меня? Была ли эта слава вообще моей? Всё потеряно. Остаётся лишь склонить голову."
+ ab_valyrian_events.0003.a: "Боги, зачем вы покинули меня?"
   
- ab_valyrian_events.0004.title: "Aurion's Dream Fulfiled" #NT!
- ab_valyrian_events.0004.desc: "Today, our glorious nation is reborn. If we are to regain our old glory and strength, we must accept this simple truth. Only the purest and most virtous among us are fit to guide our nation to glory, ruling by #italic divine mandate #!. Given my accomplishments in reclaiming the homeland, it is obvious that the divine mandate was bestowed upon me and my line. And so, I have followed in the footsteps of the great Aurion by claiming the title of [GetTrait('dragon_emperor').GetName(GetNullCharacter)]. Rejoice Valyria, for this day marks the beginning of a new era. A new age of dragons is upon us and I shall be its herald!" #NT!
- ab_valyrian_events.0004.a: "Destiny Awaits!" #NT!
+ ab_valyrian_events.0004.title: "Мечта Ауриона Исполнена"
+ ab_valyrian_events.0004.desc: "Наша держава возрождена. Чтобы вернуть былую славу, мы должны признать: лишь чистые кровью достойны править по #italic божественному праву#! Мои подвиги доказывают — этот мандат дан мне и моему роду. Я последовал за Аурионом, став [GetTrait('dragon_emperor').GetName(GetNullCharacter)]. Ликуйте! Началась эра драконов, и я её глашатай!"
+ ab_valyrian_events.0004.a: "Судьба зовёт!"
   
   
- fervor_gain_restored_dragon_throne: "You will declare yourself Jaedārys" #NT!
+ fervor_gain_restored_dragon_throne: "Вы провозгласите себя Джейдāрисом"
   
  #Become the Blood of Dawn decision 
   
- ab_blood_of_dawn_decision: "Become the Herald of Dawn" #NT!
- ab_blood_of_dawn_decision_desc: "No dark age lasts forever, a new age dawns and I shall become its herald. I have studied the mysteries of the blood for many lifetimes and am now finally able to delve beyond the knowledge of mere mortals." #NT!
- blood_of_dawn_decision: "You unlock the ancient power of [GetTrait('blood_dawn').GetName(GetNullCharacter)]" #NT!
+ ab_blood_of_dawn_decision: "Стать Вестником Рассвета" #NT!
+ ab_blood_of_dawn_decision_desc: "Ни один тёмный век не длится вечно - наступает новая эра, и я стану её вестником. Я изучал тайны крови на протяжении многих жизней и теперь наконец способен проникнуть за пределы знаний простых смертных." #NT!
+ blood_of_dawn_decision: "Вы пробуждаете древнюю силу [GetTrait('blood_dawn').GetName(GetNullCharacter)]" #NT!
  ab_blood_of_dawn_decision_confirm: "Bantis Naejot Ōños" #NT!
   
- ab_valyrian_events.0005.title: "The Blood of Dawn" #NT!
- ab_valyrian_events.0005.desc: "The age of mankind's infancy has long been lost from memory. Ages have past, empires rose and fell, dawn turned to twilight and ancient knowledge was forgotten. I have spend a hundred lifetimes in pursuit of that knowledge and now, finally, after all these years I was able to discover a fraction of dawn's splendour. My mastery of Bloodmagic has allowed me to create a facsimile of the royal blood of Dawn. A small part of the Emperess' splendour has reawakened within me and now links me to her royal bloodline. My work however is far from done, for now, my godhood is still in its infancy. I will have to nurture my powers even further to reach true Divinity." #NT!
- ab_valyrian_events.0005.a: "I shall usher in a new Dawn Age!" #NT!
+ ab_valyrian_events.0005.title: "Кровь Рассвета" #NT!
+ ab_valyrian_events.0005.desc: "Эпоха младенчества человечества давно стёрта из памяти. Прошли века, империи поднимались и падали, рассвет сменялся сумерками, а древние знания были забыты. Я потратил сотни жизней в поисках этих знаний и теперь, наконец, после всех этих лет смог открыть частицу великолепия рассвета. Моё мастерство в Кровомагии позволило создать подобие королевской крови Рассвета. Малая доля величия Императрицы пробудилась во мне, связав меня с её королевской кровной линией. Однако моя работа далека от завершения, ибо сейчас моё божество всё ещё в зачаточном состоянии. Мне предстоит взращивать свои силы дальше, чтобы достичь истинного Божества." #NT!
+ ab_valyrian_events.0005.a: "Я положу начало новому Рассветному Веку!" #NT!

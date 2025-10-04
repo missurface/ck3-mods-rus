@@ -1,152 +1,123 @@
 ﻿l_russian:
- lifedrained_modifier: "Обескровленный" #NT!
-  
- lifeforce_modifier_minor: "Малая Жизненная Сила" #NT!
- lifeforce_modifier_minor_desc: "Малая Жизненная Сила" #NT!
-  
- lifeforce_modifier_major: "Жизненная Сила" #NT!
- lifeforce_modifier_major_desc: "Жизненная Сила" #NT!
-  
- lifeforce_modifier_negative_minor: "Применение Малой Магии Крови " #NT!
- lifeforce_modifier_negative_minor_desc: "Применение Малой Магии Крови " #NT!
-  
- lifeforce_modifier_negative_major: "Применение Основной Магию Крови " #NT!
- lifeforce_modifier_negative_major_desc: "Применение Основной Магию Крови " #NT!
-  
-   # Dynasty 
- blood_mage_coven_modifier: "Усиленная кровная мощь династии" #NT!
- blood_mage_coven_modifier_desc: "Усиленная кровная мощь династии" #NT!
-  
-   # Grant / Recieve blood magic 
- granted_blood_magic_modifier: "Полученная Магия Крови" #NT!
- granted_blood_magic_modifier_desc: "Этому персонажу недавно даровали Магию Крови" #NT!
-  
-   # Spend lifeforce on skills 
- diplomacy_lifeforce_modifier: "Направленная Дипломатия" #NT!
- diplomacy_lifeforce_modifier_desc: "Магия Крови временно улучшает Дипломатию" #NT!
-  
- martial_lifeforce_modifier: "Направленное Военное Дело" #NT!
- martial_lifeforce_modifier_desc: "Магия Крови временно улучшает Военное Дело" #NT!
-  
- stewardship_lifeforce_modifier: "Направленное Управление" #NT!
- stewardship_lifeforce_modifier_desc: "Магия Крови временно улучшает Управление" #NT!
-  
- intrigue_lifeforce_modifier: "Направленные Интриги" #NT!
- intrigue_lifeforce_modifier_desc: "Магия Крови временно улучшает Интриги" #NT!
-  
- learning_lifeforce_modifier: "Направленное Обучение" #NT!
- learning_lifeforce_modifier_desc: "Магия Крови временно улучшает Обучение" #NT!
-  
- prowess_lifeforce_modifier: "Направленная Доблесть" #NT!
- prowess_lifeforce_modifier_desc: "Магия Крови временно улучшает Доблесть" #NT!
-  
- exp_lifeforce_modifier: "Направленный Прирост Опыта" #NT!
- exp_lifeforce_modifier_desc: "Магия Крови временно улучшает весь прирост опыта" #NT!
-  
-   # Event modifiers 
- drained_beggar_personal: "Обескровленный нищий" #NT!
- drained_beggar_personal_desc: "Поглотил(а) жизненную силу нищего на улице" #NT!
-  
- drained_beggar_holding: "Обескровленный нищий" #NT!
- drained_beggar_holding_desc: "Поглотил(а) жизненную силу нищего на улице" #NT!
-  
- healed_beggar_holding_1: "Исцелил(а) раненого нищего" #NT!
- healed_beggar_holding_1_desc: "Исцелил(а) нищего на улице" #NT!
-  
- healed_beggar_holding_2: "Исцелил(а) нищего от тифа" #NT!
- healed_beggar_holding_2_desc: "Исцелил(а) нищего на улице" #NT!
-  
- healed_beggar_holding_3: "Исцелил(а) слепого нищего" #NT!
- healed_beggar_holding_3_desc: "Исцелил(а) нищего на улице" #NT!
-  
- healed_beggar_holding_4: "Исцелил(а) нищего от рака" #NT!
- healed_beggar_holding_4_desc: "Исцелил(а) нищего на улице" #NT!
-  
- magic_opinion_positive: "Магия Крови" #NT!
- magic_opinion_positive_desc: "Магия Крови" #NT!
-  
- magic_opinion_negative: "Магия Крови" #NT!
- magic_opinion_negative_desc: "Магия Крови" #NT!
-  
- made_me_a_blood_mage: "Сделал(а) меня Магом Крови" #NT!
- made_me_a_blood_mage_desc: "Сделал(а) меня Магом Крови" #NT!
-  
- cured_my_illness: "Вылечил(а) мою болезнь" #NT!
- cured_my_illness_desc: "Вылечил(а) мою болезнь" #NT!
-  
- lifedrained_me: "Поглотил(а) мою жизненную силу" #NT!
- lifedrained_me_desc: "Поглотил(а) мою жизненную силу" #NT!
-  
-   # Dynasty modifiers 
- dynasty_crimson_charisma_modifier: "Династическая Багровая Харизма" #NT!
- dynasty_crimson_charisma_modifier_desc: "Магия Крови усиливает дипломатические способности всей вашей династии." #NT!
-  
- dynasty_crimson_fury_modifier: "Династическая Багровая Ярость" #NT!
- dynasty_crimson_fury_modifier_desc: "Воинам вашей династии дарована сила магии крови в бою." #NT!
-  
- dynasty_crimson_prosperity_modifier: "Династическое Багровое Процветание" #NT!
- dynasty_crimson_prosperity_modifier_desc: "Управление, усиленное кровью, увеличивает богатство и контроль вашей династии." #NT!
-  
- dynasty_crimson_shadows_modifier: "Династические Багровые Тени" #NT!
- dynasty_crimson_shadows_modifier_desc: "Ваша династия преуспевает в тенях благодаря магии, усиленной кровью." #NT!
-  
- dynasty_crimson_insight_modifier: "Династическая Багровая Проницательность" #NT!
- dynasty_crimson_insight_modifier_desc: "Магия Крови дарует вашей династии тайные знания." #NT!
-  
- dynasty_crimson_resilience_modifier: "Династическая Багровая Устойчивость" #NT!
- dynasty_crimson_resilience_modifier_desc: "Магия Крови укрепляет жизнеспособность и выносливость вашей династии." #NT!
-  
- dynasty_crimson_legacy_modifier: "Династическое Багровое Наследие" #NT!
- dynasty_crimson_legacy_modifier_desc: "Кровная линия вашей династии магически защищена от слабостей." #NT!
-  
- dynasty_crimson_expertise_modifier: "Династическое Багровое Мастерство" #NT!
- dynasty_crimson_expertise_modifier_desc: "Магия Крови ускоряет способность вашей династии к обучению." #NT!
-  
-   # Personal modifiers 
- crimson_charisma_modifier: "Багровая Харизма" #NT!
- crimson_charisma_modifier_desc: "Ваши слова и присутствие усилены магией крови." #NT!
-  
- crimson_fury_modifier: "Багровая Ярость" #NT!
- crimson_fury_modifier_desc: "Магия Крови питает вашу воинскую доблесть и командование рыцарями." #NT!
-  
- crimson_prosperity_modifier: "Багровое Процветание" #NT!
- crimson_prosperity_modifier_desc: "Ваше управление усилено магией крови." #NT!
-  
- crimson_shadows_modifier: "Багровые Тени" #NT!
- crimson_shadows_modifier_desc: "Магия Крови усиливает ваши интриги и заговоры." #NT!
-  
- crimson_insight_modifier: "Багровая Проницательность" #NT!
- crimson_insight_modifier_desc: "Тайные знания текут в вашей крови." #NT!
-  
- crimson_legacy_modifier: "Багровое Наследие" #NT!
- crimson_legacy_modifier_desc: "Магия Крови укрепляет ваш генетический потенциал." #NT!
-  
- crimson_expertise_modifier: "Багровое Мастерство" #NT!
- crimson_expertise_modifier_desc: "Магия Крови ускоряет ваши способности к обучению." #NT!
-  
- # Trait drain attempted 
- trait_drain_attempted: "Попытка Поглощения Черты" #NT!
- trait_drain_attempted_desc: "Я должен(на) подождать перед следующей попыткой поглощения черты" #NT!
-  
- trait_drained_attempted_modifier: "Маг Крови пытался(ась) поглотить меня" #NT!
- trait_drained_attempted_modifier_desc: "Моё тело ослаблено после недавней попытки поглощения" #NT!
-  
- # Major, temporary buffs (fallback so you can always get something) 
- temporary_buff_bloodline: "Багровое Усиление Кровной Линии" #NT!
- temporary_buff_bloodline_desc: "Багровое Усиление Кровной Линии" #NT!
-  
- temporary_buff_self: "Багровое Усиление" #NT!
- temporary_buff_self_desc: "Багровое Усиление" #NT!
-  
- # Attunement modifiers 
- ancient_attuned: "Настроен(а) на Древность" #NT!
- enlightenment_attuned: "Настроен(а) на Просветление" #NT!
- bloodline_attuned: "Настроен(а) на Кровную Линию" #NT!
- benediction_attuned: "Настроен(а) на Благословение" #NT!
- hematurgy_attuned: "Настроен(а) на Гематургию" #NT!
- # Attunement modifiers, descriptions 
- hematurgy_attuned_desc: "Ежегодный шанс получить опыт в черте Мага Крови Гематургии" #NT!
- ancient_attuned_desc: "Ежегодный шанс получить опыт в черте Мага Крови Древности" #NT!
- enlightenment_attuned_desc: "Ежегодный шанс получить опыт в черте Мага Крови Просветления" #NT!
- bloodline_attuned_desc: "Ежегодный шанс получить опыт в черте Мага Крови Кровной Линии" #NT!
- benediction_attuned_desc: "Ежегодный шанс получить опыт в черте Мага Крови Благословения" #NT!
+# Модификаторы жизненной силы
+lifedrained_modifier:0 "Истощён"
+lifeforce_modifier_minor:0 "Малая Жизненная Сила"
+lifeforce_modifier_minor_desc:0 "Малая Жизненная Сила"
+lifeforce_modifier_major:0 "Жизненная Сила"
+lifeforce_modifier_major_desc:0 "Жизненная Сила"
+
+lifeforce_modifier_negative_minor:0 "Использование Малой Кровавой Магии"
+lifeforce_modifier_negative_minor_desc:0 "Использование Малой Кровавой Магии"
+lifeforce_modifier_negative_major:0 "Использование Великой Кровавой Магии"
+lifeforce_modifier_negative_major_desc:0 "Использование Великой Кровавой Магии"
+
+# Династия
+blood_mage_coven_modifier:0 "Усиленная Сила Крови Династии"
+blood_mage_coven_modifier_desc:0 "Кровь вашей династии течёт сильнее благодаря древним ритуалам."
+
+# Дарование / получение кровавой магии
+granted_blood_magic_modifier:0 "Одарён Кровавой Магией"
+granted_blood_magic_modifier_desc:0 "Этот персонаж недавно был наделён силой Кровавой Магии."
+
+# Расход жизненной силы на навыки
+diplomacy_lifeforce_modifier:0 "Канал Дипломатии"
+diplomacy_lifeforce_modifier_desc:0 "Кровавая магия временно усиливает искусство дипломатии."
+martial_lifeforce_modifier:0 "Канал Воинского Мастерства"
+martial_lifeforce_modifier_desc:0 "Кровавая магия временно усиливает воинское искусство."
+stewardship_lifeforce_modifier:0 "Канал Управления"
+stewardship_lifeforce_modifier_desc:0 "Кровавая магия временно усиливает навыки управления."
+intrigue_lifeforce_modifier:0 "Канал Интриг"
+intrigue_lifeforce_modifier_desc:0 "Кровавая магия временно усиливает искусство интриг."
+learning_lifeforce_modifier:0 "Канал Учёности"
+learning_lifeforce_modifier_desc:0 "Кровавая магия временно усиливает познания и мудрость."
+prowess_lifeforce_modifier:0 "Канал Доблести"
+prowess_lifeforce_modifier_desc:0 "Кровавая магия временно усиливает боевую доблесть."
+exp_lifeforce_modifier:0 "Канал Опыта"
+exp_lifeforce_modifier_desc:0 "Кровавая магия временно ускоряет получение опыта."
+
+# Модификаторы событий
+drained_beggar_personal:0 "Истощён Нищий"
+drained_beggar_personal_desc:0 "Вы истощили жизненные силы нищего на улицах."
+drained_beggar_holding:0 "Истощён Нищий"
+drained_beggar_holding_desc:0 "Вы истощили жизненные силы нищего на улицах."
+
+healed_beggar_holding_1:0 "Исцелён Раненый Нищий"
+healed_beggar_holding_1_desc:0 "Вы исцелили раненого нищего."
+healed_beggar_holding_2:0 "Исцелён Нищий с Тифом"
+healed_beggar_holding_2_desc:0 "Вы исцелили больного тифом нищего."
+healed_beggar_holding_3:0 "Исцелён Слепой Нищий"
+healed_beggar_holding_3_desc:0 "Вы исцелили слепого нищего."
+healed_beggar_holding_4:0 "Исцелён Нищий с Раком"
+healed_beggar_holding_4_desc:0 "Вы исцелили нищего, страдавшего раком."
+
+magic_opinion_positive:0 "Кровавая Магия"
+magic_opinion_positive_desc:0 "Благосклонен к проявлению Кровавой Магии."
+magic_opinion_negative:0 "Кровавая Магия"
+magic_opinion_negative_desc:0 "Отвращение к Кровавой Магии."
+
+made_me_a_blood_mage:0 "Сделал(а) меня Кровавым Магом"
+made_me_a_blood_mage_desc:0 "Этот человек даровал мне силу Кровавой Магии."
+cured_my_illness:0 "Исцелил(а) мой недуг"
+cured_my_illness_desc:0 "Этот человек избавил меня от болезни."
+lifedrained_me:0 "Истощил(а) меня"
+lifedrained_me_desc:0 "Этот человек вытянул из меня жизненную силу."
+
+# Династические модификаторы
+dynasty_crimson_charisma_modifier:0 "Багровое Обаяние Рода"
+dynasty_crimson_charisma_modifier_desc:0 "Кровавая магия усиливает дипломатическое влияние вашей династии."
+dynasty_crimson_fury_modifier:0 "Багровая Ярость Рода"
+dynasty_crimson_fury_modifier_desc:0 "Воины вашей династии сражаются с силой, напитанной кровью."
+dynasty_crimson_prosperity_modifier:0 "Багровое Процветание Рода"
+dynasty_crimson_prosperity_modifier_desc:0 "Кровавые ритуалы укрепляют власть и богатство вашего рода."
+dynasty_crimson_shadows_modifier:0 "Багровые Тени Рода"
+dynasty_crimson_shadows_modifier_desc:0 "Ваш род преуспевает в интригах благодаря кровавым заговорам."
+dynasty_crimson_insight_modifier:0 "Багровое Провидение Рода"
+dynasty_crimson_insight_modifier_desc:0 "Кровавая магия дарует вашему роду древние знания."
+dynasty_crimson_resilience_modifier:0 "Багровая Стойкость Рода"
+dynasty_crimson_resilience_modifier_desc:0 "Кровавая магия укрепляет жизненную силу и выносливость вашей династии."
+dynasty_crimson_legacy_modifier:0 "Багровое Наследие Рода"
+dynasty_crimson_legacy_modifier_desc:0 "Кровь вашего рода очищена и защищена от слабости."
+dynasty_crimson_expertise_modifier:0 "Багровое Мастерство Рода"
+dynasty_crimson_expertise_modifier_desc:0 "Кровавая магия ускоряет обучение и развитие вашей династии."
+
+# Личные модификаторы
+crimson_charisma_modifier:0 "Багровое Обаяние"
+crimson_charisma_modifier_desc:0 "Ваши слова и присутствие преисполнены силы Кровавой Магии."
+crimson_fury_modifier:0 "Багровая Ярость"
+crimson_fury_modifier_desc:0 "Кровавая магия наполняет вас боевой силой и яростью."
+crimson_prosperity_modifier:0 "Багровое Процветание"
+crimson_prosperity_modifier_desc:0 "Кровавая магия усиливает вашу способность к управлению и процветанию."
+crimson_shadows_modifier:0 "Багровые Тени"
+crimson_shadows_modifier_desc:0 "Кровавая магия усиливает ваши интриги и заговоры."
+crimson_insight_modifier:0 "Багровое Провидение"
+crimson_insight_modifier_desc:0 "Арканные знания текут в вашей крови."
+crimson_legacy_modifier:0 "Багровое Наследие"
+crimson_legacy_modifier_desc:0 "Кровавая магия укрепляет вашу родословную и гены."
+crimson_expertise_modifier:0 "Багровое Мастерство"
+crimson_expertise_modifier_desc:0 "Кровавая магия ускоряет ваше обучение и постижение искусства."
+
+# Попытка вытянуть черту
+trait_drain_attempted:0 "Недавняя Попытка Поглощения Черты"
+trait_drain_attempted_desc:0 "Придётся подождать, прежде чем снова попытаться вытянуть черту."
+trait_drained_attempted_modifier:0 "Кровавый Маг пытался вытянуть из меня силу"
+trait_drained_attempted_modifier_desc:0 "Моё тело ослаблено после недавнего ритуала истощения."
+
+# Великие временные усиления
+temporary_buff_bloodline:0 "Род Багрового Могущества"
+temporary_buff_bloodline_desc:0 "Род Багрового Могущества"
+temporary_buff_self:0 "Багровое Возвышение"
+temporary_buff_self_desc:0 "Багровое Возвышение"
+
+# Настройки сосредоточения
+ancient_attuned:0 "Созвучен Древнему"
+enlightenment_attuned:0 "Созвучен Просветлению"
+bloodline_attuned:0 "Созвучен Родовой Крови"
+benediction_attuned:0 "Созвучен Благословению"
+hematurgy_attuned:0 "Созвучен Гематургии"
+
+# Описания сосредоточений
+hematurgy_attuned_desc:0 "Ежегодный шанс получить опыт в пути Кровавого Мага: Гематургия."
+ancient_attuned_desc:0 "Ежегодный шанс получить опыт в пути Кровавого Мага: Древние Искусства."
+enlightenment_attuned_desc:0 "Ежегодный шанс получить опыт в пути Кровавого Мага: Просветление."
+bloodline_attuned_desc:0 "Ежегодный шанс получить опыт в пути Кровавого Мага: Родовая Кровь."
+benediction_attuned_desc:0 "Ежегодный шанс получить опыт в пути Кровавого Мага: Благословение."

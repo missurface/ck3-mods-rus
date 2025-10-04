@@ -1,5 +1,5 @@
 ﻿l_russian:
-  
- northern_valyrian: "Северный Валириец"
- northern_valyrian_prefix: "Валирийский"
- northern_valyrian_collective_noun: "Северные Валирийцы"
+
+northern_valyrian:0 "Северная Валирийская"  
+northern_valyrian_prefix:0 "Валирийск"  
+northern_valyrian_collective_noun:0 "Северные Валирийцы"

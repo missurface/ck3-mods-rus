@@ -1,66 +1,64 @@
 ﻿l_russian:
-  
- #AB - addon# 
-  
- tradition_ancient_birthright_name: "Возвращение Древнего Права"
- tradition_ancient_birthright_desc: "Мы достигли невозможного. Мы отвоевали Валирию у Гибели, что некогда поглотила её. Наша древняя родина гордо возвышается вновь, и все сомневающиеся узнают: драконы — истинные владыки этого мира."
- not_valyrian_empire_holder: "Вы #bold не#! владеете титулом [GetTitleByKey('e_valyria').GetName]"
-  
- tradition_warrior_kingdom_name: "Восход Воинственного Королевства"
- tradition_warrior_kingdom_desc: "Локирия отважна, Локирия несокрушима. Пусть все ищущие наши берега знают это. Мы — щит Валирии, готовые сразиться даже с Моргулом ради защиты священной земли предков."
- not_king_of_lokiria: "Вы #bold не#! владеете титулом [GetTitleByKey('k_lokiria').GetName] или [GetTitleByKey('e_valyria').GetName]"
-  
- tradition_narrow_sea_name: "Повелители Узкого Моря"
- tradition_narrow_sea_desc: "Мы укрепились на главном торговом пути к западу от Валирии. С Дрифтмарком #italic и#! Ступенями в дланях наш народ стал подлинным властелином Узкого Моря."
- not_stepstones_and_driftmark: "Вы должны владеть [GetTitleByKey('d_driftmark').GetName] #bold и#! [GetTitleByKey('k_the_stepstones').GetName]"
-  
- tradition_par_excellence_name: "Noblesse par Excellence"
- tradition_par_excellence_desc: "Кровь Древней Валирии пульсирует в жилах нашего народа. Отмеченные благородными чертами драконьих владык, мы источаем неземное обаяние, повергающее прочие расы в благоговейный стыд."
-  too_ugly:0 "You must be #bold at least #! [GetTrait('beauty_good_2').GetName( GetNullCharacter )] or posess a [GetTrait('exotic_beauty_good_2').GetName( GetNullCharacter )] 
-  
- tradition_rule_of_the_dragon_emperor_name: "Валирия Возрождённая"
- tradition_rule_of_the_dragon_emperor_desc: "Новая Валирия восстала из пепла — могущественнее, совершеннее и отважнее прежней. Народ вверил судьбу Джейдāрису и его священной миссии. Скоро всё утраченное будет возвращено, а низшие расы вновь склонятся перед вами."
- fire_and_blood_blocked: "Разблокируется через решение #bold Пламя и Кровь#!"
-  
- tradition_valyrian_matriarchy_name: "Валирийская матриархия"
- tradition_valyrian_matriarchy_desc: "Только истинные валирийки способны рождать дочерей и сыновей чистой крови. Поэтому притязания валирийки на правление столь же обоснованы, как и у любого валирийца, а возможно, даже более того."
- patriarchy_is_forbidden: "Ваша вера должна #bold не#! быть патриархальной."
-  
- tradition_three_heads_name: "Hāros Bartossi" #NT!  # Имя собственное, не переводится
- tradition_three_heads_desc: "Стремление к господству в природе Повелителя Драконов. Завоевание в нашей крови, как и с древних времен." #NT!
- is_a_dragon_rider: "Вы должны быть "[GetTrait('dragonrider').GetName( GetNullCharacter )]"." #NT!
-  
- culture_parameter_arrogant_trait_more_common: "Черта [GetTrait('arrogant').GetName( GetNullCharacter )] [trait|E] распространена больше"
- culture_parameter_authoritative_trait_more_common: "Черта [GetTrait('authoritative').GetName( GetNullCharacter )] [trait|E] встречается чаще"
- culture_parameter_unlock_exotic_beauty: "Дети могут рождаться с чертой [GetTrait('exotic_beauty_good_1').GetName( GetNullCharacter )] [trait|E], а в редких случаях — даже #bold более высокими#! уровнями"
- culture_parameter_lustful_trait_more_common: "Черта [GetTrait('lustful').GetName( GetNullCharacter )] [trait|E] встречается чаще"
- culture_parameter_lustful_trait_gives_bonuses: "Черта [GetTrait('lustful').GetName( GetNullCharacter )] [trait|E] даёт дополнительные бонусы"
- culture_parameter_reaver_trait_more_common: "Черта [GetTrait('reaver').GetName( GetNullCharacter )] [trait|E]"
- culture_parameter_reaver_trait_bonuses: "Черта [GetTrait('reaver').GetName( GetNullCharacter )] [trait|E] даёт дополнительные бонусы"
- culture_parameter_children_can_be_born_amongst_the_flames: "Дети могут рождаться с чертой [GetTrait('born_amongst_the_flames').GetName( GetNullCharacter )] [trait|E], если их родители правят из #italic пяти уцелевших Пламеней Валирии#!"
- culture_parameter_create_blood_senate: "Активирует закон престолонаследия #bold Кровавый Сенат#!."
- culture_parameter_restore_old_titles: "Древняя стража Валирии будет восстановлена."
- culture_parameter_dragon_dreams_trait_more_valued: "[GetTrait('dragon_dreams').GetName( GetNullCharacter )] [trait|E] дает [prestige|E]" #NT!
- culture_parameter_dragonrider_trait_gives_bonuses: "[GetTrait('dragonrider').GetName( GetNullCharacter )] [trait|E] дает дополнительные бонусы" #NT!
- culture_parameter_dragonrider_gives_stewardship: "[GetTrait('dragonrider').GetName( GetNullCharacter )] [trait|E] дает [stewardship|E]" #NT!
-  
- max_seduce_schemes_add: "Максимум [schemes|E] соблазнения"
-  
- culture_parameter_brave_trait_gives_bonuses: "Черта [GetTrait('brave').GetName( GetNullCharacter )] [trait|E] даёт дополнительные бонусы"
-  
- #MAA 
-  
- culture_parameter_unlock_maa_lokiria_veterans: "Можно нанимать [GetMaA('lokiria_veterans').GetName] как [men_at_arms|E]"
- culture_parameter_unlock_maa_valyrian_raiders: "Можно нанимать [GetMaA('valyrian_raiders').GetName] как [men_at_arms|E]"
- culture_parameter_unlock_maa_valyrian_immortals: "Можно нанимать [GetMaA('valyrian_immortals').GetName] как [men_at_arms|E]"
-  
- lokiria_veterans: "Ветераны Локирии"
- lokiria_veterans_flavor: "#F Бойся старика в ремесле, где юность гибнет#"
-  
- valyrian_raiders: "Валирийские корсары"
- valyrian_raiders_flavor: "#F Закалённые в боях и хорошо экипированные, эти корсары смеются в лицо смерти#"
-  
- valyrian_immortals: "Нāморгхӯлилари"
- valyrian_immortals_flavor: "#F Нāморгхӯлилари, или 'Бессмертные' — элита армии Валирии. Их долг — защита императорской семьи, и они служат с достоинством и усердием#"
-  
-  
+
+#AB - addon#
+
+tradition_ancient_birthright_name:0 "Возрождение Древнего Наследия"  
+tradition_ancient_birthright_desc:1 "Мы свершили то, что сочли бы невозможным. Мы отвоевали Валирию у самой Гибели, что некогда её поглотила. Наш древний отчий край вновь вознёсся во славе, и мы позаботимся, чтобы все, кто усомнился в нас, помнили — драконы суть истинные владыки сей земли."  
+not_valyrian_empire_holder:0 "Вы #bold не #! владеете титулом [GetTitleByKey('e_valyria').GetName]"  
+
+tradition_warrior_kingdom_name:0 "Восхождение Королевства Воинов"  
+tradition_warrior_kingdom_desc:1 "Локирия храбра, Локирия сильна. Пусть всякий, кто дерзнёт ступить на наши берега, ведает это. Мы — авангард Валирии, и ради защиты святой родины восстанем против самого Моргула."  
+not_king_of_lokiria:0 "Вы #bold не #! владеете титулом [GetTitleByKey('k_lokiria').GetName] или [GetTitleByKey('e_valyria').GetName]"  
+
+tradition_narrow_sea_name:0 "Владыки Узкого Моря"  
+tradition_narrow_sea_desc:1 "Мы утвердились в главном торговом пути к западу от Валирии. С Дрифтмарком #italic и #! Ступенями в наших руках, наш народ воистину стал властителем Узкого Моря."  
+not_stepstones_and_driftmark:0 "Вы должны владеть и [GetTitleByKey('d_driftmark').GetName] #bold и #! [GetTitleByKey('k_the_stepstones').GetName]"  
+
+tradition_par_excellence_name:0 "Noblesse par Excellence"  
+tradition_par_excellence_desc:1 "Кровь Старой Валирии течёт в нас полноводно. Дарованные чертами древних Владык Драконов, мы источаем неземное обаяние, пред которым прочие народы кажутся ничтожными."  
+too_ugly:0 "Вы должны быть #bold как минимум #! [GetTrait('beauty_good_2').GetName( GetNullCharacter )] или обладать [GetTrait('exotic_beauty_good_2').GetName( GetNullCharacter )]"  
+
+tradition_rule_of_the_dragon_emperor_name:0 "Возрождённая Валирия"  
+tradition_rule_of_the_dragon_emperor_desc:1 "Новая Валирия восстала из пепла — сильней, чище и доблестней прежней. Народ наш возложил веру на нашего Джейдāриса и его священное предназначение. Скоро всё утраченное будет возвращено, а низшие народы вновь познают своё место."  
+fire_and_blood_blocked:0 "Это открывается через решение #bold «Огнём и Кровью» #!"  
+
+tradition_valyrian_matriarchy_name:0 "Валирийская Матриархия"  
+tradition_valyrian_matriarchy_desc:1 "Лишь истинные валирийские женщины способны рожать дочерей и сыновей чистой крови. Посему притязания валирийской женщины на власть равны притязаниям мужчины, а порой и превосходят их."  
+patriarchy_is_forbidden:0 "Ваша вера #bold не должна#! быть мужеправной."  
+
+tradition_three_heads_name:0 "Hāros Bartossi"  
+tradition_three_heads_desc:1 "В природе Владыки Драконов — стремление к владычеству. Завоевание течёт в нашей крови, как и в древние времена."  
+is_a_dragon_rider:0 "Вы должны быть "[GetTrait('dragonrider').GetName( GetNullCharacter )]."  
+
+culture_parameter_arrogant_trait_more_common:0 "Черта [GetTrait('arrogant').GetName( GetNullCharacter )] [trait|E] встречается чаще"  
+culture_parameter_authoritative_trait_more_common:0 "Черта [GetTrait('authoritative').GetName( GetNullCharacter )] [trait|E] встречается чаще"  
+culture_parameter_unlock_exotic_beauty:0 "Дети могут родиться с чертой [GetTrait('exotic_beauty_good_1').GetName( GetNullCharacter )] [trait|E] и, в редких случаях, с её #bold высшими #! ступенями"  
+culture_parameter_lustful_trait_more_common:0 "Черта [GetTrait('lustful').GetName( GetNullCharacter )] [trait|E] встречается чаще"  
+culture_parameter_lustful_trait_gives_bonuses:0 "Черта [GetTrait('lustful').GetName( GetNullCharacter )] [trait|E] даёт дополнительные преимущества"  
+culture_parameter_reaver_trait_more_common:0 "Черта [GetTrait('reaver').GetName( GetNullCharacter )] [trait|E] встречается чаще"  
+culture_parameter_reaver_trait_bonuses:0 "Черта [GetTrait('reaver').GetName( GetNullCharacter )] [trait|E] даёт дополнительные преимущества"  
+culture_parameter_children_can_be_born_amongst_the_flames:0 "Дети могут быть рождены с чертой [GetTrait('born_amongst_the_flames').GetName( GetNullCharacter )] [trait|E], если их родители властвуют над одним из #italic пяти оставшихся Пламен Валирии#!"  
+culture_parameter_create_blood_senate:0 "Открывает закон наследия #bold «Кровавый Сенат» #!"  
+culture_parameter_restore_old_titles:0 "Древние опеки и титулы Валирии будут восстановлены."  
+culture_parameter_dragon_dreams_trait_more_valued:0 "Черта [GetTrait('dragon_dreams').GetName( GetNullCharacter )] [trait|E] дарует [prestige|E]"  
+culture_parameter_dragonrider_trait_gives_bonuses:0 "Черта [GetTrait('dragonrider').GetName( GetNullCharacter )] [trait|E] даёт дополнительные преимущества"  
+culture_parameter_dragonrider_gives_stewardship:0 "Черта [GetTrait('dragonrider').GetName( GetNullCharacter )] [trait|E] повышает [stewardship|E]"  
+
+max_seduce_schemes_add:0 "Максимум интриг на соблазнение ([schemes|E])"  
+
+culture_parameter_brave_trait_gives_bonuses:0 "Черта [GetTrait('brave').GetName( GetNullCharacter )] [trait|E] даёт дополнительные преимущества"  
+
+#MAA
+
+culture_parameter_unlock_maa_lokiria_veterans:0 "Можно нанимать [GetMaA('lokiria_veterans').GetName] как [men_at_arms|E]"  
+culture_parameter_unlock_maa_valyrian_raiders:0 "Можно нанимать [GetMaA('valyrian_raiders').GetName] как [men_at_arms|E]"  
+culture_parameter_unlock_maa_valyrian_immortals:0 "Можно нанимать [GetMaA('valyrian_immortals').GetName] как [men_at_arms|E]"  
+
+lokiria_veterans:0 "Ветераны Локирии"  
+lokiria_veterans_flavor:0 "#F Опасайся старого воина в ремесле, где молодые гибнут первыми.#"  
+
+valyrian_raiders:0 "Валирийские Корсары"  
+valyrian_raiders_flavor:0 "#F Закалённые в битвах и доблестно вооружённые, сии корсары смеются в лицо самой смерти.#"  
+
+valyrian_immortals:0 "Наморгхулилари"  
+valyrian_immortals_flavor:0 "#F Наморгхулилари, или же «Бессмертные», — цвет и гордость валирийского воинства. Призванные защищать Императорский Род, эти избранные служат с достоинством и безупречной преданностью.#"   

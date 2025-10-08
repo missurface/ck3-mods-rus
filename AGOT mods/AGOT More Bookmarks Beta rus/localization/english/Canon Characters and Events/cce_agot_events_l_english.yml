@@ -8,6 +8,8 @@
  cce_agot_marriage_events.0001.b.tt: 0 ""
  
 cce_agot_maegor_modifier: 0 "Maegor Targaryen"
+ 
+cce_agot_dragon_health_modifier: 0 "Weak and Pitiful"
 
 cce_agot_noncanon_fertility_weak_debuff_modifier: 0 "Non-Canon Fertility Debuff"
 cce_agot_noncanon_fertility_medium_debuff_modifier: 0 "Non-Canon Fertility Debuff"
@@ -170,8 +172,36 @@ NINEPENNY_INTERVENTION_CB:0 "Band of Nine Conquest"
  
  
  
+cce_agot_canon_events.0027.t:0 "The House of the Dragon"
+cce_agot_canon_events.0027.desc:0 "The war for succession has left King’s Landing scarred. Its streets run thick with rumor and resentment, its markets bare, its people restless and hungry. The smallfolk whisper of broken oaths, dead dragons, and false kings, while lords mutter of debts, plundered coffers, and justice denied.\n\nTo sit the Iron Throne in such a time is to inherit not only a crown, but a city on the brink. The faith of the commons, the loyalty of the lords, and the fate of the dragons themselves hang in the balance. How you rule in these first days will shape not only the realm’s recovery, but the very legacy of House Targaryen."
+cce_agot_canon_events.0027.a:0 "The throne belongs to me, but can I keep it?"
+
+cce_agot_canon_events.0028.t:0 "The House of the Dragon"
+cce_agot_canon_events.0028.desc:0 "Whispers fill the Red Keep of lords and knights who bent the knee too late, of merchants who fed and armed the foe, of courtiers who whispered in secret to the enemy. Their guilt is proclaimed, their names spat in anger—but their fates remain yours to decide.\n\nWill you answer treason with blood, show the realm the solemnity of trials, or temper justice with mercy?"
+cce_agot_canon_events.0028.a:0 "They will all hang!"
+cce_agot_canon_events.0028.b:0 "Hold trials, so guilt and innocence may be weighed before the realm."
+cce_agot_canon_events.0028.c:0 "Show mercy. Better to heal the realm than deepen its wounds."
+
+
+cce_agot_canon_events.0029.t:0 "The House of the Dragon"
+cce_agot_canon_events.0029.desc:0 "The Iron Throne bleeds gold as surely as it has bled blood. War has stripped the treasury bare, yet the needs of court and crown remain. Without swift action, debts will drown the realm.\n\nThere are paths forward, though each carries its own cost. The smallfolk can be burdened with new levies—fees for the use of city wells, charges for bringing goods through the gates, tolls on every ferry, tax on every market stall. The lords and ladies of the realm can be made to pay more heavily for their titles, lands, and incomes, though such demands will breed resentment. Or, at great risk, vast sums may be borrowed from the Iron Bank of Braavos, whose memory is long and whose patience is short."
+cce_agot_canon_events.0029.a:0 "Lay the burden upon the smallfolk—tax every gate, well, ferry, and market."
+cce_agot_canon_events.0029.b:0 "Squeeze the nobility—let the great houses bleed for the realm."
+cce_agot_canon_events.0029.c:0 "Seek loans from the Iron Bank—gold now, debts forever."
  
- 
+cce_agot_canon_events.0030.t:0 "The Shepherd’s Voice"
+cce_agot_canon_events.0030.desc:0 "In the streets and septs of King’s Landing, a new voice rises. A ragged zealot, known only as the Shepherd, has gathered crowds of smallfolk to his sermons. He rails against House Targaryen, damning dragons as demons made flesh, and declares the realm will know no peace while such monsters and their masters endure.\n\nEach day his crowds swell, and the city stirs with unease. Some counsel swift action, that a show of fire and blood will scatter his flock. Others argue that to strike him down would only make a martyr, and that in time his words will fade like smoke on the wind."
+cce_agot_canon_events.0030.a:0 "Bring forth [my_dragon.GetFirstNameNicknamedNoTooltip]—let fear silence this rabble."
+cce_agot_canon_events.0030.b:0 "Do nothing. They will soon tire of this."
+
+cce_agot_canon_events.0031.t:0 "The Fate of the King's Landing"
+
+cce_agot_canon_events.0031.desc_storm_the_pit:0 "The city has erupted. Riots spill through the streets of King’s Landing, smallfolk turning to fire and steel in their fury.\n\nBells toll above the chaos as mobs cry for blood, and before long their fury falls upon the Dragonpit itself. Fanatics surge through its gates, mad enough to face fire with bare hands, and dragons scream as the sky fills with smoke. When dawn breaks, the city lies scarred, and the House of the Dragon stands diminished, its power broken in its very heart."
+
+cce_agot_canon_events.0031.desc_crisis_averted:0 "The restless whispers have faded, for now. The Shepherd’s voice is lost to the crowd, and the city has bent beneath the weight of crown and dragon. Though the people grumble and watch with wary eyes, calamity has been averted. King’s Landing endures, subdued but simmering, as the Iron Throne holds fast to its uneasy peace."
+
+cce_agot_canon_events.0031.a:0 "The realm will remember what has passed."
+
  
  
  

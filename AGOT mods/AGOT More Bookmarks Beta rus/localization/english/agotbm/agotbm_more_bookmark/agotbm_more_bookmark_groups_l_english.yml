@@ -1,5 +1,5 @@
 ﻿l_english:
-agot_more_bookmarks_iron_throne_group: 0 "After the Conquest"
+agot_more_bookmarks_iron_throne_group:0 "#TS More Bookmarks\nComprehensive#!"
 agot_more_bookmarks_after_the_doom_group: 0 "After the Doom"
 
 agot_more_bookmarks_iron_throne_group:0 "0 AC"
@@ -1646,3 +1646,42 @@ cce_agot_canon_events.0026.desc:0 "The Redgrass Field ran red with blood as the 
 cce_agot_canon_events.0026.a:0 "The Black Dragon falls, and with him his cause."
 
 cce_agot_the_unworthy:0 "The Unworthy"
+
+agot_more_bookmarks_tourney_at_harrenhal:0 "Tourney at Harrenhal"
+agot_more_bookmarks_tourney_at_harrenhal_desc:0 "In the Year of the False Spring, Lord Whent of Harrenhal calls the lords of Westeros to the grandest tourney in living memory. Beneath the splendor of the lists and the feasts, whispers coil through the hall—plots hatched in shadow, alliances struck in secret, and a king’s paranoia stoked ever higher.\n\nIt is here, amid the pageantry and the vows of knighthood, that rivalries sharpen and destinies shift. The crown rests uneasy, and from this tourney’s bright pomp shall flow the dark waters of rebellion."
+
+stark_war_for_the_north_cb:0 "War for the North"
+stark_war_for_the_north_name:0 "War for the North"
+
+dynamic_scenarios_agot.1106.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1106.desc:0 "With the war over and justice done, the question remains: who shall rule the North now?\n\nThe choice made here will the shape the future of The North."
+dynamic_scenarios_agot.1106.a:0 "Winter is coming."
+
+dynamic_scenarios_agot.1107.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1107.desc:0 "The war darkens, and enemies press from all sides. Yet there is one who might be ally as well as bride—Daenerys Targaryen, across the sea with dragons at her back. A union could bind ice and fire, forging strength enough to change the fate of kingdoms."
+dynamic_scenarios_agot.1107.a:0 "Send a proposal of marriage."
+dynamic_scenarios_agot.1107.b:0 "No. I will fight my battles alone."
+
+dynamic_scenarios_agot.1108.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1108.desc:0 "Ravens cross the sea, bearing Jon Snow’s proposal. The message speaks of alliance, of shared purpose, and of binding fire to ice in a single cause. Now Daenerys Targaryen must decide whether to take the hand offered, or to refuse and stand apart."
+dynamic_scenarios_agot.1108.a:0 "Accept the match—together, Ice and Fire shall unite."
+dynamic_scenarios_agot.1108.b:0 "Refuse—the dragon needs no wolf."
+
+
+k_the_northern_marches: 0 "The Northern Marches"
+
+k_the_sunset_marches: 0 "The Sunset Sea"
+
+k_the_westermarches: 0 "The Westermarches"
+
+k_the_kraken_rock: 0 "The Krakenrock"
+
+dynamic_scenarios_agot.1109.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1109.desc:0 "Jon Snow has proven himself bold, steadfast, and of rare mettle. Now he seeks what few would dare—permission to stand before one of your dragons, to test his bond with the fire-born beasts. To grant this is to risk much, yet should he succeed, a dragonrider at his side would bind wolf and dragon closer than ever before."
+dynamic_scenarios_agot.1109.a:0 "Let him approach the dragon."
+dynamic_scenarios_agot.1109.b:0 "No—the risk is too great."
+
+dynamic_scenarios_agot.1110.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1110.desc:0 "The beast loomed vast and terrible, eyes like burning coals, breath hot enough to sear the earth. Jon Snow stood his ground, heart hammering, yet something deeper stirred within him—an echo, faint but familiar, as if fire itself remembered him. Slowly, the dragon’s fury ebbed, and what remained was not rage but recognition.\n\nMan and beast regarded one another in silence, and in that silence a bond was forged."
+dynamic_scenarios_agot.1110.a:0 "The wolf finds kinship in fire."
+

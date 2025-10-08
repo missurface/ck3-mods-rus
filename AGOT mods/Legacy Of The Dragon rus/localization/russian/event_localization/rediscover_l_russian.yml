@@ -1,0 +1,56 @@
+﻿l_russian:
+  
+ rediscover_events_0001_t: "Наследие дракона"
+ rediscover_mechanic_decision_desc: "Поручите вашему Хранителю древности найти утраченные артефакты Таргариенов."
+ rediscover_mechanic_confirm: "Начать поиск."
+  
+ rediscover_events_0001_desc: "Многие артефакты моих предков до сих пор утеряны, некоторые из них датируются периодом до прибытия [aegonTarg.GetTitledFirstName] в Вестерос...\n\nВозможно, при наличии достаточного количества золота и здравого смысла их можно будет вернуть Дому [main.GetDynasty.GetBaseName]..."
+  
+  
+ rediscover_events.0001.a: "Верните то, что по праву принадлежит Дому [main.GetDynasty.GetBaseName]!"
+ rediscover_events.1001_desc: "Верните то, что по праву принадлежит Дому [main.GetDynasty.GetBaseName]!"
+  
+  
+ rediscover_events.0002.a: "Счастливого пути..."
+  
+  
+ rediscover_events_0002_desc: ""Я скоро вернусь, [Select_CString(ROOT.Char.IsFemale, 'моя', 'мой' )] [main.GetTitleTierName]!"\n\nИ с этими словами [antiquarian.GetFirstName] отправился на поиски давно утерянных артефактов..."
+  
+  
+ rediscover_events_1001_desc: "[antiquarian.GetFirstName], [Select_CString(antiquarian.IsFemale, 'потрепанная', 'потрепанный' )] и [Select_CString(antiquarian.IsFemale, 'изможденная', 'изможденная' )], несет в мой тронный зал ношу, завернутую в ткань.\n\n[antiquarian.GetSheHe|U] преклоняет колени и открывает легендарный меч Черное Пламя, один из двух родовых мечей Дома [main.GetDynasty.GetBaseName], его рукоять сияет отблесками далекой истории и неисчислимых опасностей.\n\nНаконец-то давно утерянный символ Дома [main.GetDynasty.GetBaseName] возвращен на свое законное место."
+  
+ rediscover_events_1002_desc: "[antiquarian.GetFirstName] наконец возвращается ко двору. Я сразу замечаю, что [antiquarian.GetSheHe|L] [Select_CString(antiquarian.IsFemale, 'прошла', 'прошел' )] через семь кругов ада...\n\n"[Select_CString(ROOT.Char.IsFemale, 'Моя', 'Мой' )] [ROOT.Char.GetTitleAsName], - [antiquarian.GetFirstName] низко кланяется, - я приношу новости и дар из-за Стены".\n\n[antiquarian.GetSheHe|U] вручает мне клинок, которым когда-то владели мои предки. Темная Сестра, один из двух клинков из валирийской стали, принадлежащих Дому [main.GetDynasty.GetBaseName]...\n\nХодили слухи, что [brynden.GetFirstNameNicknamed] принес этот меч с собой в Ночной Дозор... он оставался потерянным за Стеной до сих пор."
+  
+ rediscover_events_1003_desc: "[antiquarian.GetFirstName] прибывает, и [antiquarian.GetHerHim] — артефакт, окутанный тайной...\n\n«Кинжал, мой [ROOT.Char.GetTitleAsName], из валирийской стали...»\n\n[antiquarian.GetSheHe|U] преподносит его мне.\n\n[antiquarian.GetSheHe|U] продолжает: «В редких записях из старых писем и книг упоминается кинжал, некогда принадлежавший [aenar.GetTitledFirstName], а затем [aegonTarg.GetTitledFirstName]... Он редко встречается в текстах вплоть до упоминания у [viserys.GetTitledFirstName]... После Танца Драконов следы теряются.»\n\nИнтригующе... Третье оружие из валирийской стали, связанное с моими предками? Странно...\n\nЧто за тайна скрыта в этом кинжале?.." 
+  
+ rediscover_events_1004_desc: "[antiquarian.GetFirstName] прибывает к моему двору и вручает мне могучее оружие.\n\n"Боевой молот [orys.GetTitledFirstName]... Этим молотом владел [orys.GetFirstName] после Завоевания... Ходят слухи, что сводный брат [orys.GetFirstNamePossessive], [aegonTarg.GetTitledFirstName], подарил его после своего Завоевания".\n\nОн передавался по наследству через Лордов Дома [orys.GetDynasty.GetBaseName], но его корни уходят в Дом [aegonTarg.GetDynasty.GetBaseName], поскольку [orys.GetFirstName] изначально был бастардом [aegonTarg.GetDynasty.GetBaseName]!\n\nХотя молот теперь принадлежит мне, у меня нет сомнений, что [baratheon_head.GetTitledFirstName] жаждет этого оружия...\n\nВозможно, возвращение его Дому [orys.GetDynasty.GetBaseName] было бы жестом доброй воли? \n\nИли, может быть, его лучше оставить в руках Дома [main.GetDynasty.GetBaseName]..."
+  
+ rediscover_events_1005_desc: "[antiquarian.GetFirstName] прибывает к моему двору и преподносит мне великий дар.\n\n"Корона Завоевателя... Пусть сила [aegonTarg.GetTitledFirstName] возродится в Вас...»\n\n[aegonTarg.GetTitledFirstName] был коронован этой короной своей сестрой-женой, [visenya.GetFirstName], после его прибытия в Вестерос.\n\nОна передавалась от короля [aegonTarg.GetDynasty.GetBaseName] королю [aegonTarg.GetDynasty.GetBaseName], пока не была утеряна в Дорне вместе с [daeron.GetTitledFirstName].\n\nТеперь она вернулась в Дом [main.GetDynasty.GetBaseName], хотя и без рубинов, вырванных из их гнезд...\n\nМожет быть, я [Select_CString(ROOT.Char.IsFemale, 'могла', 'мог' )] бы заплатить мастеру, чтобы он восстановил корону в ее былом великолепии?"
+  
+ rediscover_events_1006_desc: "[antiquarian.GetFirstName] прибывает к моему двору и вручает мне королевский дар.\n\n"Корона [aenys.GetTitledFirstName]... Она была утеряна некоторое время спустя после смерти [jaehaerys.GetTitledFirstName], но, увы, теперь она найдена...»\n\nЭту корону носил второй [main.GetDynasty.GetBaseName] король Вестероса, [aenys.GetTitledFirstName], до своей смерти от рук [maegor.GetTitledFirstName].\n\nТеперь она вернулась к своим законным владельцам."
+  
+ rediscover_events_1007_desc: "[antiquarian.GetFirstName] наконец-то [Select_CString(antiquarian.IsFemale, 'прибыла', 'прибыл' )].\n\n"[Select_CString(ROOT.Char.IsFemale, 'Моя', 'Мой' )] [ROOT.Char.GetTitleAsName]! Мое ​​путешествие привело меня далеко за Узкое море в Браавос, где я нашел кое-что, что может быть вам интересно..."\n\n[antiquarian.GetSheHe|U] представляет мне корону [jaehaerys.GetTitledFirstName]. Ее судьба долгое время была неизвестна после Танца Драконов, когда [rhae.GetTitledFirstName] продал ее браавосским торговцам.\n\nТеперь она возвращена законным владельцам."
+  
+ rediscover_events_1008_desc: "[Select_CString(antiquarian.IsFemale, 'Прибыла', 'Прибыл' )] [antiquarian.GetFirstName], и ​в [antiquarian.GetHerHim] руках довольно небольшой предмет.\n\n"[Select_CString(ROOT.Char.IsFemale, 'Моя', 'Мой' )] [ROOT.Char.GetTitleAsName]! Я нашел кое-что, что вас очень заинтересует... Диадема вдовствующей королевы [visenya.GetFirstName] "\n\n[antiquarian.GetSheHe|U] дарит мне тонкий обруч из валирийской стали, украшенный небольшими овальными рубинами.\n\nЭта диадема является напоминанием о происхождении Дома [aegonTarg.GetDynasty.GetBaseName] как правителей Вестероса."
+  
+ rediscover_events_1009_desc: "[antiquarian.GetFirstName] наконец-то прибывает, и в [antiquarian.GetHerHim] руках артефакт моих предков...\n\n"Корона [aegon_3.GetTitledFirstName]... Более простой артефакт вашего дома, но все еще несущий в себе значительный смысл". [antiquarian.GetFirstName] говорит.\n\nКорона Драконьей Погибели знаменует собой переход Дома [aegonTarg.GetDynasty.GetBaseName] от повелителей драконов к простым смертным, их некогда могущественные драконы превратились в отголоски ушедшей эпохи."
+  
+ rediscover_events_1010_desc: "[antiquarian.GetFirstName] прибывает к моему двору и представляет артефакт из ушедшей эпохи. \n\n«Корона [maekar.GetTitledFirstName], наконец, вернулась в ваш Дом...»\n\nМне вручают суровую и заостренную на вид корону, которая отражает воинственный характер покойного [maekar.GetTitledFirstName], который был известен как своей доблестью, так и боевыми способностями.\n\nТеперь корона, наконец, вернулась на свое законное место."
+  
+ rediscover_events_1011_desc: "В конце концов, [antiquarian.GetFirstName] прибывает ко двору, неся небольшой предмет.\n\n [antiquarian.GetSheHe|U] становится на колени и вручает его мне.\n\n"Маска покойного [viserys.GetTitledFirstName]. Остаток времени до Танца Драконов..."\n\n[antiquarian.GetFirstName] вручает мне золотую маску, которую когда-то носил [viserys.GetTitledFirstName] в последние годы своей жизни.\n\n[viserys.GetTitledFirstName] носил эту маску во время своих редких появлений при дворе перед смертью."
+  
+ rediscover_events_1012_desc: "[antiquarian.GetFirstName] возвращается, и в [antiquarian.GetHerHim] руках появляется довольно интересный предмет...\n\n[antiquarian.GetSheHe|U] дарит мне корону, сделанную из цветов.\n\n"Корона [baelor.GetTitledFirstName] 'Благословенного'.\n\nУдивительно, как этот артефакт пережил столько лет..."
+  
+  
+ rediscover_events_1001_exit.a: "Хорошая работа, [antiquarian.GetFirstName]..."
+  
+  
+ rediscover_events_fallback_desc: "Хм... Может быть, все предметы, принадлежавшие дому Таргариенов, уже найдены?"
+  
+  
+ rediscover_mechanic_decision_tooltip: "Отправьте своего антиквара на поиски давно утерянных артефактов Таргариенов."
+  
+  
+ rediscover_mechanic_effect_0: "Ваш антиквар найдет все оставшиеся артефакты Таргариенов."
+  
+ rediscover_mechanic_effect_1: "d"

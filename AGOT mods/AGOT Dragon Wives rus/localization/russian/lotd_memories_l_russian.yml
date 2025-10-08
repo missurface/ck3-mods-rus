@@ -1,0 +1,37 @@
+﻿l_russian:
+ read_aegon_prophecy_confirm: "Прочесть пророчество"
+ read_prophecy_desc: "Я прочёл пророчество, сокрытое в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive]"
+ read_prophecy_desc_second_perspective: "ты прочёл пророчество, сокрытое в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive]"
+ read_prophecy_desc_third_perspective: "[owner.GetName] прочёл пророчество, сокрытое в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive]"
+  
+ read_prophecy_to_heir_desc: "Я передал пророчество, сокрытое в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive], [heir.GetName]"
+ read_prophecy_to_heir_desc_second_perspective: "Ты передал пророчество, сокрытое в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive], [heir.GetName]"
+ read_prophecy_desc_to_heir_third_perspective: "[owner.GetName] передал пророчество, сокрытое в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive], [heir.GetName]"
+  
+ inherit_prophecy_desc: "Я узнал о пророчестве, сокрытом в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive], от [daggerOwner.GetName]"
+ inherit_prophecy_desc_second_perspective: "ты узнал о пророчестве, сокрытом в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive], от [daggerOwner.GetName]"
+ inherit_prophecy_desc_third_perspective: "[owner.GetName] узнал о пророчестве, сокрытом в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive], от [daggerOwner.GetName]"
+  
+ discover_prophecy_desc: "Я вновь открыл пророчество, сокрытое в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive]"
+ discover_prophecy_desc_second_perspective: "ты вновь открыл пророчество, сокрытое в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive]"
+ discover_prophecy_desc_third_perspective: "[owner.GetName] вновь открыл пророчество, сокрытое в кинжале [aegonTargLoc.GetFirstNameNicknamedPossessive]"
+  
+  
+ read_prophecy: "Прочесть пророчество"
+ discover_prophecy: "Вновь открыл пророчество"
+  
+ inherit_prophecy: "Унаследовал пророчество"
+ read_prophecy_to_heir: "Передал пророчество наследнику"
+  
+ buy_rubies_desc: "Я выкупил рубины, принадлежащие моей короне"
+ buy_rubies_desc_second_perspective: "ты выкупил рубины, принадлежащие твоей короне"
+ buy_rubies_desc_third_perspective: "[owner.GetName] выкупил рубины, принадлежащие [owner.GetHerHis] короне"
+  
+  
+ sold_rubies_desc: "Я продал рубины, принадлежащие моей короне, за золото"
+ sold_rubies_desc_second_perspective: "ты продал рубины, принадлежащие твоей короне, за золото"
+ sold_rubies_desc_third_perspective: "[owner.GetName] продал рубины, принадлежащие [owner.GetHerHis] короне, за золото"
+  
+  
+ buy_rubies: "Выкупил рубины из короны"
+ sold_rubies: "Продал рубины из короны"

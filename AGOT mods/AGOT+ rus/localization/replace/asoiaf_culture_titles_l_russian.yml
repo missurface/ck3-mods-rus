@@ -1,9 +1,0 @@
-﻿l_russian:
- kingdom_lp_feudal_default: "Kingdom"
-  
- king_lp_feudal_male: "[CHARACTER.Custom('LP_FEUDAL_MALE')]"
- king_lp_feudal_female: "[CHARACTER.Custom('LP_FEUDAL_FEMALE')]"
- #king_lp_feudal_male_default: "Lord"
- #king_lp_feudal_female_default: "Lady"
-  
- e_the_riverlands_old: "Rivers and Hills"

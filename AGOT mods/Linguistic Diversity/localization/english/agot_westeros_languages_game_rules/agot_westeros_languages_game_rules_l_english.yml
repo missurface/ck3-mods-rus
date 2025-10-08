@@ -1,0 +1,11 @@
+﻿l_english:
+ #Language Diversity
+ rule_agot_languages:0 "#R AGOT: Linguistic Diversity #!"
+ setting_mod_default:0 "Default AGOT"
+ setting_mod_default_desc:0 "Westeros will have the same exact languages as it does in the base mod."
+ setting_heritage_split:0 "Slight Diversity"
+ setting_heritage_split_desc:0 "Each heritage will have its own language."
+ setting_common_split:0 "More Diversity"
+ setting_common_split_desc:0 "The Andal and Valyrian languages are split north/south and the near-Wall Wildlings have their own tongue."
+ setting_regional_split:0 "Lots of Diversity"
+ setting_regional_split_desc:0 "Each constituent region, isolated First Man culture, and Free City gets its own language. Tolkien rejoices."

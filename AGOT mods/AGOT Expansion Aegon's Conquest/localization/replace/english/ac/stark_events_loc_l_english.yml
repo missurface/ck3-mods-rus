@@ -1,0 +1,31 @@
+﻿l_english:
+ 
+ # THE CONQUEST
+ stark.0001:0 "Call the Banners"
+ stark.0001.desc:0 "The Kingdoms of the South are falling, each of them, one by one to Aegon Targaryen. House Stark withstood the Andal Invasions, undeterred and we shall do so again. \n \nFinally we have been able to bring together a host and now we shall travel south to face this dragonlord!"
+ stark.0001.option1:0 "Winter is Coming."
+
+ stark.0002:0 "The Warcamp"
+ stark.0002.desc:0 "As we travel to war it becomes clear that Aegon's victories are more staggering than we had heard, armies destroyed, houses wiped out by him and his dragons. It seems surrender is the best course of action for the Northern people, spare them losing sons, brother, cousins and kin by bending the knee to the Targaryen's. \n \nHowever, my bastard brother, Brandon Snow thinks different, he believes he can travel under the cover of night in the enemy camps and kill one of the dragons, dramatically hitting enemy morale but is the plan truly feasible?"
+ stark.0002.option1:0 "We bend the knee."
+ stark.0002.option2:0 "The North will stand, Brandon will go."
+
+ stark.0003:0 "The King Who Knelt"
+ stark.0003.desc:0 "Over the last night, my bastard brother Brandon Snow and three maesters have been travelling back and forth to the Targaryen's in negotiation, I recognise the insurmountable odds Aegon's dragons give me. \n \nI come before Aegon now, kneeling, laying my sword at his feet and handing the Crown of Winter to the new King. This was needed, I had no choice. As agreed, he has affirmed my rights Lord of Winterfell and named me Warden of the North."
+ stark.0003.option1:0 "They now call me, the King Who Knelt."
+
+ stark.0004:0 "Brandon's Plot"
+ stark.0004.desc:0 "Brandon has left our camps with his men, his plot will take place, it is clear that if this plot succeeds we may still lose and if it fails we will most certainly lose but the same odds were given to Theon the Hungry Wolf when he defeated the Andal Armies. Except the Andals didn't have dragons."
+ stark.0004.option1:0 "Good luck, brother."
+
+ stark.0005:0 "Brandon's Success"
+ stark.0005.desc:0 "Somehow Brandon has done it, he has killed one of Aegon's dragons and boosted our morale while crashing their. The Targaryen's aren't as invincible as they appear, now we must crush them on the field!"
+ stark.0005.option1:0 "I hope this was the right path."
+
+ stark.0006:0 "Brandon's Failure"
+ stark.0006.desc:0 "My brother is dead. He died in his attempt to kill a dragon, a noble death but a sad one. The Targaryen army approaches and we must put together whatever defence we can to stop the dragons. \n \nI cannot help but wonder how things would be different if we had opened negotiations."
+ stark.0006.option1:0 "Oh brother, gods rest you."
+
+ stark.0007:0 "Bend the Knee"
+ stark.0007.desc:0 "With our armies destroyed and our lands seized we have no choice but to bend the knee to Aegon Targaryen under his command. We have failed, for the first time in its history, the North's freedom has been lost. \n \nI can only hope for mercy."
+ stark.0007.option1:0 "Winter melts."

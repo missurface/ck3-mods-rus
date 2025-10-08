@@ -1,0 +1,82 @@
+﻿l_french:
+ game_rule_category_SdV: "Sang de Valyria - Règles de Jeu"
+
+ rule_hv_vi_100_gr: "Attribution automatique du trait [GetTrait('vi_100').GetName(GetNullCharacter)|l] aux personnages $high_valyrian$."
+ setting_hv_vi_100_enable: "Activité"
+ setting_hv_vi_100_enable_desc: "Le trait [GetTrait('vi_100').GetName(GetNullCharacter)|l] sera automatiquement attribué aux personnages $high_valyrian$ qui apparaîtront au cours de la partie."
+ setting_hv_vi_100_disable: "Désactivé"
+ setting_hv_vi_100_disable_desc: "Le trait [GetTrait('vi_100').GetName(GetNullCharacter)|l] ne sera pas attribué automatiquement aux personnages $high_valyrian$ qui apparaîtront au cours de la partie."
+
+ rule_wv_vi_50_gr: "Attribution automatique du trait [GetTrait('vi_50').GetName(GetNullCharacter)|l] aux personnages $westerosi_valyrian$."
+ setting_wv_vi_50_enable: "Activité"
+ setting_wv_vi_50_enable_desc: "Le trait [GetTrait('vi_50').GetName(GetNullCharacter)|l] sera automatiquement attribué aux personnages $westerosi_valyrian$ qui apparaîtront au cours de la partie."
+ setting_wv_vi_50_disable: "Désactivé"
+ setting_wv_vi_50_disable_desc: "Le trait [GetTrait('vi_50').GetName(GetNullCharacter)|l] ne sera pas attribué automatiquement aux personnages $westerosi_valyrian$ qui apparaîtront au cours de la partie."
+
+ rule_ev_vi_50_gr: "Attribution automatique du trait [GetTrait('vi_50').GetName(GetNullCharacter)|l] aux personnages $essosi_valyrian$."
+ setting_ev_vi_50_enable: "Activité"
+ setting_ev_vi_50_enable_desc: "Le trait [GetTrait('vi_50').GetName(GetNullCharacter)|l] sera automatiquement attribué aux personnages $essosi_valyrian$ qui apparaîtront au cours de la partie."
+ setting_ev_vi_50_disable: "Désactivé"
+ setting_ev_vi_50_disable_desc: "Le trait [GetTrait('vi_50').GetName(GetNullCharacter)|l] ne sera pas attribué automatiquement aux personnages $essosi_valyrian$ qui apparaîtront au cours de la partie."
+
+ rule_mdd_gr: "Suppression des dragons"
+ setting_mdd_enable: "Activité"
+ setting_mdd_enable_desc: "#N Seulement lors des nouvelles parties  (avant la mort du Dernier Dragon) et en solo. #! Un event se déclenchera, afin de vous proposer de tuer tout les dragons..."
+ setting_mdd_disable: "Désactivé"
+ setting_mdd_disable_desc: "Aucun dragon ne sera supprimé"
+
+ rule_sdv_ad_gr: "Chance d'éclosion et d'approvisionnements des dragons."
+ setting_sdv_ad_enable: "Chance acrue."
+ setting_sdv_ad_enable_desc: "Les chances que vous ou l'IA fassiez éclore des oeufs de dragons lors des cérémonies, ou que vous réussisiez à dompter un dragon est grandement augmentée selon votre pourcentage de sang valyrien."
+ setting_sdv_ad_disable: "Chance inchangée"
+ setting_sdv_ad_disable_desc: "Les chances que vous ou l'ia réussissiez à dompter un dragon ou à fairee éclore un oeuf de dragon lors d'une cérémonie, restent les mêmes qu'en vanilla."
+
+ rule_sdv_debug_traits_gr: "Debug: ajouter ou enlever des traits de #N Le Sang de Valyra #!."
+ setting_sdv_debug_traits_enable: "Activé."
+ setting_sdv_debug_traits_enable_desc: "Vous pourrez enlever ou ajouter des traits (issus de #N Le Sang de Valyra #!) aux personnages. "
+ setting_sdv_debug_traits_disable: "Désactivé."
+ setting_sdv_debug_traits_disable_desc: "Vous ne pourrez pas enlever ou ajouter des traits (issus de #N Le Sang de Valyra #!) aux personnages. (tout de même possible si mode debug est activé.)"
+
+ rule_sdv_celtigar_hv_gr: "Celtigar: $high_valyrian$ ou $westerosi_valyrian$."
+ setting_sdv_celtigar_hv_disable: "Par défault."
+ setting_sdv_celtigar_hv_disable_desc: "Les Celtigars resteront des $high_valyrian$ comme le fait le mode #N Le Sang de Valyra #!"
+ setting_sdv_celtigar_hv_enable: "Vanilla"
+ setting_sdv_celtigar_hv_enable_desc: "Vous aurez un event pour rendre les Celtigars $westerosi_valyrian$ comme dans la version vanilla de #N CK3 AGOT #!"
+
+ rule_sdv_scales_hv_gr: "Lamelin: $high_valyrian$ ou $westerosi_valyrian$."
+ setting_sdv_scales_hv_disable: "Par défault."
+ setting_sdv_scales_hv_disable_desc: "Les Lamelins resteront des $high_valyrian$ comme le fait le mode #N Le Sang de Valyra #!"
+ setting_sdv_scales_hv_enable: "Vanilla"
+ setting_sdv_scales_hv_enable_desc: "Vous aurez un event pour rendre les Lamelins $westerosi_valyrian$ comme dans la version vanilla de #N CK3 AGOT #!"
+
+ rule_sdv_beauty_fertility_gr: "Fertilité des traits de beauté."
+ setting_sdv_beauty_fertility_vanilla: "Vanilla"
+ setting_sdv_beauty_fertility_vanilla_desc: "Par défault"
+ setting_sdv_beauty_fertility_disable: "Désactivé"
+ setting_sdv_beauty_fertility_disable_desc: "Les personnages ayant un des traits suivants: [GetTrait('beauty_good_1').GetName(GetNullCharacter)|l], [GetTrait('beauty_good_2').GetName(GetNullCharacter)|l], [GetTrait('beauty_good_3').GetName(GetNullCharacter)|l], [GetTrait('beauty_bad_1').GetName(GetNullCharacter)|l], [GetTrait('beauty_bad_2').GetName(GetNullCharacter)|l]or [GetTrait('beauty_bad_3').GetName(GetNullCharacter)|l], recevront un malus, ou un bonus, afin de ne pas avoir les effets sur la fertilé apporté par ces traits."
+
+ rule_sdv_three_pt_gr: "Nombre de traits de personalités"
+ setting_sdv_three_pt_disable: "4"
+ setting_sdv_three_pt_disable_desc: "Les personnages auront 4 traits de personalités comme dans la version vanilla de #N CK3 AGOT #!"
+ setting_sdv_three_pt_enable: "3"
+ setting_sdv_three_pt_enable_desc: "Les enfants perdront un trait de personalité à leur 16ans, afin de correspondre à la version vallia de CK3"
+
+ rule_sdv_three_pt_after_loby_gr: "Personnages déjà existant: 3 ou 4 traits?"
+ setting_sdv_three_pt_after_loby_disable: "4"
+ setting_sdv_three_pt_after_loby_disable_desc: "Les personnages déjà présent dans le jeu garderont leurs 4 traits"
+ setting_sdv_three_pt_after_loby_enable: "3"
+ setting_sdv_three_pt_after_loby_enable_desc: "Les personnages déjà présent dans le jeu auront un trait supprimé lors du lancement d'une nouvelle parti. (Ne marche que si la règle de jeu précédente est atcivé)."
+
+ rule_sdv_pw_ls_gr: "Prince de Westeros"
+ setting_sdv_pw_ls_enable: "Activé"
+ setting_sdv_pw_ls_enable_desc: "Cette fonctionnalité est en cours de développement, merci de désactiver la règle de jeu"
+ setting_sdv_pw_ls_disable: "Désactivé"
+ setting_sdv_pw_ls_disable_desc: "Merci de laisser cette règle de jeu sur désactivé"
+
+ rule_sdv_pw_culture_gr: "Prince de Westeros: Culture"
+ setting_sdv_pw_culture_strict: "Activé"
+ setting_sdv_pw_culture_strict_desc: "Cette fonctionnalité est en cours de développement, merci de désactiver la règle de jeu"
+ setting_sdv_pw_culture_no_strict: "Désactivé"
+ setting_sdv_pw_culture_no_strict_desc: "Merci de laisser cette règle de jeu sur désactivé"
+
+ #[trait|El] [GetTrait('incapable').GetName(GetNullCharacter)|l]

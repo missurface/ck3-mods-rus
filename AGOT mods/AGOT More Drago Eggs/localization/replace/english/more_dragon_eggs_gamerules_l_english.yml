@@ -1,0 +1,440 @@
+﻿l_english:
+ #Major
+ rule_use_dragon_pit_mover:0 "@mde_icon!@dragon_majestic_icon!Use The MDE Dragonpit Mover"
+ setting_use_dragon_pit_mover_no:0 "AGOT Base Game Setting"
+ setting_use_dragon_pit_mover_yes:0 "@mde_icon!More Dragon Eggs"
+
+ setting_use_dragon_pit_mover_no_desc:0 "This will disable the More Dragon Eggs added feature. There is currently no vanilla equivalent."
+ setting_use_dragon_pit_mover_yes_desc:0 "This will enable the Dragonpit Mover menu made by More Dragon Eggs"
+ 
+ rule_realm_affairs_extended:0  "@mde_icon!@dragon_majestic_icon!More Dragon Eggs Extra UI"
+ setting_realm_affairs_extended_off:0  "Off"
+ setting_realm_affairs_extended_buttons:0 "Buttons Only"
+ setting_realm_affairs_extended_decisions:0 "Decisions Only"
+ setting_realm_affairs_extended_decisions_and_buttons:0 "Decisions and Buttons"
+
+ setting_realm_affairs_extended_off_desc:0 "The extra UI will be disabled."
+ setting_realm_affairs_extended_buttons_desc:0 "Buttons will appear to view all Dragonpits, Dragons, or Eggs, if they exist."
+ setting_realm_affairs_extended_decisions_desc:0 "Decisions will appear to view all Dragonpits, Dragons, or Eggs, if they exist."
+ setting_realm_affairs_extended_decisions_and_buttons_desc:0 "Decisions and buttons will appear to view all Dragonpits, Dragons, or Eggs, if they exist."
+ #Hatching
+ rule_can_hatch_multiple_dragons:0 "@mde_icon!@hatching_icon!Hatch Multiple Eggs In A Ceremony"
+ setting_can_hatch_multiple_dragons_no:0 "It Will Not Be Possible"
+ setting_can_hatch_multiple_dragons_yes_5_percent:0 "Yes - 5% Chance Each"
+ setting_can_hatch_multiple_dragons_yes_25_percent:0 "Yes - 25% Chance Each"
+ setting_can_hatch_multiple_dragons_yes_50_percent:0 "Yes - 50% Chance Each"
+ setting_can_hatch_multiple_dragons_yes_75_percent:0 "Yes - 75% Chance Each"
+ setting_can_hatch_multiple_dragons_yes_95_percent:0 "Yes - 95% Chance Each"
+ setting_can_hatch_multiple_dragons_yes_all:0 "All Eggs Will Hatch"
+
+ setting_can_hatch_multiple_dragons_no_desc:0 "There will be no chance that any other egg than the selected one will hatch from a successful hatching."
+ setting_can_hatch_multiple_dragons_yes_5_percent_desc:0 "There will be a 5% chance that any other egg than the selected one will hatch from a successful hatching."
+ setting_can_hatch_multiple_dragons_yes_25_percent_desc:0 "There will be a 25% chance that any other egg than the selected one will hatch from a successful hatching."
+ setting_can_hatch_multiple_dragons_yes_50_percent_desc:0 "There will be a 50% chance that any other egg than the selected one will hatch from a successful hatching."
+ setting_can_hatch_multiple_dragons_yes_75_percent_desc:0 "There will be a 75% chance that any other egg than the selected one will hatch from a successful hatching."
+ setting_can_hatch_multiple_dragons_yes_95_percent_desc:0 "There will be a 95% chance that any other egg than the selected one will hatch from a successful hatching."
+ setting_can_hatch_multiple_dragons_yes_all_desc:0 "Every dragon egg in the character's inventory will hatch into an owned dragon in a successful hatching."
+
+ rule_dragon_hatching_success_chance:0 "@mde_icon!@hatching_icon!Dragon Hatching Success Chance"
+ setting_dragon_hatching_guaranteed:0 "Guaranteed"
+ setting_dragon_hatching_very_likely:0 "Very Likely"
+ setting_dragon_hatching_normal:0 "Default"
+ setting_dragon_hatching_not:0 "Fail"
+ 
+ setting_dragon_hatching_guaranteed_desc:0 "The dragon hatching activity will succeed in spawning a dragon"
+ setting_dragon_hatching_very_likely_desc:0 "About a 50 percent chance of the dragon hatching activity spawning in a dragon."
+ setting_dragon_hatching_normal_desc:0 "The dragon hatching activity will follow the default probability of success and failure."
+ setting_dragon_hatching_not_desc:0 "The dragon hatching activity will fail."
+
+ rule_extant_hatching_ceremonies:0 "@mde_icon!@hatching_icon!Are Hatching Ceremonies Always Available"
+ setting_extant_hatching_ceremonies_yes:0 "Yes"
+ setting_extant_hatching_ceremonies_no:0 "No"
+
+ setting_extant_hatching_ceremonies_yes_desc:0 "Hatching ceremonies will be possible if dragons are extant."
+ setting_extant_hatching_ceremonies_no_desc:0 "Hatching ceremonies will not be possible if dragons are extant."
+ #Egg + Dragonlore
+ rule_dragon_egg_spawn_likelihood:0 "@mde_icon!@iceFire_dragon_egg_icon!Dragon Egg Spawn Likelihood"
+ setting_no_spawns:0 "No Spawns"
+ setting_extremely_unlikely_spawn:0 "Extremely Unlikely Spawns"
+ setting_very_unlikely_spawn:0 "Very Unlikely Spawns"
+ setting_normal_unlikely_spawn:0 "Normal - Unlikely Spawns"
+ setting_fairly_likely_spawn:0 "Fairly Likely Spawns"
+ setting_very_likely_spawn:0 "Very Likely Spawns"
+ setting_absolute_spawn:0 "Guaranteed Spawns"
+
+ setting_no_spawns_desc:0 "No Dragon Eggs can be picked up on the map, either from any of the dragonlore locations, Winterfell, or by decisions such as A Day On Dragonstone or Escape to Summerhall/Rebuild Summerhall"
+ setting_extremely_unlikely_spawn_desc:0 "~1/1200 chance for any character including AI (unless they are disabled) to pick up dragon eggs from location or decision."
+ setting_very_unlikely_spawn_desc:0 "~1/600 chance for any character including AI (unless they are disabled) to pick up dragon eggs from location or decision."
+ setting_normal_unlikely_spawn_desc:0 "~1/300 for any character including AI (unless they are disabled) to pick up dragon eggs from location or decision. This the default AGOT chance."
+ setting_fairly_likely_spawn_desc:0 "~1/50 chance for any character including AI (unless they are disabled) to pick up dragon eggs from location or decision."
+ setting_very_likely_spawn_desc:0 "~75% chance for any character including AI (unless they are disabled) to pick up dragon eggs from location or decision. These will all be picked up pretty fast. Recommended to disable the Dragonstone Eggs if AI can pick them up, as they will pick up a lot of them."
+ setting_absolute_spawn_desc:0 "Guaranteed chance for the first person to visit these locations or take the decisions to pick up the dragon eggs. Turn off Dragonstone Eggs or there will be a billion of them"
+
+ rule_spawn_cannibal_egg:0 "@mde_icon!@wildfire_dragon_egg_icon!Spawn Cannibal Egg"
+ setting_spawn_cannibal_egg_enabled:0 "Enabled"
+ setting_spawn_cannibal_egg_disabled:0 "Disabled"
+
+ setting_spawn_cannibal_egg_enabled_desc:0 "Cannibal descended dragon egg can be picked up by travelers going to Skagos."
+ setting_spawn_cannibal_egg_disabled_desc:0 "The Dragonlore event on Skagos will remain but it will never spawn a dragon egg."
+
+ rule_spawn_sheepstealer_egg:0 "@mde_icon!@brown_dragon_egg_icon!Spawn Sheepstealer Egg"
+ setting_spawn_sheepstealer_egg_enabled:0 "Enabled"
+ setting_spawn_sheepstealer_egg_disabled:0 "Disabled"
+
+ setting_spawn_sheepstealer_egg_enabled_desc:0 "Sheepstealer descended dragon egg can be picked up by travelers going into the Mountains of the Vale."
+ setting_spawn_sheepstealer_egg_disabled_desc:0 "The Dragonlore event in the Vale will remain but it will never spawn a dragon egg.
+
+ rule_spawn_vhagar_egg:0 "@mde_icon!@vhagar_dragon_egg_icon!Spawn Vhagar Egg"
+ setting_spawn_vhagar_egg_enabled:0 "Enabled"
+ setting_spawn_vhagar_egg_disabled:0 "Disabled"
+
+ setting_spawn_vhagar_egg_enabled_desc:0 "Vhagar descended dragon egg can be picked up by travelers going to Harrenhal."
+ setting_spawn_vhagar_egg_disabled_desc:0 "The Dragonlore event in Harrenhal will remain but it will never spawn a dragon egg.
+
+ rule_spawn_moondancer_egg:0 "@mde_icon!@palebluepink_dragon_egg_icon!Spawn Moondancer Egg"
+ setting_spawn_moondancer_egg_enabled:0 "Enabled"
+ setting_spawn_moondancer_egg_disabled:0 "Disabled"
+
+ setting_spawn_moondancer_egg_enabled_desc:0 "Moondancer descended dragon egg can be picked up by travelers going to the ruins of Spicetown."
+ setting_spawn_moondancer_egg_disabled_desc:0 "The Dragonlore event in the ruins of Spicetown will remain but it will never spawn a dragon egg.
+
+ rule_spawn_nagga_egg:0 "@mde_icon!@darkblue_dragon_egg_icon!Spawn Nagga Egg"
+ setting_spawn_nagga_egg_enabled:0 "Enabled"
+ setting_spawn_nagga_egg_disabled:0 "Disabled"
+
+ setting_spawn_nagga_egg_enabled_desc:0 "Nagga descended dragon egg can be picked up by travelers going to Nagga's Hill."
+ setting_spawn_nagga_egg_disabled_desc:0 "The Dragonlore event on Nagga's Hill will remain but it will never spawn a dragon egg.
+
+ rule_spawn_meraxes_egg:0 "@mde_icon!@whitegold_dragon_egg_icon!Spawn Meraxes Egg"
+ setting_spawn_meraxes_egg_enabled:0 "Enabled"
+ setting_spawn_meraxes_egg_disabled:0 "Disabled"
+
+ setting_spawn_meraxes_egg_enabled_desc:0 "Meraxes descended dragon egg can be picked up by travelers going to the Hellholt."
+ setting_spawn_meraxes_egg_disabled_desc:0 "The Dragonlore event in the Hellholt will remain but it will never spawn a dragon egg.
+
+ rule_spawn_pythax_egg:0 "@mde_icon!@darkpurple_dragon_egg_icon!Spawn Pythax Egg"
+ setting_spawn_pythax_egg_enabled:0 "Enabled"
+ setting_spawn_pythax_egg_disabled:0 "Disabled"
+
+ setting_spawn_pythax_egg_enabled_desc:0 "Pythax descended dragon egg can be picked up by travelers going to southern Essos."
+ setting_spawn_pythax_egg_disabled_desc:0 "The Dragonlore event in southern Essos will remain but it will never spawn a dragon egg.
+
+ rule_spawn_vassarion_egg:0 "@mde_icon!@gold_dragon_egg_icon!Spawn Vassarion Egg"
+ setting_spawn_vassarion_egg_enabled:0 "Enabled"
+ setting_spawn_vassarion_egg_disabled:0 "Disabled"
+
+ setting_spawn_vassarion_egg_enabled_desc:0 "Vassarion descended dragon egg can be picked up by travelers going to eastern Andalos."
+ setting_spawn_vassarion_egg_disabled_desc:0 "The Dragonlore event in eastern Andalos will remain but it will never spawn a dragon egg.
+
+ rule_spawn_hightower_egg:0 "@mde_icon!@blue_dragon_egg_icon!Spawn Hightower Egg"
+ setting_spawn_hightower_egg_enabled:0 "Enabled"
+ setting_spawn_hightower_egg_disabled:0 "Disabled"
+ 
+ setting_spawn_hightower_egg_enabled_desc:0 "Tessarion + Seasmoke is held by the owner of the High Tower at game start (always the main Hightower)."
+ setting_spawn_hightower_egg_disabled_desc:0 "The Hightowers will not start with a dragon egg.
+
+ rule_spawn_dragonstone_eggs:0 "@mde_icon!@rainbow_dragon_egg_icon!Spawn Dragonstone Eggs"
+ setting_spawn_dragonstone_eggs_enabled:0 "Enabled"
+ setting_spawn_dragonstone_eggs_disabled:0 "Disabled"
+
+ setting_spawn_dragonstone_eggs_enabled_desc:0 "Nessarion/Meraxes/Vhagar/Quicksilver/Dreamfyre/Meleys/Silverwing + Vermithor/Syrax + Caraxes dragon eggs of any color can be picked up by travelers going to Dragonstone"
+ setting_spawn_dragonstone_eggs_disabled_desc:0 "The Dragonlore event in Dragonstone will remain but it will never spawn a dragon egg by visiting, A Day On Dragonstone event will remain unchanged. Adventurer Inspirations to Dragonstone will remain unchanged.
+
+ rule_can_ai_get_eggs:0 "@mde_icon!@iceFire_dragon_egg_icon!AI Can Get Eggs"
+ setting_ai_can_get_eggs:0 "Enabled"
+ setting_ai_can_not_get_eggs:0 "Disabled"
+
+ setting_ai_can_get_eggs_desc:0 "AI Characters will be able to get dragon eggs from traveling to locations or by decisions or etc, in the same manner as the player can."
+ setting_ai_can_not_get_eggs_desc:0 "Only players can pick up dragon eggs by any means. Should work on multiplayer, comment on steam if it doesn't."
+
+ rule_can_ai_get_dragonstone_eggs:0 "@mde_icon!@rainbow_dragon_egg_icon!AI Can Get Dragonstone Eggs"
+ setting_ai_can_get_dragonstone_eggs:0 "Enabled"
+ setting_ai_can_not_get_dragonstone_eggs:0 "Disabled"
+
+ setting_ai_can_get_dragonstone_eggs_desc:0 "AI Characters will be able to get eggs from Dragonstone. Be prepared, there will be spam!"
+ setting_ai_can_not_get_dragonstone_eggs_desc:0 "Only players can pick up dragon eggs from Dragonstone."
+ #Egg
+
+ rule_spawn_starting_eggs:0 "@mde_icon!@white_dragon_egg_icon!Spawn Starting Eggs"
+ setting_spawn_starting_eggs_enabled:0 "Enabled"
+ setting_spawn_starting_eggs_disabled:0 "Disabled"
+
+ setting_spawn_starting_eggs_enabled_desc:0 "Characters will start with lore accurate dragon eggs in their inventory."
+ setting_spawn_starting_eggs_disabled_desc:0 "Characters won't start with lore accurate dragon eggs in their inventory."
+
+ rule_can_cradle_eggs_fail:0 "@mde_icon!@white_dragon_egg_icon!Can Cradled Eggs Become Duds"
+ setting_can_cradle_eggs_fail_yes:0 "Yes"
+ setting_can_cradle_eggs_fail_no:0 "No"
+
+ setting_can_cradle_eggs_fail_yes_desc:0 "Eggs cradled with children can become duds."
+ setting_can_cradle_eggs_fail_no_desc:0 "Eggs cradled with children will always hatch, eventually."
+
+ rule_can_ai_cradle_dragon_eggs:0 "@mde_icon!@white_dragon_egg_icon!Can AI Cradle Dragon Eggs"
+ setting_can_ai_cradle_dragon_eggs_yes:0 "Yes"
+ setting_can_ai_cradle_dragon_eggs_no:0 "No"
+
+ setting_can_ai_cradle_dragon_eggs_yes_desc:0 "The AI will give dragon eggs to their children to be cradled."
+ setting_can_ai_cradle_dragon_eggs_no_desc:0 "The AI won't give dragon eggs to their children to be cradled."
+
+ rule_cradle_egg_hatch_likelihood:0 "@mde_icon!@white_dragon_egg_icon!Dragon Egg Hatching Likelihood"
+ setting_cradle_egg_hatch_likelihood_rare:0 "Rare"
+ setting_cradle_egg_hatch_likelihood_less_likely:0 "Less Likely"
+ setting_cradle_egg_hatch_likelihood_default:0 "Default"
+ setting_cradle_egg_hatch_likelihood_more_likely:0 "More Likely"
+ setting_cradle_egg_hatch_likelihood_common:0 "Common"
+
+ setting_cradle_egg_hatch_likelihood_rare_desc:0 "Cradled and pitted eggs will rarely ever hatch."
+ setting_cradle_egg_hatch_likelihood_less_likely_desc:0 "Cradled and pitted eggs will hatch less often than normal."
+ setting_cradle_egg_hatch_likelihood_default_desc:0 "Cradled and pitted eggs will use the vanilla odds to determine if they will hatch."
+ setting_cradle_egg_hatch_likelihood_more_likely_desc:0 "Cradled and pitted eggs are more likely to hatch than normal."
+ setting_cradle_egg_hatch_likelihood_common_desc:0 "Cradled and pitted eggs have a high chance to successfully hatch."
+
+ rule_canon_dragon_egg_hatch_likelihood:0 "@mde_icon!@white_dragon_egg_icon! Canon Dragon Egg Hatching Likelihood"
+ setting_canon_dragon_egg_hatch_likelihood_less_likely:0 "Less Likely"
+ setting_canon_dragon_egg_hatch_likelihood_default:0 "Default"
+ setting_canon_dragon_egg_hatch_likelihood_more_likely:0 "More Likely"
+ setting_canon_dragon_egg_hatch_likelihood_common:0 "Common"
+ setting_canon_dragon_egg_hatch_likelihood_guaranteed:0 "Guaranteed"
+
+ setting_canon_dragon_egg_hatch_likelihood_less_likely_desc:0 "Canon dragon eggs will hatch less often than normal. Stacks with normal likelihood game rule."
+ setting_canon_dragon_egg_hatch_likelihood_default_desc:0 "Canon dragon eggs will use the vanilla odds to determine if they will hatch. Stacks with normal likelihood game rule."
+ setting_canon_dragon_egg_hatch_likelihood_more_likely_desc:0 "Canon dragon eggs are more likely to hatch than normal. Stacks with normal likelihood game rule."
+ setting_canon_dragon_egg_hatch_likelihood_common_desc:0 "Canon dragon eggs have a high chance to successfully hatch. Stacks with normal likelihood game rule."
+ setting_canon_dragon_egg_hatch_likelihood_guaranteed_desc:0 "Canon dragon eggs will always hatch."
+
+ rule_dragon_egg_clutch_size:0 "@mde_icon!@dragon_icon!@white_dragon_egg_icon!Dragon Egg Clutch Size"
+ setting_dragon_egg_clutch_size_default:0 "Default"
+ setting_dragon_egg_clutch_size_plus_one:0 "+1"
+ setting_dragon_egg_clutch_size_plus_two:0 "+2" 
+ setting_dragon_egg_clutch_size_plus_three:0 "+3"
+
+ setting_dragon_egg_clutch_size_default_desc:0 "Dragons will lay the normal number of eggs per clutch"
+ setting_dragon_egg_clutch_size_plus_one_desc:0 "Dragons will lay an extra egg per clutch. Stacks with fertile."
+ setting_dragon_egg_clutch_size_plus_two_desc:0 "Dragons will lay two extra eggs per clutch. Stacks with fertile."
+ setting_dragon_egg_clutch_size_plus_three_desc:0 "Dragons will lay three extra eggs per clutch. Stacks with fertile."
+
+ rule_dragon_egg_clutch_frequency:0 "@mde_icon!@dragon_icon!@white_dragon_egg_icon!Player Owned Dragon Egg Clutch Frequency"
+ setting_dragon_egg_clutch_frequency_less_likely:0 "Less Likely"
+ setting_dragon_egg_clutch_frequency_default:0 "Default"
+ setting_dragon_egg_clutch_frequency_more_likely:0 "More Likely"
+ setting_dragon_egg_clutch_frequency_common:0 "Common"
+
+ setting_dragon_egg_clutch_frequency_less_likely_desc:0 "Dragons will be less likely than normal to lay a clutch of eggs."
+ setting_dragon_egg_clutch_frequency_default_desc:0 "Dragons will use the vanilla odds of laying a clutch of eggs."
+ setting_dragon_egg_clutch_frequency_more_likely_desc:0 "Dragons will be more likely than normal to lay a clutch of eggs."
+ setting_dragon_egg_clutch_frequency_common_desc:0 "Dragons will frequently lay a clutch of eggs."
+
+ rule_dragon_egg_clutch_frequency_ai:0 "@mde_icon!@dragon_icon!@white_dragon_egg_icon!AI Owned Dragon Egg Clutch Frequency"
+ setting_dragon_egg_clutch_frequency_less_likely_ai:0 "Less Likely"
+ setting_dragon_egg_clutch_frequency_default_ai:0 "Default"
+ setting_dragon_egg_clutch_frequency_more_likely_ai:0 "More Likely"
+ setting_dragon_egg_clutch_frequency_common_ai:0 "Common"
+
+ setting_dragon_egg_clutch_frequency_less_likely_ai_desc:0 "Dragons will be less likely than normal to lay a clutch of eggs."
+ setting_dragon_egg_clutch_frequency_default_ai_desc:0 "Dragons will use the vanilla odds of laying a clutch of eggs."
+ setting_dragon_egg_clutch_frequency_more_likely_ai_desc:0 "Dragons will be more likely than normal to lay a clutch of eggs."
+ setting_dragon_egg_clutch_frequency_common_ai_desc:0 "Dragons will frequently lay a clutch of eggs."
+
+ rule_canon_dragon_egg_clutch_spawns:0 "@mde_icon!@dragon_icon!@white_dragon_egg_icon!Canon Dragon Egg Clutches"
+ setting_canon_dragon_egg_clutch_spawns_no:0 "None"
+ setting_canon_dragon_egg_clutch_spawns_canon_only:0 "Canon Only"
+ setting_canon_dragon_egg_clutch_spawns_all:0 "All"
+
+ setting_canon_dragon_egg_clutch_spawns_no_desc:0 "No canon dragon egg clutches will be laid"
+ setting_canon_dragon_egg_clutch_spawns_canon_only_desc:0 "Only clutches with dragon eggs that are in canon (e.g. no Nightfyre) will be laid"
+ setting_canon_dragon_egg_clutch_spawns_all_desc:0 "All possible canon dragon egg clutches will be laid"
+
+ rule_canon_dragon_egg_clutch_blocker:0 "@mde_icon!@dragon_icon!@white_dragon_egg_icon!Canon Dragon Egg Clutch Blocker"
+ setting_canon_dragon_egg_clutch_blocker_yes:0 "Yes"
+ setting_canon_dragon_egg_clutch_blocker_no:0 "No"
+
+ setting_canon_dragon_egg_clutch_blocker_yes_desc:0 "Dragons with upcoming canon dragon egg clutches will be blocked from laying other clutches"
+ setting_canon_dragon_egg_clutch_blocker_no_desc:0 "Dragons with upcoming canon dragon egg clutches will not be blocked from laying other clutches"
+
+ rule_dragon_gene_frequency:0 "@mde_icon!@dragon_icon!Dragon Genetic Trait Frequency"
+ setting_dragon_gene_frequency_less_likely:0 "Less Likely"
+ setting_dragon_gene_frequency_default:0 "Default"
+ setting_dragon_gene_frequency_more_likely:0 "More Likely"
+ setting_dragon_gene_frequency_common:0 "Highly Likely"
+
+ setting_dragon_gene_frequency_less_likely_desc:0 "Dragons are less likely to spawn with genetic traits"
+ setting_dragon_gene_frequency_default_desc:0 "Dragons use default odds to spawn with genetic traits"
+ setting_dragon_gene_frequency_more_likely_desc:0 "Dragons are more likely to spawn with genetic traits"
+ setting_dragon_gene_frequency_common_desc:0 "Dragons are highly likely to spawn with genetic traits"
+
+ rule_dragon_gene_frequency_naughty_or_nice:0 "@mde_icon!@dragon_icon!Dragon Genetic Trait Frequency Application"
+ setting_dragon_gene_frequency_naughty_or_nice_negative:0 "Negative"
+ setting_dragon_gene_frequency_naughty_or_nice_both:0 "Both"
+ setting_dragon_gene_frequency_naughty_or_nice_positive:0 "Positive"
+
+ setting_dragon_gene_frequency_naughty_or_nice_negative_desc:0 "The Dragon Gene Frequency game rule will only be applied to negative traits."
+ setting_dragon_gene_frequency_naughty_or_nice_both_desc:0 "The Dragon Gene Frequency game rule will be applied to positive and negative traits."
+ setting_dragon_gene_frequency_naughty_or_nice_positive_desc:0 "The Dragon Gene Frequency game rule will only be applied to positive traits."
+ 
+ rule_cannibal_instinct_odds:0 "@mde_icon!@dragon_icon!Cannibal Instinct Event Odds"
+ setting_cannibal_instinct_odds_never:0 "Never"
+ setting_cannibal_instinct_odds_rare:0 "Rare"
+ setting_cannibal_instinct_odds_unlikely:0 "Unlikely"
+ setting_cannibal_instinct_odds_default:0 "Default"
+ setting_cannibal_instinct_odds_likely:0 "Likely"
+ setting_cannibal_instinct_odds_high:0 "High"
+
+ setting_cannibal_instinct_odds_never_desc:0 "The cannibal instinct event will never fire."
+ setting_cannibal_instinct_odds_rare_desc:0 "The cannibal instinct event will rarely ever fire."
+ setting_cannibal_instinct_odds_unlikely_desc:0 "The cannibal instinct event is unlikely to fire."
+ setting_cannibal_instinct_odds_default_desc:0 "The cannibal instinct event will use the default odds fire."
+ setting_cannibal_instinct_odds_likely_desc:0 "The cannibal instinct event is likely to fire."
+ setting_cannibal_instinct_odds_high_desc:0 "The cannibal instinct event is highly likely to fire."
+
+ rule_ride_dragon_decision_cooldown:0 "@mde_icon!@dragon_icon!Ride Dragon Decision Cooldown"
+ setting_ride_dragon_decision_cooldown_three_months:0 "3 Months"
+ setting_ride_dragon_decision_cooldown_six_months:0 "6 Months"
+ setting_ride_dragon_decision_cooldown_nine_months:0 "9 Months"
+ setting_ride_dragon_decision_cooldown_one_year:0 "1 Year"
+ setting_ride_dragon_decision_cooldown_two_years:0 "2 Years"
+ setting_ride_dragon_decision_cooldown_default:0 "3 Years"
+ setting_ride_dragon_decision_cooldown_four_years:0 "4 Years"
+ setting_ride_dragon_decision_cooldown_five_years:0 "5 Years"
+
+ setting_ride_dragon_decision_cooldown_three_months_desc:0 "The length of time of the cooldown for the 'Ride Dragon' decision"
+ setting_ride_dragon_decision_cooldown_six_months_desc:0 "The length of time of the cooldown for the 'Ride Dragon' decision"
+ setting_ride_dragon_decision_cooldown_nine_months_desc:0 "The length of time of the cooldown for the 'Ride Dragon' decision"
+ setting_ride_dragon_decision_cooldown_one_year_desc:0 "The length of time of the cooldown for the 'Ride Dragon' decision"
+ setting_ride_dragon_decision_cooldown_two_years_desc:0 "The length of time of the cooldown for the 'Ride Dragon' decision"
+ setting_ride_dragon_decision_cooldown_default_desc:0 "The length of time of the cooldown for the 'Ride Dragon' decision"
+ setting_ride_dragon_decision_cooldown_four_years_desc:0 "The length of time of the cooldown for the 'Ride Dragon' decision"
+ setting_ride_dragon_decision_cooldown_five_years_desc:0 "The length of time of the cooldown for the 'Ride Dragon' decision"
+
+ rule_capture_dragon_time_limit:0 "@mde_icon!@dragon_icon!Capture Dragon Time Limit"
+ setting_capture_dragon_time_limit_none:0 "No Time Limit"
+ setting_capture_dragon_time_limit_90_days:0 "Quarter Year"
+ setting_capture_dragon_time_limit_182_days:0 "Half Year"
+ setting_capture_dragon_time_limit_default:0 "One Year"
+ setting_capture_dragon_time_limit_double:0 "Two Years"
+
+ setting_capture_dragon_time_limit_none_desc:0 "You will always be able to capture a dragon."
+ setting_capture_dragon_time_limit_90_days_desc:0 "You will be able to capture a dragon every 90 days,"
+ setting_capture_dragon_time_limit_182_days_desc:0 "You will be able to capture a dragon every half year."
+ setting_capture_dragon_time_limit_default_desc:0 "You will be able to capture a dragon once every year."
+ setting_capture_dragon_time_limit_double_desc:0 "You will be able to capture a dragon every two years."
+
+ #Scenario Modification
+ 
+ rule_summerhall_success_chance:0 "@mde_icon!Summerhall Success Chance"
+ setting_summerhall_seven_wild:0 "7 Wild Dragons"
+ setting_summerhall_guaranteed_all_seven:0 "Guaranteed 7 Dragons"
+ setting_summerhall_guaranteed:0 "Guaranteed"
+ setting_summerhall_very_likely:0 "Very Likely"
+ setting_summerhall_normal:0 "Default"
+ setting_summerhall_not:0 "Fail"
+
+ setting_summerhall_seven_wild_desc:0 "The Summerhall event chain will result in Aegon V dying and hatching seven wild dragons."
+ setting_summerhall_guaranteed_all_seven_desc:0 "The Summerhall event chain will result in Aegon V spawning in seven dragon."
+ setting_summerhall_guaranteed_desc:0 "The Summerhall event chain will result in Aegon V spawning in at least one dragon."
+ setting_summerhall_very_likely_desc:0 "About a 50 percent chance of the Summerhall event spawning in at least one dragon."
+ setting_summerhall_normal_desc:0 "The Summerhall event chain will follow the default probability of success and failure."
+ setting_summerhall_not_desc:0 "The Summerhall event chain will not result in the successful revival of dragons."
+
+ rule_maelys_hatching_success_chance:0 "@mde_icon!Maelys' Hatching Success Chance"
+ setting_maelys_guaranteed:0 "Guaranteed"
+ setting_maelys_very_likely:0 "Very Likely"
+ setting_maelys_normal:0 "Default"
+ setting_maelys_not:0 "Fail"
+
+ setting_maelys_guaranteed_desc:0 "The Maelys hatching event chain will result in Maelys the Monstrous spawning in at least one dragon."
+ setting_maelys_very_likely_desc:0 "About a 50 percent chance of the Maelys hatching event spawning in at least one dragon."
+ setting_maelys_normal_desc:0 "The Maelys hatching event chain will follow the default probability of success and failure."
+ setting_maelys_not_desc:0 "The Maelys hatching event chain will not result in the successful revival of dragons."
+
+ rule_will_maelys_sacrifice:0 "@mde_icon!Will Maelys Sacrifce His Son"
+ setting_maelys_will:0 "Maelys Will"
+ setting_maelys_might:0 "Maelys Might"
+ setting_maelys_wont:0 "Maelys Won't"
+
+ setting_maelys_will_desc:0 "Maelys will sacrifice his son in an attempt to hatch his dragon egg. It may or may not be successful"
+ setting_maelys_might_desc:0 "Maelys might sacrifice his son in an attempt to hatch his dragon egg. It may or may not be successful"
+ setting_maelys_wont_desc:0 "Maelys won't sacrifice his son in an attempt to hatch his dragon egg."
+
+ rule_will_ebon_prince_form_sapphire_islands:0 "@mde_icon!Will The Ebon Prince Form The Sapphire Islands"
+ setting_ebon_will:0 "The Sapphire Islands"
+ setting_ebon_wont:0 "The Kingdom of Tarth"
+
+ setting_ebon_will_desc:0 "Xhobar 'The Ebon Prince' Qhoqua will form The Sapphire Islands when prompted."
+ setting_ebon_wont_desc:0 "Xhobar 'The Ebon Prince' Qhoqua will keep Tarth when prompted."
+
+ rule_jon_snow_appearance:0 "@mde_icon!Jon Snow Appearance"
+ setting_js_canon_appearance:0 "Canon Appearance"
+ setting_js_purple_eyes:0 "Purple Eyes"
+ setting_js_purple_eyes_silver_hair:0 "Purple Eyes and Silver Hair"
+ setting_js_random_appearance:0 "Random"
+
+ setting_js_canon_appearance_desc:0 "Jon Snow will have his canon appearance as a canon birth."
+ setting_js_purple_eyes_desc:0 "Jon Snow will have purple eyes and his canon hair as a canon birth."
+ setting_js_purple_eyes_silver_hair_desc:0 "Jon Snow will have purple eyes and silver hair as a canon birth."
+ setting_js_random_appearance_desc:0 "Jon Snow's appearance will be randomly selected to be one of the other listed options."
+
+ rule_targaryen_exile_success_chance:0 "@mde_icon!Targaryen Exile Hatching Success Chance@drogon_dragon_egg_icon!@tan_dragon_egg_icon!@vhagar_dragon_egg_icon!"
+ setting_targaryen_exile_guaranteed:0 "Guaranteed"
+ setting_targaryen_exile_very_likely:0 "Very Likely"
+ setting_targaryen_exile_normal:0 "Default"
+ setting_targaryen_exile_not:0 "Fail"
+
+ setting_targaryen_exile_guaranteed_desc:0 "The Targaryen Exile event chain will result in Viserys or Daenerys spawning in three dragons."
+ setting_targaryen_exile_very_likely_desc:0 "The Targaryen Exile event chain is very likely to result in Viserys or Daenerys spawning in three dragons."
+ setting_targaryen_exile_normal_desc:0 "The Targaryen Exile event chain will have the default chance of resulting in Viserys or Daenerys spawning in three dragons."
+ setting_targaryen_exile_not_desc:0 "The Targaryen Exile event chain will not result in Viserys or Daenerys spawning in three dragons."
+
+ rule_stepstone_invasion_frequency:0 "@mde_icon!Stepstone Adventurer Invasion Frequency"
+ setting_stepstone_invasion_frequency_never:0 "Never"
+ setting_stepstone_invasion_frequency_every_year:0 "Every Year"
+ setting_stepstone_invasion_frequency_every_5_years:0 "5 Years"
+ setting_stepstone_invasion_frequency_every_10_years:0 "10 Years"
+ setting_stepstone_invasion_frequency_every_20_years:0 "20 Years"
+ setting_stepstone_invasion_frequency_every_50_years:0 "50 Years"
+
+ setting_stepstone_invasion_frequency_never_desc:0 "Stepstone Invasions will never occur."
+ setting_stepstone_invasion_frequency_every_year_desc:0 "Stepstone Invasions will occur once a year."
+ setting_stepstone_invasion_frequency_every_5_years_desc:0 "Stepstone Invasions will occur every 5 years. This is the setting in vanilla AGOT."
+ setting_stepstone_invasion_frequency_every_10_years_desc:0 "Stepstone Invasions will occur every 10 years."
+ setting_stepstone_invasion_frequency_every_20_years_desc:0 "Stepstone Invasions will occur every 20 years."
+ setting_stepstone_invasion_frequency_every_50_years_desc:0 "Stepstone Invasions will occur every 50 years."
+
+ rule_can_children_be_landless:0 "@mde_icon!Can Children Become Landless Adventurers"
+ setting_can_children_be_landless_never:0 "Never"
+ setting_can_children_be_landless_default:0 "Default"
+ setting_can_children_be_landless_not_dragonrider:0 "Not Dragonriders"
+ setting_can_children_be_landless_not_targaryen:0 "Not Targaryens"
+
+ setting_can_children_be_landless_never_desc:0 "The event on succession that makes a random child a landless adventurer will no longer fire."
+ setting_can_children_be_landless_default_desc:0 "The vanilla settings will be used regarding he event on succession that makes a random child a landless adventurer."
+ setting_can_children_be_landless_not_dragonrider_desc:0 "Dragonriders will not be considered eligible to become landless adventurers through the event."
+ setting_can_children_be_landless_not_targaryen_desc:0 "Members of house Targaryen will not be considered eligible to become landless adventurers through the event."
+
+ rule_can_landless_steal:0 "@mde_icon!Landless Adventurer Stealing"
+ setting_can_landless_steal_vanilla:0 "Base Game AGOT"
+ setting_can_landless_steal_dragon_eggs:0 "Dragon Eggs"
+ setting_can_landless_steal_valyrian_steel:0 "Valyrian Steel"
+ setting_can_landless_steal_eggs_and_steel:0 "Dragon Eggs and Valyrian Steel"
+ setting_can_landless_steal_everything:0 "Vanilla CK3"
+
+ setting_can_landless_steal_vanilla_desc:0 "Landless adventurers will have the rules for what artifacts can be stolen determined by the rules used in the base game AGOT."
+ setting_can_landless_steal_dragon_eggs_desc:0 "Landless adventurers will additionally be able to steal dragon eggs if they employ a Master Thief."
+ setting_can_landless_steal_valyrian_steel_desc:0 "Landless adventurers will additionally be able to steal valyrian steel items if they employ a Master Thief."
+ setting_can_landless_steal_eggs_and_steel_desc:0 "Landless adventurers will additionally be able to steal dragon eggs and valyrian steel items if they employ a Master Thief."
+ setting_can_landless_steal_everything_desc:0 "Landless adventurers will have the rules for what artifacts can be stolen determined by the rules used in Vanilla CK3."
+
+ rule_enable_delete_dud_eggs_decision:0 "@mde_icon!Enable The Delete Dud Eggs Decision"
+ setting_enable_delete_dud_eggs_decision_yes:0 "Enabled"
+ setting_enable_delete_dud_eggs_decision_no:0 "Disabled"
+
+ setting_enable_delete_dud_eggs_decision_yes_desc:0 "Appears when there are dud eggs in existence and deletes all dud eggs. Only available to the player. Disable when playing in multiplayer."
+ setting_enable_delete_dud_eggs_decision_no_desc:0 "There will be no way to delete dud eggs"
+
+ game_rule_category_mde:0 "@mde_icon!More Dragon Eggs"
+ game_rule_category_mde_major:0 "More Dragon Eggs Major"
+ game_rule_category_hatching:0 "Hatching Ceremonies"
+ game_rule_category_egg:0 "Dragon Eggs"
+ game_rule_category_dragonlore:0 "Dragonlore"
+ game_rule_category_dragon:0 "Dragons"
+ game_rule_category_scenario_modification:0 "Scenario Modification"
+ game_rule_category_mde_misc:0 "More Dragon Eggs Tweaks"

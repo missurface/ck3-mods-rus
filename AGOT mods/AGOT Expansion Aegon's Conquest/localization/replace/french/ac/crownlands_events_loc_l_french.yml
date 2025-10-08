@@ -1,0 +1,42 @@
+﻿l_french:
+
+# THE CONQUEST
+crownlands.0001:0 "Une Visite de Vhagar"
+crownlands.0001.desc:0 "Dans les cieux au-dessus du Château Castelfoyer, la bête nommée Vhagar terrifie la population en dessous. Aegon Targaryen a débarqué à l'embouchure du la Néra et sa sœur, Visenya, est venue pour sécuriser notre soutien... ou faire face à son dragon. \n \nIl n'y a pas de véritable option, nous pouvons sauver nos vies et déclarer notre allégeance à Aegon, sacrifiant ainsi notre fierté, ou nous pouvons le défier et mourir en le faisant, il ne fait aucun doute que mon héritier suivra ses exigences après ma mort. Le choix est le mien."
+crownlands.0001.option1:0 "Nous nous soumettrons."
+crownlands.0001.option2:0 "...mais il faudra d'abord me tuer !"
+
+crownlands.0002:0 "Une Visite de Meraxes"
+crownlands.0002.desc:0 "Dans les cieux au-dessus de Rosby, la bête nommée Meraxes terrifie la population en dessous. Aegon Targaryen a débarqué à l'embouchure du la Néra et sa sœur, Rhaenys, est venue pour sécuriser notre soutien... ou faire face à son dragon. \n \nIl n'y a pas de véritable option, nous pouvons sauver nos vies et déclarer notre allégeance à Aegon, sacrifiant ainsi notre fierté, ou nous pouvons le défier et mourir en le faisant, il ne fait aucun doute que mon héritier suivra ses exigences après ma mort. Le choix est le mien."
+crownlands.0002.option1:0 "Nous nous soumettrons."
+crownlands.0002.option2:0 "...mais il faudra d'abord me tuer !"
+
+crownlands.0003:0 "L'Atterrissage d'Aegon"
+crownlands.0003.desc:0 "Aegon Targaryen a débarqué à l'embouchure de la Néra, revendiquant le titre de Roi des Sept Royaumes. Il possède des dragons, son camp semble être le meilleur pari, mais nos terres sont détruites chaque génération par les guerres des Terres de l'Orage et des Îles et Rivières pour son territoire. \n \nNous resterons neutres et nous rangerons du côté de celui qui prouvera sa puissance."
+crownlands.0003.option1:0 "Voyons si ce prétendu Conquérant peut atteindre ses objectifs."
+
+crownlands.0004:0 "L'Atterrissage d'Aegon"
+crownlands.0004.desc:0 "Aegon Targaryen a débarqué à l'embouchure de la Néra, revendiquant le titre de Roi des Sept Royaumes. Nous ne pouvons pas permettre à ses dragons de semer une telle violence et oppression dans nos royaumes et nous sommes son premier obstacle. \n \nNous devons arrêter ce prétendu Conquérant et repousser ses hordes valyriennes ! Contactez Lord Mooton, il se joindra à nous avec une alliance matrimoniale. Nous marchons vers les Marches de la Néra et les armées d'Aegon."
+crownlands.0004.option1:0 "L'Histoire se souviendra de nous comme ceux qui ont arrêté les dragons."
+
+crownlands.0005:0 "Le Premier Test d'Aegon"
+crownlands.0005.desc:0 "Aegon Targaryen a vaincu Lord Darklyn et ceux qui se tenaient avec lui et a complété la construction de son Fort-Aegon sur la Haute Colline, au nord de la rivière. Il s'est couronné Roi de Tout Westeros et les démonstrations qu'il a faites en détruisant les armées de ses ennemis montrent que sa cause est imparable. \n \nNous devons nous soumettre au Roi Aegon et le suivre dans sa victoire."
+crownlands.0005.option1:0 "Pour le Roi Dragon !"
+
+crownlands.0006:0 "Une Visite de Vhagar"
+crownlands.0006.desc:0 "Dans les cieux au-dessus de la Presqu'île de Claquepince, la bête nommée Vhagar terrifie la population en dessous. Aegon Targaryen a débarqué à l'embouchure du Blackwater Rush et sa sœur, Visenya, est venue pour sécuriser notre soutien... ou faire face à son dragon. \n \nIl n'y a pas de véritable option, nous pouvons sauver nos vies et déclarer notre allégeance à Aegon, sacrifiant ainsi notre fierté, ou nous pouvons le défier et mourir en le faisant, il ne fait aucun doute que mon héritier suivra ses exigences après ma mort. Le choix est le mien."
+crownlands.0006.option1:0 "Nous nous soumettrons."
+crownlands.0006.option2:0 "...mais il faudra d'abord me tuer !"
+
+# AEGON'S FAILURE
+crownlands.1001:0 "L'Échec d'Aegon"
+crownlands.1001.desc:0 "Nous avons défait le Seigneur Dragon ! Westeros a été sauvé grâce à nous et l'Histoire se souviendra de la Maison Darklyn pour cela ! En l'absence de la Maison Hoare, nous avons nous-mêmes pris le contrôle des terres d'Aegon au Blackwater, mais nous reviendrons à la situation antérieure, adhérant à notre vassalité sous la Maison Hoare. \n \nWesteros se souviendra de nous pour cela."
+crownlands.1001.option1:0 "Les Dragons ne sont pas une menace pour nous."
+
+crownlands.1002:0 "L'Échec d'Aegon"
+crownlands.1002.desc:0 "Le Seigneur Dragon a été défait et Westeros restera tel qu'il l'a été pendant des siècles. Nous devrons réaffirmer notre loyauté envers la Maison Hoare et accepter que les choses restent telles qu'elles étaient."
+crownlands.1002.option1:0 "Ce qui aurait pu être."
+
+crownlands.1003:0 "L'Échec d'Aegon"
+crownlands.1003.desc:0 "Le Seigneur Dragon a été défait et Westeros restera tel qu'il l'a été pendant des siècles. Nous devrons réaffirmer notre loyauté envers la Maison Durrandon et accepter que les choses restent telles qu'elles étaient."
+crownlands.1003.option1:0 "Ce qui aurait pu être."

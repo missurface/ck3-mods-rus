@@ -1,0 +1,29 @@
+﻿l_french:
+ab_proclaim_fire_and_blood_tooltip:0 "Proclamer une Nouvelle Ère" 
+ab_proclaim_fire_and_blood:0 "Proclamer une nouvelle Ère de Feu et de Sang"
+ab_proclaim_fire_and_blood_desc:0 "L'heure est venue. Avec les terres ancestrales de Valyria fermement sous mon contrôle, un choix s'offre à moi. Dois-je me proclamer véritable héritier du rêve d'Aurion, ou simplement reconstruire notre antique patrie?"
+ab_proclaim_fire_and_blood_decision_effect_tooltip:0 "Vous aurez le choix entre vous proclamer [GetTrait('dragon_emperor').GetName(GetNullCharacter)] (Archonte) et instaurer une nouvelle ère de #bold reconquête Valyrienne #! ou simplement embrasser les anciennes traditions"
+ab_proclaim_fire_and_blood_confirm:0 "Perzys se Ānogar!"
+ab_proclaim_fire_and_blood_requirements:0 "Tous ces éléments: Possède le [trait|E] [GetTrait('ambitious').GetName( GetNullCharacter )] Possède le [trait|E] [GetTrait('dragonrider').GetName( GetNullCharacter )]"
+
+ab_valyrian_events.0001.title:0 "Valyria S'élève"
+ab_valyrian_events.0001.desc:0 "C'est fait. Après des années de souffrances, j'ai reconquis le cœur de l'ancienne Valyria. Pour la première fois depuis des siècles, les cœurs de mon peuple sont emplis d'espoir et de fierté pour notre glorieuse nation. Il me revient maintenant de décider quelle voie cette nation suivra. Avec tous mes vassaux rassemblés devant moi dans la salle du trône, je sais que la décision que je prendrai aujourd'hui résonnera à travers les millénaires. Dois-je simplement reconstruire notre patrie telle qu'elle était avant la Malédiction, ou mes ambitions sont-elles plus hautes? Considérant ma puissance actuelle, je pourrais me proclamer [GetTrait('dragon_emperor').GetName(GetNullCharacter)] et déclarer la naissance d'une nouvelle Valyria avec moi comme son unique et véritable souverain." 
+ab_valyrian_events.0001.a:0 "Nous devons nous concentrer sur la reconstruction de la nation" 
+ab_valyrian_events.0001.b:0 "Ce jour marque la naissance d'une nouvelle Valyria"
+
+dragon_rises_tooltip:0 "#bold Le Dragon S'élève #!"
+
+ab_valyrian_events.0002.title:0 "Un Nouvel Archonte"
+ab_valyrian_events.0002.desc:0 "Le manteau de [GetTrait('dragon_emperor').GetName(GetNullCharacter)] repose désormais sur mes épaules. Tandis que mon regard erre dans la salle du trône, je vois d'innombrables trophées et trésors rassemblés par mes prédécesseurs. \"Je ne faillirai pas\", me murmuré-je, \"un jour je serai leur égal\"."  
+ab_valyrian_events.0002.a:0 "Je mènerai Valyria vers de nouveaux sommets"
+
+ab_valyrian_events.0003.title:0 "Déchu de sa Grâce"
+ab_valyrian_events.0003.desc:0 "Ô, la honte, l'humiliation! J'ai perdu le mandat divin! Les dieux m'ont-ils abandonné? Ce destin glorieux n'était-il jamais mien? Tout est perdu et je ne puis que courber la tête de honte."
+ab_valyrian_events.0003.a:0 "Mes Dieux, mes dieux! pourquoi m'avez-vous abandonné?"
+
+ab_valyrian_events.0004.title:0 "Le Rêve d'Aurion Accompli"
+ab_valyrian_events.0004.desc:0 "Aujourd'hui, notre glorieuse nation renaît. Si nous voulons retrouver notre ancienne gloire et puissance, nous devons accepter cette simple vérité. Seuls les plus purs et les plus vertueux d'entre nous sont dignes de guider notre nation vers la gloire, régnant par #italic mandat divin #!. Au vu de mes accomplissements dans la reconquête de la patrie, il est évident que le mandat divin m'a été accordé, à moi et à ma lignée. Ainsi, j'ai suivi les pas du grand Aurion en revendiquant le titre de [GetTrait('dragon_emperor').GetName(GetNullCharacter)]. Réjouissez-vous, Valyria, car ce jour marque le début d'une nouvelle ère. Un nouvel âge des dragons est à nos portes et j'en serai le héraut!"
+ab_valyrian_events.0004.a:0 "Le Destin Nous Attend!"       
+
+
+fervor_gain_restored_dragon_throne:0 "Vous vous déclarerez Jaedārys"

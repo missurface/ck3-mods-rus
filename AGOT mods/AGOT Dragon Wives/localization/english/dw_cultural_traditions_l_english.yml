@@ -1,0 +1,78 @@
+﻿l_english:
+ dw_tradition_valyrian_polgamy_name:0 "Socerer Princes"
+ dw_tradition_valyrian_polgamy_desc:0 "The Socerer Princes and Dragonlords of Old Valyria had a number of practices that were unique amongst themselves, chief among them being the practice of polygamy."
+
+ faith_uprising_war:0 "Faith Uprising"
+ FAITH_UPRISING_WAR_NAME:0 "Faith Uprising against the Heresy of [DEFENDER.GetShortUINameNotMe]"
+
+ faith_militant_name:0 "The Faith Militant"
+ faith_militant_starry_sept_name:0 "The Faith Militant of The Starry Sept"
+
+ AGOT_SECONDARY_SPOUSE:0 "Spouse"
+
+ request_polygamy_personal_interaction:0 "Request Polygamy Permission"
+ request_polygamy_personal_interaction_desc:0 "You will ask your liege permission to take on another wife"
+ request_polygamy_exception_interaction:0 "Proclaim Polygamy Exception"
+ request_polygamy_exception_interaction_desc:0 "You will ask that the High Septon expand the Doctrine of Exceptionalism to include polygamy"
+ request_polygamy_multiple_interaction:0 "Demand More Wives"
+ request_polygamy_multiple_interaction_desc:0 "You will ask that the High Septon allow you to take up to four wives"
+
+ take_dragon_wives:0 "Take Dragon Wife"
+ take_dragon_wives_confirm:0 "Like the Socerer Princes of Old"
+
+ dw_offer_vassalization_interaction_aibehavior_power_tt:1 "Difference in your Military Strength: $VALUE|=+0$ #weak (max +200)#!"
+ your_knights_ride_dragons:0 "Dragonriders in your army: $VALUE|=+0$"
+ i_ride_a_dragon:0 "You are a Dragonrider: $VALUE|=+0$"
+ crown_has_no_dragons:0 "You have no Dragons: $VALUE|=+0$"
+
+ proclaim_fail_text_dw:0 "@warning_icon!#X This will cause a Faith Uprising#!"
+ proclaim_success_text_dw:0 "The Doctrine of Exceptionalism will be expanded to include polygamy for approved members of the Targaryen dynasty."
+ placeholder_empty:0 ""
+ demand_success_text_dw:0 "You will take the right to have up to four wives!"
+ liege_approves_polygamy:0 "Your liege grants you permission to take another wife"
+ liege_disapproves_polygamy:0 "Your liege denies you permission to take another wife"
+
+ concede_on_polygamy:0 "We will not be able to make another demand of this sort in this lifetime"
+
+ dw_events.0002.opening:0 "An Objection To Heresy"
+ dw_events.0002.desc:0 "Dear [actor.GetName], your unholy demands of heresy will be not be accepted. Do not test the faith, or be ready to face the Seven themselves!"
+ dw_events.0002.a:0 "We must stand down"
+ dw_events.0002.b:0 "Seven be damned! To war!"
+
+ dw_events.0003.opening:0 "The Targaryen Exception"
+ dw_events.0003.desc:0 "Dear [actor.GetName], The Faith has approved your request, for the Targaryens are closer to Gods than man!"
+ dw_events.0003.a:0 "Excellent"
+
+ polygamy_approved_dw:0 "Our demands have been approved!"
+ needs_liege_permission:0 "Your liege has approved for you to take multiple wives"
+ has_exceptionalism_doctrine_text:0 "Your faith has the Doctrine of Exceptionalism"
+ has_exception_polygamy_text:0 "The Doctrine of Exceptionalism has been expanded by the High Septon to include polygamy"
+
+ liege_denies_polygamy:0 "Your liege has denied you to take another wife"
+
+ dw_events.0001.t:0 ""
+ dw_events.0001.a:0 ""
+ dw_events.0001.desc:0 ""
+
+ agot_scenario_dd.0317.t:0 "The Dragon Must Have Three Heads"
+ agot_scenario_dd.0317.desc:0 ""
+ agot_scenario_dd.0317.opt.a:0 "From my line..."
+ agot_scenario_dd.0317.opt.b:0 "This custom should remain with the Doom"
+ agot_scenario_dd.0317.a.tt:0 "You will become betrothed to this person at the end of your first wedding" 
+ agot_scenario_dd.0317.b.tt:0 "You will not take a second wife"
+
+ agot_scenario_dd_betrothe_catelyn:0 "[catelyn.GetName] will become [bachelor.GetShortUINamePossessiveNoTooltipNoFormat] [betrothed|E], with a [grand_wedding_promise|E]."
+ agot_scenario_dd_betrothe_lynesse:0 "[lynesse.GetName] will become [bachelor.GetShortUINamePossessiveNoTooltipNoFormat] [betrothed|E], with a [grand_wedding_promise|E]."
+ knows_the_prophecy:0 "You know of The Prophecy"
+ PERSONAL_POLYGAMY_PROPOSAL:0 "Request for Polygamy Permission"
+ PERSONAL_POLYGAMY_REJECT:0 "Denied"
+ PERSONAL_POLYGAMY_ACCEPT:0 "Granted"
+
+ agot_scenario_rr_toj.rhaegar.j:0 "Let us marry with Elia in Valryian custom, Lyanna, and I swear our children will inherit the realm."
+ agot_scenario_rr_toj.rhaegar.k:0 "Let us marry with Elia in Valryian custom, Lyanna, and put these troubled times behind us."
+
+ AGOT_SCENARIO_RR_TOJ_MARRY_LYANNA_PRIMARY:0 "You take Lyanna as your primary wife with Elia. If your child is alive he will be named heir"
+ AGOT_SCENARIO_RR_TOJ_MARRY_LYANNA_SECONDARY:0 "You take Lyanna as your secondary wife with Elia."
+
+ take_dragon_wives_tooltip:0 "Take An Extra Wife"
+ take_dragon_wives_desc:0 "Take An Extra Wife"

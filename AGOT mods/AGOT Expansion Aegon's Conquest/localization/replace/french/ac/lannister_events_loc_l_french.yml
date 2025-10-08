@@ -1,0 +1,19 @@
+﻿l_french:
+
+# THE CONQUEST
+lannister.0001:0 "Le Seigneur des Dragons se Tourne vers l'Ouest"
+lannister.0001.desc:0 "Aegon Targaryen a vaincu le Roi de l'Orage et les Fer-nés, prenant le contrôle des deux premiers royaumes. Il est clair qu'un seul royaume ne peut espérer faire face à ce Targaryen, nous devons donc contacter les Gardeners de Hautjardin, les Rois du Reach, et former une alliance pour rassembler la plus grande armée que Westeros ait jamais vue. \n \nAvant cela, espérons que le Seigneur des Dragons tombera. Nous pourrions encore voir la victoire."
+lannister.0001.option1:0 "Entendez notre rugissement !"
+
+lannister.0002:0 "L'Invasion d'Aegon dans le Bief"
+lannister.0002.desc:0 "Aegon Targaryen a commencé sa marche dans le Bief, nous devons rejoindre les Jardinier dans la défense et repousser cet envahisseur. \n \nPeu importe combien de dragons Aegon possède, nous avons plus d'hommes, la plus grande armée connue de Westeros."
+lannister.0002.option1:0 "Nous les écraserons."
+
+lannister.0003:0 "Le Champ de Feu"
+lannister.0003.desc:0 "Les armées des Jardinier ont été détruites et leur maison est éteinte, alors que je fuis, nous avons deux options devant nous. \n \nPlier le genou devant Aegon Targaryen, sauver la Maison Lannister de la destruction ou retourner à Casterly Rock et continuer la guerre. \n \nNous devons prendre notre décision rapidement, le temps nous manque."
+lannister.0003.option1:0 "Plier le genou."
+lannister.0003.option2:0 "Le Rocher est imprenable, il devra venir jusqu'à nous !"
+
+lannister.0004:0 "Seigneur des Marches de l'Ouest"
+lannister.0004.desc:0 "J'ai fui le Champ de Feu après avoir vu ce qui s'était passé et maintenant j'ai été détenu et amené devant Aegon Targaryen. Je plie le genou, posant ma lame aux pieds d'Aegon avant lui et son dragon. \n \nEn retour, j'ai été nommé Seigneur de Castral Roc et Seigneur des Marches de l'Ouest."
+lannister.0004.option1:0 "Nous espérons que notre nouveau Roi est un bon Roi."

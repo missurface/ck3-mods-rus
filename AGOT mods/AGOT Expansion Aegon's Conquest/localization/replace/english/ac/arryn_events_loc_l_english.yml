@@ -1,0 +1,19 @@
+﻿l_english:
+
+ # THE CONQUEST
+ arryn.0001:0 "Targaryen's Approach Victory"
+ arryn.0001.desc:0 "The [aegon.GetDynasty.GetName]'s have conquered kingdom after kingdom and now they must set our eyes upon the Vale. We must act quickly to spare bloodshed and the best terms.\n\nMy mother, [sharra.GetName] will send an offer of her marriage to King [aegon.GetName] and that since he has no sons, he will name me as his heir!\n\nTo think! I could be King of not just the Vale but the whole continent!"
+ arryn.0001.option1:0 "We await his response."
+
+ arryn.0002:0 "Bend the Knee to Good-Father!"
+ arryn.0002.desc:0 "My mother has married the Dragonlord! I will be his heir, I can't wait to see his dragon!"
+ arryn.0002.option1:0 "King of the World!"
+
+ arryn.0003:0 "A Visit from Vhagar"
+ arryn.0003.desc:0 "Mother had strengthened the defenses of Gulltown, moved a strong host to the Bloody Gate, and tripled the size of the garrisons in Stone, Snow, and Sky, the waycastles that guarded the approach to the Eyrie. All these defenses proved useless against [visenya.GetName], who rode [vhagar.GetName]’s leathery wings above them all and landed in the Eyrie’s inner courtyard. When my mother, [sharra.GetName], rushed out to confront her, with a dozen guards at her back, she found Visenya with me seated on her knee, staring at the dragon, wonder-struck.\n\n #bold “Mother, can I go flying with the lady?” #!the boy king asked. No threats were spoken, no angry words exchanged. The two queens smiled at one another and exchanged courtesies instead."
+ arryn.0003.option1:0 "Surrender the Crowns, I want to fly on her dragon!"
+ arryn.0003.option2:0 "Nah, I am a King, I'll stay King."
+
+ arryn.0004:0 "The War is Lost"
+ arryn.0004.desc:0 "We have failed, the [aegon.GetDynasty.GetName]'s have defeated our armies and now we must bend the knee, surrender our crowns and serve as vassals.\n\nHouse [sharra.GetDynasty.GetName]'s glory has been lost, our honour tarnished but we must rebuild."
+ arryn.0004.option1:0 "As High as Honour."

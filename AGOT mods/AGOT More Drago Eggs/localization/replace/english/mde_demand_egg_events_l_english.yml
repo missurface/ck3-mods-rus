@@ -1,0 +1,97 @@
+﻿l_english:
+ 
+ demand_braavosi_eggs_decision:0 "Demand The Stolen Dragon Eggs"
+ demand_braavosi_eggs_decision_desc:0 "Long has the existence of dragon eggs in the Free Cities been known. The settled debts of the past and the suspiscion of the impossibility of hatching these eggs has maintained a status quo of inaction in this matter.\n\nBut the threat, however unlikely, that another dragonriding house might come to be, is far too great to keep a blind eye to.\n\nNo longer shall we uphold the illusion of ignorance! We will officially demand the return of these eggs, under the threat of war!\n\n@warning_icon!#X We will only be able to take this decision once per lifetime, even if it is canceled!#!"
+ demand_braavosi_eggs_decision_confirm:0 "Issue the demand!"
+ demand_braavosi_eggs_decision_tooltip:0 "Issue a demand to return the eggs from the Free Cities"
+
+ mde_demand_egg_events.0001.t:0 "[egg_taker.GetPrimaryTitle.GetNameNoTier] Issues An Ultimatum!"
+ mde_demand_egg_events.0001.desc:0 "The great heist of [thief.GetFullName] was an event of particular infamy. Sparked on by her desire to be able to build a ship to sail the Sunset Sea, and her inabiltiy to acquire this from her friend, [rhaena.GetFullName], [thief.GetFullName] stole three eggs laid by [dreamfyre.GetName], and sold them to the Sealord of Braavos.\n\nWhile the Sealord settling the debt the Targaryens had held tempered the issue in the past, [egg_taker.GetFullName] has issued a new, dreadful demand. They have informed us that they know the dragon eggs are within our realm, and that they will go to war to secure them!"
+ mde_demand_egg_events.0001.a:0 "We cannot risk war, cave to their demands."
+ mde_demand_egg_events.0001.a.tt:0 "We will surrender the dragon eggs to [egg_taker.GetFullName]:\n• [egg_drogon.GetName]\n• [egg_viserion.GetName]\n• [egg_rhaegal.GetName]"
+ mde_demand_egg_events.0001.b:0 "Mayhaps gold will dissuade them."
+ mde_demand_egg_events.0001.b.tt:0 "We will offer [egg_taker.GetFullName] [gold_i]#emphasis $5000|V0$#! in place of the eggs."
+ mde_demand_egg_events.0001.c:0 "Threats be damned, we will remain steadfast in our resolve."
+ mde_demand_egg_events.0001.c.tt:0 "@warning_icon!#X [egg_taker.GetFullName] is likely to declare war on us!#!"
+
+ mde_demand_egg_events.0002.t:0 "War For The Dragon Eggs!"
+ mde_demand_egg_events.0002.desc:0 "[egg_target.GetFullName] has refused to give us the dragon eggs that belong to us! Nor have they given anything sufficient in their stead. The only course of action that remains to us is to rally our soldiers and march to war.\n\nWe must be careful in our consideration of this. Do we have the might required to conquer them, and is it worth it?"
+ mde_demand_egg_events.0002.a:0 "The eggs are ours by right! To war!"
+ mde_demand_egg_events.0002.b:0 "The eggs may remain in their care..."
+ mde_demand_egg_events.0002.b.tt:0 "@warning_icon!#X We will lose our claims on the eggs and won't have another opportunity to claim them!#!"
+ 
+ mde_demand_egg_events.0003.t:0 "An Offer Of Gold"
+ mde_demand_egg_events.0003.desc:0 "[egg_target.GetFullName] has heard our demands and proposed a counter offer, by way of an enormous amount of gold, at a sum of [gold_i]#emphasis $5000|V0$#!. We must now weigh if the good we can do with this gold is worth more than the trouble of escalating matters to obtain the dragon eggs."
+ mde_demand_egg_events.0003.a:0 "In their hands, they're no more than stone, and gold is a better stone anyhow..."
+ mde_demand_egg_events.0003.a.tt:0 "We will gain [gold_i]#emphasis $5000|V0$#! and [egg_target.GetFullName] will lose [gold_i]#emphasis $5000|V0$#!\n\n@warning_icon!#X We will lose our claims on the eggs and won't have another opportunity to claim them!#!"
+ mde_demand_egg_events.0003.b:0 "What is gold compared to fire made flesh!"
+ mde_demand_egg_events.0003.b.tt:0 "We will ponder escalating the matter to war!"
+
+ mde_demand_egg_events.0004.t:0 "[egg_taker.GetNameNoTooltip] Demands Our [egg_target.GetNameNoTooltip]!"
+ mde_demand_egg_events.0004.desc:0 "[egg_taker.GetFullName] has decreed that our [egg_target.GetName] rightfully belongs to them by the laws of gods and men!\n\nA demand of this nature presents a grave danger, and must be considered with the utmost importance. We may either cave into their demands, offer them a suitably satiable sum of gold, to the tune of [gold_i]#emphasis $1500|V0$#!, or risk their wrath, whether that be our arrest or a declaration of war!"
+ mde_demand_egg_events.0004.a:0 "[egg_taker.GetNameNoTooltip] poses too great a threat, we must concede."
+ mde_demand_egg_events.0004.a.tt:0 "@warning_icon!#X We will forfeit our [egg_target.GetName]!#!"
+ mde_demand_egg_events.0004.b:0 "Mayhaps gold will dissuade them..."
+ mde_demand_egg_events.0004.c:0 "Threats be damned, we will remain steadfast in our resolve."
+ mde_demand_egg_events.0004.c.tt:0 "@warning_icon!#X [egg_taker.GetFullName] is likely to declare war on us or imprison us!#!"
+
+ mde_demand_egg_events.0005.t:0 "An Offer Of Gold"
+ mde_demand_egg_events.0005.desc:0 "[egg_victim.GetFullName] has heard our demands and proposed a counter offer, by way of a very large amount of gold, at a sum of [gold_i]#emphasis $1500|V0$#!. We must now weigh if the good we can do with this gold is worth more than the trouble of escalating matters to obtain the [egg_target.GetName]."
+ mde_demand_egg_events.0005.a:0 "It is quite a sum of gold..."
+ mde_demand_egg_events.0005.a.tt:0 "@warning_icon!#X We will lose our claims on the eggs and won't have another opportunity to claim them!#!"
+ mde_demand_egg_events.0005.b:0 "What is gold compared to fire made flesh!"
+ mde_demand_egg_events.0005.b.tt:0 "We will ponder escalating the matter to war!"
+ 
+ mde_demand_egg_events.0006.t:0 "Demands Rejected!"
+ mde_demand_egg_events.0006.desc:0 "[egg_target.GetName] has refused to give us the dragon egg that belongs to us! Nor have they given anything sufficient in their stead. Now we must weigh our options.\n\nWe can either rally our soldiers and march to war if we are allowed by law, arrest them if we are allowed by law, claim the egg and pursue other methods of reclaiming it, or drop the matter entirely, and permanently."
+ mde_demand_egg_events.0006.a:0 "The [egg_target.GetNameNoTooltip] is ours by right! To war!"
+ mde_demand_egg_events.0006.a.tt:0 "@warning_icon!#X We are not able to go to war with [egg_victim.GetFullName]!#!"
+ mde_demand_egg_events.0006.b:0 "Their possession of the [egg_target.GetNameNoTooltip] is illegal!"
+ mde_demand_egg_events.0006.b.tt:0 "We will have a claim on the [egg_target.GetName] and all the options that come with it!"
+ mde_demand_egg_events.0006.c:0 "The eggs may remain in their care..."
+ mde_demand_egg_events.0006.c.tt:0 "@warning_icon!#X We will lose our claims on the eggs and won't have another opportunity to claim them!#!"
+
+ mde_demand_egg_events.0007.t:0 "Demands Accepted!"
+ mde_demand_egg_events.0007.desc:0 "[egg_victim.GetFullName] has trembled before our might! They have taken the wiser path of conceding to our demands and have surrendered their [egg_target.GetName] to us!"
+ mde_demand_egg_events.0007.a:0 "Victory is ours!"
+
+
+ demand_egg:0 "Demand Egg"
+ demand_egg_desc:0 "[recipient.GetName] is unjustly in possession of a dragon's egg!"
+ demanded_egg_interaction.desc:0 "[actor.GetName] has demanded a dragon egg!"
+ mde_start_demand_egg_event_chain:0 "@warning_icon!#X This will issue a demand to [recipient.GetFullName] to forfeit the egg!#"
+ mde_egg_access_gained:0 "Permitted dragon egg possession."
+ mde_egg_access_removed:0 "Denied dragon egg possession."
+
+ debug_take_egg:0 "#bold #color_red Debug:#!#! Take Dragon Egg"
+ debug_take_egg_desc:0 "[actor.GetName] recieves this dragon  egg"
+
+ debug_take_all_eggs:0 "#bold #color_red Debug:#!#! Take All Dragon Eggs"
+ debug_take_all_eggs_desc:0 "[actor.GetName] recieves every egg"
+ debug_give_all_eggs:0 "#bold #color_red Debug:#!#! Give All Dragon Eggs"
+ debug_give_all_eggs_desc:0 "[recipient.GetName] recieves every egg"
+
+ debug_hatch_egg:0 "#bold #color_red Debug:#!#! Hatch Egg"
+ debug_hatch_egg_bond_desc:0 "[recipient.GetName] will bond with the dragon that hatches from the egg"
+ debug_hatch_egg_own_desc:0 "[recipient.GetName] will own the dragon that hatches from the egg"
+ debug_hatch_egg_own_pit_desc:0 "[recipient.GetEmployer.GetName] will own the dragon that hatches from the egg"
+
+ demanded_egg_opinion:0 "Illegally Possesses Dragon Egg"
+
+ mde_grant_egg_permission:0 "Permit Dragon Egg Possession"
+ mde_grant_egg_permission_desc:0 "This person will be legally authorized to possess Dragon Eggs!"
+ mde_remove_egg_permission:0 "Forbid Dragon Egg Possession"
+ mde_remove_egg_permission_desc:0 "Possession of Dragon Eggs by this person will be considered illegal!"
+ mde_egg_access_gained_interface_tt:0 "[recipient.GetFullName] will be impervious to our ability to claim their dragon eggs!"
+ mde_egg_access_removed_interface_tt:0 "We will be able to legally demand any dragon eggs in [recipient.GetFullName]'s possession!"
+
+ take_prisoner_egg:0 "Take Egg"
+ take_prisoner_egg_desc:0 "[recipient.GetFullName] is a prisoner in our custody who illegally holds a dragon egg. We may rightfully seize it."
+ mde_transfer_prison_egg_tt:0 "[actor.GetNamePossessive] legally seized [target.GetName]!"
+
+ demanded_egg_interaction:0 "[actor.GetTitledFirstNameNoTooltip] demanded your [artifact|E] [target.GetName]"
+ demanded_egg_interaction.t:0 "Demanded A Dragon Egg!"
+
+ agot_dragon_hatching.0401.opt.b:0 "My children!"
+ mde_include_egg:0 "Include"
+ mde_this_dragon_will_hatch_this:0 "#color_dark_gray [Artifact.Custom('mde_this_dragon_will_hatch')] #"

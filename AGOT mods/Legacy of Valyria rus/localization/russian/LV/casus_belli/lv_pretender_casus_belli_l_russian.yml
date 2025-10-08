@@ -1,7 +1,0 @@
-﻿l_russian:
- dismantle_pretender_cb: "Уничтожить Валирийского Самозванца"
- DISMANTLE_PRETENDER_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][ATTACKER.GetShortUINameNotMe][DEFENDER.GetPrimaryTitle.GetBaseName]"
- DISMANTLE_PRETENDER_WAR_NAME: "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] Коалиционная Война против [DEFENDER.GetPrimaryTitle.GetBaseName] для уничтожения."
- DISMANTLE_PRETENDER_CB_NAME: "Война [ATTACKER.GetShortUINamePossessive|U]"
- dismantle_pretender_cb_victory_desc: "[war.GetName] завершилась: самозванная империя [defender.GetShortUIName] была распущена."
- dismantle_pretender_cb_defeat_desc: "[war.GetName] завершилась: коалиция [attacker.GetShortUIName] против [defender.GetPrimaryTitle.GetBaseName] распалась."

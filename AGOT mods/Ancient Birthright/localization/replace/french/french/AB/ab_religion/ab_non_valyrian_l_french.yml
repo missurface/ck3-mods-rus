@@ -1,0 +1,15 @@
+﻿l_french:
+
+#Faiths#
+
+#Tenets#
+
+ tenet_dornish_resilience_desc:0 "Nombreux sont ceux qui ont cherché à nous conquérir, et tout aussi nombreux sont ceux qui ont trouvé leur perte. Nous sommes les hommes et les femmes de Dorne, et nous combattrons et mourrons avec ardeur pour préserver notre mode de vie. Même face à une armée de dragons!"
+ tenet_dornish_resilience_name:0 "Résilience Dornienne"
+
+agot_dornish_way_doctrine_name:0 "La Voie Dornienne" 
+agot_dornish_way_doctrine_desc:0 "Nous avons notre propre façon de vénérer les dieux. Cela peut ne pas plaire à tous, mais nous nous soucions peu de leur approbation."
+agot_dornish_way_name:0 "$agot_dornish_way_doctrine_name$"
+
+doctrine_parameter_harder_to_convert_character_faith:0 "Les [characters|E] sont moins susceptibles d'accepter la conversion"
+doctrine_parameter_harder_to_convert_county_faith:0 "Résistance à la Conversion du Comté: #P +30%#!"

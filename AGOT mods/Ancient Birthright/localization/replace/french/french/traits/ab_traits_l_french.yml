@@ -1,0 +1,8 @@
+﻿l_french:
+ trait_born_amongst_the_flames:0 "Né Parmi les Flammes"
+ trait_born_amongst_the_flames_desc:0 "Ce personnage est né dans les chambres d'Obsidienne de l'un des derniers volcans valyriens, le marquant comme haute noblesse."
+ trait_born_amongst_the_flames_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est né(e) dans les chambres d'Obsidienne de l'un des derniers volcans valyriens, marquant [ROOT.Char.GetHerHim|L] comme haute noblesse."
+ 
+ trait_dragon_emperor:0 "Jaedārys"
+ trait_dragon_emperor_desc:0 "Ce personnage est l'actuel détenteur du titre impérial valyrien, maniant un pouvoir comparable à nul autre sur cette terre depuis l'Âge de l'Aube."
+ trait_dragon_emperor_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est l'actuel détenteur du titre impérial valyrien, maniant un pouvoir comparable à nul autre sur cette terre depuis l'Âge de l'Aube."

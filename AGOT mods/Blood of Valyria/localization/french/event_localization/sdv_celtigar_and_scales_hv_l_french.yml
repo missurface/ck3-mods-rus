@@ -1,0 +1,11 @@
+﻿l_french:
+ sdv_celtigar_and_scales_hv.1.t: "Celtigar: $high_valyrian$ ou $westerosi_valyrian$"
+ sdv_celtigar_and_scales_hv.2.t: "Lamelin: $high_valyrian$ ou $westerosi_valyrian$"
+
+ sdv_celtigar_and_scales_hv.1.desc: "Les débats entre les Mestres sont nombreux, mais celui de la culture des Celtigars est particulier. \n\nCertains affirments qu'ils sont plus proches des $high_valyrian$ que des $westerosi_valyrian$. #N Le Sang de Valyra #! les considère comme des $high_valyrian$, mais peut-être faut-il changer cela?"
+ sdv_celtigar_and_scales_hv.2.desc: "Les débats entre les Mestres sont nombreux, mais celui de la culture des Lamelins est particulier. \n\nCertains affirments qu'ils sont plus proches des $high_valyrian$ que des $westerosi_valyrian$. #N Le Sang de Valyra #! les considère comme des $high_valyrian$, mais peut-être faut-il changer cela?"
+
+ sdv_celtigar_and_scales_hv.1.a: "Rendont les Celtigars $westerosi_valyrian$."
+ sdv_celtigar_and_scales_hv.2.a: "Rendont les Lamelins $westerosi_valyrian$."
+
+ sdv_celtigar_and_scales_hv.1.b: "Non. Laissons-les $high_valyrian$."

@@ -1,0 +1,5 @@
+﻿l_english:
+ sdv_mdd_events.001.t: "The Death of the Dragons"
+ sdv_mdd_events.001.desc: "Dragons, since the dawn of time, have brought only #XB Fire and Blood#!, perhaps it is time to put an end to this?"
+ sdv_mdd_events.001.a: "Let them die in #XB Fire and Blood#! @icon_dragon_combat_effectiveness!"
+ sdv_mdd_events.001.b: "No!! Let them live!!"

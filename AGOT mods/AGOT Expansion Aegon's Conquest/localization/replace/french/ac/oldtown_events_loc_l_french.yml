@@ -1,0 +1,27 @@
+﻿l_french:
+
+# THE CONQUEST
+oldtown.0001:0 "Sept Jours et Sept Nuits"
+oldtown.0001.desc:0 "Lorsque la nouvelle de l'arrivée d'Aegon est parvenue à Villevieille, le Haut-Septon s'est enfermé dans le Septuaire pendant sept jours et sept nuits, cherchant la guidance des dieux. Il ne s'est nourri que de pain et d'eau, passant toutes ses heures d'éveil en prière, se déplaçant d'un autel à l'autre. Et au septième jour, la Mère avait levé sa lampe dorée pour lui montrer le chemin à suivre. Si Villevieille prenait les armes contre Aegon le Dragon, Son Éminence voyait que la ville brûlerait sûrement, et que la Grande Tour, la Citadelle et le Sept Étoilé seraient renversés et détruits. \n \nAlors que le Haut-Septon me raconte cette vision qui lui a été révélée par la Vieille Dame, je sais que je dois choisir notre voie."
+oldtown.0001.option1:0 "Nous nous soumettrons au Roi Aegon."
+oldtown.0001.option2:0 "Villevieille résistera !"
+
+oldtown.0002:0 "Villevieille se Soumet"
+oldtown.0002.desc:0 "Je suis sorti pour accueillir Aegon Targaryen alors que son puissant hôte approchait de Villevieille, j'ai offert mon épée, ma ville et mes serments. J'ai également offert ma fille mais il a refusé, poliment, peu importe. \n \nNous prierons pour que les Royaumes soient meilleurs pour cela."
+oldtown.0002.option1:0 "Le Couronnement aura lieu dans quelques jours."
+
+oldtown.0003:0 "Villevieille ne se Courbera ni ne Brûlera"
+oldtown.0003.desc:0 "La nouvelle de la conquête d'Aegon Targaryen m'est parvenue, et bien que de nombreux seigneurs se soient inclinés devant la puissance du dragon, nous ne le ferons pas. Oldtown n'était pas un simple château à prendre par la force. C'est la plus grande ville du continent. Je ne plierai pas devant les seigneurs dragons étrangers qui cherchent à imposer leur volonté sur Westeros. Mes bannières flottent haut alors que des corbeaux ont été envoyés pour convoquer nos vassaux à la guerre. \n \nCe ne sera pas une simple bataille, c'est un combat pour l'âme même des Sept Royaumes, et je veillerai à ce que la conquête d'Aegon soit empêchée, et si ce n'est pas le cas, elle aura rencontré sa résistance la plus féroce aux portes de Villevieille."
+oldtown.0003.option1:0 "Nous éclairons le chemin."
+
+oldtown.0004:0 "Le Couronnement d'Aegon I Targaryen"
+oldtown.0004.desc:0 "Trois jours plus tard, dans le Septuaire, Son Éminence lui-même a sacré Aegon avec les sept huiles, a placé une couronne sur sa tête, et l'a proclamé #bold Aegon de la Maison Targaryen, le Premier de Son Nom, Roi des Andals, des Rhoynars et des Premiers Hommes, Seigneur des Sept Royaumes et Protecteur du Royaume. #! \n \nSeulement quelques seigneurs avaient assisté au premier couronnement d'Aegon à l'embouchure du Blackwater, mais des centaines étaient présents pour assister au second, et des dizaines de milliers l'ont acclamé par la suite dans les rues d'Oldtown alors qu'il traversait la ville sur le dos de Balerion. Parmi ceux présents au second couronnement d'Aegon se trouvaient les maîtres et archi-maîtres de la Citadelle. Peut-être pour cette raison, c'est ce couronnement, plutôt que la couronne d'Aegonfort le jour de l'arrivée d'Aegon, qui est devenu fixé comme le début du règne d'Aegon. \n \nAinsi les Sept Royaumes de Westeros ont été forgés en un grand royaume, par la volonté d'Aegon le Conquérant et de ses sœurs."
+oldtown.0004.option1:0 "Nous servons notre Roi."
+
+oldtown.0005:0 "Villevieille Tombe"
+oldtown.0005.desc:0 "Nous avons échoué, Villevieille est tombée, le roi étranger Aegon Targaryen flotte maintenant le dragon à trois têtes au-dessus de notre ville depuis la Grande Tour. Lui et ses sœurs la survolent de leurs dragons. \n \nNos genoux sont courbés, nos dos brisés et nos épées prises. Maintenant, le Haut-Septon doit couronner Aegon, dans trois jours."
+oldtown.0005.option1:0 "Dieux, pardonnez-nous."
+
+oldtown.0006:0 "Le Couronnement d'Aegon I Targaryen"
+oldtown.0006.desc:0 "Trois jours plus tard, dans le Septuaire, Son Éminence lui-même a sacré Aegon avec les sept huiles, a placé une couronne sur sa tête, et l'a proclamé #bold Aegon de la Maison Targaryen, le Premier de Son Nom, Roi des Andals, des Rhoynars et des Premiers Hommes, Seigneur des Sept Royaumes et Protecteur du Royaume. #! \n \nSeulement quelques seigneurs avaient assisté au premier couronnement d'Aegon à l'embouchure du Blackwater, mais des centaines étaient présents pour assister au second, et des dizaines de milliers l'ont acclamé par la suite dans les rues de Villevieille alors qu'il traversait la ville sur le dos de Balerion. Parmi ceux présents au second couronnement d'Aegon se trouvaient les maîtres et archi-maîtres de la Citadelle. Peut-être pour cette raison, c'est ce couronnement, plutôt que la couronne d'Aegonfort le jour de l'arrivée d'Aegon, qui est devenu fixé comme le début du règne d'Aegon. \n \nAinsi les Sept Royaumes de Westeros ont été forgés en un grand royaume, par la volonté d'Aegon le Conquérant et de ses sœurs."
+oldtown.0006.option1:0 "Nous espérons qu'il régnera sagement."

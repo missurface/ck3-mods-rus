@@ -1,0 +1,145 @@
+﻿l_french:
+ 
+ # LA CONQUÊTE PRÉCOCE
+ aegon.0001:0 "Le Dernier Descendant"
+ aegon.0001.desc:0 "Il y a des lunes, le fou Argilac Durrandon nous a envoyé un message à Peyredragon, proposant une alliance pour créer une zone tampon entre ses terres et celles de Harren le Noir. L'offre m'aurait donné la main de sa fille et héritière en mariage ainsi que des terres en dot le long de la Néra. Non seulement j'ai déjà deux sœurs comme épouses, mais les terres qu'il propose ne lui appartiennent même pas, il n'a donc aucun droit de les offrir. En réponse, nous avons proposé la main de mon frère bâtard, Orys Baratheon, à sa fille, ainsi que des terres supplémentaires dans son propre territoire.\n \nAu lieu d'une réponse décente, cet idiot a coupé les mains de notre émissaire et les a renvoyées à Peyredragon, avec ce message : « Ce sont les seules mains que vous recevrez. » J'en ai assez des querelles des petits seigneurs et des faux rois. Je suis le sang du dragon, ma maison est le dernier descendant de la véritable ancienne Valyria, les seuls chevaucheurs de dragons restant dans ce monde.\n #gras \nPourtant, ils me sous-estiment. Cela suffit. Westeros ne connaît pas la grandeur, je vais la leur enseigner. Des corbeaux seront envoyés dans tout le royaume, tous l'entendront, de Dorne au Mur : à partir de maintenant, Westeros n'a qu'un seul Roi. Quiconque osera désobéir à cette déclaration fera face à mes dragons, ceux de Visenya et de Rhaenys. Les seigneurs peuvent plier le genou et conserver toutes leurs terres et titres, ou brûler.#"
+ aegon.0001.option1:0 " #S Le Feu et le Sang. #!"
+
+ aegon.0002:0 "Le Seigneur Dragon"
+ aegon.0002.desc:0 "Partout dans Westeros, des corbeaux se posent annonçant qu'Aegon Targaryen, Seigneur de Peyredragon, revendique l'ensemble du continent en tant que roi. Ridicule, diront certains, mais ceux plus éduqués et familiers avec les Targaryens connaissent leurs dragons et leur héritage en tant que sang de l'ancienne Valyria.\n \nNous verrons si ce prétendu Conquérant, avec ses sœurs Visenya et Rhaenys, et tous leurs dragons, Balerion, Vhagar et Meraxes, peuvent vraiment vaincre un continent entier."
+ aegon.0002.option1:0 "Nos royaumes existent depuis des milliers d'années !"
+
+ aegon.0003:0 "L'Atterrissage du Roi"
+ aegon.0003.desc:0 "Nous avons débarqué à l'embouchure de la Néra, un emplacement parfait. Argilac l'Arrogant et Harren le Noir ne pourront pas décider de qui nous sommes le problème. Il y a trois collines au nord de la rivière, un point défensif idéal. Je construirai un fort sur la Haute Colline pendant que mes sœurs s'occuperont de notre premier défi : les seigneurs locaux.\n \nRhaenys a pris son envol sur Meraxes vers Rosby et Visenya sur Vhagar vers Stokeworth, ils plieront le genou devant moi en tant que leur roi ou souffriront sous les flammes de dragon."
+ aegon.0003.option1:0 "Notre premier pas."
+
+ aegon.0004:0 "Le Premier Test d'Aegon"
+ aegon.0004.desc:0 "Nous avons vaincu Lord Darklyn et ceux qui se tenaient à ses côtés, la zone autour de notre débarquement est sécurisée. J'ai ordonné la collecte de leurs épées pour les apporter à la Haute Colline, j'ai un but pour elles. Mais maintenant, nous devons choisir notre prochaine étape.\n \nNous pouvons nous diriger vers le nord pour affronter Harren le Noir ou vers le sud pour écraser Argilac l'Arrogant.\n \nAlors que nous assemblons notre conseil au tout nouveau Aegonfort, ma sœur-épouse Visenya me proclame : \n \n#gras Aegon, Premier du Nom, Roi de Tout Westeros et Bouclier de son Peuple. #"
+ aegon.0004.option1:0 "Nous marchons vers Harrenhal."
+ aegon.0004.option2:0 "Occupons-nous du fou qui a déclenché cela."
+
+ # L'INCENDIE DE HARRENHAL
+ aegon.0005:0 "Le Puissant Harrenhal"
+ aegon.0005.desc:0 "Alors que mon armée atteint Harrenhal, il devient évident que les rumeurs entourant ce château nouvellement terminé sont vraies, il est imprenable. Deux options s'offrent à nous : tenter un siège traditionnel, qui durerait des années et échouerait probablement, ou proposer une trêve à Harren le Noir.\n \nDans cette trêve, nous pouvons lui offrir la chance de se rendre ou il fera face aux flammes de Balerion."
+ aegon.0005.option1:0 "Harrenhal est imprenable."
+ aegon.0005.option2:0 "Je ne peux pas déchaîner les horreurs de Balerion sur le château."
+
+ aegon.0006:0 "La Négociation en Dehors de Harrenhal"
+aegon.0006.desc:0 "Aegon et Harren se rencontrèrent en dehors des murs, avec une bannière de paix, pour négocier. \n \n #bold "Rends-toi maintenant,"#! commença Aegon #bold "et tu pourras rester Seigneur des Îles de Fer. Rends-toi maintenant, et tes fils vivront pour régner après toi. J'ai des milliers d'hommes à l'extérieur de tes murs." #! \n \n #bold "Ce qui se trouve en dehors de mes murs ne m'inquiète pas"#! dit Harren #bold "Ces murs sont solides et épais."#! \n \n #bold "Mais pas assez hauts pour empêcher les dragons. Les dragons volent."#! \n \n #bold "J'ai construit en pierre."#! dit Harren #bold "La pierre ne brûle pas."#! \n \n À quoi Aegon répondit #bold "Quand le soleil se couchera, ta lignée prendra fin." #!"
+aegon.0006.option1:0 "Nous attendons sa réponse."
+
+aegon.0007:0 "L'Incendie de Harrenhal"
+aegon.0007.desc:0 "Harren cracha en réponse et partit, l'imbécile. \n \nCette nuit-là, alors que le soleil se couchait, je montais Balerion de plus en plus haut dans le ciel nocturne, à travers les nuages, montant encore et encore jusqu'à ce que le dragon ne soit plus gros qu'une mouche sur la lune. Ce n'est qu'à ce moment-là que nous avons commencé à descendre. \n \nSur des ailes aussi noires que la suie, Balerion plongea à travers la nuit, et lorsque les grandes tours de Harrenhal apparurent sous lui, le dragon rugit de fureur et les baigna dans un feu noir, traversé de vagues de rouge. \n \nLa pierre ne brûle pas, se vantait Harren, mais son château n'était pas fait que de pierre. Bois et laine, chanvre et paille, pain, viande salée et grain, tout prit feu. Les hommes de fer d'Harren n'étaient pas faits de pierre non plus. Enfumés, hurlants, enveloppés de flammes, ils couraient à travers les cours et tombaient des cheminements muraux pour mourir sur le sol en dessous. Et même la pierre craquera et fondra si un feu est assez chaud. Les tours de Harrenhal brillaient en rouge contre la nuit, comme cinq grandes bougies... et comme des bougies, elles commencèrent à se tordre et fondre alors que des ruisseaux de pierre fondue coulaient le long de leurs côtés. \n \nHarren et ses derniers fils moururent dans les flammes qui engloutirent sa monstrueuse forteresse cette nuit-là. La Maison Hoare mourut avec lui."
+aegon.0007.option1:0 "Dracarys !"
+
+ # LE CONFLANS
+aegon.0008:0 "Le Seigneur Paramount du Conflans"
+aegon.0008.desc:0 "Le Trident a besoin d'un nouveau suzerain loyal pour superviser mon règne. Nous avons plusieurs bonnes options, qui devrions-nous choisir ?"
+aegon.0008.option1:0 "Lord Tully nous servira bien."
+aegon.0008.option2:0 "La Maison Qoherys, désormais seigneurs de Harrenhal, nous servira bien."
+aegon.0008.option3:0 "La Maison Mallister est une noble maison riveraine, avec une flotte."
+
+aegon.0009:0 "Le Seigneur de Harrenhal"
+aegon.0009.desc:0 "Quenton Qoherys et sa famille m'ont beaucoup servi à Dragonstone, en tant que maître d'armes et en tant que soldats au combat, ils nous serviraient avec dévouement dans n'importe quelle position. \n \nAvec la Maison Hoare n'étant plus un obstacle, nous devrions accorder à Qoherys le siège de Harrenhal, le plus puissant mais désormais ruiné château des Terres des Rivières. \n \nBien qu'il serait peut-être préférable que nous le gardions pour la Maison Targaryen, pour l'instant."
+aegon.0009.option1:0 "Accorder Harrenhal à la nouvelle Maison Qoherys."
+aegon.0009.option2:0 "Peut-être pourrions-nous en faire un meilleur usage."
+
+aegon.0010:0 "Harren Défait"
+aegon.0010.desc:0 "Harren le Noir est mort, le Conflans fait désormais partie de mon Royaume. Maintenant, nous devons regarder vers le sud et anéantir Argilac l'Arrogant et revendiquer les Terres de l'Orage pour le règne des Targaryen. Avec Argilac Durrandon n'ayant qu'une fille et aucun autre survivant de sa dynastie, il y a des questions sur la manière dont nous devons gérer cela. \n \nIl est suggéré que nous mettions en place un Stormlander loyal à notre maison comme Seigneur Paramount des Terres de l'Orage, cependant aucune maisons, sauf celles proches du Fort-Aegon ne s'est déclarée pour moi. Nous avons beaucoup de décisions à prendre mais d'abord nous devons conquérir."
+aegon.0010.option1:0 "Nous écraserons Argilac, jusqu'à la Fin de la Tempête !"
+
+aegon.0011:0 "Argilac Défait"
+aegon.0011.desc:0 "Argilac l'Arrogant est mort, les Terres de l'Orage font maintenant partie de mon Royaume. Maintenant, nous devons regarder vers le nord vers la puissante forteresse de Harrenhal et anéantir les armées de Harren pour revendiquer le Conflans pour la Maison Targaryen. Cependant, une question se pose : qui sera accordé Seigneur du Conflans après notre victoire ? \n \nSi les fils de Harren se prosternent, ils garderont Harrenhal et leur place en tant que Seigneurs des Îles de Fer, mais le Conflans lui-même a besoin d'un nouveau dirigeant. Nous avons beaucoup de décisions à prendre, mais d'abord nous devons conquérir."
+aegon.0011.option1:0 "Harren se prosternira ou brûlera."
+
+ aegon.0012:0 "Presqu'île de Claquepince"
+aegon.0012.desc:0 "Avec Argilac l'Arrogant et Harren le Noir traités, avant de nous diriger vers l'ouest, nous devons obtenir la soumission des seigneurs de la Presqu'île de Claquepince. Ce ne devrait pas être une tâche difficile, Visenya a demandé à y aller elle-même et à régler cela en une journée. \n \nIls peuvent se prosterner ou brûler, la même offre que nous avons faite aux seigneurs Rosby et Stokeworth après notre débarquement."
+aegon.0012.option1:0 "Ensuite, nous nous dirigeons vers l'ouest."
+
+aegon.0013:0 "Le Terres et le Roc"
+aegon.0013.desc:0 "Avec la fidélité des seigneurs de la Presqu'île de Claquepince reçue après la conquête des Terres de l'Orage et des Terres du Conflans, nous devons maintenant nous tourner vers l'Ouest. Les rumeurs disent que le Roi du Roc et le Roi du Bief ont rassemblé une force conjointe en opposition à mon règne. La plus grande armée que Westeros ait jamais vue, disent-ils. Nous devrons unir toute notre hôte et tous nos dragons pour la bataille à venir, nous ne pouvons espérer les battre de manière conventionnelle mais nous ne l'avions jamais prévu. \n \nLes dragons nous gagneront cette guerre une fois de plus, voyons si les Lannister et les Jardinier se rendent avant de rencontrer leur fin."
+aegon.0013.option1:0 "Cette conquête consolidera notre règne."
+
+aegon.0014:0 "Le Champ de Feu"
+aegon.0014.desc:0 "Le Roi Mern a décidé de faire face directement à nos armées. Ils ont plus d'hommes que nous mais nous avons des dragons, trois dragons. Nos hommes ont pris des positions défensives solides et attendent qu'ils avancent. \n \nLe Roi Mern lui-même a mené la charge contre le centre sur son cheval doré, son fils Gawen à ses côtés avec sa bannière, une grande main verte sur un champ blanc. Rugissant et criant, poussés par les cors et les tambours, les Gardeners et les forces alliées ont chargé à travers une tempête de flèches sur leurs ennemis, balayant les lanciers Targaryen, brisant leurs rangs. \n \nMais à ce moment-là, Aegon et ses sœurs étaient dans les airs. Aegon volait au-dessus des rangs de ses ennemis sur Balerion, à travers une tempête de lances, de pierres et de flèches, plongeant à plusieurs reprises pour baigner ses ennemis dans les flammes. Rhaenys et Visenya allumaient des feux en amont de l'ennemi et derrière eux. Les herbes sèches et les champs de blé s'enflammaient immédiatement. Le vent alimentait les flammes et soufflait la fumée dans les visages des rangs adverses en avancée. \n \nLeurs rangs ont commencé à se briser alors que des murs de feu s'élevaient de tous côtés. Archers et lanciers ont rapidement mis fin aux hommes brûlés et en feu qui se traînaient hors de l'enfer. \n \nLe Champ de Feu, la bataille fut ainsi nommée par la suite. Le Roi Mern IX était parmi les morts, avec ses fils, petits-fils, frères, cousins et autres parents."
+aegon.0014.option1:0 "Marchons vers Hautjardin, Lord Tyrell le tiendra maintenant."
+
+aegon.0015:0 "Le Seigneur du Bief"
+aegon.0015.desc:0 "Avec la Maison Gardener réduite à néant, nos hommes ont atteint Hautjardin le trouvant entre les mains de son intendant, Lord Tyrell. Il a ouvert ses portes et s'est prosterné. \n \nLes Terres sont à nous et nous devons bientôt envisager notre prochaine étape, mais d'abord nous devons régler l'avenir des Terres, et la seule option claire est d'accorder Hautjardin et la Seigneurie du Bief à Lord Tyrell. Il est bien respecté parmi les nombreux anciens vassaux de la Maison Gardener et évite les revendications rivales sur le sang de Garth Greenhand, ce qui pourrait causer des conflits sur le siège pour les générations à venir."
+aegon.0015.option1:0 "Nous devons planifier notre prochain mouvement."
+
+aegon.0016:0 "Gardien de l'Ouest"
+aegon.0016.desc:0 "Le Roi Loren Lannister a fui le Champ de Feu après avoir vu ce qui s'était passé et a maintenant été détenu et amené devant moi. Il se prosterne, posant sa lame à mes pieds devant moi et mon dragon. \n \nEn retour, Loren Lannister sera nommé Seigneur de Castral Roc et gouverneur de l'Ouest. \n \nJe donne l'ordre à mes hommes de récupérer sa lame, ainsi que toutes les lames de la bataille, elles resteront comme un symbole rappelant aux seigneurs ce jour pendant des siècles à venir."
+aegon.0016.option1:0 "Loren le Dernier."
+
+ # THE NORTH
+ aegon.0017:0 "Invasion Stark dans les Terres du Conflans"
+aegon.0017.desc:0 "Le Roi Torrhen Stark a enfin réussi à rassembler une grande armée du Nord, il a accompli cette tâche plus rapidement que je ne l'imaginais et son incursion dans le Conflans signifie que je dois reporter mes projets sur Villevieille et Dorne pour traiter avec les Nordiens. \n \nNous devons voyager vers le Nord et rencontrer le Roi du Nord en bataille. Voyons comment la neige Stark essaie de résister aux flammes des dragons."
+aegon.0017.option1:0 "Villevieille a du temps."
+
+aegon.0018:0 "Le Roi qui Ploya le Genou"
+aegon.0018.desc:0 "Au cours de la nuit dernière, Brandon Snow, le frère bâtard de Torrhen Stark, et trois maîtres ont voyagé de part et d'autre pour nous négocier, le Roi du Nord reconnaît les obstacles insurmontables auxquels il fait face. \n \nIl se présente maintenant devant moi, s'agenouillant en posant son épée à mes pieds et me remettant la Couronne de l'Hiver. Stark a sauvé d'innombrables vies aujourd'hui. Son épée sera prise et il sera nommé Seigneur de Winterfell et Gouverneur du Nord."
+aegon.0018.option1:0 "Le Roi qui Ploya le Genou."
+
+aegon.0019:0 "Brandon Snow, Tueur de Dragons"
+aegon.0019.desc:0 "La nuit dernière, Brandon Snow, le frère bâtard du Roi du Nord s'est introduit dans nos camps, a réussi à passer nos défenses et a #bold tué #!un de nos dragons! \n \nLes Stark paieront pour cela, Balerion et moi, nous brûlerons leurs armées pour rappeler à nos ennemis que nous possédons encore deux dragons adultes. #bold Feu et Sang. #"
+aegon.0019.option1:0 "Le Dragon a Deux Têtes."
+
+aegon.0020:0 "L'Échec de Brandon Snow"
+aegon.0020.desc:0 "La nuit dernière, Brandon Snow, le frère bâtard du Roi du Nord s'est introduit dans nos camps, son plan était ridicule, il avait prévu de tuer nos dragons, quel audacieux idiot. \n \nIl a été brûlé par les flammes du dragon et la guerre continuera, les Stark ont raté leur chance de sauver la vie de leurs hommes. Ils brûleront."
+aegon.0020.option1:0 "Nous les écraserons dès le matin."
+
+aegon.0021:0 "Gouverneur du Nord"
+aegon.0021.desc:0 "Les armées du Nord ont été écrasées et maintenant, le Roi du Nord se prosterne dans la honte. Il a causé la mort de milliers d'hommes mais maintenant il reconnaît son échec. \n \nSon épée sera prise, aux côtés des lames de tous les hommes qui sont tombés dans ses armées, Stark sera nommé Seigneur de Winterfell et Gardien du Nord comme la seule maison capable de conserver la loyauté et le respect des Nordiens."
+aegon.0021.option1:0 "Espérons que les Stark garderont leurs serments."
+
+ aegon.0022:0 "Un Corbeau de l'Eyrie"
+aegon.0022.desc:0 "Un corbeau nous est parvenu depuis le Val d'Arryn, avec des termes de leur reddition sans conflit, sans aucun doute. Nos victoires ont provoqué une grande instabilité parmi toutes les grandes maisons que nous avons affrontées, la Maison Arryn est trop sage pour vouloir cela, surtout avec la régence du jeune roi. \n \nEn ouvrant la lettre, je vois un portrait joint, celui de la mère du garçon, la Reine Régente Sharra Arryn. Ses conditions demandent que je la prenne comme troisième épouse et que je nomme son fils comme héritier, n'ayant pas de fils moi-même. \n \nRidicule. On qualifie la femme de belle malgré ses dix ans de plus que moi, clairement ceux qui prétendent cela n'ont pas encore vu de Valyrien."
+aegon.0022.option1:0 "Envoyons Visenya à l'Eyrie, le garçon se soumettra."
+aegon.0022.option2:0 "Le Val est inébranlable, je devrai accepter les demandes."
+
+aegon.0023:0 "Les Arryn Défient Visenya"
+aegon.0023.desc:0 "Visenya est arrivée à l'Eyrie pour voir le jeune Roi seul. Il voulait monter sur Vhagar, mais Visenya lui a refusé sauf s'il se soumettait à moi. Sa mère, Sharra Arryn, a cependant refusé et a tenu bon contre elle. \n \nVisenya, malgré son tempérament impulsif, reconnaît l'instabilité apportée par la régence. Au lieu de tuer le garçon, elle fit exécuter la mère avant de partir. \n \nLe Val sera plongé dans l'instabilité, peut-être que le prochain régent se soumettra, mais pour l'instant nous devons commencer notre campagne vers la Porte Sanglante."
+aegon.0023.option1:0 "Un autre revers, s'ils étaient sages, le continent ne verrait pas de guerre."
+
+aegon.0024:0 "Les Arryn Se Soumettent"
+aegon.0024.desc:0 "Après beaucoup de sang versé, la Porte Sanglante et l'Eyrie ont capitulé, le Val est à nous. Le jeune roi a déposé les couronnes du Val à mes pieds et s'est engagé envers moi. \n \nMaintenant, nous devons envoyer Rhaenys à Dorne, nous verrons si les Martell se soumettent avant que nous nous rendions à Oldtown."
+aegon.0024.option1:0 "Nous nous dirigeons vers le sud."
+
+aegon.0025:0 "Des Montagnes aux Sables"
+aegon.0025.desc:0 "Lorsque Visenya est arrivée aux Eyrie, elle a trouvé le jeune Roi seul. Lorsque sa mère, la Reine Sharra, l'a trouvé, il était assis sur les genoux de Visenya, demandant à monter sur Vhagar. Sharra a clairement reconnu la situation et a abandonné les couronnes de la Maison Arryn à Visenya ainsi que sa fidélité envers moi. \n \nVisenya a alors accordé au jeune Arryn son souhait, lui permettant de monter avec elle sur Vhagar, trois fois autour du sommet du Lance du Géant. \n \nNous avons maintenant des affaires plus urgentes, Dorne. Nous devons envoyer Rhaenys à Lancehélion pour parler avec le chef de la Maison Martell. Les Martell se qualifient eux-mêmes de "non courbés, non pliés et non brisés", nous verrons s'ils revendiquent l'un de ces titres après avoir affronté le dragon."
+aegon.0025.option1:0 "Nous nous dirigeons vers le sud."
+ 
+aegon.0026:0 "Le Retour de Lancehélion"
+aegon.0026.desc:0 "Rhaenys est revenue de Lancehélion. Les Dorniens se sont cachés dans tous les châteaux en chemin, jusqu'à ce qu'elle rencontre simplement le chef de la Maison Martell. Les Dorniens ne se soumettront pas, au lieu de cela, ils nous menacent. \n \nLa fierté de ces gens est comparable à celle d'Argilac l'Arrogant et de Harren le Noir, Rhaenys aurait dû leur rappeler comment ils sont morts. Nous devrons attendre avant de lancer une campagne dans les déserts de Dorne. \n \nNous nous dirigeons vers Oldtown, entendons leur soumission et, si tout se passe bien, Lord Hightower se soumettra et le Grand Septon me couronnera Roi."
+aegon.0026.option1:0 "Les Martell céderont s'ils refusent de se soumettre."
+
+aegon.0027:0 "Défi Villevieille"
+aegon.0027.desc:0 "Nous avons appris que le Hightower appelle tous ses bannières, Villevieille a l'intention de nous affronter en bataille, les fous. Nous les brûlerons comme nous avons brûlé les autres, avec Feu et Sang."
+aegon.0027.option1:0 "Si nécessaire, le Hightower lui-même sera réduit en décombres."
+
+aegon.0028:0 "Villevieille Se Soumet"
+aegon.0028.desc:0 "Lord Manfred Hightower est venu à ma rencontre alors que notre hôte approchait de Villevieille. Il offre son épée, la ville et ses serments. Il a également proposé sa fille, mais je n'ai pas besoin d'une autre femme, encore moins la fille de Villevieille. \n \nUne fois que nous serons accueillis dans la ville, nous apprenons que le Grand Septon souhaite me couronner, mais avec un titre alternatif à celui que nous avions proclamé au Fort-Aegon."
+aegon.0028.option1:0 "Je pensais que #bold Roi de Tout Westeros #!avait une belle sonorité."
+
+aegon.0029:0 "La Couronnement d'Aegon Ier Targaryen"
+aegon.0029.desc:0 "Trois jours plus tard, au Sept des Étoiles, Sa Sainteté lui-même a sacré Aegon avec les sept huiles, placé une couronne sur sa tête, et l'a proclamé #bold Aegon de la Maison Targaryen, le Premier de Son Nom, Roi des Andals, des Rhoynar, et des Premiers Hommes, Seigneur des Sept Royaumes, et Protecteur du Royaume. #! \n \nSeule une poignée de seigneurs avait assisté au premier couronnement d'Aegon au bord de la Nera, mais des centaines étaient présents pour assister à son second couronnement, et des dizaines de milliers l'acclamèrent ensuite dans les rues de Villevieille alors qu'il défilait à travers la ville sur le dos de Balerion. Parmi les présents au second couronnement d'Aegon se trouvaient les mestres et archi-mestres de la Citadelle. Peut-être pour cette raison, ce couronnement, plutôt que la cérémonie de Fort-Aegon le jour de l'atterrissage d'Aegon, est devenu le début officiel du règne d'Aegon. \n \nAinsi, les Sept Royaumes de Westeros ont été forgés en un grand royaume, par la volonté d'Aegon le Conquérant et de ses sœurs."
+aegon.0029.option1:0 "Maintenant, le trône..."
+
+aegon.0030:0 "Le Trône de Fer"
+aegon.0030.desc:0 "Toutes les épées que j'ai collectées tout au long de ma conquête ont été apportées devant ma monture, Balerion le Terreur Noire. Il est temps que mon plan se concrétise, par la flamme du dragon. \n \nBalerion brûlera les épées ensemble, les tordant et les fondant en un trône, fait des mille lames de mes ennemis. Il servira de rappel au royaume, que la Maison Targaryen les a tous vaincus en quelques années. Ils ne nous défieront plus. \n \nIl y a eu beaucoup de questions quant à l'endroit où je devrais établir ma cour maintenant que cette guerre est terminée, cette nouvelle ville, érigée autour du Fort-Aegon, Port-Réal ou mon siège ancestral de Peyrdragon ou ailleurs. C'est à moi de choisir."
+aegon.0030.option1:0 "Port-Réal sera ma capitale."
+aegon.0030.option2:0 "Je régnerai depuis Peyrdragon, comme mes ancêtres avant moi."
+aegon.0030.option3:0 "J'ai un autre endroit en tête."
+
+aegon.0031:0 "La Garde Royale"
+aegon.0031.desc:0 "Ma sœur-épouse, Visenya est toujours inquiète que l'on puisse attenter à ma vie et elle-même porte une chemise de mailles jour et nuit, même sous ses vêtements de cour, et m'a exhorté à faire de même. Lorsque j'ai refusé, Visenya est devenue furieuse. #bold “Même avec Feunoyr dans ta main, tu n'es qu'un homme,” #! m'a-t-elle dit, #bold “et je ne peux pas toujours être avec toi.” #! Lorsque le roi a souligné qu'il avait des gardes autour de lui, Visenya a dégainé Noire Sœur et m'a entaillé la joue si rapidement que les gardes n'ont eu le temps de réagir. \n \n#bold “Tes gardes sont lents et paresseux,” #! a-t-elle dit. #bold “J'aurais pu te tuer aussi facilement que je t'ai coupé. Tu as besoin de meilleure protection.” #! \n \nSaignant, je n'ai pas eu d'autre choix que d'accepter. Beaucoup de rois avaient des champions pour les défendre. J'étais le Seigneur des Sept Royaumes ; par conséquent, je devrais avoir sept champions, décida la Reine Visenya. Ainsi est née la Garde Royale ; une confrérie de sept chevaliers, les meilleurs du royaume, vêtus et armés de blanc, avec pour but de défendre le roi, sacrifiant leurs propres vies pour lui si besoin. \n \nVisenya a modelé leurs vœux sur ceux de la Garde de Nuit ; comme les corbeaux vêtus de noir du Mur, les Épées Blanches serviraient à vie, abandonnant toutes leurs terres, titres et biens matériels pour vivre une vie de chasteté et d'obéissance, sans autre récompense que l'honneur."
+aegon.0031.option1:0 "Le Seigneur Commandant Corlys Velaryon me servira bien."
+
+ aegon.1001:0 "L'Échec d'Aegon"
+aegon.1001.desc:0 "Aegon de la Maison Targaryen sera rappelé parmi les plus grands 'et si' de l'histoire de Westeros, mais pour la Maison Targaryen, il sera un avertissement : les dragons ne les rendent pas les plus puissants du monde. L'ambition excessive cause la chute."
+aegon.1001.option1:0 "Ce qui aurait pu être."
+
+aegon.1002:0 "L'Échec d'Aegon"
+aegon.1002.desc:0 "Aegon de la Maison Targaryen sera rappelé parmi les plus grands 'et si' de l'histoire de Westeros, mais pour la Maison Targaryen, il sera un avertissement : les dragons ne les rendent pas les plus puissants du monde. L'ambition excessive cause la chute."
+aegon.1002.option1:0 "Ce qui aurait pu être."

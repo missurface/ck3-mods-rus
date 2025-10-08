@@ -1,0 +1,19 @@
+﻿l_french:
+
+# THE CONQUEST
+arryn.0001:0 "La Victoire des Targaryen"
+arryn.0001.desc:0 "Les Targaryen ont conquis royaume après royaume et maintenant ils doivent diriger leurs regards sur le Val. Nous devons agir rapidement pour éviter les effusions de sang et obtenir les meilleures conditions. \n \nMa mère, Sharra, enverra une offre de mariage au Roi Aegon et, puisqu'il n'a pas de fils, il me nommera comme son héritier ! \n \nImaginez ! Je pourrais être Roi non seulement du Val mais de tout le continent !"
+arryn.0001.option1:0 "Nous attendons sa réponse."
+
+arryn.0002:0 "Plie le Genou devant le Bon-Père !"
+arryn.0002.desc:0 "Ma mère a épousé le Seigneur des Dragons ! Je serai son héritier, j'ai hâte de voir son dragon !"
+arryn.0002.option1:0 "Roi du Monde !"
+
+arryn.0003:0 "Une Visite de Vhagar"
+arryn.0003.desc:0 "Maman avait renforcé les défenses de Goëville, déplacé une forte armée vers la Porte Sanglante, et triplé la taille des garnisons à Pierre, Neige, et Ciel, les châteaux de chemin qui gardaient l'Eyrie. Toutes ces défenses se sont avérées inutiles face à Visenya Targaryen, qui est arrivée sur les ailes cuirassées de Vhagar et a atterri dans la cour intérieure de l'Eyrie. Lorsque la régente du Val se précipita pour la confronter, avec une douzaine de gardes derrière elle, elle trouva Visenya avec moi assis sur ses genoux, regardant le dragon, émerveillé. \n \n #bold « Maman, puis-je aller voler avec la dame ? » #! demanda le jeune roi. Aucun menaces n'ont été prononcées, aucun mot fâché échangé. Les deux reines se sont souri et ont échangé des courtoisies."
+arryn.0003.option1:0 "Rendez la Couronne, je veux voler sur son dragon !"
+arryn.0003.option2:0 "Non, je suis Roi, je resterai Roi."
+
+arryn.0004:0 "La Guerre est Perdue"
+arryn.0004.desc:0 "Nous avons échoué, les Targaryen ont défait nos armées et maintenant nous devons plier le genou, rendre notre couronne et servir comme vassaux. \n \nLa gloire de la Maison Arryn est perdue, notre honneur terni, mais nous devons reconstruire."
+arryn.0004.option1:0 "Aussi Haut que l'Honneur."

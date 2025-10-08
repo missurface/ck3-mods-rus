@@ -1,0 +1,31 @@
+﻿l_french:
+
+# THE CONQUEST
+stark.0001:0 "Appeler les Bannières"
+stark.0001.desc:0 "Les Royaumes du Sud tombent, chacun d'eux, un par un, devant Aegon Targaryen. La Maison Stark a résisté aux Invasions Andales, sans se laisser décourager et nous le ferons encore. \n \nEnfin, nous avons réussi à rassembler une armée et maintenant nous voyagerons vers le sud pour affronter ce seigneur dragon !"
+stark.0001.option1:0 "L'Hiver Vient."
+
+stark.0002:0 "Le Camp de Guerre"
+stark.0002.desc:0 "Alors que nous voyageons vers la guerre, il devient clair que les victoires d'Aegon sont plus impressionnantes que ce que nous avions entendu, des armées détruites, des maisons anéanties par lui et ses dragons. Il semble que la reddition soit la meilleure option pour le peuple du Nord, épargnant la perte de fils, frères, cousins et proches en se soumettant aux Targaryen. \n \nCependant, mon frère bâtard, Brandon Snow, pense différemment, il croit pouvoir se déplacer sous le couvert de la nuit dans les camps ennemis et tuer un des dragons, frappant dramatiquement le moral de l'ennemi, mais ce plan est-il vraiment réalisable ?"
+stark.0002.option1:0 "Nous nous inclinons."
+stark.0002.option2:0 "Le Nord résistera, Brandon partira."
+
+stark.0003:0 "Le Roi qui Ploya le Genou"
+stark.0003.desc:0 "Au cours de la dernière nuit, mon frère bâtard Brandon Snow et trois maîtres se sont rendus aller-retour auprès des Targaryen en négociation. Je reconnais les chances insurmontables que me donnent les dragons d'Aegon. \n \nJe me présente maintenant devant Aegon, à genoux, posant mon épée à ses pieds et remettant la Couronne de l'Hiver au nouveau Roi. C'était nécessaire, je n'avais pas le choix. Comme convenu, il a affirmé mes droits en tant que Seigneur de Winterfell et m'a nommé Gouverneur du Nord."
+stark.0003.option1:0 "On m'appelle désormais, le Roi qui Ploya le Genou."
+
+stark.0004:0 "Le Complot de Brandon"
+stark.0004.desc:0 "Brandon a quitté nos camps avec ses hommes, son complot aura lieu, il est clair que si ce complot réussit nous pouvons encore perdre et si il échoue nous perdrons très certainement mais les mêmes chances ont été données à Theon le Loup Affamé lorsqu'il a défait les Armées Andales. Sauf que les Andales n'avaient pas de dragons."
+stark.0004.option1:0 "Bonne chance, frère."
+
+stark.0005:0 "Succès de Brandon"
+stark.0005.desc:0 "D'une manière ou d'une autre, Brandon a réussi, il a tué un des dragons d'Aegon et a boosté notre moral tout en écrasant le leur. Les Targaryen ne sont pas aussi invincibles qu'ils en ont l'air, maintenant nous devons les écraser sur le champ de bataille !"
+stark.0005.option1:0 "J'espère que c'était la bonne voie."
+
+stark.0006:0 "Échec de Brandon"
+stark.0006.desc:0 "Mon frère est mort. Il est mort en tentant de tuer un dragon, une mort noble mais triste. L'armée Targaryen approche et nous devons mettre en place une défense pour stopper les dragons. \n \nJe ne peux m'empêcher de me demander comment les choses auraient été différentes si nous avions ouvert des négociations."
+stark.0006.option1:0 "Oh frère, que les dieux te reposent."
+
+stark.0007:0 "Se Soumettre"
+stark.0007.desc:0 "Avec nos armées détruites et nos terres saisies, nous n'avons d'autre choix que de nous incliner devant Aegon Targaryen sous son commandement. Nous avons échoué, pour la première fois dans son histoire, la liberté du Nord a été perdue. \n \nJe ne peux qu'espérer la miséricorde."
+stark.0007.option1:0 "L'Hiver Fond."

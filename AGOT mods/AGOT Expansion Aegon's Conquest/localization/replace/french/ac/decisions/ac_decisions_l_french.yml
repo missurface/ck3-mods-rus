@@ -1,0 +1,15 @@
+﻿l_french:
+ agot_ac_first_dornish_war:0 "Conquérir Dorne"
+ agot_ac_first_dornish_war_desc:0 "La Conquête n'est pas encore terminée, les Dorniens échappent toujours à mon emprise. Ils ont refusé notre déclaration, nous leur rappellerons nos mots, Feu et Sang."
+ agot_ac_first_dornish_war_tooltip:0 "Il est temps d'intégrer Dorne."
+ agot_ac_first_dornish_war_confirm:0 "Feu et Sang"
+
+ agot_ac_vale_conquest:0 "Conquérir le Val"
+ agot_ac_vale_conquest_desc:0 "La Conquête n'est pas encore terminée, les hommes du Val échappent toujours à mon emprise. Ils ont repoussé notre première invasion, nous leur rappellerons nos mots, Feu et Sang."
+ agot_ac_vale_conquest_tooltip:0 "Il est temps d'intégrer le Val."
+ agot_ac_vale_conquest_confirm:0 "Feu et Sang"
+
+ agot_ac_north_conquest:0 "Conquérir le Nord"
+ agot_ac_north_conquest_desc:0 "La Conquête n'est pas encore terminée, les Nordiens échappent toujours à mon emprise. Ils ont repoussé notre première invasion, nous leur rappellerons nos mots, Feu et Sang."
+ agot_ac_north_conquest_tooltip:0 "Il est temps d'intégrer le Nord."
+ agot_ac_north_conquest_confirm:0 "Feu et Sang"

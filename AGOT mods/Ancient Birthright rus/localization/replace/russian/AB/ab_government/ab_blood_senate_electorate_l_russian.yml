@@ -1,8 +1,0 @@
-﻿l_russian:  
-
-ab_blood_senate_succession_law:0 "Кровавый Сенат"  
-ab_blood_senate_electors:0 "Великие Стражи"  
-ab_blood_senate_candidates:0 "Наследники Крови"  
-
-ab_blood_senate_electors_tooltip:0 "[GetTrait('guardian_yontaryos').GetName( GetNullCharacter )] [GetTrait('guardian_gaelithox').GetName( GetNullCharacter )] [GetTrait('guardian_qazdarsos').GetName( GetNullCharacter )] [GetTrait('guardian_syrabelos').GetName( GetNullCharacter )] [GetTrait('guardian_rhazalhar').GetName( GetNullCharacter )] [GetTrait('guardian_tartarax').GetName( GetNullCharacter )] [GetTrait('guardian_epaekros').GetName( GetNullCharacter )] [GetTrait('guardian_procrazion').GetName( GetNullCharacter )]"  
-tooltip_ab_is_jaedarys:0 "Вы — [GetTrait('trait_dragon_emperor').GetName( GetNullCharacter )]"

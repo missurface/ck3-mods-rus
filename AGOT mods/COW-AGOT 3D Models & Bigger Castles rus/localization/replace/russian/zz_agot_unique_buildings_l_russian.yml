@@ -2,7 +2,7 @@
   
  rule_use_rebuilt_crag: "#V #bold COW-AGOT#!#!: Краг"
  setting_yes_use_rebuilt_crag: "Полностью восстановлен"
-   setting_yes_use_rebuilt_crag_desc: "The Crag starts as a fully built and functional castle. 
+ setting_yes_use_rebuilt_crag_desc: "The Crag starts as a fully built and functional castle. 
  setting_no_use_rebuilt_crag: "Начинать с руин"
  setting_no_use_rebuilt_crag_desc: "#P По умолчанию#!: Краг начинается как разрушенный и сильно повреждённый замок, который необходимо восстановить."
   

@@ -6,6 +6,13 @@
 
  setting_use_dragon_pit_mover_no_desc:0 "This will disable the More Dragon Eggs added feature. There is currently no vanilla equivalent."
  setting_use_dragon_pit_mover_yes_desc:0 "This will enable the Dragonpit Mover menu made by More Dragon Eggs"
+
+ rule_show_dragon_portrait_on_start:0 "@mde_icon!@dragon_majestic_icon!Show Dragon Portrait"
+ setting_show_dragon_portrait_on_start_no:0 "No"
+ setting_show_dragon_portrait_on_start_yes:0 "Yes"
+
+ setting_show_dragon_portrait_on_start_no_desc:0 "Your Dragon's portrait will be hidden on game start. Can be enabled later."
+ setting_show_dragon_portrait_on_start_yes_desc:0 "Your Dragon's portrait will be displayed in the bottom left corner of the screen next to your character's portrait from game start. Can be disabled later."
  
  rule_realm_affairs_extended:0  "@mde_icon!@dragon_majestic_icon!More Dragon Eggs Extra UI"
  setting_realm_affairs_extended_off:0  "Off"
@@ -127,13 +134,16 @@
  setting_spawn_vassarion_egg_disabled_desc:0 "The Dragonlore event in eastern Andalos will remain but it will never spawn a dragon egg.
 
  rule_spawn_hightower_egg:0 "@mde_icon!@blue_dragon_egg_icon!Spawn Hightower Egg"
+ setting_spawn_hightower_egg_secret:0 "Enabled - Secret"
  setting_spawn_hightower_egg_enabled:0 "Enabled"
  setting_spawn_hightower_egg_disabled:0 "Disabled"
  
+ setting_spawn_hightower_egg_secret_desc:0 "The Hightowers will start with a hidden artifact secret that can be revealed to be a Tessarion and Seasmoke dragon egg."
  setting_spawn_hightower_egg_enabled_desc:0 "Tessarion + Seasmoke is held by the owner of the High Tower at game start (always the main Hightower)."
  setting_spawn_hightower_egg_disabled_desc:0 "The Hightowers will not start with a dragon egg.
 
  rule_spawn_dragonstone_eggs:0 "@mde_icon!@rainbow_dragon_egg_icon!Spawn Dragonstone Eggs"
+ 
  setting_spawn_dragonstone_eggs_enabled:0 "Enabled"
  setting_spawn_dragonstone_eggs_disabled:0 "Disabled"
 

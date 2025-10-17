@@ -49,6 +49,7 @@
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_reach_tunic_1_coa: "@asoiaf_icon! Династическая туника Простора"
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_joffrey_sash: "@asoiaf_icon! Туника и пояс Джоффри" #NT!
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_joffrey_no_clasps: "@asoiaf_icon! Бархат Джоффри" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_joffrey_no_clasps_leather: "@asoiaf_icon! Joffrey's Leather Tunic"
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_joffrey_mourning: "@asoiaf_icon! Траурная туника Джоффри" #NT!
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_tommen: "@asoiaf_icon! Туника Томмена" #NT!
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_high_sash: "@asoiaf_icon! Туника и пояс жителя Королевских Земель - Высокие" #NT!
@@ -57,6 +58,9 @@
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_low: "@asoiaf_icon! Туника жителя Королевских Земель - Низкие" #NT!
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_coa_sash: "@asoiaf_icon! Династическая туника и пояс жителя Королевских Земель" #NT!
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_coa: "@asoiaf_icon! Династическая туника жителя Королевских Земель" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_westeros_dress_1_high: "@asoiaf_icon! Westerosi Ringed Dress - High"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_westeros_dress_1_low: "@asoiaf_icon! Westerosi Ringed Dress - Low"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_westeros_dress_1_coa: "@asoiaf_icon! Dynastic Westerosi Ringed Dress"
  PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_westerlands_mourning_1: "@asoiaf_icon! Траурное платье Западных земель"
  PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_reach_gown_1: "@asoiaf_icon! Платье из Простора"
  PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_handmaiden_dress_1: "@asoiaf_icon! Платье служанки"
@@ -120,6 +124,7 @@
  PORTRAIT_MODIFIER_custom_jewelry_female_jewellery_asoiaf_lion_necklace_silver: "@asoiaf_icon! Ожерелье со львом - Серебряное"
  PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_shark_tooth_necklace: "@asoiaf_icon! Ожерелье из акульих зубов"
  PORTRAIT_MODIFIER_custom_jewelry_female_jewellery_asoiaf_shark_tooth_necklace: "@asoiaf_icon! Ожерелье из акульих зубов"
+ PORTRAIT_MODIFIER_custom_jewelry_female_jewellery_asoiaf_emerald_necklace: "@asoiaf_icon! Emerald Necklace"
  PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_septon_necklace_1: "@asoiaf_icon! Ожерелье Септона"
  PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_maester_chain_1: "@asoiaf_icon! Цепь мейстера - Уровень 1"
  PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_maester_chain_2: "@asoiaf_icon! Цепь мейстера - Уровень 2"

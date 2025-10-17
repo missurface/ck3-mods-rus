@@ -6,6 +6,13 @@
   
  setting_use_dragon_pit_mover_no_desc: "Отключает функции мода 'More Dragon Eggs'. В базовой игре аналога нет."
  setting_use_dragon_pit_mover_yes_desc: "Включает меню Dragonpit Mover от мода 'More Dragon Eggs'."
+ 
+ rule_show_dragon_portrait_on_start: "@mde_icon!@dragon_majestic_icon!Показывать Портрет Драконов"
+ setting_show_dragon_portrait_on_start_no: "Нет"
+ setting_show_dragon_portrait_on_start_yes: "Да"
+
+ setting_show_dragon_portrait_on_start_no_desc: "Портрет вашего дракона будет скрыт в начале игры. Его можно будет включить позже."
+ setting_show_dragon_portrait_on_start_yes_desc: "В начале игры портрет вашего дракона будет отображаться в левом нижнем углу экрана рядом с портретом вашего персонажа. Позже его можно будет отключить.."
   
  rule_realm_affairs_extended: "@dragon_destined_icon! Дополнительный интерфейс мода"
  setting_realm_affairs_extended_off: "Выключено"
@@ -126,14 +133,17 @@
  setting_spawn_vassarion_egg_enabled_desc: "Яйцо дракона, происходящее от Вессариона, может быть найдено путешественниками в горах Долины."
  setting_spawn_vassarion_egg_disabled_desc: "Событие Драконьих преданий в восточном Андалосе останется, но оно никогда не создаст яйцо дракона."
   
- rule_spawn_hightower_egg: "@dragon_destined_icon! More Dragon Eggs - Яйцо Хайтауэра"
+ rule_spawn_hightower_egg: "@dragon_destined_icon! More Dragon Eggs - Яйцо Хайтауэров"
+ setting_spawn_hightower_egg_secret: "Включено - Случайный"
  setting_spawn_hightower_egg_enabled: "Включено"
  setting_spawn_hightower_egg_disabled: "Отключено"
   
- setting_spawn_hightower_egg_enabled_desc: "Яйца Тессариона и Морского Дыма принадлежат владельцу Высокой Башни при старте игры."
+ setting_spawn_hightower_egg_secret_desc: "Хайтауэры начнут со скрытом артефактом, который, может оказаться яйцом Тессариона или Морского Тумана."
+ setting_spawn_hightower_egg_enabled_desc: "Яйца Тессариона и Морского Тумана принадлежат владельцу Высокой Башни при старте игры."
  setting_spawn_hightower_egg_disabled_desc: "Хайтауэры не начнут игру с Драконьими яйцами." 
   
  rule_spawn_dragonstone_eggs: "@dragon_destined_icon! More Dragon Eggs - Яйца Драконьего Камня"
+ 
  setting_spawn_dragonstone_eggs_enabled: "Включено"
  setting_spawn_dragonstone_eggs_disabled: "Отключено"
   

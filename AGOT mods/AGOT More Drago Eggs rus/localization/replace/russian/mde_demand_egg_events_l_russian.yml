@@ -43,7 +43,7 @@
  mde_demand_egg_events.0005.b.tt: "Мы обдумаем эскалацию конфликта до войны!"
   
  mde_demand_egg_events.0006.t: "Требования отклонены!"
- mde_demand_egg_events.0006.desc: "[egg_target.GetName] отказался отдать нам принадлежащее нам драконье яйцо! Они также не предложили ничего равноценного взамен. Теперь мы должны взвесить наши варианты.\n\nМы можем собрать войска и начать войну (если это позволяет закон), арестовать их (если позволяет закон), претендовать на яйцо и использовать другие методы возврата или полностью и навсегда отказаться от этого дела."
+ mde_demand_egg_events.0006.desc: "[egg_victim.GetName] отказался отдать нам принадлежащее нам драконье яйцо! Они также не предложили ничего равноценного взамен. Теперь мы должны взвесить наши варианты.\n\nМы можем собрать войска и начать войну (если это позволяет закон), арестовать их (если позволяет закон), претендовать на яйцо и использовать другие методы возврата или полностью и навсегда отказаться от этого дела."
  mde_demand_egg_events.0006.a: "[egg_target.GetNameNoTooltip] по праву наше! К оружию!"
  mde_demand_egg_events.0006.a.tt: "@warning_icon!#X Мы не можем воевать с [egg_victim.GetFullName]!#!" "@warning_icon!#X Мы не можем воевать с [egg_victim.GetFullName]!#!"
  mde_demand_egg_events.0006.b: "Их владение [egg_target.GetNameNoTooltip] незаконно!"
@@ -87,7 +87,7 @@
   
  take_prisoner_egg: "Изъять яйцо"
  take_prisoner_egg_desc: "[recipient.GetFullName] является нашим пленником и незаконно владеет драконьим яйцом. Мы можем правомерно изъять его."
- mde_transfer_prison_egg_tt: "[actor.GetNamePossessive] законно изъял [target.GetName]!"
+ mde_transfer_prison_egg_tt: "[actor.GetFullName] законно изъял [target.GetName]!"
   
  demanded_egg_interaction: "[actor.GetTitledFirstNameNoTooltip] потребовал ваш [artifact|E] [target.GetName]"
  demanded_egg_interaction.t: "Потребовал драконье яйцо!"
@@ -95,3 +95,28 @@
  agot_dragon_hatching.0401.opt.b: "Мои дети!"
  mde_include_egg: "Включить"
  mde_this_dragon_will_hatch_this: "#color_dark_gray [Artifact.Custom('mde_this_dragon_will_hatch')] #"
+
+
+ mde_decisions_events.1000.t:0 "$dragon_egg_blue$"
+ mde_decisions_events.1000.desc:0 "Many have speculated about the various curiosities that are said to be contained within the Hightower, with such rumors emanating from its ancient and mystical origins atop the greasy, black stone from which it stands. The Hightowers’ fall from grace after the Dance made the house more reclusive, invigorating these rumors, such as their possession of a dragon egg. \n\nThat rumor holds true, I find as I stare at the brilliant, cobalt blue dragon egg in front of me. I have known of the chamber that contained it for a long time, as while the final days of [tessarion.GetFirstName] have largely been a mystery to recorded history, the Hightowers have known that she laid an egg, and we have kept that secret to ourselves. \n\n But now is the moment to make it known."
+ mde_decisions_events.1000.desc_targs:0 "\n\nIf I were to reveal it, the Targaryens would almost certainly be enraged. Perhaps it would be wiser to give it to them quietly, as a gesture of goodwill, before they hear of it another way."
+ mde_decisions_events.1000.a:0 "It belongs to House [current_hightower.GetHouse.GetName], as we are the more worthy custodians."
+ mde_decisions_events.1000.b:0 "It belongs with the Blood of Old Valyria."
+
+ mde_decisions_events.1001.t:0 "$dragon_egg_blue$"
+ mde_decisions_events.1001.desc:0 "We have been informed of a most grave matter from Oldtown. The Hightowers have been hiding a dragon egg from the time of the Dance in their ancient abode. It is a blue dragon egg sired by Tessarion that they have concealed for all this time. The final days of the she-dragon have hitherto been unknown to us.\n\nHiding this great treasure from us is a treason of the highest order. Perhaps if it had been in the right hands it could’ve hatched, preventing the extinction of the dragons. Alas, it must be secured."
+ mde_decisions_events.1001.a:0 "The egg must be secured!"
+ mde_decisions_events.1001.b:0 "It is no more than a stone now, anyhow."
+
+ mde_decisions_events.1002.t:0 "$dragon_egg_blue$"
+ mde_decisions_events.1002.desc:0 "A well defended and large entourage has arrived from the city of Oldtown, carrying cargo of incalculable value. According to a sealed letter from [current_hightower.GetName], the Hightower’s have been in possession of a dragon egg since the Dance! The final days of [tessarion.GetFirstName] have long since held some mystery, but it has now been revealed that the she-dragon laid an egg! It is a brillant shade of cobalt blue. [current_hightower.GetName] now offers it to us, in hopes to make amends for concealing it for so long."
+ mde_decisions_events.1002.a:0 "At last, it has been returned to us."
+
+ mde_decisions_events.3000.t:0 "My Secret Exposed!"
+ mde_decisions_events.3000.desc.intro:0 "The Dance of the Dragons was a chaotic event, leaving many of the finer details of the war unaccounted for, such as the last days of the she-dragon Tessarion. Although it has not been a secret to our house, as we know one of the final actions of the she-dragon was to lay a brilliant, cobalt blue dragon egg.\n\n"
+ mde_decisions_events.3000.desc.self:0 "I have revealed to the world my possession of [ROOT.Char.Custom('HiddenArtifact')]."
+ mde_decisions_events.3000.desc.other:0 "[secret_exposer.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has revealed to the world that I am in possession of [ROOT.Char.Custom('HiddenArtifact')]."
+ mde_decisions_events.3000.desc.shared:0 "\n\nHouse Hightower has possessed the egg since the end of the Dance of Dragons..."
+ mde_decisions_events.3000.desc.targs:0 "\n\nThe Targaryens are not likely to take this reveal well. Perhaps it would be wiser to return it quietly, as a gesture of goodwill, before they hear of it another way."
+ mde_decisions_events.3000.a:0 "It belongs to House Hightower."
+ mde_decisions_events.3000.b:0 "I shall return it."

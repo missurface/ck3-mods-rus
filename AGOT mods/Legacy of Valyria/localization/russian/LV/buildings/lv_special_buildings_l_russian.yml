@@ -1,32 +1,32 @@
 ﻿l_russian:
    # Braavos 
- building_agot_EE_titan_of_braavos: "The Titan of Braavos" #NT!
- building_type_agot_EE_titan_of_braavos: "The Titan of Braavos" #NT!
- building_agot_EE_titan_of_braavos_desc: "Included by famed Westerosi scribe Lomas Longstrider as one of the Wonders Made by Man, the Titan of Braavos stands as the primary line of defense of the [free_city|E] of Braavos, guarding the narrow entrance into the lagoon in which the city resides. It is a massive statue of granite and bronze in the shape of a warrior, acting as both a fortress and a lighthouse. Murder holes beneath the statue's armored skirt and arrow slits all over its breastplate provide a near-impenetrable defense against enemy ships entering the lagoon." #NT!
+ building_agot_EE_titan_of_braavos: "Титан Браавоса" #NT!
+ building_type_agot_EE_titan_of_braavos: "Титан Браавоса" #NT!
+ building_agot_EE_titan_of_braavos_desc: "Включён прославленным вестеросским писцом Ломасом Дальноступом в число Чудес, созданных человеком; Титан Браавоса служит главной линией обороны [Concept('free_city', 'Вольного города')|E] Браавоса, охраняя узкий вход в лагуну, где расположен город. Это огромная статуя из гранита и бронзы в облике воина, одновременно исполняющая роль крепости и маяка. Отверстия для обстрела и обливания под бронированной «юбкой» статуи, а также узкие бойницы по всей её нагрудной броне обеспечивают почти непреодолимую оборону против вражеских кораблей, входящих в лагуну." #NT!
   
- building_agot_EE_sealords_palace: "The Sealord's Palace" #NT!
- building_type_agot_EE_sealords_palace: "The Sealord's Palace" #NT!
- building_agot_EE_sealords_palace_desc: "The Sealord’s Palace is the home of the Sealord of Braavos. Below the domes and towers of the large palace, an exotic menagerie of birds and beasts from all over the world can be found." #NT!
+ building_agot_EE_sealords_palace: "Дворец Моркого владыки" #NT!
+ building_type_agot_EE_sealords_palace: "Дворец Моркого владыки" #NT!
+ building_agot_EE_sealords_palace_desc: "Дворец Моркого владыки — резиденция Моркого владыка Браавоса. Под куполами и башнями просторного дворца можно найти экзотический зверинец с птицами и зверями со всего света." #NT!
   
    # Volantis 
- building_agot_EE_black_walls_of_old_volantis: "The Black Walls" #NT!
- building_type_agot_EE_black_walls_of_old_volantis: "The Black Walls" #NT!
- building_agot_EE_black_walls_of_old_volantis_desc: "The heart of Volantis. Built by the ancient [valyrian_freehold|E], this giant wall of fused black stone protects a series of palaces, courtyards, towers, and temples. Only those of whom their blood traces back to Valyrian ancestry, the Old Blood, are allowed to dwell within it." #NT!
- building_agot_EE_volantis_harbor: "Volantis Harbor" #NT!
- building_type_agot_EE_volantis_harbor: "Volantis Harbor" #NT!
- building_agot_EE_volantis_harbor_desc: "Volantis’ might originates partly from its large harbour, especially due to its favourable geographical location. This vast crescent-shaped location is built right on the mouth of the Rhoyne and is said to be able to contain the entirety of Braavos within it." #NT!
+ building_agot_EE_black_walls_of_old_volantis: "Чёрные стены" #NT!
+ building_type_agot_EE_black_walls_of_old_volantis: "Чёрные стены" #NT!
+ building_agot_EE_black_walls_of_old_volantis_desc: "Сердце Волантиса. Возведённые древним [Concept('valyrian_freehold', 'Валирийским Фригольдом')|E], эти гигантские стены из сплавленного чёрного камня защищают череду дворцов, башен и храмов. Жить внутри дозволено лишь тем, чья кровь восходит к валирийским родам — Старой Крови." #NT!
+ building_agot_EE_volantis_harbor: "Гавань Волантиса" #NT!
+ building_type_agot_EE_volantis_harbor: "Гавань Волантиса" #NT!
+ building_agot_EE_volantis_harbor_desc: "Мощь Волантиса отчасти берёт начало в его огромной гавани, особенно благодаря её выгодному географическому положению. Эта обширная серповидная акватория лежит прямо у устья Ройны; говорят, она могла бы вместить целый Браавос." #NT!
   
- building_agot_EE_the_long_bridge: "The Long Bridge" #NT!
- building_type_agot_EE_the_long_bridge: "The Long Bridge" #NT!
- building_agot_EE_the_long_bridge_desc: "The Long Bridge joins the two halves of Volantis together and is the longest bridge in the known world. Built by [old_valyria|E] in its prime out of fused stone, it is said to be able to support the weight of a thousand elephants." #NT!
+ building_agot_EE_the_long_bridge: "Длинный мост" #NT!
+ building_type_agot_EE_the_long_bridge: "Длинный мост" #NT!
+ building_agot_EE_the_long_bridge_desc: "Длинный мост соединяет две половины Волантиса и является самым длинным мостом в известном мире. Построенный в расцвет [Concept('old_valyria', 'Старой Валирии')|E] из сплавленного камня, он, как говорят, способен выдержать вес тысячи слонов." #NT!
   
- building_agot_EE_temple_of_the_lord_of_light: "The Temple of the Lord of Light" #NT!
- building_type_agot_EE_temple_of_the_lord_of_light: "The Temple of the Lord of Light" #NT!
- building_agot_EE_temple_of_the_lord_of_light_desc: "This enormous temple rises far above any other building in the city. Its dazzling golden, red, and orange colours make it a true sight to behold. Protected by the Fiery Hand, this temple serves R’hllor, the Lord of Light and it might be one of the biggest testaments to his might in existence." #NT!
+ building_agot_EE_temple_of_the_lord_of_light: "Храм Владыки Света" #NT!
+ building_type_agot_EE_temple_of_the_lord_of_light: "Храм Владыки Света" #NT!
+ building_agot_EE_temple_of_the_lord_of_light_desc: "Этот огромный храм возвышается над любым другим зданием города. Его ослепительные золотые, красные и оранжевые тона — поистине завораживающее зрелище. Под защитой Огненной Десницы этот храм служит Р'глору, Владыке Света, и, возможно, является одним из величайших свидетельств его могущества." #NT!
   
- building_agot_EE_volantis_walls: "The Walls of Volantis" #NT!
- building_type_agot_EE_volantis_walls: "The Walls of Volantis" #NT!
- building_agot_EE_volantis_walls_desc: "Although not as impressive as those of Old Volantis, the walls of Volantis will make any attacker think twice about storming the city." #NT!
+ building_agot_EE_volantis_walls: "Стены Волантиса" #NT!
+ building_type_agot_EE_volantis_walls: "Стены Волантиса" #NT!
+ building_agot_EE_volantis_walls_desc: "Хотя они и не столь впечатляющи, как стены Старого Волантиса, стены Волантиса заставят любого нападающего дважды подумать, прежде чем штурмовать город." #NT!
   
    # Rhoyne 
  building_agot_EE_nymeria_palace_01: "Nymeria's Palace" #NT!

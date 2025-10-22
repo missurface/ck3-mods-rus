@@ -329,13 +329,13 @@
  game_concept_story_content_aurion_varezys_99_desc: "#tooltip_heading Стиль истории: Обширный#!\n\nИграя за Ауриона Варезиса, вы сможете выбрать: переколонизировать [valyria|E] и восстановить старый порядок или же завоевать Волантис и другие сателлитные государства [old_valyria|E], чтобы создать новый [the_freehold|E]." #NT!
   
   #COB Travel Modifiers 
- cob_spared_no_expense_travel_entourage: "Не жалел средств" #NT!
- cob_spared_no_expense_travel_entourage_desc: "Вы не жалели средств на финансирование своей экспедиции" #NT!
+ cob_spared_no_expense_travel_entourage: "Не жалет средств" #NT!
+ cob_spared_no_expense_travel_entourage_desc: "Вы не жалете средств на финансирование своей экспедиции" #NT!
  cob_high_expense_travel_entourage: "Щедрое сопровождение" #NT!
- cob_high_expense_travel_entourage_desc: "Вы потратили большую сумму на финансирование своей экспедиции" #NT!
+ cob_high_expense_travel_entourage_desc: "Вы тратите большую сумму на финансирование своей экспедиции" #NT!
  cob_mid_expense_travel_entourage: "Средние траты на сопровождение" #NT!
- cob_mid_expense_travel_entourage_desc: "Вы потратили довольно большую сумму на финансирование своей экспедиции" #NT!
+ cob_mid_expense_travel_entourage_desc: "Вы тратите довольно большую сумму на финансирование своей экспедиции" #NT!
  cob_cheapskate_expense_travel_entourage: "Скромное сопровождение" #NT!
- cob_cheapskate_expense_travel_entourage_desc: "Вы потратили минимум средств на финансирование своей экспедиции" #NT!
+ cob_cheapskate_expense_travel_entourage_desc: "Вы тратите минимум средств на финансирование своей экспедиции" #NT!
  cob_zero_expense_travel_entourage: "Без сопровождения" #NT!
  cob_zero_expense_travel_entourage_desc: "Вы решили не тратить золото на сопровождение своей экспедиции" #NT!

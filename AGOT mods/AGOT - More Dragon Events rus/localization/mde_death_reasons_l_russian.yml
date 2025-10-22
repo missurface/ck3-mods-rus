@@ -1,5 +1,0 @@
-﻿l_russian:
-  
-  #deaths 
- death_mde_drowned_by: "Оставленный тонуть"
- death_mde_drowned_by_killer: "Оставленный тонуть [TARGET_CHARACTER.GetUIName]"

@@ -1,7 +1,0 @@
-version="1.1"
-tags={
-	"Translation"
-}
-name="Legacy Of The Dragon rus"
-supported_version="1.16.2.3"
-remote_file_id="3464981311"

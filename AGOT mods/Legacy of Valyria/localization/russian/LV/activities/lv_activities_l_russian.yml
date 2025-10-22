@@ -1,0 +1,70 @@
+﻿l_russian:
+   # Tournament 
+ activity_tournament_province_lv_great_arena_of_valyria_02_desc: "#P +++ $building_type_great_arena_of_valyria_02$#!\n" #NT!
+  
+   # Expedition 
+ lv_activity_expedition: "Экспедиция" #NT!
+ lv_activity_expedition_host_an_a: "—" #NT!
+ lv_activity_expedition_desc: "Отправиться за пределы известного — значит заигрывать и с удачей, и с гибелью. Экспедиции сулят открытия — будь то утраченные реликвии, скрытые в забытых руинах, или плодородные земли, ожидающие поселения.\n\nЭкспедиции возглавляет выбранный командир — будь то вы сами или доверенный агент, и их успех зависит от подготовки, мастерства и доли удачи. Что ждёт впереди — неизвестно... но так же неизвестна и награда." #NT!
+ lv_activity_expedition_host_desc: "$BULLET_WITH_TAB$Может дать [artifacts|E]\n$BULLET_WITH_TAB$Может дать [prestige_i] [prestige|E]\n$BULLET_WITH_TAB$Может дать [legitimacy_i] [legitimacy|E]" #NT!
+ lv_activity_expedition_selection_tooltip: "Спонсируйте экспедицию, чтобы отыскать утраченные сокровища или разведать земли для будущего поселения.\n\nОжидаемые награды:\n$BULLET_WITH_TAB$[prestige_i] [prestige|E]\n$BULLET_WITH_TAB$[legitimacy_i] [legitimacy|E]" #NT!
+  
+ expedition_type_valyria: "Валирия" #NT!
+ expedition_type_valyria_desc: "Валирийский полуостров — земля тайн и опасностей, где руины некогда великого Валирийского Фригольда ждут исследователей.\n\nЭта земля полна враждебных существ и коварных земель, и экспедиция должна быть хорошо подготовлена, чтобы выжить." #NT!
+ expedition_type_rhoyne: "Ройна" #NT!
+ expedition_type_rhoyne_desc: "Ройна — это могучая река, протекающая через сердце Волантиса и руины древних Ройнаров.\n\nЭкспедиции придётся преодолевать её коварные течения и избегать опасностей, скрывающихся в её глубинах." #NT!
+ expedition_type_asshai: "Асшай" #NT!
+ expedition_type_asshai_desc: "Асшай — таинственный и древний город, расположенный на берегах Земель Теней.\n\nЭкспедиции придётся пробираться по его тёмным улочкам и избегать опасностей, что таятся в его тенях." #NT!
+  
+ activity_expedition_province_desc: "Вы спланируете и профинансируете экспедицию в [ROOT.Province.GetName]\nНа результат повлияет множество факторов" #NT!
+  
+ hunt_treasure_intent: "Охота за сокровищами" #NT!
+ hunt_treasure_intent_desc: "Ищите утраченные артефакты и сокровища в руинах." #NT!
+ chart_area_intent: "Картографирование местности" #NT!
+ chart_area_intent_desc: "Составьте карту местности и определите потенциальные места для поселений." #NT!
+  
+ expedition_preparation: "Подготовка к экспедиции" #NT!
+ expedition_preparation_minimal: "Минимальные припасы" #NT!
+ expedition_preparation_minimal_desc: "Скромная экспедиция, мало снаряжения и золота. Удача благоволит смелым — или везучим." #NT!
+ expedition_preparation_standard: "Надлежащие припасы" #NT!
+ expedition_preparation_standard_desc: "Хороший запас карт, провианта и наёмных рук. Экспедиция готова к большинству грядущих испытаний." #NT!
+ expedition_preparation_heavy: "Полностью снаряжённая экспедиция" #NT!
+ expedition_preparation_heavy_desc: "Средств не пожалели — опытные проводники, укреплённые повозки и специалисты во всех ремёслах. Если успех можно купить, то именно так." #NT!
+  
+ expedition_main_phase: "Сама экспедиция" #NT!
+ expedition_main_phase_desc: "Дни сменяются неделями, пока экспедиция прокладывает путь по забытым дорогам, исследует руины и сталкивается с неизвестным. Каждый костёр и каждый далекий отзвук могут принести удачу — или беду." #NT!
+  
+ lv_apa_expedition_monument_title: "[first.GetShortUIName|U] обнаружил наполовину занесённый [second.GetCulture.GetCollectiveNoun] памятник" #NT!
+ lv_apa_expedition_chart_terrain_title: "[first.GetShortUIName|U] добился впечатляющего прогресса в картографировании местности [second.GetName]" #NT!
+ lv_apa_expedition_ruined_roads_title: "[first.GetShortUIName|U] обнаружил разрушенные дороги, что упростило и путешествие, и составление карт местности" #NT!
+ lv_apa_expedition_old_map_title: "[first.GetShortUIName|U] нашёл старую карту, совпадающую с рельефом этой местности, что помогает экспедиции" #NT!
+ lv_apa_expedition_optimal_conditions_title: "[first.GetShortUIName|U] обнаружил, что условия для экспедиции оказались оптимальными" #NT!
+  
+ lv_apa_expedition_mired_in_mud_title: "Буря превратила близлежащие дороги в грязь, задержав всю экспедицию" #NT!
+ lv_apa_expedition_missing_supplies_title: "Ночью пропала часть еды и инструментов" #NT!
+ lv_apa_expedition_heated_argument_title: "Вспыхнул спор о том, какой маршрут выбрать" #NT!
+ lv_apa_expedition_frightened_animals_title: "Что-то невидимое напугало животных [first.GetShortUINamePossessive], и они разбежались во тьму" #NT!
+  
+ lv_apa_expedition_night_shift_positive_title: "[first.GetShortUIName|U] оказался за поздней работой рядом с [second.GetShortUIName]" #NT!
+ lv_apa_expedition_night_shift_positive.tt: "[first.GetShortUIName|U] хорошо поладил с [second.GetShortUIName] во время ночной смены, делясь историями и смехом, что облегчило труд." #NT!
+ lv_apa_expedition_night_shift_positive.reason: "[CHARACTER.GetShortUIName|U] и [TARGET_CHARACTER.GetShortUIName] наслаждались обществом друг друга во время экспедиции." #NT!
+  
+ lv_apa_expedition_campfire_positive_title: "[first.GetShortUIName|U] и [second.GetShortUIName] разделили костёр" #NT!
+ lv_apa_expedition_campfire_positive.tt: "[first.GetShortUIName|U] и [second.GetShortUIName] делились историями и смеялись у костра, укрепляя свои узы во время экспедиции." #NT!
+ lv_apa_expedition_campfire_positive.reason: "[CHARACTER.GetShortUIName|U] и [TARGET_CHARACTER.GetShortUIName] разделили костёр во время экспедиции." #NT!
+  
+ lv_apa_expedition_night_shift_negative_title: "[first.GetShortUIName|U] оказался за поздней работой рядом с [second.GetShortUIName]" #NT!
+ lv_apa_expedition_night_shift_negative.tt: "[first.GetShortUIName|U] и [second.GetShortUIName] повздорили во время ночной смены, что привело к ожесточённому спору и испортило атмосферу." #NT!
+ lv_apa_expedition_night_shift_negative.reason: "[CHARACTER.GetShortUIName|U] и [TARGET_CHARACTER.GetShortUIName] повздорили во время экспедиции." #NT!
+  
+ lv_apa_expedition_foul_weather_title: "Непогода замедлила продвижение экспедиции [first.GetShortUINamePossessive]" #NT!
+  
+ lv_expedition.tt.positive.tiny: "Ваша [GetActivityType('lv_activity_expedition').GetName] делает #P небольшой прогресс#!" #NT!
+ lv_expedition.tt.negative: "Прогресс вашей [GetActivityType('lv_activity_expedition').GetName] #N отрицательный#!" #NT!
+  
+ activity_window_character_travel_expedition_leader: "Лидер экспедиции\n[Character.GetShortUINameNoTooltip|U]\n[traveling|E] в [Character.GetCurrentLocation.GetName]\n ~[Character.GetTravelPlan.GetData.GetNextDestination.GetEstimatedArrivalDate.GetStringLong|V]" #NT!
+ activity_window_character_expedition_leader: "Лидер экспедиции\n[Character.GetShortUINameNoTooltip|U]" #NT!
+  
+ TRAVEL_NAME_FOR_lv_activity_expedition: "Экспедиция [Character.GetFirstNamePossessiveNoTooltip]" #NT!
+  
+ lv_valyria_province_expedition_required: "Чтобы раскрыть тайны [HoldingView.GetProvince.GetCounty.GetTitle.GetDeJureLiege.GetNameNoTier], необходимо успешно провести экспедицию" #NT!

@@ -1,0 +1,109 @@
+﻿l_russian:
+   # Special 
+ emperor_valyrian_male: "Emperor" #NT!
+ emperor_valyrian_female: "Empress" #NT!
+ empire_valyrian: "Empire" #NT!
+  
+ county_major_city: "[city]" #NT!
+  
+   # Colonies 
+ county_colony: "Colony" #NT!
+ barony_colony: "Settlement" #NT!
+  
+   # Free Cities 
+ king_free_city_male_k_volantis: "Triarch" #NT!
+ king_free_city_female_k_volantis: "Triarch" #NT!
+  
+   # Volantene Triarchy 
+ volantene_male: "[CHARACTER.Custom('VOLANTENE_MALE')]" #NT!
+ volantene_female: "[CHARACTER.Custom('VOLANTENE_FEMALE')]" #NT!
+ volantene_male_triarch: "Triarch" #NT!
+ volantene_female_triarch: "Triarch" #NT!
+ volantene_male_freeholder: "Lord Freeholder" #NT!
+ volantene_female_freeholder: "Lady Freeholder" #NT!
+ volantene_male_fallback: "Magister" #NT!
+ volantene_female_fallback: "Magister" #NT!
+  
+   # Rhoynar 
+ king_rhoynish_male: "Prince" #NT!
+ king_rhoynish_female: "Princess" #NT!
+ emperor_rhoynish_male: "Prince" #NT!
+ emperor_rhoynish_female: "Princess" #NT!
+  
+ kingdom_rhoynish: "Principality" #NT!
+ empire_rhoynish: "Principality" #NT!
+  
+   # Oligarchy 
+ oligarchic_government: "Oligarchic" #NT!
+ oligarchic_government_with_icon: "@civilian_administration! Oligarchic Government" #NT!
+ oligarchic_government_adjective: "Oligarchic" #NT!
+ oligarchic_government_desc: "Many of the city-states of Essos further east of the Free Cities are oligarchies ruled by a handful of noble families." #NT!
+  
+ government_is_oligarchic: "[government|E] type is [GetGovernment( 'oligarchic_government' ).GetName]" #NT!
+  
+ baron_oligarchic_male: "Master" #NT!
+ baron_oligarchic_female: "Mistress" #NT!
+ count_oligarchic_male: "Master" #NT!
+ count_oligarchic_female: "Mistress" #NT!
+ duke_oligarchic_male: "Master" #NT!
+ duke_oligarchic_female: "Mistress" #NT!
+ duke_oligarchic_independent_male: "Master" #NT!
+ duke_oligarchic_independent_female: "Mistress" #NT!
+ king_oligarchic_male_spouse: "Master" #NT!
+ king_oligarchic_female_spouse: "Mistress" #NT!
+ king_oligarchic_male: "[CHARACTER.Custom('KINGDOM_OLIGARCHIC_MALE')]" #NT!
+ king_oligarchic_female: "[CHARACTER.Custom('KINGDOM_OLIGARCHIC_FEMALE')]" #NT!
+ king_oligarchic_independent_male: "[CHARACTER.Custom('KINGDOM_OLIGARCHIC_MALE')]" #NT!
+ king_oligarchic_independent_female: "[CHARACTER.Custom('KINGDOM_OLIGARCHIC_FEMALE')]" #NT!
+ king_oligarchic_male_fallback: "Master" #NT!
+ king_oligarchic_female_fallback: "Mistress" #NT!
+ emperor_oligarchic_male_spouse: "Master" #NT!
+ emperor_oligarchic_female_spouse: "Mistress" #NT!
+ emperor_oligarchic_male: "Master" #NT!
+ emperor_oligarchic_female: "Mistress" #NT!
+ emperor_oligarchic_independent_male: "Master" #NT!
+ emperor_oligarchic_independent_female: "Mistress" #NT!
+  
+ barony_oligarchic: "City" #NT!
+ county_oligarchic: "City" #NT!
+ duchy_oligarchic: "City" #NT!
+ duchy_oligarchic_independent: "City" #NT!
+ kingdom_oligarchic: "Grand City" #NT!
+ kingdom_oligarchic_independent: "Grand City" #NT!
+ empire_oligarchic: "Grand City" #NT!
+  
+   # Slaver's Bay Oligarchies 
+ king_oligarchic_male_k_meereen: "Great Master" #NT!
+ king_oligarchic_female_k_meereen: "Great Mistress" #NT!
+ king_oligarchic_male_k_yunkai: "Wise Master" #NT!
+ king_oligarchic_female_k_yunkai: "Wise Mistress" #NT!
+ king_oligarchic_male_k_astapor: "Good Master" #NT!
+ king_oligarchic_female_k_astapor: "Good Mistress" #NT!
+  
+   # Dothraki 
+ empire_dothraki: "Khalasar" #NT!
+ kingdom_dothraki: "Khalasar" #NT!
+ duchy_dothraki: "Khalasar" #NT!
+ county_dothraki: "Khalasar" #NT!
+ barony_dothraki: "Khalasar" #NT!
+  
+ khal_count_male: "Khal" #NT!
+ khal_count_female: "Khaleesi" #NT!
+ khal_duke_male: "Khal" #NT!
+ khal_duke_female: "Khaleesi" #NT!
+ khal_king_male: "Khal" #NT!
+ khal_king_female: "Khaleesi" #NT!
+ khal_emperor_male: "Khal" #NT!
+ khal_emperor_female: "Khaleesi" #NT!
+  
+   # Asshai 
+ empire_asshai: "Ancient City" #NT!
+ kingdom_asshai: "Ancient City" #NT!
+ duchy_asshai: "Ancient City" #NT!
+  
+ emperor_asshai_male: "Shadow Emperor" #NT!
+ emperor_asshai_female: "Shadow Empress" #NT!
+ king_asshai_male: "Shadow Councillor" #NT!
+ king_asshai_female: "Shadow Councillor" #NT!
+ duke_asshai_male: "Shadow Councillor" #NT!
+ duke_asshai_female: "Shadow Councillor" #NT!

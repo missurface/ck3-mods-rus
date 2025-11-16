@@ -11,6 +11,8 @@
 
  asoiaf_aegon_aemond_grudge_desc:0 "[CHARACTER.GetFirstName|U] hates and fears [TARGET_CHARACTER.GetFirstName] after [TARGET_CHARACTER.GetSheHe] tried to kill [CHARACTER.GetHerHim] during the Battle of Rook's Rest."
 
+ asoiaf_laenor_criston_grudge_desc:0 "[CHARACTER.GetFirstName|U] holds an unwavering loathing for [TARGET_CHARACTER.GetFirstName] after [TARGET_CHARACTER.GetHerHis] murder of [CHARACTER.GetFirstNamePossessive] closest friend and soulmate."
+
  asoiaf_cersei_tyrion_grudge_desc:0 "[CHARACTER.GetFirstName|U] grew to hate [TARGET_CHARACTER.GetFirstName] after their mother died giving birth to [TARGET_CHARACTER.GetHerHim]."
 
  asoiaf_cersei_high_sparrow_grudge_desc:0 "[CHARACTER.GetFirstName|U] despises [TARGET_CHARACTER.GetFirstNameNicknamed] for usurping [CHARACTER.GetHerHis] power and persecuting [CHARACTER.GetHerHis]."

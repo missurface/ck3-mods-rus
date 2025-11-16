@@ -1,0 +1,6 @@
+﻿l_russian:
+ death_self_defence: "was killed in self-defence" #NT!
+ death_self_defence_killer: "was killed in self-defence by [TARGET_CHARACTER.GetUIName]" #NT!
+  
+ death_fake_murder: "was "murdered"" #NT!
+ death_fake_murder_killer: "was "murdered" by [TARGET_CHARACTER.GetUIName]" #NT!

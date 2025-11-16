@@ -1,0 +1,155 @@
+﻿l_russian:
+  #CROWNS 
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_crown_aerys_II: "@asoiaf_icon! Crown of Aerys II" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_asoiaf_crown_aerys_II: "@asoiaf_icon! Crown of Aerys II" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_crown_robert_I: "@asoiaf_icon! Crown of Robert I" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_asoiaf_crown_robert_I: "@asoiaf_icon! Crown of Robert I" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_crown_renly: "@asoiaf_icon! Renly's Crown" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_asoiaf_crown_renly: "@asoiaf_icon! Renly's Crown" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_crown_baratheon_tyrell: "@asoiaf_icon! Baratheon-Tyrell Crown" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_asoiaf_crown_baratheon_tyrell: "@asoiaf_icon! Baratheon-Tyrell Crown" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_crown_joffrey_I: "@asoiaf_icon! Crown of the Lion and Stag" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_asoiaf_crown_joffrey_I: "@asoiaf_icon! Crown of the Lion and Stag" #NT!
+  
+  #HELMETS 
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_gold_cloak_helm: "@asoiaf_icon! Gold Cloak Helm" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_gold_cloak_helm: "@asoiaf_icon! Gold Cloak Helm" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_dragonstone_helm: "@asoiaf_icon! Dragonstone Helm" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_dragonstone_helm: "@asoiaf_icon! Dragonstone Helm" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_north_plate_helm: "@asoiaf_icon! Northern Plate Helm" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_bolton_helm_low: "@asoiaf_icon! Bolton Helm - Low" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_bolton_helm_low: "@asoiaf_icon! Bolton Helm - Low" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_lannister_plate_2_helm: "@asoiaf_icon! Lannister Officer Helm" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_lannister_plate_2_helm_open: "@asoiaf_icon! Lannister Officer Helm (Open)" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_lannister_plate_2_helm_closed: "@asoiaf_icon! Lannister Officer Helm (Closed)" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_kingsguard_helm_default: "@asoiaf_icon! Kingsguard Helm" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_nights_watch_hood: "@asoiaf_icon! Night's Watch Leather Hood" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_nights_watch_coif: "@asoiaf_icon! Night's Watch Coif" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_reach_headdress_1: "@asoiaf_icon! Reachman Headdress" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_tyrell_helm_dynast: "@asoiaf_icon! Tyrell Helm - Ornate" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_tyrell_helm_high: "@asoiaf_icon! Tyrell Helm - High" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_tyrell_helm_low: "@asoiaf_icon! Tyrell Helm - Low" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_septa_wimple: "@asoiaf_icon! Septa Wimple" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_silent_sister_hood: "@asoiaf_icon! Silent Sister Hood" #NT!
+  
+  #CHEST ARMOUR 
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_gold_cloak_armour: "@asoiaf_icon! Gold Cloak Armour" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_gold_cloak_armour: "@asoiaf_icon! Gold Cloak Armour" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_dragonstone_armour_high: "@asoiaf_icon! Dragonstone Armour - High" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_dragonstone_armour_high: "@asoiaf_icon! Dragonstone Armour - High" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_dragonstone_armour_high_rhllor: "@asoiaf_icon! Stannis' R'hllor Armour" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_dragonstone_armour_high_rhllor: "@asoiaf_icon! Stannis' R'hllor Armour" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_dragonstone_armour_low: "@asoiaf_icon! Dragonstone Armour - Low" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_dragonstone_armour_low: "@asoiaf_icon! Dragonstone Armour - Low" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_north_war_chainmail: "@asoiaf_icon! Northern Chainmail Armour" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_north_war_padding: "@asoiaf_icon! Northern Padding Armour" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_north_war_plate: "@asoiaf_icon! Northern Plate Armour" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_north_war_plate_stark: "@asoiaf_icon! Northern Plate Armour - Stark" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_bolton_armour_low: "@asoiaf_icon! Bolton Armour - Low" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_bolton_armour_low: "@asoiaf_icon! Bolton Armour - Low" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_lannister_war_plate_2: "@asoiaf_icon! Lannister Officer Armour" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_lannister_war_plate_2_sash: "@asoiaf_icon! Lannister Dynasty Head Armour" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_lannister_war_plate_2_sash_ceremonial: "@asoiaf_icon! Lannister Ceremonial Armour" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_kingsguard_armour_default: "@asoiaf_icon! Kingsguard Armour" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_stormlands_stannis_clothes_1: "@asoiaf_icon! Stannis' Surcoat & Chainmail" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_stormlands_overcoat_1_high: "@asoiaf_icon! Stormlander Overcoat & Jerkin - High" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_stormlands_overcoat_1_low: "@asoiaf_icon! Stormlander Overcoat & Jerkin - Low" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_stormlands_overcoat_1_coa: "@asoiaf_icon! Dynastic Stormlander Overcoat & Jerkin" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_westerlands_tywin_tunic_1: "@asoiaf_icon! Tywin's Black Tunic" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_lannister_tunic_1_high: "@asoiaf_icon! Lannister Tunic - High" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_lannister_tunic_1_low: "@asoiaf_icon! Lannister Tunic - Low" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_kingsguard_tunic: "@asoiaf_icon! Kingsguard Tunic" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_reach_tunic_1_high: "@asoiaf_icon! Reachman Tunic - High" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_reach_tunic_1_low: "@asoiaf_icon! Reachman Tunic - Low" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_reach_tunic_1_coa: "@asoiaf_icon! Dynastic Reachman Tunic" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_joffrey_sash: "@asoiaf_icon! Joffrey's Tunic & Sash" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_joffrey_no_clasps: "@asoiaf_icon! Joffrey's Velvet" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_joffrey_no_clasps_leather: "@asoiaf_icon! Joffrey's Leather Tunic" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_joffrey_mourning: "@asoiaf_icon! Joffrey's Mourning Tunic" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_tommen: "@asoiaf_icon! Tommen's Tunic" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_tommen_necklace: "@asoiaf_icon! Tommen's Tunic - Royal Necklace" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_necklace: "@asoiaf_icon! Crownlander Tunic - Royal Necklace" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_high_sash: "@asoiaf_icon! Crownlander Tunic & Sash - High" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_high: "@asoiaf_icon! Crownlander Tunic - High" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_low_sash: "@asoiaf_icon! Crownlander Tunic & Sash - Low" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_low: "@asoiaf_icon! Crownlander Tunic - Low" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_coa_sash: "@asoiaf_icon! Dynastic Crownlander Tunic & Sash" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_crownlands_tunic_1_coa: "@asoiaf_icon! Dynastic Crownlander Tunic" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_westeros_dress_1_high: "@asoiaf_icon! Westerosi Ringed Dress - High" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_westeros_dress_1_low: "@asoiaf_icon! Westerosi Ringed Dress - Low" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_westeros_dress_1_coa: "@asoiaf_icon! Dynastic Westerosi Ringed Dress" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_westerlands_mourning_1: "@asoiaf_icon! Westerlander Mourning Dress" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_reach_gown_1: "@asoiaf_icon! Reachman Gown" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_handmaiden_dress_1: "@asoiaf_icon! Handmaiden Dress" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_handmaiden_dress_2: "@asoiaf_icon! Reachman Handmaiden Dress" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_tyrell_armour_dynast: "@asoiaf_icon! Tyrell Armour - Ornate" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_tyrell_armour_high: "@asoiaf_icon! Tyrell Armour - High" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_greyjoy_armour_dynast: "@asoiaf_icon! Greyjoy Armour - Ornate" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_greyjoy_armour_high: "@asoiaf_icon! Greyjoy Armour - High" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_ironborn_armour_dynast_coa: "@asoiaf_icon! Dynastic Ironborn Armour - Ornate" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_ironborn_armour_high_coa: "@asoiaf_icon! Dynastic Ironborn Armour - High" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_vale_baelish_tunic_1: "@asoiaf_icon! Baelish Tunic" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_vale_baelish_tunic_1_sigil: "@asoiaf_icon! Baelish Tunic - Mockingbird" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_nights_watch_leather: "@asoiaf_icon! Night's Watch Leathers" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_maester_robes_black: "@asoiaf_icon! Maester Robes - Black" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_maester_robes_tan: "@asoiaf_icon! Maester Robes - Tan" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_maester_robes_brown: "@asoiaf_icon! Maester Robes - Brown" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_maester_robes_pale_blue: "@asoiaf_icon! Maester Robes - Pale Blue" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_maester_robes_pale_green: "@asoiaf_icon! Maester Robes - Pale Green" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_maester_robes_grey: "@asoiaf_icon! Maester Robes - Grey" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_septon_robes_1: "@asoiaf_icon! Septon Robes - Humble" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_septon_robes_2: "@asoiaf_icon! Septon Robes" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_drowned_man_robes_low: "@asoiaf_icon! Drowned Man Robes - Low" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_drowned_man_robes_high: "@asoiaf_icon! Drowned Man Robes - High" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_septa_robes: "@asoiaf_icon! Septa Robes" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_silent_sister_robes: "@asoiaf_icon! Silent Sister Robes" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_stepstones_pirate_prince_tunic: "@asoiaf_icon! Pirate Prince Tunic" #NT!
+  
+  #CLOAKS 
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_asoiaf_gold_cloak_cloak: "@asoiaf_icon! Gold Cloak Cloak" #NT!
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloak_asoiaf_gold_cloak_cloak: "@asoiaf_icon! Gold Cloak Cloak" #NT!
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_secular_asoiaf_lannister_war_plate_2_cloak: "@asoiaf_icon! Lannister Officer Cloak" #NT!
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_secular_asoiaf_kingsguard_default_cloak: "@asoiaf_icon! Kingsguard Cloak" #NT!
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_asoiaf_stormlands_stannis_cloak_1: "@asoiaf_icon! Stannis' Cloak" #NT!
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloak_asoiaf_stormlands_stannis_cloak_1: "@asoiaf_icon! Stannis' Cloak" #NT!
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_asoiaf_nights_watch_cloak_1: "@asoiaf_icon! Night's Watch Cloak" #NT!
+ PORTRAIT_MODIFIER_custom_cloaks_female_cloak_asoiaf_nights_watch_cloak_1: "@asoiaf_icon! Night's Watch Cloak" #NT!
+  
+  #LEGWEAR 
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_gold_cloak_legs: "@asoiaf_icon! Gold Cloak Legwear" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_gold_cloak_legs: "@asoiaf_icon! Gold Cloak Legwear" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_asoiaf_kingsguard_default_legs: "@asoiaf_icon! Riding Boots" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_kingsguard_legs_1: "@asoiaf_icon! Kingsguard Boots 1" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_kingsguard_legs_2: "@asoiaf_icon! Kingsguard Boots 2" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_asoiaf_north_war_plate_legs: "@asoiaf_icon! Northern Plate Legwear" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_bolton_legs: "@asoiaf_icon! Bolton Legwear" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_bolton_legs: "@asoiaf_icon! Bolton Legwear" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_asoiaf_lannister_war_plate_2_legs: "@asoiaf_icon! Lannister Officer Boots" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_tyrell_legs: "@asoiaf_icon! Tyrell Legwear" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_greyjoy_legs: "@asoiaf_icon! Greyjoy Legwear" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_ironborn_legs_coa: "@asoiaf_icon! Dynastic Ironborn Legwear" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_nights_watch_legs: "@asoiaf_icon! Night's Watch Legwear" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_dragonstone_legs: "@asoiaf_icon! Dragonstone Legwear" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_dragonstone_legs: "@asoiaf_icon! Dragonstone Legwear" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_slippers_1: "@asoiaf_icon! Slippers" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_leather_boots_1: "@asoiaf_icon! Brown Leather Boots" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_leather_boots_2: "@asoiaf_icon! High Black Leather Boots" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_leather_boots_3: "@asoiaf_icon! Short Brown Leather Boots" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_leather_boots_4: "@asoiaf_icon! Dark Brown Leather Boots" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_leather_boots_5: "@asoiaf_icon! Laced Black Leather Boots" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_leather_boots_6: "@asoiaf_icon! Leather Boots With Side Buckles" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_leather_boots_1: "@asoiaf_icon! Short Leather Boots" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_shoes_1: "@asoiaf_icon! Black Shoes" #NT!
+  
+  #JEWELLERY 
+ PORTRAIT_MODIFIER_custom_jewelry_female_jewellery_asoiaf_lion_necklace_gold: "@asoiaf_icon! Lion Necklace - Gold" #NT!
+ PORTRAIT_MODIFIER_custom_jewelry_female_jewellery_asoiaf_lion_necklace_silver: "@asoiaf_icon! Lion Necklace - Silver" #NT!
+ PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_shark_tooth_necklace: "@asoiaf_icon! Shark Tooth Necklace" #NT!
+ PORTRAIT_MODIFIER_custom_jewelry_female_jewellery_asoiaf_shark_tooth_necklace: "@asoiaf_icon! Shark Tooth Necklace" #NT!
+ PORTRAIT_MODIFIER_custom_jewelry_female_jewellery_asoiaf_emerald_necklace: "@asoiaf_icon! Emerald Necklace" #NT!
+ PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_septon_necklace_1: "@asoiaf_icon! Septon Necklace" #NT!
+ PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_maester_chain_1: "@asoiaf_icon! Maester Chain - Tier 1" #NT!
+ PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_maester_chain_2: "@asoiaf_icon! Maester Chain - Tier 2" #NT!
+ PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_maester_chain_3: "@asoiaf_icon! Maester Chain - Tier 3" #NT!
+ PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_maester_chain_4: "@asoiaf_icon! Maester Chain - Tier 4" #NT!
+ PORTRAIT_MODIFIER_custom_jewelry_male_jewellery_asoiaf_maester_chain_5: "@asoiaf_icon! Maester Chain - Grandmaester" #NT!

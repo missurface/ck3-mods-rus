@@ -1,0 +1,18 @@
+﻿l_russian:
+ nick_the_late_prefix: "The Late" #NT!
+ nick_bastard_prefix: "Bastard" #NT!
+ nick_the_old_man: "the Old Man" #NT!
+ nick_fat_prefix: "Fat" #NT!
+ nick_the_heir_for_a_day: "the Heir for a Day" #NT!
+ nick_the_heir_for_a_day_desc: "[CHARACTER.GetFirstNameNoTooltip] lived only for a few hours, thereafter callously dubbed 'the Heir for a Day' by his uncle Daemon." #NT!
+ nick_homeless_prefix: "Homeless" #NT!
+ nick_red_prefix: "Red" #NT!
+ nick_the_anvil: "the Anvil" #NT!
+ nick_the_black_queen: "the Black Queen" #NT!
+ nick_the_black_queen_desc: "[CHARACTER.GetFirstNamePossessiveNoTooltip] slaughter of [CHARACTER.GetHerHis] brothers has forever stained [CHARACTER.GetHerHis] reputation." #NT!
+ nick_the_iron_one: "the Iron One" #NT!
+  
+ nick_the_feral: "the Feral" #NT!
+ nick_the_imp: "the Imp" #NT!
+ nick_ironrod: "Ironrod" #NT!
+ nick_ironrod_desc: "Known for an unbending attitude in matters of law, many say [CHARACTER.GetFirstNameNoTooltip] more than earned [CHARACTER.GetHerHis] sobriquet, while others claim it's from the stiffness of [CHARACTER.GetHerHis] member, having sired over two dozen children." #NT!

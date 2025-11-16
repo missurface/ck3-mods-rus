@@ -1,0 +1,21 @@
+﻿l_russian:
+  #Descs 
+ asoiaf_kingsguard_dismissal_memory: "Dismissed from the Kingsguard" #NT!
+ asoiaf_kingsguard_dismissal_memory_desc: "I was forcibly dismissed from [king.GetTitledFirstNamePossessive] Kingsguard" #NT!
+ asoiaf_kingsguard_dismissal_memory_desc_second_perspective_1: "You were forcibly dismissed from [king.GetTitledFirstNamePossessive] Kingsguard" #NT!
+ asoiaf_kingsguard_dismissal_memory_desc_third_perspective_1: "[recipient.GetName] was forcibly dismissed from [king.GetTitledFirstNamePossessive] Kingsguard" #NT!
+  
+ asoiaf_Targaryen_8_traits_change_memory: "Overcome by Pressure" #NT!
+ asoiaf_Targaryen_8_traits_change_memory_desc: "Burdened by intense pressures, my personality took a turn for the worse" #NT!
+ asoiaf_Targaryen_8_traits_change_memory_desc_second_perspective_1: "Burdened by intense pressures, your personality took a turn for the worse" #NT!
+ asoiaf_Targaryen_8_traits_change_memory_desc_third_perspective_1: "Burdened by intense pressures, [asoiaf_Targaryen_8.GetNamePossessive] personality took a turn for the worse" #NT!
+  
+ asoiaf_Targaryen_9_traits_change_memory: "Forged in Fire" #NT!
+ asoiaf_Targaryen_9_traits_change_memory_desc: "My marriage helped me become a stronger person" #NT!
+ asoiaf_Targaryen_9_traits_change_memory_desc_second_perspective_1: "Your marriage helped you become a stronger person" #NT!
+ asoiaf_Targaryen_9_traits_change_memory_desc_third_perspective_1: "[asoiaf_Targaryen_9.GetNamePossessive] marriage helped [asoiaf_Targaryen_9.HerHim] become a stronger person" #NT!
+  
+ asoiaf_mance_rayder_desertion_memory: "Deserted & Crowned" #NT!
+ asoiaf_mance_rayder_desertion_memory_desc: "I deserted from the Night's Watch and declared myself King-Beyond-the-Wall" #NT!
+ asoiaf_mance_rayder_desertion_memory_desc_second_perspective_1: "You deserted from the Night's Watch and declared yourself King-Beyond-the-Wall" #NT!
+ asoiaf_mance_rayder_desertion_memory_desc_third_perspective_1: "Mance Rayder deserted from the Night's Watch and declared himself King-Beyond-the-Wall" #NT!

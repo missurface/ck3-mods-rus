@@ -1,0 +1,4 @@
+﻿l_russian:
+   #TARGARYEN LEGENDS 
+ legend_aegon_I_targaryen: "Legacy of the Conqueror" #NT!
+ legend_aegon_I_targaryen_desc: "[ancestor.GetShortUIName], known as #italic [ancestor.GetNickname]#!, was the first king of House [ancestor.GetHouse.GetNameNoTooltip] and the founder of the [title.GetNameNoTooltip]." #NT!

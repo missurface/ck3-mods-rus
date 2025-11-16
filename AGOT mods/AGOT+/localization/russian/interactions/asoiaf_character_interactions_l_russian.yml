@@ -1,0 +1,23 @@
+﻿l_russian:
+ asoiaf_tell_jons_secret_interaction: "Tell Jon's Secret" #NT!
+  
+ asoiaf_told_jons_secret_desc: "Told Jon's Secret" #NT!
+ asoiaf_told_jons_secret_tt: "Told [recipient.GetFirstName] about Jon's secret parentage" #NT!
+ asoiaf_learned_jons_secret_desc: "Learned Jon's Secret" #NT!
+ asoiaf_learned_jons_secret_tt: "Learned about Jon Snow's secret parentage from [actor.GetName]" #NT!
+  
+ asoiaf_designate_heir_interaction: "Unlawfully Designate Heir" #NT!
+ asoiaf_designate_heir_interaction_desc: "Choose [recipient.GetShortUINameNoTooltip] as your [designated_heir|E] despite your low [crown_authority|E]\n@warning_icon! #X This is an act of [tyranny|E], causing your subjects to lose [opinion|E] of you#!" #NT!
+  
+ asoiaf_dismiss_kingsguard_interaction: "Dismiss Kingsguard" #NT!
+ asoiaf_dismiss_kingsguard_interaction_desc: "Forcibly dismiss Ser [recipient.GetFirstNameNoTooltip] from the [kingsguard|E]\n@warning_icon! #X This is an act of [tyranny|E], causing your subjects/peer vassals to lose [opinion|E] of you#!" #NT!
+ asoiaf_is_in_entrenched_regency: "You are in an entrenched [regency|E]" #NT!
+ asoiaf_recipient_is_lord_commander_of_the_kingsguard: "[recipient.GetShortUINameNoTooltip] is Lord Commander of the [kingsguard|E]" #NT!
+ asoiaf_kingsguard_dismissal_notification: "Forced Kingsguard Dismissal" #NT!
+ asoiaf_kingsguard_dismissal_notification_desc: "[asoiaf_dismissing_monarch.GetTitledFirstNameNoTooltip] forcibly dismissed Ser [recipient.GetFirstNameNoTooltip] from the Kingsguard" #NT!
+  
+ asoiaf_force_spouse_heir_designation_interaction: "Force Spouse to Declare You Heir" #NT!
+ asoiaf_force_spouse_heir_designation_interaction_desc: "Force [recipient.GetShortUINameNoTooltip] to declare you [recipient.GetHerHis] [designated_heir|E]\n@warning_icon! #X This is an abuse of power, and will cause [strife|E] with your peer [vassals|E]#!" #NT!
+ asoiaf_is_sadistic_or_torturer: "You do #bold not#! have the #V Sadistic#! or #V Torturer#! trait" #NT!
+ asoiaf_spouse_is_in_dungeon: "[recipient.GetShortUINameNoTooltip] is #bold not#! in prison type: #V Dungeon#!" #NT!
+ asoiaf_spouse_has_been_tortured: "[recipient.GetShortUINamePossessiveNoTooltip] will has #bold not#! been broken through #V torture#!" #NT!

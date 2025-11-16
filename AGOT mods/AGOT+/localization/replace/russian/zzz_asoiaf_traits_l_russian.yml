@@ -1,0 +1,9 @@
+﻿l_russian:
+ trait_knight_desc: "This character was knighted, swearing to be courageous, just, and to protect the innocent, no matter how dangerous it may be." #NT!
+ trait_knight_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] was knighted, swearing to be courageous, just, and to protect the innocent, no matter how dangerous it may be." #NT!
+ trait_knight_unique_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] was knighted, swearing to be courageous, just, and to protect the innocent, no matter how dangerous it may be." #NT!
+  
+ trait_honorable: "Honourable" #NT!
+  
+ trait_ruthless_desc: "Whether they be good or bad, this character will use any means necessary to achieve their ends." #NT!
+ trait_ruthless_character_desc: "Whether they be good or bad, [ROOT.GetCharacter.GetFirstNameNoTooltip] will use any means necessary to achieve [ROOT.GetCharacter.GetHerHis] ends." #NT!

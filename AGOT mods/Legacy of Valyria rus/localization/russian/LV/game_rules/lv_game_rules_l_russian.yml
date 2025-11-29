@@ -9,18 +9,72 @@
  #setting_lv_valyria_blank_slate: "Blank Slate" #NT!
  #setting_lv_valyria_blank_slate_desc: "Valyrian provinces start off as ruins, but otherwise have none of the deadly modifiers." #NT!
   
- rule_lv_colonisation: "#Y $lv_prefix$#! Восстановление руин" #NT!
- setting_lv_colonisation_default: "По умолчанию" #NT!
- setting_lv_colonisation_default_desc: "Руины по всему миру будут использовать систему восстановления руин из Наследия Валирии." #NT!
- setting_lv_colonisation_lite: "Облегченный" #NT!
- setting_lv_colonisation_lite_desc: "Руины по всему миру будут использовать упрощенную версию системы восстановления руин из Наследия Валирии — с владениями-колониями, но практически без блокировщиков." #NT!
- setting_lv_colonisation_agot: "AGOT" #NT!
- setting_lv_colonisation_agot_desc: "Руины по всему миру будут использовать систему колонизации из AGOT — без блокировщиков и с владениями-колониями." #NT!
+ rule_lv_colonisation: "#Y $lv_prefix$#! Колонизация и восстановление руин"
+ setting_lv_colonisation_default: "По умолчанию"
+ setting_lv_colonisation_default_desc: "Руины по всему миру будут использовать систему восстановления руин мода Legacy of Valyria."
+ setting_lv_colonisation_lite: "Упрощённый режим"
+ setting_lv_colonisation_lite_desc: "Руины по всему миру будут использовать упрощённую версию системы восстановления руин Legacy of Valyria с колониальными владениями и почти без препятствий."
+ setting_lv_colonisation_agot: "AGOT"
+ setting_lv_colonisation_agot_desc: "Руины по всему миру будут использовать систему колонизации AGOT, без препятствий, но с колониальными владениями."
+ setting_lv_colonisation_instant: "Мгновенно"
+ setting_lv_colonisation_instant_desc: "Восстановление руин и развитие поселений происходит мгновенно."
   
- rule_lv_green_valyria: "#Y $lv_prefix$#! Зеленая Валирия" #NT!
- setting_lv_green_valyria_gradual: "Постепенно" #NT!
- setting_lv_green_valyria_gradual_desc: "Валирия будет постепенно зеленеть с течением времени, и процесс ускорится по мере восстановления подобластей." #NT!
- setting_lv_green_valyria_instant: "Мгновенно" #NT!
- setting_lv_green_valyria_instant_desc: "Валирия станет зеленее, как только будут достигнуты пороговые значения для подобластей." #NT!
- setting_lv_green_valyria_disabled: "Отключено" #NT!
- setting_lv_green_valyria_disabled_desc: "Валирия останется выжженной пустошью, независимо от степени её восстановления." #NT!
+ #rule_lv_green_valyria: "#Y $lv_prefix$#! Зеленая Валирия" #NT!
+ #setting_lv_green_valyria_gradual: "Постепенно" #NT!
+ #setting_lv_green_valyria_gradual_desc: "Валирия будет постепенно зеленеть с течением времени, и процесс ускорится по мере восстановления подобластей." #NT!
+ #setting_lv_green_valyria_instant: "Мгновенно" #NT!
+ #setting_lv_green_valyria_instant_desc: "Валирия станет зеленее, как только будут достигнуты пороговые значения для подобластей." #NT!
+ #setting_lv_green_valyria_disabled: "Отключено" #NT!
+ #setting_lv_green_valyria_disabled_desc: "Валирия останется выжженной пустошью, независимо от степени её восстановления." #NT!
+ 
+ rule_lv_rehabilitate_valyria_duration: "#Y $lv_prefix$#! Срок восстановления Валирии"
+ setting_lv_rehabilitate_valyria_duration_instant: "Мгновенно"
+ setting_lv_rehabilitate_valyria_duration_instant_desc: "Проекты по восстановлению Валирии завершаются мгновенно."
+ setting_lv_rehabilitate_valyria_duration_short: "Короткий срок"
+ setting_lv_rehabilitate_valyria_duration_short_desc: "Проекты по восстановлению Валирии занимают 5 лет."
+ setting_lv_rehabilitate_valyria_duration_normal: "Обычный срок"
+ setting_lv_rehabilitate_valyria_duration_normal_desc: "Проекты по восстановлению Валирии занимают 25 лет."
+ setting_lv_rehabilitate_valyria_duration_long: "Долгий срок"
+ setting_lv_rehabilitate_valyria_duration_long_desc: "Проекты по восстановлению Валирии занимают 75 лет."
+
+ rule_lv_map_expansion_rhoyne: "#Y $lv_prefix$#! Расширение Ройна"
+ setting_lv_map_expansion_rhoyne_enabled: "Включено"
+ setting_lv_map_expansion_rhoyne_enabled_desc: "Ройн доступен для взаимодействия."
+ setting_lv_map_expansion_rhoyne_disabled: "Отключено"
+ setting_lv_map_expansion_rhoyne_disabled_desc: "Ройн недоступен для взаимодействия."
+
+ rule_lv_map_expansion_volantis: "#Y $lv_prefix$#! Расширение Валантиса"
+ setting_lv_map_expansion_volantis_enabled: "Включено"
+ setting_lv_map_expansion_volantis_enabled_desc: "Земли вокруг Валантиса доступны для взаимодействия."
+ setting_lv_map_expansion_volantis_disabled: "Отключено"
+ setting_lv_map_expansion_volantis_disabled_desc: "Земли вокруг Валантиса недоступны для взаимодействия."
+
+ rule_lv_map_expansion_valyria: "#Y $lv_prefix$#! Расширение Валирии"
+ setting_lv_map_expansion_valyria_enabled: "Включено"
+ setting_lv_map_expansion_valyria_enabled_desc: "Земли Валирии доступны для взаимодействия."
+ setting_lv_map_expansion_valyria_disabled: "Отключено"
+ setting_lv_map_expansion_valyria_disabled_desc: "Земли Валирии недоступны для взаимодействия."
+
+ rule_lv_map_expansion_north_valyria: "#Y $lv_prefix$#! Расширение Северной Валирии"
+ setting_lv_map_expansion_north_valyria_enabled: "Включено"
+ setting_lv_map_expansion_north_valyria_enabled_desc: "Северные земли Валирии доступны для взаимодействия."
+ setting_lv_map_expansion_north_valyria_disabled: "Отключено"
+ setting_lv_map_expansion_north_valyria_disabled_desc: "Северные земли Валирии недоступны для взаимодействия."
+
+ rule_lv_map_expansion_ghiscar: "#Y $lv_prefix$#! Расширение Гискара"
+ setting_lv_map_expansion_ghiscar_enabled: "Включено"
+ setting_lv_map_expansion_ghiscar_enabled_desc: "Земли Гискара доступны для взаимодействия."
+ setting_lv_map_expansion_ghiscar_disabled: "Отключено"
+ setting_lv_map_expansion_ghiscar_disabled_desc: "Земли Гискара недоступны для взаимодействия."
+
+ rule_lv_map_expansion_far_east_essos: "#Y $lv_prefix$#! Расширение дальнего востока Эссоса"
+ setting_lv_map_expansion_far_east_essos_enabled: "Включено"
+ setting_lv_map_expansion_far_east_essos_enabled_desc: "Ашай и дальние восточные земли Эссоса доступны для взаимодействия."
+ setting_lv_map_expansion_far_east_essos_disabled: "Отключено"
+ setting_lv_map_expansion_far_east_essos_disabled_desc: "Ашай и дальние восточные земли Эссоса недоступны для взаимодействия."
+
+ rule_lv_map_expansion_sothoryos: "#Y $lv_prefix$#! Расширение Соториоса"
+ setting_lv_map_expansion_sothoryos_enabled: "Включено"
+ setting_lv_map_expansion_sothoryos_enabled_desc: "Земли Соториоса доступны для взаимодействия."
+ setting_lv_map_expansion_sothoryos_disabled: "Отключено"
+ setting_lv_map_expansion_sothoryos_disabled_desc: "Земли Соториоса недоступны для взаимодействия."

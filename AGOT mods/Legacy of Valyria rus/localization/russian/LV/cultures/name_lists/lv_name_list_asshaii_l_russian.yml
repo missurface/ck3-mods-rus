@@ -79,7 +79,7 @@
  Amaya: "Амая"
  #Anu: "Ану"
  # Ata: "Ата"
- Aya: "Ая"
+ # Aya: "Ая" - Already in vanilla
  Barsena: "Барсена"
  Berrata: "Беррата"
  Daqqartum: "Даqqартум"
@@ -141,3 +141,9 @@
  mercenary_company_bearers_of_darkness: "Носители Тьмы"
  mercenary_company_of_the_ghosts: "Компания Призраков"
  mercenary_company_withered_men: "Изможденные Люди"
+
+  # Shadowmen
+  Ulasil: "Уласил"
+  Laumdur: "Лаумдур"
+  Dasqqus: "Дасккус"
+  Nashandra: "Нашандра"

@@ -1,5 +1,13 @@
 ﻿l_russian:
    # Special 
+ hegemon_valyrian_male: "[CHARACTER.Custom('HEGEMONY_VALYRIA_MALE')]"
+ hegemon_valyrian_female: "[CHARACTER.Custom('HEGEMONY_VALYRIA_FEMALE')]"
+
+ hegemon_valyria_male_imperial: "Император"
+ hegemon_valyria_female_imperial: "Императрица"
+ hegemon_valyria_male_fallback: "Верховный архонт"
+ hegemon_valyria_female_fallback: "Верховная архонтесса"
+
  emperor_valyrian_male: "Император"
  emperor_valyrian_female: "Императрица"
  empire_valyrian: "Империя"

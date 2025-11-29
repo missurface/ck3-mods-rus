@@ -1,0 +1,42 @@
+﻿l_russian:
+ great_project_type_lv_rehabilitate_valyria: "Восстановление Валирии"
+ great_project_type_lv_rehabilitate_valyria_desc: "Валирия, некогда огненное сердце мира, теперь всего лишь проклятая и отравленная земля. Четырнадцать Огней всё ещё горят, а сам воздух насыщен пеплом и ядовитыми испарениями. И всё же основы былого величия Валирии остаются, погребённые под руинами и запустением, оставленными Роком. Восстановление этих земель почти невозможно, но при титанических усилиях и непреклонной решимости, быть может, однажды Валирия снова поднимется из пепла."
+
+ great_project_type_lv_rehabilitate_valyria_region_is_rehabilitated_fallback: "Земли выбранного [Concept('region', 'региона')|E] в [Concept('valyria', 'Валирии')|E] будут восстановлены"
+ great_project_type_lv_rehabilitate_valyria_region_is_rehabilitated: "Земли [Concept('region', 'региона')|E] [sub_region.GetName] будут восстановлены"
+ great_project_type_lv_rehabilitate_valyria_region_is_rehabilitated_stop_danger: "Путешествия по этому [Concept('region', 'региону')|E] больше не будут представлять серьёзной опасности ни из-за отголосков Рока, ни из-за чудовищ вроде огнезмеев."
+
+ LV_REHABILITATE_VALYRIA_MUST_BE_COUNTY_CAPITAL: "Работы по восстановлению должны вестись в столичном баронстве графства этого герцогства."
+ LV_REHABILITATE_VALYRIA_CAN_PLAN_IN_LOCATION: "В пределах этого герцогства не должно вестись других великих проектов по восстановлению Валирии."
+ LV_REHABILITATE_VALYRIA_MUST_OWN_SUBREGION: "Вы или ваш [liege|E] должны полностью контролировать как минимум один пригодный к восстановлению [region|E] размера герцогства в [Concept('valyria', 'Валирии')|E], чтобы спланировать работы по восстановлению."
+ LV_REHABILITATE_VALYRIA_CAN_START_PLANNING: "В [Concept('valyria', 'Валирии')|E] есть подходящие регионы для восстановления, в которых сейчас не ведутся восстановительные работы."
+
+ great_project_type_lv_rehabilitate_valyria_contribution_discount_tooltip: "Благодаря вашим прежним усилиям и прошлым успехам по восстановлению Валирии, затраты вклада в этот проект снижены."
+
+ great_project_type_lv_rehabilitate_valyria_contribution_master_engineer: "Валирийские специалисты-инженеры"
+ great_project_type_lv_rehabilitate_valyria_contribution_surveying_equipment_and_personnel: "Геодезическое снаряжение и персонал"
+ great_project_type_lv_rehabilitate_valyria_contribution_volcanic_sealing_projects: "Проекты по запечатыванию вулканов"
+ great_project_type_lv_rehabilitate_valyria_contribution_containment_barriers: "Сдерживающие барьеры"
+ great_project_type_lv_rehabilitate_valyria_contribution_topsoil_replenishment: "Восстановление плодородного слоя"
+ great_project_type_lv_rehabilitate_valyria_contribution_erosion_control: "Контроль эрозии"
+ great_project_type_lv_rehabilitate_valyria_contribution_toxic_soil_remediation: "Очистка отравленных почв"
+ great_project_type_lv_rehabilitate_valyria_contribution_cleansing_ashen_wells: "Очищение пепельных колодцев"
+ great_project_type_lv_rehabilitate_valyria_contribution_valyrian_arboriculture: "Валирийское лесоразведение"
+
+ great_project_type_lv_rehabilitate_valyria_contribution_valyrian_steel_tools: "Инструменты для раскопок из валирийской стали"
+ great_project_type_lv_rehabilitate_valyria_contribution_specialized_transport_wagons: "Специализированные транспортные повозки"
+ great_project_type_lv_rehabilitate_valyria_contribution_advanced_logistics: "Продвинутая логистика"
+ great_project_type_lv_rehabilitate_valyria_contribution_foundation_reinforcement: "Укрепление фундаментов"
+ great_project_type_lv_rehabilitate_valyria_contribution_food_stores: "Запасы провизии"
+  
+ great_project_type_lv_rehabilitate_valyria_contribution_provincial_camps: "Полевые лагеря в провинциях"
+ great_project_type_lv_rehabilitate_valyria_contribution_doom_driven_workforce: "Рабочая сила, гонимая Роком"
+ great_project_type_lv_rehabilitate_valyria_contribution_local_security_forces: "Местные силы охраны"
+
+ great_project_type_lv_rehabilitate_valyria_contribution_minimal_artifact_surveys: "Минимальные поиски артефактов"
+ great_project_type_lv_rehabilitate_valyria_contribution_minimal_artifact_surveys_tooltip: "Низкий шанс обнаружить валирийские артефакты, такие как валирийская сталь или даже драконьи яйца, по завершении проекта."
+ great_project_type_lv_rehabilitate_valyria_contribution_extensive_artifact_surveys: "Расширенные поиски артефактов"
+ great_project_type_lv_rehabilitate_valyria_contribution_extensive_artifact_surveys_tooltip: "Может привести к обнаружению валирийских артефактов, таких как валирийская сталь или даже драконьи яйца, по завершении проекта."
+
+ minimal_artifact_surveys_costs_refunded_title: "Стоимость вклада возвращена"
+ minimal_artifact_surveys_costs_refunded_desc: "Ваш вклад в $great_project_type_lv_rehabilitate_valyria_contribution_minimal_artifact_surveys$ проекта по восстановлению [province.GetName] был возвращён, так как профинансирован $great_project_type_lv_rehabilitate_valyria_contribution_extensive_artifact_surveys$."

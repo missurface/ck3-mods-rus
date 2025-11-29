@@ -1,6 +1,15 @@
 ﻿l_russian:
    # Decision group 
  decision_group_type_valyria: "Решения Валирии"
+ 
+ lv_restore_valyrian_freehold_decision: "Восстановить Валирийский Фригольд"
+ lv_restore_valyrian_freehold_decision_desc: "В своём расцвете Валирийский Фригольд стоял непревзойдённым, будучи величайшей и господствующей цивилизацией своего времени, более всего известной своей способностью подчинять бесчисленных драконов во имя своих владык в годы войны. Настолько великой была эта военная и культурная мощь, что лишь катаклизм, известный как Рок Валирии, смог положить конец его пятитысячелетнему владычеству над Эссосом. Всё, что осталось от этой великой цивилизации, — дымящиеся шпили великих драконьих владык и мрачные, покрытые пеплом земли, частично пожранные Дымным морем.\n\nЕсли сердцевина Валирии вместе со значительной частью её прежних владений будет возвращена, никто не сможет оспорить мои права и власть как истинного и законного правителя Валирийского Фригольда."
+ lv_restore_valyrian_freehold_decision_tooltip: "[GetTitleByKey('h_valyrian_freehold').GetName] будет восстановлён."
+ lv_restore_valyrian_freehold_decision_confirm: "Наш час настал"
+ lv_restore_valyrian_freehold_decision_effect_tooltip: "[GetTitleByKey('h_valyrian_freehold').GetName] будет восстановлён и получит [Concept('de_jure', 'де-юре права')|E] на все удерживаемые сейчас [empires|E] в Эссосе."
+
+ lv_restore_valyrian_freehold_valyria_requirement_tooltip: "Вы должны [Concept('completely_control', 'полностью контролировать')|E] Валирийский полуостров."
+ lv_restore_valyrian_freehold_former_colonies_requirement_tooltip: "Вы должны [Concept('completely_control', 'полностью контролировать')|E] как минимум три владения уровня [Concept('empire', 'империи')|E], которые ранее были колониями Валирийского Фригольда."
   
  decision_study_dragonlore.t: "Изучить Драконьи Легенды"
  decision_study_dragonlore_desc: "Прочитайте старинный том о драконьих легендах, который был найден в Древней Валирии."

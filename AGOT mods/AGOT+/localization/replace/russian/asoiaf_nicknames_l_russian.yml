@@ -1,32 +1,32 @@
 ﻿l_russian:
- nick_the_prince_who_thought_he_was_a_dragon: "the Prince Who Thought He Was a Dragon" #NT!
- nick_bronze_bitch: "the Bronze Bitch" #NT!
- nick_of_the_black_hood: "of the Black Hood" #NT!
- nick_the_sword_of_the_morning: "the Sword of the Morning" #NT!
- nick_white_mask: "White-Mask" #NT!
- nick_black_pearl: "the Black Pearl" #NT!
- nick_bronze_axe: "Bronze-Axe" #NT!
- nick_grey_eyes: "Grey-Eyes" #NT!
- nick_kin_killer: "Kin-Killer" #NT!
- nick_knight_of_the_moon: "Knight of the Moon" #NT!
- nick_knight_of_the_pantry: "the Knight of the Pantry" #NT!
- nick_lord_of_battles: "Lord of Battles" #NT!
- nick_of_the_bloody_blade: "of the Bloody Blade" #NT!
- nick_of_the_golden_bowl: "of the Golden Bowl" #NT!
- nick_of_the_high_tower: "of the High Tower" #NT!
- nick_of_the_horn: "of the Horn" #NT!
- nick_of_the_vines: "of the Vines" #NT!
- nick_one_hand: "[Select_CString(CHARACTER.IsFemale, 'Однорукая', 'Однорукий' )]"
- nick_spotted_butcher: "the Spotted Butcher" #NT!
- nick_the_hammer_of_justice: "the Hammer of Justice" #NT!
- nick_the_knight_of_flowers: "the Knight of Flowers" #NT!
- nick_the_knight_of_kisses: "the Knight of Kisses" #NT!
- nick_the_mountain_that_rides: "the Mountain" #NT!
- nick_the_openhanded: "the Open-Handed" #NT!
- nick_the_sword_of_the_evening: "the Sword of the Evening" #NT!
- nick_the_thrice_widowed: "the Thrice-Widowed" #NT!
- nick_the_brawler: "the Brawler" #NT!
- nick_red_spear: "Red-Spear" #NT!
- nickname_the_great: "the Great" #NT!
- nick_the_queen_of_thorns: "the Queen of Thorns" #NT!
- nick_the_feral: "the Feral" #NT!
+ nick_the_prince_who_thought_he_was_a_dragon: "[Select_CString(CHARACTER.IsFemale, 'Принцесса, возомнившая себя драконом', 'Принц, возомнивший себя драконом' )]"  
+ nick_bronze_bitch: "Бронзовая Сука" 
+ nick_of_the_black_hood: "из Чёрного Капюшона" 
+ nick_the_sword_of_the_morning: "Меч Зари" 
+ nick_white_mask: "Белая Маска" 
+ nick_black_pearl: "Чёрная Жемчужина" 
+ nick_bronze_axe: "Бронзовый Топор" 
+ nick_grey_eyes: "[Select_CString(CHARACTER.IsFemale, 'Сероглазая', 'Сероглазый' )]" 
+ nick_kin_killer: "Убийца родни" 
+ nick_knight_of_the_moon: "Рыцарь Луны" 
+ nick_knight_of_the_pantry: "Рыцарь Кладовой" 
+ nick_lord_of_battles: "[Select_CString(CHARACTER.IsFemale, 'Повелительница битв', 'Повелитель битв' )]" 
+ nick_of_the_bloody_blade: "из Кровавого Клинка" 
+ nick_of_the_golden_bowl: "из Золотой Чаши" 
+ nick_of_the_high_tower: "из Высокой Башни" 
+ nick_of_the_horn: "из Рога" 
+ nick_of_the_vines: "из Виноградников" 
+ nick_one_hand: "[Select_CString(CHARACTER.IsFemale, 'Однорукая', 'Однорукий' )]" 
+ nick_spotted_butcher: "[Select_CString(CHARACTER.IsFemale, 'Пятнистая мясница', 'Пятнистый мясник' )]" 
+ nick_the_hammer_of_justice: "Молот Правосудия" 
+ nick_the_knight_of_flowers: "Рыцарь Цветов" 
+ nick_the_knight_of_kisses: "Рыцарь Поцелуев" 
+ nick_the_mountain_that_rides: "Гора" 
+ nick_the_openhanded: "[Select_CString(CHARACTER.IsFemale, 'Щедрая', 'Щедрый' )]" 
+ nick_the_sword_of_the_evening: "Меч Заката" 
+ nick_the_thrice_widowed: "[Select_CString(CHARACTER.IsFemale, 'Трижды овдовевшая', 'Трижды овдовевший' )]" 
+ nick_the_brawler: "Забияка" 
+ nick_red_spear: "Красное Копьё" 
+ nickname_the_great: "[Select_CString(CHARACTER.IsFemale, 'Великая', 'Великий' )]" 
+ nick_the_queen_of_thorns: "[Select_CString(CHARACTER.IsFemale, 'Королева Шипов', 'Король Шипов' )]" 
+ nick_the_feral: "[Select_CString(CHARACTER.IsFemale, 'Дикая', 'Дикий' )]" 

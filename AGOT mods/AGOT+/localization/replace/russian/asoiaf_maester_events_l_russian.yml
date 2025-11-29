@@ -1,5 +1,5 @@
 ﻿l_russian:
   ### Maester Decisions/Events ### 
- decision_employ_maester: "Send for a Maester" #NT!
- decision_employ_maester_desc: "Renowned throughout the known world as the centre of Westerosi scholarship, the Citadel of Oldtown provides every keep in Westeros with a trained man of learning. Perhaps I should send for one." #NT!
- tooltip_employ_maester: "Must not have any capable maesters in my court." #NT!
+ decision_employ_maester: "Послать за Мейстером" 
+ decision_employ_maester_desc: "Цитадель Староместа, признанная во всём известном мире центром вестеросской учёности, снабжает каждый замок Вестероса обученным учёным мужем. Возможно, мне стоит вызвать одного из них." 
+ tooltip_employ_maester: "В моём дворе не должно быть ни одного способного мейстера." 

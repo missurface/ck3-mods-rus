@@ -1,109 +1,107 @@
 ﻿l_russian:
   
- building_type_tower_of_lyria_01: "Башня Лирии" #NT!
- building_type_tower_of_lyria_01_desc: "Башня древнего мага из утраченного [valyrian_freehold_short|E]. Никто толком не понимает, как ей удалось сохраниться, но в этой башне струятся и переплетаются самые сокровенные чары." #NT!
- building_tower_of_lyria_01: "Башня Лирии" #NT!
- building_tower_of_lyria_01_desc: "Высокая точка сосредоточения мистической силы. Неизвестно почему, но энергии магии становятся гораздо доступнее для того, кто способен по праву назвать эту башню своей." #NT!
-
+ building_type_tower_of_lyria_01: "Башня Лирии" 
+ building_type_tower_of_lyria_01_desc: "Башня древнего мага из утраченного [valyrian_freehold_short|E]. Никто толком не понимает, как ей удалось сохраниться, но в этой башне струятся и переплетаются самые сокровенные чары." 
+ building_tower_of_lyria_01: "Башня Лирии" 
+ building_tower_of_lyria_01_desc: "Высокая точка сосредоточения мистической силы. Неизвестно почему, но энергии магии становятся гораздо доступнее для того, кто способен по праву назвать эту башню своей." 
   
- building_type_tower_of_lyria_02: "Башня Лирии" #NT!
- building_type_tower_of_lyria_02_desc: "Башня древнего мага из утраченного [valyrian_freehold_short|E]. Никто толком не понимает, как ей удалось сохраниться, но в этой башне струятся и переплетаются самые сокровенные чары." #NT!
- building_tower_of_lyria_02: "Башня Лирии" #NT!
- building_tower_of_lyria_02_desc: "Высокая точка сосредоточения мистической силы. Неизвестно почему, но энергии магии становятся гораздо доступнее для того, кто способен по праву назвать эту башню своей." #NT!
+ building_type_tower_of_lyria_02: "Башня Лирии" 
+ building_type_tower_of_lyria_02_desc: "Башня древнего мага из утраченного [valyrian_freehold_short|E]. Никто толком не понимает, как ей удалось сохраниться, но в этой башне струятся и переплетаются самые сокровенные чары." 
+ building_tower_of_lyria_02: "Башня Лирии" 
+ building_tower_of_lyria_02_desc: "Высокая точка сосредоточения мистической силы. Неизвестно почему, но энергии магии становятся гораздо доступнее для того, кто способен по праву назвать эту башню своей." 
   
- building_type_valyria_mines_01: "Шахт Четырнадцати Огней" #NT!
- building_type_valyria_mines_01_desc: "Эти шахта тянется в глубины Четырнадцати Огней, бесконечные пропасти поглощают тысячи шахтёров, изнывающих от жара земли. Драгоценные минералы встречаются здесь в том же изобилии, что и смертельные опасности, делая жизнь обитателей одновременно прибыльной и короткой." #NT!
- building_valyria_mines_01: "Заселённая вирмами вулканическая шахта" #NT!
- building_valyria_mines_01_desc: "Шахта, прежде уходившая в недра этого вулкана, ныне пусты, а остатки креплений уничтожены огненными вирмами и прочими тварями. Тем не менее, их богатства всё ещё можно извлечь." #NT!
- building_valyria_mines_02: "Опалённые жилы" #NT!
- building_valyria_mines_02_desc: "Глубочайшие туннели остаются коварными, но решительные шахтёры начали добывать руду в менее опасных секциях. Укреплённые стволы теперь приносят следы золота и железа, хотя присутствие скрывающихся огненных вирмов делает работы осторожными и затратными." #NT!
- building_valyria_mines_03: "Вулканическая шахта" #NT!
- #building_valyria_mines_03_desc: "Эта опасная шахта славится богатыми жилами золота и серебра, перемежающимися залежами железа. Интенсивная геотермальная активность также создала карманы с драгоценными камнями — рубинами и сапфирами, выкованными в расплавленном горниле земли." #NT!
- building_valyria_mines_03_desc: "Эта шахта уходит глубоко в пропасти вулкана, где тысячи людей трудятся в невыносимом зное, отдавая жизни за богатства земли. Богатые жилы золота и серебра тянутся сквозь вулканическую породу, перемежаясь с залежами железа. Интенсивная геотермальная активность также выковала карманы рубинов и сапфиров, красота которых жестоко контрастирует со смертельными опасностями, уносящими жизни шахтёров в равной мере." #NT!
+ building_type_valyria_mines_01: "Шахт Четырнадцати Огней" 
+ building_type_valyria_mines_01_desc: "Эти шахта тянется в глубины Четырнадцати Огней, бесконечные пропасти поглощают тысячи шахтёров, изнывающих от жара земли. Драгоценные минералы встречаются здесь в том же изобилии, что и смертельные опасности, делая жизнь обитателей одновременно прибыльной и короткой." 
+ building_valyria_mines_01: "Заселённая вирмами вулканическая шахта" 
+ building_valyria_mines_01_desc: "Шахта, прежде уходившая в недра этого вулкана, ныне пусты, а остатки креплений уничтожены огненными вирмами и прочими тварями. Тем не менее, их богатства всё ещё можно извлечь." 
+ building_valyria_mines_02: "Опалённые жилы" 
+ building_valyria_mines_02_desc: "Глубочайшие туннели остаются коварными, но решительные шахтёры начали добывать руду в менее опасных секциях. Укреплённые стволы теперь приносят следы золота и железа, хотя присутствие скрывающихся огненных вирмов делает работы осторожными и затратными." 
+ building_valyria_mines_03: "Вулканическая шахта" 
+ #building_valyria_mines_03_desc: "Эта опасная шахта славится богатыми жилами золота и серебра, перемежающимися залежами железа. Интенсивная геотермальная активность также создала карманы с драгоценными камнями — рубинами и сапфирами, выкованными в расплавленном горниле земли." 
+ building_valyria_mines_03_desc: "Эта шахта уходит глубоко в пропасти вулкана, где тысячи людей трудятся в невыносимом зное, отдавая жизни за богатства земли. Богатые жилы золота и серебра тянутся сквозь вулканическую породу, перемежаясь с залежами железа. Интенсивная геотермальная активность также выковала карманы рубинов и сапфиров, красота которых жестоко контрастирует со смертельными опасностями, уносящими жизни шахтёров в равной мере." 
   
- building_type_valyria_mines_dormant_01: "Шахта Четырнадцати Огней" #NT!
- building_type_valyria_mines_dormant_01_desc: "Когда-то это был источник драгоценных металлов, но после затухания вулкана туннели были запечатаны слоями окаменевшей породы. Движения земли сделали некоторые проходы ненадёжными; поговаривают, что звуки огненных вирмов всё ещё отдаются эхом в глубине." #NT!
- building_valyria_mines_dormant_01: "Запечатанная шахта" #NT!
- building_valyria_mines_dormant_01_desc: "Когда-то это был источник драгоценных металлов, но после затухания вулкана туннели были запечатаны слоями окаменевшей породы. Движения земли сделали некоторые проходы ненадёжными; поговаривают, что звуки огненных вирмов всё ещё отдаются эхом в глубине." #NT!
- building_valyria_mines_dormant_02: "Раскрытая шахта" #NT!
- building_valyria_mines_dormant_02_desc: "Начались работы по восстановлению: старатели вернулись в забытые туннели в поисках богатств. В ослабленной временем породе появились укрепления, и первые телеги с железом и золотом вновь начали выходить из глубин." #NT!
- building_valyria_mines_dormant_03: "Спящая вулканическая шахта" #NT!
- building_valyria_mines_dormant_03_desc: "Хотя огонь вулкана давно угас, его богатства остаются огромными, ожидая лишь тех, кто осмелится их забрать. Опасности всё ещё скрываются в глубоких туннелях, где добываются богатые жилы серебра, железа и золота." #NT!
- building_type_zz_valyria_iron_mine_01: "Открытая железная шахта" #NT!
- building_type_zz_valyria_iron_mine_01_desc: "Всего лишь дыра в земле, где горстка шахтёров добывает железо, выдалбливая его из жил." #NT!
- building_zz_valyria_iron_mine_01: "Открытая железная шахта" #NT!
- building_zz_valyria_iron_mine_01_desc: "Всего лишь дыра в земле, где горстка шахтёров добывает железо, выдалбливая его из жил." #NT!
- iron_mine_01_effect: "$this_building_desc$[resources|E]: [iron_tooltip|E]#P +3#!/year" #NT!
+ building_type_valyria_mines_dormant_01: "Шахта Четырнадцати Огней" 
+ building_type_valyria_mines_dormant_01_desc: "Когда-то это был источник драгоценных металлов, но после затухания вулкана туннели были запечатаны слоями окаменевшей породы. Движения земли сделали некоторые проходы ненадёжными; поговаривают, что звуки огненных вирмов всё ещё отдаются эхом в глубине." 
+ building_valyria_mines_dormant_01: "Запечатанная шахта" 
+ building_valyria_mines_dormant_01_desc: "Когда-то это был источник драгоценных металлов, но после затухания вулкана туннели были запечатаны слоями окаменевшей породы. Движения земли сделали некоторые проходы ненадёжными; поговаривают, что звуки огненных вирмов всё ещё отдаются эхом в глубине." 
+ building_valyria_mines_dormant_02: "Раскрытая шахта" 
+ building_valyria_mines_dormant_02_desc: "Начались работы по восстановлению: старатели вернулись в забытые туннели в поисках богатств. В ослабленной временем породе появились укрепления, и первые телеги с железом и золотом вновь начали выходить из глубин." 
+ building_valyria_mines_dormant_03: "Спящая вулканическая шахта" 
+ building_valyria_mines_dormant_03_desc: "Хотя огонь вулкана давно угас, его богатства остаются огромными, ожидая лишь тех, кто осмелится их забрать. Опасности всё ещё скрываются в глубоких туннелях, где добываются богатые жилы серебра, железа и золота." 
+ building_type_zz_valyria_iron_mine_01: "Открытая железная шахта" 
+ building_type_zz_valyria_iron_mine_01_desc: "Всего лишь дыра в земле, где горстка шахтёров добывает железо, выдалбливая его из жил." 
+ building_zz_valyria_iron_mine_01: "Открытая железная шахта" 
+ building_zz_valyria_iron_mine_01_desc: "Всего лишь дыра в земле, где горстка шахтёров добывает железо, выдалбливая его из жил." 
+ iron_mine_01_effect: "$this_building_desc$[resources|E]: [iron_tooltip|E]#P +3#!/year" 
   
- building_type_zz_valyria_iron_mine_02: "Железная шахта" #NT!
- building_type_zz_valyria_iron_mine_02_desc: "Крупная железодобывающая операция, включающая несколько шахтных стволов, укреплённых лесом брёвен. Рабочие из близлежащих деревень трудятся день и ночь в многочисленных туннелях шахты." #NT!
- building_zz_valyria_iron_mine_02: "Железная шахта" #NT!
- building_zz_valyria_iron_mine_02_desc: "Крупная железодобывающая операция, включающая несколько шахтных стволов, укреплённых лесом брёвен. Рабочие из близлежащих деревень трудятся день и ночь в многочисленных туннелях шахты." #NT!
- iron_mine_02_effect: "$this_building_desc$[resources|E]: [iron_tooltip|E]#P +6#!/year" #NT!
+ building_type_zz_valyria_iron_mine_02: "Железная шахта" 
+ building_type_zz_valyria_iron_mine_02_desc: "Крупная железодобывающая операция, включающая несколько шахтных стволов, укреплённых лесом брёвен. Рабочие из близлежащих деревень трудятся день и ночь в многочисленных туннелях шахты." 
+ building_zz_valyria_iron_mine_02: "Железная шахта" 
+ building_zz_valyria_iron_mine_02_desc: "Крупная железодобывающая операция, включающая несколько шахтных стволов, укреплённых лесом брёвен. Рабочие из близлежащих деревень трудятся день и ночь в многочисленных туннелях шахты." 
+ iron_mine_02_effect: "$this_building_desc$[resources|E]: [iron_tooltip|E]#P +6#!/year" 
   
- building_type_zz_valyria_iron_mine_03: "Железный шахтный комплекс" #NT!
- building_type_zz_valyria_iron_mine_03_desc: "Обширный комплекс шахтных стволов, отвальных куч и плавильных печей, окружённый деревнями обездоленных, которым суждено жить и умереть в этих пропастях и вокруг них." #NT!
- building_zz_valyria_iron_mine_03: "Железный шахтный комплекс" #NT!
- building_zz_valyria_iron_mine_03_desc: "Обширный комплекс шахтных стволов, отвальных куч и плавильных печей, окружённый деревнями обездоленных, которым суждено жить и умереть в этих пропастях и вокруг них." #NT!
- iron_mine_03_effect: "$this_building_desc$[resources|E]: [iron_tooltip|E]#P +9#!/year" #NT!
+ building_type_zz_valyria_iron_mine_03: "Железный шахтный комплекс" 
+ building_type_zz_valyria_iron_mine_03_desc: "Обширный комплекс шахтных стволов, отвальных куч и плавильных печей, окружённый деревнями обездоленных, которым суждено жить и умереть в этих пропастях и вокруг них." 
+ building_zz_valyria_iron_mine_03: "Железный шахтный комплекс" 
+ building_zz_valyria_iron_mine_03_desc: "Обширный комплекс шахтных стволов, отвальных куч и плавильных печей, окружённый деревнями обездоленных, которым суждено жить и умереть в этих пропастях и вокруг них." 
+ iron_mine_03_effect: "$this_building_desc$[resources|E]: [iron_tooltip|E]#P +9#!/year" 
   
- building_type_zz_valyria_steel_forge_01: "Кузнецы стали" #NT!
- building_type_zz_valyria_steel_forge_01_desc: "Сообщество независимых ремесленников обосновалось в городе, изготавливая различные стальные изделия на заказ." #NT!
- building_zz_valyria_steel_forge_01: "Кузнецы стали" #NT!
- building_zz_valyria_steel_forge_01_desc: "Сообщество независимых ремесленников обосновалось в городе, изготавливая различные стальные изделия на заказ." #NT!
- steel_forge_01_effect: "$this_building_desc$[resources|E]: [steel_tooltip|E]#P +2#!/year" #NT!
- steel_forge_production_null: "$this_building_desc$@warning_icon!#warning Здание в данный момент не производит [steel_tooltip|E]. Убедитесь, что имеется запас [iron_tooltip|E]!#!" #NT!
+ building_type_zz_valyria_steel_forge_01: "Кузнецы стали" 
+ building_type_zz_valyria_steel_forge_01_desc: "Сообщество независимых ремесленников обосновалось в городе, изготавливая различные стальные изделия на заказ." 
+ building_zz_valyria_steel_forge_01: "Кузнецы стали" 
+ building_zz_valyria_steel_forge_01_desc: "Сообщество независимых ремесленников обосновалось в городе, изготавливая различные стальные изделия на заказ." 
+ steel_forge_01_effect: "$this_building_desc$[resources|E]: [steel_tooltip|E]#P +2#!/year" 
+ steel_forge_production_null: "$this_building_desc$@warning_icon!#warning Здание в данный момент не производит [steel_tooltip|E]. Убедитесь, что имеется запас [iron_tooltip|E]!#!" 
   
- building_type_zz_valyria_steel_forge_02: "Стальные мастерские" #NT!
- building_type_zz_valyria_steel_forge_02_desc: "Независимые ремесленники уступили место более крупным мастерским, удовлетворяющим потребности как города, так и окраин в кованой стали." #NT!
- building_zz_valyria_steel_forge_02: "Стальные мастерские" #NT!
- building_zz_valyria_steel_forge_02_desc: "Независимые ремесленники уступили место более крупным мастерским, удовлетворяющим потребности как города, так и окраин в кованой стали." #NT!
- steel_forge_02_effect: "$this_building_desc$[resources|E]: [steel_tooltip|E]#P +4#!/year" #NT!
+ building_type_zz_valyria_steel_forge_02: "Стальные мастерские" 
+ building_type_zz_valyria_steel_forge_02_desc: "Независимые ремесленники уступили место более крупным мастерским, удовлетворяющим потребности как города, так и окраин в кованой стали." 
+ building_zz_valyria_steel_forge_02: "Стальные мастерские" 
+ building_zz_valyria_steel_forge_02_desc: "Независимые ремесленники уступили место более крупным мастерским, удовлетворяющим потребности как города, так и окраин в кованой стали." 
+ steel_forge_02_effect: "$this_building_desc$[resources|E]: [steel_tooltip|E]#P +4#!/year" 
   
- building_type_zz_valyria_steel_forge_03: "Гильдия стальных ремесленников" #NT!
- building_type_zz_valyria_steel_forge_03_desc: "Мастера некогда независимых мастерских теперь образуют объединение, включающее всех кузнецов стали в городе. Толпы покупателей и торговцев ведут дела на их рынках, создавая ненасытный спрос на всё большее количество стали." #NT!
- building_zz_valyria_steel_forge_03: "Гильдия стальных ремесленников" #NT!
- building_zz_valyria_steel_forge_03_desc: "Мастера некогда независимых мастерских теперь образуют объединение, включающее всех кузнецов стали в городе. Толпы покупателей и торговцев ведут дела на их рынках, создавая ненасытный спрос на всё большее количество стали." #NT!
- steel_forge_03_effect: "$this_building_desc$[resources|E]: [steel_tooltip|E]#P +6#!/year" #NT!
+ building_type_zz_valyria_steel_forge_03: "Гильдия стальных ремесленников" 
+ building_type_zz_valyria_steel_forge_03_desc: "Мастера некогда независимых мастерских теперь образуют объединение, включающее всех кузнецов стали в городе. Толпы покупателей и торговцев ведут дела на их рынках, создавая ненасытный спрос на всё большее количество стали." 
+ building_zz_valyria_steel_forge_03: "Гильдия стальных ремесленников" 
+ building_zz_valyria_steel_forge_03_desc: "Мастера некогда независимых мастерских теперь образуют объединение, включающее всех кузнецов стали в городе. Толпы покупателей и торговцев ведут дела на их рынках, создавая ненасытный спрос на всё большее количество стали." 
+ steel_forge_03_effect: "$this_building_desc$[resources|E]: [steel_tooltip|E]#P +6#!/year" 
   
- building_type_zz_valyria_obsidian_mine_01: "Обсидиановая шахта" #NT!
- building_type_zz_valyria_obsidian_mine_01_desc: "Небольшая обсидиановая шахта. Обеспечивает ежегодные поставки обсидиана для своей провинции." #NT!
- building_zz_valyria_obsidian_mine_01: "Обсидиановая шахта" #NT!
- building_zz_valyria_obsidian_mine_01_desc: "Небольшая обсидиановая шахта. Обеспечивает ежегодные поставки обсидиана для своей провинции." #NT!
- obsidian_mine_01_effect: "$this_building_desc$[resources|E]: [obsidian_tooltip|E]#P +2#!/year" #NT!
+ building_type_zz_valyria_obsidian_mine_01: "Обсидиановая шахта" 
+ building_type_zz_valyria_obsidian_mine_01_desc: "Небольшая обсидиановая шахта. Обеспечивает ежегодные поставки обсидиана для своей провинции." 
+ building_zz_valyria_obsidian_mine_01: "Обсидиановая шахта" 
+ building_zz_valyria_obsidian_mine_01_desc: "Небольшая обсидиановая шахта. Обеспечивает ежегодные поставки обсидиана для своей провинции." 
+ obsidian_mine_01_effect: "$this_building_desc$[resources|E]: [obsidian_tooltip|E]#P +2#!/year" 
   
- building_type_zz_valyria_obsidian_mine_02: "Обсидиановая шахта" #NT!
- building_type_zz_valyria_obsidian_mine_02_desc: "Небольшая обсидиановая шахта. Обеспечивает ежегодные поставки обсидиана для своей провинции." #NT!
- building_zz_valyria_obsidian_mine_02: "Обсидиановая шахта" #NT!
- building_zz_valyria_obsidian_mine_02_desc: "Небольшая обсидиановая шахта. Обеспечивает ежегодные поставки обсидиана для своей провинции." #NT!
- obsidian_mine_02_effect: "$this_building_desc$[resources|E]: [obsidian_tooltip|E]#P +4#!/year" #NT!
+ building_type_zz_valyria_obsidian_mine_02: "Обсидиановая шахта" 
+ building_type_zz_valyria_obsidian_mine_02_desc: "Небольшая обсидиановая шахта. Обеспечивает ежегодные поставки обсидиана для своей провинции." 
+ building_zz_valyria_obsidian_mine_02: "Обсидиановая шахта" 
+ building_zz_valyria_obsidian_mine_02_desc: "Небольшая обсидиановая шахта. Обеспечивает ежегодные поставки обсидиана для своей провинции." 
+ obsidian_mine_02_effect: "$this_building_desc$[resources|E]: [obsidian_tooltip|E]#P +4#!/year" 
   
- building_type_zz_valyria_obsidian_mine_03: "Обсидиановая шахта" #NT!
- building_type_zz_valyria_obsidian_mine_03_desc: "Небольшая обсидиановая шахта. Обеспечивает ежегодные поставки обсидиана для своей провинции." #NT!
- building_zz_valyria_obsidian_mine_03: "Обсидиановая шахта" #NT!
- building_zz_valyria_obsidian_mine_03_desc: "Небольшая обсидиановая шахта. Обеспечивает ежегодные поставки обсидиана для своей провинции." #NT!
- obsidian_mine_03_effect: "$this_building_desc$[resources|E]: [obsidian_tooltip|E]#P +6#!/year" #NT!
+ building_type_zz_valyria_obsidian_mine_03: "Обсидиановая шахта" 
+ building_type_zz_valyria_obsidian_mine_03_desc: "Небольшая обсидиановая шахта. Обеспечивает ежегодные поставки обсидиана для своей провинции." 
+ building_zz_valyria_obsidian_mine_03: "Обсидиановая шахта" 
+ building_zz_valyria_obsidian_mine_03_desc: "Небольшая обсидиановая шахта. Обеспечивает ежегодные поставки обсидиана для своей провинции." 
+ obsidian_mine_03_effect: "$this_building_desc$[resources|E]: [obsidian_tooltip|E]#P +6#!/year" 
   
   
- building_type_zz_valyria_valyrian_steel_forge_01: "Кузнец валирийской стали" #NT!
- building_type_zz_valyria_valyrian_steel_forge_01_desc: "Самодостаточная кузня местного мастера, обеспеченного необходимыми материалами и алхимическими приёмами для производства валирийской стали." #NT!
- building_zz_valyria_valyrian_steel_forge_01: "Кузнец валирийской стали" #NT!
- building_zz_valyria_valyrian_steel_forge_01_desc: "Самодостаточная кузня местного мастера, обеспеченного необходимыми материалами и алхимическими приёмами для производства валирийской стали." #NT!
- valyrian_steel_forge_01_effect: "$this_building_desc$[resources|E]: [v_steel_tooltip|E]#P +1#!/year" #NT!
- valyrian_steel_forge_production_null: "$this_building_desc$@warning_icon!#warning Здание в данный момент не производит [v_steel_tooltip|E]. Убедитесь, что имеется запас [steel_tooltip|E] и [obsidian_tooltip|E]!#!" #NT!
+ building_type_zz_valyria_valyrian_steel_forge_01: "Кузнец валирийской стали" 
+ building_type_zz_valyria_valyrian_steel_forge_01_desc: "Самодостаточная кузня местного мастера, обеспеченного необходимыми материалами и алхимическими приёмами для производства валирийской стали." 
+ building_zz_valyria_valyrian_steel_forge_01: "Кузнец валирийской стали" 
+ building_zz_valyria_valyrian_steel_forge_01_desc: "Самодостаточная кузня местного мастера, обеспеченного необходимыми материалами и алхимическими приёмами для производства валирийской стали." 
+ valyrian_steel_forge_01_effect: "$this_building_desc$[resources|E]: [v_steel_tooltip|E]#P +1#!/year" 
+ valyrian_steel_forge_production_null: "$this_building_desc$@warning_icon!#warning Здание в данный момент не производит [v_steel_tooltip|E]. Убедитесь, что имеется запас [steel_tooltip|E] и [obsidian_tooltip|E]!#!" 
   
- building_type_zz_valyria_valyrian_steel_forge_02: "Мастерская валирийской стали" #NT!
- building_type_zz_valyria_valyrian_steel_forge_02_desc: "Индивидуальные усилия одного мастера превратились в настоящее предприятие с учителем и учениками: несколько ремесленников неустанно трудятся во имя древнего искусства ковки валирийской стали." #NT!
- building_zz_valyria_valyrian_steel_forge_02: "Мастерская валирийской стали" #NT!
- building_zz_valyria_valyrian_steel_forge_02_desc: "Индивидуальные усилия одного мастера превратились в настоящее предприятие с учителем и учениками: несколько ремесленников неустанно трудятся во имя древнего искусства ковки валирийской стали." #NT!
- valyrian_steel_forge_02_effect: "$this_building_desc$[resources|E]: [v_steel_tooltip|E]#P +2#!/year" #NT!
+ building_type_zz_valyria_valyrian_steel_forge_02: "Мастерская валирийской стали" 
+ building_type_zz_valyria_valyrian_steel_forge_02_desc: "Индивидуальные усилия одного мастера превратились в настоящее предприятие с учителем и учениками: несколько ремесленников неустанно трудятся во имя древнего искусства ковки валирийской стали." 
+ building_zz_valyria_valyrian_steel_forge_02: "Мастерская валирийской стали" 
+ building_zz_valyria_valyrian_steel_forge_02_desc: "Индивидуальные усилия одного мастера превратились в настоящее предприятие с учителем и учениками: несколько ремесленников неустанно трудятся во имя древнего искусства ковки валирийской стали." 
+ valyrian_steel_forge_02_effect: "$this_building_desc$[resources|E]: [v_steel_tooltip|E]#P +2#!/year" 
   
- building_type_zz_valyria_valyrian_steel_forge_03: "Драконья доменная печь" #NT!
- building_type_zz_valyria_valyrian_steel_forge_03_desc: "Воздух целого квартала насыщен серой и пеплом, пока десятки практиков эзотерического ремесла проводят свои жизни в пределах священной кузни, посвящая себя созданию валирийской стали." #NT!
- building_zz_valyria_valyrian_steel_forge_03: "Драконья доменная печь" #NT!
- building_zz_valyria_valyrian_steel_forge_03_desc: "Воздух целого квартала насыщен серой и пеплом, пока десятки практиков эзотерического ремесла проводят свои жизни в пределах священной кузни, посвящая себя созданию валирийской стали." #NT!
- valyrian_steel_forge_03_effect: "$this_building_desc$[resources|E]: [v_steel_tooltip|E]#P +3#!/year" #NT!
+ building_type_zz_valyria_valyrian_steel_forge_03: "Драконья доменная печь" 
+ building_type_zz_valyria_valyrian_steel_forge_03_desc: "Воздух целого квартала насыщен серой и пеплом, пока десятки практиков эзотерического ремесла проводят свои жизни в пределах священной кузни, посвящая себя созданию валирийской стали." 
+ building_zz_valyria_valyrian_steel_forge_03: "Драконья доменная печь" 
+ building_zz_valyria_valyrian_steel_forge_03_desc: "Воздух целого квартала насыщен серой и пеплом, пока десятки практиков эзотерического ремесла проводят свои жизни в пределах священной кузни, посвящая себя созданию валирийской стали." 
+ valyrian_steel_forge_03_effect: "$this_building_desc$[resources|E]: [v_steel_tooltip|E]#P +3#!/year" 
   
- tournament_cost_discount_cv_arena: "Великая Арена Валирии почти непрерывно действует, и здесь нет недостатка в персонале и припасах. Их обеспечение стало и привычным, и более дешёвым." #NT!
- activity_tournament_province_cv_the_great_arena_of_valyria: "Пока стоит Великая Арена — будет стоять и Валирия; когда падёт Великая Арена — падёт весь мир." #NT!
-  
+ tournament_cost_discount_cv_arena: "Великая Арена Валирии почти непрерывно действует, и здесь нет недостатка в персонале и припасах. Их обеспечение стало и привычным, и более дешёвым." 
+ activity_tournament_province_cv_the_great_arena_of_valyria: "Пока стоит Великая Арена — будет стоять и Валирия; когда падёт Великая Арена — падёт весь мир." 

@@ -1,10 +1,10 @@
 ﻿l_russian:
-   # Night's Watch 
- game_concept_nw_govt: "Ночной Дозор" #NT!
- game_concept_nw_govt_desc: "#bold Ночной Дозор#! — это военный орден, посвящённый охране [watch_wall|E], огромного укрепления на северной границе [seven_kingdoms|E], защищающего владения людей от того, что скрывается [beyond_the_wall|E]. Орден был основан ещё в [age_of_heroes|E], когда [others|E] были оттеснены. Люди из #bold Ночного Дозора#! носят только чёрное и известны как #bold чёрные братья#!. О новобранцах, присоединившихся к #bold Дозору#!, говорят, что они #bold надели чёрное#!.\n\nПри $game_concept_nw_govt$ [government_form|E] верховный [liege|E] раздаёт [land|E] [vassals|E] для управления и защиты. Только присягнувшие братья Ночного Дозора могут владеть титулами при таком типе правления, и после их смерти титулы возвращаются их сюзерену." #NT!
- game_concept_nw_govt_i: "@nights_watch_government!" #NT!
+ # Night's Watch 
+ game_concept_nw_govt: "Ночной Дозор" 
+ game_concept_nw_govt_desc: "#bold Ночной Дозор#! — это военный орден, посвящённый охране [watch_wall|E], огромного укрепления на северной границе [seven_kingdoms|E], защищающего владения людей от того, что скрывается [beyond_the_wall|E]. Орден был основан ещё в [age_of_heroes|E], когда [others|E] были оттеснены. Люди из #bold Ночного Дозора#! носят только чёрное и известны как #bold чёрные братья#!. О новобранцах, присоединившихся к #bold Дозору#!, говорят, что они #bold надели чёрное#!.\n\nПри $game_concept_nw_govt$ [government_form|E] верховный [liege|E] раздаёт [land|E] [vassals|E] для управления и защиты. Только присягнувшие братья Ночного Дозора могут владеть титулами при таком типе правления, и после их смерти титулы возвращаются их сюзерену." 
+ game_concept_nw_govt_i: "@nights_watch_government!" 
   
-   # Dragons 
- DRAGON_RELATION_IS_WANDERING: "[Character.Custom('LV_FirewyrmLocation')]" #NT!
- DRAGON_RELATION_IS_WANDERING.FIREWYRM: "Рыскает по [Character.GetCurrentLocation.GetName|V]" #NT!
- DRAGON_RELATION_IS_WANDERING.VANILLA: "Летает вокруг [Character.GetCurrentLocation.GetName|V]" #NT!
+ # Dragons 
+ DRAGON_RELATION_IS_WANDERING: "[Character.Custom('LV_FirewyrmLocation')]" 
+ DRAGON_RELATION_IS_WANDERING.FIREWYRM: "Рыскает по [Character.GetCurrentLocation.GetName|V]" 
+ DRAGON_RELATION_IS_WANDERING.VANILLA: "Летает вокруг [Character.GetCurrentLocation.GetName|V]" 

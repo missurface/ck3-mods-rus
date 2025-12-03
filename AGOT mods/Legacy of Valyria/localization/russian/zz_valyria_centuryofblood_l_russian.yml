@@ -1,341 +1,348 @@
 ﻿l_russian:
-  #7899 
- zz_valyria_centuryofblood: "Век Крови" #NT!
- zz_valyria_centuryofblood_group: "После Рока" #NT!
+ #7899 
+ zz_valyria_centuryofblood: "Век Крови" 
+ zz_valyria_centuryofblood_group: "После Рока" 
  zz_valyria_centuryofblood_desc: "Валирийское Владычество пало, рухнув, когда полуостров был уничтожен Роком. Всего за несколько часов Валирия исчезла, а Владычество оказалось разрушено. Дом Таргариенов переселился на Драконий Камень, западный форпост Валирии в Узком море, тем самым обеспечив своё выживание.\n\nНекоторые другие драконьи всадники — те, кто не находился в Валирии во время Рока, — также уцелели. В Тироше, Лисе и Квохоре, по слухам, драконьи лорды избежали гибели и теперь не знали, что ждёт их впереди. #bold \n\nАурион Варезис, драконьи лорд, гостивший в Квохоре, провозгласил себя первым императором Валирии и собрал войска из квохорцев. Со своим драконом и армией в тридцать тысяч человек он выступил, чтобы вернуть себе останки Валирии...#!"
   
- bookmark_99_arrec_durrandon: "Король Аррек" #NT!
- bookmark_99_arrec_durrandon_desc: "Аррек Дюррандон, король Штормовых земель и богатых Речных земель, завоёванных его предком Арланом III Дюррандоном триста лет назад, восседает на троне Короля Бурь. Однако его власть не является прочной, поскольку многие другие короли [westeros|E] продолжают завидовать богатству, которое могут принести Речные земли. С Запада начинают шевелиться Железнорождённые, возможно, с намерением вернуть Речные земли у Штормовых королей." #NT!
- bookmark_99_erich_durrandon: "Эрих Дюррандон" #NT!
- bookmark_99_monfryd_durrandon: "Монфрид Дюррандон" #NT!
+ bookmark_99_arrec_durrandon: "Король Аррек" 
+ bookmark_99_arrec_durrandon_desc: "Аррек Дюррандон, король Штормовых земель и богатых Речных земель, завоёванных его предком Арланом III Дюррандоном триста лет назад, восседает на троне Короля Бурь. Однако его власть не является прочной, поскольку многие другие короли [westeros|E] продолжают завидовать богатству, которое могут принести Речные земли. С Запада начинают шевелиться Железнорождённые, возможно, с намерением вернуть Речные земли у Штормовых королей." 
+ bookmark_99_arrec_durrandon_subheading: "Штормовой Король"
+ bookmark_99_erich_durrandon: "Эрих Дюррандон" 
+ bookmark_99_monfryd_durrandon: "Монфрид Дюррандон" 
   
- bookmark_99_aenar_targaryen: "Король Эйнар" #NT!
- bookmark_99_aenar_targaryen_desc: "За двенадцать лет до [doom_of_valyria|E] дочь Эйнара, Дейнис Сновидица, предсказала разрушение [valyria|E]. В ответ на это Эйнар продал свои владения в [valyrian_freehold|E] и в Землях Долгого Лета и перебрался с семьёй и [dragons_plural|E] на Драконий Камень, западный форпост [valyrian_freehold|E]. Таргариены были далеко не самыми могущественными среди [dragonlords|E], и их соперники в [valyria|E] сочли их бегство проявлением трусости. Однако именно потому что Эйнар увёл свою семью из [valyria|E], Таргариены стали сильнейшими из [dragonlords|E], пережившими [doom|E]." #NT!
- bookmark_99_gaemon_targaryen: "Геймон Таргариен" #NT!
- bookmark_99_daenys_targaryen: "Дейнис «Сновидица» Таргариен" #NT!
+ bookmark_99_aenar_targaryen: "Король Эйнар" 
+ bookmark_99_aenar_targaryen_desc: "За двенадцать лет до [doom_of_valyria|E] дочь Эйнара, Дейнис Сновидица, предсказала разрушение [valyria|E]. В ответ на это Эйнар продал свои владения в [valyrian_freehold|E] и в Землях Долгого Лета и перебрался с семьёй и [dragons_plural|E] на Драконий Камень, западный форпост [valyrian_freehold|E]. Таргариены были далеко не самыми могущественными среди [dragonlords|E], и их соперники в [valyria|E] сочли их бегство проявлением трусости. Однако именно потому что Эйнар увёл свою семью из [valyria|E], Таргариены стали сильнейшими из [dragonlords|E], пережившими [doom|E]." 
+ bookmark_99_aenar_targaryen_subheading: "Лорд Драконьего Камня"
+ bookmark_99_gaemon_targaryen: "Геймон Таргариен" 
+ bookmark_99_daenys_targaryen: "Дейнис «Сновидица» Таргариен" 
   
- # bookmark_99_garland_gardener: "Garland VI Gardener" #NT!
- # bookmark_99_garland_gardener_desc: "King Garland VI came to the Oakenseat while still in his minority. The High Steward of the Reach, a Tyrell, ruled as regent until Garland came of age. Garland VI now rules over one of the strongest kingdoms in [westeros|E]. An intelligent, yet cynical, king, Garland's ambitions are known only to himself and only time will tell how far House Gardener will rise" #NT!
- # bookmark_99_elissa_florent: "Elissa Florent" #NT!
- # bookmark_99_mern_gardener: "Mern Gardener" #NT!
+ # bookmark_99_garland_gardener: "Garland VI Gardener" 
+ # bookmark_99_garland_gardener_desc: "King Garland VI came to the Oakenseat while still in his minority. The High Steward of the Reach, a Tyrell, ruled as regent until Garland came of age. Garland VI now rules over one of the strongest kingdoms in [westeros|E]. An intelligent, yet cynical, king, Garland's ambitions are known only to himself and only time will tell how far House Gardener will rise" 
+ # bookmark_99_elissa_florent: "Elissa Florent" 
+ # bookmark_99_mern_gardener: "Mern Gardener" 
   
- bookmark_99_qhorwyn_hoare: "Король Куорвин" #NT!
- bookmark_99_qhorwyn_hoare_desc: "Куорвин был проницательным королём Железных островов, который избегал войн и вместо этого накапливал богатства во время своего правления. Он утроил размер флота Дома Хоаров и приказал создать дополнительные вооружения, чтобы отпугнуть врагов от нападения.\n\nТретий сын Куорвин, Харвин, вернулся на Железные острова после двух лет странствий и нашёл отца немощным и больным, а брата Харлана — готовящимся принять титул короля Железных островов. Оба брата стремятся использовать военную мощь отца и завоевать Королевство Трезубца у Дюррандонов. Вопрос лишь в том, смогут ли они действовать вместе ради этой цели или один попытается захватить власть над другим." #NT!
- bookmark_99_harlan_hoare: "Харлан Хоар" #NT!
- bookmark_99_harwyn_hoare: "Харвин Хоар" #NT!
+ bookmark_99_qhorwyn_hoare: "Король Куорвин" 
+ bookmark_99_qhorwyn_hoare_desc: "Куорвин был проницательным королём Железных островов, который избегал войн и вместо этого накапливал богатства во время своего правления. Он утроил размер флота Дома Хоаров и приказал создать дополнительные вооружения, чтобы отпугнуть врагов от нападения.\n\nТретий сын Куорвин, Харвин, вернулся на Железные острова после двух лет странствий и нашёл отца немощным и больным, а брата Харлана — готовящимся принять титул короля Железных островов. Оба брата стремятся использовать военную мощь отца и завоевать Королевство Трезубца у Дюррандонов. Вопрос лишь в том, смогут ли они действовать вместе ради этой цели или один попытается захватить власть над другим."
+ bookmark_99_qhorwyn_hoare_subheading: "Король Железных островов" 
+ bookmark_99_harlan_hoare: "Харлан Хоар" 
+ bookmark_99_harwyn_hoare: "Харвин Хоар" 
   
- bookmark_99_tommen_lannister: "Король Томмен II" #NT!
- bookmark_99_tommen_lannister_desc: "Томмен II Ланнистер, известный как Король-Лев, — король Утеса из Дома Ланнистеров. Услышав о возможном падении Валирийского Владычества в [doom|E], он готовится отправить экспедицию в бывшее [valyrian_freehold_short|E], чтобы завладеть богатствами и магией, которые наверняка остались там. Экспедиция обещает быть крайне опасной, и потому встаёт вопрос: должен ли Томмен II рискнуть всем ради путешествия в [valyria|E] или же воспользоваться огромным вакуумом власти после гибели [valyrian_freehold_short|E] и завладеть [essos|E], расширив богатство и имя Ланнистеров по всему [known_world|E]?" #NT!
- bookmark_99_ellyn_tarbeck: "Эллин Тарбек" #NT!
- bookmark_99_tyrion_lannister: "Тирион Ланнистер" #NT!
+ bookmark_99_tommen_lannister: "Король Томмен II" 
+ bookmark_99_tommen_lannister_desc: "Томмен II Ланнистер, известный как Король-Лев, — король Утеса из Дома Ланнистеров. Услышав о возможном падении Валирийского Владычества в [doom|E], он готовится отправить экспедицию в бывшее [valyrian_freehold_short|E], чтобы завладеть богатствами и магией, которые наверняка остались там. Экспедиция обещает быть крайне опасной, и потому встаёт вопрос: должен ли Томмен II рискнуть всем ради путешествия в [valyria|E] или же воспользоваться огромным вакуумом власти после гибели [valyrian_freehold_short|E] и завладеть [essos|E], расширив богатство и имя Ланнистеров по всему [known_world|E]?" 
+ bookmark_99_tommen_lannister_subheading: "Король Утёса"
+ bookmark_99_ellyn_tarbeck: "Эллин Тарбек" 
+ bookmark_99_tyrion_lannister: "Тирион Ланнистер" 
   
- bookmark_99_aurion_varezys: "Император Аурион" #NT!
- bookmark_99_aurion_varezys_desc: "[Concept( 'story_content_aurion_varezys_99', '$bm_story_content_available_icon|q$' )|E] [Concept( 'story_content_aurion_varezys_99', '$bm_story_content_available_copy|q$' )|E]\nАурион Варезис, один из немногих выживших драконьих лордов, застрявший в Квохоре, собрал силы из числа квохорских колонистов и провозгласил себя первым императором [valyria|E]. Верхом на своём [dragon|E] он вместе с тридцатью тысячами людей выступил, чтобы завладеть тем, что осталось от [valyria|E], или же, быть может, создать Новую [valyria|E] правом завоевания [free_cities|E] [essos|E].\n\n#bold Рискнёт ли Аурион всем, чтобы заявить свои права на бывший дом, или же он проложит новый путь с оставшимися драконьими лордами, чтобы мечта о [valyria|E] оставалась в памяти мира?#! " #NT!
+ bookmark_99_aurion_varezys: "Император Аурион" 
+ bookmark_99_aurion_varezys_desc: "[Concept( 'story_content_aurion_varezys_99', '$bm_story_content_available_icon|q$' )|E] [Concept( 'story_content_aurion_varezys_99', '$bm_story_content_available_copy|q$' )|E]\nАурион Варезис, один из немногих выживших драконьих лордов, застрявший в Квохоре, собрал силы из числа квохорских колонистов и провозгласил себя первым императором [valyria|E]. Верхом на своём [dragon|E] он вместе с тридцатью тысячами людей выступил, чтобы завладеть тем, что осталось от [valyria|E], или же, быть может, создать Новую [valyria|E] правом завоевания [free_cities|E] [essos|E].\n\n#bold Рискнёт ли Аурион всем, чтобы заявить свои права на бывший дом, или же он проложит новый путь с оставшимися драконьими лордами, чтобы мечта о [valyria|E] оставалась в памяти мира?#! "
+ bookmark_99_aurion_varezys_subheading: "Император Валирии"
   
- bookmark_99_lucifer_justman: "Речной король Люцифер" #NT!
- bookmark_99_lucifer_justman_desc: "Спустя три столетия после того, как прежний Люцифер Джастман объявил себя Речным королём по праву крови, новый претендент на трон Трезубца высадился в Черноводной бухте. Стоя на берегу маленькой рыбацкой деревушки у устья Трезубца, Люцифер должен вместе со своей крошечной свитой выбрать путь, чтобы отстоять притязания на земли предков. Какое королевство станет для него наилучшей опорой в изгнании Дюррандонов с земель его рода? Гарднеры из Хайгардена, Ланнистеры из Утёс Кастерли или Аррены из Долины?" #NT!
+ bookmark_99_lucifer_justman: "Речной король Люцифер" 
+ bookmark_99_lucifer_justman_desc: "Спустя три столетия после того, как прежний Люцифер Джастман объявил себя Речным королём по праву крови, новый претендент на трон Трезубца высадился в Черноводной бухте. Стоя на берегу маленькой рыбацкой деревушки у устья Трезубца, Люцифер должен вместе со своей крошечной свитой выбрать путь, чтобы отстоять притязания на земли предков. Какое королевство станет для него наилучшей опорой в изгнании Дюррандонов с земель его рода? Гарднеры из Хайгардена, Ланнистеры из Утёс Кастерли или Аррены из Долины?" 
+ bookmark_99_lucifer_justman_subheading: "Речной Кароль"
   
  #LAAMP Titles 
- d_laamp_Varezys_1: "Войско императора Варезиса" #NT!
- empire_aurion_male: "Император" #NT!
+ d_laamp_Varezys_1: "Войско императора Варезиса" 
+ empire_aurion_male: "Император" 
   
- #  d_laamp_Mataeryon_1: "Dragonlord Mataeryon" #NT!
- #  dragonlord_mataeryon: "Dragonlord" #NT!
+ #  d_laamp_Mataeryon_1: "Dragonlord Mataeryon" 
+ #  dragonlord_mataeryon: "Dragonlord" 
   
- #  d_laamp_Urnebar_1: "Dragonlord Urnebar" #NT!
- #  dragonlord_urnebar: "Dragonlord" #NT!
+ #  d_laamp_Urnebar_1: "Dragonlord Urnebar" 
+ #  dragonlord_urnebar: "Dragonlord" 
   
- #  d_laamp_Sonaryen_1: "Dragonlord Sonaryen" #NT!
- #  dragonlord_sonaryen: "Dragonlord" #NT!
+ #  d_laamp_Sonaryen_1: "Dragonlord Sonaryen" 
+ #  dragonlord_sonaryen: "Dragonlord" 
   
- #  d_laamp_Belaerys_1: "Dragonlord Belaerys" #NT!
- #  dragonlord_belaerys: "Dragonlord" #NT!
+ #  d_laamp_Belaerys_1: "Dragonlord Belaerys" 
+ #  dragonlord_belaerys: "Dragonlord" 
   
- d_laamp_Justman_1: "Лагерь Люцифера Джастмана" #NT!
- river_king_justman: "Речной король" #NT!
+ d_laamp_Justman_1: "Лагерь Люцифера Джастмана" 
+ river_king_justman: "Речной король" 
   
  #Events 
- # lv_scenerio_cob: "The Century of Blood" #NT!
- cob_7899_scenerio.0001.t: "Король Бурь и Рек" #NT!
- cob_7899_scenerio.0001.desc: "Настали дни богатства и процветания для Королевства Бурь и Рек. С тех пор как мой предок [arlan.GetName] объединил два королевства в одно и сокрушил самозваного короля [lucifer.GetFirstName], род [benedict.GetName] пресёкся. Дом Дюррандонов остаётся единственным королевским домом Трезубца и Штормовых земель.\n\nНо не всё так, как кажется. Смуты в королевстве нарастают… С Запада доносятся слухи: Железнорождённые под началом [qhorwyn.GetName] шевелятся, лелея замыслы завоевать богатства Трезубца. Ходят и слухи о выжившем представителе Дома Джастманов, распространяющем вести, будто он законный правитель Трезубца… Очередной Джастман, которому не терпится расстаться с жизнью, лишь бы олень продолжал властвовать над Реками и Бурями." #NT!
- cob_7899_scenerio.0001.a: "Нам — ярость" #NT!
+ # lv_scenerio_cob: "The Century of Blood" 
+ cob_7899_scenerio.0001.t: "Король Бурь и Рек" 
+ cob_7899_scenerio.0001.desc: "Настали дни богатства и процветания для Королевства Бурь и Рек. С тех пор как мой предок [arlan.GetName] объединил два королевства в одно и сокрушил самозваного короля [lucifer.GetFirstName], род [benedict.GetName] пресёкся. Дом Дюррандонов остаётся единственным королевским домом Трезубца и Штормовых земель.\n\nНо не всё так, как кажется. Смуты в королевстве нарастают… С Запада доносятся слухи: Железнорождённые под началом [qhorwyn.GetName] шевелятся, лелея замыслы завоевать богатства Трезубца. Ходят и слухи о выжившем представителе Дома Джастманов, распространяющем вести, будто он законный правитель Трезубца… Очередной Джастман, которому не терпится расстаться с жизнью, лишь бы олень продолжал властвовать над Реками и Бурями." 
+ cob_7899_scenerio.0001.a: "Нам — ярость" 
   
- cob_7899_scenerio.0002.t: "Изгнанник и Сновидица" #NT!
- cob_7899_scenerio.0002.desc: "[doom|E] обрушился на [valyria|E] в точности так, как предсказала [dreamer.GetFirstName]. Если бы я не действовал тогда, продав всё богатство нашей семьи и переселив нас в эту мрачную вулканическую крепость, наша семья наверняка погибла бы. [valyrian_freehold_short|E] из величайшей силы в мире обратился в тень небытия всего за несколько часов. Дом Таргариенов вполне может оказаться самым могущественным из оставшихся.\n\nМне стоит задуматься, что сулит будущее мне и моей семье. Должны ли мы укреплять наши земли и сохранять волю [valyrian_freehold_short|E] в этом единственном форпосте, или же вновь расширить влияние [valyrian_freehold_short|E] на [free_cities|E] и, быть может, на сам [westeros|E]?" #NT!
- cob_7899_scenerio.0002.a: "Огонь и кровь" #NT!
+ cob_7899_scenerio.0002.t: "Изгнанник и Сновидица" 
+ cob_7899_scenerio.0002.desc: "[doom|E] обрушился на [valyria|E] в точности так, как предсказала [dreamer.GetFirstName]. Если бы я не действовал тогда, продав всё богатство нашей семьи и переселив нас в эту мрачную вулканическую крепость, наша семья наверняка погибла бы. [valyrian_freehold_short|E] из величайшей силы в мире обратился в тень небытия всего за несколько часов. Дом Таргариенов вполне может оказаться самым могущественным из оставшихся.\n\nМне стоит задуматься, что сулит будущее мне и моей семье. Должны ли мы укреплять наши земли и сохранять волю [valyrian_freehold_short|E] в этом единственном форпосте, или же вновь расширить влияние [valyrian_freehold_short|E] на [free_cities|E] и, быть может, на сам [westeros|E]?" 
+ cob_7899_scenerio.0002.a: "Огонь и кровь" 
   
- cob_7899_scenerio.0003.t: "Король Соли и Моря" #NT!
- cob_7899_scenerio.0003.desc: "Мой час близок… Я чувствую, как [ROOT.Char.GetFaith.HighGodName] зовёт меня из своих водных чертогов, пока эта неотступная болезнь пожирает моё дряхлое старое тело. С тех пор как умер мой первенец [harmund.GetName], мой второй сын [harlan.GetName] взял управление королевством на себя, пока я всё больше сдавал под гнётом болезни.\n\n[harwyn.GetName], мой третий сын, отправившийся искать славы в [free_cities|E], вернулся с неведомыми намерениями. Могу лишь предположить, что он услышал о моей болезни и о том, что я уже будто стою на пороге смерти, и теперь хочет заявить права на наследство, которое считает своим.\n\nЛишь время покажет, когда [ROOT.Char.GetFaith.HighGodName] призовёт меня в свои водные чертоги. А пока я могу только гадать, что ждёт королевство, которое я так усердно создавал." #NT!
- cob_7899_scenerio.0003.a: "То, что мертво, умереть не может" #NT!
+ cob_7899_scenerio.0003.t: "Король Соли и Моря" 
+ cob_7899_scenerio.0003.desc: "Мой час близок… Я чувствую, как [ROOT.Char.GetFaith.HighGodName] зовёт меня из своих водных чертогов, пока эта неотступная болезнь пожирает моё дряхлое старое тело. С тех пор как умер мой первенец [harmund.GetName], мой второй сын [harlan.GetName] взял управление королевством на себя, пока я всё больше сдавал под гнётом болезни.\n\n[harwyn.GetName], мой третий сын, отправившийся искать славы в [free_cities|E], вернулся с неведомыми намерениями. Могу лишь предположить, что он услышал о моей болезни и о том, что я уже будто стою на пороге смерти, и теперь хочет заявить права на наследство, которое считает своим.\n\nЛишь время покажет, когда [ROOT.Char.GetFaith.HighGodName] призовёт меня в свои водные чертоги. А пока я могу только гадать, что ждёт королевство, которое я так усердно создавал." 
+ cob_7899_scenerio.0003.a: "То, что мертво, умереть не может" 
   
- cob_7899_scenerio.0004.t: "Король Утёса" #NT!
- cob_7899_scenerio.0004.desc: "До Утёса Кастерли дошли вести, что [valyria|E] была уничтожена в катаклизме невообразимых масштабах. Почти всё владычество [dragonlord|E] владычество погибло вместе со своими [dragons_plural|E], оставив бывшие земли лёгкой добычей для того, кто осмелится воспользоваться этим положением. Быть может, не всё богатство и магия были уничтожены… Дом Ланнистеров мог бы навсегда закрепить за собой место самого богатого и могущественного дома, когда-либо правившего [westeros|E]…" #NT!
- cob_7899_scenerio.0004.a: "Это лишь глупая мечта, мне стоит сосредоточиться здесь" #NT!
- cob_7899_scenerio.0004.a_tt: "Вы решаете не рисковать жизнью и остаться в Утёсе Кастерли" #NT!
- cob_7899_scenerio.0004.b: "В [valyria|E] ждёт возможность, которую я не могу проигнорировать" #NT!
- cob_7899_scenerio.0004.b_tt: "Вы решаете рискнуть всем и отправиться к останкам [valyria|E]" #NT!
+ cob_7899_scenerio.0004.t: "Король Утёса" 
+ cob_7899_scenerio.0004.desc: "До Утёса Кастерли дошли вести, что [valyria|E] была уничтожена в катаклизме невообразимых масштабах. Почти всё владычество [dragonlord|E] владычество погибло вместе со своими [dragons_plural|E], оставив бывшие земли лёгкой добычей для того, кто осмелится воспользоваться этим положением. Быть может, не всё богатство и магия были уничтожены… Дом Ланнистеров мог бы навсегда закрепить за собой место самого богатого и могущественного дома, когда-либо правившего [westeros|E]…" 
+ cob_7899_scenerio.0004.a: "Это лишь глупая мечта, мне стоит сосредоточиться здесь" 
+ cob_7899_scenerio.0004.a_tt: "Вы решаете не рисковать жизнью и остаться в Утёсе Кастерли" 
+ cob_7899_scenerio.0004.b: "В [valyria|E] ждёт возможность, которую я не могу проигнорировать" 
+ cob_7899_scenerio.0004.b_tt: "Вы решаете рискнуть всем и отправиться к останкам [valyria|E]" 
   
- cob_7899_scenerio.0005.t: "Наследник [valyrian_freehold_short|E]" #NT!
- cob_7899_scenerio.0005.desc: "[valyrian_freehold_short|E] пало... Я [Select_CString(ROOT.Char.IsFemale, 'не получала', 'не получал' )] ответов на свою переписку уже целую вечность... Могу лишь предположить, что слухи о том, что люди называют «[doom|E]», правдивы.\n\nЯ [Select_CString(ROOT.Char.IsFemale, 'собрала', 'собрал' )] отряд солдат в квохоре с целью полететь вместе с [vassarion.GetName] к тому, что осталось от [valyria|E]... Я надеюсь вновь восстановить порядок в этом мире... Однако если слухи верны и [valyrian_freehold_short|E] — не более чем пепел, возможно, этой армии полезнее будет подчинить себе [free_cities|E] и править ими... Всё, что я знаю — я [Select_CString(ROOT.Char.IsFemale, 'должна', 'должен' )] двинуть это войско на юг от [location.GetName], чтобы самому узнать, что стало с моей родиной..." #NT!
- cob_7899_scenerio.0005.a: "Я вернусь в [valyrian_freehold_short|E] и заберу то, что осталось" #NT!
- cob_7899_scenerio.0005.a_tt: "Отправиться в Ни Сар" #NT!
+ cob_7899_scenerio.0005.t: "Наследник [valyrian_freehold_short|E]" 
+ cob_7899_scenerio.0005.desc: "[valyrian_freehold_short|E] пало... Я [Select_CString(ROOT.Char.IsFemale, 'не получала', 'не получал' )] ответов на свою переписку уже целую вечность... Могу лишь предположить, что слухи о том, что люди называют «[doom|E]», правдивы.\n\nЯ [Select_CString(ROOT.Char.IsFemale, 'собрала', 'собрал' )] отряд солдат в квохоре с целью полететь вместе с [vassarion.GetName] к тому, что осталось от [valyria|E]... Я надеюсь вновь восстановить порядок в этом мире... Однако если слухи верны и [valyrian_freehold_short|E] — не более чем пепел, возможно, этой армии полезнее будет подчинить себе [free_cities|E] и править ими... Всё, что я знаю — я [Select_CString(ROOT.Char.IsFemale, 'должна', 'должен' )] двинуть это войско на юг от [location.GetName], чтобы самому узнать, что стало с моей родиной..." 
+ cob_7899_scenerio.0005.a: "Я вернусь в [valyrian_freehold_short|E] и заберу то, что осталось" 
+ cob_7899_scenerio.0005.a_tt: "Отправиться в Ни Сар" 
   
- cob_7899_scenerio.0006.t: "Наследник Речного короля" #NT!
- cob_7899_scenerio.0006.desc: "Мой великий предок [lucifer.GetFirstName], законный Речной король Трезубца, объявил себя последним живым потомком [benedict.GetName]. Его убил [arlan.GetName], чтобы Штормовые короли могли сохранить свою нелегитимную власть над Королевством Трезубца.\n\nНа протяжении веков род Джастманов скрывался в тени, избегая ярости Штормовых королей, которая могла привести к нашему истреблению. Я больше не могу продолжать эту традицию... Я [Select_CString(ROOT.Char.IsFemale, 'должна', 'должен' )] выступить и собрать союзников, чтобы предъявить свои права на земли предков.\n\nТеперь мне предстоит решить, куда направиться… В плодородные земли Простора? К богатствам Западных земель? Или в горы Долины?" #NT!
- cob_7899_scenerio.0006.a: "Искать помощь в Просторе" #NT!
- cob_7899_scenerio.0006.a_tt: "Отправиться в Хайгарден" #NT!
- cob_7899_scenerio.0006.b: "Искать помощь в Утёсе" #NT!
- cob_7899_scenerio.0006.b_tt: "Отправиться в Утёс Кастерли" #NT!
- cob_7899_scenerio.0006.c: "Искать помощь в Долине" #NT!
- cob_7899_scenerio.0006.c_tt: "Отправиться в Орлиное Гнездо" #NT!
- cob_7899_scenerio.0006.d: "Отправиться в одиночку" #NT!
+ cob_7899_scenerio.0006.t: "Наследник Речного короля" 
+ cob_7899_scenerio.0006.desc: "Мой великий предок [lucifer.GetFirstName], законный Речной король Трезубца, объявил себя последним живым потомком [benedict.GetName]. Его убил [arlan.GetName], чтобы Штормовые короли могли сохранить свою нелегитимную власть над Королевством Трезубца.\n\nНа протяжении веков род Джастманов скрывался в тени, избегая ярости Штормовых королей, которая могла привести к нашему истреблению. Я больше не могу продолжать эту традицию... Я [Select_CString(ROOT.Char.IsFemale, 'должна', 'должен' )] выступить и собрать союзников, чтобы предъявить свои права на земли предков.\n\nТеперь мне предстоит решить, куда направиться… В плодородные земли Простора? К богатствам Западных земель? Или в горы Долины?" 
+ cob_7899_scenerio.0006.a: "Искать помощь в Просторе" 
+ cob_7899_scenerio.0006.a_tt: "Отправиться в Хайгарден" 
+ cob_7899_scenerio.0006.b: "Искать помощь в Утёсе" 
+ cob_7899_scenerio.0006.b_tt: "Отправиться в Утёс Кастерли" 
+ cob_7899_scenerio.0006.c: "Искать помощь в Долине" 
+ cob_7899_scenerio.0006.c_tt: "Отправиться в Орлиное Гнездо" 
+ cob_7899_scenerio.0006.d: "Отправиться в одиночку" 
   
   #Tommen Events 
- #  cob_7899_scenerio.0400.t: "Setting Sail from Lannisport" #NT!
- #  cob_7899_scenerio.0400.desc: "As I arrive in [GetTitleByKey('c_lannisport').GetName] I am immediately greeted by [lannisport.GetName] who quickly informs me that my ship has been prepared and is ready to sail. I feel a great wave of energy flow through me at the thought of getting my journey underway, I was restless in the palace waiting for this moment knowing that every hour that passed was another hour that someone else could arrive and lay claim to the remains of the [valyrian_freehold_short|E] before me.\n\nNow was the time to push out into the sea and begin the long journey to [essos|E] so that we can discover what remains of [valyria|E] after the [doom|E]. The fleet would depart for [valyria|E] as soon as he was on board his flagship, making it's first stop at [GetTitleByKey('c_oldtown').GetName] to purchase supplies to continue the journey, this quest would prove to be expensive, but, at the end the riches of the [valyrian_freehold_short|E] would more than make up for the cost." #NT!
- #  cob_7899_scenerio.0400.a: "Spare no Expense" #NT!
- #  cob_7899_scenerio.0400.a_tt: "Travel to Oldtown" #NT!
- #  cob_7899_scenerio.0400.b: "I want to feel safe and comfortable" #NT!
- #  cob_7899_scenerio.0400.b_tt: "Travel to Oldtown" #NT!
- #  cob_7899_scenerio.0400.c: "I don't want to dip too deep into my coffers" #NT!
- #  cob_7899_scenerio.0400.c_tt: "Travel to Oldtown" #NT!
- #  cob_7899_scenerio.0400.d: "I'd like to spend as little as possible" #NT!
- #  cob_7899_scenerio.0400.d_tt: "Travel to Oldtown" #NT!
- #  cob_7899_scenerio.0400.e: "I have no need for any of this!" #NT!
- #  cob_7899_scenerio.0400.e_tt: "Travel to Oldtown (hopefully you don't regret this)" #NT!
+ #  cob_7899_scenerio.0400.t: "Setting Sail from Lannisport" 
+ #  cob_7899_scenerio.0400.desc: "As I arrive in [GetTitleByKey('c_lannisport').GetName] I am immediately greeted by [lannisport.GetName] who quickly informs me that my ship has been prepared and is ready to sail. I feel a great wave of energy flow through me at the thought of getting my journey underway, I was restless in the palace waiting for this moment knowing that every hour that passed was another hour that someone else could arrive and lay claim to the remains of the [valyrian_freehold_short|E] before me.\n\nNow was the time to push out into the sea and begin the long journey to [essos|E] so that we can discover what remains of [valyria|E] after the [doom|E]. The fleet would depart for [valyria|E] as soon as he was on board his flagship, making it's first stop at [GetTitleByKey('c_oldtown').GetName] to purchase supplies to continue the journey, this quest would prove to be expensive, but, at the end the riches of the [valyrian_freehold_short|E] would more than make up for the cost." 
+ #  cob_7899_scenerio.0400.a: "Spare no Expense" 
+ #  cob_7899_scenerio.0400.a_tt: "Travel to Oldtown" 
+ #  cob_7899_scenerio.0400.b: "I want to feel safe and comfortable" 
+ #  cob_7899_scenerio.0400.b_tt: "Travel to Oldtown" 
+ #  cob_7899_scenerio.0400.c: "I don't want to dip too deep into my coffers" 
+ #  cob_7899_scenerio.0400.c_tt: "Travel to Oldtown" 
+ #  cob_7899_scenerio.0400.d: "I'd like to spend as little as possible" 
+ #  cob_7899_scenerio.0400.d_tt: "Travel to Oldtown" 
+ #  cob_7899_scenerio.0400.e: "I have no need for any of this!" 
+ #  cob_7899_scenerio.0400.e_tt: "Travel to Oldtown (hopefully you don't regret this)" 
   
- #  cob_7899_scenerio.0401.t: "Arrival at Oldtown" #NT!
- #  cob_7899_scenerio.0401.desc: "[GetTitleByKey('c_oldtown').GetName]" #NT!
- #  cob_7899_scenerio.0401.a: "It is a high price but worth the cost for this journey" #NT!
- #  cob_7899_scenerio.0401.b: "This is outrageous! I will not be extorted!" #NT!
- #  cob_7899_scenerio.0401.b_tt: "You refuse to pay" #NT!
+ #  cob_7899_scenerio.0401.t: "Arrival at Oldtown" 
+ #  cob_7899_scenerio.0401.desc: "[GetTitleByKey('c_oldtown').GetName]" 
+ #  cob_7899_scenerio.0401.a: "It is a high price but worth the cost for this journey" 
+ #  cob_7899_scenerio.0401.b: "This is outrageous! I will not be extorted!" 
+ #  cob_7899_scenerio.0401.b_tt: "You refuse to pay" 
   
   
- #  cob_7899_scenerio.0402.t: "Resupply in Plankytown" #NT!
- #  cob_7899_scenerio.0402.desc: "[GetTitleByKey('c_plankytown').GetName]" #NT!
- #  cob_7899_scenerio.0402.a: "I will pay but this will not be forgotten" #NT!
- #  cob_7899_scenerio.0402.b: "Even a Lannister cannot afford these costs!" #NT!
- #  cob_7899_scenerio.0402.b_tt: "You refuse to pay" #NT!
+ #  cob_7899_scenerio.0402.t: "Resupply in Plankytown" 
+ #  cob_7899_scenerio.0402.desc: "[GetTitleByKey('c_plankytown').GetName]" 
+ #  cob_7899_scenerio.0402.a: "I will pay but this will not be forgotten" 
+ #  cob_7899_scenerio.0402.b: "Even a Lannister cannot afford these costs!" 
+ #  cob_7899_scenerio.0402.b_tt: "You refuse to pay" 
   
- #  cob_7899_scenerio.0403.t: "Detour to Lys" #NT!
- #  cob_7899_scenerio.0403.desc: "[GetTitleByKey('k_lys').GetName]" #NT!
- #  cob_7899_scenerio.0403.a: "..." #NT!
- #  cob_7899_scenerio.0403.b: "..." #NT!
- #  cob_7899_scenerio.0403.b_tt: "..." #NT!
+ #  cob_7899_scenerio.0403.t: "Detour to Lys" 
+ #  cob_7899_scenerio.0403.desc: "[GetTitleByKey('k_lys').GetName]" 
+ #  cob_7899_scenerio.0403.a: "..." 
+ #  cob_7899_scenerio.0403.b: "..." 
+ #  cob_7899_scenerio.0403.b_tt: "..." 
   
- #  cob_7899_scenerio.0404.t: "Arrival at Volantis" #NT!
- #  cob_7899_scenerio.0404.desc: "[GetTitleByKey('k_volantis').GetName]" #NT!
- #  cob_7899_scenerio.0404.a: "..." #NT!
- #  cob_7899_scenerio.0404.a_tt: "..." #NT!
+ #  cob_7899_scenerio.0404.t: "Arrival at Volantis" 
+ #  cob_7899_scenerio.0404.desc: "[GetTitleByKey('k_volantis').GetName]" 
+ #  cob_7899_scenerio.0404.a: "..." 
+ #  cob_7899_scenerio.0404.a_tt: "..." 
   
- #  cob_7899_scenerio.0499.t: "Landing in [valyria|E]" #NT!
- #  cob_7899_scenerio.0499.desc: "..." #NT!
- #  cob_7899_scenerio.0499.a: "..." #NT!
- #  cob_7899_scenerio.0499.a_tt: "..." #NT!
+ #  cob_7899_scenerio.0499.t: "Landing in [valyria|E]" 
+ #  cob_7899_scenerio.0499.desc: "..." 
+ #  cob_7899_scenerio.0499.a: "..." 
+ #  cob_7899_scenerio.0499.a_tt: "..." 
   
   #Aurion Events 
- cob_7899_scenerio.0500.t: "Прибытие во дворец Нимерии" #NT!
- cob_7899_scenerio.0500.desc: "Я иду по залам разрушенного дворца [location.GetName], что некогда был домом [Nymeria.GetName] из ройнаров, и [Select_CString(ROOT.Char.IsFemale, 'вспоминаю', 'вспоминаю' )] истории, которые моя мать рассказывала мне в детстве. Истории о [dragonlords|E] былых времён и их завоеваниях по всему [essos|E], о том, как они брали своё по праву божественному и силой драконьего пламени. Те, кто склонялся, были пощажены, а те, кто сопротивлялся, стирались с лица земли или изгонялись, а их бывшие королевства предавались гниению — как и это.\n\nПогружаясь в эти воспоминания, я не могу не задуматься: не стал ли [valyrian_freehold_short|E] слабым с течением времени? Интересно, посмотрели бы те завоеватели, те герои из легенд, на моих собратьев и испытали бы стыд за то, во что мы превратились. [valyria|E] некогда была вершиной мира, но в конце мы казались лишь ссорящимися детьми, сражающимися за власть и богатство… быть может, именно поэтому [ROOT.Char.GetFaith.HighGodName] решил [doom|E] наш народ… быть может, я [Select_CString(ROOT.Char.IsFemale, 'избрана', 'избран' )], чтобы сохранить мечту о [valyria|E] живой." #NT!
- cob_7899_scenerio.0500.a: "Мы идём дальше к Мрачным Вратам" #NT!
- cob_7899_scenerio.0500.a_tt: "Отправиться к Мрачным Вратам" #NT!
+ cob_7899_scenerio.0500.t: "Прибытие во дворец Нимерии" 
+ cob_7899_scenerio.0500.desc: "Я иду по залам разрушенного дворца [location.GetName], что некогда был домом [Nymeria.GetName] из ройнаров, и [Select_CString(ROOT.Char.IsFemale, 'вспоминаю', 'вспоминаю' )] истории, которые моя мать рассказывала мне в детстве. Истории о [dragonlords|E] былых времён и их завоеваниях по всему [essos|E], о том, как они брали своё по праву божественному и силой драконьего пламени. Те, кто склонялся, были пощажены, а те, кто сопротивлялся, стирались с лица земли или изгонялись, а их бывшие королевства предавались гниению — как и это.\n\nПогружаясь в эти воспоминания, я не могу не задуматься: не стал ли [valyrian_freehold_short|E] слабым с течением времени? Интересно, посмотрели бы те завоеватели, те герои из легенд, на моих собратьев и испытали бы стыд за то, во что мы превратились. [valyria|E] некогда была вершиной мира, но в конце мы казались лишь ссорящимися детьми, сражающимися за власть и богатство… быть может, именно поэтому [ROOT.Char.GetFaith.HighGodName] решил [doom|E] наш народ… быть может, я [Select_CString(ROOT.Char.IsFemale, 'избрана', 'избран' )], чтобы сохранить мечту о [valyria|E] живой." 
+ cob_7899_scenerio.0500.a: "Мы идём дальше к Мрачным Вратам" 
+ cob_7899_scenerio.0500.a_tt: "Отправиться к Мрачным Вратам" 
   
- cob_7899_scenerio.0501.t: "Решение у Мрачных Врат" #NT!
- cob_7899_scenerio.0501.desc: "Стоя у вод Ройны, с руинами [location.GetName] — ещё одного из завоеваний [valyrian_freehold_short|E] — позади, я осознаю, что в этот момент у меня есть выбор. Я могу продолжить путь, о котором [Select_CString(ROOT.Char.IsFemale, 'мечтала', 'мечтал' )] в начале этого похода, и повести своё войско к, быть может, выжженным и наполненным магмой останкам [valyria|E], чтобы восстановить мощь [valyrian_freehold_short|E] по своему образу… или… я могу воплотить дух первых [dragonlords|E] из [valyria|E], собрать выживших драконьих лордов в [essos|E] и вернуть колонии [valyrian_freehold_short|E] по праву завоевания и драконьего огня.\n\nСтоя на границе [GetTitleByKey('k_volantis').GetName], я [Select_CString(ROOT.Char.IsFemale, 'должна', 'должен' )] решить — отправлюсь ли я в выжженные земли [GetTitleByKey('e_valyria').GetName] или же проложу новый путь и создам Новую [valyria|E], как это делали мои предки.\n\n#bold ВНИМАНИЕ — оба пути будут трудными; рекомендуется сохраняться как можно чаще, чтобы избежать поражения#! " #NT!
- cob_7899_scenerio.0005.b: "Я покорю [free_cities|E], чтобы создать Новую [valyria|E]" #NT!
- cob_7899_scenerio.0501.a: "Нам нужно пополнить припасы в Волантисе" #NT!
- cob_7899_scenerio.0501.a_tt: "Отправиться в Волантис" #NT!
+ cob_7899_scenerio.0501.t: "Решение у Мрачных Врат" 
+ cob_7899_scenerio.0501.desc: "Стоя у вод Ройны, с руинами [location.GetName] — ещё одного из завоеваний [valyrian_freehold_short|E] — позади, я осознаю, что в этот момент у меня есть выбор. Я могу продолжить путь, о котором [Select_CString(ROOT.Char.IsFemale, 'мечтала', 'мечтал' )] в начале этого похода, и повести своё войско к, быть может, выжженным и наполненным магмой останкам [valyria|E], чтобы восстановить мощь [valyrian_freehold_short|E] по своему образу… или… я могу воплотить дух первых [dragonlords|E] из [valyria|E], собрать выживших драконьих лордов в [essos|E] и вернуть колонии [valyrian_freehold_short|E] по праву завоевания и драконьего огня.\n\nСтоя на границе [GetTitleByKey('k_volantis').GetName], я [Select_CString(ROOT.Char.IsFemale, 'должна', 'должен' )] решить — отправлюсь ли я в выжженные земли [GetTitleByKey('e_valyria').GetName] или же проложу новый путь и создам Новую [valyria|E], как это делали мои предки.\n\n#bold ВНИМАНИЕ — оба пути будут трудными; рекомендуется сохраняться как можно чаще, чтобы избежать поражения#! " 
+ cob_7899_scenerio.0005.b: "Я покорю [free_cities|E], чтобы создать Новую [valyria|E]" 
+ cob_7899_scenerio.0501.a: "Нам нужно пополнить припасы в Волантисе" 
+ cob_7899_scenerio.0501.a_tt: "Отправиться в Волантис" 
   
   ##Aurion Valyria Expedition 
   
- cob_7899_scenerio.0502.t: "Пополнение запасов на Длинном мосту" #NT!
- cob_7899_scenerio.0502.desc: "Первое, что я [Select_CString(ROOT.Char.IsFemale, 'заметила', 'заметил' )] в [location.GetName], — это бесконечный шум, казавшийся повсюду в городе. Не могу сказать наверняка, но казалось, будто этот город шумел в десять раз сильнее столицы Валирии, хотя был меньше её более чем вдвое. Единственное, что было хуже шума, — это запах: грязные люди, переполненные и плохо ухоженные нужники, рыба и множество других ароматов, смешавшихся в самое гнусное зловоние вдоль длинного моста, где мой лагерь добывал припасы.\n\nК счастью, вскоре мы снова выступим в поход к [valyria|E], чтобы вернуть наш дом. Когда я [Select_CString(ROOT.Char.IsFemale, 'шла', 'шёл' )] по улицам, я [Select_CString(ROOT.Char.IsFemale, 'заметила', 'заметил' )], что всё больше людей празднуют гибель моей родины, заявляя, что мир наконец свободен от удушающей хватки [valyrian_freehold_short|E]. Я не стала ввязываться в спор, благо я оставила [vassarion.GetName] за пределами города, чтобы избежать ненужных столкновений во время пути.\n\nИх слова ничего не значат, ведь они сами увидят истину: я, [aurion.GetName], вернусь в [valyria|E] и восстановлю её былое величие. А пока я могу позволить себе передышку, прежде чем мы двинемся дальше к тому, что осталось от моего дома…" #NT!
- cob_7899_scenerio.0502.a: "Пора двигаться дальше к Малой [valyria|E]" #NT!
- cob_7899_scenerio.0502.a_tt: "Отправиться в Малу́ю [valyria|E]" #NT!
+ cob_7899_scenerio.0502.t: "Пополнение запасов на Длинном мосту" 
+ cob_7899_scenerio.0502.desc: "Первое, что я [Select_CString(ROOT.Char.IsFemale, 'заметила', 'заметил' )] в [location.GetName], — это бесконечный шум, казавшийся повсюду в городе. Не могу сказать наверняка, но казалось, будто этот город шумел в десять раз сильнее столицы Валирии, хотя был меньше её более чем вдвое. Единственное, что было хуже шума, — это запах: грязные люди, переполненные и плохо ухоженные нужники, рыба и множество других ароматов, смешавшихся в самое гнусное зловоние вдоль длинного моста, где мой лагерь добывал припасы.\n\nК счастью, вскоре мы снова выступим в поход к [valyria|E], чтобы вернуть наш дом. Когда я [Select_CString(ROOT.Char.IsFemale, 'шла', 'шёл' )] по улицам, я [Select_CString(ROOT.Char.IsFemale, 'заметила', 'заметил' )], что всё больше людей празднуют гибель моей родины, заявляя, что мир наконец свободен от удушающей хватки [valyrian_freehold_short|E]. Я не стала ввязываться в спор, благо я оставила [vassarion.GetName] за пределами города, чтобы избежать ненужных столкновений во время пути.\n\nИх слова ничего не значат, ведь они сами увидят истину: я, [aurion.GetName], вернусь в [valyria|E] и восстановлю её былое величие. А пока я могу позволить себе передышку, прежде чем мы двинемся дальше к тому, что осталось от моего дома…" 
+ cob_7899_scenerio.0502.a: "Пора двигаться дальше к Малой [valyria|E]" 
+ cob_7899_scenerio.0502.a_tt: "Отправиться в Малу́ю [valyria|E]" 
   
- cob_7899_scenerio.0503.t: "Прибытие к границе [valyrian_freehold_short|E]" #NT!
- cob_7899_scenerio.0503.desc: "Я стою у границы Волантиса, возле [location.GetName], и не могу поверить своим глазам, глядя на земли всего в нескольких лигах впереди. Чёрная как ночь туча заслонила голубое небо, обрушив дождь, от которого кожа жглась при прикосновении. Земли впереди тонули в мареве, застилавшем зрение и не дававшем разглядеть, что ждёт меня и мой обоз, вселяя в ряды войска чувство ужаса. Я [Select_CString(ROOT.Char.IsFemale, 'повернулась', 'повернулся' )] к Вассариону и [Select_CString(ROOT.Char.IsFemale, 'вскочила', 'вскочил' )] обратно в седло, прежде чем развернуть зверя к своему войску.\n\n«Это был долгий путь, и дорога впереди выглядит мрачной, друзья мои. Но мы все были избраны для святой цели — вернуть то, что было потеряно, прогнать тьму и вернуть свет в этот мир. [ROOT.Char.GetFaith.HighGodName] не позволил бы нам зайти так далеко лишь для того, чтобы отступить сейчас. Мы выступим вперёд и вернём то, что по праву принадлежит нам, чтобы возродить мечту о [valyria|E] для всех, кто живёт в этом мире!»\n\nКрики, поднявшиеся среди воинов, стали подтверждением того, что они готовы встретить всё, что ждёт их впереди…" #NT!
- cob_7899_scenerio.0503.a: "Пора вернуть наш дом" #NT!
- cob_7899_scenerio.0503.a_tt: "Отправиться в [valyria|E]" #NT!
+ cob_7899_scenerio.0503.t: "Прибытие к границе [valyrian_freehold_short|E]" 
+ cob_7899_scenerio.0503.desc: "Я стою у границы Волантиса, возле [location.GetName], и не могу поверить своим глазам, глядя на земли всего в нескольких лигах впереди. Чёрная как ночь туча заслонила голубое небо, обрушив дождь, от которого кожа жглась при прикосновении. Земли впереди тонули в мареве, застилавшем зрение и не дававшем разглядеть, что ждёт меня и мой обоз, вселяя в ряды войска чувство ужаса. Я [Select_CString(ROOT.Char.IsFemale, 'повернулась', 'повернулся' )] к Вассариону и [Select_CString(ROOT.Char.IsFemale, 'вскочила', 'вскочил' )] обратно в седло, прежде чем развернуть зверя к своему войску.\n\n«Это был долгий путь, и дорога впереди выглядит мрачной, друзья мои. Но мы все были избраны для святой цели — вернуть то, что было потеряно, прогнать тьму и вернуть свет в этот мир. [ROOT.Char.GetFaith.HighGodName] не позволил бы нам зайти так далеко лишь для того, чтобы отступить сейчас. Мы выступим вперёд и вернём то, что по праву принадлежит нам, чтобы возродить мечту о [valyria|E] для всех, кто живёт в этом мире!»\n\nКрики, поднявшиеся среди воинов, стали подтверждением того, что они готовы встретить всё, что ждёт их впереди…" 
+ cob_7899_scenerio.0503.a: "Пора вернуть наш дом" 
+ cob_7899_scenerio.0503.a_tt: "Отправиться в [valyria|E]" 
   
   ##Aurion New Valyria Conquest 
   
- cob_7899_scenerio.0510.t: "Император Аурион I Новой [valyria|E]" #NT!
- cob_7899_scenerio.0510.desc: "Когда я вступаю в позолоченные залы Старого Волантиса, я [Select_CString(ROOT.Char.IsFemale, 'полна', 'полон' )] праведной решимости. Эти залы были предначертаны мне [ROOT.Char.GetFaith.HighGodName] из [valyria|E], основатели колонии Старого Волантиса едва ли могли представить, что город, который они возведут, по божественному праву станет местом, где сядет первый Император Новой [valyria|E].\n\nОднако я не усну спокойно, пока все дочери бывшего [the_freehold|E] не встанут под моим стягом: я [Select_CString(ROOT.Char.IsFemale, 'должна', 'должен' )] собрать выживших [dragonlords|E] в [essos|E] и созвать их ко двору. Отсюда мы выступим и вернём то, что по праву принадлежит нам, силой и могуществом дракона." #NT!
- cob_7899_scenerio.0510.a: "Я отправлюсь, чтобы объединить дочерей [valyria|E]" #NT!
+ cob_7899_scenerio.0510.t: "Император Аурион I Новой [valyria|E]" 
+ cob_7899_scenerio.0510.desc: "Когда я вступаю в позолоченные залы Старого Волантиса, я [Select_CString(ROOT.Char.IsFemale, 'полна', 'полон' )] праведной решимости. Эти залы были предначертаны мне [ROOT.Char.GetFaith.HighGodName] из [valyria|E], основатели колонии Старого Волантиса едва ли могли представить, что город, который они возведут, по божественному праву станет местом, где сядет первый Император Новой [valyria|E].\n\nОднако я не усну спокойно, пока все дочери бывшего [the_freehold|E] не встанут под моим стягом: я [Select_CString(ROOT.Char.IsFemale, 'должна', 'должен' )] собрать выживших [dragonlords|E] в [essos|E] и созвать их ко двору. Отсюда мы выступим и вернём то, что по праву принадлежит нам, силой и могуществом дракона." 
+ cob_7899_scenerio.0510.a: "Я отправлюсь, чтобы объединить дочерей [valyria|E]" 
   
- cob_7899_scenerio.0511.t: "Всё, что было... будет снова" #NT!
- cob_7899_scenerio.0511.desc: "Со всех уголков [essos|E] в мою аудиторию явились другие [dragonlords|E], избранные [ROOT.Char.GetFaith.HighGodName] пережить [doom|E]. Передо мной стояли [belaerys_house.GetFirstNameRegnal], [urnebar_house.GetFirstNameRegnal], [sonaryen_house.GetFirstNameRegnal] и [mataeryon_house.GetFirstNameRegnal], наполненные праведным желанием присоединиться ко мне в восстановлении порядка в этом мире так, как когда-то делали наши предки.\n\nОстаётся лишь начать кампанию завоеваний по бывшим колониям [valyrian_freehold_short|E], чтобы вновь объединить их под мощью [dragon|E] через неукротимую ярость драконьего огня... мы выступим из Волантиса, но мне теперь предстоит решить, какой из [free_cities|E] атаковать первым во имя [dragonlords|E] Новой [valyria|E]… нанести ли удар по Миру, чтобы проложить путь в Пентос? Или сначала ударить по Лису, затем по Тирошу, чтобы получить контроль над южными регионами?" #NT!
- cob_7899_scenerio.0511.a: "Дом Урнебар будет править Тирошем" #NT!
- cob_7899_scenerio.0511.b: "Дом Сонарьен будет править Лисом" #NT!
- cob_7899_scenerio.0511.c: "Дом Матейрион будет править Миром" #NT!
- cob_7899_scenerio.0511.d: "Дом Белейрис будет править Пентосом" #NT!
+ cob_7899_scenerio.0511.t: "Всё, что было... будет снова" 
+ cob_7899_scenerio.0511.desc: "Со всех уголков [essos|E] в мою аудиторию явились другие [dragonlords|E], избранные [ROOT.Char.GetFaith.HighGodName] пережить [doom|E]. Передо мной стояли [belaerys_house.GetFirstNameRegnal], [urnebar_house.GetFirstNameRegnal], [sonaryen_house.GetFirstNameRegnal] и [mataeryon_house.GetFirstNameRegnal], наполненные праведным желанием присоединиться ко мне в восстановлении порядка в этом мире так, как когда-то делали наши предки.\n\nОстаётся лишь начать кампанию завоеваний по бывшим колониям [valyrian_freehold_short|E], чтобы вновь объединить их под мощью [dragon|E] через неукротимую ярость драконьего огня... мы выступим из Волантиса, но мне теперь предстоит решить, какой из [free_cities|E] атаковать первым во имя [dragonlords|E] Новой [valyria|E]… нанести ли удар по Миру, чтобы проложить путь в Пентос? Или сначала ударить по Лису, затем по Тирошу, чтобы получить контроль над южными регионами?" 
+ cob_7899_scenerio.0511.a: "Дом Урнебар будет править Тирошем" 
+ cob_7899_scenerio.0511.b: "Дом Сонарьен будет править Лисом" 
+ cob_7899_scenerio.0511.c: "Дом Матейрион будет править Миром" 
+ cob_7899_scenerio.0511.d: "Дом Белейрис будет править Пентосом" 
   
- cob_7899_scenerio.0512.t: "Завоевание [free_cities|E]" #NT!
- cob_7899_scenerio.0512.desc: "Я иду среди горящего, залитого кровью поля битвы, где крики раненых смешиваются с ликующими воплями моих солдат, образуя в ушах некое кощунственное величие. Мои воины стоят позади, празднуя победу, пока я принимаю капитуляцию архонта; их крики заглушают весь остальной мир, когда я провозглашаю, что этот [free_city|E] отныне находится под прямой властью Новой [valyrian_freehold|E], и новый [dragonlord|E] будет править здесь по божественному праву.\n\nТеперь мне предстоит выбрать следующий город, что падёт перед мощью Новой [valyria|E]…" #NT!
+ cob_7899_scenerio.0512.t: "Завоевание [free_cities|E]" 
+ cob_7899_scenerio.0512.desc: "Я иду среди горящего, залитого кровью поля битвы, где крики раненых смешиваются с ликующими воплями моих солдат, образуя в ушах некое кощунственное величие. Мои воины стоят позади, празднуя победу, пока я принимаю капитуляцию архонта; их крики заглушают весь остальной мир, когда я провозглашаю, что этот [free_city|E] отныне находится под прямой властью Новой [valyrian_freehold|E], и новый [dragonlord|E] будет править здесь по божественному праву.\n\nТеперь мне предстоит выбрать следующий город, что падёт перед мощью Новой [valyria|E]…" 
   
- cob_7899_scenerio.0516.t: "Оливковая ветвь для бывшего форпоста" #NT!
- cob_7899_scenerio.0516.desc: "Моё завоевание [free_cities|E] продолжается, и выжившие [dragonlords|E] [valyria|E] правят со мной. Однако, глядя на карту своей расширяющейся империи, я замечаю, что моё внимание вновь и вновь притягивает небольшая цепь островов за [narrow_sea|El], у устья Черноводной бухты. Я кладу палец на карту возле самого большого из этих островов… Драконий Камень, бывший форпост на далёкой окраине [valyrian_freehold|E], ныне стоящий особняком от Новой Валирийской империи.\n\nРазмышляя о прямом объявлении завоевания, чтобы вернуть то, что некогда принадлежало [valyria|E], я осознаю, что Таргариены пережили [doom|E] так же, как и [dragonlords|E], что ныне правят в моей империи: по божественному вмешательству. Значит, разумнее будет послать весть тем, кто ныне властвует на этой суровой скале, с предложением вновь вернуться под нашу власть…" #NT!
- cob_7899_scenerio.0516.a: "Отправить ворона с предложением присягнуть Новой [valyria|E]" #NT!
+ cob_7899_scenerio.0516.t: "Оливковая ветвь для бывшего форпоста" 
+ cob_7899_scenerio.0516.desc: "Моё завоевание [free_cities|E] продолжается, и выжившие [dragonlords|E] [valyria|E] правят со мной. Однако, глядя на карту своей расширяющейся империи, я замечаю, что моё внимание вновь и вновь притягивает небольшая цепь островов за [narrow_sea|El], у устья Черноводной бухты. Я кладу палец на карту возле самого большого из этих островов… Драконий Камень, бывший форпост на далёкой окраине [valyrian_freehold|E], ныне стоящий особняком от Новой Валирийской империи.\n\nРазмышляя о прямом объявлении завоевания, чтобы вернуть то, что некогда принадлежало [valyria|E], я осознаю, что Таргариены пережили [doom|E] так же, как и [dragonlords|E], что ныне правят в моей империи: по божественному вмешательству. Значит, разумнее будет послать весть тем, кто ныне властвует на этой суровой скале, с предложением вновь вернуться под нашу власть…" 
+ cob_7899_scenerio.0516.a: "Отправить ворона с предложением присягнуть Новой [valyria|E]" 
   
- cob_7899_scenerio.0517.t: "Ворон из [valyrian_freehold_short|E]?" #NT!
- cob_7899_scenerio.0517.desc: "Я просыпаюсь среди ночи от громкого стука в дверь моей опочивальни. С трудом вылезаю из тёплой постели, накидываю халат и иду узнать, кто осмелился потревожить меня в такой поздний час. Открыв дверь, я вижу мейстера, стоящего в коридоре с посланием ворона в дрожащей руке. Я молча беру письмо, разворачиваю пергамент и начинаю читать его содержимое…\n\nСпустя несколько часов лорд Дрифтмарка стоял со мной в тронном зале Драконьего Камня с тем же выражением шока на лице, что и у меня часами ранее. [aurion.GetName] взлетел на дракона и завоевал бывшие колонии [valyrian_freehold_short|E], провозгласив себя императором Новой [valyria|E], и потребовал, чтобы Драконий Камень присягнул этому новому порядку… теперь именно мне предстоит решить судьбу моего королевства…" #NT!
- cob_7899_scenerio.0517.a: "Драконий Камень не склонится перед новым драконьим лордом" #NT!
- cob_7899_scenerio.0517.b: "Мы примем это предложение и присоединимся к Новой [valyria|E]" #NT!
+ cob_7899_scenerio.0517.t: "Ворон из [valyrian_freehold_short|E]?" 
+ cob_7899_scenerio.0517.desc: "Я просыпаюсь среди ночи от громкого стука в дверь моей опочивальни. С трудом вылезаю из тёплой постели, накидываю халат и иду узнать, кто осмелился потревожить меня в такой поздний час. Открыв дверь, я вижу мейстера, стоящего в коридоре с посланием ворона в дрожащей руке. Я молча беру письмо, разворачиваю пергамент и начинаю читать его содержимое…\n\nСпустя несколько часов лорд Дрифтмарка стоял со мной в тронном зале Драконьего Камня с тем же выражением шока на лице, что и у меня часами ранее. [aurion.GetName] взлетел на дракона и завоевал бывшие колонии [valyrian_freehold_short|E], провозгласив себя императором Новой [valyria|E], и потребовал, чтобы Драконий Камень присягнул этому новому порядку… теперь именно мне предстоит решить судьбу моего королевства…" 
+ cob_7899_scenerio.0517.a: "Драконий Камень не склонится перед новым драконьим лордом" 
+ cob_7899_scenerio.0517.b: "Мы примем это предложение и присоединимся к Новой [valyria|E]" 
   
- cob_7899_scenerio.0518.t: "Оливковая ветвь отвергнута и разбита" #NT!
- cob_7899_scenerio.0518.desc: "'Проклятые трусы!'\n\nЯ [Select_CString(ROOT.Char.IsFemale, 'смяла', 'смял' )] ответ, полученный с Драконьего Камня, и в ярости [Select_CString(ROOT.Char.IsFemale, 'бросила', 'бросил' )] его в пылающий очаг. Как они смеют считать себя столь превосходными, чтобы отказываться стать частью моей новой империи? Неужели они действительно верят, что могут стоять в одиночку в этом мире и противостоять могуществу Новой [valyria|E]? Тот форпост когда-то принадлежал старому [the_freehold|E] и по праву должен вернуться в Империю Новой [valyria|E], независимо от того, населяют ли его трусливые Таргариены или нет.\n\nТеперь мне предстоит решить, какой курс действий принять..." #NT!
- cob_7899_scenerio.0518.a: "Мы вернём Драконий Камень в [valyria|E] силой!" #NT!
- cob_7899_scenerio.0518.b: "Пусть остаются на своей скале и трепещут" #NT!
+ cob_7899_scenerio.0518.t: "Оливковая ветвь отвергнута и разбита" 
+ cob_7899_scenerio.0518.desc: "'Проклятые трусы!'\n\nЯ [Select_CString(ROOT.Char.IsFemale, 'смяла', 'смял' )] ответ, полученный с Драконьего Камня, и в ярости [Select_CString(ROOT.Char.IsFemale, 'бросила', 'бросил' )] его в пылающий очаг. Как они смеют считать себя столь превосходными, чтобы отказываться стать частью моей новой империи? Неужели они действительно верят, что могут стоять в одиночку в этом мире и противостоять могуществу Новой [valyria|E]? Тот форпост когда-то принадлежал старому [the_freehold|E] и по праву должен вернуться в Империю Новой [valyria|E], независимо от того, населяют ли его трусливые Таргариены или нет.\n\nТеперь мне предстоит решить, какой курс действий принять..." 
+ cob_7899_scenerio.0518.a: "Мы вернём Драконий Камень в [valyria|E] силой!" 
+ cob_7899_scenerio.0518.b: "Пусть остаются на своей скале и трепещут" 
   
- # cob_7899_scenerio.0519.t: "An Embarassing Defeat..." #NT!
- # cob_7899_scenerio.0519.desc: "..." #NT!
- # cob_7899_scenerio.0519.a: "We have been beaten defeated" #NT!
+ # cob_7899_scenerio.0519.t: "An Embarassing Defeat..." 
+ # cob_7899_scenerio.0519.desc: "..." 
+ # cob_7899_scenerio.0519.a: "We have been beaten defeated" 
   
- cob_7899_scenerio.0520.t: "Драконий Камень возвращается в [valyria|E]" #NT!
- cob_7899_scenerio.0520.desc: "Сегодня славный день для моей новой Империи: до моего двора дошли вести, что Драконий Камень заявил о намерении присягнуть Империи Новой [valyria|E]. С этой вестью последняя из бывших колоний [valyrian_freehold_short|E] оказалась объединена так, как не была никогда прежде — с единой целью: сохранить могущество [valyrian_freehold|E] живым в памяти тех, кто радовался бы нашему падению. Отныне мы должны стоять единым фронтом против всех, кто осмелится нам противостоять, пока не настанет день, когда у [valyria|E] больше не останется врагов, которых можно бояться." #NT!
- cob_7899_scenerio.0520.a: "Драконий Камень будет принят в Новую [valyria|E]" #NT!
+ cob_7899_scenerio.0520.t: "Драконий Камень возвращается в [valyria|E]" 
+ cob_7899_scenerio.0520.desc: "Сегодня славный день для моей новой Империи: до моего двора дошли вести, что Драконий Камень заявил о намерении присягнуть Империи Новой [valyria|E]. С этой вестью последняя из бывших колоний [valyrian_freehold_short|E] оказалась объединена так, как не была никогда прежде — с единой целью: сохранить могущество [valyrian_freehold|E] живым в памяти тех, кто радовался бы нашему падению. Отныне мы должны стоять единым фронтом против всех, кто осмелится нам противостоять, пока не настанет день, когда у [valyria|E] больше не останется врагов, которых можно бояться." 
+ cob_7899_scenerio.0520.a: "Драконий Камень будет принят в Новую [valyria|E]" 
   
   ##Aurion Valyria Events 
   
- cob_7899_scenerio.0521.t: "Атака огненного вирма!" #NT!
- cob_7899_scenerio.0521.desc: "Когда лагерь достигает руин [location.GetName], мы чувствуем, как земля дрожит у нас под ногами. Паника охватывает отряд, и вдруг земля впереди разверзается — из неё вырывается огромный огненный вирм, преграждая нам путь.\n\n«Мой [ROOT.Char.GetLadyLord]! Что нам делать?» — кричит один из придворных, медленно пятясь назад, словно собираясь бежать. Я оглядываюсь на армию, что решила последовать за мной в этом походе, и теперь [Select_CString(ROOT.Char.IsFemale, 'должна', 'должен' )] решить, как именно мы справимся с этой угрозой…" #NT!
- cob_7899_scenerio.0521.a: "Я сам[Select_CString(ROOT.Char.IsFemale, 'а', '' )] встречу этого зверя" #NT!
- cob_7899_scenerio.0521.b: "Мы должны отступить!" #NT!
- cob_7899_scenerio.0521.c: "С этим справится один из моих рыцарей!" #NT!
+ cob_7899_scenerio.0521.t: "Атака огненного вирма!" 
+ cob_7899_scenerio.0521.desc: "Когда лагерь достигает руин [location.GetName], мы чувствуем, как земля дрожит у нас под ногами. Паника охватывает отряд, и вдруг земля впереди разверзается — из неё вырывается огромный огненный вирм, преграждая нам путь.\n\n«Мой [ROOT.Char.GetLadyLord]! Что нам делать?» — кричит один из придворных, медленно пятясь назад, словно собираясь бежать. Я оглядываюсь на армию, что решила последовать за мной в этом походе, и теперь [Select_CString(ROOT.Char.IsFemale, 'должна', 'должен' )] решить, как именно мы справимся с этой угрозой…" 
+ cob_7899_scenerio.0521.a: "Я сам[Select_CString(ROOT.Char.IsFemale, 'а', '' )] встречу этого зверя" 
+ cob_7899_scenerio.0521.b: "Мы должны отступить!" 
+ cob_7899_scenerio.0521.c: "С этим справится один из моих рыцарей!" 
   
- cob_7899_scenerio.0522.t: "$travel_danger_prefix$ Засада выжившего из [valyrian_freehold_short|E]!" #NT!
- cob_7899_scenerio.0522.desc: "Когда наш отряд проходит через [location.GetName], боевой клич рассек тонкий утренний воздух, пробежав холодком по спинам. Даже среди самых отважных путников этот звук заставил бы смельчаков метнуться к материнским юбкам.\n\n"Всадники, [ROOT.Char.GetLadyLord]!" Голос разведчика пронзает напряжение, привлекая мое внимание, пока он выхватывает меч и указывает им вперед. Пока ничего не видно, но топот множества копыт — дюжина коней или больше — становится громче, ближе. Паника распространяется среди нас, как лесной пожар; к хору страха присоединяется еще один голос, когда они показываются. "Их #bold так много#!!"\n\nХотя их немного, враги крупные, бесстрашные и, по-видимому, готовы отдать жизни за нашу добычу. Во главе едет [Select_CString(freeholder_looter.IsFemale, 'огромная', 'огромный' )] [freeholder_looter.GetWomanMan] в изодранных остатках некогда богатых валирийских одежд, [Select_CString(freeholder_looter.IsFemale, 'вооружена', 'вооружен' )] двуручным палашом. Предводитель этой шайки выкрикивает свое имя, чтобы все услышали, — [freeholder_looter.GetFirstNameNicknamed]. Самонадеянный налетчик уверенным, могучим голосом разглагольствует о [freeholder_looter.GetHerHis] жестокости, о смелых вылазках вроде этой и вспыльчивом нраве.\n\nКогда налетчики приближаются, моя лошадь встает на дыбы и фыркает, грозя выбросить меня из седла, но я крепко сжимаю поводья и выпрямляюсь. Поднимая свою [ROOT.Char.Custom('signature_weapon')] в воздух, я кричу..." #NT!
- cob_7899_scenerio.0522.a: "Поворачивайте назад! Немедленно назад!" #NT!
- cob_7899_scenerio.0522.a.tt: "Вы и ваша свита пытаетесь бежать от налетчиков из [valyrian_freehold_short|E]." #NT!
- cob_7899_scenerio.0522.a.toast: "Бежать!" #NT!
- cob_7899_scenerio.0522.a.fleeing: "Вы сбежали без помех. Получай, [freeholder_looter.GetFirstName]!" #NT!
- cob_7899_scenerio.0522.a.minordelay: "Вы сбежали, но это вызвало небольшую задержку в пути." #NT!
- cob_7899_scenerio.0522.a.majordelay: "Вы сбежали, но это вызвало большую задержку в пути." #NT!
- cob_7899_scenerio.0522.a.minortheft: "Вам удалось спастись с жизнями, но не со всем имуществом." #NT!
- cob_7899_scenerio.0522.a.majortheft: "Вам удалось спастись с жизнями, но при побеге из седла выпал ваш кошель." #NT!
- cob_7899_scenerio.0522.a.minorcombo: "Несмотря на маневр, [freeholder_looter.GetFirstNameNoTooltip] сумел похитить часть ваших вещей." #NT!
- cob_7899_scenerio.0522.a.majorcombo: "Несмотря на сложный маневр, [freeholder_looter.GetFirstNameNoTooltip] сумел похитить большую часть ваших вещей." #NT!
- cob_7899_scenerio.0522.a.scattered: "Ваша свита была рассеяна — каждый сам за себя!" #NT!
- cob_7899_scenerio.0522.b: "Хватит трусить, за мной! В атаку!" #NT!
- cob_7899_scenerio.0522.b.tt: "Вы и ваши стражи бросаетесь на налетчиков из [valyrian_freehold_short|E]." #NT!
- cob_7899_scenerio.0522.b.winning: "Вы побеждаете в битве." #NT!
- cob_7899_scenerio.0522.b.win: "Вы победили" #NT!
- cob_7899_scenerio.0522.b.killed: "Вы перебили всех налетчиков в отряде." #NT!
- cob_7899_scenerio.0522.b.imprisoned: "Вы пленили предводителя налетчиков из [valyrian_freehold_short|E], [freeholder_looter.GetFirstName]!" #NT!
- cob_7899_scenerio.0522.b.fleeing: "Отряд налетчиков из [valyrian_freehold_short|E] и их предводитель [freeholder_looter.GetFirstName] сбежали после часового сражения!" #NT!
- cob_7899_scenerio.0522.b.losing: "Вы проигрываете битву." #NT!
- cob_7899_scenerio.0522.b.loss: "Вы проиграли" #NT!
- cob_7899_scenerio.0522.b.robbed: "Вы потерпели поражение, вас окружили и ограбили; они забрали всё, что у вас было." #NT!
- cob_7899_scenerio.0522.b.kidnapping: "Вы потерпели поражение, и налетчики увели [kidnapped_entourage.GetName]..." #NT!
- cob_7899_scenerio.0522.c: "А как насчет взятки..." #NT!
- cob_7899_scenerio.0522.c.tt: "Вы пытаетесь переманить [freeholder_looter.GetFirstNameNoTooltip]." #NT!
- cob_7899_scenerio.0522.c.joined: "[freeholder_looter.GetFirstNameNoTooltip] присоединяется к вашему двору" #NT!
- cob_7899_scenerio.0522.c.else: "Но стоит ли доверять опальному Валирийцу?" #NT!
- cob_7899_scenerio.0522.c.ranwithmoney: "[freeholder_looter.GetFirstNameNoTooltip] сбежал с деньгами" #NT!
- cob_7899_scenerio.0522.d: "Если мы оставим [sacrificed_entourage.GetFirstNameNoTooltip], это может выиграть нам время." #NT!
- cob_7899_scenerio.0522.d.tt: "Вы пожертвуете [sacrificed_entourage.GetName], пытаясь отвлечь налетчиков." #NT!
+ cob_7899_scenerio.0522.t: "$travel_danger_prefix$ Засада выжившего из [valyrian_freehold_short|E]!" 
+ cob_7899_scenerio.0522.desc: "Когда наш отряд проходит через [location.GetName], боевой клич рассек тонкий утренний воздух, пробежав холодком по спинам. Даже среди самых отважных путников этот звук заставил бы смельчаков метнуться к материнским юбкам.\n\n"Всадники, [ROOT.Char.GetLadyLord]!" Голос разведчика пронзает напряжение, привлекая мое внимание, пока он выхватывает меч и указывает им вперед. Пока ничего не видно, но топот множества копыт — дюжина коней или больше — становится громче, ближе. Паника распространяется среди нас, как лесной пожар; к хору страха присоединяется еще один голос, когда они показываются. "Их #bold так много#!!"\n\nХотя их немного, враги крупные, бесстрашные и, по-видимому, готовы отдать жизни за нашу добычу. Во главе едет [Select_CString(freeholder_looter.IsFemale, 'огромная', 'огромный' )] [freeholder_looter.GetWomanMan] в изодранных остатках некогда богатых валирийских одежд, [Select_CString(freeholder_looter.IsFemale, 'вооружена', 'вооружен' )] двуручным палашом. Предводитель этой шайки выкрикивает свое имя, чтобы все услышали, — [freeholder_looter.GetFirstNameNicknamed]. Самонадеянный налетчик уверенным, могучим голосом разглагольствует о [freeholder_looter.GetHerHis] жестокости, о смелых вылазках вроде этой и вспыльчивом нраве.\n\nКогда налетчики приближаются, моя лошадь встает на дыбы и фыркает, грозя выбросить меня из седла, но я крепко сжимаю поводья и выпрямляюсь. Поднимая свою [ROOT.Char.Custom('signature_weapon')] в воздух, я кричу..." 
+ cob_7899_scenerio.0522.a: "Поворачивайте назад! Немедленно назад!" 
+ cob_7899_scenerio.0522.a.tt: "Вы и ваша свита пытаетесь бежать от налетчиков из [valyrian_freehold_short|E]." 
+ cob_7899_scenerio.0522.a.toast: "Бежать!" 
+ cob_7899_scenerio.0522.a.fleeing: "Вы сбежали без помех. Получай, [freeholder_looter.GetFirstName]!" 
+ cob_7899_scenerio.0522.a.minordelay: "Вы сбежали, но это вызвало небольшую задержку в пути." 
+ cob_7899_scenerio.0522.a.majordelay: "Вы сбежали, но это вызвало большую задержку в пути." 
+ cob_7899_scenerio.0522.a.minortheft: "Вам удалось спастись с жизнями, но не со всем имуществом." 
+ cob_7899_scenerio.0522.a.majortheft: "Вам удалось спастись с жизнями, но при побеге из седла выпал ваш кошель." 
+ cob_7899_scenerio.0522.a.minorcombo: "Несмотря на маневр, [freeholder_looter.GetFirstNameNoTooltip] сумел похитить часть ваших вещей." 
+ cob_7899_scenerio.0522.a.majorcombo: "Несмотря на сложный маневр, [freeholder_looter.GetFirstNameNoTooltip] сумел похитить большую часть ваших вещей." 
+ cob_7899_scenerio.0522.a.scattered: "Ваша свита была рассеяна — каждый сам за себя!" 
+ cob_7899_scenerio.0522.b: "Хватит трусить, за мной! В атаку!" 
+ cob_7899_scenerio.0522.b.tt: "Вы и ваши стражи бросаетесь на налетчиков из [valyrian_freehold_short|E]." 
+ cob_7899_scenerio.0522.b.winning: "Вы побеждаете в битве." 
+ cob_7899_scenerio.0522.b.win: "Вы победили" 
+ cob_7899_scenerio.0522.b.killed: "Вы перебили всех налетчиков в отряде." 
+ cob_7899_scenerio.0522.b.imprisoned: "Вы пленили предводителя налетчиков из [valyrian_freehold_short|E], [freeholder_looter.GetFirstName]!" 
+ cob_7899_scenerio.0522.b.fleeing: "Отряд налетчиков из [valyrian_freehold_short|E] и их предводитель [freeholder_looter.GetFirstName] сбежали после часового сражения!" 
+ cob_7899_scenerio.0522.b.losing: "Вы проигрываете битву." 
+ cob_7899_scenerio.0522.b.loss: "Вы проиграли" 
+ cob_7899_scenerio.0522.b.robbed: "Вы потерпели поражение, вас окружили и ограбили; они забрали всё, что у вас было." 
+ cob_7899_scenerio.0522.b.kidnapping: "Вы потерпели поражение, и налетчики увели [kidnapped_entourage.GetName]..." 
+ cob_7899_scenerio.0522.c: "А как насчет взятки..." 
+ cob_7899_scenerio.0522.c.tt: "Вы пытаетесь переманить [freeholder_looter.GetFirstNameNoTooltip]." 
+ cob_7899_scenerio.0522.c.joined: "[freeholder_looter.GetFirstNameNoTooltip] присоединяется к вашему двору" 
+ cob_7899_scenerio.0522.c.else: "Но стоит ли доверять опальному Валирийцу?" 
+ cob_7899_scenerio.0522.c.ranwithmoney: "[freeholder_looter.GetFirstNameNoTooltip] сбежал с деньгами" 
+ cob_7899_scenerio.0522.d: "Если мы оставим [sacrificed_entourage.GetFirstNameNoTooltip], это может выиграть нам время." 
+ cob_7899_scenerio.0522.d.tt: "Вы пожертвуете [sacrificed_entourage.GetName], пытаясь отвлечь налетчиков." 
+ cob_7899_scenerio.0522.d.sacrifice: "PLACEHOLDER"
   
- cob_7899_scenerio.0523.t: "Встреча с валирийским солдатом" #NT!
- cob_7899_scenerio.0523.desc: "Мы путешествуем по разрушенным землям [location.GetName], воздух густ от вулканического дыма и пепла, скрывающего обзор и душащего дыхание у всех в моем отряде. Я решаю, что нам стоит остановиться, чтобы сориентироваться, и приказываю привести ко мне [vassarion.GetName], чтобы я мог взлететь выше облаков. Пока я жду, один из моих разведчиков выкрикивает, и я оборачиваюсь, чтобы увидеть группу фигур, похожих на валирийских солдат, выходящих из тумана с арбалетами и мечами. Один из группы, одетый в облачение младшего офицера, выходит из тумана и становится передо мной.\n\n"Я — [freeholder_survivor.GetName], и твой отряд окружен. [location.GetName] принадлежит нам, и ты сдашься мне."\n\nТеперь я должен решить, что делать. Попробовать ли мне сразиться с [freeholder_survivor.GetName] в поединке? Попытаться убедить его присоединиться к моему отряду или же отступить?" #NT!
- cob_7899_scenerio.0523.a: "Я сам выйду против [freeholder_survivor.GetName]" #NT!
- cob_7899_scenerio.0523.a_tt: "Начинается поединок с [freeholder_survivor.GetName]" #NT!
- cob_7899_scenerio.0523.b: "Ты должен присоединиться к нам!" #NT!
- cob_7899_scenerio.0523.b_tt: "Начинается поединок с [freeholder_survivor.GetName]" #NT!
- cob_7899_scenerio.0523.b.joined: "[freeholder_survivor.GetName] присоединяется к нашему отряду" #NT!
- cob_7899_scenerio.0523.c: "Я должен отступить!" #NT!
- cob_7899_scenerio.0523.c_tt: "Вы спасаетесь бегством" #NT!
+ cob_7899_scenerio.0523.t: "Встреча с валирийским солдатом" 
+ cob_7899_scenerio.0523.desc: "Мы путешествуем по разрушенным землям [location.GetName], воздух густ от вулканического дыма и пепла, скрывающего обзор и душащего дыхание у всех в моем отряде. Я решаю, что нам стоит остановиться, чтобы сориентироваться, и приказываю привести ко мне [vassarion.GetName], чтобы я мог взлететь выше облаков. Пока я жду, один из моих разведчиков выкрикивает, и я оборачиваюсь, чтобы увидеть группу фигур, похожих на валирийских солдат, выходящих из тумана с арбалетами и мечами. Один из группы, одетый в облачение младшего офицера, выходит из тумана и становится передо мной.\n\n"Я — [freeholder_survivor.GetName], и твой отряд окружен. [location.GetName] принадлежит нам, и ты сдашься мне."\n\nТеперь я должен решить, что делать. Попробовать ли мне сразиться с [freeholder_survivor.GetName] в поединке? Попытаться убедить его присоединиться к моему отряду или же отступить?" 
+ cob_7899_scenerio.0523.a: "Я сам выйду против [freeholder_survivor.GetName]" 
+ cob_7899_scenerio.0523.a_tt: "Начинается поединок с [freeholder_survivor.GetName]" 
+ cob_7899_scenerio.0523.b: "Ты должен присоединиться к нам!" 
+ cob_7899_scenerio.0523.b_tt: "Начинается поединок с [freeholder_survivor.GetName]" 
+ cob_7899_scenerio.0523.b.joined: "[freeholder_survivor.GetName] присоединяется к нашему отряду" 
+ cob_7899_scenerio.0523.c: "Я должен отступить!" 
+ cob_7899_scenerio.0523.c_tt: "Вы спасаетесь бегством" 
   
- cob_7899_scenerio.0524.t: "Встреча с валирийским центурионом" #NT!
- cob_7899_scenerio.0524.desc: "Мы путешествуем по разрушенным землям [location.GetName], воздух густ от вулканического дыма и пепла, скрывающего обзор и душащего дыхание у всех в моем отряде. Я решаю, что нам стоит остановиться, чтобы сориентироваться, и приказываю привести ко мне [vassarion.GetName], чтобы я мог взлететь выше облаков. Пока я жду, один из моих разведчиков выкрикивает, и я оборачиваюсь, чтобы увидеть группу фигур, похожих на валирийских солдат, выходящих из тумана с арбалетами и мечами. Один из группы, одетый в облачение младшего офицера, выходит из тумана и становится передо мной.\n\n"Я — [freeholder_survivor.GetName], и твой отряд окружен. [location.GetName] принадлежит нам, и ты сдашься мне."\n\nТеперь я должен решить, что делать. Попробовать ли мне сразиться с [freeholder_survivor.GetName] в поединке? Попытаться убедить его присоединиться к моему отряду или же отступить?" #NT!
- cob_7899_scenerio.0524.a: "Я сам выйду против [freeholder_survivor.GetName]" #NT!
- cob_7899_scenerio.0524.a_tt: "Начинается поединок с [freeholder_survivor.GetName]" #NT!
- cob_7899_scenerio.0524.b: "Ты должен присоединиться к нам!" #NT!
- cob_7899_scenerio.0524.b_tt: "Начинается поединок с [freeholder_survivor.GetName]" #NT!
- cob_7899_scenerio.0524.b.joined: "[freeholder_survivor.GetName] присоединяется к нашему отряду" #NT!
- cob_7899_scenerio.0524.c: "Я должен отступить!" #NT!
- cob_7899_scenerio.0524.c_tt: "Вы спасаетесь бегством" #NT!
+ cob_7899_scenerio.0524.t: "Встреча с валирийским центурионом" 
+ cob_7899_scenerio.0524.desc: "Мы путешествуем по разрушенным землям [location.GetName], воздух густ от вулканического дыма и пепла, скрывающего обзор и душащего дыхание у всех в моем отряде. Я решаю, что нам стоит остановиться, чтобы сориентироваться, и приказываю привести ко мне [vassarion.GetName], чтобы я мог взлететь выше облаков. Пока я жду, один из моих разведчиков выкрикивает, и я оборачиваюсь, чтобы увидеть группу фигур, похожих на валирийских солдат, выходящих из тумана с арбалетами и мечами. Один из группы, одетый в облачение младшего офицера, выходит из тумана и становится передо мной.\n\n"Я — [freeholder_survivor.GetName], и твой отряд окружен. [location.GetName] принадлежит нам, и ты сдашься мне."\n\nТеперь я должен решить, что делать. Попробовать ли мне сразиться с [freeholder_survivor.GetName] в поединке? Попытаться убедить его присоединиться к моему отряду или же отступить?" 
+ cob_7899_scenerio.0524.a: "Я сам выйду против [freeholder_survivor.GetName]" 
+ cob_7899_scenerio.0524.a_tt: "Начинается поединок с [freeholder_survivor.GetName]" 
+ cob_7899_scenerio.0524.b: "Ты должен присоединиться к нам!" 
+ cob_7899_scenerio.0524.b_tt: "Начинается поединок с [freeholder_survivor.GetName]" 
+ cob_7899_scenerio.0524.b.joined: "[freeholder_survivor.GetName] присоединяется к нашему отряду" 
+ cob_7899_scenerio.0524.c: "Я должен отступить!" 
+ cob_7899_scenerio.0524.c_tt: "Вы спасаетесь бегством" 
   
- cob_7899_scenerio.0525.t: "Встреча с валирийским центурионом" #NT!
- cob_7899_scenerio.0525.desc: "Мы путешествуем по разрушенным землям [location.GetName], воздух густ от вулканического дыма и пепла, скрывающего обзор и душащего дыхание у всех в моем отряде. Я решаю, что нам стоит остановиться, чтобы сориентироваться, и приказываю привести ко мне [vassarion.GetName], чтобы я мог взлететь выше облаков. Пока я жду, один из моих разведчиков выкрикивает, и я оборачиваюсь, чтобы увидеть группу фигур, похожих на валирийских солдат, выходящих из тумана с арбалетами и мечами. Один из группы, одетый в изодранное облачение валирийского генерала, выходит из тумана и становится передо мной.\n\n"Я — [freeholder_survivor.GetName], и твой отряд окружен. [location.GetName] принадлежит нам, и ты сдашься мне."\n\nТеперь я должен решить, что делать. Попробовать ли мне сразиться с [freeholder_survivor.GetName] в поединке? Послать ли против него [vassarion.GetName]? Или же отступить?" #NT!
- cob_7899_scenerio.0525.a: "Я сам выйду против [freeholder_survivor.GetName]" #NT!
- cob_7899_scenerio.0525.a_tt: "Начинается поединок с [freeholder_survivor.GetName]" #NT!
- cob_7899_scenerio.0525.b: "Тебе предстоит сразиться с [vassarion.GetName]!" #NT!
- cob_7899_scenerio.0525.b_1_tt: "[freeholder_survivor.GetName] погибает!" #NT!
- cob_7899_scenerio.0525.b_2_tt: "[vassarion.GetName] погибает!" #NT!
- cob_7899_scenerio.0525.b.win: "[vassarion.GetName] убивает [freeholder_survivor.GetName]" #NT!
- cob_7899_scenerio.0525.b.dead: "[freeholder_survivor.GetName] сумел выжить в схватке с [vassarion.GetName]" #NT!
- cob_7899_scenerio.0525.c: "Я должен отступить!" #NT!
- cob_7899_scenerio.0525.c_tt: "Вы спасаетесь бегством" #NT!
+ cob_7899_scenerio.0525.t: "Встреча с валирийским центурионом" 
+ cob_7899_scenerio.0525.desc: "Мы путешествуем по разрушенным землям [location.GetName], воздух густ от вулканического дыма и пепла, скрывающего обзор и душащего дыхание у всех в моем отряде. Я решаю, что нам стоит остановиться, чтобы сориентироваться, и приказываю привести ко мне [vassarion.GetName], чтобы я мог взлететь выше облаков. Пока я жду, один из моих разведчиков выкрикивает, и я оборачиваюсь, чтобы увидеть группу фигур, похожих на валирийских солдат, выходящих из тумана с арбалетами и мечами. Один из группы, одетый в изодранное облачение валирийского генерала, выходит из тумана и становится передо мной.\n\n"Я — [freeholder_survivor.GetName], и твой отряд окружен. [location.GetName] принадлежит нам, и ты сдашься мне."\n\nТеперь я должен решить, что делать. Попробовать ли мне сразиться с [freeholder_survivor.GetName] в поединке? Послать ли против него [vassarion.GetName]? Или же отступить?" 
+ cob_7899_scenerio.0525.a: "Я сам выйду против [freeholder_survivor.GetName]" 
+ cob_7899_scenerio.0525.a_tt: "Начинается поединок с [freeholder_survivor.GetName]" 
+ cob_7899_scenerio.0525.b: "Тебе предстоит сразиться с [vassarion.GetName]!" 
+ cob_7899_scenerio.0525.b_1_tt: "[freeholder_survivor.GetName] погибает!" 
+ cob_7899_scenerio.0525.b_2_tt: "[vassarion.GetName] погибает!" 
+ cob_7899_scenerio.0525.b.win: "[vassarion.GetName] убивает [freeholder_survivor.GetName]" 
+ cob_7899_scenerio.0525.b.dead: "[freeholder_survivor.GetName] сумел выжить в схватке с [vassarion.GetName]" 
+ cob_7899_scenerio.0525.c: "Я должен отступить!" 
+ cob_7899_scenerio.0525.c_tt: "Вы спасаетесь бегством" 
   
- cob_7899_scenerio.0527.t: "Засада Драконьего лорда" #NT!
- cob_7899_scenerio.0527.desc: "Когда я лечу верхом на [vassarion.GetName] во главе моего отряда над руинами [location.GetName], пронзительный визг рассек воздух, за которым последовал огромный шар драконьего пламени, едва не испепеливший всё вокруг меня.\n\nЯ собираюсь с мыслями, чтобы осмотреть облака в поисках дикого [dragon|E], сумевшего пережить катаклизм и напасть на меня. Вскоре нападавший показал себя и, к моему удивлению, [dragon|E] оказался с всадником, который заставил своего столь же огромного зверя зависнуть передо мной. Я решаю заговорить с [freeholder_dragonlord.GetHerHim], прежде чем последует новая атака.\n\n"Я — [aurion.GetName], и я вернулся в эти земли, чтобы вернуть их для [valyria|E]," — кричу я в сторону [dragonlord|E].\n\n"Мне всё равно, [aurion.GetName]. Я — [freeholder_dragonlord.GetName], всадник [enemy_dragon.GetName], и я заявляю права на все эти земли, по которым ты вторгся."" #NT!
- cob_7899_scenerio.0527.a: "Я выйду против [freeholder_dragonlord.GetName] и [freeholder_dragonlord.GetHerHis] [dragon|E]" #NT!
- cob_7899_scenerio.0527.a_tt: "Начинается поединок [dragon|E] с [freeholder_dragonlord.GetName]" #NT!
- cob_7899_scenerio.0527.b: "Я должен отступить!" #NT!
- cob_7899_scenerio.0527.b_tt: "Вы спасаетесь бегством" #NT!
+ cob_7899_scenerio.0527.t: "Засада Драконьего лорда" 
+ cob_7899_scenerio.0527.desc: "Когда я лечу верхом на [vassarion.GetName] во главе моего отряда над руинами [location.GetName], пронзительный визг рассек воздух, за которым последовал огромный шар драконьего пламени, едва не испепеливший всё вокруг меня.\n\nЯ собираюсь с мыслями, чтобы осмотреть облака в поисках дикого [dragon|E], сумевшего пережить катаклизм и напасть на меня. Вскоре нападавший показал себя и, к моему удивлению, [dragon|E] оказался с всадником, который заставил своего столь же огромного зверя зависнуть передо мной. Я решаю заговорить с [freeholder_dragonlord.GetHerHim], прежде чем последует новая атака.\n\n"Я — [aurion.GetName], и я вернулся в эти земли, чтобы вернуть их для [valyria|E]," — кричу я в сторону [dragonlord|E].\n\n"Мне всё равно, [aurion.GetName]. Я — [freeholder_dragonlord.GetName], всадник [enemy_dragon.GetName], и я заявляю права на все эти земли, по которым ты вторгся."" 
+ cob_7899_scenerio.0527.a: "Я выйду против [freeholder_dragonlord.GetName] и [freeholder_dragonlord.GetHerHis] [dragon|E]" 
+ cob_7899_scenerio.0527.a_tt: "Начинается поединок [dragon|E] с [freeholder_dragonlord.GetName]" 
+ cob_7899_scenerio.0527.b: "Я должен отступить!" 
+ cob_7899_scenerio.0527.b_tt: "Вы спасаетесь бегством" 
   
- cob_7899_scenerio.0529.t: "Горько-сладкое возвращение домой" #NT!
- cob_7899_scenerio.0529.desc: "Я схожу с корабля на разрушенные каменные доки [location.GetName], мои глаза устремлены на обугленные и разрушенные ворота столицы Валирии.\n\n«Я дома», — думаю я. «Я наконец-то дома... но впереди еще так много работы, прежде чем [valyrian_freehold_short|E] вновь восстанет».\n\nЯ опускаюсь на одно колено и на мгновение кладу руку на теплый камень причала, затем снова поднимаю голову и отправляюсь восстанавливать руины этого великого города..." #NT!
- cob_7899_scenerio.0529.a: "Я вернулся домой в [valyria|E]..." #NT!
+ cob_7899_scenerio.0529.t: "Горько-сладкое возвращение домой" 
+ cob_7899_scenerio.0529.desc: "Я схожу с корабля на разрушенные каменные доки [location.GetName], мои глаза устремлены на обугленные и разрушенные ворота столицы Валирии.\n\n«Я дома», — думаю я. «Я наконец-то дома... но впереди еще так много работы, прежде чем [valyrian_freehold_short|E] вновь восстанет».\n\nЯ опускаюсь на одно колено и на мгновение кладу руку на теплый камень причала, затем снова поднимаю голову и отправляюсь восстанавливать руины этого великого города..." 
+ cob_7899_scenerio.0529.a: "Я вернулся домой в [valyria|E]..." 
   
   #Characters 
- Line_of_Justman: "Линия дома Джастманов" #NT!
+ Line_of_Justman: "Линия дома Джастманов" 
   
   #Century of Blood Scenario Wars 
- aurion_new_valyria: "Война Ауриона за провозглашение Новой [valyria|E]" #NT!
- AURION_NEW_VALYRIA_WAR_NAME: "$ORDER$ Война [ATTACKER.GetFirstNamePossessive] за [TITLE.GetBaseName]" #NT!
- AURION_NEW_VALYRIA_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
- AURION_NEW_VALYRIA_CB_NAME: "Война Ауриона за провозглашение Новой [valyria|E]" #NT!
- aurion_qohor_army: "Когорикские войска" #NT!
+ aurion_new_valyria: "Война Ауриона за провозглашение Новой [valyria|E]" 
+ AURION_NEW_VALYRIA_WAR_NAME: "$ORDER$ Война [ATTACKER.GetFirstNamePossessive] за [TITLE.GetBaseName]" 
+ AURION_NEW_VALYRIA_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" 
+ AURION_NEW_VALYRIA_CB_NAME: "Война Ауриона за провозглашение Новой [valyria|E]" 
+ aurion_qohor_army: "Когорикские войска" 
   
- cob_new_valyria_conquest_cb_tyrosh: "Война Новой [valyria|E] за подчинение Тироша" #NT!
- cob_new_valyria_conquest_cb_lys: "Война Новой [valyria|E] за подчинение Лиса" #NT!
- cob_new_valyria_conquest_cb_myr: "Война Новой [valyria|E] за подчинение Мира" #NT!
- cob_new_valyria_conquest_cb_pentos: "Война Новой [valyria|E] за подчинение Пентоса" #NT!
+ cob_new_valyria_conquest_cb_tyrosh: "Война Новой [valyria|E] за подчинение Тироша" 
+ cob_new_valyria_conquest_cb_lys: "Война Новой [valyria|E] за подчинение Лиса" 
+ cob_new_valyria_conquest_cb_myr: "Война Новой [valyria|E] за подчинение Мира" 
+ cob_new_valyria_conquest_cb_pentos: "Война Новой [valyria|E] за подчинение Пентоса" 
   
- CONQUEST_NEW_VALYRIA_WAR_NAME: "$ORDER$ Война Новой [valyria|E] за притязание [CLAIMANT.GetShortUINamePossessive] на [TITLE.GetBaseName]" #NT!
- CONQUEST_NEW_VALYRIA_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
- CONQUEST_NEW_VALYRIA_CB_NAME: "Война Новой [valyria|E] за подчинение" #NT!
+ CONQUEST_NEW_VALYRIA_WAR_NAME: "$ORDER$ Война Новой [valyria|E] за притязание [CLAIMANT.GetShortUINamePossessive] на [TITLE.GetBaseName]" 
+ CONQUEST_NEW_VALYRIA_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" 
+ CONQUEST_NEW_VALYRIA_CB_NAME: "Война Новой [valyria|E] за подчинение" 
   
- dragonstone_refusal: "Война Новой [valyria|E] за Драконий Камень" #NT!
- DRAGONSTONE_SUBJUGATION_WAR_NAME: "$ORDER$ Война [ATTACKER.GetPrimaryTitle.GetNamePossessive] за подчинение [TITLE.GetBaseName]" #NT!
- DRAGONSTONE_SUBJUGATION_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
- DRAGONSTONE_SUBJUGATION_CB_NAME: "Война Новой [valyria|E] за Драконий Камень" #NT!
+ dragonstone_refusal: "Война Новой [valyria|E] за Драконий Камень" 
+ DRAGONSTONE_SUBJUGATION_WAR_NAME: "$ORDER$ Война [ATTACKER.GetPrimaryTitle.GetNamePossessive] за подчинение [TITLE.GetBaseName]" 
+ DRAGONSTONE_SUBJUGATION_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" 
+ DRAGONSTONE_SUBJUGATION_CB_NAME: "Война Новой [valyria|E] за Драконий Камень" 
   
   #Titles 
- new_valyria_emperor_valyrian_male: "Император" #NT!
- new_valyria_emperor_valyrian_female: "Императрица" #NT!
- new_valyria_empire_valyrian: "Империя" #NT!
+ new_valyria_emperor_valyrian_male: "Император" 
+ new_valyria_emperor_valyrian_female: "Императрица" 
+ new_valyria_empire_valyrian: "Империя" 
   
   #Swords/armor 
   
- vs_stormbringer_name: "Vāedroma" #NT!
- vs_stormbringer_description: "Валирийский стальной меч дома Варезис, реликвия огня и тени, выкованный в горнилах Четырнадцати Огней. Клинок видел самые дальние пределы Валирийской империи." #NT!
- vs_skullbasher_name: "Rīnakharys" #NT!
- vs_skullbasher_description: "Валирийская стальная булава дома Белейрис" #NT!
- vs_inferno_name: "Vāedarion" #NT!
- vs_inferno_description: "Валирийский стальной молот дома Урнебар" #NT!
- vs_eclipse_name: "Embāelī" #NT!
- vs_eclipse_description: "Валирийский стальной меч дома Матейрион, выкованный в сумеречные века Валирийского Фригольда, но содержащий части куда более древние. Этот меч, известный как Затмение, является одновременно артефактом и загадкой — союзом валирийской мощи и довалирийской тайны. Он высечен из единого темного камня с прожилками пурпурных искр, слабо мерцающих при лунном свете, и холоден, как могила. По словам Матаэрионов, он не был создан рукой человека, а найден — извлечён из почерневших руин Н’гай. Говорят, что, сжимая рукоять, носитель слышит мрачные шепоты неизведанного." #NT!
- vs_ashbringer_name: "Vūjōsān" #NT!
- vs_ashbringer_description: "Валирийский стальной меч дома Сонарьен" #NT!
+ vs_stormbringer_name: "Vāedroma" 
+ vs_stormbringer_description: "Валирийский стальной меч дома Варезис, реликвия огня и тени, выкованный в горнилах Четырнадцати Огней. Клинок видел самые дальние пределы Валирийской империи." 
+ vs_skullbasher_name: "Rīnakharys" 
+ vs_skullbasher_description: "Валирийская стальная булава дома Белейрис" 
+ vs_inferno_name: "Vāedarion" 
+ vs_inferno_description: "Валирийский стальной молот дома Урнебар" 
+ vs_eclipse_name: "Embāelī" 
+ vs_eclipse_description: "Валирийский стальной меч дома Матейрион, выкованный в сумеречные века Валирийского Фригольда, но содержащий части куда более древние. Этот меч, известный как Затмение, является одновременно артефактом и загадкой — союзом валирийской мощи и довалирийской тайны. Он высечен из единого темного камня с прожилками пурпурных искр, слабо мерцающих при лунном свете, и холоден, как могила. По словам Матаэрионов, он не был создан рукой человека, а найден — извлечён из почерневших руин Н’гай. Говорят, что, сжимая рукоять, носитель слышит мрачные шепоты неизведанного." 
+ vs_ashbringer_name: "Vūjōsān" 
+ vs_ashbringer_description: "Валирийский стальной меч дома Сонарьен" 
   
- aurion_valyrian_steel_armor_name: "Hrōmagon" #NT!
- aurion_valyrian_steel_armor_description: "Украшенный доспех из валирийской стали, добытый Аурионом Варезисом во время его легендарного возвращения к дымящимся костям [valyria|E]. Ни один живой мастер не назовёт его создателя, и учёные не могут прийти к согласию, был ли он выкован в последние дни Фригольда или же рукой, давно канувшей в пепел и миф. Его ценность невозможно измерить ни монетой, ни короной. Целые королевства не могли бы сравниться с его стоимостью. Это, несомненно, лучший доспех во [known_world|E]." #NT!
+ aurion_valyrian_steel_armor_name: "Hrōmagon" 
+ aurion_valyrian_steel_armor_description: "Украшенный доспех из валирийской стали, добытый Аурионом Варезисом во время его легендарного возвращения к дымящимся костям [valyria|E]. Ни один живой мастер не назовёт его создателя, и учёные не могут прийти к согласию, был ли он выкован в последние дни Фригольда или же рукой, давно канувшей в пепел и миф. Его ценность невозможно измерить ни монетой, ни короной. Целые королевства не могли бы сравниться с его стоимостью. Это, несомненно, лучший доспех во [known_world|E]." 
   
   #Story Content 
   
- game_concept_story_content_aurion_varezys_99: "$game_concept_story_generic_prefix$ $bookmark_99_aurion_varezys$" #NT!
- game_concept_story_content_aurion_varezys_99_desc: "#tooltip_heading Стиль истории: Обширный#!\n\nИграя за Ауриона Варезиса, вы сможете выбрать: переколонизировать [valyria|E] и восстановить старый порядок или же завоевать Волантис и другие сателлитные государства [old_valyria|E], чтобы создать новый [the_freehold|E]." #NT!
+ game_concept_story_content_aurion_varezys_99: "$game_concept_story_generic_prefix$ $bookmark_99_aurion_varezys$" 
+ game_concept_story_content_aurion_varezys_99_desc: "#tooltip_heading Стиль истории: Обширный#!\n\nИграя за Ауриона Варезиса, вы сможете выбрать: переколонизировать [valyria|E] и восстановить старый порядок или же завоевать Волантис и другие сателлитные государства [old_valyria|E], чтобы создать новый [the_freehold|E]." 
   
   #COB Travel Modifiers 
- cob_spared_no_expense_travel_entourage: "Не жалеть средств" #NT!
- cob_spared_no_expense_travel_entourage_desc: "Вы не жалете средств на финансирование своей экспедиции" #NT!
- cob_high_expense_travel_entourage: "Щедрое сопровождение" #NT!
- cob_high_expense_travel_entourage_desc: "Вы тратите большую сумму на финансирование своей экспедиции" #NT!
- cob_mid_expense_travel_entourage: "Средние траты на сопровождение" #NT!
- cob_mid_expense_travel_entourage_desc: "Вы тратите довольно большую сумму на финансирование своей экспедиции" #NT!
- cob_cheapskate_expense_travel_entourage: "Скромное сопровождение" #NT!
- cob_cheapskate_expense_travel_entourage_desc: "Вы тратите минимум средств на финансирование своей экспедиции" #NT!
- cob_zero_expense_travel_entourage: "Без сопровождения" #NT!
- cob_zero_expense_travel_entourage_desc: "Вы решили не тратить золото на сопровождение своей экспедиции" #NT!
+ cob_spared_no_expense_travel_entourage: "Не жалеть средств" 
+ cob_spared_no_expense_travel_entourage_desc: "Вы не жалете средств на финансирование своей экспедиции" 
+ cob_high_expense_travel_entourage: "Щедрое сопровождение" 
+ cob_high_expense_travel_entourage_desc: "Вы тратите большую сумму на финансирование своей экспедиции" 
+ cob_mid_expense_travel_entourage: "Средние траты на сопровождение" 
+ cob_mid_expense_travel_entourage_desc: "Вы тратите довольно большую сумму на финансирование своей экспедиции" 
+ cob_cheapskate_expense_travel_entourage: "Скромное сопровождение" 
+ cob_cheapskate_expense_travel_entourage_desc: "Вы тратите минимум средств на финансирование своей экспедиции" 
+ cob_zero_expense_travel_entourage: "Без сопровождения" 
+ cob_zero_expense_travel_entourage_desc: "Вы решили не тратить золото на сопровождение своей экспедиции" 

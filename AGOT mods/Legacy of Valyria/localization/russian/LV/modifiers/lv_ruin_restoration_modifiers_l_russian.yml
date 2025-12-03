@@ -1,6 +1,0 @@
-﻿l_russian:
- lv_restoration_steward_modifier: "Restoration Efforts" #NT!
- lv_restoration_steward_modifier_desc: "Management and restoration of this settlement is being overseen by a capable steward, improving its recovery and overall efficiency in handling restoration projects." #NT!
- lv_restoration_steward_modifier_scale_desc: "This modifier reduces construction time by roughly #V 2.5%#! every #V 3#! [stewardship|E] starting at #V 11#! #weak (Scaling Factor: #P $MULTIPLIER|0$#!)#!, Maxes out at #V 50%#! #weak (Scaling Factor: #V 10#!)#!" #NT!
- lv_restoration_steward_title: "Restoration Efforts Bolstered" #NT!
- lv_restoration_steward_desc: "Your steward has been instrumental in the restoration of [county.GetName]." #NT!

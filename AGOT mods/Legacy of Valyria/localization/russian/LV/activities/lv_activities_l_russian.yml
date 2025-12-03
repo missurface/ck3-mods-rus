@@ -1,8 +1,8 @@
 ﻿l_russian:
-   # Tournament 
+ # Tournament 
  activity_tournament_province_lv_great_arena_of_valyria_02_desc: "#P +++ $building_type_great_arena_of_valyria_02$#!\n" 
   
-   # Expedition 
+ # Expedition 
  lv_activity_expedition: "Экспедиция" 
  lv_activity_expedition_host_an_a: "—" 
  lv_activity_expedition_desc: "Отправиться за пределы известного — значит заигрывать и с удачей, и с гибелью. Экспедиции сулят открытия — будь то утраченные реликвии, скрытые в забытых руинах, или плодородные земли, ожидающие поселения.\n\nЭкспедиции возглавляет выбранный командир — будь то вы сами или доверенный агент, и их успех зависит от подготовки, мастерства и доли удачи. Что ждёт впереди — неизвестно... но так же неизвестна и награда." 

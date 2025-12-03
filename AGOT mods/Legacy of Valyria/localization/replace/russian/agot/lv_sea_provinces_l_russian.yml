@@ -1,151 +1,151 @@
 ﻿l_russian:
-   # Note: Keep this in the replace/(language)/agot folder to ensure we override the locs AGOT already has 
- sea_province_607: "Летнее Море" #NT!
- sea_province_608: "Волантийский Залив" #NT!
- sea_province_volantis_bay: "Волантийский Залив" #NT!
- sea_province_609: "Летнее Море" #NT!
- sea_province_610: "Летнее Море" #NT!
- sea_province_611: "Телирийское Побережье" #NT!
- sea_province_612: "Телирийское Побережье" #NT!
- sea_province_613: "Летнее Море" #NT!
- sea_province_614: "Телирийское Побережье" #NT!
- sea_province_615: "Дымное Море" #NT!
- sea_province_616: "Дымное Море" #NT!
- sea_province_617: "Нукирийский Пролив" #NT!
- sea_province_617a: "Нукирийский Пролив" #NT!
- sea_province_618: "Нукирийский Пролив" #NT!
- sea_province_619: "Эгрисское Побережье" #NT!
- sea_province_620: "Эгрисское Побережье" #NT!
- sea_province_621: "Эгрисское Побережье" #NT!
- sea_province_622: "Дымное Море" #NT!
- sea_province_623: "Дымное Море" #NT!
- sea_province_623a: "Дымное Море" #NT!
- sea_province_624: "Дымное Море" #NT!
- sea_province_625: "Эгрисское Побережье" #NT!
- sea_province_626: "Ванторосское побережье" #NT!
- sea_province_627: "Ванторосское побережье" #NT!
- sea_province_628: "Дымное Море" #NT!
- sea_province_629: "Дымное Море" #NT!
- sea_province_630: "Дымное Море" #NT!
- sea_province_631: "Дымное Море" #NT!
- sea_province_632: "Дымное Море" #NT!
- sea_province_633: "Бухта Локирии" #NT!
- sea_province_634: "Устье Гелиоса" #NT!
- sea_province_635: "Дымное Море" #NT!
- sea_province_636a: "Дымное Море" #NT!
- sea_province_636: "Дымное Море" #NT!
- sea_province_637: "Дымное Море" #NT!
- sea_province_638: "Дымное Море" #NT!
- sea_province_639: "Дымное Море" #NT!
- sea_province_640: "Дымное Море" #NT!
- sea_province_641: "Дымное Море" #NT!
- sea_province_642: "Пепельный Фьорд" #NT!
- sea_province_643: "Пепельный Фьорд" #NT!
- sea_province_644: "Багровый Пролив" #NT!
- sea_province_644a: "Залив Тартегос" #NT!
- sea_province_645: "Лирийский Архипелаг" #NT!
- sea_province_646: "Дымное Море" #NT!
- sea_province_647: "Дымное Море" #NT!
- sea_province_648: "Дымное Море" #NT!
- sea_province_649: "Дымное Море" #NT!
- sea_province_650: "Дымное Море" #NT!
- sea_province_651: "Дельта Сартагона" #NT!
- sea_province_652: "Дымное Море" #NT!
- sea_province_653: "Дымное Море" #NT!
- sea_province_654: "Скорбный пролив" #NT!
- sea_province_655: "Дымное Море" #NT!
- sea_province_656: "Залив Эластара" #NT!
- sea_province_657: "Дымное Море" #NT!
- sea_province_658: "Дымное Море" #NT!
- sea_province_659: "Лирийское побережье" #NT!
- sea_province_660: "Лирийское побережье" #NT!
- sea_province_661: "Лирийское побережье" #NT!
- sea_province_662: "Лирийское побережье" #NT!
- sea_province_663: "Лирийское побережье" #NT!
- sea_province_664: "Лирийское побережье" #NT!
- sea_province_665: "Лирийское побережье" #NT!
- sea_province_666: "Дымное Море" #NT!
- sea_province_667: "Найвинский риф" #NT!
- sea_province_668: "Найвинский риф" #NT!
- sea_province_669: "Залив Скорби" #NT!
- sea_province_670: "Залив Скорби" #NT!
- sea_province_671: "Найвинский риф" #NT!
- sea_province_672: "Бухта Талора" #NT!
- sea_province_673: "Бухта Талора" #NT!
- sea_province_676: "Бухта Драватора" #NT!
- sea_province_677: "Бухта Драватора" #NT!
- sea_province_678: "Элирийские проливы" #NT!
- sea_province_679: "Бухта Толоси" #NT!
- sea_province_680: "Элирийские проливы" #NT!
- sea_province_695: "Залив Скорби" #NT!
+ # Note: Keep this in the replace/(language)/agot folder to ensure we override the locs AGOT already has 
+ sea_province_607: "Летнее Море" 
+ sea_province_608: "Волантийский Залив" 
+ sea_province_volantis_bay: "Волантийский Залив" 
+ sea_province_609: "Летнее Море" 
+ sea_province_610: "Летнее Море" 
+ sea_province_611: "Телирийское Побережье" 
+ sea_province_612: "Телирийское Побережье" 
+ sea_province_613: "Летнее Море" 
+ sea_province_614: "Телирийское Побережье" 
+ sea_province_615: "Дымное Море" 
+ sea_province_616: "Дымное Море" 
+ sea_province_617: "Нукирийский Пролив" 
+ sea_province_617a: "Нукирийский Пролив" 
+ sea_province_618: "Нукирийский Пролив" 
+ sea_province_619: "Эгрисское Побережье" 
+ sea_province_620: "Эгрисское Побережье" 
+ sea_province_621: "Эгрисское Побережье" 
+ sea_province_622: "Дымное Море" 
+ sea_province_623: "Дымное Море" 
+ sea_province_623a: "Дымное Море" 
+ sea_province_624: "Дымное Море" 
+ sea_province_625: "Эгрисское Побережье" 
+ sea_province_626: "Ванторосское побережье" 
+ sea_province_627: "Ванторосское побережье" 
+ sea_province_628: "Дымное Море" 
+ sea_province_629: "Дымное Море" 
+ sea_province_630: "Дымное Море" 
+ sea_province_631: "Дымное Море" 
+ sea_province_632: "Дымное Море" 
+ sea_province_633: "Бухта Локирии" 
+ sea_province_634: "Устье Гелиоса" 
+ sea_province_635: "Дымное Море" 
+ sea_province_636a: "Дымное Море" 
+ sea_province_636: "Дымное Море" 
+ sea_province_637: "Дымное Море" 
+ sea_province_638: "Дымное Море" 
+ sea_province_639: "Дымное Море" 
+ sea_province_640: "Дымное Море" 
+ sea_province_641: "Дымное Море" 
+ sea_province_642: "Пепельный Фьорд" 
+ sea_province_643: "Пепельный Фьорд" 
+ sea_province_644: "Багровый Пролив" 
+ sea_province_644a: "Залив Тартегос" 
+ sea_province_645: "Лирийский Архипелаг" 
+ sea_province_646: "Дымное Море" 
+ sea_province_647: "Дымное Море" 
+ sea_province_648: "Дымное Море" 
+ sea_province_649: "Дымное Море" 
+ sea_province_650: "Дымное Море" 
+ sea_province_651: "Дельта Сартагона" 
+ sea_province_652: "Дымное Море" 
+ sea_province_653: "Дымное Море" 
+ sea_province_654: "Скорбный пролив" 
+ sea_province_655: "Дымное Море" 
+ sea_province_656: "Залив Эластара" 
+ sea_province_657: "Дымное Море" 
+ sea_province_658: "Дымное Море" 
+ sea_province_659: "Лирийское побережье" 
+ sea_province_660: "Лирийское побережье" 
+ sea_province_661: "Лирийское побережье" 
+ sea_province_662: "Лирийское побережье" 
+ sea_province_663: "Лирийское побережье" 
+ sea_province_664: "Лирийское побережье" 
+ sea_province_665: "Лирийское побережье" 
+ sea_province_666: "Дымное Море" 
+ sea_province_667: "Найвинский риф" 
+ sea_province_668: "Найвинский риф" 
+ sea_province_669: "Залив Скорби" 
+ sea_province_670: "Залив Скорби" 
+ sea_province_671: "Найвинский риф" 
+ sea_province_672: "Бухта Талора" 
+ sea_province_673: "Бухта Талора" 
+ sea_province_676: "Бухта Драватора" 
+ sea_province_677: "Бухта Драватора" 
+ sea_province_678: "Элирийские проливы" 
+ sea_province_679: "Бухта Толоси" 
+ sea_province_680: "Элирийские проливы" 
+ sea_province_695: "Залив Скорби" 
   
- sea_province_9669: "Море Вздохов" #NT!
- sea_province_969: "Море Вздохов" #NT!
- sea_province_9670: "Море Вздохов" #NT!
+ sea_province_9669: "Море Вздохов" 
+ sea_province_969: "Море Вздохов" 
+ sea_province_9670: "Море Вздохов" 
   
- sea_province_674: "Залив Роботорговцев" #NT!
- sea_province_675: "Залив Роботорговцев" #NT!
- sea_province_680a: "Залив Роботорговцев" #NT!
- sea_province_681: "Залив Роботорговцев" #NT!
- sea_province_682: "Залив Роботорговцев" #NT!
- sea_province_683: "Залив Роботорговцев" #NT!
- sea_province_684: "Залив Роботорговцев" #NT!
- sea_province_685: "Залив Роботорговцев" #NT!
- sea_province_686: "Залив Роботорговцев" #NT!
- sea_province_687: "Залив Роботорговцев" #NT!
- sea_province_688: "Залив Роботорговцев" #NT!
- sea_province_689: "Залив Роботорговцев" #NT!
- sea_province_690: "Залив Роботорговцев" #NT!
- sea_province_691: "Залив Роботорговцев" #NT!
- sea_province_692: "Залив Роботорговцев" #NT!
- sea_province_693: "Залив Роботорговцев" #NT!
- sea_province_694: "Залив Роботорговцев" #NT!
- sea_province_696: "Залив Роботорговцев" #NT!
- sea_province_697: "Залив Роботорговцев" #NT!
+ sea_province_674: "Залив Роботорговцев" 
+ sea_province_675: "Залив Роботорговцев" 
+ sea_province_680a: "Залив Роботорговцев" 
+ sea_province_681: "Залив Роботорговцев" 
+ sea_province_682: "Залив Роботорговцев" 
+ sea_province_683: "Залив Роботорговцев" 
+ sea_province_684: "Залив Роботорговцев" 
+ sea_province_685: "Залив Роботорговцев" 
+ sea_province_686: "Залив Роботорговцев" 
+ sea_province_687: "Залив Роботорговцев" 
+ sea_province_688: "Залив Роботорговцев" 
+ sea_province_689: "Залив Роботорговцев" 
+ sea_province_690: "Залив Роботорговцев" 
+ sea_province_691: "Залив Роботорговцев" 
+ sea_province_692: "Залив Роботорговцев" 
+ sea_province_693: "Залив Роботорговцев" 
+ sea_province_694: "Залив Роботорговцев" 
+ sea_province_696: "Залив Роботорговцев" 
+ sea_province_697: "Залив Роботорговцев" 
   
- sea_province_698: "Гискарский пролив" #NT!
- sea_province_699: "Гискарский пролив" #NT!
- sea_province_700: "Летнее Море" #NT!
- sea_province_701: "Залив Гейн" #NT!
- sea_province_702: "Залив Гейн" #NT!
- sea_province_703: "Залив Гейн" #NT!
- sea_province_704: "Гискарский пролив" #NT!
- sea_province_705: "Гискарский пролив" #NT!
+ sea_province_698: "Гискарский пролив" 
+ sea_province_699: "Гискарский пролив" 
+ sea_province_700: "Летнее Море" 
+ sea_province_701: "Залив Гейн" 
+ sea_province_702: "Залив Гейн" 
+ sea_province_703: "Залив Гейн" 
+ sea_province_704: "Гискарский пролив" 
+ sea_province_705: "Гискарский пролив" 
   
- rhoynish_delta: "Дельта Ройны" #NT!
- rhoyne: "Ройна" #NT!
- dagger_lake: "Кинжальное озеро" #NT!
- qhoyne: "Койна" #NT!
- darkwash: "Темноводная" #NT!
- noyne: "Нойна" #NT!
- upper_rhoyne: "Верхняя Ройна" #NT!
- little_rhoyne: "Малая Ройна" #NT!
+ rhoynish_delta: "Дельта Ройны" 
+ rhoyne: "Ройна" 
+ dagger_lake: "Кинжальное озеро" 
+ qhoyne: "Койна" 
+ darkwash: "Темноводная" 
+ noyne: "Нойна" 
+ upper_rhoyne: "Верхняя Ройна" 
+ little_rhoyne: "Малая Ройна" 
   
- sea_province_752: "Побережье Соториоса" #NT!
- sea_province_753: "Побережье Соториоса" #NT!
- sea_province_755: "Летнее Море" #NT!
- sea_province_756: "Летнее Море" #NT!
- sea_province_756a: "Летнее Море" #NT!
- sea_province_757: "Бухта Клятвопреступника" #NT!
- sea_province_758: "Пролив Адской Воды" #NT!
- sea_province_759: "Разлом Мертвеца" #NT!
- sea_province_760: "Змеиный пролив" #NT!
- sea_province_761: "Змеиный пролив" #NT!
- sea_province_762: "Змеиный пролив" #NT!
- sea_province_764: "Архипелаг Зелентар" #NT!
- sea_province_765: "Горгайский пролив" #NT!
- sea_province_766: "Берег Крови" #NT!
- sea_province_767: "Порт Слёз" #NT!
- sea_province_769: "Соколиный Утёс" #NT!
- sea_province_768: "Устье Замойос" #NT!
- sea_province_770: "Устье Замойос" #NT!
- sea_province_771: "Летнее Море" #NT!
- sea_province_772: "Летнее Море" #NT!
- sea_province_773: "Летнее Море" #NT!
- sea_province_774: "Гавань Ксхор" #NT!
- sea_province_775: "Летнее Море" #NT!
+ sea_province_752: "Побережье Соториоса" 
+ sea_province_753: "Побережье Соториоса" 
+ sea_province_755: "Летнее Море" 
+ sea_province_756: "Летнее Море" 
+ sea_province_756a: "Летнее Море" 
+ sea_province_757: "Бухта Клятвопреступника" 
+ sea_province_758: "Пролив Адской Воды" 
+ sea_province_759: "Разлом Мертвеца" 
+ sea_province_760: "Змеиный пролив" 
+ sea_province_761: "Змеиный пролив" 
+ sea_province_762: "Змеиный пролив" 
+ sea_province_764: "Архипелаг Зелентар" 
+ sea_province_765: "Горгайский пролив" 
+ sea_province_766: "Берег Крови" 
+ sea_province_767: "Порт Слёз" 
+ sea_province_769: "Соколиный Утёс" 
+ sea_province_768: "Устье Замойос" 
+ sea_province_770: "Устье Замойос" 
+ sea_province_771: "Летнее Море" 
+ sea_province_772: "Летнее Море" 
+ sea_province_773: "Летнее Море" 
+ sea_province_774: "Гавань Ксхор" 
+ sea_province_775: "Летнее Море" 
   
- sea_province_953: "Скахазадхан" #NT!
- sea_province_954: "Скахазадхан" #NT!
- sea_province_955: "Скахазадхан" #NT!
- sea_province_956: "Скахазадхан" #NT!
+ sea_province_953: "Скахазадхан" 
+ sea_province_954: "Скахазадхан" 
+ sea_province_955: "Скахазадхан" 
+ sea_province_956: "Скахазадхан" 

@@ -916,22 +916,27 @@ e_sothoryos_major_east:0 "Eastern Sothoryos"
         
                 
     # Culture Locals #
- 
- 
- brindled_men:0 "Sothoryi"
  name_list_sothori_high:0 "Low Sothori"
  name_list_sothori_low:0 "Low Sothori"
  
  brindled_men_high:0 "High Sothoryi" 
- 
+ brindled_men_high_collective_noun:0 "High Sothoryi"
+ brindled_men_high_prefix:0 "High Sothoryi"
+
+ brindled_men:0 "Sothoryi"
+ brindled_men_collective_noun:0 "Sothoryi"
+ brindled_men_prefix:0 "Sothoryi"
+
  brindled_ghoul:0 "Brindled Men"
+ brindled_ghoul_collective_noun:0 "Brindled Men"
+ brindled_ghoul_prefix:0 "Brindled Men"
  
  language_sothori_name:0 "Sothoryish"
  
  heritage_sothori_name:0 "Sothori"
  
- agot_tradition_brindled_men_name:0 "Brindled Skin"
- agot_tradition_brindled_men_desc:0 "The maesters of Westeros write that the Sothoryi are no true men at all, but brutish creatures—huge of limb, brindled of skin, more hog than human. Their accounts speak of savagery, dark gods, cannibal feasts, and obscene rites. So say the learned, and so repeat the traders and pirates of the southern coasts, who treat the brindled folk as less than people. Yet such tales are stitched more from rumor and slander, rather than truth from, for the Sothoryi are indeed human, though strange to the foreigners. What is called savagery is often no more than the custom of a people little known and seldom understood."
+ lv_tradition_brindled_men_name:0 "Brindled Skin"
+ lv_tradition_brindled_men_desc:0 "The maesters of Westeros write that the Sothoryi are no true men at all, but brutish creatures—huge of limb, brindled of skin, more hog than human. Their accounts speak of savagery, dark gods, cannibal feasts, and obscene rites. So say the learned, and so repeat the traders and pirates of the southern coasts, who treat the brindled folk as less than people. Yet such tales are stitched more from rumor and slander, rather than truth from, for the Sothoryi are indeed human, though strange to the foreigners. What is called savagery is often no more than the custom of a people little known and seldom understood."
  
  
                 
@@ -1272,38 +1277,8 @@ building_jungle_ruin_deep_04_desc:0 "A slice of relative calm has been carved ou
  
 
     # Dynasties #
+    # Moved to dynasties/lv_sothoryos_dynasties_l_english.yml
 
- dynn_Ashkoro:0 "Ashkoro"   
- dynn_Duskari:0 "Duskari"    
- dynn_Umbrewort:0 "Umbrewort"    
- dynn_Rainswembe:0 "Rainswembe"    
- dynn_Stormjara:0 "Stormjara"  
- dynn_Emberundu:0 "Emberundu"    
- dynn_Kholloway:0 "Kholloway"    
- dynn_Deepkora:0 "Deepkora"    
- dynn_Moorzani:0 "Moorzani"    
- dynn_Ironmbatha:0 "Ironmbatha"  
- dynn_Whitjara:0 "Whitjara"    
- dynn_Valezaru:0 "Valezaru"    
- dynn_Holloweka:0 "Holloweka"    
- dynn_Goldtumbu:0 "Goldtumbu" 
-
- dynn_Zajumbwe:0 "Zajumbwe"   
- dynn_Ngodjara:0 "Ngodjara"     
- dynn_Itukari:0 "Itukari"     
- dynn_Yar-Khassu:0 "Yar-Khassu"     
- dynn_Tzaiwembu:0 "Tzaiwembu"   
- dynn_Rukabathi:0 "Rukabathi"     
- dynn_Bashakoro:0 "Bashakoro"     
- dynn_Vuruzani:0 "Vuruzani"     
- dynn_Mogwethu:0 "Mogwethu"     
- dynn_Kazumbari:0 "Kazumbari"   
- dynn_Ombekundu:0 "Ombekundu"     
- dynn_Xorhassa:0 "Xorhassa"     
- dynn_Chogwiri:0 "Chogwiri"     
- dynn_Jharavungu:0 "Jharavungu"     
- 
- 
     # Men at Arms and Armies #
 
  tahae_toto:0 "Tahae-toto (Vampire Bats)"  
@@ -1387,6 +1362,18 @@ building_jungle_ruin_deep_04_desc:0 "A slice of relative calm has been carved ou
  treat_with_feeders_decision_confirm_text_desc:0 "Prepare a bloody feast!"
  treat_with_feeders_custom:0 "Our spirit-kin will stand ready near our capital until we're ready to unleash them upon unsuspecting enemies."
  
+ treat_with_devourers:0 "Tame Ravenous Basilisks"
+ treat_with_devourers_decision_desc:0 "PLACEHOLDER"
+ treat_with_devourers_decision_tooltip:0 "PLACEHOLDER"
+ treat_with_devourers_decision_confirm_text_desc:0 "PLACEHOLDER"
+ treat_with_devourers_custom:0 "PLACEHOLDER"
+
+ cos_ruin_completion_fallback:0 "Debug Ruin Completion Fallback"
+ cos_debug_trigger_decision_desc:0 "PLACEHOLDER"
+ cos_debug_trigger_decision_tooltip:0 "PLACEHOLDER"
+ cos_debug_trigger_decision_confirm_text_desc:0 "PLACEHOLDER"
+
+ cos_debug_trigger_dont_touch:0 "Debug Don't Touch"
 
  sack_the_corpse_mounds:0 "Dismantle the Corpse Mounds"
  sack_the_corpse_mounds_decision_desc:0 "Piled high in a jungle clearing are mounds made up of thousands of bodies and ruined artifacts, perhaps magnitudes more. The natives of this region carry all defeated 'invaders' from the shore, along with all their foreign posessions to be piled here.\n\nBasilisk are drawn in thier hundreds, perhaps even thousands, to these stinking, rotting hills. If we ever hope to make use of this rare natural clearing in the jungle, these mounds have got to go.\n\nThe area itself aside, sifting through the refuse could be highly profitable."
@@ -1558,6 +1545,13 @@ building_jungle_ruin_deep_04_desc:0 "A slice of relative calm has been carved ou
  cos_start_quests.1001.d:0 "We were told the fringe cult would soon pass, or else remain few in number; outcasts to our noble society. These lies we spoken until the very moment our war parties broke against theirs. Now, after a series of crushing defeats at the hands of Maw cultists, our way of life stands upon a knife's edge. Should the Maw move united against us now, we are too few to stand a chance.\n\nWhat is left for us now?"
  cos_start_quests.1001.a:0 "We cannot allow ourselves to be wiped out!"
  cos_start_quests.1001.b:0 "Our time is over, we must embrace the Eternal Maw..."
+ cos_start_quests.1001.c:0 "PLACEHOLDER"
+
+ cos_start_quests.1002.t:0 "PLACEHOLDER"
+ cos_start_quests.1002.d:0 "PLACEHOLDER"
+ cos_start_quests.1002.a:0 "PLACEHOLDER"
+ cos_start_quests.1002.b:0 "PLACEHOLDER"
+ cos_start_quests.1002.c:0 "PLACEHOLDER"
  
 
  

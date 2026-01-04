@@ -70,22 +70,6 @@
  
  setting_asoiaf_alternative_dayne_sigil_rule_off_desc:0 "Daynes keep their #bold default#! AGOT+ coat of arms: @asoiaf_icon_dayne!"
  setting_asoiaf_alternative_dayne_sigil_rule_on_desc:0 "Daynes are given an #bold alternative#! coat of arms: @asoiaf_icon_dayne_alt!"
-
- #Alternative Arryn Sigil
- rule_asoiaf_alternative_arryn_sigil_rule:0 "@asoiaf_icon! Alternative Arryn CoA"
- setting_asoiaf_alternative_arryn_sigil_rule_off:0 "Default"
- setting_asoiaf_alternative_arryn_sigil_rule_on:0 "#high Alternative CoA#!"
- 
- setting_asoiaf_alternative_arryn_sigil_rule_off_desc:0 "Arryns keep their #bold default#! AGOT+ coat of arms: @asoiaf_icon_arryn!"
- setting_asoiaf_alternative_arryn_sigil_rule_on_desc:0 "Arryns are given an #bold alternative#! coat of arms: @asoiaf_icon_arryn_alt!"
- 
- #Monarch's cloak
- rule_asoiaf_monarchs_cloak_rule:0 "@asoiaf_icon! Monarch's Cloak"
- setting_asoiaf_monarchs_cloak_rule_off:0 "Default"
- setting_asoiaf_monarchs_cloak_rule_on:0 "#high No Royal Cloak for Monarchs#!"
- 
- setting_asoiaf_monarchs_cloak_rule_off_desc:0 "Monarchs wear Royal Cloaks based on AGOT's #bold default#! conditions."
- setting_asoiaf_monarchs_cloak_rule_on_desc:0 "Monarchs #bold do not wear#! Royal Cloaks."
  
  #Canon children
  rule_asoiaf_canon_children_rule:0 "@asoiaf_icon! Canon Children"

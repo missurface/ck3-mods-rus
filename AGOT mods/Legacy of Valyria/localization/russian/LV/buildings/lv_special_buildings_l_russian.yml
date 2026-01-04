@@ -29,29 +29,29 @@
  building_agot_EE_volantis_walls_desc: "Хотя они и не столь впечатляющи, как стены Старого Волантиса, стены Волантиса заставят любого нападающего дважды подумать, прежде чем штурмовать город." 
   
   # Rhoyne
-  building_agot_EE_nymeria_palace_01:0 "Nymeria's Palace"
-  building_type_agot_EE_nymeria_palace_01:0 "Nymeria's Palace"
-  building_agot_EE_nymeria_palace_01_desc:0 "At the heart of Ny Sar lie the ruins of Nymeria’s Palace, abandoned since the [valyrian_freehold|E] defeated Prince Garin in the Second Spice War. Its pink and green marble walls, towering domes, and grand spires now stand as a haunting shell of its former self. All life left this place when Nymeria fled to Dorne, leaving these once-proud halls to decay."
+ building_agot_EE_nymeria_palace_01: "Дворец Нимерии"
+ building_type_agot_EE_nymeria_palace_01: "Дворец Нимерии"
+ building_agot_EE_nymeria_palace_01_desc: "В самом сердце Ни Сара лежат руины Дворца Нимерии, покинутого после того, как [Concept('[valyrian_freehold|E]', 'Валирийский Фригольд')|E] разбил принца Гарина во Второй Пряной войне. Его розово-зелёные мраморные стены, высоченные купола и стройные шпили теперь лишь зловещая оболочка от былого великолепия. Вся жизнь ушла отсюда, когда Нимерия бежала в Дорн, оставив некогда гордые залы гнить и осыпаться."
 
-  building_agot_EE_nymeria_palace_02:0 "Nymeria's Palace"
-  building_type_agot_EE_nymeria_palace_02:0 "Nymeria's Palace"
-  building_agot_EE_nymeria_palace_02_desc:0 "Standing proudly once more in the heart of Ny Sar, Nymeria’s Palace has been meticulously restored, a testament to Rhoynish resilience and heritage. The vibrant green and pink marble gleams under the sun, while grande domes and soaring spires now dominate the skyline, almost erasing the memories of its tragic past."
+ building_agot_EE_nymeria_palace_02: "Дворец Нимерии"
+ building_type_agot_EE_nymeria_palace_02: "Дворец Нимерии"
+ building_agot_EE_nymeria_palace_02_desc: "Дворец Нимерии вновь гордо возвышается в сердце Ни Сара — досконально восстановленный памятник ройнарской стойкости и наследию. Ярко-зелёный и розовый мрамор сверкает на солнце, а величественные купола и взметнувшиеся ввысь шпили теперь господствуют над горизонтом, почти стирая воспоминания о его трагическом прошлом."
 
-  building_agot_EE_palace_of_love_01:0 "Palace of Sorrow"
-  building_type_agot_EE_palace_of_love_01:0 "Palace of Sorrow"
-  building_agot_EE_palace_of_love_01_desc:0 "The Palace of Sorrows stands as a sombre reminder of the fate that befell Chroyane, the Festival City. Its crumbling towers, covered in moss and dark vines, reveal none of the beauty the Palace of Love once embodied. Sunken statues and the stone men now haunt its foggy, ruined halls."
+ building_agot_EE_palace_of_love_01: "Дворец Горя"
+ building_type_agot_EE_palace_of_love_01: "Дворец Горя"
+ building_agot_EE_palace_of_love_01_desc: "Дворец Горя стоит мрачным напоминанием о судьбе Крояна, Праздничного города. Его осыпающиеся башни, покрытые мхом и чёрными вьющимися лозами, не хранят и тени той красоты, что некогда воплощал Дворец Любви. Затонувшие статуи и Каменные люди теперь бродят по его затянутым туманом, разрушенным залам."
 
-  building_agot_EE_palace_of_love_02:0 "Palace of Love"
-  building_type_agot_EE_palace_of_love_02:0 "Palace of Love"
-  building_agot_EE_palace_of_love_02_desc:0 "The Palace of Love graces the banks of the Rhoyne once more, a breathtaking revival of Chroyane's former glory. Its towers soar high, adorned with vibrant mosaics and delicate carvings that celebrate life, beauty, and love. Sunlight gleams off sparkling fountains that feed into the lush gardens, spilling flowers over every terrace. Under its grand domes, marriages are once again blessed; filling Chroyane with the promise of new beginnings."
+ building_agot_EE_palace_of_love_02: "Дворец Любви"
+ building_type_agot_EE_palace_of_love_02: "Дворец Любви"
+ building_agot_EE_palace_of_love_02_desc: "Дворец Любви вновь украшает берега Ройны — захватывающее дух возрождение былого величия Крояны. Его башни устремляются в небо, украшенные яркими мозаиками и изящной резьбой, прославляющей жизнь, красоту и любовь. Солнечный свет играет на струях сверкающих фонтанов, питающих пышные сады, где цветы обрамляют каждую террасу. Под его величественными куполами вновь благословляют браки, и Крояне заново наполняется обещанием новых начал."
 
-  building_agot_EE_bridge_of_dream_01:0 "Bridge of Dream"
-  building_type_agot_EE_bridge_of_dream_01:0 "Bridge of Dream"
-  building_agot_EE_bridge_of_dream_01_desc:0 "Once rivalling the Long Bridge of Volantis, the Bridge of Dream now looms over the Rhoyne in thick fog. Its stone arches used to rise forty feet above the river, but have crumbled under dense moss and black vines. Now a place for the stone men, it stands as a silent, rotting monument to the Rhoynar’s lost pride."
+ building_agot_EE_bridge_of_dream_01: "Мост Мечты"
+ building_type_agot_EE_bridge_of_dream_01: "Мост Мечты"
+ building_agot_EE_bridge_of_dream_01_desc: "Некогда соперничая с Длинным мостом Валантиса, Мост Мечты теперь нависает над Ройной в густом тумане. Его каменные арки когда-то поднимались на сорок футов над рекой, но со временем осели под тяжестью плотного мха и чёрных вьюнков. Ныне это пристанище Каменных людей, безмолвный, гниющий памятник утраченной гордости ройнаров."
 
-  building_agot_EE_bridge_of_dream_02:0 "Bridge of Dream"
-  building_type_agot_EE_bridge_of_dream_02:0 "Bridge of Dream"
-  building_agot_EE_bridge_of_dream_02_desc:0 "The Bridge of Dream once again spans the Rhoyne in its full glory. Rising forty feet above the river, its pale stone arches stand strong and defiant. Lush gardens line the bridge’s wooden span, blooming with flowers of all colours. This grand bridge, once lost to time and ruin; has been reborn. A symbol of Rhoynish pride and resilience over the flowing waters of the Rhoyne once more!"
+ building_agot_EE_bridge_of_dream_02: "Мост Мечты"
+ building_type_agot_EE_bridge_of_dream_02: "Мост Мечты"
+ building_agot_EE_bridge_of_dream_02_desc: "Мост Мечты вновь простирается через Ройн во всём своём великолепии. Поднимаясь на сорок футов над рекой, его светлые каменные арки стоят крепко и непоколебимо. По деревянному пролёту моста тянутся пышные сады, расцветающие цветами всех цветов. Этот величественный мост, некогда утраченный для времени и разрухи, возрождён — символ ройнарской гордости и стойкости над текущими водами Ройна."
 
   # Meereen
   building_agot_EE_great_pyramid_of_meereen:0 "The Great Pyramid of Meereen"

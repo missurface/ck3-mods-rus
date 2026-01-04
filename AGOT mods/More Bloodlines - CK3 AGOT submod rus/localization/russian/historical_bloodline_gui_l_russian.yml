@@ -1,8 +1,0 @@
-﻿l_russian:
- bloodline_desc_list: "血脉"
- bloodline_desc_no: ""
- OPEN_BLOODLINE_LIST_TOOLTIP: "Откройте меню Родословной"
- BLOODLINE_LIST: "Родословная"
- bloodline_establish_date_char: "Established: [Character.GetBirthDate.GetString]" #NT!
- bloodline_establish_date_nochar: "Ancient Bloodline" #NT!
-  

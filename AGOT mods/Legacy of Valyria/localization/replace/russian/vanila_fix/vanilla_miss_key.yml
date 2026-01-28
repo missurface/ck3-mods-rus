@@ -1,6 +1,6 @@
 ﻿l_russian:
  
  #special buildings
- building_type_elyria_great_port_02: "The Great Port of Elyria" 
- building_elyria_great_port_02: "The Great Port of Elyria" 
- building_elyria_great_port_02_desc: "The Great Port of Elyria is an immense dockyard built during the days of the [valyrian_freehold_short|E]. Elyria's strategic position in the Bay of Slaves provides this small island with significant traffic of ships, trade, and slaves, which this massive port can accommodate. After the collapse of the [valyrian_freehold_short|E], this port captured a significant portion of the Bay of Slaves' trade, becoming the envy of the region and its surroundings."  
+ building_type_elyria_great_port_02: "Великий порт Элирии" 
+ building_elyria_great_port_02: "Великий порт Элирии"
+ building_elyria_great_port_02_desc: "Великий порт Элирии - это огромный док, построенный во времена Фригольда. Стратегическое расположение Элирии в заливе Работорговцев позволяет маленькому острову получать большой доход от судов, торговли и рабов, которых способен принять этот огромный порт. После распада Фригольда этот порт прибрал к рукам большую часть торговли в заливе Работорговцев и стал предметом зависти всей бухты и региона в целом." 

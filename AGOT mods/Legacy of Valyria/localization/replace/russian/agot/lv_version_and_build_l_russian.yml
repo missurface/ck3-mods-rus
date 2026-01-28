@@ -3,4 +3,4 @@
  AGOT_VERSION_BUILD: "\nСборка AGOT: #color_yellow;bold $AGOT_BUILD$#!\nВерсия AGOT: #color_yellow;bold $AGOT_VERSION$#!$LV_VERSION_NUMBER$" 
  lv_load_game_log: "Ваша текущая версия Legacy of Valyria: $LV_VERSION_NUMBER$" 
   
- LV_VERSION_NUMBER: "\nLegacy of Valyria: #color_yellow;bold Версия 1.5.2.1 #!#weak (AGOT Open Beta 0.4.18)#!"
+ LV_VERSION_NUMBER: "\nLegacy of Valyria: #color_yellow;bold Версия 1.5.2.5 #!#weak (AGOT Open Beta 0.4.21.2)#!"

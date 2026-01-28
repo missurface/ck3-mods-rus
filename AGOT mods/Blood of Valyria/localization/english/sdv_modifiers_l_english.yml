@@ -1,0 +1,21 @@
+﻿l_english:
+ sdv_beauty_good_1_fertility_malus: "#N BoV - Fertility modifier.#!"
+ sdv_beauty_good_1_fertility_malus_desc: "Modifier to compensate for the fertility conferred by the beauty trait."
+
+ sdv_beauty_good_2_fertility_malus: "#N BoV - Fertility modifier.#!"
+ sdv_beauty_good_2_fertility_malus_desc: "Modifier to compensate for the fertility conferred by the beauty trait."
+
+ sdv_beauty_good_3_fertility_malus: "#N BoV - Fertility modifier.#!"
+ sdv_beauty_good_3_fertility_malus_desc: "Modifier to compensate for the fertility conferred by the beauty trait."
+
+ sdv_beauty_bad_1_fertility_bonus: "#N BoV - Fertility modifier.#!"
+ sdv_beauty_bad1_fertility_bonus_desc: "Modifier to compensate for the fertility suppressed by the beauty trait."
+
+ sdv_beauty_bad_2_fertility_bonus: "#N BoV - Fertility modifier.#!"
+ sdv_beauty_bad_2_fertility_bonus_desc: "Modifier to compensate for the fertility suppressed by the beauty trait."
+
+ sdv_beauty_bad_3_fertility_bonus: "#N BoV - Fertility modifier.#!"
+ sdv_beauty_bad_3_fertility_bonus_desc: "Modifier to compensate for the fertility suppressed by the beauty trait."
+
+ sdv_abortion_ban: "#N BoF - Abortion is prohibited.#!"
+ sdv_abortion_ban_desc: "Modifier that prevents the character from having an abortion (to be used for roleplaying purposes)."

@@ -2,14 +2,14 @@
     trait_vi_100: "#italic The blood of dragons and gods (32/32).#!"
     trait_vi_100_desc: "#italic;N [ROOT.Char.GetHerHis] blood is the blood of old Valyria, the blood of dragons and gods.. #!"
 
-    trait_vi_96: "The [GetCultureTradition('agot_tradition_valyrian').GetName] (31/32)"
-    trait_vi_96_desc: "The blood of [ROOT.GetCharacter.GetFirstNameNoTooltip] is the [GetCultureTradition('agot_tradition_valyrian').GetName], the few marriages outside this people now date back to forgotten times."
+    trait_vi_96: "The [GetCultureTradition('tradition_agot_high_valyrian').GetName] (31/32)"
+    trait_vi_96_desc: "The blood of [ROOT.GetCharacter.GetFirstNameNoTooltip] is the [GetCultureTradition('tradition_agot_high_valyrian').GetName], the few marriages outside this people now date back to forgotten times."
 
-    trait_vi_93: "The [GetCultureTradition('agot_tradition_valyrian').GetName] (30/32)"
-    trait_vi_93_desc: "The blood of [ROOT.GetCharacter.GetFirstNameNoTooltip] is the [GetCultureTradition('agot_tradition_valyrian').GetName], the few marriages outside this people now date back to forgotten times."
+    trait_vi_93: "The [GetCultureTradition('tradition_agot_high_valyrian').GetName] (30/32)"
+    trait_vi_93_desc: "The blood of [ROOT.GetCharacter.GetFirstNameNoTooltip] is the [GetCultureTradition('tradition_agot_high_valyrian').GetName], the few marriages outside this people now date back to forgotten times."
 
-    trait_vi_90: "The [GetCultureTradition('agot_tradition_valyrian').GetName] (29/32)"
-    trait_vi_90_desc: "The blood of [ROOT.GetCharacter.GetFirstNameNoTooltip] is the [GetCultureTradition('agot_tradition_valyrian').GetName], the few marriages outside this people now date back to forgotten times."
+    trait_vi_90: "The [GetCultureTradition('tradition_agot_high_valyrian').GetName] (29/32)"
+    trait_vi_90_desc: "The blood of [ROOT.GetCharacter.GetFirstNameNoTooltip] is the [GetCultureTradition('tradition_agot_high_valyrian').GetName], the few marriages outside this people now date back to forgotten times."
 
     trait_vi_87: "Almost nothing Human left (28/32)."
     trait_vi_87_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] has only a few non-$heritage_valyrian_name$ drops in his veins, [ROOT.Char.GetSheHe] is almost beyond Humanity, almost..."
@@ -50,7 +50,7 @@
 
 #50/
     trait_vi_50: "Closer to gods than men? (16/32)."
-    trait_vi_50_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] has a parent who has the [GetCultureTradition('agot_tradition_valyrian').GetName], and the other a most ordinary human... The question is whether [ROOT.GetCharacter.GetFirstNameNoTooltip] is closer to the gods or to men?"
+    trait_vi_50_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] has a parent who has the [GetCultureTradition('tradition_agot_high_valyrian').GetName], and the other a most ordinary human... The question is whether [ROOT.GetCharacter.GetFirstNameNoTooltip] is closer to the gods or to men?"
 
     trait_vi_46: "Ancestral ties with $heritage_valyrian_name$s (15/32)"
     trait_vi_46_desc: "The [ROOT.Char.GetHouse.GetName] are known for their marriages with families from the [GetModifier('valyrian_heritage_dynasty_modifier').GetName], unless it's the other way around?"
@@ -94,7 +94,7 @@
     trait_vi_6: "Nothing divine, everything human... (2/32)"
     trait_vi_6_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] no longer has anything valyrian in his veins, except for a few drops..."
 
-    trait_vi_3: "To a distant ancestor of the [GetCultureTradition('agot_tradition_valyrian').GetName] (1/32)."
+    trait_vi_3: "To a distant ancestor of the [GetCultureTradition('tradition_agot_high_valyrian').GetName] (1/32)."
     trait_vi_3_desc: "It is said that [ROOT.GetCharacter.GetFirstNameNoTooltip] had at most one great-great-great relative whose blood was that of #E [dragon|El]s#! and gods, but these are only rumors."
 
     #[GetModifier('valyrian_heritage_dynasty_modifie').GetNameWithTooltip]

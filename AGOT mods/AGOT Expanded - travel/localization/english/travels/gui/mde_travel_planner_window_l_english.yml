@@ -18,6 +18,8 @@
  mde_poi_dragonspots_minor.visit: "Visited the location of the [province.Custom('MdeHistoricalDragons')]"
  mde_poi_dragonspots_minor.visit.tt: "[province.Custom('MdeHistoricalDragonsDesc')]"
 
+ TRAVEL_POINT_OF_INTEREST_TT_agot_poi_wonders_of_man: "[PROVINCE.Custom('MdeCastleName')]"
+ agot_poi_wonders_of_man: "Will trigger a Sight-Seeing Event for this Wonder"
 
  #battles
 
@@ -118,6 +120,9 @@
  golden_wedding_desc: "On the seventh day of the seventh moon, a dowager Seahorse queen would marry a Stag. The celebration is known as the Golden Wedding to Smallfolk and Maesters alike, and it is remembered for its grand tournament and endless dragons in the sky."
  pentos_dragon_road_name: "End of the Dragon Road"
  pentos_dragon_road_desc: "The Dragon road’s most western point ends at the gates of Pentos. Here, one can begin their path on the long, wide and endless black oily road towards the east."
+
+ mde_the_wall: "The Wall"
+ mde_the_titan: "The Titan of Braavos"
 
  #rhoyne 
 #  explusion_hairy_men_name: "Expulsion of the Hairy Men"

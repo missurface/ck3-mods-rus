@@ -1,32 +1,39 @@
 ﻿l_english:
- agot_bm_group_ac:0 "Reign of the Dragon"
  agot_bm_ac:0 "Aegon's Conquest"
  agot_bm_ac_desc:0 "When Aegon Targaryen looks east, he sees the past, old, tired, dead but when he looked west, he saw the future, gold in the ground, gold in the fields and no dragons in the sky but his. He and his sisters, Rhaenys and Visenya flew over the great continent ostensibly visitors to a strange land but when Aegon returned he ordered construction of a massive table, carved in the shape of Westeros, with all the notable rivers and mountains that they had seen. A personal map of the Seven Kingdoms, then ruled by seven squabbling families. \n \nHouse Durrandon held the Stormlands from their seat at Storm's End, due south of Dragonstone. House Hoare of the Iron Islands had also conquered and enslaved the Riverlands, ruling them from Harrenhal, a monstrous castle rising on the shore of the God's Eye. House Stark held the frozen wasteland of the North, the oldest, largest and emptiest of the kingdoms. House Lannister held the Westerlands, the wealthiest kingdom, thanks to their goldmines. House Gardener held the Reach, the second wealthiest kingdom thanks to their crops. House Arryn held the Vale or rather the Vale held them, the mountains were impassible except through the Bloody Gate, which had never been taken. House Martell held the deserts of Dorne, probably because no one else wanted them. \n \n#bold Together, the Seven Kingdoms made Westeros, a realm that wasn't yet a realm, ruled by great families who didn't know what greatness was, Aegon would teach them. #"
 
  bookmark_02_aegon_targaryen:0 "Lord Aegon"
+ bookmark_02_aegon_targaryen_subheading: "Lord of Dragonstone"
  bookmark_02_aegon_targaryen_desc:0 "Aegon Targaryen, the self proclaimed King of Westeros is in the opening days of his conquest, plotting his landing at the Blackwater Rush and how he shall bring each of the Seven Kingdoms under his rule. \n \n#bold Can Aegon conquer Westeros and begin the rule of dragons and House Targaryen over the continent? #"
  bookmark_02_visenya_targaryen:0 "Visenya Targaryen"
  bookmark_02_rhaenys_targaryen:0 "Rhaenys Targaryen"
 
  bookmark_02_harren_hoare:0 "King Harren the Black"
+ bookmark_02_harren_hoare_subheading: "King of the Isles and Rivers"
  bookmark_02_harren_hoare_desc:0 "Harren Hoare has completed his fourty year long construction of the grandest castle in all of Westeros, Harrenhal, now as he lays the final stone, a test is offered to him. \n \n#bold Aegon Targaryen claims his throne and the thrones of all Kings in Westeros, can Harren the Black defeat the would-be Conqueror? #"
 
  bookmark_02_argilac_durrandon:0 "King Argilac the Arrogant"
+ bookmark_02_argilac_durrandon_subheading: "The Storm King"
  bookmark_02_argilac_durrandon_desc:0 "Argilac Durrandon offered Aegon Targaryen the lands in between himself and Harren the Black, an alliance to create a buffer zone between the Stormlands and the Riverlands but Aegon refused him and sent an embarrasing counter offer, his bastard brother will not have the hand of Argilac's daughter! \n \n#bold Aegon Targaryen claims his throne and the thrones of all Kings in Westeros, can Argilac the Arrogant defeat the would-be Conqueror? #"
  bookmark_02_argella_durrandon:0 "Argella Durrandon"
 
  bookmark_02_ronnel_arryn:0 "King Ronnel"
+ bookmark_02_ronnel_arryn_subheading: "King of the Vale"
  bookmark_02_ronnel_arryn_desc:0 "Ronnel Arryn, the Lord of the Eyrie and King of the Mountains and Vale is merely a boy, supported by his mothers regency when Aegon Targaryen laid his claim upon the whole Seven Kingdoms. \n \n#bold Can the boy and his regency hold off the would-be Conqueror with the mountain fortresses of the Vale? #"
  bookmark_02_sharra_arryn:0 "Sharra Arryn"
 
  bookmark_02_torrhen_stark:0 "King Torrhen"
+ bookmark_02_torrhen_stark_subheading: "King of Winter"
  bookmark_02_torrhen_stark_desc:0 "Torrhen Stark, the Lord of Winterfell and King in the North rules its snowy wasteland, in peace and honour. But when Aegon Targaryen lays his claim to the Seven Kingdoms, the Stark King knows he must raise arms to face him. \n \n#bold Can the King in the North hold off the would-be Conqueror and assure the independence of the North? #"
 
  bookmark_02_loren_lannister:0 "King Loren"
+ bookmark_02_loren_lannister_subheading: "King of the Rock"
  bookmark_02_loren_lannister_desc:0 "Loren Lannister, the Lord of Casterly Rock and King of the Rock, holds the most wealthy land in the realm, thanks to its goldmines but his wealth and power comes under threat from the east. Aegon Targaryen will land. \n \n#bold Can King Loren crush the would-be conqueror and prevent his dominance over Westeros? #"
 
  bookmark_02_mern_gardener:0 "King Mern IX"
+ bookmark_02_mern_gardener_subheading: "King of the Reach"
  bookmark_02_mern_gardener_desc:0 "Mern Gardener, the Lord of Highgarden and King of the Reach is the head of the ancient house of Gardener in a realm built of peace and prosperity but now Aegon Targaryen brings that under threat. \n \n#bold Can the King of the Reach defeat the would-be conqueror and send him back to Dragonstone in shame? #"
 
  bookmark_02_meria_martell:0 "Princess Meria"
+ bookmark_02_meria_martell_subheading: "Princess of Dorne"
  bookmark_02_meria_martell_desc:0 "Meria Nymeros Martell, the Lady of Sunspear and Princess of Dorne holds the southern deserts of Dorne, a very culturally and geographically isolated place compared to the rest of the Seven Kingdoms. Aegon Targaryen puts their isolation under threat. \n \n#bold Can the Princess of Dorne hold off the would-be Conqueror and keep House Martell, Unbowed, Unbent and Unbroken. #"

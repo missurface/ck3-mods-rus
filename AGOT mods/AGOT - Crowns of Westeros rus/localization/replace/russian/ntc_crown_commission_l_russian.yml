@@ -14,6 +14,8 @@
  agot_commission_crown_westeros_choice_tooltip: "Корона, вдохновленная историческими личностями, независимо от того, правили они или нет."
  agot_commission_crown_westeros_variant_choice_loc: "Вариант Короны"
  agot_commission_crown_westeros_variant_choice_tooltip: "Создайте ариант короны на основе уже существующей короны."
+ agot_commission_crown_westeros_hybrid_choice_loc:0 "Гибридная корона дома"
+ agot_commission_crown_westeros_hybrid_choice_tooltip:0 "Создать корону, сочетающую в себе черты двух разных домов."
   
  agot_commission_crown.1313.t: "Заказать корону"
  agot_commission_crown.1313.desc: "Решено. Эта корона будет сделана в честь важной исторической фигуры. Независимо от того, правили ли они при жизни или были лишены такого шанса судьбой, их наследие будет жить."

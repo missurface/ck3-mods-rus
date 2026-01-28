@@ -17,9 +17,11 @@
   
  mde_poi_dragonspots_minor.visit: "Посетил место [province.Custom('MdeHistoricalDragons')]"
  mde_poi_dragonspots_minor.visit.tt: "[province.Custom('MdeHistoricalDragonsDesc')]"
-  
-  
-  #battles 
+
+ TRAVEL_POINT_OF_INTEREST_TT_agot_poi_wonders_of_man: "[PROVINCE.Custom('MdeCastleName')]"
+ agot_poi_wonders_of_man: "Запустит событие осмотра достопримечательностей для этого чуда"
+
+ #battles 
   
  historical_battle_of_the_gullet: "Битва в Проливе"
  historical_battle_of_the_gullet_desc: "Во время Танца Драконов Триархия поддержала Зелёных. Это привело к кровавому морскому сражению между Веларионами и Вольными Городами."
@@ -118,8 +120,11 @@
  golden_wedding_desc: "В седьмой день седьмой луны королева-вдова из дома Сигарда вышла замуж за Оленя. Торжество известно мастерам и простонародью как Золотая Свадьба, запомнившаяся грандиозным турниром и бесчисленными драконами в небе."
  pentos_dragon_road_name: "Конец Дороги Дракона"
  pentos_dragon_road_desc: "Самый западный участок Дороги Дракона заканчивается у врат Пентоса. Здесь начинается путь по длинной, широкой и бесконечной черной маслянистой дороге на восток."
-  
-  #rhoyne 
+
+ mde_the_wall: "Стена"
+ mde_the_titan: "Титан Браавоса"
+
+ #rhoyne 
  #  explusion_hairy_men_name: "Expulsion of the Hairy Men"
  #  explusion_hairy_men_desc: "Before the times of the free cities, the Rhoyne was ruled by the Rhoynar. To cement their rule, a Thoynish prince ‘Garris the Grey’ drove the Hairy Men further east."
   

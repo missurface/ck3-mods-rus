@@ -12,3 +12,10 @@
  setting_show_crowns_without_coronation_enabled_desc: "По умолчанию CK3AGOT скрывает короны на персонаже, пока они не будут коронованы. Это отменит это правило."
  setting_hide_crowns_without_coronation_enabled: "Скрыть короны без коронации"
  setting_hide_crowns_without_coronation_enabled_desc: "По умолчанию CK3AGOT скрывает короны на персонаже, пока они не будут коронованы. Это сохранит это поведение."
+
+
+ rule_unlimited_hybrd_crowns: "@Crowns_of_Westeros_icon! Crowns of Westeros — гибридные короны"
+ setting_unlimited_hybrd_crowns_enabled: "Без ограничений"
+ setting_unlimited_hybrd_crowns_enabled_desc: "Все персонажи могут создавать гибридные короны домов вне зависимости от происхождения, брака или культуры."
+ setting_limited_hybrd_crowns_enabled: "По умолчанию"
+ setting_limited_hybrd_crowns_enabled_desc: "Гибридные короны могут создавать только персонажи, чьи родители происходят из двух домов, для которых существует общая гибридная корона; либо те, кто следует культуре другой династии; либо те, кто вместе со своим супругом представляет обе стороны гибридной короны."

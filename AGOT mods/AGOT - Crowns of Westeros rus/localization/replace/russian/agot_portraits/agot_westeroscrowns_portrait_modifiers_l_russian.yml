@@ -73,11 +73,8 @@
  PORTRAIT_MODIFIER_custom_headgear_female_vaellatargaryen_crown: "@Crowns_of_Westeros_icon! Корона Вейлы Таргариен"
   
  PORTRAIT_MODIFIER_custom_headgear_baelorbreakspear_crown: "@Crowns_of_Westeros_icon! Корона Бейлора Сломи Копьё"
-  
- PORTRAIT_MODIFIER_custom_headgear_goldfyre_crown: "@Crowns_of_Westeros_icon! Корона Голдфайра"
-  
- PORTRAIT_MODIFIER_custom_headgear_greenpyre_crown: "@Crowns_of_Westeros_icon! Корона Гринпайра"
-  
+
+
  PORTRAIT_MODIFIER_custom_headgear_brightflame_crown: "@Crowns_of_Westeros_icon! Корона Эйриона Яркое Пламя"
   
  PORTRAIT_MODIFIER_custom_headgear_aenysblackfyre_crown: "@Crowns_of_Westeros_icon! Корона Эйниса Блэкфайра"
@@ -130,8 +127,6 @@
   
  PORTRAIT_MODIFIER_custom_headgear_duncandragonfly_crown: "@Crowns_of_Westeros_icon! Корона Дункана Таргариена, Принца Стрекоз"
   
- PORTRAIT_MODIFIER_custom_headgear_seawyrm_crown: "@Crowns_of_Westeros_icon! Корона Морского Змея"
-  
  PORTRAIT_MODIFIER_custom_headgear_baelon_crown: "@Crowns_of_Westeros_icon! Корона Бейлона Таргарина, сына Джейхейриса I"
   
  PORTRAIT_MODIFIER_custom_headgear_laenorvelaryon_crown: "@Crowns_of_Westeros_icon! Корона Лейнора Велариона"
@@ -144,10 +139,6 @@
   
  PORTRAIT_MODIFIER_custom_headgear_female_baelorbreakspear_crown: "@Crowns_of_Westeros_icon! Корона Бейэлора Сломи Копьё"
   
- PORTRAIT_MODIFIER_custom_headgear_female_goldfyre_crown: "@Crowns_of_Westeros_icon! Корона Голдфайра"
-  
- PORTRAIT_MODIFIER_custom_headgear_female_greenpyre_crown: "@Crowns_of_Westeros_icon! Корона Гринпайра"
-  
  PORTRAIT_MODIFIER_custom_headgear_female_brightflame_crown: "@Crowns_of_Westeros_icon! Корона Эйриона Яркого Пламени"
   
  PORTRAIT_MODIFIER_custom_headgear_female_aenysblackfyre_crown: "@Crowns_of_Westeros_icon! Корона Эйниса Блэкфайра"
@@ -155,9 +146,7 @@
  PORTRAIT_MODIFIER_custom_headgear_female_maelysblackfyre_crown: "@Crowns_of_Westeros_icon! Корона Мейлиса Блэкфайра"
   
  PORTRAIT_MODIFIER_custom_headgear_female_duncandragonfly_crown: "@Crowns_of_Westeros_icon! Корона Дункана Таргариена, Принца Стрекоз"
-  
- PORTRAIT_MODIFIER_custom_headgear_female_seawyrm_crown: "@Crowns_of_Westeros_icon! Корона Морского Змея"
-  
+
  PORTRAIT_MODIFIER_custom_headgear_female_baelon_crown: "@Crowns_of_Westeros_icon! Корона Бейлона Таргарина, сына Джейхейриса I"
   
  PORTRAIT_MODIFIER_custom_headgear_garlandgardener_crown: "@Crowns_of_Westeros_icon! Боевая корона Гарланда II Гарденера"
@@ -179,10 +168,6 @@
  PORTRAIT_MODIFIER_custom_headgear_celtigar_crown: "@Crowns_of_Westeros_icon! Корона Селтигаров"
   
  PORTRAIT_MODIFIER_custom_headgear_female_celtigar_crown: "@Crowns_of_Westeros_icon! Корона Селтигаров"
-  
- PORTRAIT_MODIFIER_custom_headgear_orysbaratheon_crown: "@Crowns_of_Westeros_icon! Корона Ориса Баратеона"
-  
- PORTRAIT_MODIFIER_custom_headgear_female_orysbaratheon_crown: "@Crowns_of_Westeros_icon! Корона Ориса Баратеона"
   
  PORTRAIT_MODIFIER_custom_headgear_robbstark_crown: "@Crowns_of_Westeros_icon! Корона Робба Старка"
   
@@ -305,7 +290,52 @@
  PORTRAIT_MODIFIER_custom_headgear_tyboltthunderbolt_crown: "@Crowns_of_Westeros_icon! Корона Первых Людей/Преандальские Ланнистеры"
   
  PORTRAIT_MODIFIER_custom_headgear_female_tyboltthunderbolt_crown: "@Crowns_of_Westeros_icon! Корона Первых Людей/Преандальские Ланнистеры"
+
+ PORTRAIT_MODIFIER_custom_headgear_winterrose_crown:0 "@Crowns_of_Westeros_icon! Корона Лианны Старк"
   
+ PORTRAIT_MODIFIER_custom_headgear_female_winterrose_crown:0 "@Crowns_of_Westeros_icon! Корона Лианны Старк"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_baldric_durrandon_crown:0 "@Crowns_of_Westeros_icon! Корона Бальдрика «Хитреца» Дюррандона"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_female_baldric_durrandon_crown:0 "@Crowns_of_Westeros_icon! Корона Бальдрика «Хитреца» Дюррандона"
+ 
+ ### Hybrid Crowns
+ 
+ PORTRAIT_MODIFIER_custom_headgear_aemma_tiara:0 "@Crowns_of_Westeros_icon! Тиара королевы Эммы Аррен (Таргариен/Аррен)"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_female_aemma_tiara:0 "@Crowns_of_Westeros_icon! Тиара королевы Эммы Аррен (Таргариен/Аррен)"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_orysbaratheon_crown:0 "@Crowns_of_Westeros_icon! Корона Ориса Баратеона (Баратеон/Таргариен)"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_female_orysbaratheon_crown:0 "@Crowns_of_Westeros_icon! Корона Ориса Баратеона (Баратеон/Таргариен)"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_snowflower_crown:0 "@Crowns_of_Westeros_icon! Корона Сноуфлауэр цветок (Старк/Тирелл)"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_female_snowflower_crown:0 "@Crowns_of_Westeros_icon! Корона Сноуфлауэр (Старк/Тирелл)"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_winterwing_crown:0 "@Crowns_of_Westeros_icon! Корона Винтервинг (Таргариен/Старк)"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_female_winterwing_crown:0 "@Crowns_of_Westeros_icon! Корона Винтервинг (Таргариен/Старк)"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_reindeer_crown:0 "@Crowns_of_Westeros_icon! Корона Северный олень (Старк/Баратеон)"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_female_reindeer_crown:0 "@Crowns_of_Westeros_icon! Корона Северный олень (Старк/Баратеон)"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_emberrose_crown:0 "@Crowns_of_Westeros_icon! Корона Угольная роза (Таргариен/Тирелл)"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_female_emberrose_crown:0 "@Crowns_of_Westeros_icon! Корона Угольная роза (Таргариен/Тирелл)"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_goldfyre_crown:0 "@Crowns_of_Westeros_icon! Корона Гордфайр (Таргариен/Ланнистер)"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_female_goldfyre_crown:0 "@Crowns_of_Westeros_icon! Корона Гордфайр (Таргариен/Ланнистер)"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_greenpyre_crown:0 "@Crowns_of_Westeros_icon! Корона Гринпайр (Таргариен/Хайтауэр)" 
+ 
+ PORTRAIT_MODIFIER_custom_headgear_female_greenpyre_crown:0 "@Crowns_of_Westeros_icon! Корона Гринпайр (Таргариен/Хайтауэр)"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_seawyrm_crown:0 "@Crowns_of_Westeros_icon! Корона «Морской вирм» (Таргариен/Веларион)"
+ 
+ PORTRAIT_MODIFIER_custom_headgear_female_seawyrm_crown:0 "@Crowns_of_Westeros_icon! Корона «Морской вирм» (Таргариен/Веларион)"
   
  #Custom Westeros Crowns by White Wolf of the Whills 
  PORTRAIT_MODIFIER_custom_headgear_crown_of_the_iron_throne: "@Crowns_of_Westeros_icon! Корона Железного Трона"

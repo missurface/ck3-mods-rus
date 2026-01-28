@@ -1,0 +1,35 @@
+﻿l_russian:
+
+
+ #Mari's DNA
+ rule_mm_dnas_rule:0 "@my_icon! Mari’s #bold замена ДНК!#"
+ setting_mm_dnas_rule_on:0 "#high Новык ДНК#"
+ setting_mm_dnas_rule_off:0 "Выкл."
+ 
+ setting_mm_dnas_rule_off_desc:0 "Персонажи сохраняют #bold стандартные ДНК AGOT / AGOT +#!."
+ setting_mm_dnas_rule_on_desc:0 "Персонажи, включённые в сабмод AGOT от Maricontar, получают #bold новую ДНК#!."
+ 
+
+ #Show vs. Book Velaryon DNA
+ rule_mm_velaryons_dna_rule:0 "@my_icon! ДНК Веларионов: книга или сериал"
+ setting_mm_velaryons_dna_rule_on:0 "#high Веларионы по сериалу#!"
+ setting_mm_book_velaryons_dna_rule_on:0 "#high Веларионы по книге#!"
+ setting_mm_velaryons_dna_rule_off:0 "Выкл."
+
+ setting_mm_velaryons_dna_rule_on_desc:0 "Персонажи дома Веларион в эпоху Танца и в последующих поколениях получают внешность #bold ДНК#!, вдохновлённую HBO."
+ setting_mm_book_velaryons_dna_rule_on_desc:0 "Персонажи дома Веларион в эпоху Танца и после неё сохраняют внешность #bold ДНК#! cогласен Fire & Blood."
+ setting_mm_velaryons_dna_rule_off_desc:0 "Персонажи сохраняют #bold стандартную ДНК AGOT / AGOT +#!."
+
+
+ #Using LOTD
+ rule_mm_lotd_rule:0 "@my_icon! Будете ли вы использовать ОДЕЖДУ, добавленную #bold субмодом LEGACY OF THE DRAGON SUBMOD?#"
+ setting_mm_lotd_rule_on:0 "#high LOTD Вкл.#"
+ setting_mm_lotd_rule_off:0 "LOTD Выкл."
+ 
+ setting_mm_lotd_rule_on_desc:0 "Одежду и аксессуары, добавленные LOTD, смогут использовать некоторые персонажи."
+ setting_mm_lotd_rule_off_desc:0 "Сабмод не используется."
+ 
+
+
+ 
+ 

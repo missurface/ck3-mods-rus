@@ -1,375 +1,387 @@
-﻿l_russian:
- season_events.001.t: "Ветра зимы"
- season_events.001.a.n: "Зима пришла."
- season_events.001.desc: "Уже несколько недель дни становятся короче и холоднее, первые снежинки падают с неба, когда я вижу, что прибыл Белый Ворон из Цитадели - это означает лишь одно. Зима пришла."
-  
- season_events.001.a.desc: "Прибыл Белый Ворон, извещающий о наступлении зимы. Как будто мои глаза не видят снег."
-  
- season_events.002.t: "Грёзы о весне"
-  
- season_events.002.desc: "Первые почки листьев начали распускаться на деревьях, земля сырая и топкая от тающего снега - скоро наступит весна."
- season_events.003.desc: "Теперь дни длинные и жаркие, цветы расцвели и буйствуют. Кто-то может молить богов о долгом лете, но чем дольше длится лето, тем длиннее будет зима. Лето началось."
- season_events.003.t: "Песнь лета"
- season_events.003.a.n: "Милое дитя лета."
- season_events.003.a.desc: "С приходом лета настало время процветания... и войн."
- season_events.004.t: "Танец осени"
- season_events.004.a.n: "И лето тоже закончилось."
- season_events.004.a.desc: "Скоро наступит зима."
- season_events.004.desc: "Хотя дни остаются тёплыми, ночи становятся холоднее, а листья приобретают оранжевый оттенок, который усиливается с каждым днём. Осень пришла, лето подошло к концу, а зима быстро приближается. Предстоит много работы - жатва должна начаться немедленно."
-  
-  
- #season_events.001.a.desc.cynical: "One may have lost hope that the Winds of Winter would soon arrive."
- season_events.002.a.n: "Наконец-то зима прошла."
- season_events.002.a.desc: "С окончанием зимы и приближением весны то, что было лишь грёзой, теперь стало реальностью."
- agot_seasons_doctrine_seasons_name: "Времена года"
- agot_seasons_doctrine_seasons: "Времена года"
- agot_seasons_doctrine_winter_name: "Зима"
- agot_seasons_doctrine_winter_desc: "Когда дни становятся короче, воздух холоднее, а ветра дуют с севера, неся отчаяние, - зима наступила."
- agot_seasons_doctrine_spring_name: "Весна"
- agot_seasons_doctrine_spring_desc: "Дни медленно удлиняются, лёд тает, птицы начинают петь. Весна наступила."
- agot_seasons_doctrine_autumn_name: "Осень"
- agot_seasons_doctrine_autumn_desc: "С опаданием пожелтевших листьев остаётся лишь ждать зиму. Но пока - осень наступила."
- agot_seasons_doctrine_summer_name: "Лето"
- agot_seasons_doctrine_summer_desc: "С долгими жаркими днями и яркой зеленью листвы кажется, что этот рай может длиться вечно."
- rule_seasons_agot_game_rules: "ПЛиО: Времена года"
- rule_seasons_agot_storm_rules: "Времена года : Штормовые правила : WIP"
- setting_seasons_storm_enabled: "Осенние штормы усилились"
- setting_seasons_storm_enabled_desc: "Осенью в Штормовых землях и на Ступенях могут случаться штормы. Эта настройка находится в стадии разработки и не протестирована полностью. Штормы не проработаны и могут не работать. Если вы используете эту настройку и у вас возникают штормы, пожалуйста, дайте мне знать, если у вас есть предложения или возникли проблемы."
- setting_seasons_storm_disabled: "Осенние штормы отключены"
- setting_seasons_storm_disabled_desc: "Штормов не будет. Это временная настройка по умолчанию, штормы находятся в стадии разработки, и она используется как заполнитель. Включите, если вы хотите, чтобы, возможно, произошел экспериментальный шторм. Еще не тестировался. Используйте на свой страх и риск."
-  
- #Nickname Rules 
- rule_seasons_nickname_frequency: "Сезонная частота использования псевдонимов"
- setting_normal_frequency_seasonal_nicks: "Обычный"
- setting_normal_frequency_seasonal_nicks_desc: "Сезонные псевдонимы будут использоваться примерно в 10% случаев. Изменение этого параметра в настоящее время ничего не дает, псевдонимы всегда будут использоваться в 10% случаев. Это служит в качестве заполнителя. Существует только для того, чтобы новые сохраненные игры были совместимы со следующим крупным обновлением, когда оно что-то изменит."
- setting_very_rare_season_nick: "Очень редкий"
- setting_very_rare_season_nick_desc: "Сезонные прозвища будут встречаться примерно в 1% случаев."
- setting_rare_season_nick: "Редкий"
- setting_rare_season_nick_desc: "Сезонные прозвища будут появляться примерно в 5% случаев."
- setting_common_season_nick: "Часто"
- setting_common_season_nick_desc: "Сезонные прозвища будут появляться примерно в 20% случаев."
- setting_frequent_season_nick: "Очень часто"
- setting_frequent_season_nick_desc: "Сезонные прозвища будут появляться примерно в 35% случаев."
- setting_excessive_season_nick: "Чрезмерно часто"
- setting_excessive_season_nick_desc: "Сезонные прозвища будут появляться примерно в 50% случаев."
- #eligiblity Rules 
- rule_seasons_nickname_eligiblity: "Доступность сезонных прозвищ"
- setting_monarch_and_paramounts: "Железный Трон и Верховные Лорды"
- setting_monarch_and_paramounts_desc: "Только дети с Железного Трона (или других имперских титулов) или Верховных Лордов могут получить сезонное прозвище. Изменение этой настройки в настоящее время не имеет эффекта. По той же причине, что и настройка частоты."
- setting_monarchs_only_seasons: "Только Железный Трон и имперский уровень"
- setting_monarchs_only_seasons_desc: "Только дети с Железного Трона или других титулов имперского уровня (например, независимого Дорна) могут получить сезонное прозвище."
- setting_all_high_lords_eligible_seasons: "Все Высшие Лорды"
- setting_all_high_lords_eligible_seasons_desc: "Дети любого герцога (дукa) или выше могут получить сезонное прозвище."
-  
-  
-  
- #seasons_agot_game_rules_name: "AGOT : Seasons"
- #agot_historical_seasons: "Historical Seasons"
- setting_agot_historical_seasons: "Исторические времена года"
- setting_agot_historical_seasons_desc: "Следует каноничному расписанию сезонов с 0 до 300 г. от З.Э., полу-случайное после 300 г."
- setting_agot_sandbox_seasons: "Неисторические времена года"
- #agot_sandbox_seasons: "Non-Historical Seasons"
- setting_agot_sandbox_seasons_desc: "Длительность сезонов устанавливается полу-случайно с весовыми интервалами. Игра начнётся весной."
- #setting_agot_semi_historical_seasons_desc: "Game will begin in the historical season, but will progress randomly"
- #setting_agot_semi_historical_seasons: "Semi-Historical Seasons"
- setting_agot_spring_war: "Весенние войны"
- setting_agot_spring_war_desc: "Войны вроде Восстания Роберта и Восстания Пиков будут происходить весной при настройке 'Исторические времена года'."
- setting_agot_winter_war: "Зимние войны"
- setting_agot_winter_war_desc: "Войны вроде Восстания Роберта и Восстания Пиков будут происходить зимой при настройке 'Исторические времена года' согласно канону."
- rule_seasons_agot_war_rules: "ПЛиО: Настройки войн по сезонам"
- seasons_ending_decision: "Решение о смене сезона"
- seasons_ending_decision_tooltip: "Отладочный элемент для сезонов. Предотвращает ошибки."
- seasons_ending_decision_desc: "Для отладки мода сезонов и предотвращения ошибок."
- seasons_ending_decision_confirm: "Это нельзя нажимать..."
-  
-  
-  
- catalyst_summer_desc: "Лето скоро наступит..."
- catalyst_autumn_desc: "Повеяло прохладой - осень близко"
- catalyst_winter_desc: "Ветра зимы скоро придут, выпал первый снег"
- catalyst_light_winter_desc: "Ветра зимы скоро придут, выпал первый снег"
- catalyst_spring_desc: "Первые зелёные почки возвещают о приходе весны."
-  
-  
- #Season Flavored Events yippee 
-  
- season_flavor_events.001.t: "Фермерский дом"
- season_flavor_events.001.desc: "Продвигаясь с отрядом по землям, я наткнулся на маленькую ферму в холмах. Подумалось: может это рай, а может и семь адов - фермер не успеет собрать урожай до зимы, и его семья умрёт от голода."
- season_flavor_events.001.a: "Что ж... удачи.."
- season_flavor_events.001.b: "Позвольте мне помочь"
- season_flavor_events.001.c: "Чего он не заметит, того не существует.."
-  
- season_flavor_events.002.t: "Крестьяне в нужде"
- season_flavor_events.002.desc: "Ни для кого не секрет, что зима выдалась суровой, и я сам жажду изобилия, когда ко мне является староста местной деревни.\nКрестьянин обращается: «Милорд, смиренно просим поделиться едой - боимся не пережить зиму... Предложить нечего... Простите, милорд. Но умоляем, не дайте нам умереть с голоду»."
- season_flavor_events.002.a: "Сделаю, что смогу"
- season_flavor_events.002.b: "Искренне жаль, но ничем не могу помочь."
- season_flavor_events.002.c: "Посмотрю, что можно сделать"
- season_flavor_events.002.cruel: "Как смеешь меня беспокоить, наглый смерд?"
- season_flavor_events.002.cake: "Управитель, пусть едят пироги"
- season_flavor_events.002.callous: "Меня это глубоко не волнует."
- season_flavor_events.002.compassionate: "Бедняжки! Помогу чем смогу."
- season_flavor_events.002.smart: "У меня есть идея"
- season_flavor_events.002.stockpilehas: "Управитель, выдайте им из запасов"
-  
- season_flavor_events.003.t: "'Пусть едят пироги', сказали они"
- season_flavor_events.003.desc: "Преимущества лорда очевидны: пока мои земли страдают от зимы, мой двор изнывает от изобилия. Придворные предлагают устроить зимнее празднество и заказать пирог на весь замок. Но кастелян предупреждает: крестьяне возненавидят лорда, пирующего во время голода."
- season_flavor_events.003.a: "О, быть лордом!"
- season_flavor_events.003.b: "Возможно, это безрассудство.."
- season_flavor_events.003.c: "Пусть и они едят пироги!"
-  
- season_flavor_events.004.t: "Летние воспоминания"
- season_flavor_events.004.desc: "Радость и смех неразрывны с летней порой. Играя в садах со сверстниками, я слышу повсюду смех, когда NAME_OF_SIB_OR_FRIEND_OR_PEER подходит и спрашивает, в какую игру сыграем теперь."
- season_flavor_events.004.a: "Давайте играть!"
- season_flavor_events.004.b: "А в чём смысл?"
- season_flavor_events.004.c: "Почитаем лучше!"
- #ADD DESC FOR SHY AND DEPRESSED AND GREGARIOUS 
-  
- season_flavor_events.005.t: "Милое дитя лета?"
- season_flavor_events.005.desc: "... Я дитя лета! Ох, какое милое! Ура!"
- season_flavor_events.005.a: "Милое дитя лета."
- season_flavor_events.005.b: "Нет, спасибо."
-  
- season_flavor_events.006.t: "Крестьяне ликуют!"
- season_flavor_events.006.desc: "Крестьяне. Ликуют."
-  
- season_flavor_events.060.t: "Ввести зимний налог"
- season_flavor_events.060.desc: "Я могу ввести дополнительный налог на роскошь для лордов или повысить общий налог для простонародья, чтобы сбалансировать бюджет. Однако ни одна из групп не обрадуется такому решению.."
- season_flavor_events.060.a: "Обложить налогом простонародье"
- season_flavor_events.060.b: "Обложить налогом лордов"
- season_flavor_events.060.d: "Обложить налогом всех!"
- season_flavor_events.060.c: "Я передумал.."
-  
-  
- seasons_noble_tax: "Зимний налог на лордов"
- seasons_noble_tax_desc: "Для пополнения казны в суровую зиму введен налог на вассальных лордов"
- seasons_peasant_tax: "Зимний налог на простонародье"
- seasons_peasant_tax_desc: "Для пополнения казны в суровую зиму введен налог на простонародье, вызвавший их недовольство."
- seasons_levy_extra_tax: "Ввести зимний налог"
- seasons_levy_extra_tax_desc:0 "During this harsh winter, my coffers are beginning to run dry, it is my right to levy a tax to keep them filled. But to whom shall I tax? The lords or the smallfolk? 
- levy_winter_tax_tt: "Могу ввести зимний налог для балансировки бюджета."
- seasons_levy_extra_tax_confirm: "Ввести налог"
- seasons_levy_extra_tax_tooltip: "Могу ввести зимний налог для балансировки бюджета."
- seasons_all_tax: "Зимний налог"
-  
- rule_seasons_agot_winter_rules: "Суровость зимы"
- setting_normal_income_penalty: "Стандартная зима"
- setting_light_income_penalty: "Мягкая зима"
- setting_normal_income_penalty_desc: "Обычные зимние штрафы к доходу: около 65% снижения в среднем. Вероятен дефицит или нулевой доход. Рекомендуется сократить войска и дворовые расходы."
- setting_light_income_penalty_desc: "Сниженные зимние штрафы: около 30% снижения дохода. Доход уменьшится, но дефицит маловероятен. Рекомендуется сократить либо войска, либо дворовые расходы."
-  
- agot_seasons_sub_region_westeros_north: "Север"
- agot_seasons_sub_region_westeros_andal_lands: "Просторечье"
- agot_seasons_sub_region_step_stones: "Ступенчатые острова"
- agot_seasons_sub_region_dorne: "Дорн"
- agot_seasons_sub_region_essos_north: "Северный Эссос"
- agot_seasons_sub_region_essos_south: "Три Дочери"
- agot_seasons_sub_region_essos_dothraki: "Ройна и Восток"
- agot_seasons_sub_region_westeros_the_neck: "Перешеек"
- agot_seasons_sub_region_westeros_stormlands: "Штормовые земли"
- agot_seasons_sub_region_westeros_dragonstone_and_claw: "Глотка"
- agot_seasons_sub_region_westeros_riverlands: "Речные земли"
- agot_seasons_sub_region_westeros_southern_andal_lands: "Юг"
- agot_seasons_sub_region_westeros_westerlands_and_isles: "Запад"
- agot_seasons_sub_region_westeros_vale: "Долина"
- seasons_cold_autumn_phase: "Холодная осень"
- seasons_cold_autumn_phase_desc: "Заморозки пришли рано, дни кажутся короче обычного, а листья окрасились в ярчайшие оттенки оранжевого и красного. Эта осень заметно холоднее обычной."
-  
- agot_seasons_seasons_dornish_winter_phase_situation_phase: "Южная зима"
- agot_seasons_seasons_dornish_winter_phase_situation_phase_desc: "На дальнем юге снег выпадает редко, если вообще выпадает. В Семи адах наступят холода, прежде чем замерзнет Дорн."
-  
- agot_seasons_participant_group_ruler_in_region: "Правитель региона"
- seasons_struggle: "Сезон"
- seasons_spring_phase: "Умеренная весна"
- seasons_summer_phase: "Умеренное лето"
-  
- seasons_autumn_phase: "Умеренная осень"
-  
- seasons_summer_phase_desc: "Тёплый и сухой сезон: цветы распустились, урожай зреет, королевство подобно раю."
- seasons_winter_phase_desc: "Снег падает по всему королевству, окна покрыты льдом, холод проникает в каждый угол. Зима пришла."
- seasons_autumn_phase_desc: "С опаданием листьев, окрашенных в красные и оранжевые тона, наступила осень. Приближается конец жатвы."
- seasons_spring_phase_desc: "После долгого времени зима наконец закончилась. Теперь мы с надеждой смотрим на весну и лето."
- seasons_light_winter_phase_desc: "Снег падает по всему королевству, окна покрыты льдом, холод проникает в каждый угол. Зима пришла."
- seasons_light_winter_phase: "Мягкая зима"
- seasons_northern_winter_phase: "Северная зима" #NT!
- seasons_northern_winter_phase_desc: "Хотя она суровее южных зим, северяне лучше подготовлены к ней." #NT!
- agot_seasons_seasons_northern_winter_phase_situation_phase: "Северная зима" #NT!
- agot_seasons_seasons_northern_winter_phase_desc: "Хотя она суровее южных зим, северяне лучше подготовлены к ней." #NT!
-  
- situation_agot_seasons: "Сезон"
- winter_normal_modifier_1: "Зима" #NT!
- agot_seasons_seasons_spring_phase_situation_phase: "Весна"
- agot_seasons_seasons_wet_spring_phase_situation_phase: "Дождливая весна"
- agot_seasons_seasons_hot_spring_phase_situation_phase: "Жаркая весна"
- agot_seasons_seasons_dry_spring_phase_situation_phase: "Засуха весной"
- agot_seasons_seasons_cool_spring_phase_situation_phase: "Прохладная весна"
- agot_seasons_seasons_summer_phase_situation_phase: "Умеренное лето"
- agot_seasons_seasons_dry_summer_phase_situation_phase: "Засуха"
- agot_seasons_seasons_wet_summer_phase_situation_phase: "Дождливое лето"
- agot_seasons_seasons_hot_summer_phase_situation_phase: "Знойное лето"
- agot_seasons_seasons_winter_phase_situation_phase: "Зима"
- agot_seasons_seasons_light_winter_phase_situation_phase: "Мягкая зима"
- agot_seasons_seasons_cold_winter_phase_situation_phase: "Лютый холод"
- agot_seasons_seasons_cold_autumn_phase_situation_phase: "Холодная осень"
- agot_seasons_seasons_dry_autumn_phase_situation_phase: "Сухая осень"
- agot_seasons_seasons_wet_autumn_phase_situation_phase: "Дождливая осень"
- agot_seasons_seasons_autumn_phase_situation_phase: "Осень"
- winter_north_modifier: "Северная зима" #NT!
-  
+﻿l_russian: 
+ season_events.001.t:0 "Ветра зимы"
+ season_events.001.a.n:0 "Зима пришла."
+ season_events.001.desc:0 "Вот уже несколько недель дни становятся короче и холоднее; первые снежинки падают с неба, и сегодня утром я вижу: из Цитадели прибыл белый ворон, а это означает лишь одно. Зима пришла."
+ 
+ season_events.001.a.desc:0 "Белый ворон прибыл и возвестил о наступлении зимы. Если бы мои глаза не видели снег."
+ 
+ season_events.002.t:0 "Грёзы о весне"
+ 
+ season_events.002.desc:0 "На деревьях уже набухают первые почки, земля сырая и раскисшая от тающего снега, и скоро наступит весна."
+ season_events.003.desc:0 "Теперь дни долгие и жаркие, цветы распустились и буйно цветут. Кто-то, быть может, молится богам о долгом лете, но чем дольше длится лето, тем дольше будет зима. Лето началось."
+ season_events.003.t:0 "Песнь о лете"
+ season_events.003.a.n:0 "Ах ты, сладкое дитя лета."
+ season_events.003.a.desc:0 "Раз лето пришло, настало время процветания — и войны."
+ season_events.004.t:0 "Пляска осени"
+ season_events.004.a.n:0 "И лето тоже закончилось."
+ season_events.004.a.desc:0 "Не пройдёт и много времени, как придёт зима."
+ season_events.004.desc:0 "Хотя дни ещё тёплые, ночи становятся прохладнее, а листья начинают наливаться рыжиной, что с каждым днём лишь усиливается. Осень пришла, лето идёт на убыль, и зима быстро приближается. Работы ещё много: жатву нужно начинать немедля."
+ Seasonal_Variants:0 "Сезонные варианты"
+ 
+ #season_events.001.a.desc.cynical:0 "One may have lost hope that the Winds of Winter would soon arrive."
+ season_events.002.a.n:0 "Наконец зима прошла."
+ season_events.002.a.desc:0 "С концом зимы и весной на горизонте то, что было лишь грёзой, наконец стало явью."
+ agot_seasons_doctrine_seasons_name:0 "Времена года"
+ agot_seasons_doctrine_seasons:0 "Времена года"
+ agot_seasons_doctrine_winter_name:0 "Зима"
+ agot_seasons_doctrine_winter_desc:0 "Когда дни становятся короткими, а воздух — всё холоднее, ветра дуют на юг, принося отчаяние: зима уже здесь."
+ agot_seasons_doctrine_spring_name:0 "Весна"
+ agot_seasons_doctrine_spring_desc:0 "Дни понемногу становятся длиннее, лёд тает, и птицы начинают петь. Весна уже здесь."
+ agot_seasons_doctrine_autumn_name:0 "Осень"
+ agot_seasons_doctrine_autumn_desc:0 "Когда желтеющие листья опадают, остаётся лишь вопрос времени, когда придёт зима. Но пока — осень уже здесь."
+ agot_seasons_doctrine_summer_name:0 "Лето"
+ agot_seasons_doctrine_summer_desc:0 "Дни долгие и жаркие, листва ярко-зелёная — кажется, этот рай может длиться вечно."
+ rule_seasons_agot_game_rules:0 "AGOT: Времена года"
+ rule_seasons_agot_storm_rules:0 "Времена года: правила штормов: WIP"
+ setting_seasons_storm_enabled:0 "Осенние штормы включены"
+ setting_seasons_storm_enabled_desc:0 "Осенью в Штормовых землях и на Ступенях могут случаться штормы. Этот параметр ещё в разработке и не полностью протестирован. Штормы пока не доработаны и могут не работать. Если вы включите эту настройку и столкнётесь со штормами, сообщите мне, если у вас есть предложения или вы заметите проблемы."
+ setting_seasons_storm_disabled:0 "Осенние штормы отключены"
+ setting_seasons_storm_disabled_desc:0 "Штормов не будет. Это временная настройка по умолчанию: штормы ещё в разработке и этот пункт — заглушка. Включайте, если хотите потенциально столкнуться с экспериментальными штормами. Пока не тестировалось. Используйте на свой риск."
+
+ #Nickname Rules
+ rule_seasons_nickname_frequency:0 "Частота сезонных прозвищ"
+ setting_normal_frequency_seasonal_nicks:0 "Обычная"
+ setting_normal_frequency_seasonal_nicks_desc:0 "Сезонные прозвища будут появляться примерно в 10% случаев. Сейчас изменение этой настройки ничего не делает: прозвища всегда будут появляться с вероятностью 10%. Это заглушка. Она существует лишь затем, чтобы новые сохранения уже сейчас были совместимы со следующим крупным обновлением, когда настройка начнёт работать."
+ setting_very_rare_season_nick:0 "Крайне редко"
+ setting_very_rare_season_nick_desc:0 "Сезонные прозвища будут появляться примерно в 1% случаев."
+ setting_rare_season_nick:0 "Редко"
+ setting_rare_season_nick_desc:0 "Сезонные прозвища будут появляться примерно в 5% случаев."
+ setting_common_season_nick:0 "Часто"
+ setting_common_season_nick_desc:0 "Сезонные прозвища будут появляться примерно в 20% случаев."
+ setting_frequent_season_nick:0 "Очень часто"
+ setting_frequent_season_nick_desc:0 "Сезонные прозвища будут появляться примерно в 35% случаев."
+ setting_excessive_season_nick:0 "Чрезмерно часто"
+ setting_excessive_season_nick_desc:0 "Сезонные прозвища будут появляться примерно в 50% случаев."
+ #eligiblity Rules
+ rule_seasons_nickname_eligiblity:0 "Доступность сезонных прозвищ"
+ setting_monarch_and_paramounts:0 "Железный Трон и верховные лорды"
+ setting_monarch_and_paramounts_desc:0 "Сезонное прозвище могут получить только дети Железного Трона (или других имперских титулов) либо верховных лордов. Сейчас изменение этой настройки ничего не делает. Причина та же, что и у настройки частоты."
+ setting_monarchs_only_seasons:0 "Только Железный Трон и имперский ранг"
+ setting_monarchs_only_seasons_desc:0 "Сезонное прозвище могут получить только дети Железного Трона или других титулов имперского ранга — например, независимого Дорна."
+ setting_all_high_lords_eligible_seasons:0 "Все верховные лорды"
+ setting_all_high_lords_eligible_seasons_desc:0 "Сезонное прозвище могут получить дети любого титула ранга герцога и выше."
+
+
+
+ #seasons_agot_game_rules_name:0 "AGOT : Seasons"
+ #agot_historical_seasons:0 "Historical Seasons"
+ setting_agot_historical_seasons:0 "Исторические времена года"
+ setting_agot_historical_seasons_desc:0 "Следует сезонному расписанию из лора с 0 г. ОЗ до 300 г. ОЗ; после 300 г. ОЗ сезоны становятся полу-случайными."
+ setting_agot_sandbox_seasons:0 "Неисторические времена года"
+ #agot_sandbox_seasons:0 "Non-Historical Seasons"
+ setting_agot_sandbox_seasons_desc:0 "Длительность всех сезонов будет задаваться полу-случайно, с весовыми интервалами. Игра начнётся весной."
+ #setting_agot_semi_historical_seasons_desc:0 "Game will begin in the historical season, but will progress randomly"
+ #setting_agot_semi_historical_seasons:0 "Semi-Historical Seasons" #Temp Disabled as does nothing.
+ setting_agot_spring_war:0 "Весенние войны"
+ setting_agot_spring_war_desc:0 "Для настройки «Исторические времена года» войны вроде Восстания Роберта и Восстания Пиков будут происходить весной, а не зимой."
+ setting_agot_winter_war:0 "Зимние войны"
+ setting_agot_winter_war_desc:0 "Для настройки «Исторические времена года» войны вроде Восстания Роберта и Восстания Пиков будут происходить зимой, следуя каноничным сезонам."
+ rule_seasons_agot_war_rules:0 "AGOT: сезонные правила войн"
+ seasons_ending_decision:0 "Решение завершить сезон"
+ seasons_ending_decision_tooltip:0 "Это DEBUG-настройка сезонов. Предотвращает ошибки."
+ seasons_ending_decision_desc:0 "Для отладки мода сезонов, чтобы предотвращать ошибки."
+ seasons_ending_decision_confirm:0 "Это не должно нажиматься..."
+
+
+
+ catalyst_summer_desc:0 "Лето скоро будет здесь..."
+ catalyst_autumn_desc:0 "Дуют более прохладные ветра — осень уже близко"
+ catalyst_winter_desc:0 "Скоро придут ветра зимы — выпал первый снег"
+ catalyst_light_winter_desc:0 "Скоро придут ветра зимы — выпал первый снег"
+ catalyst_spring_desc:0 "Первые зелёные почки показывают, что весна уже здесь."
+
+
+ #Season Flavored Events yippee
+
+ season_flavor_events.001.t:0 "Дом хуторянина"
+ season_flavor_events.001.desc:0 "Пока мы с моим лагерем пересекаем эти земли, мне попадается небольшой хутор в холмах. Я думаю про себя: это может быть раем — или Семью преисподними; фермер ни за что не успеет собрать достаточно урожая до прихода зимы, и он с семьёй наверняка умрёт от голода."
+ season_flavor_events.001.a:0 "Ну... удачи..."
+ season_flavor_events.001.b:0 "Дай-ка я помогу тебе"
+ season_flavor_events.001.c:0 "Чего он не заметит — того не будет жалко..." #Steal, try to find Sandor line
+ 
+ season_flavor_events.002.t:0 "Мелкий люд в нужде"
+ season_flavor_events.002.desc:0 "Не секрет, что эта зима выдалась суровой, и я всё чаще мечтаю о достатке, когда ко мне с прошением приходит староста ближайшей деревни. \n Крестьянин обращается ко мне: «Милорд, мы смиренно просим вас выделить немного пищи — боимся, мы не переживём зиму... Нам нечего предложить... Простите, милорд. Но прошу, не дайте нам умереть с голоду»."
+ season_flavor_events.002.a:0 "Я сделаю, что смогу"
+ season_flavor_events.002.b:0 "Мне правда жаль, но я ничем не могу помочь."
+ season_flavor_events.002.c:0 "Посмотрю, что могу сделать"
+ season_flavor_events.002.cruel:0 "Как ты смеешь проявлять ко мне неуважение, дерзкий крестьянин." #Fucking kill them
+ season_flavor_events.002.cake:0 "Управляющий, пусть едят пирожные"
+ season_flavor_events.002.callous:0 "Мне решительно всё равно."
+ season_flavor_events.002.compassionate:0 "Ах вы бедняги. Дайте я помогу."
+ season_flavor_events.002.smart:0 "У меня есть мысль"
+ season_flavor_events.002.stockpilehas:0 "Управляющий, просто выдай им немного из запасов"
+ 
+ season_flavor_events.003.t:0 "«Пусть едят пирожные», — сказали они"
+ season_flavor_events.003.desc:0 "Преимущества быть лордом ни для кого не тайна: пока остальное королевство мается этой зимой, мы с двором страдаем от избытка припасов. И многие придворные уже начали предлагать Зимний праздник — можно поручить пекарю испечь торт, достаточно большой, чтобы накормить всю крепость. С другой стороны, мой кастелян предупреждает: мелкий люд может возненавидеть лорда, который пирует, пока они голодают."
+ season_flavor_events.003.a:0 "Ах, быть бы лордом"
+ season_flavor_events.003.b:0 "Пожалуй, это и впрямь может быть глупостью..."
+ season_flavor_events.003.c:0 "Пусть и они едят пирожные!"
+ 
+ season_flavor_events.004.t:0 "Летние воспоминания"
+ season_flavor_events.004.desc:0 "Радость и улыбки часто идут рука об руку с летними годами, и сегодня — не исключение. Пока я играю в садах со сверстниками, смех разносится повсюду, когда NAME_OF_SIB_OR_FRIEND_OR_PEER подходит ко мне и спрашивает, во что мы будем играть дальше."
+ season_flavor_events.004.a:0 "Давай играть!"
+ season_flavor_events.004.b:0 "А смысл?"
+ season_flavor_events.004.c:0 "Давай почитаем!"
+ #ADD DESC FOR SHY AND DEPRESSED AND GREGARIOUS
+ 
+ season_flavor_events.005.t:0 "Сладкое дитя лета?"
+ season_flavor_events.005.desc:0 "ИСПРАВИТЬ... Я дитя лета! Такое-растакое сладкое! Ура!"
+ season_flavor_events.005.a:0 "Сладкое дитя лета."
+ season_flavor_events.005.b:0 "Нет, спасибо."
+ 
+ season_flavor_events.006.t:0 "Мелкий люд ликует!"
+ season_flavor_events.006.desc:0 "Мелкий люд. Ликуйте."
+ 
+ season_flavor_events.060.t:0 "Ввести зимний налог"
+ season_flavor_events.060.desc:0 "Я могу наложить на лордов дополнительный налог на роскошь, а могу повысить общий налог для мелкого люда, чтобы лучше свести бюджет. Однако вряд ли хоть одна сторона обрадуется такому выбору..."
+ season_flavor_events.060.a:0 "Обложить налогом мелкий люд"
+ season_flavor_events.060.b:0 "Обложить налогом лордов"
+ season_flavor_events.060.d:0 "Обложить обоих!"
+ season_flavor_events.060.c:0 "[Select_CString(ROOT.Char.IsFemale, 'Я передумала', 'Я передумал' )]..."
+ 
+ 
+ seasons_noble_tax:0 "Зимний налог для лордов"
+ seasons_noble_tax_desc:0 "Чтобы в суровую зиму казна не пустела, на вассальных лордов был наложен налог"
+ seasons_peasant_tax:0 "Зимний налог для мелкого люда"
+ seasons_peasant_tax_desc:0 "Чтобы в суровую зиму казна не пустела, на мелкий люд был наложен налог — к их великому неудовольствию."
+ seasons_levy_extra_tax:0 "Ввести зимний налог"
+ seasons_levy_extra_tax_desc:0 "В эту суровую зиму моя казна начинает пустеть — и я имею право ввести налог, чтобы пополнить её. Но кого обложить: лордов или мелкий люд?"
+ levy_winter_tax_tt:0 "Я могу ввести зимний налог, чтобы сохранить баланс бюджета."
+ seasons_levy_extra_tax_confirm:0 "Ввести налог"
+ seasons_levy_extra_tax_tooltip:0 "Я могу ввести зимний налог, чтобы сохранить баланс бюджета."
+ seasons_all_tax:0 "Зимний налог"
+ 
+ rule_seasons_agot_winter_rules:0 "Суровость зимы"
+ setting_normal_income_penalty:0 "Зима по умолчанию"
+ setting_light_income_penalty:0 "Мягкая зима"
+ setting_normal_income_penalty_desc:0 "Обычные зимние штрафы к доходу: в среднем сокращение примерно на 65%. Скорее всего, у вас будет дефицит или почти нулевой доход. Рекомендуется сократить профессиональные полки и расходы двора."
+ setting_light_income_penalty_desc:0 "Мягкие зимние штрафы к доходу: в среднем сокращение примерно на 30%. Доход сильно снизится, но дефицит будет менее вероятен. Рекомендуется сократить либо профессиональные полки, либо расходы двора."
+ 
+ agot_seasons_sub_region_westeros_north:0 "Север"
+ agot_seasons_sub_region_westeros_andal_lands:0 "Простор"
+ agot_seasons_sub_region_step_stones:0 "Ступени"
+ agot_seasons_sub_region_dorne:0 "Дорн"
+ agot_seasons_sub_region_essos_north:0 "Северный Эссос"
+ agot_seasons_sub_region_essos_south:0 "Три Дочери"
+ agot_seasons_sub_region_essos_dothraki:0 "Ройн и Восток"
+ agot_seasons_sub_region_westeros_the_neck:0 "Перешеек"
+ agot_seasons_sub_region_westeros_stormlands:0 "Штормовые земли"
+ agot_seasons_sub_region_westeros_dragonstone_and_claw:0 "Горло"
+ agot_seasons_sub_region_westeros_riverlands:0 "Речные земли"
+ agot_seasons_sub_region_westeros_southern_andal_lands:0 "Юг"
+ agot_seasons_sub_region_westeros_westerlands_and_isles:0 "Запад"
+ agot_seasons_sub_region_westeros_vale:0 "Долина"
+ seasons_cold_autumn_phase:0 "Холодная осень"
+ seasons_cold_autumn_phase_desc:0 "Мороз ударяет рано, дни кажутся короче обычного, а листья — ярко-оранжевые и красные. Эта осень заметно холоднее, чем обычно."
+
+ agot_seasons_seasons_dornish_winter_phase_situation_phase:0 "Южная зима"
+ agot_seasons_seasons_dornish_winter_phase_situation_phase_desc:0 "На Крайнем Юге снег почти не идёт — если вообще когда-либо идёт. Должно стать холоднее Семи преисподних, чтобы Дорн взялся льдом."
+ 
+ agot_seasons_participant_group_ruler_in_region:0 "Правитель региона"
+ seasons_struggle:0 "Сезон"
+ seasons_spring_phase:0 "Умеренная весна"
+ seasons_summer_phase:0 "Умеренное лето"
+ 
+ seasons_autumn_phase:0 "Умеренная осень"
+ 
+ seasons_summer_phase_desc:0 "Тёплый и более сухой сезон: цветы распустились, а посевы буйно идут в рост — королевство кажется раем."
+ seasons_winter_phase_desc:0 "Снег идёт по всему королевству, с окон свисает лёд, и холод пробирается в каждый угол. Зима здесь."
+ seasons_autumn_phase_desc:0 "Листья опадают, краснеют и рыжеют — осень здесь. Подходит конец жатвы."
+ seasons_spring_phase_desc:0 "После столь долгого времени зима наконец закончилась. Теперь мы с надеждой глядим на весну и лето, ожидая радости."
+ seasons_light_winter_phase_desc:0 "Снег идёт по всему королевству, с окон свисает лёд, и холод пробирается в каждый угол. Зима здесь."
+ seasons_light_winter_phase:0 "Мягкая зима"
+ seasons_northern_winter_phase:0 "Северная зима"
+ seasons_northern_winter_phase_desc:0 "Хотя она суровее, чем зимы на юге, северяне лучше готовы встретить зиму."
+ agot_seasons_seasons_northern_winter_phase_situation_phase:0 "Северная зима"
+ agot_seasons_seasons_northern_winter_phase_desc:0 "Хотя она суровее, чем зимы на юге, северяне лучше готовы встретить зиму."
+ 
+ situation_agot_seasons:0 "Времена года"
+ #winter_normal_modifier_1:0 "Winter"
+ agot_seasons_seasons_spring_phase_situation_phase:0 "Весна"
+ agot_seasons_seasons_wet_spring_phase_situation_phase:0 "Дождливая весна"
+ agot_seasons_seasons_hot_spring_phase_situation_phase:0 "Жаркая весна"
+ agot_seasons_seasons_dry_spring_phase_situation_phase:0 "Сухая весна"
+ agot_seasons_seasons_cool_spring_phase_situation_phase:0 "Прохладная весна"
+ agot_seasons_seasons_summer_phase_situation_phase:0 "Умеренное лето"
+ agot_seasons_seasons_dry_summer_phase_situation_phase:0 "Сухое лето"
+ agot_seasons_seasons_wet_summer_phase_situation_phase:0 "Дождливое лето"
+ agot_seasons_seasons_hot_summer_phase_situation_phase:0 "Жаркое лето"
+ agot_seasons_seasons_winter_phase_situation_phase:0 "Зима"
+ agot_seasons_seasons_light_winter_phase_situation_phase:0 "Мягкая зима"
+ agot_seasons_seasons_cold_winter_phase_situation_phase:0 "Лютая зима"
+ agot_seasons_seasons_cold_autumn_phase_situation_phase:0 "Холодная осень"
+ agot_seasons_seasons_dry_autumn_phase_situation_phase:0 "Сухая осень"
+ agot_seasons_seasons_wet_autumn_phase_situation_phase:0 "Дождливая осень"
+ agot_seasons_seasons_autumn_phase_situation_phase:0 "Осень"
+ #winter_north_modifier:0 "Northern Winter"
+ 
  #Summer Seasons : 
- seasons_dry_summer_phase: "Засуха"
- seasons_hot_summer_phase: "Знойное лето"
- seasons_wet_summer_phase: "Дождливое лето"
- seasons_dry_summer_phase_desc: "Растения вянут, колодцы пересохли, где должна быть золотая пшеница - лишь пыль и бурая земля. Этим летом воды нет."
- seasons_wet_summer_phase_desc: "Реки полноводны, растения процветают, этим летом воды больше, чем обычно."
- seasons_hot_summer_phase_desc: "Дни необычайно длинны, тень желанна, а жара удушающая. Это лето невыносимо знойное."
-  
-  
- #Autumn Seasons : 
-  
- seasons_wet_autumn_phase: "Дождливая осень"
- seasons_wet_autumn_phase_desc: "Эта осень особенно сырая"
- seasons_dry_autumn_phase: "Сухая осень"
- seasons_dry_autumn_phase_desc: "Эта осень заметно суше обычного, что ведет к скудному урожаю"
- seasons_cool_autumn_phase: "Холодная осень"
- seasons_cool_autumn_phase_desc: "Эта осень холоднее обычного, что ведет к скудному урожаю и эффектам, близким к зимним."
-  
-  
- #Winter is here Seasons : 
-  
- seasons_winter_phase: "Зима"
- seasons_cold_winter_phase: "Лютый холод"
- seasons_cold_winter_phase_desc: "Море замерзает, снег укрывает земли, эта зима сурова, суровее обычного, многим придется страдать."
- seasons_dornish_winter_phase: "Южная зима"
- seasons_dornish_winter_phase_desc: "На юге редко случаются снегопады или заморозки. Зимы здесь мягкие по сравнению с другими регионами."
+ seasons_dry_summer_phase:0 "Сухое лето"
+ seasons_hot_summer_phase:0 "Жаркое лето"
+ seasons_wet_summer_phase:0 "Дождливое лето"
+ seasons_dry_summer_phase_desc:0 "Растения вянут, колодцы пересыхают; там, где должно колоситься золотое зерно, остаются лишь пыль и бурые стебли. Это лето заметно обделено водой."
+ seasons_wet_summer_phase_desc:0 "Реки полноводны, растения буйно растут — в это лето воды куда больше обычного."
+ seasons_hot_summer_phase_desc:0 "Дни необычайно длинны, тень особенно желанна, а жара — удушающая. Это лето чрезмерно жаркое."
+ 
+ 
+ #Autumn Seasons :
+ 
+ seasons_wet_autumn_phase:0 "Дождливая осень"
+ seasons_wet_autumn_phase_desc:0 "Эта осень особенно сырая"
+ seasons_dry_autumn_phase:0 "Сухая осень"
+ seasons_dry_autumn_phase_desc:0 "Эта осень заметно суше обычного, из-за чего урожай будет хуже"
+ seasons_cool_autumn_phase:0 "Прохладная осень"
+ seasons_cool_autumn_phase_desc:0 "Эта осень холоднее обычного, из-за чего урожай будет хуже, а по ощущениям она ближе к зиме."
+
+
+ #Winter is here Seasons :
+ 
+ seasons_winter_phase:0 "Зима"
+ seasons_cold_winter_phase:0 "Лютая зима"
+ seasons_cold_winter_phase_desc:0 "Море сковывает лёд, снег укрывает королевство — эта зима сурова, суровее обычного. Многие будут страдать."
+ seasons_dornish_winter_phase:0 "Южная зима"
+ seasons_dornish_winter_phase_desc:0 "На юге снег идёт редко, как и морозы. Зимы здесь куда мягче, чем где бы то ни было."
  #Spring Seasons : 
- seasons_wet_spring_phase: "Дождливая весна"
- seasons_wet_spring_phase_desc: "Эта весна заметно дождливее обычного."
- seasons_hot_spring_phase: "Эта весна значительно жарче обычного, что может привести к ещё более жаркому лету или сильной засухе."
- seasons_hot_spring_phase_desc: "Нынешняя весна значительно жарче, чем обычно, что потенциально может привести к еще более жаркому или очень сухому лету.."
- seasons_cool_spring_phase_desc: "Эта весна настолько холодная, что кажется продолжением зимы, снег ещё не полностью растаял. Лето может быть заметно дождливее или суше обычного."
- seasons_cool_spring_phase: "Прохладная весна"
- seasons_dry_spring_phase_desc: "Этой весной наблюдается заметный дефицит осадков по сравнению с нормой."
- seasons_dry_spring_phase: "Сухая весна"
- #Catalysts : 
-  
- catalyst_dry_summer: "Засуха"
- catalyst_dry_summer_desc: "Этим летом будет довольно сухо..."
- catalyst_hot_summer: "Знойное лето"
- catalyst_hot_summer_desc: "Этим летом будет довольно жарко.."
- catalyst_wet_summer: "Дождливое лето"
- catalyst_wet_summer_desc: "Этим летом будет особенно дождливо."
- catalyst_wet_spring_desc: "Эта весна может быть дождливее большинства."
- catalyst_hot_spring_desc: "Цветы распустились рано, дни длинные и жаркие - этой весной будет невыносимо знойно.."
- catalyst_cool_spring_desc: "Почки едва распускаются, мелкие водоёмы остаются подо льдом - похоже, весна в этом году будет холоднее.."
- catalyst_dry_spring_desc: "Почки едва распускаются, обычная для весны влага так и не пришла."
- agot_seasons_ruler_in_region: "Сезонные эффекты"
- #concepts 
-  
- situation_season_people_effects: "Эффекты для людей"
- situation_season_people_effects_concept: "Воздействие на каждого человека"
- situation_season_war_effects: "Эффекты войны"
- situation_season_war_effects_concept: "Сезоны повлияют на военные действия"
- situation_season_land_effects: "Эффекты для земель"
- situation_season_land_effects_concept: "Сезоны повлияют на ваши владения"
- agot_seasons_participant_group_ruler_in_region_desc: "Вы проживаете в данном регионе и будете ощущать на себе смену сезонов."
-  
- trait_seasons_caught_in_storm_trait: "Застигнут бурей"
- trait_seasons_caught_in_storm_trait_desc: "Застигнут бурей. Заглушка."
- minor_autumn_storm_year: "Небольшая буря"
- the_great_storm_year_not_specified: "Великая осенняя буря"
- major_autumn_storm_year: "Сильная буря"
-  
-  
- #Nicknames 
- AGOT_seasons_sweet_summer_child: "Дитя Сладкого Лета"
- AGOT_seasons_sweet_summer_child_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharAreIs(CHARACTER)] известен тем, что родился летом, которое [CharYourHerHis(CHARACTER)] знал большую часть своей ранней жизни."
- AGOT_seasons_winter_child: "Дитя Зимы"
- AGOT_seasons_winter_child_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharAreIs(CHARACTER)] получил это имя за рождение в зимний год."
- AGOT_seasons_spring_child: "Дитя Весны"
- AGOT_seasons_spring_child_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharAreIs(CHARACTER)] получил это имя за рождение вскоре после начала весны."
- AGOT_seasons_spring_prince: "Принц Весны"
- AGOT_seasons_spring_prince_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharAreIs(CHARACTER)] получил это имя за рождение вскоре после начала весны."
- AGOT_seasons_spring_princess: "Принцесса Весны"
- AGOT_seasons_spring_princes_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharAreIs(CHARACTER)] получил это имя за рождение вскоре после начала весны."
- AGOT_seasons_autumn_prince: "Принц Осени"
- AGOT_seasons_autumn_prince_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharAreIs(CHARACTER)] получил это имя за рождение вскоре после начала осени."
- AGOT_seasons_autumn_princess: "Принцесса Осени"
- AGOT_seasons_autumn_princess_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharAreIs(CHARACTER)] получила это имя за рождение вскоре после начала осени."
- AGOT_seasons_autumn_child: "Дитя Осени"
- AGOT_seasons_autumn_child_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharAreIs(CHARACTER)] получил это имя за рождение вскоре после начала осени."
- AGOT_seasons_blossoms_prince: "Принц Цветения"
-  
- AGOT_seasons_blossoms_princess: "Принцесса Цветения"
-  
- AGOT_seasons_midsummer_prince: "Принц Зенита Лета"
-  
- AGOT_seasons_midsummer_princess: "Принцесса Зенита Лета"
-  
- AGOT_seasons_midsummer_dreamer: "Мечтатель в Зените Лета"
-  
- AGOT_seasons_solsticeborn: "Рожденный в Солнцестояние"
-  
- AGOT_seasons_autumnborn: "Рожденный Осенью"
-  
- AGOT_seasons_stormborn: "Рожденный в Бурю"
-  
- AGOT_seasons_stormchild: "Дитя Бури"
-  
- AGOT_seasons_winter_rose: "Зимняя Роза"
-  
- AGOT_seasons_blue_rose: "Синяя Роза"
-  
- AGOT_seasons_frostborn: "Рожденный во Мороз"
-  
- AGOT_seasons_sunborn: "Рожденный под Солнцем"
-  
-  
- #Regions (New) 
- agot_seasons_sub_region_westeros_tarth_and_estermont: "Острова Узкого моря" #NT!
- agot_seasons_sub_region_westeros_rainwood: "Дождевой лес" #NT!
- agot_seasons_sub_region_westeros_iron_islands: "Железные острова" #NT!
- agot_seasons_sub_region_westeros_kraken_bay: "Кракенова бухта" #NT!
- agot_seasons_sub_region_westeros_barrowlands: "Земли курганов" #NT!
- agot_seasons_sub_region_westeros_stoney_shore: "Каменный берег" #NT!
- agot_seasons_sub_region_westeros_wolfswood: "Волчий лес" #NT!
- agot_seasons_sub_region_westeros_whiteknife: "Белый Нож" #NT!
- agot_seasons_sub_region_westeros_winterfell: "Винтерфелл" #NT!
- agot_seasons_sub_region_westeros_northern_mountains: "Северные горы" #NT!
- agot_seasons_sub_region_westeros_lonely_hills: "Одинокие холмы" #NT!
- agot_seasons_sub_region_westeros_sheepshead_hills: "Холмы Овечьей Головы" #NT!
- agot_seasons_sub_region_westeros_skagos: "Скагос" #NT!
- agot_seasons_sub_region_westeros_the_wall: "Стена" #NT!
- agot_seasons_sub_region_westeros_the_fingers: "Пальцы" #NT!
- agot_seasons_sub_region_westeros_upper_vale: "Лунные горы" #NT!
- agot_seasons_sub_region_westeros_lower_vale: "Долина Аррен" #NT!
- agot_seasons_sub_region_westeros_westerlands_low: "Западные земли" #NT!
- agot_seasons_sub_region_westeros_westerlands_high: "Западное нагорье" #NT!
- agot_seasons_sub_region_westeros_gods_eye: "Око Богов" #NT!
- agot_seasons_sub_region_westeros_upper_crownlands: "Королевские земли" #NT!
- agot_seasons_sub_region_westeros_upper_reach: "Мандер" #NT!
- agot_seasons_sub_region_westeros_honey_lands: "Медовые земли" #NT!
- agot_seasons_sub_region_westeros_the_shield_islands: "Щиты" #NT!
- agot_seasons_sub_region_westeros_the_arbor: "Арбор" #NT!
- agot_seasons_sub_region_westeros_dornish_marches: "Дорнийские марки" #NT!
- agot_seasons_sub_region_westeros_broken_arm_woods: "Сломанный Клинок" #NT!
- agot_seasons_sub_region_westeros_dorne_north_coast: "Северный Дорн" #NT!
- agot_seasons_sub_region_westeros_green_blood_river: "Зеленокровье" #NT!
- agot_seasons_sub_region_westeros_dorne_south_coast: "Побережье Дорна" #NT!
- agot_seasons_sub_region_westeros_dorne_desert: "Пустыня" #NT!
- agot_seasons_sub_region_westeros_starfall: "Торрентин" #NT!
- agot_seasons_sub_region_essos_andalosi_coast: "Андалосский берег" #NT!
- agot_seasons_sub_region_essos_andal_hills: "Холмы Андалоса" #NT!
- agot_seasons_sub_region_essos_braavosi_mountains: "Браавосские горы" #NT!
- agot_seasons_sub_region_essos_pentoshi_coast_lowlands: "Пентошские низменности" #NT!
- agot_seasons_sub_region_essos_pentoshi_inland_lowlands: "Внутренний Пентос" #NT!
- agot_seasons_sub_region_essos_pentoshi_highlands: "Пентошское нагорье" #NT!
- agot_seasons_sub_region_essos_north_myr: "Мир" #NT!
- agot_seasons_sub_region_essos_south_myr: "Мирские внутренние земли" #NT!
- agot_seasons_sub_region_essos_disputed_lands: "Спорные земли" #NT!
- agot_seasons_sub_region_essos_lys_mangroves: "Лисский берег" #NT!
-  
- setting_simple_winter_variants: "Простая зима" #NT!
- setting_simple_winter_variants_desc: "Снег выпадет по всему Вестеросу, кроме Дорна" #NT!
- setting_normal_winter_variants: "Обычные варианты зимы" #NT!
- setting_normal_winter_variants_desc: "Зимний снег будет динамичным и соответствующим лору" #NT!
- rule_seasons_agot_winter_type: "Тип зимы" #NT!
+ seasons_wet_spring_phase:0 "Дождливая весна"
+ seasons_wet_spring_phase_desc:0 "Эта весна заметно дождливее обычного…"
+ seasons_hot_spring_phase:0 "Жаркая весна"
+ seasons_hot_spring_phase_desc:0 "Эта весна значительно жарче обычного — возможно, лето будет ещё жарче или же выйдет очень засушливым…"
+ seasons_cool_spring_phase_desc:0 "Эта весна почти настолько холодна, что кажется продолжением зимы, и потому снег ещё не до конца растаял. Летом может быть заметно влажнее или суше обычного…"
+ seasons_cool_spring_phase:0 "Прохладная весна"
+ seasons_dry_spring_phase_desc:0 "Этой весной воды заметно меньше обычного…"
+ seasons_dry_spring_phase:0 "Сухая весна"
+ #Catalysts :
+ 
+ catalyst_dry_summer:0 "Сухое лето"
+ catalyst_dry_summer_desc:0 "Это лето будет довольно засушливым…"
+ catalyst_hot_summer:0 "Жаркое лето"
+ catalyst_hot_summer_desc:0 "Это лето будет довольно жарким…"
+ catalyst_wet_summer:0 "Дождливое лето"
+ catalyst_wet_summer_desc:0 "Это лето будет особенно дождливым."
+ catalyst_wet_spring_desc:0 "Эта весна может оказаться дождливее обычного."
+ catalyst_hot_spring_desc:0 "В этом году цветы распускаются рано, а дни долгие и жаркие — весна будет знойной в этом сезоне…"
+ catalyst_cool_spring_desc:0 "Этой весной распускается мало почек, а мелкие пруды всё ещё скованы льдом — похоже, весна будет холоднее обычного…"
+ catalyst_dry_spring_desc:0 "Этой весной распускается мало почек, а привычная весенняя сырость всё никак не приходит."
+ agot_seasons_ruler_in_region:0 "Эффекты сезона"
+ #concepts
+ 
+ situation_season_people_effects:0 "Эффекты для персонажей"
+ situation_season_people_effects_concept:0 "Влияние на каждого персонажа"
+ situation_season_war_effects:0 "Эффекты для войны"
+ situation_season_war_effects_concept:0 "Времена года влияют на ведение войны"
+ situation_season_land_effects:0 "Эффекты для земель"
+ situation_season_land_effects_concept:0 "Времена года влияют на ваши земли"
+ agot_seasons_participant_group_ruler_in_region_desc:0 "Вы живёте в этом регионе и будете ощущать смену сезонов."
+ 
+ trait_seasons_caught_in_storm_trait:0 "Застигнут штормом"
+ trait_seasons_caught_in_storm_trait_desc:0 "Застигнут штормом. Заглушка."
+ minor_autumn_storm_year:0 "Небольшой шторм"
+ the_great_storm_year_not_specified:0 "Великий осенний шторм"
+ major_autumn_storm_year:0 "Сильный шторм"
+ 
+ 
+ #Nicknames
+ AGOT_seasons_sweet_summer_child:0 "Сладкое дитя лета"
+ AGOT_seasons_sweet_summer_child_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [Select_CString(CHARACTER.IsFemale, 'известна', 'известен' )] тем, что [Select_CString(CHARACTER.IsFemale, 'родилась', 'родился' )] в летний год — и именно лето сопровождало [Select_CString(CHARACTER.IsFemale, 'её', 'его' )] в первые годы жизни."
+ AGOT_seasons_winter_child:0 "Дитя зимы"
+ AGOT_seasons_winter_child_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [Select_CString(CHARACTER.IsFemale, 'получила', 'получил' )] это прозвище за то, что [Select_CString(CHARACTER.IsFemale, 'родилась', 'родился' )] в зимний год."
+ AGOT_seasons_spring_child:0 "Дитя весны"
+ AGOT_seasons_spring_child_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [Select_CString(CHARACTER.IsFemale, 'получила', 'получил' )] это прозвище за то, что [Select_CString(CHARACTER.IsFemale, 'родилась', 'родился' )] вскоре после начала весны."
+ AGOT_seasons_spring_prince:0 "Весенний принц"
+ AGOT_seasons_spring_prince_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [Select_CString(CHARACTER.IsFemale, 'получила', 'получил' )] это прозвище за то, что [Select_CString(CHARACTER.IsFemale, 'родилась', 'родился' )] вскоре после начала весны."
+ AGOT_seasons_spring_princess:0 "Весенняя принцесса"
+ AGOT_seasons_spring_princes_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [Select_CString(CHARACTER.IsFemale, 'получила', 'получил' )] это прозвище за то, что [Select_CString(CHARACTER.IsFemale, 'родилась', 'родился' )] вскоре после начала весны."
+ AGOT_seasons_autumn_prince:0 "Осенний принц"
+ AGOT_seasons_autumn_prince_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [Select_CString(CHARACTER.IsFemale, 'получила', 'получил' )] это прозвище за то, что [Select_CString(CHARACTER.IsFemale, 'родилась', 'родился' )] вскоре после начала осени."
+ AGOT_seasons_autumn_princess:0 "Осенняя принцесса"
+ AGOT_seasons_autumn_princess_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [Select_CString(CHARACTER.IsFemale, 'получила', 'получил' )] это прозвище за то, что [Select_CString(CHARACTER.IsFemale, 'родилась', 'родился' )] вскоре после начала осени."
+ AGOT_seasons_autumn_child:0 "Дитя осени"
+ AGOT_seasons_autumn_child_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [Select_CString(CHARACTER.IsFemale, 'получила', 'получил' )] это прозвище за то, что [Select_CString(CHARACTER.IsFemale, 'родилась', 'родился' )] вскоре после начала осени."
+ AGOT_seasons_blossoms_prince:0 "Принц Цветения"
+
+ AGOT_seasons_blossoms_princess:0 "Принцесса Цветения"
+ 
+ AGOT_seasons_midsummer_prince:0 "Принц середины лета"
+ 
+ AGOT_seasons_midsummer_princess:0 "Принцесса середины лета"
+ 
+ AGOT_seasons_midsummer_dreamer:0 "Сновидец середины лета"
+ 
+ AGOT_seasons_solsticeborn:0 "Рождённый в солнцестояние"
+ 
+ AGOT_seasons_autumnborn:0 "Рождённый осенью"
+ 
+ AGOT_seasons_stormborn:0 "Рождённый бурей"
+ 
+ AGOT_seasons_stormchild:0 "Дитя бури"
+ 
+ AGOT_seasons_winter_rose:0 "Зимняя Роза"
+ 
+ AGOT_seasons_blue_rose:0 "Голубая Роза"
+ 
+ AGOT_seasons_frostborn:0 "Рождённый морозом"
+ 
+ AGOT_seasons_sunborn:0 "Рождённый солнцем"
+ 
+ 
+ #Regions (New)
+ agot_seasons_sub_region_westeros_tarth_and_estermont:0 "Острова Узкого моря"
+ agot_seasons_sub_region_westeros_rainwood:0 "Дождливый лес"
+ agot_seasons_sub_region_westeros_iron_islands:0 "Железные острова"
+ agot_seasons_sub_region_westeros_kraken_bay:0 "Кракенов залив"
+ agot_seasons_sub_region_westeros_barrowlands:0 "Курганные земли"
+ agot_seasons_sub_region_westeros_stoney_shore:0 "Каменистый берег"
+ agot_seasons_sub_region_westeros_wolfswood:0 "Волчий лес"
+ agot_seasons_sub_region_westeros_whiteknife:0 "Белый Нож"
+ agot_seasons_sub_region_westeros_winterfell:0 "Винтерфелл"
+ agot_seasons_sub_region_westeros_northern_mountains:0 "Северные горы"
+ agot_seasons_sub_region_westeros_lonely_hills:0 "Одинокие холмы"
+ agot_seasons_sub_region_westeros_sheepshead_hills:0 "Овцеголовые холмы"
+ agot_seasons_sub_region_westeros_skagos:0 "Скагос"
+ agot_seasons_sub_region_westeros_the_wall:0 "Стена"
+ agot_seasons_sub_region_westeros_the_fingers:0 "Пальцы"
+ agot_seasons_sub_region_westeros_upper_vale:0 "Лунные горы"
+ agot_seasons_sub_region_westeros_lower_vale:0 "Долина Арренов"
+ agot_seasons_sub_region_westeros_westerlands_low:0 "Западные земли"
+ agot_seasons_sub_region_westeros_westerlands_high:0 "Западные нагорья"
+ agot_seasons_sub_region_westeros_gods_eye:0 "Божье Око"
+ agot_seasons_sub_region_westeros_upper_crownlands:0 "Королевские земли"
+ agot_seasons_sub_region_westeros_upper_reach:0 "Мандер"
+ agot_seasons_sub_region_westeros_honey_lands:0 "Медовые земли"
+ agot_seasons_sub_region_westeros_the_shield_islands:0 "Щитовые острова"
+ agot_seasons_sub_region_westeros_the_arbor:0 "Арбор"
+ agot_seasons_sub_region_westeros_dornish_marches:0 "Дорнийские Марки"
+ agot_seasons_sub_region_westeros_broken_arm_woods:0 "Сломанная Рука"
+ agot_seasons_sub_region_westeros_dorne_north_coast:0 "Северный Дорн"
+ agot_seasons_sub_region_westeros_green_blood_river:0 "Зелёная Кровь"
+ agot_seasons_sub_region_westeros_dorne_south_coast:0 "Дорнийское побережье"
+ agot_seasons_sub_region_westeros_dorne_desert:0 "Пустыня"
+ agot_seasons_sub_region_westeros_starfall:0 "Торрентин"
+ agot_seasons_sub_region_essos_andalosi_coast:0 "Андалосийское побережье"
+ agot_seasons_sub_region_essos_andal_hills:0 "Андалские холмы"
+ agot_seasons_sub_region_essos_braavosi_mountains:0 "Браавосийские горы"
+ agot_seasons_sub_region_essos_pentoshi_coast_lowlands:0 "Пентосские низины"
+ agot_seasons_sub_region_essos_pentoshi_inland_lowlands:0 "Внутренний Пентос"
+ agot_seasons_sub_region_essos_pentoshi_highlands:0 "Пентосские нагорья"
+ agot_seasons_sub_region_essos_north_myr:0 "Мир"
+ agot_seasons_sub_region_essos_south_myr:0 "Мирские окраины"
+ agot_seasons_sub_region_essos_disputed_lands:0 "Южный Эссос"
+ agot_seasons_sub_region_essos_lys_mangroves:0 "Лиссийское побережье"
+ 
+ setting_simple_winter_variants:0 "Простая зима"
+ setting_simple_winter_variants_desc:0 "Весь Вестерос будет под снегом, кроме Дорна"
+ setting_normal_winter_variants:0 "Обычные варианты зимы"
+ setting_normal_winter_variants_desc:0 "Снег зимой будет меняться и соответствовать лору"
+ rule_seasons_agot_winter_type:0 "Тип зимы"
+ 
+ situation_parameter_white_peace_acceptance_winter_seasons:0 "Проще заключить белый мир зимой"
+ situation_parameter_unlocks_enforce_truces_interaction:0 "Зимнее перемирие"
+ situation_parameter_invasion_conquest_war_cannot_be_declared:0 "Никаких вторжений зимой"
+ situation_parameter_struggle_cb_cost_major:0 "Рост стоимости казуса войны"
+ situation_parameter_apply_truce_when_sending_ward:0 "Заложники могут давать перемирие зимой"
+ 
+ SEASONS_END_INDEFINITE_DESC:0 "Этот сезон, вероятно, закончится через 1–5 лет"
+ seasons_map_mode:0 "Текущие сезоны"
+ SEASONS_NEXT_SEASON_HEADER:0 "Все возможные следующие [Seasonal_Variants|E]"
+ SEASONS_ALL_REGIONS_TEXT:0 "Все регионы"
+ CB_SEASONS_SURCHARGE:0 "Война зимой обходится дорого"

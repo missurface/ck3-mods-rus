@@ -88,3 +88,15 @@
  mde_filler_dragon.0026.b: "Starve it, until it eats everything again."
  mde_filler_dragon.0026.b.tt: "The dragon's temperament dereases by 5."
 
+ mde_filler_dragon.0028.t: "A Wild Beast?"
+ mde_filler_dragon.0028.desc: "Several reports have reached me in my studies, and there is no denying their truth.\n\nMy dragon, [ridden_dragon.GetName], has attacked a nearby farm, tearing apart their house and barn in search of livestock.\n\nThe dragonkeepers insist that the beast has been well fed, claiming such acts are simply its nature.\n\nYet it falls upon me to answer for this."
+ mde_filler_dragon.0028.a: "The smallfolk are not my concern."
+ mde_filler_dragon.0028.b: "Provide aid to the ruined families."
+ mde_filler_dragon.0028.c: "Confine [ridden_dragon.GetName] to the Dragonpit."
+ mde_filler_dragon.0028.c.tt: "The dragon's temperament dereases by 3."
+
+ mde_filler_dragon.0030.t: "An Old Beast"
+ mde_filler_dragon.0030.desc: "There’s no denying it. Whenever I visit [ridden_dragon.GetName], the creature moves with a heavy sluggishness, each motion like stone grinding against stone. The dragonkeepers must feed it by hand now; throwing meat into its huge jaws, just to keep it alive.\n\nAnd yet, even in decay, a dragon this old still brings prestige… though at a cost."
+ mde_filler_dragon.0030.a: "Finish it off."
+ mde_filler_dragon.0030.b: "Accept this reality."
+

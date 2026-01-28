@@ -50,6 +50,12 @@
  trait_dragon_picky_eater_desc: "Dragons eat meat, but not all meat is treated equal. Some dragons develop particular habits, rejecting anything less than their preferred prey."
  trait_dragon_picky_eater_character_desc: "With a temper quick to flare when displeased, [ROOT.Char.GetFirstNameNoTooltip] is notoriously picky at what it consumes."
 
+ trait_dragon_too_old: "Too Old"
+ trait_dragon_too_old_desc: "Any creature grows old over time, and it happens even to the largest and most fierce monsters too."
+ trait_dragon_too_old_character_desc: "The passage of time has taken its toll on this dragon. It is gigantic, but it is slow, it has a hard time taking flight and its years of life have made it stubborn."
+
+ #flames
+
  trait_dragon_green_flames: "Green Flames"
  trait_dragon_green_flames_desc: "Ancient texts claim that the color of [dragons_plural|El] flame mirrors its heat - some burn weak and dull, while others unleash searing power beyond imagining."
  trait_dragon_green_flames_character_desc: "[ROOT.Char.GetFirstNameNoTooltip] has been noted for producing horrific green flames, capable of melting anything caught within them in an instant."

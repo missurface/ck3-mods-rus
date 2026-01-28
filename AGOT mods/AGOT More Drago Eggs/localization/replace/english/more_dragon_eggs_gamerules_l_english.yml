@@ -89,49 +89,49 @@
  setting_spawn_sheepstealer_egg_disabled:0 "Disabled"
 
  setting_spawn_sheepstealer_egg_enabled_desc:0 "Sheepstealer descended dragon egg can be picked up by travelers going into the Mountains of the Vale."
- setting_spawn_sheepstealer_egg_disabled_desc:0 "The Dragonlore event in the Vale will remain but it will never spawn a dragon egg.
+ setting_spawn_sheepstealer_egg_disabled_desc:0 "The Dragonlore event in the Vale will remain but it will never spawn a dragon egg."
 
  rule_spawn_vhagar_egg:0 "@mde_icon!@vhagar_dragon_egg_icon!Spawn Vhagar Egg"
  setting_spawn_vhagar_egg_enabled:0 "Enabled"
  setting_spawn_vhagar_egg_disabled:0 "Disabled"
 
  setting_spawn_vhagar_egg_enabled_desc:0 "Vhagar descended dragon egg can be picked up by travelers going to Harrenhal."
- setting_spawn_vhagar_egg_disabled_desc:0 "The Dragonlore event in Harrenhal will remain but it will never spawn a dragon egg.
+ setting_spawn_vhagar_egg_disabled_desc:0 "The Dragonlore event in Harrenhal will remain but it will never spawn a dragon egg."
 
  rule_spawn_moondancer_egg:0 "@mde_icon!@palebluepink_dragon_egg_icon!Spawn Moondancer Egg"
  setting_spawn_moondancer_egg_enabled:0 "Enabled"
  setting_spawn_moondancer_egg_disabled:0 "Disabled"
 
  setting_spawn_moondancer_egg_enabled_desc:0 "Moondancer descended dragon egg can be picked up by travelers going to the ruins of Spicetown."
- setting_spawn_moondancer_egg_disabled_desc:0 "The Dragonlore event in the ruins of Spicetown will remain but it will never spawn a dragon egg.
+ setting_spawn_moondancer_egg_disabled_desc:0 "The Dragonlore event in the ruins of Spicetown will remain but it will never spawn a dragon egg."
 
  rule_spawn_nagga_egg:0 "@mde_icon!@darkblue_dragon_egg_icon!Spawn Nagga Egg"
  setting_spawn_nagga_egg_enabled:0 "Enabled"
  setting_spawn_nagga_egg_disabled:0 "Disabled"
 
  setting_spawn_nagga_egg_enabled_desc:0 "Nagga descended dragon egg can be picked up by travelers going to Nagga's Hill."
- setting_spawn_nagga_egg_disabled_desc:0 "The Dragonlore event on Nagga's Hill will remain but it will never spawn a dragon egg.
+ setting_spawn_nagga_egg_disabled_desc:0 "The Dragonlore event on Nagga's Hill will remain but it will never spawn a dragon egg."
 
  rule_spawn_meraxes_egg:0 "@mde_icon!@whitegold_dragon_egg_icon!Spawn Meraxes Egg"
  setting_spawn_meraxes_egg_enabled:0 "Enabled"
  setting_spawn_meraxes_egg_disabled:0 "Disabled"
 
  setting_spawn_meraxes_egg_enabled_desc:0 "Meraxes descended dragon egg can be picked up by travelers going to the Hellholt."
- setting_spawn_meraxes_egg_disabled_desc:0 "The Dragonlore event in the Hellholt will remain but it will never spawn a dragon egg.
+ setting_spawn_meraxes_egg_disabled_desc:0 "The Dragonlore event in the Hellholt will remain but it will never spawn a dragon egg."
 
  rule_spawn_pythax_egg:0 "@mde_icon!@darkpurple_dragon_egg_icon!Spawn Pythax Egg"
  setting_spawn_pythax_egg_enabled:0 "Enabled"
  setting_spawn_pythax_egg_disabled:0 "Disabled"
 
  setting_spawn_pythax_egg_enabled_desc:0 "Pythax descended dragon egg can be picked up by travelers going to southern Essos."
- setting_spawn_pythax_egg_disabled_desc:0 "The Dragonlore event in southern Essos will remain but it will never spawn a dragon egg.
+ setting_spawn_pythax_egg_disabled_desc:0 "The Dragonlore event in southern Essos will remain but it will never spawn a dragon egg."
 
  rule_spawn_vassarion_egg:0 "@mde_icon!@gold_dragon_egg_icon!Spawn Vassarion Egg"
  setting_spawn_vassarion_egg_enabled:0 "Enabled"
  setting_spawn_vassarion_egg_disabled:0 "Disabled"
 
  setting_spawn_vassarion_egg_enabled_desc:0 "Vassarion descended dragon egg can be picked up by travelers going to eastern Andalos."
- setting_spawn_vassarion_egg_disabled_desc:0 "The Dragonlore event in eastern Andalos will remain but it will never spawn a dragon egg.
+ setting_spawn_vassarion_egg_disabled_desc:0 "The Dragonlore event in eastern Andalos will remain but it will never spawn a dragon egg."
 
  rule_spawn_hightower_egg:0 "@mde_icon!@blue_dragon_egg_icon!Spawn Hightower Egg"
  setting_spawn_hightower_egg_secret:0 "Enabled - Secret"
@@ -140,7 +140,7 @@
  
  setting_spawn_hightower_egg_secret_desc:0 "The Hightowers will start with a hidden artifact secret that can be revealed to be a Tessarion and Seasmoke dragon egg."
  setting_spawn_hightower_egg_enabled_desc:0 "Tessarion + Seasmoke is held by the owner of the High Tower at game start (always the main Hightower)."
- setting_spawn_hightower_egg_disabled_desc:0 "The Hightowers will not start with a dragon egg.
+ setting_spawn_hightower_egg_disabled_desc:0 "The Hightowers will not start with a dragon egg."
 
  rule_spawn_dragonstone_eggs:0 "@mde_icon!@rainbow_dragon_egg_icon!Spawn Dragonstone Eggs"
  

@@ -485,6 +485,9 @@
  asoiaf_Cole_11_modifier:0 "[asoiaf_canon_children_concept|E]: #bold Criston Cole#!"
  asoiaf_Cole_11_modifier_desc:0 "#bold Criston Cole#!, called #italic the Kingmaker#!, was a proud, noble man and unrivaled warrior. Honour was his highest virtue, yet he struggled to rise to the standards it demanded of him, causing much mental turmoil. He remained unquestionably loyal to Alicent Hightower and her children, who were among the only ones to show him respect and view him in the way he viewed himself."
  
+ asoiaf_Lannister_129_modifier:0 "[asoiaf_canon_children_concept|E]: #bold Tytos Lannister#!"
+ asoiaf_Lannister_129_modifier_desc:0 "#bold Tytos Lannister#!, called #italic the Laughing Lion#!, was a jovial Lord of Casterly Rock who made friends easily and always aimed to please those around him, even forgiving slights. For this he was seen as weak-willed and too trusting, often taken advantage of by his vassals and courtiers, ultimately leading to a rebellion against Lannister rule.\n\n#help Tytos must have children with a wife of the #bold Marbrand dynasty#! to continue his line.#!"
+
  asoiaf_Lannister_1_modifier:0 "[asoiaf_canon_children_concept|E]: #bold Tywin Lannister#!"
  asoiaf_Lannister_1_modifier_desc:0 "#bold Tywin Lannister#! was a ruthless, calculating, and ambitious man who always endeavoured to increase the standing of his House, even if it meant sacrificing the needs of his own family. A man of his time, he was driven by a desire to craft a lasting legacy, yet failed to pass on his cunning pragmatism to his successors, ultimately ensuring his legacy would be short-lived.\n\n#help Tywin must have children with a wife of #bold House Lannister (main branch)#! to continue his line.#!"
 
@@ -492,7 +495,13 @@
  asoiaf_Lannister_2_modifier_desc:0 "#bold Kevan Lannister#! was a reliable and serious man, yet not prideful or ruthless. He was a competent administrator with an eye for the practical, preferring peaceful solutions rather than risking total ruin with bold gambits. A wise and perceptive adviser, he was well aware of the game of thrones being played around him, yet often refused to engage until absolutely necessary.\n\n#help Kevan must have children with a wife of the #bold Swyft dynasty#! to continue his line.#!"
 
  asoiaf_Lannister_3_modifier:0 "[asoiaf_canon_children_concept|E]: #bold Genna Lannister#!"
- asoiaf_Lannister_3_modifier_desc:0 "#bold Genna Lannister#! was"
+ asoiaf_Lannister_3_modifier_desc:0 "#bold Genna Lannister#! was shrewd and clever woman with an authoritative presence, more than willing to boss-around men she considered inept."
+
+ asoiaf_Lannister_4_modifier:0 "[asoiaf_canon_children_concept|E]: #bold Tygett Lannister#!"
+ asoiaf_Lannister_4_modifier_desc:0 "#bold Tygett Lannister#! was courageous swordsman of bold spirit. All his life he tried to be his own man and find his place in the sun, yet he was always swallowed by the shadow of his elder brother, against whom he often chafed.\n\n#help Tygett must have children with a wife of the #bold Marbrand dynasty#! to continue his line.#!\n\n@warning_icon! #X Tygett's [asoiaf_canon_children_concept|E] will be available at a later time.#!"
+
+ asoiaf_Lannister_5_modifier:0 "[asoiaf_canon_children_concept|E]: #bold Gerion Lannister#!"
+ asoiaf_Lannister_5_modifier_desc:0 "#bold Gerion Lannister#! was a brave but reckless man, always the first to laugh and bring smiles to those around him. He had a kind nature and quick swordhand, competing in tourneys and lusting for adventure. While his brothers played the game of thrones, endlessly worrying over reputation and glory, he preferred to withdraw from such squabbles altogether."
  
  asoiaf_Lannister_6_modifier:0 "[asoiaf_canon_children_concept|E]: #bold Cersei Lannister#!"
  asoiaf_Lannister_6_modifier_desc:0 "#bold Cersei Lannister#! was a ruthless, guileful, yet beautiful woman who loved few and trusted fewer. She was exceptionally arrogant and self-centred, believing herself a master strategist yet unwittingly being a mere piece in the game of thrones.\n\n#help Cersei must have children with a man of #bold House Lannister (main branch)#! in her #bold close or extended family#! to continue her line.#!"

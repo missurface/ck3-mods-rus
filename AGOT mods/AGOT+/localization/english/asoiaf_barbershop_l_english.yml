@@ -113,11 +113,11 @@
  PORTRAIT_MODIFIER_custom_cloaks_male_cloak_asoiaf_gold_cloak_cloak:1 "@asoiaf_icon! Gold Cloak Cloak"
  PORTRAIT_MODIFIER_custom_cloaks_female_cloak_asoiaf_gold_cloak_cloak:1 "@asoiaf_icon! Gold Cloak Cloak"
  PORTRAIT_MODIFIER_custom_cloaks_male_cloak_secular_asoiaf_lannister_war_plate_2_cloak:0 "@asoiaf_icon! Lannister Officer Cloak"
- PORTRAIT_MODIFIER_custom_cloaks_male_cloak_secular_asoiaf_kingsguard_default_cloak:0 "@asoiaf_icon! Kingsguard Cloak"
  PORTRAIT_MODIFIER_custom_cloaks_male_cloak_asoiaf_stormlands_stannis_cloak_1:1 "@asoiaf_icon! Stannis' Cloak"
  PORTRAIT_MODIFIER_custom_cloaks_female_cloak_asoiaf_stormlands_stannis_cloak_1:1 "@asoiaf_icon! Stannis' Cloak"
  PORTRAIT_MODIFIER_custom_cloaks_male_cloak_asoiaf_nights_watch_cloak_1:1 "@asoiaf_icon! Night's Watch Cloak"
  PORTRAIT_MODIFIER_custom_cloaks_female_cloak_asoiaf_nights_watch_cloak_1:1 "@asoiaf_icon! Night's Watch Cloak"
+ PORTRAIT_MODIFIER_custom_cloaks_male_cloak_asoiaf_kingsguard_cloak_default:1 "@asoiaf_icon! Kingsguard Cloak"
  
  #LEGWEAR
  PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_gold_cloak_legs:1 "@asoiaf_icon! Gold Cloak Legwear"

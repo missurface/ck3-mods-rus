@@ -41,7 +41,7 @@
       
 
  the_seven_targaryen:0 "Targaryen Faith of the Seven"
- the_seven_targaryen_desc:0 "When Aegon the Conqueror unified the Seven Kingdoms, he and his descendants would adopt the Faith of the Seven. However, for several generations, the Targaryen way of worship differed from that of their Andalic subjects. Most noticeably, in the Targaryen's reverence for Dragons. It was only after the death of their dragons that this distinction became ultimately redundant."     
+ the_seven_targaryen_desc:0 "When Aegon the Conqueror united the Seven Kingdoms, he and his descendants would adopt the Faith of the Seven. However, for several generations, the Targaryen way of worship differed from that of their Andalic subjects. Most noticeably, in the Targaryen's reverence for Dragons. It was only after the death of their dragons that this distinction became ultimately redundant."     
  the_seven_targaryen_adj:0 "Targaryen Faith of the Seven"
  the_seven_targaryen_adherent:0 "Targaryen Worshipper of the Seven"
  the_seven_targaryen_adherent_plural:0 "Targaryen Worshippers of the Seven"
@@ -51,13 +51,13 @@
  volantene_faith_adj:0 "Tala hen Perzys"
  volantene_faith_adherent:0 "Volantene Worshipper of the Valyrian Gods"
  volantene_faith_adherent_plural:0 "Volantene Worshippers of the Valyrian Gods"
- volantene_faith_desc:0 "'Tala hen Perzys' or 'Daughter of the Flame' is the name used to refer to the worshippers of the Valyrian gods in Volantis. Since the Doom of Valyria, the faith has been steadily declining in favour of other cults or R'hllorism. Today, it is only practised by a small number of staunch traditionalists among the Volantene nobility and in the more remote regions of the state. Although the followers of 'Tala he Perzys' like to claim they represent an unbroken strain of Valyrian religious orthodoxy, even their faith has been significantly influenced by other religions. Most notably, R'hllorism, as can be seen by the heavy emphasis the faith puts on fire rituals.
+ volantene_faith_desc:0 "'Tala hen Perzys' or 'Daughter of the Flame' is the name used to refer to the worshippers of the Valyrian gods in Volantis. Since the Doom of Valyria, the faith has been steadily declining in favour of other cults or R'hllorism and other Free City cults. Today, it is only practised by a small number of staunch traditionalists among the Volantene nobility and in the more remote regions of the state. Although the followers of 'Tala he Perzys' like to claim they represent an unbroken strain of Valyrian religious orthodoxy, even their faith has been significantly influenced by other religions. Most notably, R'hllorism, as can be seen by the heavy emphasis the faith puts on fire rituals.
 
  covenant:0 "Smoking Sea Covenant" 
  covenant_adj:0 "The Covenant"
  covenant_adherent:0 "Sailor of the Lord of Light"
  covenant_adherent_plural:0 "Sailors of the Lord of Light"
- covenant_desc:0 "The Smoking Sea Covenant is a rather peculiar offshoot of R'hllorism. Originating in the vibrant and diverse seaport of Elyria, its followers seek to spread their lord's light from port to port until every ocean shines with his radiance...At least that is what they claim. Many observers have pointed out that their 'holy mission' seems to be nothing but an excuse for personal enrichment." 
+ covenant_desc:0 "The Smoking Sea Covenant is a rather peculiar offshoot of R'hllorism. Originating in the vibrant and diverse port of Elyria, its followers seek to spread their lord's light from port to port until every ocean shines with his radiance...At least that is what they claim. Many observers have pointed out that their 'holy mission' seems to be nothing but an excuse for personal enrichment." 
 
  mantaryan:0 "Mantaryan"
  mantaryan_adj:0 "Mantaryan Trials"

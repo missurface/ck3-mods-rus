@@ -1,0 +1,35 @@
+﻿l_english:
+
+
+ #Mari's DNA
+ rule_mm_dnas_rule:0 "@my_icon! Mari's #bold DNA override!#"
+ setting_mm_dnas_rule_on:0 "#high New DNA#"
+ setting_mm_dnas_rule_off:0 "Off"
+ 
+ setting_mm_dnas_rule_off_desc:0 "Characters keep their #bold default AGOT / AGOT + DNA#!.
+ setting_mm_dnas_rule_on_desc:0 "Characters included in Maricontar's AGOT makeover mod are given #bold new DNA#!.
+ 
+
+ #Show vs. Book Velaryon DNA
+ rule_mm_velaryons_dna_rule:0 "@my_icon! Book or Show Velaryon DNA"
+ setting_mm_velaryons_dna_rule_on:0 "#high Show-Based Velayrons#!"
+ setting_mm_book_velaryons_dna_rule_on:0 "#high Book-Based Velaryons#!"
+ setting_mm_velaryons_dna_rule_off:0 "Off"
+
+ setting_mm_velaryons_dna_rule_on_desc:0 "House Velaryon characters in the Dance-Era and the following generations have #bold HOTD-influenced DNA appearances#!
+ setting_mm_book_velaryons_dna_rule_on_desc:0 "House Velaryon characters in the Dance-Era and after maintain #bold Fire & Blood based apperances#!
+ setting_mm_velaryons_dna_rule_off_desc:0 "Characters keep their #bold default AGOT / AGOT + DNA#!.
+
+
+ #Using LOTD
+ rule_mm_lotd_rule:0 "@my_icon! Will your game be including the CLOTHING added using the #bold LEGACY OF THE DRAGON SUBMOD?#"
+ setting_mm_lotd_rule_on:0 "#high LOTD On#"
+ setting_mm_lotd_rule_off:0 "LOTD Off"
+ 
+ setting_mm_lotd_rule_on_desc:0 "Clothing and accessories added by LOTD can be used by select characters.
+ setting_mm_lotd_rule_off_desc:0 "Not using the submod"
+ 
+
+
+ 
+ 

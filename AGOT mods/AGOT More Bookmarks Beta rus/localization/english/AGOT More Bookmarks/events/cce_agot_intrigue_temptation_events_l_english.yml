@@ -35,7 +35,6 @@
  cce_agot_intrigue_temptation.3021.b.1_date.tt:0 "I have picked [date_1.GetShortUIName] and can pick #V 2#! more"
  cce_agot_intrigue_temptation.3021.c:0 "No thanks! Put it in the left pile."
  cce_agot_intrigue_temptation.3021.c.tt:0 "Discard [potential_date.GetShortUINamePossessive] portrait"
- every_approved_date:0 "Everyone whose portrait I kept"
  cce_agot_intrigue_temptation.3021.d:0 "This is hopeless! What an awful idea."
  cce_agot_intrigue_temptation.3021.d.tt:0 "Put the portraits back in the attic"
 

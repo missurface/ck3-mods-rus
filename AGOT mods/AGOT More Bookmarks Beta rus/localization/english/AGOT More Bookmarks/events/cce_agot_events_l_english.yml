@@ -130,6 +130,7 @@ cce_agot_canon_events.0018.desc: "The realm stirs with the news.\n\nFrom the Hig
 cce_agot_canon_events.0018.a: "[ROOT.Char.GetFaith.HighGodName] save us."
 cce_agot_canon_events.0020.t: 0 "The Band of Nine's Ambition"
 cce_agot_canon_events.0020.desc: 0 "The Band of Nine has tasted victory, and my sellswords grow restless for more. The world lies before me like a board of cyvasse, kingdoms waiting to be overturned and crowns waiting to be seized. Merchants whisper of the riches of the Free Cities, captains urge me to strike along the coasts, and my allies clamor for their share of spoils.\n\nYet only one path can be taken, and it falls to me to choose where the Black Dragon shall next sink its claws. With steel and fire, I will decide which realm shall feel my wrath."
+cce_agot_canon_events.0020.final: "I must push my claim"
 cce_agot_canon_events.0020.a: "I must push my claim."
 cce_agot_canon_events.0021.t:0 "The Black Dragon Stirs"
 cce_agot_canon_events.0021.desc:0 "Across the Narrow Sea, word spreads of a pretender gathering strength under the banner of the black dragon. Sellswords, pirates, and discontents rally to their cause, each sworn to see a new king upon the Iron Throne. For now, their foothold is small, yet with every passing moon their power swells.\n\nThe question falls to you: shall the Iron Throne strike swiftly, sending sword and sail to crush this threat before it can take root? Or will patience and watchfulness suffice, risking that the Blackfyre grows strong enough to challenge you in open war?"
@@ -163,11 +164,9 @@ cce_agot_ninepenny_intervention_cb:0 "Ninepenny Intervention"
 NINEPENNY_INTERVENTION_WAR_NAME:0 "War of the Ninepenny Kings"
 NINEPENNY_INTERVENTION_WAR_NAME_BASE:0 "War of the Ninepenny Kings"
 NINEPENNY_INTERVENTION_CB:0 "War of the Ninepenny Kings"
-
+ninepenny_intervention_victory_desc:0 "The Ninepenny Kings are defeated"
 cce_agot_ninepenny_conquest_cb:0 "Band of Nine Conquest"
-NINEPENNY_INTERVENTION_WAR_NAME:0 "Band of Nine Conquest"
-NINEPENNY_INTERVENTION_WAR_NAME_BASE:0 "Band of Nine Conquest"
-NINEPENNY_INTERVENTION_CB:0 "Band of Nine Conquest"
+
  
  
  
@@ -202,6 +201,22 @@ cce_agot_canon_events.0031.desc_crisis_averted:0 "The restless whispers have fad
 
 cce_agot_canon_events.0031.a:0 "The realm will remember what has passed."
 
+
+
+
+
+cce_agot_canon_events.0025.t:0 "The Dragon’s Claim"
+cce_agot_canon_events.0025.desc:0 "From Dragonstone comes a thunderous proclamation. Aegon Targaryen, Lord of the Dragonstone and rider of Balerion the Black Dread, has declared himself King of all Westeros. He names his claim over the Seven Kingdoms by fire and blood, and demands that every lord and lady bend the knee.\n\nAcross the realm and beyond, rulers weigh their fates. Some whisper of the doom of Valyria reborn, others scoff at the arrogance of a dragonlord. Yet the words spread swiftly, carried by raven and rumor alike: there is a new king, and he will have obedience—or he will have conquest."
+cce_agot_canon_events.0025.a:0 "The world holds its breath."
+
+cce_agot_canon_events.0026.t:0 "The Fall of the Black Dragon"
+cce_agot_canon_events.0026.desc:0 "The Redgrass Field ran red with blood as the hosts of crown and rebel clashed in a battle to decide the fate of the realm. When the sun set, the banners of the black dragon lay broken, and Daemon Blackfyre himself was struck down. His fall ended the rebellion, yet whispers already spread that his death came not with the honor of single combat, but by darker means.\n\nSo perished the mightiest foe the Iron Throne had ever faced—valiant, beloved, and betrayed in the very hour of his glory."
+cce_agot_canon_events.0026.a:0 "The Black Dragon falls, and with him his cause."
+
+cce_agot_the_unworthy:0 "The Unworthy"
+
+
+
  
  
  
@@ -213,8 +228,152 @@ cce_agot_canon_events.0031.a:0 "The realm will remember what has passed."
  
  
  
+ cce_agot_childhood_events.0009.t:0 "A Ward's Education"
+ cce_agot_childhood_events.0009.desc:0 "As you sit in your chambers, pondering the future of your young offspring, a troubling thought crosses your mind. [ward.GetFirstName] is growing rapidly, and it's becoming increasingly apparent that [ward.GetSheHe] requires guidance and education to shape [ward.GetHerHis] path in this world. It's time to decide who will be entrusted with this crucial task."
+ cce_agot_childhood_events.0009.a:0 "How about me?"
+ cce_agot_childhood_events.0009.a.tt:0 "Perhaps it is you who should guide [ward.GetFirstName] through the tumultuous journey of life. Your experience and wisdom could prove invaluable in shaping [ward.GetHerHis] character and molding [ward.GetHerHim] into a worthy successor."
+ cce_agot_childhood_events.0009.b:0 "How about [guardian.GetFirstName]?"
+ cce_agot_childhood_events.0009.b.tt:0 "Your mind drifts to [guardian.GetFirstName], a figure known for [guardian.GetHerHis] wisdom and integrity. Entrusting [ward.GetFirstName] to their care could ensure a bright future, filled with opportunities for growth and learning."
+ cce_agot_childhood_events.0009.c:0 "How about someone else?"
+ cce_agot_childhood_events.0009.c.tt:0 "You will find someone else to bear this responsibility."
+ cce_agot_childhood_events.0009.d:0 "I haven't made up my mind yet."
+ cce_agot_childhood_events.0009.d.tt:0 "The weight of responsibility bears heavily upon you, and you hesitate to make such a pivotal choice. Perhaps it's best to postpone this decision for now, allowing more time for careful consideration."
  
- 
+k_summerhall:0 "Summerhall"
+ agot_more_bookmarks_summerhall.0007.t:0 "The [deceased_heir.Custom('GetPrincessPrince')] of Summerhall"
+ agot_more_bookmarks_summerhall.0007.desc:0 "With the death of [deceased_heir.GetFirstNameNoTooltip], Summerhall has been returned to the crown. However I'm not sure I'm ready to name another [deceased_heir.Custom('GetPrincessPrince')] of Summerhall so soon after the death of my [ROOT.Char.Custom2('RelationToMeShort', deceased_heir)]....."
+ agot_more_bookmarks_summerhall.0007.a:0 "The tradition must be upheld; I shall grant Summerhall to..."
+ agot_more_bookmarks_summerhall.0007.b:0 "I am not ready to grant Summerhall yet."
+ agot_more_bookmarks_summerhall.0002.t:0 "The Prince of Summerhall"
+ agot_more_bookmarks_summerhall.0002.desc:0 "In the rolling foothills of the Red Mountains, where the Dornish Marches meet the stormlands, stands Summerhall—a fair retreat built for the blood of the dragon. Once the summer palace of kings, it now serves as a seat for younger princes, a place of leisure, study, and quiet ambition.
+ agot_more_bookmarks_summerhall.0002.a:0 "I shall grant Summerhall to..."
+ agot_more_bookmarks_summerhall.0002.b:0 "I am not ready to grant Summerhall yet."
+
+cce_agot_canon_events.0035.t:0 "A Palace in the South"
+cce_agot_canon_events.0035.desc:0 "The warm hills of the Dornish Marches call to you—a place of sun and solitude, far from the chill of court and the weight of the Iron Throne. You envision a summer palace there, a retreat for your blood and kin, where dragons might rest and peace may reign, if only for a season.\n\nAll that remains is to secure the land."
+cce_agot_canon_events.0035.a:0 "Send word to the Marcher lord. I will make an offer."
+cce_agot_canon_events.0035.b:0 "We do not need a Summer Palace."
+
+
+cce_agot_canon_events.0036.t:0 "An Offer from the Dragon"
+cce_agot_canon_events.0036.desc:0 "A raven comes bearing the royal seal. A Targaryen prince seeks to purchase a tract of land within your Marches—a place to raise a summer retreat for his house. The offer is generous, yet the thought of yielding land to dragonlords gives pause. To refuse may cause offense… but to agree may invite their shadow into your domain."
+cce_agot_canon_events.0036.a:0 "Accept the offer—the dragon’s gold spends well enough."
+cce_agot_canon_events.0036.b:0 "Refuse. The Marches are no place for dragons."
+
+
+cce_agot_dornish_events.0001.t:0 "The Dornish Uprising"
+cce_agot_dornish_events.0001.desc:0 "Across the deserts and mountains of Dorne, the smallfolk whisper of freedom. Foreign lords rule from afar, their taxes heavy, their soldiers strangers to the sun. Now, the people rise in secret—bands of rebels gathering beneath the sands, swearing to drive the invaders back across the mountains.\n\nAll eyes turn to you. If you raise your banner, the realm will rally behind you. Yet to wait may spare Dorne the ruin of open war... for now."
+cce_agot_dornish_events.0001.a:0 "I will lead our people!"
+cce_agot_dornish_events.0001.b:0 "This is not the right time."
+
+cce_agot_dornish_events.0002.t:0 "The Dornish Uprising"
+cce_agot_dornish_events.0002.desc:0 "The fires of rebellion spread across Dorne. The smallfolk rise in the name of freedom, striking at garrisons and tax collectors alike. Now a great lord has taken up their cause, calling on every Dornish house to choose a side.\n\nWill you join the uprising and cast off the yoke of foreign rule, or keep faith with the Iron Throne and the peace it brings?"
+cce_agot_dornish_events.0002.a:0 "For Dorne! [ROOT.Char.GetHouse.GetMotto]!"
+cce_agot_dornish_events.0002.b:0 "I will not involve myself in this."
+cce_agot_dornish_events.0002.c:0 "We will stand with the throne."
+
+cce_agot_dornish_events.0003.t:0 "The Dornish Uprising"
+cce_agot_dornish_events.0003.desc:0 "Ravens carry troubling news from the south. Dorne has risen in rebellion. The deserts burn with war once more as lords and smallfolk alike take up arms against the foreign rule they have long endured. Castles are seized, garrisons put to the sword, and the banners of independence fly above the red mountains.\n\nWhether this fire will be swiftly quenched or spread beyond the sands, no one yet knows—but all of Westeros feels the heat."
+cce_agot_dornish_events.0003.a:0 "The south burns once more."
+
+
+cce_agot_dornish_events.0004.t:0 "[war.GetName]"
+
+cce_agot_dornish_events.0004.desc:0 "Word reaches you from [defender.GetTitledFirstNamePossessive] lands — a host of Dornish raiders have crossed the border, torching fields and driving off livestock. The Marches burn again, and your banners are called upon. The smallfolk beg for aid, but to intervene may mean drawing the wrath of Dorne and risking open war."
+
+cce_agot_dornish_events.0004.a:0 "Rally the banners! We will not let the Dornish go unpunished."
+cce_agot_dornish_events.0004.a.tt:0 "Your forces march to aid [defender.GetFirstName]. The Dornish may be repelled, or this may spark greater conflict."
+
+cce_agot_dornish_events.0004.b:0 "This is not my fight. Let them defend their own borders."
+cce_agot_dornish_events.0004.b.tt:0 "[defender.GetFirstName] will remember your refusal. The Dornish raid may spread unchecked."
+
+cce_agot_dornish_events.0005.t:0 "The Rise of the Vulture King"
+
+cce_agot_dornish_events.0005.desc:0 "From the red sands and shadowed canyons rides a new warlord calling himself the Vulture King. His banners, black upon gold, are said to gather outlaws, exiles, and the restless sons of Dorne. He promises vengeance against the Marcher lords and plunder from the green lands beyond the mountains. Now his envoys ride to you, offering a place among his ranks—or warning that those who refuse may be counted among his foes."
+
+cce_agot_dornish_events.0005.a:0 "The blood of the Dornish still runs hot. I will ride with the Vulture King."
+cce_agot_dornish_events.0005.a.tt:0 "You pledge your spears to the Vulture King's cause and prepare to raid northward."
+
+cce_agot_dornish_events.0005.b:0 "His fire will burn itself out soon enough. I will not risk my lands."
+cce_agot_dornish_events.0005.b.tt:0 "You remain neutral, watching how this new warlord’s cause unfolds."
+
+
+
+cce_agot_dornish_events.0006.t:0 "The Vulture King"
+
+cce_agot_dornish_events.0006.desc:0 "Riders and merchants from the Dornish Marches carry troubling tales. A new outlaw has risen from the wastes of the Red Mountains, calling himself the Vulture King. He is said to unite bands of second sons, raiders and exiles beneath a single banner and to promise plunder from the fertile lands beyond Dorne’s borders. Whether mere brigand or would-be conqueror, his name spreads swiftly, carried on the lips of traders, travelers, and fearful smallfolk alike."
+
+cce_agot_dornish_events.0006.a:0 "Another pretender rises in the Red Mountains..."
+cce_agot_dornish_events.0006.a.tt:0 "The rise of the Vulture King becomes the talk of taverns and courts across Westeros."
+
+cce_agot_dornish_events.0007.t:0 "The Question of Dorne"
+cce_agot_dornish_events.0007.desc:0 "For generations, the lands of Dorne have warred with the Stormlands and the Reach, resisting every king who sought to bring them to heel. Their princes rule from Sunspear, proud and defiant, even as peace reigns elsewhere. Perhaps now, through diplomacy rather than conquest, a lasting accord might be forged. A letter could be sent south, offering peace and the promise of unity."
+cce_agot_dornish_events.0007.a:0 "Send word to the [prince.GetName]."
+
+cce_agot_dornish_events.0008.t:0 "A Letter from the Iron Throne"
+cce_agot_dornish_events.0008.desc:0 "A raven from the Iron Throne arrives, bearing the royal seal. [king.GetName] seeks peace — and proposes the integration of Dorne into the Seven Kingdoms under his rule. Yet such a step would demand careful thought. To bend the knee fully would betray centuries of Dornish pride, but a compromise might preserve both honor and peace."
+cce_agot_dornish_events.0008.a:0 "Offer a compromise — special rights for Dorne within the realm."
+cce_agot_dornish_events.0008.b:0 "Reject the notion outright. Dorne bows to no crown."
+
+cce_agot_dornish_events.0009.t:0 "The Dornish Reply"
+cce_agot_dornish_events.0009.desc_accept:0 "[prince.GetName] has answered your letter. They offer a steep proposal: Dorne shall join the realm in name, yet its princes will retain ancient rights and freedoms unknown to other lords. It is a generous offer — or an audacious one — depending on your view."
+cce_agot_dornish_events.0009.desc_reject:0 "Word returns from Sunspear, curt and final. [prince.GetName] rejects all talk of submission or unity. The desert remains defiant, its spears turned ever northward."
+cce_agot_dornish_events.0009.a:0 "Accept their compromise — peace through leniency."
+cce_agot_dornish_events.0009.b:0 "Reject their arrogance — Dorne must be brought to heel."
+
+cce_agot_dornish_events.0010.t:0 "Dorne joins the Seven Kingdoms"
+cce_agot_dornish_events.0010.desc:0 "The realm stirs with talk of the new accord between the Iron Throne and Dorne. Never before has such generosity been granted — the princes of Dorne shall keep their laws, their customs, and their pride, all beneath the crown. Whether history will call it wisdom or weakness, only time will tell."
+cce_agot_dornish_events.0010.a:0 "We'll see how long this peace lasts."
+
+cce_agot_make_peace_with_dorne_decision:0 "Peace with Dorne"
+cce_agot_make_peace_with_dorne_decision_desc:0 "For thousands of years Dorne has warred with its neighbors and refused to kneel. Perhaps the answer to this conflict is through diplomacy instead of conflict. Send a raven to Dorne, offering peace."
+cce_agot_make_peace_with_dorne_decision_tt:0 "A Dornish Compromise may lead to a rift with your bannermen who have fought the Dornish for thousands of years."
+cce_agot_make_peace_with_dorne_decision_tooltip:0 "Make peace with Dorne"
+cce_agot_make_peace_with_dorne_decision_confirm:0 "Send a raven."
+
+
+cce_agot_weak_seed_modifier:0 "Low Fertility"
+cce_agot_dornish_compromise_opinion:0 "Dornish Compromise"
+
+k_more_bookmarks_red_mountains:0 "the Red Mountains"
+k_more_bookmarks_vulture_host:0 "Vulture Host"
+cce_agot_nick_vulture_queen:0 "the Vulture Queen"
+
+ ## Night's Watch Struggle Loc ##
+ MORE_BOOKMARKS_VULTURE_HUNT_WAR_NAME:0 "The Vulture Hunt"
+ MORE_BOOKMARKS_VULTURE_HUNT_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+ MORE_BOOKMARKS_VULTURE_HUNT_CB:0 "Vulture Hunt"
+ more_bookmarks_vulture_hunt_defeat_desc:0 "The Dornish now know that the Marches are ripe for the taking."
+ more_bookmarks_vulture_hunt_victory_desc:0 "The Dornish will be reminded of the might of your realm."
+ shatter_vulture_realm:0 "The band of outlaws and raiders of [defender.GetName] will be shattered."
+
+ agot_more_bookmarks_vulture_hunter:0 "Vulture Hunter"
+ agot_more_bookmarks_vulture_hunter_desc:0 "This character participated in the #bold Vulture Hunt#! against Dornish brigands."
+ #AGOT TODO
+ more_bookmarks_vulture_hunt_white_peace_desc:0 "Placeholder White Peace Text"
+ more_bookmarks_vulture_hunt_invalidated_desc:0 "Placeholder Invalidated Text"
+
+more_bookmarks_dornish_raid_cb:0 "Raid"
+MORE_BOOKMARKS_DORNISH_RAID_CB_NAME:0 "Dornish Raid of [DEFENDER.GetPrimaryTitle.GetNameNoTier]"
+MORE_BOOKMARKS_DORNISH_RAID_CB_SPECIFIC_NAME:1 "Dornish Raid against the [DEFENDER.GetPrimaryTitle.GetBaseNameNoTier]"
+MORE_BOOKMARKS_DORNISH_RAID_WAR_NAME:0 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] Raid against [DEFENDER.GetPrimaryTitle.GetNameNoTier]"
+MORE_BOOKMARKS_DORNISH_RAID_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+slave_raid_cb_victory_desc:0 "Residents of [defender.GetShortUINamePossessive] realm are taken as slaves by [attacker.GetShortUIName]."
+slave_raid_cb_white_peace_desc:0 "No slaves are taken."
+slave_raid_cb_defeat_desc:0 "No slaves are taken."
+
+agot_more_bookmarks_great_council.0001.t:0 "The Great Council Convenes"
+
+agot_more_bookmarks_great_council.0001.desc:0 "By royal decree and the will of the realm, a Great Council has been called. Lords great and small gather to settle the question of succession and determine who shall wear the crown. The banners of a hundred houses fly, the air thick with pride, ambition, and fear.\n\nEach lord must now cast their vote and bind their house to a claim. The decision will shape the fate of the realm for generations to come."
+agot_more_bookmarks_great_council.0001.a:0 "Cast your vote for your chosen claimant."
+agot_more_bookmarks_great_council.0001.desc_indirect:0 "By royal decree and the will of the realm, a Great Council has been called. Lords great and small gather to settle the question of succession and determine who shall wear the crown. The banners of a hundred houses fly, the air thick with pride, ambition, and fear.\n\nYour liege supports [great_council_pick.GetFullName] for the throne."
+
+agot_more_bookmarks_great_council.0002.t:0 "The Decision of the Great Council"
+agot_more_bookmarks_great_council.0002.desc:0 "The lords have spoken. After long days of debate, speeches, and secret promises, the Great Council has reached its verdict. The matter of succession is settled, and the next ruler of [council_title.GetNameNoTier] has been chosen by the will of the realm.\n\n#L [great_council_winner.GetFirstName] [great_council_winner.GetHouse.GetNameNoTooltip]#! will ascend the throne.\n\nSome call it justice, others call it folly—but the choice is made, and the fate of Westeros turns upon it. From this day forth, history will remember the name that carried the council’s favor."
+agot_more_bookmarks_great_council.0002.a:0 "The realm has chosen its heir."
+
+_
+
  
  ##
   ################################
@@ -224,7 +383,7 @@ cce_agot_canon_events.0031.a:0 "The realm will remember what has passed."
  ################################
 
 cce_agot_summerhall.1000.t:0 "Legacy of the Dragon"
-cce_agot_summerhall.1000.desc:0 "A raven has brought wondrous tidings from Dragonstone: a new prince of House Targaryen has been born!\n\nThe blood of the dragon endures through the birth [rhaella.GetFirstName] and [aerys.GetFirstNamePossessive] newborn [rhaegar.GetName]. With this birth, our house grows stronger, its legacy stretching ever further into the future. Let the world bear witness that the line of the dragon is unbroken, and that fire and blood remain our inheritance.\n\nSuch a moment calls for celebration. Perhaps a great gathering of our kin, to feast and rejoice in the strengthening of our house?"
+cce_agot_summerhall.1000.desc:0 "A raven has brought wondrous tidings from Dragonstone: a new prince of House Targaryen has been born!\n\nThe blood of the dragon endures through the birth [rhaella.GetFirstName] and [aerys.GetFirstNamePossessive] newborn [rhaegar.GetName]. With the birth of my [ROOT.Char.Custom2('RelationToMeShort', rhaegar)], our house grows stronger, its legacy stretching ever further into the future. Let the world bear witness that the line of the dragon is unbroken, and that fire and blood remain our inheritance.\n\nSuch a moment calls for celebration. Perhaps a great gathering of our kin, to feast and rejoice in the strengthening of our house?"
 cce_agot_summerhall.1000.a:0 "The #bold house of the dragon#! will convene in celebration!"
 cce_agot_summerhall.1000.b:0 "No. I do not want to wake old memories."
 
@@ -235,8 +394,6 @@ cce_agot_summerhall.1000.b:0 "No. I do not want to wake old memories."
  cce_agot_summerhall.1003.t:0 "The Summer Palace"
  cce_agot_summerhall.1003.desc.egg:0 "The house of the dragon is gathering! Sons and daughters, grandchildren and cousins alike have come together beneath our banner. It fills me with pride to see our kin united, their joy and hope rekindled by the promise of a new heir to our line.\n\nYet they do not grasp the full measure of what awaits House [ROOT.Char.GetHouse.GetName]. They know nothing of the sacrifices already made, nor of those I am still prepared to make. By day’s end, our power will blaze brighter than ever before, and the symbol of our dynasty will roar to life once again!\n\nThe preparations are complete, and those faithful to me stand ready. No more hesitation, no more defiance. My family will #bold finally#! understand the truth of my vision — and soon all the lords of the Seven Kingdoms shall bend the knee… but first, we feast!"
  cce_agot_summerhall.1003.a:0 "My kin! Welcome to Summerhall!"
- invited_to_summerhall:0 "[attendee.GetNameNicknamed] is journeying to Summerhall"
- going_to_summerhall:0 "[attendee.GetNameNicknamed] has arrived at Summerhall"
 
  cce_agot_summerhall.1004.t:0 "$cce_agot_summerhall.1003.t$: Pyromancy"
  cce_agot_summerhall.1004.desc:0 "During a lull in the festivities I steal away to arrange some of the finer details of the coming endeavor with [pyromancer.GetName]. Before I can reach [pyromancer.GetHerHim], [beseecher.GetName] accosts me, eyes wide with fear, speaking in a pained whisper: "Your Grace, please! What you have planned — this is sorcery! No, worse — it is #bold bloodmagic#!!"\n\nI dismiss [beseecher.GetHerHis] concerns in much the same way my family has always dismissed mine; without a second thought. #S I#! am king now and only #S I#! can command the sacrifice that must be made.\n\nI find [pyromancer.GetFirstNameNoTooltip] and [pyromancer.GetSheHe] assuages any doubts assuring me of [pyromancer.GetHerHis] guild's expertise and proclaiming that dragons will return and that House [ROOT.Char.GetHouse.GetName] will have her glory and power restored."
@@ -260,7 +417,7 @@ cce_agot_summerhall.1000.b:0 "No. I do not want to wake old memories."
  cce_agot_summerhall.1006.main_fallback:0 "#bold My family is burning!#! Timbers crack and stones warp from the unimaginable heat of the ritual fire raging out of control! All around me the palace is engulfed in flames — swallowing my family one by one as they scream from beneath splintered beams and molten stone. The smoke won't let me stop choking on my tears...\n\n"
  cce_agot_summerhall.1006.dunc_egg:0 "A form shoves aside debris before me. I can only make out a soot stained white cloak through the heat and smoke. [saviour.GetFirstNameNicknamed], wounded but still fighting to help others, rushes to my side where he has been faithful all these years. There remains but one difficult choice to conclude our friendship."
  cce_agot_summerhall.1006.fallback:0 "A form shoves aside debris before me. I can only make out a soot stained white cloak through the heat and smoke. [saviour.GetFirstNameNicknamed], wounded but still fighting to help others, rushes to my side. Amid the chaos and calamity, I can only shout a single final command."
- cce_agot_summerhall.1006.a:0 "Save Rhaella, my [ROOT.Char.Custom2('RelationToMeShort', rhaella)]!"
+ cce_agot_summerhall.1006.a:0 "Save [rhaegar.GetName]!"
  cce_agot_summerhall.1006.b:0 "Get Duncan out of here!"
  cce_agot_summerhall.1006.c:0 "Please, get me out of here!"
  cce_agot_summerhall.1006.d:0 "My child... Please, I need out of here!"
@@ -343,6 +500,7 @@ cce_agot_summerhall.1000.b:0 "No. I do not want to wake old memories."
  cce_agot_summerhall.1024.t:0 "An Invitation"
  cce_agot_summerhall.1024.desc:0 "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('king'))], [king.GetTitledFirstName], has invited us all to celebrate the birth of the next generation of Targaryens at [dynamic_summerhall.GetNameNoTier]!\n\nA union of the house of the dragon sounds most joyous."
  cce_agot_summerhall.1024.a:0 "What fun!"
+ cce_agot_summerhall.1024.b:0 "No.. I don't think I will."
 
  cce_agot_summerhall.1100.t:0 "$cce_agot_summerhall.1003.t$"
  cce_agot_summerhall.1100.desc:0 "The house of the dragon is gathering! [summerhall_leader.GetName] has invited many of us to the palace of Summerhall for a grand feast in honor of [rhaella.GetFirstName] being with child and the glory of the [summerhall_leader.GetHouse.GetName] dynasty.\n\nThe crown will surely spare no expense, and everyone of great import will be there. This may prove to be a gathering no guest shall ever forget!"

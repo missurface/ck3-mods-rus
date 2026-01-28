@@ -1,8 +1,8 @@
 ﻿l_english:
 agot_more_bookmarks_iron_throne_group:0 "#TS More Bookmarks\nComprehensive#!"
-agot_more_bookmarks_after_the_doom_group: 0 "After the Doom"
+agot_more_bookmarks_group:0 "#TS More Bookmarks\nFeatured#!"
 
-agot_more_bookmarks_iron_throne_group:0 "0 AC"
+agot_more_bookmarks_iron_throne_8000:0 "0 AC"
 agot_more_bookmarks_iron_throne_8000_desc:0 "0 AC"
 
 agot_more_bookmarks_iron_throne_8001:0 "1 AC"
@@ -1212,9 +1212,7 @@ agot_more_bookmarks_ad_7999_desc:0 "101 Years After the Doom"
 agot_more_bookmarks_ad_8000:0 "102 AD"
 agot_more_bookmarks_ad_8000_desc:0 "102 Years After the Doom"
 
-agot_more_bookmarks_8297_1:0 "297 AD"
-agot_more_bookmarks_8297_1_desc:0 "297 Years afer the Conquest"
-agot_more_bookmarks_main_series_group:0 "Main Series"
+
 agot_more_bookmarks_game_of_thrones:0 "A Game of Thrones"
 agot_more_bookmarks_game_of_thrones_desc:0 "The cold winds are rising.\n\nIn the North, Lord Eddard Stark holds fast to a promise, but his oaths and duty drag him south to a court where smiles cut sharper than swords. There, honor is mocked, loyalties are bought, and treachery whispers in every hall.\n\nFar across the sea, the #difficulty_very_hard Blood of the Dragon#! endures.\n\nViserys 'The Beggar King' Targaryen dreams of the throne of his father, while his sister walks the path from girlhood into power.\n\nThe realm trembles on the edge of ruin.\n\n In the Game of Thrones, you either win or you die. There is no middle ground."
 agot_more_bookmarks_first_blackfyre_rebellion:0 "First Blackfyre Rebellion"
@@ -1235,28 +1233,39 @@ agot_more_bookmarks_conquest_of_dorne_desc:0 "A boy sits the Iron Throne, but hi
 agot_more_bookmarks_ninepenny_kings:0 "The Band of Nine"
 agot_more_bookmarks_ninepenny_kings_desc:0 "In the Free Cities, whispers spread of a pact sworn in shadow and sealed in blood. Nine men of power and ambition—sellsword captains, merchant princes, pirate lords, and exiles—have joined their fortunes together. Each has been promised a crown, and together they style themselves the Band of Nine.\n\nAt their head stands #difficulty_very_hard Maelys Blackfyre#!, the last of his line, who claims the Iron Throne as his birthright. Around him gather those who would carve out realms of their own, bound by oath and greed.\n\nFor now their blades remain sheathed, their banners hidden. But if this pact holds, the storm to come may reach across the Narrow Sea, and the game of thrones will be played anew."
 
+agot_more_bookmarks_tourney_at_harrenhal:0 "Tourney at Harrenhal"
+agot_more_bookmarks_tourney_at_harrenhal_desc:0 "In the Year of the False Spring, Lord Whent of Harrenhal calls the lords of Westeros to the grandest tourney in living memory. Beneath the splendor of the lists and the feasts, whispers coil through the hall—plots hatched in shadow, alliances struck in secret, and a king’s paranoia stoked ever higher.\n\nIt is here, amid the pageantry and the vows of knighthood, that rivalries sharpen and destinies shift. The crown rests uneasy, and from this tourney’s bright pomp shall flow the dark waters of rebellion."
+
 more_bookmarks_game_of_thrones_eddard_stark:0 "Lord Eddard Stark"
+more_bookmarks_game_of_thrones_eddard_stark_subheading:0 ""
 more_bookmarks_game_of_thrones_eddard_stark_desc:0 "The Warden of the North, bound by duty, honor, and the old gods. Summoned south to serve as Hand of the King, Ned Stark must navigate a court of treachery and intrigue far removed from Winterfell’s stark truths. Will he cling to honor in the lion’s den, or bend to survive the game of thrones?"
 
 more_bookmarks_game_of_thrones_viserys_targaryen:0 "King Viserys III"
+more_bookmarks_game_of_thrones_viserys_targaryen_subheading:0 ""
 more_bookmarks_game_of_thrones_viserys_targaryen_desc:0 "Exiled and crownless, Viserys Targaryen carries only the memory of his house’s power and the weight of his father’s fall. Proud, bitter, and unyielding, he dreams of reclaiming the Iron Throne through fire and blood. Yet without armies or allies, can the Beggar King turn exile into conquest?"
 
 more_bookmarks_game_of_thrones_robert_baratheon:0 "King Robert Baratheon"
+more_bookmarks_game_of_thrones_robert_baratheon_subheading:0 ""
 more_bookmarks_game_of_thrones_robert_baratheon_desc:0 "Once the realm’s greatest warrior, Robert Baratheon now wears the crown he won in rebellion. But years of wine, feasts, and indifference have dulled his edge. Surrounded by Lannister wealth and whisperers at court, the king grows restless. Will Robert rule with the hammer still in hand, or see his realm slip away?"
 
 more_bookmarks_game_of_thrones_tywin_lannister:0 "Lord Tywin Lannister"
+more_bookmarks_game_of_thrones_tywin_lannister_subheading:0 ""
 more_bookmarks_game_of_thrones_tywin_lannister_desc:0 "Warden of the West and Lord of Casterly Rock, Tywin Lannister is the most feared and calculating man in the Seven Kingdoms. His wealth and discipline hold House Lannister high, but his pride is unyielding. Will Tywin’s schemes secure a dynasty of lions, or plunge Westeros into ruin for his children’s ambitions?"
 
 more_bookmarks_game_of_thrones_stannis_baratheon:0 "Lord Stannis Baratheon"
+more_bookmarks_game_of_thrones_stannis_baratheon_subheading:0 ""
 more_bookmarks_game_of_thrones_stannis_baratheon_desc:0 "Lord of Dragonstone, cold and unbending, Stannis Baratheon has long felt slighted by fate and family alike. He broods over slights real and imagined, yet his sense of justice burns fierce as iron. Will Stannis seize the crown by law and fire, or be broken by his own rigid will?"
 
 more_bookmarks_game_of_thrones_renly_baratheon:0 "Lord Renly Baratheon"
+more_bookmarks_game_of_thrones_renly_baratheon_subheading:0 ""
 more_bookmarks_game_of_thrones_renly_baratheon_desc:0 "Young, charming, and beloved at court, Renly Baratheon is the flower of chivalry, surrounded by knights and lords eager to follow him. Yet beneath the smiles lies ambition. Will Renly use his charisma to unite the realm behind him, or overreach and tumble in the shadow of greater kings?"
 
 more_bookmarks_game_of_thrones_balon_greyjoy:0 "Lord Balon Greyjoy"
+more_bookmarks_game_of_thrones_balon_greyjoy_subheading:0 ""
 more_bookmarks_game_of_thrones_balon_greyjoy_desc:0 "The Ironborn Lord of Pyke, proud and bitter, Balon Greyjoy still smolders from his failed rebellion. Scorning mainland kings, he clings to the Old Way: the iron price, not the gold. Will Balon bide his time and rebuild, or seize the chance to strike while the realm above the waves falters?"
 
 more_bookmarks_game_of_thrones_littlefinger:0 "Lord Petyr Baelish"
+more_bookmarks_game_of_thrones_littlefinger_subheading:0 ""
 more_bookmarks_game_of_thrones_littlefinger_desc:0 "Once a minor lord of the Fingers, Petyr Baelish has risen through cunning, charm, and endless ambition. As master of coin, he smiles while sowing chaos, for chaos is the ladder he climbs. Will Littlefinger weave a web that ensnares great lords and crowns, or overplay his game and be devoured by it?"
 agot_more_bookmarks_8297_1:0 "297-1 AD"
 agot_more_bookmarks_8297_1_desc:0 "297 Years after the Conquest"
@@ -1355,333 +1364,4 @@ agot_more_bookmarks_8300_11_desc:0 "300 Years after the Conquest"
 agot_more_bookmarks_8300_12:0 "300 AD"
 agot_more_bookmarks_8300_12_desc:0 "300 Years after the Conquest"
 
-
-dynamic_scenarios_agot.1060.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1060.desc:0 "Jon Arryn is dead. The man who raised me alongside Robert and taught me the ways of honor and duty.\n\nNow King Robert himself is here at Winterfell with half the court in his train, come north after so many years to place a heavy burden upon my shoulders. He bids me be his Hand.\n\nLysa Arryn’s letter haunts me. She swears her husband was murdered by the Lannisters, and warns that Robert is in peril.\n\nAnd now, as if the gods themselves sought to try me, my boy Bran has fallen from a tower window, broken and unmoving. His fate hangs by a thread.\n\nI am torn between two paths: remain here in the North, where my children need me and Winterfell is safe from southern treachery—or ride south to answer Robert’s call, risking all to guard my king and uncover the truth of Jon Arryn’s death. The choice is mine, and the weight of it may shape the fate of all Westeros."
-dynamic_scenarios_agot.1060.a:0 "I will go south, to serve Robert as Hand."
-dynamic_scenarios_agot.1060.b:0 "My duty is here in the North. I will not go."
-dynamic_scenarios_agot.1061.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1061.desc:0 "At the Inn of the Crossroads, Catelyn Stark spied a familiar face by the hearth—Tyrion Lannister.\n\nLittlefinger’s words echoed in her mind: it was his dagger used in the attempt on young Bran’s life. Now, by chance, the man accused stood within her reach.\n\nThe hall was filled with men loyal to her father’s house and Winterfell. With a word, she could call upon their oaths and see the Imp seized. To act was to risk the wrath of House Lannister; to stay her hand was to risk Bran’s attacker going unpunished."
-dynamic_scenarios_agot.1061.a:0 "Seize the Imp"
-dynamic_scenarios_agot.1061.b:0 "Remain silent and let him go."
-dynamic_scenarios_agot.1062.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1062.desc:0 "News reached me in Casterly Rock that my son Tyrion has been seized by Catelyn Stark, carried off like a common brigand’s prize. An outrage—an insult to my blood, to my house, to me. The Starks and Tullys dare lay hands on a Lannister of Casterly Rock.\n\nThey shall learn the price of such folly. If they would steal my son, I will answer with fire and sword. I will see the Riverlands burn, their fields turned to ash, their people driven before my banners.\n\nLet them remember that a Lannister always pays his debts."
-dynamic_scenarios_agot.1062.a:0 "Summon the banners. The Riverlands will pay in blood."
-dynamic_scenarios_agot.1063.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1063.desc:0 "Word spreads quickly across the realm: Tyrion Lannister, son of Lord Tywin, has been seized by Lady Catelyn Stark on the kingsroad to answer for some crime.\n\nThe insult has not gone unanswered. At Casterly Rock and Lannisport, the banners of the Westerlands are called forth, knights and levies gathering in great number under the Lion’s standard.\n\nRumors now abound that the host marches eastward. If so, the Riverlands may soon be set aflame, and the peace of the realm broken."
-dynamic_scenarios_agot.1063.a:0 "The lions are on the move."
-dynamic_scenarios_agot.1064.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1064.desc:0 "The riverlands burn, torn between lions and wolves. Now Robb Stark, Lord of Winterfell, has been hailed King in the North by his bannermen, and he calls upon you to stand with him. The memory of his father’s execution stirs hearts to fury, and many cry for vengeance.\n\nYet to bend the knee to Robb is to make common cause with the North against the Iron Throne itself. To refuse is to stand apart—and perhaps alone—while war consumes the realm."
-dynamic_scenarios_agot.1064.a:0 "Swear fealty to Robb Stark, King in the North."
-dynamic_scenarios_agot.1064.b:0 "Hold back. The riverlands must fend for themselves."
-dynamic_scenarios_agot.1065.t:0 "The Wolf and the Kraken"
-dynamic_scenarios_agot.1065.desc:0 "My bannermen are eager to take the fight to the Southerners, but we are in a precarious position.\n\nTheon Greyjoy, raised beside me like a brother, now kneels before me with eagerness in his eyes. He would return to the Iron Islands, win over his father, and bring the strength of the kraken to our cause.\n\nYet my lady mother’s words linger in my thoughts: 'Never trust a Greyjoy.'\n\n The Ironborn are a proud and treacherous people, and to send Theon back is to place faith in Balon Greyjoy’s honor—if such a thing exists."
-dynamic_scenarios_agot.1065.a:0 "I will send Theon home to Pyke. We must risk it for the chance of House Greyjoy's support."
-dynamic_scenarios_agot.1065.a.tt:0 "Theon sails for the Iron Islands, carrying my trust and hopes of alliance."
-dynamic_scenarios_agot.1065.b:0 "No. Theon stays by my side. I will not gamble on Balon’s word."
-dynamic_scenarios_agot.1065.b.tt:0 "The Ironborn remain uncertain, but Theon stays where I can see him."
-
-dynamic_scenarios_agot.1066.t:0 "The Ironborn Shall Rise"
-
-dynamic_scenarios_agot.1066.desc_theon_offer:0 "The boy Theon returns at last, a man grown.... and clad in wolf’s colors. He speaks of Robb Stark, King in the North, who seeks kraken sails against the lions of Casterly Rock.\n\nTheon begs me like a child to join their cause, swearing the Starks will honor the Ironborn with gold and land for our aid. Yet I hear my son’s words and think only of chains. The Starks are not my kin, nor my masters. They would have me bend my knee again, and call it alliance.\n\n Only I will decide what the future is for House Greyjoy."
-
-dynamic_scenarios_agot.1066.desc_no_theon_offer:0 "The seas roar and the winds of war blow across the realm. The lions and wolves gnaw at each other, leaving their flanks bare. I owe no debt to Stark or Lannister, but I smell weakness upon the mainland. This is the hour for the kraken to strike. Should we raid the Westerlands, rich with gold and fat plunder? Or sail upon the North, empty of armies, ripe for reaving? The mainlanders will learn once more that what is dead may never die, and that the Ironborn take their due with fire and steel."
-
-dynamic_scenarios_agot.1066.a:0 "The North is vulnerable!"
-dynamic_scenarios_agot.1066.a.tt:0 "The Iron Islands shall invade the North"
-dynamic_scenarios_agot.1066.b:0 "The West has great riches"
-dynamic_scenarios_agot.1066.b.tt:0 "The Ironborn shall harry the coastline of the Westerlands."
-
-
-dynamic_scenarios_agot.1067.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1067.desc:0 "Lord Jon Arryn, the Hand of the King, is dead. King Robert Baratheon has journeyed north to Winterfell with Queen Cersei and his court, where he has named Lord Eddard Stark as his new Hand.\n\nEven as the court lingers in the North, dark whispers spread. Old rivalries stir, the great houses maneuver, and the peace forged at the end of Robert’s Rebellion begins to fray. Across the Narrow Sea, news comes of the wedding of Daenerys Targaryen to a Great Dothraki Khal.\n\nEvery lord must consider their place in the storm to come. War, intrigue, and treachery threaten to engulf the realm, for the game of thrones has begun."
-dynamic_scenarios_agot.1067.a:0 "The game begins."
-
-dynamic_scenarios_agot.1068.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1068.desc:0 "The rose of Highgarden is in bloom, and with her beauty comes power. If Margaery is wed with care, she may yet wear a crown and place our house above all others. The choice of husband will decide the reach of our ambition."
-dynamic_scenarios_agot.1068.desc:0 "Our offer has been rejected.... perhaps another?"
-dynamic_scenarios_agot.1068.king:0 "[king.GetNameNicknamedRegnal]"
-dynamic_scenarios_agot.1068.robert:0 "Robert"
-dynamic_scenarios_agot.1068.joffrey:0 "Joffrey"
-dynamic_scenarios_agot.1068.renly:0 "[renly.GetNameNicknamedRegnal]"
-dynamic_scenarios_agot.1068.stannis:0 "[stannis.GetNameNicknamedRegnal]"
-dynamic_scenarios_agot.1068.tommen:0 "Tommen"
-dynamic_scenarios_agot.1068.robb:0 "[robb.GetNameNicknamedRegnal]"
-dynamic_scenarios_agot.1068.viserys:0 "[viserys.GetNameNicknamedRegnal]"
-dynamic_scenarios_agot.1068.faegon:0 "[faegon.GetNameNicknamedRegnal]"
-dynamic_scenarios_agot.1068.robb:0 "Robb Stark, King in the North"
-dynamic_scenarios_agot.1068.wait:0 "I will not make a decision now."
-dynamic_scenarios_agot.1068.stop:0 "Margaery doesn't need to be queen, I will find her a suitable match normally."
-
-dynamic_scenarios_agot.1069.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1069.desc:0 "An offer comes from Highgarden: the maiden Margaery Tyrell, fairest flower of the Reach, is proffered in marriage.\n\nThe match would bind your house to one of the richest and most powerful in the realm, with gold and armies enough to tip the balance of any war.\n\nYet such ties do not come without cost, and to wed a rose is to entwine yourself in thorns."
-dynamic_scenarios_agot.1069.a:0 "Accept the match—our fortunes will flourish with the Reach."
-dynamic_scenarios_agot.1069.b:0 "Refuse—we have no need of Tyrell ambition."
-
-dynamic_scenarios_agot.1070.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1070.desc:0 "Word returns from Highgarden: House Tyrell has declined the offer of marriage and alliance. Margaery shall not wed the King, and the Reach will not march beneath the banner of the Iron Throne. \n\nThe lords of the realm whisper that the Tyrells weigh other suitors — and without their strength, the war ahead will be far harder fought."
-dynamic_scenarios_agot.1070.a:0 "They will regret this!"
-
-dynamic_scenarios_agot.1071.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1071.desc:0 "The heat of King’s Landing weighs heavy, yet heavier still are the questions left by Jon Arryn’s death. In his last days he and Lord Stannis had moved together, quiet and secretive, visiting blacksmiths and brothels alike. The Grand Maester tells me Jon had also been poring over an old tome—#bold The Lineages and Histories of the Great Houses of the Seven Kingdoms#!. Strange reading for the Hand of the King.\n\nPetyr Baelish, Cat’s childhood friend, has aided in these matters. From him I have learned that the dagger used in the attempt on young Bran’s life belonged to Tyrion Lannister himself.\n\nBastard children of Robert, a dusty book of bloodlines, and now a weapon traced to the Queen’s brother… these fragments lie before me like pieces of a puzzle, yet the picture they form remains hidden.\n\nJon Arryn sought the truth of something—and for it, he was silenced. I must tread carefully if I would discover what he learned before me."
-dynamic_scenarios_agot.1071.a:0 "I will uncover what Jon Arryn died for."
-
-
-dynamic_scenarios_agot.1072.t:0 "Promise me Ned"
-dynamic_scenarios_agot.1072.desc:0 "Sleep offers me no peace. Instead, I walk once more beneath the red mountains of Dorne, to the Tower of Joy. My companions ride at my side—six loyal men who followed me south and never returned home. Before the tower stand the Kingsguard, their white cloaks blowing in the wind. Ser Arthur Dayne, the Sword of the Morning. Ser Oswell Whent. Ser Gerold Hightower, the White Bull, Lord Commander of the Kingsguard.\n\n‘We swore a vow,’ they say. I hear the clash of swords, the cries of dying men, and feel again the ache of wounds that never truly healed. I climb the steps to where Lyanna waits, her bed drenched in blood. I hear her voice, faint and desperate, whispering to me: ‘Promise me, Ned…’"
-dynamic_scenarios_agot.1072.a:0 "I promise Lya, I promise"
-dynamic_scenarios_agot.1072.b:0 "Jon must know the truth."
-dynamic_scenarios_agot.1072.b.tt:0 "#bold Tomard! You will set sail for Eastwatch-by-the-sea tonight. You will place this letter in the hand of my son Jon. Not the Lord Commander, not the Maester, nor my brother Benjen. Only Jon himself.#!"
-dynamic_scenarios_agot.1072.b.tt_jon_snow:0 "Jon will learn about his parentage."
-
-dynamic_scenarios_agot.1073.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1073.desc:0 "News from the south cuts deep—my father, Lord Eddard Stark, is dead, and Robb leads the North to war against the Lannisters. My heart longs to ride to my brother’s side, yet I am sworn to the Night’s Watch.\n\nMaester Aemon tells me of the times when his vows were tested.\n\n#bold 'We're all human. Oh, we all do our duty when there's no cost to it. Honor comes easy then. Yet, sooner or later in every man's life there comes a day when it's not easy. A day when he must choose.'\n\n'You must make that choice yourself. And live with it for the rest of your days'#"
-dynamic_scenarios_agot.1073.a:0 "I am of the Night’s Watch. My place is here."
-dynamic_scenarios_agot.1073.b:0 "I will ride south to join Robb and my family."
-
-dynamic_scenarios_agot.1074.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1074.desc:0 "Winterfell lies within my grasp. Robb marches in the south, his banners far from home, and I hold his seat and his people in my power. I was raised here, half as a son, yet never truly one of them. Now I must decide whether to show mercy—or to claim Winterfell by fire and sword.\n\nIf I spare the Starks’ seat, I betray my father’s command and risk being seen as weak. If I sack it, I will prove my loyalty to the kraken, but forever brand myself a turncloak in the eyes of the North."
-dynamic_scenarios_agot.1074.a:0 "Winterfell is mine."
-dynamic_scenarios_agot.1074.b:0 "Spare Winterfell. I will not forsake the home I knew."
-
-dynamic_scenarios_agot.1075.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1075.desc:0 "Ravens bring dark tidings from the North. Theon Greyjoy, once ward of Winterfell, has turned against the house that raised him. The kraken has struck from within. Winterfell has fallen into his hands, and its people cry out in fear.\n\nWhether spared or sacked, the betrayal is bitter, and the fate of the North grows ever more uncertain."
-dynamic_scenarios_agot.1075.a:0 "The wolf has been betrayed by the kraken."
-
-dynamic_scenarios_agot.1076.t:0 "A Small Pack of Wolves"
-dynamic_scenarios_agot.1076.desc:0 "In the heat of King’s Landing, Eddard Stark followed Petyr Baelish to a brothel, where he was shown a child of King Robert—a black-haired bastard born of a pale-haired mother. The truth of blood weighed heavily on his mind as he departed with his men. \n\nBut in the street beyond, Lannister guards barred the way, pikes bristling. Jaime Lannister himself rode up on his white steed, mocking words on his tongue and sword at his hip. He demanded his brother’s release, his golden smile edged with threat. Littlefinger slipped back into the brothel, promising to fetch the City Watch, leaving Stark and his companions encircled by lions.\n\nThe air grew taut with the promise of blood. Steel flashed, tempers flared, and in the shadow of the brothel walls, the wolves of Winterfell found themselves face to face with the lion of Lannister."
-dynamic_scenarios_agot.1076.a:0 "Fight!"
-
-dynamic_scenarios_agot.1077.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1077.desc:0 "Pain brought him back to the world. Lord Eddard Stark awoke in the filth of the street, dragging himself through the mud until he found Jory’s lifeless form. When at last Petyr Baelish and the gold cloaks arrived, they found the Hand of the King cradling his fallen guardsmen, blood seeping from the wound in his thigh.\n\nCarried back to the Tower of the Hand, Ned endured the ministrations of the Grand Maester, each touch a fresh agony. Word soon reached him that Jaime Lannister had fled the city, riding west for his father’s seat at Casterly Rock. The realm now teetered on the edge of war, for Tywin Lannister would not let such an insult stand idle.\n\nLying in pain, Ned thought of the storm to come—and of Lyanna, and the promises that still haunted him."
-dynamic_scenarios_agot.1077.a:0 "......"
-
-
-dynamic_scenarios_agot.1078.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1078.desc:0 "Daenerys Targaryen has been wed to Khal [drogo.GetFirstName], greatest of the horselords who roam the endless grasslands. At first the match seemed strange and uncertain, yet the Khal has grown fond of his new wife, and she has begun to find her place at his side.\n\nShould the omens favor war, the blood of the dragon may yet ride forth across the narrow sea—with a Dothraki horde at its back."
-dynamic_scenarios_agot.1078.a:0 "The dragon stirs across the sea."
-
-
-dynamic_scenarios_agot.1079.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1079.desc:0 "In the Red Keep of King’s Landing, the Small Council gathers to hear grave tidings. Across the narrow sea, Daenerys Targaryen—the last daughter of the Mad King—carries a child in her womb, heir to Khal [drogo.GetFirstName] of the great Dothraki hordes. A dragon wedded to a horse lord, and now a son soon to be born.\n\n‘The whore is pregnant,’ some mutter, their voices sharp with fear. If this child should live, one day he may unite the vast khalasar to cross the sea and reclaim the Seven Kingdoms in fire and blood. The honorable among the council urge caution, protesting the thought of killing a young girl and her unborn babe. Yet the pragmatic voices win the day. For the sake of the realm, her death is ordered."
-dynamic_scenarios_agot.1079.king:0 "She must die."
-dynamic_scenarios_agot.1079.a:0 "This is a stain upon our honor."
-dynamic_scenarios_agot.1079.b:0 "The realm must be protected—Daenerys must die."
-
-dynamic_scenarios_agot.1080.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1080.desc:0 "At Vaes Dothrak, Daenerys stood before the dosh khaleen, eating the raw heart of a stallion for the child in her womb. The crones declared her son would be the ‘stallion who mounts the world,’ destined to unite the khalasars and conquer all before him. She named him Rhaego, after her brother Rhaegar.\n\nThat night, at the feast, her other brother came. Viserys Targaryen, drunk and desperate, carrying steel where no blade was permitted. He raged, demanding his crown, threatening Daenerys and her unborn son. Khal [drogo.GetFirstName] rose and promised that the Beggar King would have the crown he desired.\n\nNow the choice lay with Daenerys: to let [drogo.GetFirstName] give her brother his golden crown, or to plead for Viserys’s life, sparing him despite his dishonor."
-dynamic_scenarios_agot.1080.a:0 "Let [drogo.GetFirstName] crown him in molten gold."
-dynamic_scenarios_agot.1080.b:0 "Spare Viserys—he is still blood of the dragon."
-
-dynamic_scenarios_agot.1081.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1081.desc:0 "[drogo.GetFirstName] led his khalasar south, where they clashed with a rival warband and won a bloody victory. Countless captives were taken in the aftermath, their fate to be sold for ships. Yet Daenerys could not bear the cruelties she saw, and in defiance of custom, she claimed many of the women for her own protection. Though this angered [drogo.GetFirstName]’s riders, he was pleased by her boldness and allowed it.\n\nIn the fighting, [drogo.GetFirstName] suffered wounds. The healers were occupied elsewhere but among the captives was a mystic who claimed they had knowledge of healing arts and offered to treat him. [drogo.GetFirstName]'s bloodriders muttered darkly of sorcery, but the decision lay with Daenerys. She alone could choose whether to trust the stranger with her Sun and Stars' life."
-dynamic_scenarios_agot.1081.a:0 "Let the healer tend to [drogo.GetFirstName]’s wounds."
-dynamic_scenarios_agot.1081.b:0 "Refuse this witch—[drogo.GetFirstName] is right it is just a scratch."
-
-dynamic_scenarios_agot.1082.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1082.desc:0 "[drogo.GetFirstNamePossessive] wound festered until at last he fell from his horse. Among his people, a khal who cannot ride is no khal at all, and whispers spread swiftly through the camp. Daenerys ordered the riders to make camp and claimed the command as [drogo.GetFirstName]’s own, but the truth could not be hidden for long.\n\nBrought into his tent, [drogo.GetFirstName] lay pale and failing. Even those closest to Daenerys counseled her to flee, warning that once [drogo.GetFirstName] died a struggle for power would follow, and she and her unborn child would be in peril. But Daenerys would not abandon her husband.\n\n [witch.GetName] offers to save him, through the use of #difficulty_very_hard;bold Blood Magic#!.\n\n'#bold Only #difficulty_hard Death#! can pay for life.'#!"
-dynamic_scenarios_agot.1082.a:0 "Please save him!"
-dynamic_scenarios_agot.1082.b:0 "I am sorry [drogo.GetFirstName]. I will tell Rhaego of you."
-dynamic_scenarios_agot.1082.b.tt:0 "Daenerys and her followers flee while there is still time."
-
-dynamic_scenarios_agot.1083.t:0 "The Game of Thrones"
-
-# Canon-like outcome
-dynamic_scenarios_agot.1083.t:0 "The Game of Thrones"
-
-# Canon version
-dynamic_scenarios_agot.1083.desc:0 "The cries of childbirth filled the tent, mingled with the stench of blood and smoke. When it was done, the khalasar whispered of curses and shadows. Rhaego, the stallion who was to mount the world, was born still and lifeless. And [drogo.GetFirstName]… he yet lived, but the man who was a khal was gone. His eyes stared empty, his body moved only with aid, a husk of the lord husband Daenerys had known.\n\nDaenerys turned to [witch.GetFullName] whom she had trusted.\n\nThe witch’s #difficulty_hard smile#! was thin and cold.\n\n#bold 'Only death may pay for life,'#! [witch.GetName] said again.\n\n#bold 'And even then, the scales are never balanced.'#!"
-# Dark revival version
-dynamic_scenarios_agot.1083.desc_resurrected_drogo:0 "The tent echoed with screams, and when silence came it was heavy and cold. Rhaego, the child of prophecy, was dead. But [drogo.GetFirstName] opened his eyes once more—no longer weak, no longer broken. There was strength in him, yet something else as well, a shadow coiled behind his gaze. He rose with a will not his own, an evil hunger burning where once there had been love. Daenerys knew the price of life had been bought in blood and doom."
-dynamic_scenarios_agot.1083.a:0 "You will burn for this treachery"
-dynamic_scenarios_agot.1083.b:0 "I am so sorry."
-
-dynamic_scenarios_agot.1084.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1084.desc:0 "Rhaego, the stallion who was to mount the world, is gone. Grief turns to fire in Daenerys’s heart as she orders the witch who betrayed her bound in chains. A great pyre is raised, and before the gathered khalasar she proclaims herself a queen. Those who remain are her people now, and the slaves she sets free.\n\nUpon the pyre she sets her three dragon eggs, glittering in the firelight, and with them the one who wronged her, bound to the flames. #bold 'Only death may pay for life,'#! she declares.\n\nWhen the first star blazes red across the night sky, the fire is kindled.\n\n As the pyre roars and the heavens burn, Daenerys Targaryen walks into the flames."
-dynamic_scenarios_agot.1084.a:0 "The dragon enters the fire."
-
-dynamic_scenarios_agot.1085.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1085.desc:0 "At dawn the pyre was ash, its heat faded to embers. From the smoke and cinders, Daenerys Targaryen rose, naked yet unburnt, three newborn dragons coiled against her breast. The creatures of legend, thought lost for more than a century, had returned to the world.\n\nThe khalasar beheld the miracle in silence, and then they knelt. One by one, every man and woman bent the knee to her, swearing oaths more fierce and true than ever given to [drogo.GetFirstName]. In fire and blood, Daenerys had become more than a queen—she was the Mother of Dragons."
-dynamic_scenarios_agot.1085.a:0 "The dragons are reborn."
-
-dynamic_scenarios_agot.1086.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1086.desc:0 "The cries of labor gave way to the first wail of new life. Daenerys Targaryen delivered her son into the world, strong and hale. The child was named Rhaego, after her fallen brother Rhaegar, and the riders whispered of prophecy fulfilled. This was the stallion who mounts the world, destined to unite the khalasars beneath one banner and ride to glory.\n\nHope and fear alike stirred in every heart, for with the birth of Rhaego the course of the world itself seemed to shift."
-dynamic_scenarios_agot.1086.a:0 "The stallion who mounts the world is born."
-
-dynamic_scenarios_agot.1087.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1087.desc:0 "The Dothraki are a people of signs, and the omens now are unmistakable. The red comet blazes across the sky, and the birth of the stallion who mounts the world has stirred prophecy to life. The crones speak of conquest, and the riders whisper that the gods themselves favor war.\n\nOne by one, the khalasars turn their eyes to you. Warriors flock to your call, eager to ride beneath the banner of blood and fire. A loyal horde gathers, vast and unyielding, ready to sweep across the world in your name."
-dynamic_scenarios_agot.1087.a:0 "The riders gather—the world will tremble."
-
-dynamic_scenarios_agot.1088.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1088.desc:0 "Exiled in the Free Cities, the last children of House Targaryen live at the mercy of others. Now their host, a wealthy magister, has arranged a union meant to change their fortunes. Daenerys is promised in marriage to Khal [drogo.GetFirstName], a warlord whose khalasar rides a hundred thousand strong. In return, Viserys dreams of the army that will one day carry him back across the narrow sea to claim his father’s throne.\n\nDaenerys is afraid, a girl given to a stranger, yet her brother insists this is the path to their salvation. All that remains is to await [drogo.GetFirstNamePossessive] arrival, and with him, the fate of the dragon’s last heirs."
-dynamic_scenarios_agot.1088.a:0 "The dragon’s path is set."
-
-dynamic_scenarios_agot.1089.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1089.desc:0 "I walked among the slave-soldiers, silent ranks of men who had been stripped of choice, trained only to kill and obey. Their masters boasted of their discipline, sneering as they spoke, believing me blind to their cruelty. They thought me a foolish girl, unfit to bargain in their markets.\n\nBut I am blood of the dragon. Before the gathered crowd, I claimed command of the soldiers I had purchased, and in that moment I revealed my true intent. With fire and steel, I turned their own strength upon them. Chains were shattered, whips cast down, and a city of slaves was freed.\n\nWhen the flames died, the soldiers stood before me not as thralls but as men. I offered them freedom—and most placed their spears in my service still. A new host now marches at my back, not as slaves, but as my chosen."
-dynamic_scenarios_agot.1089.a:0 "They follow me as free men."
-
-dynamic_scenarios_agot.1090.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1090.desc:0 "The war drags on, and the so-called [robb.GetName] still clings to [robb.GetHerHis] crown.\n\nYet all men have their price, and among his vassals there are whispers of hunger and resentment. A word in the right ear, a promise of reward, and loyalty may turn to treachery.\n\nThe crown need not bloody its own hands. If discontented lords could be given tacit approval, they would do the work themselves—murder their liege beneath the guise of peace and feast, and send [robb.GetHerHis] cause to ruin. The realm would be spared further war, and those bold enough to act would be well rewarded."
-dynamic_scenarios_agot.1090.a:0 "Reach out to the disloyal—let them do what must be done."
-dynamic_scenarios_agot.1090.b:0 "No—such treachery is too vile, even if it ends the war."
-
-
-dynamic_scenarios_agot.1091.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1091.desc:0 "A message arrives in secret, the wax broken under torchlight. The words are few, but their meaning is clear:\n\n #italic 'Do what must be done, and you shall not want for reward.'#!\n\n It bears the hand of [red_wedding_planner.GetName], granting tacit approval for treachery most foul.\n\nLoyalty is a noble word, but what has it brought you? [robb.GetName] bleeds the realm for his pride, dragging his banners through endless war while the Iron Throne grows ever stronger. Victory on the field is uncertain, but victory at the feast table could be assured.\n\nOffer bread and salt, smile through the vows, and let the music play. When cups are full and swords set aside, we will pass along the regards of the Lannisters."
-dynamic_scenarios_agot.1091.a:0 "Yes. I will see [robb.GetName] brought down at the feast."
-dynamic_scenarios_agot.1091.b:0 "No. Better to bide my time."
-
-dynamic_scenarios_agot.1092.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1092.desc:0 "The wolf may soon fall, and with him the crown of the North. When [robb.GetName] lies dead, there will be lands and titles enough to divide among the faithful. But only one house can claim the mantle of lordship over The North itself."
-dynamic_scenarios_agot.1092.a:0 "I choose...."
-dynamic_scenarios_agot.1092.a.tt:0 "Your pick will be named Warden of the North after the conclusion of the war."
-
-dynamic_scenarios_agot.1093.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1093.desc:0 "The ink is fresh, the words dressed in courtesy, yet every line drips with deceit. A letter is sent to [robb.GetName], inviting him and his household to a grand celebration. It speaks of peace, of friendship renewed, of bonds to be strengthened with wine and song.\n\nBut behind the welcome lies steel. This feast is no gift—it is a snare. With [red_wedding_planner.GetName]’s blessing, the hall shall run red, and the King in the North will fall not on the battlefield, but at the table. The war will end in slaughter, and the favor of the crown will be secured."
-dynamic_scenarios_agot.1093.a:0 "Send the invitation—the trap is set."
-
-dynamic_scenarios_agot.1094.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1094.desc:0 "A letter arrives, heavy with courtesy and fine words. One of your vassals invites you to a grand celebration, promising fellowship, feasting, and the renewal of old bonds. They speak of healing rifts and standing united, that the realm might endure these troubled times.\n\nYet the timing gives pause. War rages still, and every step beyond your camp is a risk. To attend would be to show trust—and perhaps win it in return. But to decline may breed resentment and whisper of insult. The choice is yours."
-dynamic_scenarios_agot.1094.a:0 "I will attend—let there be peace among friends."
-dynamic_scenarios_agot.1094.b:0 "I will not risk it—better to remain with my host."
-dynamic_scenarios_agot.1094.t:0 "The Game of Thrones"
-
-# Generic Feast
-dynamic_scenarios_agot.1094.desc.feast:0 "A letter arrives, written in fine and flowery words. One of your vassals invites you to a great feast in your honor, promising a night of song, fellowship, and renewed loyalty. They speak of celebrating your victories, of uniting lord and bannerman beneath one roof, and of binding the realm together in friendship once more.\n\nIt is a generous offer, yet the times are dangerous. To attend would show trust and might strengthen bonds—but to refuse could be seen as insult, sowing discord among your vassals."
-
-# Wedding
-dynamic_scenarios_agot.1094.desc.wedding:0 "An invitation comes bearing joyous tidings. One of your vassals bids you attend the wedding of [betrothed_1.GetFullName] and [betrothed_2.GetFullName]. They write of celebration, of wine and song, and of the honor it would bring to have their king beneath their roof on such a day. Old friendships, they promise, will be made new again beneath the marriage vows.\n\nYet in war, even weddings carry risk. To attend would show generosity and strengthen ties, but to decline might sour the loyalty of those who expect their king’s blessing."
-
-dynamic_scenarios_agot.1095.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1095.desc:0 "What was spoken of in shadows now blazes in the open. The King in the North spurned an invitation meant to mask treachery, and the vassals behind it have cast aside all pretense of loyalty. Their banners are raised not for their king, but for the Iron Throne.\n\nThe realm watches as once-sworn men turn cloak, abandoning their vows to strike at the wolf they once followed. A new front opens in the war, for rebellion has torn the North and Riverlands from within."
-dynamic_scenarios_agot.1095.a:0 "The plot is revealed—treachery becomes open war."
-
-dynamic_scenarios_agot.1096.t:0 "The Game of Thrones"
-
-# Feast
-dynamic_scenarios_agot.1096.desc.feast:0 "An invitation has gone out to all banners of the wolf. A great feast is to be held in honor of the King in the North, a night of meat and mead, oaths and fellowship. Lords and sworn swords are called to gather beneath one roof, to raise their cups in loyalty and share in celebration of their king.\n\nEach house must now decide how they will answer—whether to attend in fealty, or keep their distance in suspicion."
-
-# Wedding
-dynamic_scenarios_agot.1096.desc.wedding:0 "Messengers ride forth carrying joyous tidings: a wedding is to be held between [betrothed_1.GetFullName] and [betrothed_2.GetFullName], and all the banners of the wolf are bidden to attend. It is said the King in the North himself will honor the union, and the day will be one of song, vows, and merriment.\n\nYet in times of war, even weddings may carry hidden meanings. Each house must decide whether to answer the call, or remain behind their walls."
-  
-dynamic_scenarios_agot.1096.a:0 "I will attend."
-dynamic_scenarios_agot.1096.b:0 "I will send a family member."
-dynamic_scenarios_agot.1096.c:0 "I will remain in my hall."
-
-dynamic_scenarios_agot.1097.t:0 "The Game of Thrones"
-
-# Feast
-dynamic_scenarios_agot.1097.desc.feast:0 "The hall is alive with noise and song, torches smoking in the rafters, meat and wine flowing without end. Musicians play, knights laugh too loudly, and serving girls slip between benches with flushed cheeks. Lords boast of victories, men-at-arms bellow challenges, and the air grows thick with wine and heat.\n\nYet not every face is merry. Some lords sit stiff and silent, their cups barely touched, eyes darting too often toward the doors. Whispers curl in the corners, and once or twice you glimpse the dull gleam of mail beneath a guest’s robe. The feast goes on, but unease clings like smoke beneath the rafters."
-
-# Wedding
-dynamic_scenarios_agot.1097.desc.wedding:0 "The wedding hall blazes with torchlight, tables heavy with meat and wine. Pipes trill, drums thunder, and laughter rolls through the crowd as cups are raised to [bride.GetFullName] and [groom.GetFullName]. The vows are spoken, gifts exchanged, and the king himself smiles warmly at their union. For the moment, the hall is full of music, color, and cheer.\n\nYet not all join the merriment. A few lords sit withdrawn, drinking little, watching too closely. Nervous glances flicker between them, and more than once you think you see steel glinting beneath a robe. The songs grow louder, but shadows stir beneath the din."
-  
-dynamic_scenarios_agot.1097.a:0 "Let the revels continue."
-
-dynamic_scenarios_agot.1098.t:0 "The Game of Thrones"
-
-# Feast Ambush
-dynamic_scenarios_agot.1098.desc.feast:0 "The feast roars on, the air thick with smoke and song. A fiddler strikes up a new tune—shrill, fast, and jarring. Too harsh for dancing, too sharp for celebration. The sound sets teeth on edge. \n\nThen the doors slam shut. Men rise from the benches, and suddenly there is steel in their hands. The smiles are gone, the laughter silenced. Crossbows are raised from the gallery above, their strings drawn taut, and the first quarrels hiss into the hall. Screams rise as the revels turn to slaughter, wine spilling like blood across the tables."
-
-# Wedding Ambush
-dynamic_scenarios_agot.1098.desc.wedding:0 "The bedding is called for, the hall erupting with bawdy laughter. Musicians strike their fiddles, but the tune they play is no song of love or merriment. It is harsh, mocking, and wrong. The notes scrape like blades. \n\nThe doors crash shut, and the hall stills. A lord at the high table rises—not with a toast, but with a signal. Robes fall back, and chainmail glitters. Crossbows appear in the gallery above, and bolts fly hissing into the crowd. The wedding song becomes a dirge as blood pools on the rushes and guests cry out in terror."
-
-# Rare Survival Path
-dynamic_scenarios_agot.1098.desc.survived_ambush:0 "By desperate fortune and quick steel, you have survived the first storm of quarrels and blades. The hall is chaos—men screaming, tables overturned, torches falling from their sconces. Yet escape will not come cheaply. [leech_lord.GetName] stands before you, weapon drawn, blocking the only path to freedom. If you would live, you must cut him down here, in the heart of this treachery."
-  
-dynamic_scenarios_agot.1098.a:0 "The hall erupts in blood and betrayal."
-dynamic_scenarios_agot.1098.b:0 "The hall erupts in blood and betrayal."
-
-dynamic_scenarios_agot.1099.t:0 "The Game of Thrones"
-
-# Wedding – King Dies
-dynamic_scenarios_agot.1099.desc.wedding.death:0 "The wedding hall had erupted into slaughter. What began in music and song ended in crossbow bolts and steel. [robb.GetName], King in the North, was cut down amid the blood of his bannermen, murdered beneath the very roof where bread and salt had been shared. The vows of marriage turned to treachery, and the feast became a massacre. When dawn came, only corpses and ashes bore witness to the breaking of guest right."
-
-# Feast – King Dies
-dynamic_scenarios_agot.1099.desc.feast.death:0 "The feast that began with laughter ended in betrayal. The doors were barred, the music turned cruel, and the hall filled with quarrels and blades. [robb.GetName], King in the North, was struck down among his companions, butchered where he sat as guest and lord alike were slaughtered. The banners of the wolf fell that night in treachery, and the name of the feast would be remembered only in blood."
-
-# Wedding – King Survives
-dynamic_scenarios_agot.1099.desc.wedding.survive:0 "The bedding had been called, the music twisted into a cruel dirge, and treachery was loosed. Yet against all expectation, [robb.GetName], King in the North, fought his way clear of the wedding hall, though many of his sworn men perished in the slaughter. The conspirators who sought his death failed to slay the wolf, but they cast aside all pretense of loyalty. Their treachery laid bare, they now raise their banners openly for the Iron Throne."
-
-# Feast – King Survives
-dynamic_scenarios_agot.1099.desc.feast.survive:0 "The hall had erupted in sudden violence, laughter and song giving way to quarrels and blood. [robb.GetName], King in the North, escaped the slaughter by fortune and ferocity, though his companions paid dearly in death. His survival left the conspirators’ work unfinished, yet their betrayal could not be undone. With their perfidy revealed, they now march openly for the Iron Throne, joining the war as open foes of the North."
-  
-dynamic_scenarios_agot.1099.a:0 "The North will remember this."
-
-dynamic_scenarios_agot.1101.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1101.desc:0 "From humble origins as the bastard of Ned Stark, Jon Snow’s tale has spread far. He has shown valor battle, lived among the wildlings, and proven himself as a commander in the defense of Castle Black. As a leader he was bold, crossing boundaries that no other Black Brother has done before him. For his efforts, daggers were raised against him by his own brothers.\n\nYet he lives. Now he has left the Wall with an army at his back, and the South wonders what path the Bastard of Winterfell will choose."
-dynamic_scenarios_agot.1101.a:0 "All eyes turn to the North."
-dynamic_scenarios_agot.1101.b:0 "I wonder what comes next for this Jon Snow."
-
-dynamic_scenarios_agot.1102.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1102.desc:0 "The North is torn. From the Wall rides Jon Snow, once a brother of the Night’s Watch, now returned with steel at his back. He names his watch ended, and some whisper that fate itself has called him to claim Winterfell. Yet others name him oathbreaker and bastard still, unworthy of lordship or crown.\n\nAlready,  [usurper.GetNameNoTooltip] [usurper.GetHouse.GetNameNoTooltip] lays claim to the North, and his banners fly where once the direwolf held sway. Each house must now choose: will you cast your lot with the bastard of Winterfell, or bend the knee to the usurper who would rule in his stead?"
-dynamic_scenarios_agot.1102.a:0 "Support Jon Snow, true son of the North."
-dynamic_scenarios_agot.1102.b:0 "Stand with [usurper.GetNameNoTooltip] [usurper.GetHouse.GetNameNoTooltip]."
-
-dynamic_scenarios_agot.1103.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1103.desc:0 "Far across the seas, whispers reach your ears of the Iron Islands—rudderless, weak, their ruler unfit for the Seastone Chair. Salt and iron cry out for a king with vision, a kraken bold enough to seize the world in his grasp. You are Euron Crow’s Eye, and the long exile has run its course. Shall you return home in storm and blood, to carve your name into driftwood and bone? Or let the isles rot under feebler hands until the sea swallows them whole?"
-dynamic_scenarios_agot.1103.a:0 "Raise the black sails—I will claim the Seastone Chair."
-dynamic_scenarios_agot.1103.b:0 "Not yet. Let the isles fester in weakness."
-
-dynamic_scenarios_agot.1104.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1104.desc:0 "Word comes from the docks—Euron Crow’s Eye has returned. Long absent in exile, he now strides through the halls of the Ironborn with the swagger of a king and the malice of a reaver. His black sails are seen on every tide, and his whispers of salt and shadow spread among the captains. Some name him kraken reborn, others curse him as a blight upon the isles.\n\nNow he comes for you. Whether by dagger in the dark or open war upon the seas, Euron means to take the Seastone Chair, and the fate of the Iron Islands hangs upon his claim."
-dynamic_scenarios_agot.1104.a:0 "The Crow’s Eye dares to strike at his own blood."
-
-dynamic_scenarios_agot.1105.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1105.desc:0 "[black_eye.GetFirstNameNicknamed] has returned, his black sails rising once more upon the seas. Long absent, he now sets his gaze upon the Seastone Chair, and the captains of the isles speak his name with a mix of awe and dread. \n\nWhat his true purpose may be remains cloaked, but all agree it is dark and boundless—black as his eye, and as unforgiving as the sea itself."
-dynamic_scenarios_agot.1105.a:0 "The Crow’s Eye rises."
-
-
-greyjoy_event_troops:0 "Greyjoy Host"
-lannister_event_troops:0 "Lannister Host"
-stark_event_troops:0 "Stark Host"
-dothraki_event_troops:0 "Dothraki Khalasar"
-
-cce_agot_canon_events.0025.t:0 "The Dragon’s Claim"
-cce_agot_canon_events.0025.desc:0 "From Dragonstone comes a thunderous proclamation. Aegon Targaryen, Lord of the Dragonstone and rider of Balerion the Black Dread, has declared himself King of all Westeros. He names his claim over the Seven Kingdoms by fire and blood, and demands that every lord and lady bend the knee.\n\nAcross the realm and beyond, rulers weigh their fates. Some whisper of the doom of Valyria reborn, others scoff at the arrogance of a dragonlord. Yet the words spread swiftly, carried by raven and rumor alike: there is a new king, and he will have obedience—or he will have conquest."
-cce_agot_canon_events.0025.a:0 "The world holds its breath."
-
-cce_agot_canon_events.0026.t:0 "The Fall of the Black Dragon"
-cce_agot_canon_events.0026.desc:0 "The Redgrass Field ran red with blood as the hosts of crown and rebel clashed in a battle to decide the fate of the realm. When the sun set, the banners of the black dragon lay broken, and Daemon Blackfyre himself was struck down. His fall ended the rebellion, yet whispers already spread that his death came not with the honor of single combat, but by darker means.\n\nSo perished the mightiest foe the Iron Throne had ever faced—valiant, beloved, and betrayed in the very hour of his glory."
-cce_agot_canon_events.0026.a:0 "The Black Dragon falls, and with him his cause."
-
-cce_agot_the_unworthy:0 "The Unworthy"
-
-agot_more_bookmarks_tourney_at_harrenhal:0 "Tourney at Harrenhal"
-agot_more_bookmarks_tourney_at_harrenhal_desc:0 "In the Year of the False Spring, Lord Whent of Harrenhal calls the lords of Westeros to the grandest tourney in living memory. Beneath the splendor of the lists and the feasts, whispers coil through the hall—plots hatched in shadow, alliances struck in secret, and a king’s paranoia stoked ever higher.\n\nIt is here, amid the pageantry and the vows of knighthood, that rivalries sharpen and destinies shift. The crown rests uneasy, and from this tourney’s bright pomp shall flow the dark waters of rebellion."
-
-stark_war_for_the_north_cb:0 "War for the North"
-stark_war_for_the_north_name:0 "War for the North"
-
-dynamic_scenarios_agot.1106.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1106.desc:0 "With the war over and justice done, the question remains: who shall rule the North now?\n\nThe choice made here will the shape the future of The North."
-dynamic_scenarios_agot.1106.a:0 "Winter is coming."
-
-dynamic_scenarios_agot.1107.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1107.desc:0 "The war darkens, and enemies press from all sides. Yet there is one who might be ally as well as bride—Daenerys Targaryen, across the sea with dragons at her back. A union could bind ice and fire, forging strength enough to change the fate of kingdoms."
-dynamic_scenarios_agot.1107.a:0 "Send a proposal of marriage."
-dynamic_scenarios_agot.1107.b:0 "No. I will fight my battles alone."
-
-dynamic_scenarios_agot.1108.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1108.desc:0 "Ravens cross the sea, bearing Jon Snow’s proposal. The message speaks of alliance, of shared purpose, and of binding fire to ice in a single cause. Now Daenerys Targaryen must decide whether to take the hand offered, or to refuse and stand apart."
-dynamic_scenarios_agot.1108.a:0 "Accept the match—together, Ice and Fire shall unite."
-dynamic_scenarios_agot.1108.b:0 "Refuse—the dragon needs no wolf."
-
-
-k_the_northern_marches: 0 "The Northern Marches"
-
-k_the_sunset_marches: 0 "The Sunset Sea"
-
-k_the_westermarches: 0 "The Westermarches"
-
-k_the_kraken_rock: 0 "The Krakenrock"
-
-dynamic_scenarios_agot.1109.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1109.desc:0 "Jon Snow has proven himself bold, steadfast, and of rare mettle. Now he seeks what few would dare—permission to stand before one of your dragons, to test his bond with the fire-born beasts. To grant this is to risk much, yet should he succeed, a dragonrider at his side would bind wolf and dragon closer than ever before."
-dynamic_scenarios_agot.1109.a:0 "Let him approach the dragon."
-dynamic_scenarios_agot.1109.b:0 "No—the risk is too great."
-
-dynamic_scenarios_agot.1110.t:0 "The Game of Thrones"
-dynamic_scenarios_agot.1110.desc:0 "The beast loomed vast and terrible, eyes like burning coals, breath hot enough to sear the earth. Jon Snow stood his ground, heart hammering, yet something deeper stirred within him—an echo, faint but familiar, as if fire itself remembered him. Slowly, the dragon’s fury ebbed, and what remained was not rage but recognition.\n\nMan and beast regarded one another in silence, and in that silence a bond was forged."
-dynamic_scenarios_agot.1110.a:0 "The wolf finds kinship in fire."
 

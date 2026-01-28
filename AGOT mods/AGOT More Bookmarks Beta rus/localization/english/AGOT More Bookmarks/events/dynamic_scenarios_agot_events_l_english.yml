@@ -1,0 +1,591 @@
+﻿l_english:
+
+
+dynamic_scenarios_agot.1001.t: 0 "A Game of Thrones"
+dynamic_scenarios_agot.1001.desc: 0 "Through my network of informers, I've learned something of much interest. [bastard_heir.GetFirstName] is not the child of [king.GetNameRegnal].\n\nIn fact, [bastard_heir.GetSheHe] is the bastard of #L [real_father.GetName] [real_father.GetHouse.GetNameNoTooltip]#!\n\nIn the right hands, this information will cause realm shattering chaos and with that—the opportunity to increase my own standing.\n\nAll I must do, is choose my pawns."
+dynamic_scenarios_agot.1001.a: 0 "[legitimate_son.GetFullName]"
+dynamic_scenarios_agot.1001.a.tt: 0 "[legitimate_son.GetName] will be tipped off anonymously that [king.GetFirstNamePossessiveNoTooltip] alleged heir is a bastard."
+dynamic_scenarios_agot.1001.b: 0 "[legitimate_daughter.GetFullName]"
+dynamic_scenarios_agot.1001.b.tt: 0 "[legitimate_daughter.GetName] will be tipped off anonymously that [king.GetFirstNamePossessiveNoTooltip] alleged heir is a bastard."
+dynamic_scenarios_agot.1001.c: 0 "[legitimate_brother.GetFullName]"
+dynamic_scenarios_agot.1001.c.tt: 0 "[legitimate_brother.GetName] will be tipped off anonymously that [king.GetFirstNamePossessiveNoTooltip] alleged heir is a bastard."
+dynamic_scenarios_agot.1001.d: 0 "[legitimate_sister.GetFullName]"
+dynamic_scenarios_agot.1001.d.tt: 0 "[legitimate_sister.GetName] will be tipped off anonymously that [king.GetFirstNamePossessiveNoTooltip] alleged heir is a bastard."
+dynamic_scenarios_agot.1001.e: 0 "[legitimate_family.GetFullName]"
+dynamic_scenarios_agot.1001.e.tt: 0 "[legitimate_family.GetName] will be tipped off anonymously that [king.GetFirstNamePossessiveNoTooltip] alleged heir is a bastard."
+dynamic_scenarios_agot.1001.f: 0 "[bastard.GetFullName]"
+dynamic_scenarios_agot.1001.f.tt: 0 "[bastard.GetName] will be tipped off anonymously that [king.GetFirstNamePossessiveNoTooltip] alleged heir is a bastard."
+dynamic_scenarios_agot.1001.g: 0 "I'll pass."
+dynamic_scenarios_agot.1001.g.tt: 0 ""
+
+
+dynamic_scenarios_agot.1002.t: 0 "A Game of Thrones"
+dynamic_scenarios_agot.1002.desc: 0 "It was just like any other mundane day when I found myself clutching a scroll thrust into my hand by a hooded stranger.\n\n Before I could stop [schemer.GetHerHim], [schemer.GetSheHe] was gone.\n\nUpon opening this missive, I read a most unsettling warning.\n\n#italic "[king.GetNamePossessiveNoTooltip] heir is of bastard birth and not of his body, born of an unholy union. [king.GetNameNoTooltip] is in danger."#!"
+dynamic_scenarios_agot.1002.a: 0 "I must learn the truth of this."
+dynamic_scenarios_agot.1002.a.tt: 0 "You will begin an investigation to confirm this allegation"
+dynamic_scenarios_agot.1002.b: 0 "This is nonsense, I do not believe it."
+dynamic_scenarios_agot.1002.b.tt: 0 "Dismiss this anonymous note."
+
+
+dynamic_scenarios_agot.1003.t: 0 "A Game of Thrones"
+dynamic_scenarios_agot.1003.desc_true_heir: 0 "I will need help to further investigate the truth regarding [king.GetFirstNamePossessiveNoTooltip] children.\n\nOnly someone with honor and close to the royal family can assist me in this."
+dynamic_scenarios_agot.1003.desc_schemer: 0 "#L [true_heir.GetName] [true_heir.GetHouse.GetName]#! took the bait and enlisted the help of #L [investigator.GetName] [investigator.GetHouse.GetName]#! but with [investigator.GetHerHis] untimely death, the game of thrones has paused. I should quietly encourage a new man of honor to pick up this investigation...."
+dynamic_scenarios_agot.1003.a: 0 "[castellan.GetFullName]"
+dynamic_scenarios_agot.1003.a.tt: 0 "[castellan.GetName] will be prompted to help investigate this."
+dynamic_scenarios_agot.1003.b: 0 "[steward.GetFullName]"
+dynamic_scenarios_agot.1003.b.tt: 0 "[steward.GetName] will be prompted to help investigate this."
+dynamic_scenarios_agot.1003.c: 0 "[chancellor.GetFullName]"
+dynamic_scenarios_agot.1003.c.tt: 0 "[chancellor.GetName] will be prompted to help investigate this."
+dynamic_scenarios_agot.1003.d: 0 "[marshal.GetFullName]"
+dynamic_scenarios_agot.1003.d.tt: 0 "[marshal.GetName] will be prompted to help investigate this."
+dynamic_scenarios_agot.1003.e: 0 "[admiral.GetFullName]"
+dynamic_scenarios_agot.1003.e.tt: 0 "[admiral.GetName] will be prompted to help investigate this."
+dynamic_scenarios_agot.1003.f: 0 "[spymaster.GetFullName]"
+dynamic_scenarios_agot.1003.f.tt: 0 "[spymaster.GetName] will be prompted to help investigate this."
+dynamic_scenarios_agot.1003.g: 0 "[court_chaplain.GetFullName]"
+dynamic_scenarios_agot.1003.g.tt: 0 "[court_chaplain.GetName] will be prompted to help investigate this."
+dynamic_scenarios_agot.1003.h: 0 "There is nobody I can trust..."
+dynamic_scenarios_agot.1003.h.tt: 0 "I will wait to pick a partner in this."
+dynamic_scenarios_agot.1003.i: 0 "Let's pause the investigation for now."
+dynamic_scenarios_agot.1003.i.tt: 0 "You will wait 6 months to pick someone to investigate this."
+dynamic_scenarios_agot.1003.eddard: 0 "Ned Stark"
+dynamic_scenarios_agot.1003.eddard.tt: 0 "Ned Stark will be prompted to help investigate this."
+
+
+dynamic_scenarios_agot.1004.t: 0 "A Game of Thrones"
+dynamic_scenarios_agot.1004.desc: 0 "#L [rumor_spreader.GetName] [rumor_spreader.GetHouse.GetNameNoTooltip]#! had sent word requesting that we meet, in private.\n\nI did not know what I was expecting, but it was certainly not what [rumor_spreader.GetSheHe] would then tell me after we were certain nobody else could possibly hear us.\n\n[rumor_spreader.GetFirstName] asserts that [rumor_spreader.GetSheHe] there is a possibility that the heir of [king.GetNameRegnal] is not of legitimate birth.\n\nJust the whispers of this could be considered treason but if there is even a chance that it is true, my honor demands I investigate this.
+dynamic_scenarios_agot.1004.a: 0 "I will look into this."
+dynamic_scenarios_agot.1004.a.tt: 0 "This could lead to great tragedy."
+dynamic_scenarios_agot.1004.b: 0 "Find someone else, I will not be a part of this."
+dynamic_scenarios_agot.1004.b.tt: 0 "Send [rumor_spreader.GetName] away."
+
+
+dynamic_scenarios_agot.1005.t: 0 "A Game of Thrones"
+dynamic_scenarios_agot.1005.desc: 0 "My investigation moves forward into the legitimacy of [king.GetNamePossessiveNoTooltip] heir.\n\n"
+dynamic_scenarios_agot.1005.desc_secretive: 0 "As I quietly look into the matters of the royal family, I notice the secretive nature of heir's maternal family. It is #bold clear#! they are hiding something, but this is flimsy evidence alone."
+dynamic_scenarios_agot.1005.desc_appearance: 0 "I have been studying the appearance of [bastard_heir.GetFirstName]. The more I look at [bastard_heir.GetHerHim], the more I see that [bastard_heir.GetSheHe] does not look much like a member of #L House [king.GetHouse.GetName]#! or even like the king himself."
+dynamic_scenarios_agot.1005.desc_books: 0 "I have begun to bury myself into books. Going through the ancestry of [king.GetNameRegnal] has led me to believe that offspring from his family tend to share a common look.\n\nThe seed is strong!"
+dynamic_scenarios_agot.1005.desc_personality: 0 "The more time I spend around [king.GetFirstName] and [bastard_heir.GetName], the difference in temperament and character becomes like night and day.\n\nThey barely seem like they could be related!"
+dynamic_scenarios_agot.1005.desc_hoe: 0 "[queen.GetName] is noted to have slept around. As I learn the local gossip, this seems to strongly imply that her progeny could not be the King's."
+dynamic_scenarios_agot.1005.desc_bastard_appearance: 0 "[king.GetFirstNamePossessiveNoTooltip] bastard progeny looks much more like [king.GetHerHim] than [queen.GetFirstNamePossessiveNoTooltip] child."
+
+dynamic_scenarios_agot.1005.desc_mediocre_progress: 0 "\n\nI am making #warning mediocre#! progress in the investigation."
+dynamic_scenarios_agot.1005.desc_average_progress: 0 "\n\nI am making #P decent#! progress in the investigation."
+dynamic_scenarios_agot.1005.desc_good_progress: 0 "\n\nI am having #P good#! progress in the investigation."
+dynamic_scenarios_agot.1005.desc_very_good_progress: 0 "\n\nI am having #P very good#! progress in the investigation."
+dynamic_scenarios_agot.1005.a: 0 "I will look into this."
+dynamic_scenarios_agot.1005.a.tt: 0 "This could lead to great tragedy."
+dynamic_scenarios_agot.1005.b: 0 "Find someone else, I will not be a part of this."
+dynamic_scenarios_agot.1005.b.tt: 0 "Send [rumor_spreader.GetName] away."
+
+dynamic_scenarios_agot.1006.t: 0 "A Game of Thrones"
+dynamic_scenarios_agot.1006.desc: 0 "The heir of #L [king.GetName] [king.GetHouse.GetNameNoTooltip]#! is without a doubt a bastard.\n\nIt is my duty to [king.GetFirstNameNoTooltip] and to the realm that I ensure [bastard_heir.GetFirstName] does not steal the throne from the rightful heir.\n\nRevealing this information will have grave consequences. If I cannot convince [king.GetFirstNameNoTooltip], [king.GetSheHe] may name me a traitor for questioning the legitimacy of the heir.\n\nEven if I succeed, I will have revealed a terrible crime that will likely result in bloodshed."
+dynamic_scenarios_agot.1006.a: 0 "I must tell [king.GetFirstNameNoTooltip]"
+dynamic_scenarios_agot.1006.a.tt: 0 "You will immediately present your evidence directly."
+dynamic_scenarios_agot.1006.b: 0 "I will speak with the Queen first, I do not want their blood on my hands."
+dynamic_scenarios_agot.1006.b.tt: 0 "#warning This may not be smart.#!"
+dynamic_scenarios_agot.1006.c: 0 "Now is not the right time."
+dynamic_scenarios_agot.1006.c.tt: 0 "I will wait to bring this information forward."
+
+dynamic_scenarios_agot.1007.t: 0 "A Game of Thrones"
+dynamic_scenarios_agot.1007.desc: 0 "#L [investigator.GetName] [investigator.GetHouse.GetNameNoTooltip]#! asked to meet quietly and I obliged. Once we were in private, he revealed something that shook me to the core. [bastard_heir.GetFirstName] was not my son at all, he claimed. A bastard of #L[real_father.GetName] [real_father.GetHouse.GetName]#!\n\nI can hardly believe it but [investigator.GetFirstName] is an honorable servant, [investigator.GetSheHe] would not lie about this would [investigator.GetSheHe]?"
+dynamic_scenarios_agot.1007.desc_queen_failed_murder: 0 "[queen.GetName] has brazenly attempted to murder me! Shortly after the reason behind this attack became clear, [investigator.GetName] informed me that after investigation, my children are not my children at all, but the ill-made bastards of [real_father.GetName]!\n\nThis is the highest of treasons and the punishment will befit the crime."
+dynamic_scenarios_agot.1007.desc_queen_attack: 0 "I am shook to my core when [investigator.GetName] is brought before me. Apparently [investigator.GetFirstName] had summoned [queen.GetName] to meet [investigator.GetHerHim] in the godswood, where they fought and my wife killed.\n\nNow before me and the rest of the court, [investigator.GetFirstName] proclaims that she was unfaithful and was attempting to silence me to protect her bastard spawn with [real_father.GetName].\n\nI do not know what to make of this."
+dynamic_scenarios_agot.1007.a: 0 "I will disinherit these bastards!"
+dynamic_scenarios_agot.1007.a.tt: 0 "The true parentage of any bastards will be revealed and their parents guilty of treason
+dynamic_scenarios_agot.1007.b: 0 "I'll kill every last one of them!"
+dynamic_scenarios_agot.1007.b.tt: 0 "#warning This may not be smart.#!"
+dynamic_scenarios_agot.1007.c: 0 "I just don't believe this."
+dynamic_scenarios_agot.1007.c.tt: 0 "I will wait to bring this information forward."
+dynamic_scenarios_agot.1007.d: 0 "You're a traitor!"
+dynamic_scenarios_agot.1007.d.tt: 0 "[investigator.GetFirstName] plotted to overthrow my heir and must be punished!"
+
+dynamic_scenarios_agot.1008.t: 0 "A Game of Thrones"
+dynamic_scenarios_agot.1008.desc: 0 "A Game of Thrones"
+dynamic_scenarios_agot.1008.desc_cersei: 0 "[queen.GetName] came to #L [investigator.GetName] [investigator.GetHouse.GetNameNoTooltip]#! at sunset, as the clouds reddened above the walls and towers. Her face was bruised.\n\n#bold “Why here?”#! she asked as she stood over him.\n\n#bold “So the gods can see. I know the truth.”#! he told her. [investigator.GetFirstNameNoTooltip] touched her cheek gently.#bold “Has he done this before?”\n\n“Never on the face before. Jaime would have killed him”#! Cersei said. #bold “My brother is worth a hundred of [king.GetFirstName].”\n\n“Your brother?”#! [investigator.GetFirstNameNoTooltip] said. #bold;italic “Or your lover?”#!"
+dynamic_scenarios_agot.1008.desc_generic: 0 "[queen.GetName] came to #L [investigator.GetName] [investigator.GetHouse.GetNameNoTooltip]#! at sunset, as the clouds reddened above the walls and towers.\n\n#bold “Why here?”#! she asked as she stood over him.\n\n#bold “So the gods can see. I know the truth.”#! he told her.\n\n#bold "[bastard_heir.GetFirstName] is the bastard of #L [real_father.GetName] [real_father.GetHouse.GetNameNoTooltip]#!. Tomorrow, I intend to lay the truth before [king.GetName]. You and your children must be gone by then. Take a ship, go as far as the winds blow."#!"
+dynamic_scenarios_agot.1008.a: 0 "When you play the Game of Thrones, you win or you die, Lord [investigator.GetHouse.GetNameNoTooltip]."
+dynamic_scenarios_agot.1008.a.tt: 0 "Murder is attempted on [king.GetNameNoTooltip]."
+dynamic_scenarios_agot.1008.a.success: 0 "Successful Plot"
+dynamic_scenarios_agot.1008.a.failure: 0 "Failed Plot"
+dynamic_scenarios_agot.1008.a.failure.tt: 0 "[queen.GetFirstNamePossessiveNoTooltip] treachery and her abominations are exposed."
+dynamic_scenarios_agot.1008.b: 0 "[king.GetName] will not believe these accusations."
+dynamic_scenarios_agot.1008.c: 0 "#bold *Puts hand on [investigator.GetFirstNamePossessiveNoTooltip] leg*#!, perhaps we can come to an arrangement?"
+dynamic_scenarios_agot.1008.d: 0 "Attempt to slay [investigator.GetFirstName] right here and now."
+dynamic_scenarios_agot.1008.f: 0 "Flee."
+
+
+ dynamic_scenarios_agot.1009.t: 0 "A Game of Thrones"
+ dynamic_scenarios_agot.1009.desc: 0 "Upon [king.GetFirstNamePossessiveNoTooltip] death, it came time to make a decision on how to handle the succession. If [king.GetFirstNameNoTooltip] had lived, I had hoped to present the evidence and together decide but now the responsbility falls to me alone.\n\nI can dispute the succession and attempt to crown the rightful heir. However this will be perilous if we fail.\n\nI must be careful."
+ dynamic_scenarios_agot.1009.a: 0 "Honor demands the rightful heir take the throne. [realm.GetHolder.GetFirstName] must be removed."
+ dynamic_scenarios_agot.1009.a.tt: 0 ""
+ dynamic_scenarios_agot.1009.b: 0 "This is too dangerous, I must not act rashly."
+ dynamic_scenarios_agot.1009.b.tt: 0 "
+ 
+ dynamic_scenarios_agot.1010.t: 0 "A Game of Thrones"
+ dynamic_scenarios_agot.1010.desc: 0 "While I trust my loyal guardsmen to execute our mission, I fear that the numbers may be too even when we move to take the pretender into custody.\n\nIn my hour of need, #L [schemer.GetName] [schemer.GetHouse.GetNameNoTooltip]#! offered to supplement my guardsmen with men loyal to [schemer.GetHerHim].\n\nTheir aid would certainly give us a great advantage."
+ dynamic_scenarios_agot.1010.a: 0 "Thank you for your support [schemer.GetName]."
+ dynamic_scenarios_agot.1010.a.tt: 0 ""
+ dynamic_scenarios_agot.1010.b: 0 "My guardsmen will be able to handle this task."
+ dynamic_scenarios_agot.1010.b.tt: 0 "
+ 
+ dynamic_scenarios_agot.1011.t: 0 "A Game of Thrones"
+ dynamic_scenarios_agot.1011.desc: 0 "[investigator.GetName] has accepted my offer of support in his attempt to secure the throne and to ensure his preferred heir takes the throne.\n\nI must ensure that I come out on the winning side of all of this."
+ dynamic_scenarios_agot.1011.a: 0 "I will betray [investigator.GetName]"
+ dynamic_scenarios_agot.1011.a.tt: 0 ""
+ dynamic_scenarios_agot.1011.b: 0 "He will have my support for now."
+ dynamic_scenarios_agot.1011.b.tt: 0 ""
+ 
+  dynamic_scenarios_agot.1012.t: 0 "A Game of Thrones"
+ dynamic_scenarios_agot.1012.desc: 0 "Escorted by the [investigator.GetHouse.GetNameNoTooltip] Household Guard, I marched into the courtroom where the pretender [realm.GetHolder.GetFirstName] sat upon the throne of [king.GetNameRegnal].\n\n I announce for the court to hear,#bold "You have no claim to this throne!"#! \n\nMy men proceeded towards [king.GetHerHim] and [king.GetHerHis] sworn swords to bring this crisis to its resolution.\n\n"
+ dynamic_scenarios_agot.1012.desc_betrayal: 0 "On our flanks, the local watchmen provided by #L [schemer.GetNameNicknamed] [schemer.GetHouse.GetNameNoTooltip]#! suddenly turned and faced us. All at once we were attacked on all sides."
+ dynamic_scenarios_agot.1012.desc_schemer_support: 0 "On our flanks, the local watchmen provided by #L [schemer.GetNameNicknamed] [schemer.GetHouse.GetNameNoTooltip]#! marched beside us, bolstering our number.\n\n"
+ dynamic_scenarios_agot.1012.desc_success: 0 "After a brief struggle, [realm.GetHolder.GetFirstName] was taken into custody."
+ dynamic_scenarios_agot.1012.desc_failure: 0 "[realm.GetHolder.GetFirstNamePossessive] swords cut down my men in bloody brawl. The survivors from massacre were then hauled off into the dungeons."
+ dynamic_scenarios_agot.1012.a: 0 "Sweet Victory"
+ dynamic_scenarios_agot.1012.a.tt: 0 ""
+ dynamic_scenarios_agot.1012.b: 0 "No!!!!"
+ dynamic_scenarios_agot.1012.b.tt: 0 "
+ 
+  dynamic_scenarios_agot.1013.t: 0 "A Game of Thrones"
+ dynamic_scenarios_agot.1013.desc: 0 "The [investigator.GetHouse.GetNameNoTooltip] Household Guard marched into the throne room with [investigator.GetNameNicknamed] at its head.\n\n[investigator.GetSheHe|U] announced for the whole court to hear,#bold "You have no claim to this throne!"#! \n\n[investigator.GetHerHis|U] men proceeded towards me and my sworn swords.\n\n"
+ dynamic_scenarios_agot.1013.desc_coup_failure: 0 "My swords cut down the traitors in bloody brawl. The survivors from massacre were then hauled off into the dungeons."
+ dynamic_scenarios_agot.1013.desc_coup_success: 0 "After a brief struggle we were defeated and apprehended."
+ dynamic_scenarios_agot.1013.desc_betrayal: 0 "#L [schemer.GetName] [schemer.GetHouse.GetNameNoTooltip]#! was instrumental in the affair as [schemer.GetSheHe] tipped us off to the attempted coup and used [schemer.GetHerHis] own men to surprise attack the [investigator.GetHouse.GetNameNoTooltip]s."
+ dynamic_scenarios_agot.1013.a: 0 "Bring me his head!"
+ dynamic_scenarios_agot.1013.a.tt: 0 ""
+ dynamic_scenarios_agot.1013.b: 0 "Send [investigator.GetName] to the Wall"
+ dynamic_scenarios_agot.1013.b.tt: 0 "
+ dynamic_scenarios_agot.1013.c: 0 "[investigator.GetSheHe|U] will remain a prisoner."
+ dynamic_scenarios_agot.1013.c.tt: 0 "
+ dynamic_scenarios_agot.1013.d: 0 "No!!!!"
+ dynamic_scenarios_agot.1013.d.tt: 0 "
+ 
+ dynamic_scenarios_agot.1014.t: 0 "A Game of Thrones"
+ dynamic_scenarios_agot.1014.desc: 0 "After the death of #L [king.GetNameRegnal] [king.GetHouse.GetNameNoTooltip]#!, [realm.GetHolder.GetFirstName] ascended to the throne. However, #L [investigator.GetName] [investigator.GetHouse.GetNameNoTooltip]#! marched into the throne room with the [investigator.GetHouse.GetNameNoTooltip] Household Guard in an attempt to arrest [realm.GetHolder.GetFirstNameNoTooltip], disputing [realm.GetHolder.GetHerHis] claim to the throne.\n\n[investigator.GetHouse.GetNameNoTooltip] and [investigator.GetHerHis] men were defeated and detained after a bloody massacre.\n\n"
+ dynamic_scenarios_agot.1014.desc_betrayal: 0 "#L [schemer.GetNameNicknamed] [schemer.GetHouse.GetNameNoTooltip]#! was instrumental in defeating the plot.\n\n"
+ dynamic_scenarios_agot.1014.desc_coup_success: 0 "After a brief struggle we were defeated and apprehended."
+ dynamic_scenarios_agot.1014.desc_schemer_support: 0 "On our flanks, the local watchmen provided by #L [schemer.GetNameNicknamed] [schemer.GetHouse.GetNameNoTooltip]#! marched beside us, bolstering our number.\n\n"
+ dynamic_scenarios_agot.1014.desc_investigator_executed: 0 "For this treason, [investigator.GetNameNoTooltip] was marched out before all to see.\n\n "My council wishes me to let [investigator.GetNameNoTooltip] live. Stripped of all titles and powers, [investigator.GetSheHe] would serve the realm in permanent exile. But they have soft hearts. So long as I am your ruler, treason shall never go unpunished! Bring me [investigator.GetHerHis] head!"\n\n[investigator.GetFirstNameNoTooltip] was then executed with [investigator.GetHerHis] own sword."
+ dynamic_scenarios_agot.1014.desc_investigator_imprisoned: 0 "[investigator.GetNameNoTooltip] remains a prisoner of the crown."
+ dynamic_scenarios_agot.1014.desc_investigator_exiled: 0 "For this treason,[investigator.GetNameNoTooltip] was banished from the realm."
+ dynamic_scenarios_agot.1014.a: 0 "..."
+ dynamic_scenarios_agot.1014.a.tt: 0 ""
+
+ dynamic_scenarios_agot.1015.t: 0 "A Clash of Kings"
+ dynamic_scenarios_agot.1015.desc: 0 "[king.GetFirstName] is dead and the bastard pretender [realm.GetHolder.GetFirstName] now sits my throne. I knew it would come to this.\n\nIt is time."
+ dynamic_scenarios_agot.1015.a: 0 "Prepare letters to the realm announcing your claim and the illegitamcy of the [realm.GetHolder.GetFirstName]."
+ dynamic_scenarios_agot.1015.a.tt: 0 ""
+ dynamic_scenarios_agot.1015.b: 0 "This is unwise."
+ dynamic_scenarios_agot.1015.b.tt: 0 "
+
+ dynamic_scenarios_agot.1016.t: 0 "A Clash of Kings"
+ dynamic_scenarios_agot.1016.desc: 0 "I, [true_heir.GetFirstNameNoTooltip] [true_heir.GetHouse.GetNameNoTooltip], declare upon my honor that [king.GetNameRegnal] left no trueborn issue of his body, the false [realm.GetHolder.GetFirstName] being an abomination born of bastardy between #L [queen.GetFirstName] [queen.GetHouse.GetNameNoTooltip]#! and #L [real_father.GetFirstNameNicknamed] [real_father.GetHouse.GetNameNoTooltip]#!. By right of birth and blood, I do this day lay claim to [realm.GetName].\n\n Let all true men declare their loyalty."
+ dynamic_scenarios_agot.1016.a: 0 "War is coming."
+ dynamic_scenarios_agot.1016.a.tt: 0 ""
+ 
+ dynamic_scenarios_agot.1017.t: 0 "A Clash of Kings"
+ dynamic_scenarios_agot.1017.desc: 0 "The time has come. I have gathered swords for my cause and now I must press my claim."
+ dynamic_scenarios_agot.1017.a: 0 "Let all true men declare their loyalty."
+ dynamic_scenarios_agot.1017.a.tt: 0 ""
+  dynamic_scenarios_agot.1017.b: 0 "The throne is mine."
+ dynamic_scenarios_agot.1017.b.tt: 0 ""
+ 
+
+ dynamic_scenarios_agot.1018.t:0 "The Game of Thrones"
+ dynamic_scenarios_agot.1018.desc:0 "Ravens bring dark tidings—[investigator.GetFirstName] is dead, cut down in the game of thrones.\n\nWord follows swift upon the grief: you are summoned to court, to bend the knee and swear your fealty.\n\nYet the blood in your veins runs hot, and your lords look to you for strength. Already there are voices whispering of banners, of vengeance, of crowns.\n\nThe realm waits to see how you will react."
+dynamic_scenarios_agot.1018.a: 0 "Declare Independence"
+ dynamic_scenarios_agot.1018.a.tt: 0 ""
+ dynamic_scenarios_agot.1018.b: 0 "We will overthrow [realm.GetHolder.GetFirstName], call the banners!"
+ dynamic_scenarios_agot.1018.b.tt: 0 ""
+ dynamic_scenarios_agot.1018.c: 0 "We must wait for the heir to the throne to act."
+ dynamic_scenarios_agot.1018.c.tt: 0 "[true_heir.GetName] and any other potential heirs will eventually declare for the throne."
+
+ dynamic_scenarios_agot.1019.t: 0 "A Clash of Kings"
+ dynamic_scenarios_agot.1019.desc: 0 "[true_heir.GetFirstName] intends to claim the throne but perhaps I would be the better ruler?\n\nNow may be my time to rise and claim what should have always been mine!"
+ dynamic_scenarios_agot.1019.a: 0 "Declare for the throne."
+ dynamic_scenarios_agot.1019.a.tt: 0 ""
+ dynamic_scenarios_agot.1019.b: 0 "Declare for the throne."
+ dynamic_scenarios_agot.1019.b.tt: 0 ""
+ dynamic_scenarios_agot.1019.c: 0 "I am not going to do anything."
+ dynamic_scenarios_agot.1019.c.tt: 0 "[true_heir.GetName] and any other potential heirs will eventually declare for the throne."
+
+ 
+ dynamic_scenarios_agot.1020.t: 0 "A Game of Thrones"
+ dynamic_scenarios_agot.1020.desc: 0 "The truth cannot be revealed.\n\nWe must strike now."
+ dynamic_scenarios_agot.1020.a: 0 "..."
+ dynamic_scenarios_agot.1020.a.tt: 0 ""
+ 
+ dynamic_scenarios_agot.1021.t: 0 "A Game of Thrones"
+ dynamic_scenarios_agot.1021.desc: 0 "The truth cannot be revealed.\n\nWe must strike now."
+ dynamic_scenarios_agot.1021.a: 0 "..."
+ dynamic_scenarios_agot.1021.a.tt: 0 ""
+ dynamic_scenarios_agot.1021.b: 0 "Declare for the throne."
+ dynamic_scenarios_agot.1021.b.tt: 0 ""
+ dynamic_scenarios_agot.1021.c: 0 "I am not going to do anything."
+ dynamic_scenarios_agot.1021.c.tt: 0 "[true_heir.GetName] and any other potential heirs will eventually declare for the throne."
+
+
+
+
+dynamic_scenarios_agot.1022.t: 0 "A Game of Thrones"
+dynamic_scenarios_agot.1022.desc: 0 "A dark scandal has arisen in the court of [king.GetNameRegnal].\n\n #L [investigator.GetName] [investigator.GetHouse.GetNameNoTooltip]#! brought forward accusations of illegitimacy towards the heir to throne, naming them a bastard of #L [real_father.GetName] [real_father.GetHouse.GetNameNoTooltip]#!.\n\n"
+dynamic_scenarios_agot.1022.desc_disinherit: 0 "By the order of [king.GetNameRegnal], the adulterers were named traitors and the abominations were immediately delegitmized and named as bastards."
+dynamic_scenarios_agot.1022.desc_execute: 0 "By the order of [king.GetNameRegnal], the adulterers were named traitors and the abominations were executed to avoid any challenge to his throne."
+dynamic_scenarios_agot.1022.desc_noaction: 0 "[king.GetName] dismissed the claims as false but stopped short of naming [investigator.GetFirstName] a traitor."
+dynamic_scenarios_agot.1022.desc_disloyal: 0 "By the order of [king.GetNameRegnal], the accuser was named a traitor and thrown into a cell for his disloyalty to the heir to the throne."
+dynamic_scenarios_agot.1022.a: 0 "Troubling news."
+dynamic_scenarios_agot.1022.a.tt: 0 ""
+dynamic_scenarios_agot.1022.b: 0 ""
+dynamic_scenarios_agot.1022.b.tt: 0 ""
+
+
+dynamic_scenarios_agot.1023.t: 0 "A Game of Thrones"
+dynamic_scenarios_agot.1023.desc_cersei: 0 "[queen.GetName] came to #L [investigator.GetName] [investigator.GetHouse.GetNameNoTooltip]#! in the godswood at sunset, as the clouds reddened above the walls and towers. Her face was bruised.\n\n#bold “Why here?”#! she asked as she stood over him.\n\n#bold “So the gods can see. I know the truth.”#! he told her. [investigator.GetFirstNameNoTooltip] touched her cheek gently.#bold “Has he done this before?”\n\n“Never on the face before. Jaime would have killed him”#! Cersei said. #bold “My brother is worth a hundred of [king.GetFirstName].”\n\n“Your brother?”#! [investigator.GetFirstNameNoTooltip] said. #bold;italic “Or your lover?”#!\n\n"
+dynamic_scenarios_agot.1023.desc_generic: 0 "[queen.GetName] came to #L [investigator.GetName] [investigator.GetHouse.GetNameNoTooltip]#! in the godswood at sunset, as the clouds reddened above the walls and towers.\n\n#bold “Why here?”#! she asked as she stood over him.\n\n#bold “So the gods can see. I know the truth.”#! he told her.\n\n#bold "[bastard_heir.GetFirstName] is the bastard of #L [real_father.GetName] [real_father.GetHouse.GetNameNoTooltip]#!. Tomorrow, I intend to lay the truth before [king.GetName]. You and your children must be gone by then. Take a ship, go as far as the winds blow."#!\n\n"
+dynamic_scenarios_agot.1023.desc_game_of_thrones: 0 "To [queen.GetFirstNamePossessiveNoTooltip] credit, she did not deny it.#bold "When you play the game of thrones, you win or you die, there is no middle ground."#!\n\nShe turned up her hood and left [investigator.GetNameNoTooltip] there admist the quiet of the godswood."
+dynamic_scenarios_agot.1023.desc_noaction: 0 "#bold "[king.GetFirstName] will never believe such a lie."#!, [queen.GetFirstName] said. #bold "You will be a traitor to the realm for this allegation, [investigator.GetHouse.GetNameNoTooltip], and you'll head will be on a spike for it."#!"
+dynamic_scenarios_agot.1023.desc_seduction: 0 "She put her hand on his leg, just above the knee. #bold “If friends can turn to enemies, enemies can become friends.#! Her fingers brushed lightly against [investigator.GetHerHis] thigh, the gentlest of promises. #bold "Be kind to me, [investigator.GetFirstNameNoTooltip]. I swear to you, you shall never regret it.”#!"
+dynamic_scenarios_agot.1023.desc_flee: 0 "[queen.GetName] was startled but still defiant. #bold "This is not the end. Only the beginning."#!, she said before fleeing in a rush."
+dynamic_scenarios_agot.1023.desc_attack: 0 "As we spoke, all of sudden [queen.GetFirstNameNoTooltip] revealed a blade, attempting to silence me!"
+dynamic_scenarios_agot.1023.a: 0 "Gods help you."
+dynamic_scenarios_agot.1023.a.tt: 0 ""
+dynamic_scenarios_agot.1023.b: 0 "I..I.."
+dynamic_scenarios_agot.1023.b.tt: 0 "You sully your honor and give in to your lust."
+ 
+ dynamic_scenarios_agot.1024.t: 0 "A Game of Thrones"
+ dynamic_scenarios_agot.1024.desc: 0 "With the pretender in custody, I now must set things right.\n\nWho is the rightful heir to [realm.GetName]?"
+ dynamic_scenarios_agot.1024.a: 0 "[jon_snow.GetName]"
+ dynamic_scenarios_agot.1024.a.tt: 0 "" 
+ dynamic_scenarios_agot.1024.e: 0 "I shall rule."
+ 
+ dynamic_scenarios_agot.1025.t: 0 "A Game of Thrones"
+ dynamic_scenarios_agot.1025.desc: 0 "After the death of #L [king.GetNameRegnal] [king.GetHouse.GetNameNoTooltip]#!, #L [investigator.GetName] [investigator.GetHouse.GetNameNoTooltip]#! took the heir into [investigator.GetHerHis] custody by force and proclaimed [bastard_heir.GetFirstName] to be illegitimate, the bastard of #L [queen.GetFirstName] [queen.GetHouse.GetNameNoTooltip]#! and #L [real_father.GetName] [real_father.GetHouse.GetNameNoTooltip]#!.\n\nAfterwards, [investigator.GetFirstNameNicknamedNoTooltip] called upon #L [realm.GetHolder.GetFirstName] [realm.GetHolder.GetHouse.GetNameNoTooltip]#! to take the throne as the rightful heir."
+ dynamic_scenarios_agot.1025.a: 0 "This is too crazy to believe."
+ dynamic_scenarios_agot.1025.a.tt: 0 "" 
+ dynamic_scenarios_agot.1025.e: 0 "I shall rule."
+ 
+ 
+dynamic_scenarios_agot.1060.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1060.desc:0 "Jon Arryn is dead. The man who raised me alongside Robert and taught me the ways of honor and duty.\n\nNow King Robert himself is here at Winterfell with half the court in his train, come north after so many years to place a heavy burden upon my shoulders. He bids me be his Hand.\n\nLysa Arryn’s letter haunts me. She swears her husband was murdered by the Lannisters, and warns that Robert is in peril.\n\nAnd now, as if the gods themselves sought to try me, my boy Bran has fallen from a tower window, broken and unmoving. His fate hangs by a thread.\n\nI am torn between two paths: remain here in the North, where my children need me and Winterfell is safe from southern treachery—or ride south to answer Robert’s call, risking all to guard my king and uncover the truth of Jon Arryn’s death. The choice is mine, and the weight of it may shape the fate of all Westeros."
+dynamic_scenarios_agot.1060.a:0 "I will go south, to serve Robert as Hand."
+dynamic_scenarios_agot.1060.b:0 "My duty is here in the North. I will not go."
+dynamic_scenarios_agot.1061.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1061.desc:0 "At the Inn of the Crossroads, Catelyn Stark spied a familiar face by the hearth—Tyrion Lannister.\n\nLittlefinger’s words echoed in her mind: it was his dagger used in the attempt on young Bran’s life. Now, by chance, the man accused stood within her reach.\n\nThe hall was filled with men loyal to her father’s house and Winterfell. With a word, she could call upon their oaths and see the Imp seized. To act was to risk the wrath of House Lannister; to stay her hand was to risk Bran’s attacker going unpunished."
+dynamic_scenarios_agot.1061.a:0 "Seize the Imp"
+dynamic_scenarios_agot.1061.b:0 "Remain silent and let him go."
+dynamic_scenarios_agot.1062.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1062.desc:0 "News reached me in Casterly Rock that my son Tyrion has been seized by Catelyn Stark, carried off like a common brigand’s prize. An outrage—an insult to my blood, to my house, to me. The Starks and Tullys dare lay hands on a Lannister of Casterly Rock.\n\nThey shall learn the price of such folly. If they would steal my son, I will answer with fire and sword. I will see the Riverlands burn, their fields turned to ash, their people driven before my banners.\n\nLet them remember that a Lannister always pays his debts."
+dynamic_scenarios_agot.1062.a:0 "Summon the banners. The Riverlands will pay in blood."
+dynamic_scenarios_agot.1063.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1063.desc:0 "Word spreads quickly across the realm: Tyrion Lannister, son of Lord Tywin, has been seized by Lady Catelyn Stark on the kingsroad to answer for some crime.\n\nThe insult has not gone unanswered. At Casterly Rock and Lannisport, the banners of the Westerlands are called forth, knights and levies gathering in great number under the Lion’s standard.\n\nRumors now abound that the host marches eastward. If so, the Riverlands may soon be set aflame, and the peace of the realm broken."
+dynamic_scenarios_agot.1063.a:0 "The lions are on the move."
+dynamic_scenarios_agot.1064.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1064.desc:0 "The riverlands burn, torn between lions and wolves. Now Robb Stark, Lord of Winterfell, has been hailed King in the North by his bannermen, and he calls upon you to stand with him. The memory of his father’s execution stirs hearts to fury, and many cry for vengeance.\n\nYet to bend the knee to Robb is to make common cause with the North against the Iron Throne itself. To refuse is to stand apart—and perhaps alone—while war consumes the realm."
+dynamic_scenarios_agot.1064.a:0 "Swear fealty to Robb Stark, King in the North."
+dynamic_scenarios_agot.1064.b:0 "Hold back. The riverlands must fend for themselves."
+dynamic_scenarios_agot.1065.t:0 "The Wolf and the Kraken"
+dynamic_scenarios_agot.1065.desc:0 "My bannermen are eager to take the fight to the Southerners, but we are in a precarious position.\n\nTheon Greyjoy, raised beside me like a brother, now kneels before me with eagerness in his eyes. He would return to the Iron Islands, win over his father, and bring the strength of the kraken to our cause.\n\nYet my lady mother’s words linger in my thoughts: 'Never trust a Greyjoy.'\n\n The Ironborn are a proud and treacherous people, and to send Theon back is to place faith in Balon Greyjoy’s honor—if such a thing exists."
+dynamic_scenarios_agot.1065.a:0 "I will send Theon home to Pyke. We must risk it for the chance of House Greyjoy's support."
+dynamic_scenarios_agot.1065.a.tt:0 "Theon sails for the Iron Islands, carrying my trust and hopes of alliance."
+dynamic_scenarios_agot.1065.b:0 "No. Theon stays by my side. I will not gamble on Balon’s word."
+dynamic_scenarios_agot.1065.b.tt:0 "The Ironborn remain uncertain, but Theon stays where I can see him."
+
+dynamic_scenarios_agot.1066.t:0 "The Ironborn Shall Rise"
+
+dynamic_scenarios_agot.1066.desc_theon_offer:0 "The boy Theon returns at last, a man grown.... and clad in wolf’s colors. He speaks of Robb Stark, King in the North, who seeks kraken sails against the lions of Casterly Rock.\n\nTheon begs me like a child to join their cause, swearing the Starks will honor the Ironborn with gold and land for our aid. Yet I hear my son’s words and think only of chains. The Starks are not my kin, nor my masters. They would have me bend my knee again, and call it alliance.\n\n Only I will decide what the future is for House Greyjoy."
+
+dynamic_scenarios_agot.1066.desc_no_theon_offer:0 "The seas roar and the winds of war blow across the realm. The lions and wolves gnaw at each other, leaving their flanks bare. I owe no debt to Stark or Lannister, but I smell weakness upon the mainland. This is the hour for the kraken to strike. Should we raid the Westerlands, rich with gold and fat plunder? Or sail upon the North, empty of armies, ripe for reaving? The mainlanders will learn once more that what is dead may never die, and that the Ironborn take their due with fire and steel."
+
+dynamic_scenarios_agot.1066.a:0 "The North is vulnerable!"
+dynamic_scenarios_agot.1066.a.tt:0 "The Iron Islands shall invade the North"
+dynamic_scenarios_agot.1066.b:0 "The West has great riches"
+dynamic_scenarios_agot.1066.b.tt:0 "The Ironborn shall harry the coastline of the Westerlands."
+
+
+dynamic_scenarios_agot.1067.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1067.desc:0 "Lord Jon Arryn, the Hand of the King, is dead. King Robert Baratheon has journeyed north to Winterfell with Queen Cersei and his court, where he has named Lord Eddard Stark as his new Hand.\n\nEven as the court lingers in the North, dark whispers spread. Old rivalries stir, the great houses maneuver, and the peace forged at the end of Robert’s Rebellion begins to fray. Across the Narrow Sea, news comes of the wedding of Daenerys Targaryen to a Great Dothraki Khal.\n\nEvery lord must consider their place in the storm to come. War, intrigue, and treachery threaten to engulf the realm, for the game of thrones has begun."
+dynamic_scenarios_agot.1067.a:0 "The game begins."
+
+dynamic_scenarios_agot.1068.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1068.desc:0 "The rose of Highgarden is in bloom, and with her beauty comes power. If Margaery is wed with care, she may yet wear a crown and place our house above all others. The choice of husband will decide the reach of our ambition."
+dynamic_scenarios_agot.1068.desc_rejected:0 "Our offer has been rejected.... perhaps another?"
+dynamic_scenarios_agot.1068.king:0 "[king.GetNameNicknamedRegnal]"
+dynamic_scenarios_agot.1068.robert:0 "Robert"
+dynamic_scenarios_agot.1068.joffrey:0 "Joffrey"
+dynamic_scenarios_agot.1068.renly:0 "[renly.GetNameNicknamedRegnal]"
+dynamic_scenarios_agot.1068.stannis:0 "[stannis.GetNameNicknamedRegnal]"
+dynamic_scenarios_agot.1068.tommen:0 "Tommen"
+dynamic_scenarios_agot.1068.robb:0 "[robb.GetNameNicknamedRegnal]"
+dynamic_scenarios_agot.1068.viserys:0 "[viserys.GetNameNicknamedRegnal]"
+dynamic_scenarios_agot.1068.faegon:0 "[faegon.GetNameNicknamedRegnal]"
+dynamic_scenarios_agot.1068.wait:0 "I will not make a decision now."
+dynamic_scenarios_agot.1068.stop:0 "Margaery doesn't need to be queen, I will find her a suitable match normally."
+
+dynamic_scenarios_agot.1069.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1069.desc:0 "An offer comes from Highgarden: the maiden Margaery Tyrell, fairest flower of the Reach, is proffered in marriage.\n\nThe match would bind your house to one of the richest and most powerful in the realm, with gold and armies enough to tip the balance of any war.\n\nYet such ties do not come without cost, and to wed a rose is to entwine yourself in thorns."
+dynamic_scenarios_agot.1069.a:0 "Accept the match—our fortunes will flourish with the Reach."
+dynamic_scenarios_agot.1069.b:0 "Refuse—we have no need of Tyrell ambition."
+
+dynamic_scenarios_agot.1070.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1070.desc:0 "Word returns from Highgarden: House Tyrell has declined the offer of marriage and alliance. Margaery shall not wed the King, and the Reach will not march beneath the banner of the Iron Throne. \n\nThe lords of the realm whisper that the Tyrells weigh other suitors — and without their strength, the war ahead will be far harder fought."
+dynamic_scenarios_agot.1070.a:0 "They will regret this!"
+
+dynamic_scenarios_agot.1071.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1071.desc:0 "The heat of King’s Landing weighs heavy, yet heavier still are the questions left by Jon Arryn’s death. In his last days he and Lord Stannis had moved together, quiet and secretive, visiting blacksmiths and brothels alike. The Grand Maester tells me Jon had also been poring over an old tome—#bold The Lineages and Histories of the Great Houses of the Seven Kingdoms#!. Strange reading for the Hand of the King.\n\nPetyr Baelish, Cat’s childhood friend, has aided in these matters. From him I have learned that the dagger used in the attempt on young Bran’s life belonged to Tyrion Lannister himself.\n\nBastard children of Robert, a dusty book of bloodlines, and now a weapon traced to the Queen’s brother… these fragments lie before me like pieces of a puzzle, yet the picture they form remains hidden.\n\nJon Arryn sought the truth of something—and for it, he was silenced. I must tread carefully if I would discover what he learned before me."
+dynamic_scenarios_agot.1071.a:0 "I will uncover what Jon Arryn died for."
+
+
+dynamic_scenarios_agot.1072.t:0 "Promise me Ned"
+dynamic_scenarios_agot.1072.desc:0 "Sleep offers me no peace. Instead, I walk once more beneath the red mountains of Dorne, to the Tower of Joy. My companions ride at my side—six loyal men who followed me south and never returned home. Before the tower stand the Kingsguard, their white cloaks blowing in the wind. Ser Arthur Dayne, the Sword of the Morning. Ser Oswell Whent. Ser Gerold Hightower, the White Bull, Lord Commander of the Kingsguard.\n\n‘We swore a vow,’ they say. I hear the clash of swords, the cries of dying men, and feel again the ache of wounds that never truly healed. I climb the steps to where Lyanna waits, her bed drenched in blood. I hear her voice, faint and desperate, whispering to me: ‘Promise me, Ned…’"
+dynamic_scenarios_agot.1072.a:0 "I promise Lya, I promise"
+dynamic_scenarios_agot.1072.b:0 "Jon must know the truth."
+dynamic_scenarios_agot.1072.b.tt:0 "#bold Tomard! You will set sail for Eastwatch-by-the-sea tonight. You will place this letter in the hand of my son Jon. Not the Lord Commander, not the Maester, nor my brother Benjen. Only Jon himself.#!"
+dynamic_scenarios_agot.1072.b.tt_jon_snow:0 "Jon will learn about his parentage."
+
+dynamic_scenarios_agot.1073.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1073.desc:0 "News from the south cuts deep—my father, Lord Eddard Stark, is dead, and Robb leads the North to war against the Lannisters. My heart longs to ride to my brother’s side, yet I am sworn to the Night’s Watch.\n\nMaester Aemon tells me of the times when his vows were tested.\n\n#bold 'We're all human. Oh, we all do our duty when there's no cost to it. Honor comes easy then. Yet, sooner or later in every man's life there comes a day when it's not easy. A day when he must choose.'\n\n'You must make that choice yourself. And live with it for the rest of your days'#"
+dynamic_scenarios_agot.1073.a:0 "I am of the Night’s Watch. My place is here."
+dynamic_scenarios_agot.1073.b:0 "I will ride south to join Robb and my family."
+
+dynamic_scenarios_agot.1074.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1074.desc:0 "Winterfell lies within my grasp. Robb marches in the south, his banners far from home, and I hold his seat and his people in my power. I was raised here, half as a son, yet never truly one of them. Now I must decide whether to show mercy—or to claim Winterfell by fire and sword.\n\nIf I spare the Starks’ seat, I betray my father’s command and risk being seen as weak. If I sack it, I will prove my loyalty to the kraken, but forever brand myself a turncloak in the eyes of the North."
+dynamic_scenarios_agot.1074.a:0 "Winterfell is mine."
+dynamic_scenarios_agot.1074.b:0 "Spare Winterfell. I will not forsake the home I knew."
+
+dynamic_scenarios_agot.1075.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1075.desc:0 "Ravens bring dark tidings from the North. Theon Greyjoy, once ward of Winterfell, has turned against the house that raised him. The kraken has struck from within. Winterfell has fallen into his hands, and its people cry out in fear.\n\nWhether spared or sacked, the betrayal is bitter, and the fate of the North grows ever more uncertain."
+dynamic_scenarios_agot.1075.a:0 "The wolf has been betrayed by the kraken."
+
+dynamic_scenarios_agot.1076.t:0 "A Small Pack of Wolves"
+dynamic_scenarios_agot.1076.desc:0 "In the heat of King’s Landing, Eddard Stark followed Petyr Baelish to a brothel, where he was shown a child of King Robert—a black-haired bastard born of a pale-haired mother. The truth of blood weighed heavily on his mind as he departed with his men. \n\nBut in the street beyond, Lannister guards barred the way, pikes bristling. Jaime Lannister himself rode up on his white steed, mocking words on his tongue and sword at his hip. He demanded his brother’s release, his golden smile edged with threat. Littlefinger slipped back into the brothel, promising to fetch the City Watch, leaving Stark and his companions encircled by lions.\n\nThe air grew taut with the promise of blood. Steel flashed, tempers flared, and in the shadow of the brothel walls, the wolves of Winterfell found themselves face to face with the lion of Lannister."
+dynamic_scenarios_agot.1076.a:0 "Fight!"
+
+dynamic_scenarios_agot.1077.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1077.desc:0 "Pain brought him back to the world. Lord Eddard Stark awoke in the filth of the street, dragging himself through the mud until he found Jory’s lifeless form. When at last Petyr Baelish and the gold cloaks arrived, they found the Hand of the King cradling his fallen guardsmen, blood seeping from the wound in his thigh.\n\nCarried back to the Tower of the Hand, Ned endured the ministrations of the Grand Maester, each touch a fresh agony. Word soon reached him that Jaime Lannister had fled the city, riding west for his father’s seat at Casterly Rock. The realm now teetered on the edge of war, for Tywin Lannister would not let such an insult stand idle.\n\nLying in pain, Ned thought of the storm to come—and of Lyanna, and the promises that still haunted him."
+dynamic_scenarios_agot.1077.a:0 "......"
+
+
+dynamic_scenarios_agot.1078.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1078.desc:0 "Daenerys Targaryen has been wed to Khal [drogo.GetFirstName], greatest of the horselords who roam the endless grasslands. At first the match seemed strange and uncertain, yet the Khal has grown fond of his new wife, and she has begun to find her place at his side.\n\nShould the omens favor war, the blood of the dragon may yet ride forth across the narrow sea—with a Dothraki horde at its back."
+dynamic_scenarios_agot.1078.a:0 "The dragon stirs across the sea."
+
+
+dynamic_scenarios_agot.1079.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1079.desc:0 "In the Red Keep of King’s Landing, the Small Council gathers to hear grave tidings. Across the narrow sea, Daenerys Targaryen—the last daughter of the Mad King—carries a child in her womb, heir to Khal [drogo.GetFirstName] of the great Dothraki hordes. A dragon wedded to a horse lord, and now a son soon to be born.\n\n‘The whore is pregnant,’ some mutter, their voices sharp with fear. If this child should live, one day he may unite the vast khalasar to cross the sea and reclaim the Seven Kingdoms in fire and blood. The honorable among the council urge caution, protesting the thought of killing a young girl and her unborn babe. Yet the pragmatic voices win the day. For the sake of the realm, her death is ordered."
+dynamic_scenarios_agot.1079.king:0 "She must die."
+dynamic_scenarios_agot.1079.a:0 "This is a stain upon our honor."
+dynamic_scenarios_agot.1079.b:0 "The realm must be protected—Daenerys must die."
+
+dynamic_scenarios_agot.1080.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1080.desc:0 "At Vaes Dothrak, Daenerys stood before the dosh khaleen, eating the raw heart of a stallion for the child in her womb. The crones declared her son would be the ‘stallion who mounts the world,’ destined to unite the khalasars and conquer all before him. She named him Rhaego, after her brother Rhaegar.\n\nThat night, at the feast, her other brother came. Viserys Targaryen, drunk and desperate, carrying steel where no blade was permitted. He raged, demanding his crown, threatening Daenerys and her unborn son. Khal [drogo.GetFirstName] rose and promised that the Beggar King would have the crown he desired.\n\nNow the choice lay with Daenerys: to let [drogo.GetFirstName] give her brother his golden crown, or to plead for Viserys’s life, sparing him despite his dishonor."
+dynamic_scenarios_agot.1080.a:0 "Let [drogo.GetFirstName] crown him in molten gold."
+dynamic_scenarios_agot.1080.b:0 "Spare Viserys—he is still blood of the dragon."
+
+dynamic_scenarios_agot.1081.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1081.desc:0 "[drogo.GetFirstName] led his khalasar south, where they clashed with a rival warband and won a bloody victory. Countless captives were taken in the aftermath, their fate to be sold for ships. Yet Daenerys could not bear the cruelties she saw, and in defiance of custom, she claimed many of the women for her own protection. Though this angered [drogo.GetFirstName]’s riders, he was pleased by her boldness and allowed it.\n\nIn the fighting, [drogo.GetFirstName] suffered wounds. The healers were occupied elsewhere but among the captives was a mystic who claimed they had knowledge of healing arts and offered to treat him. [drogo.GetFirstName]'s bloodriders muttered darkly of sorcery, but the decision lay with Daenerys. She alone could choose whether to trust the stranger with her Sun and Stars' life."
+dynamic_scenarios_agot.1081.a:0 "Let the healer tend to [drogo.GetFirstName]’s wounds."
+dynamic_scenarios_agot.1081.b:0 "Refuse this witch—[drogo.GetFirstName] is right it is just a scratch."
+
+dynamic_scenarios_agot.1082.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1082.desc:0 "[drogo.GetFirstNamePossessive] wound festered until at last he fell from his horse. Among his people, a khal who cannot ride is no khal at all, and whispers spread swiftly through the camp. Daenerys ordered the riders to make camp and claimed the command as [drogo.GetFirstName]’s own, but the truth could not be hidden for long.\n\nBrought into his tent, [drogo.GetFirstName] lay pale and failing. Even those closest to Daenerys counseled her to flee, warning that once [drogo.GetFirstName] died a struggle for power would follow, and she and her unborn child would be in peril. But Daenerys would not abandon her husband.\n\n [witch.GetName] offers to save him, through the use of #difficulty_very_hard;bold Blood Magic#!.\n\n'#bold Only #difficulty_hard Death#! can pay for life.'#!"
+dynamic_scenarios_agot.1082.a:0 "Please save him!"
+dynamic_scenarios_agot.1082.b:0 "I am sorry [drogo.GetFirstName]. I will tell Rhaego of you."
+dynamic_scenarios_agot.1082.b.tt:0 "Daenerys and her followers flee while there is still time."
+
+dynamic_scenarios_agot.1083.t:0 "The Game of Thrones"
+
+
+# Canon version
+dynamic_scenarios_agot.1083.desc:0 "The cries of childbirth filled the tent, mingled with the stench of blood and smoke. When it was done, the khalasar whispered of curses and shadows. Rhaego, the stallion who was to mount the world, was born still and lifeless. And [drogo.GetFirstName]… he yet lived, but the man who was a khal was gone. His eyes stared empty, his body moved only with aid, a husk of the lord husband Daenerys had known.\n\nDaenerys turned to [witch.GetFullName] whom she had trusted.\n\nThe witch’s #difficulty_hard smile#! was thin and cold.\n\n#bold 'Only death may pay for life,'#! [witch.GetName] said again.\n\n#bold 'And even then, the scales are never balanced.'#!"
+# Dark revival version
+dynamic_scenarios_agot.1083.desc_resurrected_drogo:0 "The tent echoed with screams, and when silence came it was heavy and cold. Rhaego, the child of prophecy, was dead. But [drogo.GetFirstName] opened his eyes once more—no longer weak, no longer broken. There was strength in him, yet something else as well, a shadow coiled behind his gaze. He rose with a will not his own, an evil hunger burning where once there had been love. Daenerys knew the price of life had been bought in blood and doom."
+dynamic_scenarios_agot.1083.a:0 "You will burn for this treachery"
+dynamic_scenarios_agot.1083.b:0 "I am so sorry."
+
+dynamic_scenarios_agot.1084.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1084.desc:0 "Rhaego, the stallion who was to mount the world, is gone. Grief turns to fire in Daenerys’s heart as she orders the witch who betrayed her bound in chains. A great pyre is raised, and before the gathered khalasar she proclaims herself a queen. Those who remain are her people now, and the slaves she sets free.\n\nUpon the pyre she sets her three dragon eggs, glittering in the firelight, and with them the one who wronged her, bound to the flames. #bold 'Only death may pay for life,'#! she declares.\n\nWhen the first star blazes red across the night sky, the fire is kindled.\n\n As the pyre roars and the heavens burn, Daenerys Targaryen walks into the flames."
+dynamic_scenarios_agot.1084.a:0 "The dragon enters the fire."
+
+dynamic_scenarios_agot.1085.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1085.desc:0 "At dawn the pyre was ash, its heat faded to embers. From the smoke and cinders, Daenerys Targaryen rose, naked yet unburnt, three newborn dragons coiled against her breast. The creatures of legend, thought lost for more than a century, had returned to the world.\n\nThe khalasar beheld the miracle in silence, and then they knelt. One by one, every man and woman bent the knee to her, swearing oaths more fierce and true than ever given to [drogo.GetFirstName]. In fire and blood, Daenerys had become more than a queen—she was the Mother of Dragons."
+dynamic_scenarios_agot.1085.a:0 "The dragons are reborn."
+
+dynamic_scenarios_agot.1086.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1086.desc:0 "The cries of labor gave way to the first wail of new life. Daenerys Targaryen delivered her son into the world, strong and hale. The child was named Rhaego, after her fallen brother Rhaegar, and the riders whispered of prophecy fulfilled. This was the stallion who mounts the world, destined to unite the khalasars beneath one banner and ride to glory.\n\nHope and fear alike stirred in every heart, for with the birth of Rhaego the course of the world itself seemed to shift."
+dynamic_scenarios_agot.1086.a:0 "The stallion who mounts the world is born."
+
+dynamic_scenarios_agot.1087.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1087.desc:0 "The Dothraki are a people of signs, and the omens now are unmistakable. The red comet blazes across the sky, and the birth of the stallion who mounts the world has stirred prophecy to life. The crones speak of conquest, and the riders whisper that the gods themselves favor war.\n\nOne by one, the khalasars turn their eyes to you. Warriors flock to your call, eager to ride beneath the banner of blood and fire. A loyal horde gathers, vast and unyielding, ready to sweep across the world in your name."
+dynamic_scenarios_agot.1087.a:0 "The riders gather—the world will tremble."
+
+dynamic_scenarios_agot.1088.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1088.desc:0 "Exiled in the Free Cities, the last children of House Targaryen live at the mercy of others. Now their host, a wealthy magister, has arranged a union meant to change their fortunes. Daenerys is promised in marriage to Khal [drogo.GetFirstName], a warlord whose khalasar rides a hundred thousand strong. In return, Viserys dreams of the army that will one day carry him back across the narrow sea to claim his father’s throne.\n\nDaenerys is afraid, a girl given to a stranger, yet her brother insists this is the path to their salvation. All that remains is to await [drogo.GetFirstNamePossessive] arrival, and with him, the fate of the dragon’s last heirs."
+dynamic_scenarios_agot.1088.a:0 "The dragon’s path is set."
+
+dynamic_scenarios_agot.1089.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1089.desc:0 "I walked among the slave-soldiers, silent ranks of men who had been stripped of choice, trained only to kill and obey. Their masters boasted of their discipline, sneering as they spoke, believing me blind to their cruelty. They thought me a foolish girl, unfit to bargain in their markets.\n\nBut I am blood of the dragon. Before the gathered crowd, I claimed command of the soldiers I had purchased, and in that moment I revealed my true intent. With fire and steel, I turned their own strength upon them. Chains were shattered, whips cast down, and a city of slaves was freed.\n\nWhen the flames died, the soldiers stood before me not as thralls but as men. I offered them freedom—and most placed their spears in my service still. A new host now marches at my back, not as slaves, but as my chosen."
+dynamic_scenarios_agot.1089.a:0 "They follow me as free men."
+
+dynamic_scenarios_agot.1090.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1090.desc:0 "The war drags on, and the so-called [robb.GetName] still clings to [robb.GetHerHis] crown.\n\nYet all men have their price, and among his vassals there are whispers of hunger and resentment. A word in the right ear, a promise of reward, and loyalty may turn to treachery.\n\nThe crown need not bloody its own hands. If discontented lords could be given tacit approval, they would do the work themselves—murder their liege beneath the guise of peace and feast, and send [robb.GetHerHis] cause to ruin. The realm would be spared further war, and those bold enough to act would be well rewarded."
+dynamic_scenarios_agot.1090.a:0 "Reach out to the disloyal—let them do what must be done."
+dynamic_scenarios_agot.1090.b:0 "No—such treachery is too vile, even if it ends the war."
+
+
+dynamic_scenarios_agot.1091.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1091.desc:0 "A message arrives in secret, the wax broken under torchlight. The words are few, but their meaning is clear:\n\n #italic 'Do what must be done, and you shall not want for reward.'#!\n\n It bears the hand of [red_wedding_planner.GetName], granting tacit approval for treachery most foul.\n\nLoyalty is a noble word, but what has it brought you? [robb.GetName] bleeds the realm for his pride, dragging his banners through endless war while the Iron Throne grows ever stronger. Victory on the field is uncertain, but victory at the feast table could be assured.\n\nOffer bread and salt, smile through the vows, and let the music play. When cups are full and swords set aside, we will pass along the regards of the Lannisters."
+dynamic_scenarios_agot.1091.a:0 "Yes. I will see [robb.GetName] brought down at the feast."
+dynamic_scenarios_agot.1091.b:0 "No. Better to bide my time."
+
+dynamic_scenarios_agot.1092.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1092.desc:0 "The wolf may soon fall, and with him the crown of the North. When [robb.GetName] lies dead, there will be lands and titles enough to divide among the faithful. But only one house can claim the mantle of lordship over The North itself."
+dynamic_scenarios_agot.1092.a:0 "I choose...."
+dynamic_scenarios_agot.1092.a.tt:0 "Your pick will be named Warden of the North after the conclusion of the war."
+
+dynamic_scenarios_agot.1093.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1093.desc:0 "The ink is fresh, the words dressed in courtesy, yet every line drips with deceit. A letter is sent to [robb.GetName], inviting him and his household to a grand celebration. It speaks of peace, of friendship renewed, of bonds to be strengthened with wine and song.\n\nBut behind the welcome lies steel. This feast is no gift—it is a snare. With [red_wedding_planner.GetName]’s blessing, the hall shall run red, and the King in the North will fall not on the battlefield, but at the table. The war will end in slaughter, and the favor of the crown will be secured."
+dynamic_scenarios_agot.1093.a:0 "Send the invitation—the trap is set."
+
+dynamic_scenarios_agot.1094.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1094.desc:0 "A letter arrives, heavy with courtesy and fine words. One of your vassals invites you to a grand celebration, promising fellowship, feasting, and the renewal of old bonds. They speak of healing rifts and standing united, that the realm might endure these troubled times.\n\nYet the timing gives pause. War rages still, and every step beyond your camp is a risk. To attend would be to show trust—and perhaps win it in return. But to decline may breed resentment and whisper of insult. The choice is yours."
+dynamic_scenarios_agot.1094.a:0 "I will attend—let there be peace among friends."
+dynamic_scenarios_agot.1094.b:0 "I will not risk it—better to remain with my host."
+
+
+# Generic Feast
+dynamic_scenarios_agot.1094.desc.feast:0 "A letter arrives, written in fine and flowery words. One of your vassals invites you to a great feast in your honor, promising a night of song, fellowship, and renewed loyalty. They speak of celebrating your victories, of uniting lord and bannerman beneath one roof, and of binding the realm together in friendship once more.\n\nIt is a generous offer, yet the times are dangerous. To attend would show trust and might strengthen bonds—but to refuse could be seen as insult, sowing discord among your vassals."
+
+# Wedding
+dynamic_scenarios_agot.1094.desc.wedding:0 "An invitation comes bearing joyous tidings. One of your vassals bids you attend the wedding of [betrothed_1.GetFullName] and [betrothed_2.GetFullName]. They write of celebration, of wine and song, and of the honor it would bring to have their king beneath their roof on such a day. Old friendships, they promise, will be made new again beneath the marriage vows.\n\nYet in war, even weddings carry risk. To attend would show generosity and strengthen ties, but to decline might sour the loyalty of those who expect their king’s blessing."
+
+dynamic_scenarios_agot.1095.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1095.desc:0 "What was spoken of in shadows now blazes in the open. The King in the North spurned an invitation meant to mask treachery, and the vassals behind it have cast aside all pretense of loyalty. Their banners are raised not for their king, but for the Iron Throne.\n\nThe realm watches as once-sworn men turn cloak, abandoning their vows to strike at the wolf they once followed. A new front opens in the war, for rebellion has torn the North and Riverlands from within."
+dynamic_scenarios_agot.1095.a:0 "The plot is revealed—treachery becomes open war."
+
+dynamic_scenarios_agot.1096.t:0 "The Game of Thrones"
+
+# Feast
+dynamic_scenarios_agot.1096.desc.feast:0 "An invitation has gone out to all banners of the wolf. A great feast is to be held in honor of the King in the North, a night of meat and mead, oaths and fellowship. Lords and sworn swords are called to gather beneath one roof, to raise their cups in loyalty and share in celebration of their king.\n\nEach house must now decide how they will answer—whether to attend in fealty, or keep their distance in suspicion."
+
+# Wedding
+dynamic_scenarios_agot.1096.desc.wedding:0 "Messengers ride forth carrying joyous tidings: a wedding is to be held between [betrothed_1.GetFullName] and [betrothed_2.GetFullName], and all the banners of the wolf are bidden to attend. It is said the King in the North himself will honor the union, and the day will be one of song, vows, and merriment.\n\nYet in times of war, even weddings may carry hidden meanings. Each house must decide whether to answer the call, or remain behind their walls."
+  
+dynamic_scenarios_agot.1096.a:0 "I will attend."
+dynamic_scenarios_agot.1096.b:0 "I will send a family member."
+dynamic_scenarios_agot.1096.c:0 "I will remain in my hall."
+
+dynamic_scenarios_agot.1097.t:0 "The Game of Thrones"
+
+# Feast
+dynamic_scenarios_agot.1097.desc.feast:0 "The hall is alive with noise and song, torches smoking in the rafters, meat and wine flowing without end. Musicians play, knights laugh too loudly, and serving girls slip between benches with flushed cheeks. Lords boast of victories, men-at-arms bellow challenges, and the air grows thick with wine and heat.\n\nYet not every face is merry. Some lords sit stiff and silent, their cups barely touched, eyes darting too often toward the doors. Whispers curl in the corners, and once or twice you glimpse the dull gleam of mail beneath a guest’s robe. The feast goes on, but unease clings like smoke beneath the rafters."
+
+# Wedding
+dynamic_scenarios_agot.1097.desc.wedding:0 "The wedding hall blazes with torchlight, tables heavy with meat and wine. Pipes trill, drums thunder, and laughter rolls through the crowd as cups are raised to [bride.GetFullName] and [groom.GetFullName]. The vows are spoken, gifts exchanged, and the king himself smiles warmly at their union. For the moment, the hall is full of music, color, and cheer.\n\nYet not all join the merriment. A few lords sit withdrawn, drinking little, watching too closely. Nervous glances flicker between them, and more than once you think you see steel glinting beneath a robe. The songs grow louder, but shadows stir beneath the din."
+  
+dynamic_scenarios_agot.1097.a:0 "Let the revels continue."
+
+dynamic_scenarios_agot.1098.t:0 "The Game of Thrones"
+
+# Feast Ambush
+dynamic_scenarios_agot.1098.desc.feast:0 "The feast roars on, the air thick with smoke and song. A fiddler strikes up a new tune—shrill, fast, and jarring. Too harsh for dancing, too sharp for celebration. The sound sets teeth on edge. \n\nThen the doors slam shut. Men rise from the benches, and suddenly there is steel in their hands. The smiles are gone, the laughter silenced. Crossbows are raised from the gallery above, their strings drawn taut, and the first quarrels hiss into the hall. Screams rise as the revels turn to slaughter, wine spilling like blood across the tables."
+
+# Wedding Ambush
+dynamic_scenarios_agot.1098.desc.wedding:0 "The bedding is called for, the hall erupting with bawdy laughter. Musicians strike their fiddles, but the tune they play is no song of love or merriment. It is harsh, mocking, and wrong. The notes scrape like blades. \n\nThe doors crash shut, and the hall stills. A lord at the high table rises—not with a toast, but with a signal. Robes fall back, and chainmail glitters. Crossbows appear in the gallery above, and bolts fly hissing into the crowd. The wedding song becomes a dirge as blood pools on the rushes and guests cry out in terror."
+
+# Rare Survival Path
+dynamic_scenarios_agot.1098.desc.survived_ambush:0 "By desperate fortune and quick steel, you have survived the first storm of quarrels and blades. The hall is chaos—men screaming, tables overturned, torches falling from their sconces. Yet escape will not come cheaply. [leech_lord.GetName] stands before you, weapon drawn, blocking the only path to freedom. If you would live, you must cut him down here, in the heart of this treachery."
+  
+dynamic_scenarios_agot.1098.a:0 "The hall erupts in blood and betrayal."
+dynamic_scenarios_agot.1098.b:0 "The hall erupts in blood and betrayal."
+
+dynamic_scenarios_agot.1099.t:0 "The Game of Thrones"
+
+# Wedding – King Dies
+dynamic_scenarios_agot.1099.desc.wedding.death:0 "The wedding hall had erupted into slaughter. What began in music and song ended in crossbow bolts and steel. [robb.GetName], King in the North, was cut down amid the blood of his bannermen, murdered beneath the very roof where bread and salt had been shared. The vows of marriage turned to treachery, and the feast became a massacre. When dawn came, only corpses and ashes bore witness to the breaking of guest right."
+
+# Feast – King Dies
+dynamic_scenarios_agot.1099.desc.feast.death:0 "The feast that began with laughter ended in betrayal. The doors were barred, the music turned cruel, and the hall filled with quarrels and blades. [robb.GetName], King in the North, was struck down among his companions, butchered where he sat as guest and lord alike were slaughtered. The banners of the wolf fell that night in treachery, and the name of the feast would be remembered only in blood."
+
+# Wedding – King Survives
+dynamic_scenarios_agot.1099.desc.wedding.survive:0 "The bedding had been called, the music twisted into a cruel dirge, and treachery was loosed. Yet against all expectation, [robb.GetName], King in the North, fought his way clear of the wedding hall, though many of his sworn men perished in the slaughter. The conspirators who sought his death failed to slay the wolf, but they cast aside all pretense of loyalty. Their treachery laid bare, they now raise their banners openly for the Iron Throne."
+
+# Feast – King Survives
+dynamic_scenarios_agot.1099.desc.feast.survive:0 "The hall had erupted in sudden violence, laughter and song giving way to quarrels and blood. [robb.GetName], King in the North, escaped the slaughter by fortune and ferocity, though his companions paid dearly in death. His survival left the conspirators’ work unfinished, yet their betrayal could not be undone. With their perfidy revealed, they now march openly for the Iron Throne, joining the war as open foes of the North."
+  
+dynamic_scenarios_agot.1099.a:0 "The North will remember this."
+
+dynamic_scenarios_agot.1101.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1101.desc:0 "From humble origins as the bastard of Ned Stark, Jon Snow’s tale has spread far. He has shown valor battle, lived among the wildlings, and proven himself as a commander in the defense of Castle Black. As a leader he was bold, crossing boundaries that no other Black Brother has done before him. For his efforts, daggers were raised against him by his own brothers.\n\nYet he lives. Now he has left the Wall with an army at his back, and the South wonders what path the Bastard of Winterfell will choose."
+dynamic_scenarios_agot.1101.a:0 "All eyes turn to the North."
+dynamic_scenarios_agot.1101.b:0 "I wonder what comes next for this Jon Snow."
+
+dynamic_scenarios_agot.1102.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1102.desc:0 "The North is torn. From the Wall rides Jon Snow, once a brother of the Night’s Watch, now returned with steel at his back. He names his watch ended, and some whisper that fate itself has called him to claim Winterfell. Yet others name him oathbreaker and bastard still, unworthy of lordship or crown.\n\nAlready,  [usurper.GetNameNoTooltip] [usurper.GetHouse.GetNameNoTooltip] lays claim to the North, and his banners fly where once the direwolf held sway. Each house must now choose: will you cast your lot with the bastard of Winterfell, or bend the knee to the usurper who would rule in his stead?"
+dynamic_scenarios_agot.1102.a:0 "Support Jon Snow, true son of the North."
+dynamic_scenarios_agot.1102.b:0 "Stand with [usurper.GetNameNoTooltip] [usurper.GetHouse.GetNameNoTooltip]."
+
+dynamic_scenarios_agot.1103.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1103.desc:0 "Far across the seas, whispers reach your ears of the Iron Islands—rudderless, weak, their ruler unfit for the Seastone Chair. Salt and iron cry out for a king with vision, a kraken bold enough to seize the world in his grasp. You are Euron Crow’s Eye, and the long exile has run its course. Shall you return home in storm and blood, to carve your name into driftwood and bone? Or let the isles rot under feebler hands until the sea swallows them whole?"
+dynamic_scenarios_agot.1103.a:0 "Raise the black sails—I will claim the Seastone Chair."
+dynamic_scenarios_agot.1103.b:0 "Not yet. Let the isles fester in weakness."
+
+dynamic_scenarios_agot.1104.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1104.desc:0 "Word comes from the docks—Euron Crow’s Eye has returned. Long absent in exile, he now strides through the halls of the Ironborn with the swagger of a king and the malice of a reaver. His black sails are seen on every tide, and his whispers of salt and shadow spread among the captains. Some name him kraken reborn, others curse him as a blight upon the isles.\n\nNow he comes for you. Whether by dagger in the dark or open war upon the seas, Euron means to take the Seastone Chair, and the fate of the Iron Islands hangs upon his claim."
+dynamic_scenarios_agot.1104.a:0 "The Crow’s Eye dares to strike at his own blood."
+
+dynamic_scenarios_agot.1105.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1105.desc:0 "[black_eye.GetFirstNameNicknamed] has returned, his black sails rising once more upon the seas. Long absent, he now sets his gaze upon the Seastone Chair, and the captains of the isles speak his name with a mix of awe and dread. \n\nWhat his true purpose may be remains cloaked, but all agree it is dark and boundless—black as his eye, and as unforgiving as the sea itself."
+dynamic_scenarios_agot.1105.a:0 "The Crow’s Eye rises."
+
+
+greyjoy_event_troops:0 "Greyjoy Host"
+lannister_event_troops:0 "Lannister Host"
+stark_event_troops:0 "Stark Host"
+dothraki_event_troops:0 "Dothraki Khalasar"
+ 
+ 
+ #dynamic_scenarios_agot.0001.t: 0 ""
+ #dynamic_scenarios_agot.0001.desc: 0 ""
+ #dynamic_scenarios_agot.0001.a: 0 ""
+ #dynamic_scenarios_agot.0001.a.tt: 0 ""
+ #dynamic_scenarios_agot.0001.b: 0 ""
+ #dynamic_scenarios_agot.0001.b.tt: 0 ""
+ 
+
+ agot_dynamic_scenario_claimant_army: 0 "Loyalists"
+ 
+stark_war_for_the_north_cb:0 "War for the North"
+stark_war_for_the_north_name:0 "War for the North"
+
+dynamic_scenarios_agot.1106.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1106.desc:0 "With the war over and justice done, the question remains: who shall rule the North now?\n\nThe choice made here will the shape the future of The North."
+dynamic_scenarios_agot.1106.a:0 "Winter is coming."
+
+dynamic_scenarios_agot.1107.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1107.desc:0 "The war darkens, and enemies press from all sides. Yet there is one who might be ally as well as bride—Daenerys Targaryen, across the sea with dragons at her back. A union could bind ice and fire, forging strength enough to change the fate of kingdoms."
+dynamic_scenarios_agot.1107.a:0 "Send a proposal of marriage."
+dynamic_scenarios_agot.1107.b:0 "No. I will fight my battles alone."
+
+dynamic_scenarios_agot.1108.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1108.desc:0 "Ravens cross the sea, bearing Jon Snow’s proposal. The message speaks of alliance, of shared purpose, and of binding fire to ice in a single cause. Now Daenerys Targaryen must decide whether to take the hand offered, or to refuse and stand apart."
+dynamic_scenarios_agot.1108.a:0 "Accept the match—together, Ice and Fire shall unite."
+dynamic_scenarios_agot.1108.b:0 "Refuse—the dragon needs no wolf."
+
+
+k_the_northern_marches: 0 "The Northern Marches"
+
+k_the_sunset_marches: 0 "The Sunset Sea"
+
+k_the_westermarches: 0 "The Westermarches"
+
+k_the_kraken_rock: 0 "The Krakenrock"
+
+dynamic_scenarios_agot.1109.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1109.desc:0 "Jon Snow has proven himself bold, steadfast, and of rare mettle. Now he seeks what few would dare—permission to stand before one of your dragons, to test his bond with the fire-born beasts. To grant this is to risk much, yet should he succeed, a dragonrider at his side would bind wolf and dragon closer than ever before."
+dynamic_scenarios_agot.1109.a:0 "Let him approach the dragon."
+dynamic_scenarios_agot.1109.b:0 "No—the risk is too great."
+
+dynamic_scenarios_agot.1110.t:0 "The Game of Thrones"
+dynamic_scenarios_agot.1110.desc:0 "The beast loomed vast and terrible, eyes like burning coals, breath hot enough to sear the earth. Jon Snow stood his ground, heart hammering, yet something deeper stirred within him—an echo, faint but familiar, as if fire itself remembered him. Slowly, the dragon’s fury ebbed, and what remained was not rage but recognition.\n\nMan and beast regarded one another in silence, and in that silence a bond was forged."
+dynamic_scenarios_agot.1110.a:0 "The wolf finds kinship in fire."

@@ -244,9 +244,9 @@
  dynamic_scenarios_rr.0021.b.tt:0 ""
  
  
- dynamic_scenarios_rr.0022.t:0 "Trial by Battle"
- dynamic_scenarios_rr.0022.desc:0 "The trial had begun.\n"
- dynamic_scenarios_rr.0022a.desc:0 "\n#bold;L House [king.GetHolder.GetHouse.GetName] Champions#!:"
+ #dynamic_scenarios_rr.0022.t:0 "Trial by Battle"
+ #dynamic_scenarios_rr.0022.desc:0 "The trial had begun.\n"
+ #dynamic_scenarios_rr.0022a.desc:0 "\n#bold;L House [king.GetHolder.GetHouse.GetName] Champions#!:"
  dynamic_scenarios_rr.00221a.desc:0 "\n #L [attacker_1.GetNameNicknamed] [attacker_1.GetHouse.GetNameNoTooltip]#!"
  dynamic_scenarios_rr.00222a.desc:0 "\n #L [attacker_2.GetNameNicknamed] [attacker_2.GetHouse.GetNameNoTooltip]#!"
  dynamic_scenarios_rr.00223a.desc:0 "\n #L [attacker_3.GetNameNicknamed] [attacker_3.GetHouse.GetNameNoTooltip]#!"
@@ -265,14 +265,14 @@
  dynamic_scenarios_rr.00225d.desc:0 "\n #L [defender_5.GetNameNicknamed] [defender_5.GetHouse.GetNameNoTooltip]#!"
  dynamic_scenarios_rr.00226d.desc:0 "\n #L [defender_6.GetNameNicknamed] [defender_6.GetHouse.GetNameNoTooltip]#!"
  dynamic_scenarios_rr.00227d.desc:0 "\n #L [defender_7.GetNameNicknamed] [defender_7.GetHouse.GetNameNoTooltip]#!"
- dynamic_scenarios_rr.0022.a:0 "[ROOT.Char.GetHouse.GetMotto]"
- dynamic_scenarios_rr.0022.a.tt:0 ""
- dynamic_scenarios_rr.0022.b:0 "[ROOT.Char.GetHouse.GetMotto]"
- dynamic_scenarios_rr.0022.b.tt:0 ""
- dynamic_scenarios_rr.0022.c:0 "[ROOT.Char.GetHouse.GetMotto]"
- dynamic_scenarios_rr.0022.c.tt:0 ""
- dynamic_scenarios_rr.0022.d:0 "[ROOT.Char.GetHouse.GetMotto]"
- dynamic_scenarios_rr.0022.d.tt:0 ""
+ #dynamic_scenarios_rr.0022.a:0 "[ROOT.Char.GetHouse.GetMotto]"
+ #dynamic_scenarios_rr.0022.a.tt:0 ""
+ #dynamic_scenarios_rr.0022.b:0 "[ROOT.Char.GetHouse.GetMotto]"
+ #dynamic_scenarios_rr.0022.b.tt:0 ""
+ #dynamic_scenarios_rr.0022.c:0 "[ROOT.Char.GetHouse.GetMotto]"
+ #dynamic_scenarios_rr.0022.c.tt:0 ""
+ #dynamic_scenarios_rr.0022.d:0 "[ROOT.Char.GetHouse.GetMotto]"
+ #dynamic_scenarios_rr.0022.d.tt:0 ""
 
  
  
@@ -303,17 +303,17 @@
  dynamic_scenarios_rr.0025.b:0 "You are not welcome here."
  dynamic_scenarios_rr.0025.b.tt:0 ""
  
-  # Ruthless Vassal Sacks the Capital
- dynamic_scenarios_rr.0026.t:0 "The Late [ruthless_vassal.GetLordLady] [ruthless_vassal.GetHouse.GetName]"
- dynamic_scenarios_rr.0026.desc:0 ""
- dynamic_scenarios_rr.0026.a:0 ""
- dynamic_scenarios_rr.0026.a.tt:0 ""
- dynamic_scenarios_rr.0026.b:0 ""
- dynamic_scenarios_rr.0026.b.tt:0 ""v
+ # # Ruthless Vassal Sacks the Capital
+ #dynamic_scenarios_rr.0026.t:0 "The Late [ruthless_vassal.GetLordLady] [ruthless_vassal.GetHouse.GetName]"
+ #dynamic_scenarios_rr.0026.desc:0 ""
+ #dynamic_scenarios_rr.0026.a:0 ""
+ #dynamic_scenarios_rr.0026.a.tt:0 ""
+ #dynamic_scenarios_rr.0026.b:0 ""
+ #dynamic_scenarios_rr.0026.b.tt:0 ""
  
   # Ruthless Vassal informed that the King rejected him.
  dynamic_scenarios_rr.0027.t:0 "[realm.GetHolder.GetHouse.GetName] and [ruthless_vassal.GetHolder.GetHouse.GetName]"
- dynamic_scenarios_rr.0027.desc:0 "[realm.GetHolder.GetNameRegnal has seen through your ploy and rejected your entry into the capital."
+ dynamic_scenarios_rr.0027.desc:0 "[realm.GetHolder.GetNameRegnal] has seen through your ploy and rejected your entry into the capital."
  dynamic_scenarios_rr.0027.a:0 "Damn them."
  dynamic_scenarios_rr.0027.a.tt:0 ""
  dynamic_scenarios_rr.0027.b:0 ""
@@ -443,9 +443,7 @@
  dynamic_scenarios_rr.0051.t:0 "Tourney Games"
  dynamic_scenarios_rr.0051.desc:0 "Victory is mine!"
  dynamic_scenarios_rr.0051.a:0 "I am the best!"
- dynamic_scenarios_rr.0050.a.tt:0 ""
- dynamic_scenarios_rr.0050.b:0 ""
- dynamic_scenarios_rr.0050.b.tt:0 ""
+
 
 
   # Grand Tourney Opening
@@ -553,7 +551,7 @@ dynamic_scenarios_rr.1005.b:0 "Find someone else, I will not be a part of this."
 dynamic_scenarios_rr.1005.b.tt:0 "Send [rumor_spreader.GetName] away."
 
 dynamic_scenarios_rr.1006.t:0 "A Game of Thrones"
-dynamic_scenarios_rr.1006.desc:0 "The heir of #L [king.GetName] [king.GetHouse.GetNameNoTooltip]#! is without a doubt a bastard.\n\nIt is my duty to [king.GetFirstNameNoTooltip] and to the realm that I ensure [bastard_heir.GetFirstName] does not steal the throne from the rightful heir.\n\n\Revealing this information will have grave consequences. If I cannot convince [king.GetFirstNameNoTooltip], [king.GetSheHe] may name me a traitor for questioning the legitimacy of the heir.\n\nEven if I succeed, I will have revealed a terrible crime that will likely result in bloodshed."
+dynamic_scenarios_rr.1006.desc:0 "The heir of #L [king.GetName] [king.GetHouse.GetNameNoTooltip]#! is without a doubt a bastard.\n\nIt is my duty to [king.GetFirstNameNoTooltip] and to the realm that I ensure [bastard_heir.GetFirstName] does not steal the throne from the rightful heir.\n\nRevealing this information will have grave consequences. If I cannot convince [king.GetFirstNameNoTooltip], [king.GetSheHe] may name me a traitor for questioning the legitimacy of the heir.\n\nEven if I succeed, I will have revealed a terrible crime that will likely result in bloodshed."
 dynamic_scenarios_rr.1006.a:0 "I must tell [king.GetFirstNameNoTooltip]"
 dynamic_scenarios_rr.1006.a.tt:0 "You will immediately present your evidence directly."
 dynamic_scenarios_rr.1006.b:0 "I will warn the abominations first, I do not want their blood on my hands."
@@ -565,7 +563,6 @@ dynamic_scenarios_rr.1007.t:0 "A Game of Thrones"
 dynamic_scenarios_rr.1007.desc:0 "#L [investigator.GetName] [investigator.GetHouse.GetNameNoTooltip]#! asked to meet quietly and I obliged. Once we were in private, he revealed something that shook me to the core. [bastard_heir.GetFirstName] was not my son at all, he claimed. A bastard of #L[real_father.GetName] [real_father.GetHouse.GetName]#!\n\nI can hardly believe it but [investigator.GetFirstName] is an honorable servant, [investigator.GetSheHe] would not lie about this would [investigator.GetSheHe]?"
 dynamic_scenarios_rr.1007.desc_queen_failed_murder:0 "[queen.GetName] has brazenly attempted to murder me! Shortly after the reason behind this attack became clear, [investigator.GetName] informed me that after investigation, my children are not my children at all, but the ill-made bastards of [real_father.GetName]!\n\nThis is the highest of treasons and the punishment will befit the crime."
 dynamic_scenarios_rr.1007.desc_queen_attack:0 "I am shook to my core when [investigator.GetName] is brought before me. Apparently [investigator.GetFirstName] had summoned [queen.GetName] to meet [investigator.GetHerHim] in the godswood, where they fought and my wife killed.\n\nNow before me and the rest of the court, [investigator.GetFirstName] proclaims that she was unfaithful and was attempting to silence me to protect her bastard spawn with [real_father.GetName].\n\nI do not know what to make of this."
-dynamic_scenarios_rr.1007.desc:0 "#L [investigator.GetName] [investigator.GetHouse.GetNameNoTooltip]#! asked to meet quietly and I obliged. Once we were in private, he revealed something that shook me to the core. [bastard_heir.GetFirstName] was not my son at all, he claimed. A bastard of #L[real_father.GetName] [real_father.GetHouse.GetName]#!\n\nI can hardly believe it but [investigator.GetFirstName] is an honorable servant, [investigator.GetSheHe] would not lie about this would [investigator.GetSheHe]?"
 dynamic_scenarios_rr.1007.a:0 "I will disinherit these bastards!"
 dynamic_scenarios_rr.1007.a.tt:0 "The true parentage of any bastards will be revealed and their parents guilty of treason
 dynamic_scenarios_rr.1007.b:0 "I'll kill every last one of them!"
@@ -640,7 +637,6 @@ dynamic_scenarios_rr.1008.f:0 "Flee."
  dynamic_scenarios_rr.1014.desc:0 "After the death of #L [king.GetNameRegnal] [king.GetHouse.GetNameNoTooltip]#!, [realm.GetHolder.GetFirstName] ascended to the throne. However, #L [investigator.GetName] [investigator.GetHouse.GetNameNoTooltip]#! marched into the throne room with the [investigator.GetHouse.GetNameNoTooltip] Household Guard in an attempt to arrest [realm.GetHolder.GetFirstNameNoTooltip], disputing [realm.GetHolder.GetHerHis] claim to the throne.\n\n[investigator.GetHouse.GetNameNoTooltip] and [investigator.GetHerHis] men were defeated and detained after a bloody massacre.\n\n"
  dynamic_scenarios_rr.1014.desc_betrayal:0 "#L [schemer.GetNameNicknamed] [schemer.GetHouse.GetNameNoTooltip]#! was instrumental in defeating the plot.\n\n"
  dynamic_scenarios_rr.1014.desc_coup_success:0 "After a brief struggle we were defeated and apprehended."
- dynamic_scenarios_rr.1014.desc_betrayal:0 "#L [schemer.GetName] [schemer.GetHouse.GetNameNoTooltip]#! was instrumental in the affair as [schemer.GetSheHe] tipped us off to the attempted coup and used [schemer.GetHerHis] own men to surprise attack the [investigator.GetHouse.GetNameNoTooltip]s."
  dynamic_scenarios_rr.1014.desc_schemer_support:0 "On our flanks, the local watchmen provided by #L [schemer.GetNameNicknamed] [schemer.GetHouse.GetNameNoTooltip]#! marched beside us, bolstering our number.\n\n"
  dynamic_scenarios_rr.1014.desc_investigator_executed:0 "For this treason, [investigator.GetNameNoTooltip] was marched out before all to see.\n\n "My council wishes me to let [investigator.GetNameNoTooltip] live. Stripped of all titles and powers, [investigator.GetSheHe] would serve the realm in permanent exile. But they have soft hearts. So long as I am your ruler, treason shall never go unpunished! Bring me [investigator.GetHerHis] head!"\n\n[investigator.GetFirstNameNoTooltip] was then executed with [investigator.GetHerHis] own sword."
  dynamic_scenarios_rr.1014.desc_investigator_imprisoned:0 "[investigator.GetNameNoTooltip] remains a prisoner of the crown."
@@ -725,7 +721,6 @@ dynamic_scenarios_rr.1023.b.tt:0 "You sully your honor and give in to your lust.
  #dynamic_scenarios_rr.0001.b.tt:0 ""
  
 
- agot_dynamic_scenario_claimant_army:0 "Loyalists"
  
  
  

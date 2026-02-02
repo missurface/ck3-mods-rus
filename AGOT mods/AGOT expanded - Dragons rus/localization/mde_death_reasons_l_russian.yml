@@ -1,5 +1,5 @@
 ﻿l_russian:
-  
-  #deaths 
- death_mde_drowned_by: "Оставленный тонуть"
- death_mde_drowned_by_killer: "Оставленный тонуть [TARGET_CHARACTER.GetUIName]"
+ 
+ #deaths
+ death_mde_drowned_by:0 "[Select_CString(CHARACTER.IsFemale, 'была оставлена тонуть', 'был оставлен тонуть')]"
+ death_mde_drowned_by_killer:0 "[Select_CString(CHARACTER.IsFemale, 'была оставлена тонуть', 'был оставлен тонуть')] персонажем [TARGET_CHARACTER.GetUIName]"

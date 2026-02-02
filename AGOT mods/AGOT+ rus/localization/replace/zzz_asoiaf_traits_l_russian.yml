@@ -1,9 +1,9 @@
 ﻿l_russian:
- trait_knight_desc: "Его посвятили в рыцари, поклявшись быть мужественным, справедливым и защищать невинных, какой бы опасной это ни было."
- trait_knight_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] был посвящен в рыцари, поклялся быть мужественным, справедливым и защищать невинных, какой бы опасной это ни было."
- trait_knight_unique_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] был посвящен в рыцари, поклялся быть мужественным, справедливым и защищать невинных, какой бы опасной это ни было."
-  
- trait_honorable: "Благородный"
-  
- trait_ruthless_desc: "Независимо от того, хороши они или плохи, этот персонаж будет использовать любые средства, необходимые для достижения своих целей."
- trait_ruthless_character_desc: "Независимо от того, хорошие они или плохие, [ROOT.GetCharacter.GetFirstNameNoTooltip] будет использовать любые средства, необходимые для достижения [ROOT.GetCharacter.GetHerHis] конца."
+ trait_knight_desc:0 "Этого персонажа посвятили в рыцари: он поклялся быть отважным и справедливым и защищать невинных, как бы опасно это ни было."
+ trait_knight_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] [Select_CString(ROOT.GetCharacter.IsFemale, 'была посвящена', 'был посвящён')] в рыцари: [Select_CString(ROOT.GetCharacter.IsFemale, 'поклялась', 'поклялся')] быть [Select_CString(ROOT.GetCharacter.IsFemale, 'отважной и справедливой', 'отважным и справедливым')] и защищать невинных, как бы опасно это ни было."
+ trait_knight_unique_desc:0 "$trait_knight_character_desc$"
+ 
+ trait_honorable:0 "Честность"
+ 
+ trait_ruthless_desc:0 "Будь это во благо или во зло, этот персонаж пойдёт на всё, чтобы добиться своих целей."
+ trait_ruthless_character_desc:0 "Будь это во благо или во зло, [ROOT.GetCharacter.GetFirstNameNoTooltip] пойдёт на всё, чтобы добиться своих целей."

@@ -1,29 +1,28 @@
 ﻿l_russian:
- dynn_Dummies: "Дубликат"
- dynn_Bloodraven: "Кровавый Ворон"
- dynn_Bittersteel: "Горькая Сталь"
- dynn_Dormand: "Дорманд"
-  
-  #Brightflame overwrite dynastyies 
- dynn_Galgaeryn: "Галгарины"
- dynn_Tryzaen: "Тризены"
-  
-  #Maegor Targaryen (founder of Targ dynasty)'s wife dummy dynasty to prevent tree duplication 
- dynn_Belerys: "Белерисы"
-  
-  #Corlys Velaryon (HBO)'s mother's House 
- dynn_Xaq: "Зак"
-  
-  #Daena Blackfyre's House 
- dynn_Malazos: "Малазосы"
-  
-  #EASTER EGG DYNASTY NAMES 
- dynn_Kobyla: "Кобилы"
- dynn_Ronov: "Роновы"
- dynn_Leipa: "Лейпы"
- dynn_Lichtenburg: "Лихтенбурги"
- dynn_Bitov: "Битовы"
- dynn_Krusina: "Крусины"
- dynn_Zleb: "Злебы"
- dynn_Capon: "Капуны"
- dynn_Toth: "Тосы"
+ dynn_Dummies:0 "Пустышки"
+ dynn_Bloodraven:0 "Кровавый Ворон"
+ dynn_Bittersteel:0 "Горькая Сталь"
+ 
+ #Перезапись династий Brightflame
+ dynn_Galgaeryn:0 "Галгейрин"
+ dynn_Tryzaen:0 "Тризейн"
+ 
+ #Фиктивная династия жены Мейгора Таргариена (основателя линии Таргов), чтобы избежать дублирования древа
+ dynn_Belerys:0 "Белериc"
+ 
+ #Дом матери Корлиса Велариона (HBO)
+ dynn_Xaq:0 "Ксак"
+ 
+ #Дом Дейны Блэкфайр
+ dynn_Malazos:0 "Малазос"
+ 
+ #ПАСХАЛЬНЫЕ ДИНАСТИИ
+ dynn_Kobyla:0 "Кобила"
+ dynn_Ronov:0 "Ронов"
+ dynn_Leipa:0 "Лейпа"
+ dynn_Lichtenburg:0 "Лихтенбург"
+ dynn_Bitov:0 "Битов"
+ dynn_Krusina:0 "Крушина"
+ dynn_Zleb:0 "Злеб"
+ dynn_Capon:0 "Капон"
+ dynn_Toth:0 "Тот"

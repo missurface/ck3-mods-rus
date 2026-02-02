@@ -1,11 +1,10 @@
 ﻿l_russian:
- dynn_Dummies_motto: "Нечего тут смотреть..."
- dynn_Bloodraven_motto: "Пойманный взглядом"
- dynn_Bittersteel_motto: "Под золотом"
- dynn_Dormand_motto: "Faithful and True"
-  
-  #EASTER EGG DYNASTY NAMES 
- dynn_Kobyla_motto: "Король, Семья, Месть"
- dynn_Ronov_motto: "Честь и Лидерство"
- dynn_Capon_motto: "Удача сопутствует Храбрым"
- dynn_Toth_motto: "Наше место под солнцем ждет нас впереди"
+ dynn_Dummies_motto:0 "Нечего здесь смотреть…"
+ dynn_Bloodraven_motto:0 "Опутан взглядом"
+ dynn_Bittersteel_motto:0 "Под золотом"
+ 
+ #ПАСХАЛЬНЫЕ ДЕВИЗЫ ДИНАСТИЙ
+ dynn_Kobyla_motto:0 "Король, семья, месть"
+ dynn_Ronov_motto:0 "Честь и служение"
+ dynn_Capon_motto:0 "Смелым улыбается удача"
+ dynn_Toth_motto:0 "Наше место под солнцем ждёт"

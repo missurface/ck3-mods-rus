@@ -1,95 +1,95 @@
 ﻿l_russian:
- asoiaf_choose_cadet_button: "Посмотреть варианты"
-  #BARATHEON CADETS 
- asoiaf_baratheon_cadets_decision: "Учредить ветвь кадетов Баратеонов"
- asoiaf_baratheon_cadets_tooltip: "Учредите ветвь кадетов Дома [ROOT.Char.GetDynasty.GetName] [dynasty|E]"
- asoiaf_baratheon_cadets_desc: "В зависимости от моей ситуации, я могу учредить ветвь кадетов моего Дома, ведущую Баратеонов в новое будущее."
- asoiaf_changing_baratheon_house_tooltip: "Вы находите новую ветвь кадетов Баратеонов из предварительно определенного списка\n#low Каждая ветвь имеет свои требования, которые вы должны выполнить для их установления#!"
-  
- asoiaf_baratheon_renly_choice: "Дом Баратеонов\n#low Ветвь Ренли#!"
- asoiaf_baratheon_renly_choice_tooltip: "Требуется либо:\n     Наличие #bold родителя Тиреллов#!\n ИЛИ\n     Наличие #bold супруга Тирелла#!"
- asoiaf_baratheon_renly_base_validity_tt: "У вас нет #bold родителя или супруга Тирелла#!"
-  
- asoiaf_baratheon_rhllor_choice: "Дом Баратеонов\n#low Из Драконьего Камня#!"
- asoiaf_baratheon_rhllor_choice_tooltip: "Требуется следовать вере из группы #bold Р'хллоризма#!"
- asoiaf_baratheon_rhllor_base_validity_tt: "Вы не следуете #bold Р'хллорской вере#!"
-  
- asoiaf_baratheon_kl_choice: "Дом Баратеонов\n#low Из Королевской Гавани#!"
- asoiaf_baratheon_kl_choice_tooltip: "Требуется наличие #bold родителя Ланнистеров#!"
- asoiaf_baratheon_kl_base_validity_tt: "У вас нет #bold родителя Ланнистера#!"
-  
- asoiaf_baratheon_cadets_decision_confirm: "Учредить Дом"
-  
-  #GREYJOY CADETS 
- asoiaf_greyjoy_cadets_decision: "Учредить ветвь кадетов Грейджоев"
- asoiaf_greyjoy_cadets_tooltip: "Учредите ветвь кадетов Дома [ROOT.Char.GetDynasty.GetName] [dynasty|E]"
- asoiaf_greyjoy_cadets_desc: "В зависимости от моей ситуации, я могу учредить ветвь кадетов моего Дома, ведущую Грейджоев в новое будущее."
- asoiaf_changing_greyjoy_house_tooltip: "Вы находите новую ветвь кадетов Грейджоев из предварительно определенного списка\n#low Каждая ветвь имеет свои требования, которые вы должны выполнить для их установления#!"
-  
- asoiaf_greyjoy_euron_choice: "Дом Грейджоев\n#low Ветвь Эурона#!"
- asoiaf_greyjoy_euron_choice_tooltip: "Требуется [prestige_level|E] уровня #bold Выдающийся или выше#!"
- asoiaf_greyjoy_euron_base_validity_tt: "У вас нет уровня #bold Выдающийся#!"
-  
- asoiaf_greyjoy_cadets_decision_confirm: "Учредить Дом"
-  
-  #BAELISH CADETS 
- asoiaf_baelish_cadets_decision: "Учредить ветвь кадетов Бейлишей"
- asoiaf_baelish_cadets_tooltip: "Учредите ветвь кадетов Дома [ROOT.Char.GetDynasty.GetName] [dynasty|E]"
- asoiaf_baelish_cadets_desc: "В зависимости от моей ситуации, я могу учредить ветвь кадетов моего Дома, ведущую Бейлишей в новое будущее."
- asoiaf_changing_baelish_house_tooltip: "Вы находите новую ветвь кадетов Бейлишей из предварительно определенного списка\n#low Каждая ветвь имеет свои требования, которые вы должны выполнить для их установления#!"
-  
- asoiaf_baelish_hh_choice: "Дом Бейлишей\n#low Из Харренхола#!"
- asoiaf_baelish_hh_choice_tooltip: "Требуется наличие черт #bold Амбициозный#! и #bold Манипулятор#!"
- asoiaf_baelish_hh_base_validity_tt: "У вас нет черт Амбициозный и Манипулятор"
-  
- asoiaf_baelish_cadets_decision_confirm: "Учредить Дом"
-  
-  #HARLAW CADETS 
- asoiaf_harlaw_cadets_decision: "Учредить младшую ветвь Харлоу"
- asoiaf_harlaw_cadets_tooltip: "Учредите младшую ветвь  Дома [ROOT.Char.GetDynasty.GetName] [dynasty|E]"
- asoiaf_harlaw_cadets_desc: "В зависимости от моей ситуации, я могу учредить младшую ветвь моего Дома, ведущую династию Харлоу в новое будущее."
- asoiaf_changing_harlaw_house_tooltip: "Вы находите новую младшую ветвь Харлоу из предварительно определенного списка\n#low Каждая ветвь имеет свои требования, которые вы должны выполнить для их установления#!"
-  
- asoiaf_harlaw_tg_choice: "Дом Харлоу\n#low Из Башни Сверкающего Света#!"
- asoiaf_harlaw_tg_choice_tooltip: "Требуется [prestige_level|E] уровня #bold Выдающийся или выше#!"
- asoiaf_harlaw_tg_base_validity_tt: "У вас нет уровня #bold Выдающийся#!"
-  
- asoiaf_harlaw_hh_choice: "Дом Харлоу\n#low Из Холма Харридан#!"
- asoiaf_harlaw_hh_choice_tooltip: "Требуется [prestige_level|E] уровня #bold Выдающийся или выше#!"
- asoiaf_harlaw_hh_base_validity_tt: "У вас нет уровня #bold Выдающийся#!"
-  
- asoiaf_harlaw_hhall_choice: "Дом Харлоу\n#low Из Холла Харлоу#!"
- asoiaf_harlaw_hhall_choice_tooltip: "Требуется [prestige_level|E] уровня #bold Выдающийся или выше#!"
- asoiaf_harlaw_hhall_base_validity_tt: "У вас нет уровня #bold Выдающийся#!"
-  
- asoiaf_harlaw_gg_choice: "Дом Харлоу\n#low Из Серых Садов#!"
- asoiaf_harlaw_gg_choice_tooltip: "Требуется наличие #bold родителя Серреттов#!"
- asoiaf_harlaw_gg_base_validity_tt: "У вас нет #bold родителя Серретт"
-  
- asoiaf_harlaw_cadets_decision_confirm: "Учредить Дом"
-  
-  #JON TARG CADET BRANCH 
- asoiaf_jon_targ_cadet_branch_decision: "Создать младшую ветвь Старков-Таргариенов"
- asoiaf_jon_targ_cadet_branch_desc: "Пришло время мне отказаться от кровавого наследия старого Дома [ROOT.Char.GetHouse.GetNameNoTooltip] и прокладывать свой собственный путь в истории. В качестве главы этой новой ветви я приведу нас к славе и чести."
- asoiaf_jon_targ_cadet_branch_tooltip: "Вы создадите младшую ветвь Таргариенов"
- asoiaf_choosing_jon_targ_cadet_branch_tooltip: "Вы создадите младшую ветвь вашего текущего [house|E]"
- asoiaf_jon_targ_cadet_branch_decision_confirm: "Создать младшую ветвь"
-  
-  #AEGON II GREENS CADET BRANCH 
- asoiaf_aegon_II_greens_cadet_branch_decision: "Создать младшую ветвь фракции «Зелёные»"
- asoiaf_aegon_II_greens_cadet_branch_desc: "Связи между домами Хайтауэр и Таргариен стали крепче, чем когда-либо. Под мудрым руководством моей матери, возможно, пришло время узаконить то, что и так очевидно для всех — навеки объединить наши дома, основав младшую ветвь с цветами моего герба."
- asoiaf_aegon_II_greens_cadet_branch_tooltip: "Вы создадите младшую ветвь дома Таргариенов, основанную на вашем личном гербе"
- asoiaf_choosing_aegon_II_greens_cadet_branch_tooltip: "Вы создаёте младшую ветвь вашего текущего [house|E] основанную на вашем личном гербе — золотом драконе на зелёном фоне"
- asoiaf_choosing_aegon_II_greens_cadet_branch_tooltip_2: "Любой брат или сестра, рождённые от родителя из дома Хайтауэр, присоединятся к вашей новой ветви [house|E]"
- asoiaf_aegon_II_greens_cadet_branch_decision_confirm: "Создать младшую ветвь"
-  
-  #REFORGE ICE 
- asoiaf_reforge_ice_decision: "Перековать Лёд"
- asoiaf_reforge_ice_selection_tooltip: "Перековать великий меч #bold Лёд#! на два клинка меньшего размера"
- asoiaf_reforge_ice_desc: "Имея в руках великий меч из валирийской стали #bold Лёд#!, я могу перековать его на два меньших клинка в стиле моего [дома|E]. Это будет стоить дорого, и мне потребуется найти мастера-кузнеца для такой работы.\n\nПрежние владельцы Льда вряд ли скоро забудут это надругательство..."
- asoiaf_reforge_ice_effect_tooltip_1: "#negative_value Меч #bold Лёд#! будет переплавлен и навсегда уничтожен#!"
- asoiaf_reforge_ice_effect_tooltip_2: "Будут созданы мечи #bold Хранитель клятв#! и #bold Вдовья слеза#!"
- asoiaf_reforge_ice_effect_tooltip_3: "Начнется [вражда домов|E] с #underline Домом Старков#!"
- asoiaf_reforge_ice_decision_confirm: "Переплавить"
- asoiaf_has_ice_tooltip: "У вас есть великий меч из валирийской стали #bold Лёд#!"
- asoiaf_has_master_court_smith_tooltip: "Ваш [GetCourtPositionType('court_smith_court_position').GetName()] обладает следующим:\n • [Способностями|E] уровня$aptitude_excellent$\n • Знает секрет ковки валирийской стали или принадлежит [вере|E] с догматом [GetFaithDoctrine('tenet_blood_magic_steel').GetBaseName]"
+ asoiaf_choose_cadet_button:1 "Посмотреть варианты"
+ #КАДЕТСКИЕ ВЕТВИ БАРАТЕОНОВ
+ asoiaf_baratheon_cadets_decision:0 "Основать младший дом Баратеонов"
+ asoiaf_baratheon_cadets_tooltip:0 "Создать младший дом [ROOT.Char.GetDynasty.GetName] [dynasty|E]"
+ asoiaf_baratheon_cadets_desc:0 "В зависимости от моего положения я могу основать младший дом и открыть Баратеонам новый путь в будущее."
+ asoiaf_changing_baratheon_house_tooltip:0 "Вы основываете новый младший дом Баратеонов из заранее заданного списка\n#low У каждого дома есть собственные требования, которые нужно выполнить, чтобы основать его#!"
+ 
+ asoiaf_baratheon_renly_choice:0 "Дом Баратеонов\n#low Дом Ренли#!"
+ asoiaf_baratheon_renly_choice_tooltip:0 "Требуется одно из:\n     #bold родитель из дома Тиреллов#!\n ИЛИ\n     #bold супруг из дома Тиреллов#!"
+ asoiaf_baratheon_renly_base_validity_tt:0 "У вас нет #bold родителя или супруга из дома Тиреллов#!"
+ 
+ asoiaf_baratheon_rhllor_choice:0 "Дом Баратеонов\n#low Из Драконьего Камня#!"
+ asoiaf_baratheon_rhllor_choice_tooltip:0 "Требуется исповедовать веру из #bold религиозной группы Р’глорианства#!"
+ asoiaf_baratheon_rhllor_base_validity_tt:0 "Вы не исповедуете #bold веру Р’глора#!"
+ 
+ asoiaf_baratheon_kl_choice:0 "Дом Баратеонов\n#low Из Королевской Гавани#!"
+ asoiaf_baratheon_kl_choice_tooltip:0 "Требуется #bold родитель из дома Ланнистеров#!"
+ asoiaf_baratheon_kl_base_validity_tt:0 "У вас нет #bold родителя из дома Ланнистеров#!"
+ 
+ asoiaf_baratheon_cadets_decision_confirm:0 "Основать дом"
+ 
+ #КАДЕТСКИЕ ВЕТВИ ГРЕЙДЖОЕВ
+ asoiaf_greyjoy_cadets_decision:0 "Основать младший дом Грейджоев"
+ asoiaf_greyjoy_cadets_tooltip:0 "Создать младший дом [ROOT.Char.GetDynasty.GetName] [dynasty|E]"
+ asoiaf_greyjoy_cadets_desc:0 "В зависимости от моего положения я могу основать младший дом и открыть Грейджоям новый путь в будущее."
+ asoiaf_changing_greyjoy_house_tooltip:0 "Вы основываете новый младший дом Грейджоев из заранее заданного списка\n#low У каждого дома есть собственные требования, которые нужно выполнить, чтобы основать его#!"
+ 
+ asoiaf_greyjoy_euron_choice:0 "Дом Грейджоев\n#low Дом Эурона#!"
+ asoiaf_greyjoy_euron_choice_tooltip:0 "Требуется [prestige_level|E] #bold «Прославленный»#! или выше"
+ asoiaf_greyjoy_euron_base_validity_tt:0 "У вас нет #bold уровня славы «Прославленный»#!"
+ 
+ asoiaf_greyjoy_cadets_decision_confirm:0 "Основать дом"
+ 
+ #КАДЕТСКИЕ ВЕТВИ БЕЙЛИШЕЙ
+ asoiaf_baelish_cadets_decision:0 "Основать младший дом Бейлишей"
+ asoiaf_baelish_cadets_tooltip:0 "Создать младший дом [ROOT.Char.GetDynasty.GetName] [dynasty|E]"
+ asoiaf_baelish_cadets_desc:0 "В зависимости от моего положения я могу основать младший дом своего дома и открыть Бейлишам новый путь в будущее."
+ asoiaf_changing_baelish_house_tooltip:0 "Вы основываете новый младший дом Бейлишей из заранее заданного списка\n#low У каждого дома есть собственные требования, которые нужно выполнить, чтобы основать его#!"
+ 
+ asoiaf_baelish_hh_choice:0 "Дом Бейлишей\n#low Из Харренхола#!"
+ asoiaf_baelish_hh_choice_tooltip:0 "Требуется иметь черты #bold «Амбициозный»#! и #bold «Интриган»#!"
+ asoiaf_baelish_hh_base_validity_tt:0 "У вас #bold нет#! черт «Амбициозный» и «Интриган»"
+ 
+ asoiaf_baelish_cadets_decision_confirm:0 "Основать дом"
+ 
+ #КАДЕТСКИЕ ВЕТВИ ХАРЛОУ
+ asoiaf_harlaw_cadets_decision:0 "Основать младший дом Харлоу"
+ asoiaf_harlaw_cadets_tooltip:0 "Создать младший дом [ROOT.Char.GetDynasty.GetName] [dynasty|E]"
+ asoiaf_harlaw_cadets_desc:0 "В зависимости от моего положения я могу основать младший дом своего дома и открыть Харлоу новый путь в будущее."
+ asoiaf_changing_harlaw_house_tooltip:0 "Вы основываете новый младший дом Харлоу из заранее заданного списка\n#low У каждого дома есть собственные требования, которые нужно выполнить, чтобы основать его#!"
+ 
+ asoiaf_harlaw_tg_choice:0 "Дом Харлоу\n#low У Башни Мерцающих Огней#!"
+ asoiaf_harlaw_tg_choice_tooltip:0 "Требуется [prestige_level|E] #bold «Прославленный»#! или выше"
+ asoiaf_harlaw_tg_base_validity_tt:0 "У вас #bold нет#! уровня славы «Прославленный»"
+ 
+ asoiaf_harlaw_hh_choice:0 "Дом Харлоу\n#low На Холме Харридан#!"
+ asoiaf_harlaw_hh_choice_tooltip:0 "Требуется [prestige_level|E] #bold «Прославленный»#! или выше"
+ asoiaf_harlaw_hh_base_validity_tt:0 "У вас #bold нет#! уровня славы «Прославленный»"
+ 
+ asoiaf_harlaw_hhall_choice:0 "Дом Харлоу\n#low В Холле Харлоу#!"
+ asoiaf_harlaw_hhall_choice_tooltip:0 "Требуется [prestige_level|E] #bold «Прославленный»#! или выше"
+ asoiaf_harlaw_hhall_base_validity_tt:0 "У вас #bold нет#! уровня славы «Прославленный»"
+ 
+ asoiaf_harlaw_gg_choice:0 "Дом Харлоу\n#low В Сером Саду#!"
+ asoiaf_harlaw_gg_choice_tooltip:0 "Требуется #bold родитель из дома Серреттов#!"
+ asoiaf_harlaw_gg_base_validity_tt:0 "У вас #bold нет#! родителя из дома Серреттов"
+ 
+ asoiaf_harlaw_cadets_decision_confirm:0 "Основать дом"
+ 
+ #КАДЕТСКАЯ ВЕТВЬ ДЖОНА-ТАРГА
+ asoiaf_jon_targ_cadet_branch_decision:0 "Создать младший дом Старков-Таргариенов"
+ asoiaf_jon_targ_cadet_branch_desc:0 "Пора оставить кровью залитое наследие старого дома [ROOT.Char.GetHouse.GetNameNoTooltip] и вырубить собственный путь в истории. Став главой новой ветви, я поведу наш дом к славе и чести."
+ asoiaf_jon_targ_cadet_branch_tooltip:0 "Вы создадите младший дом Таргариенов"
+ asoiaf_choosing_jon_targ_cadet_branch_tooltip:0 "Вы создаёте младший дом текущего [house|E]"
+ asoiaf_jon_targ_cadet_branch_decision_confirm:0 "Создать младший дом"
+ 
+ #КАДЕТСКАЯ ВЕТВЬ ЭЙГОНА II «ЗЕЛЁНЫЕ»
+ asoiaf_aegon_II_greens_cadet_branch_decision:0 "Создать младший дом Зелёных"
+ asoiaf_aegon_II_greens_cadet_branch_desc:0 "Связи домов Хайтауэров и Таргариенов стали крепче, чем когда-либо. Под твёрдой рукой матери, направляющей меня, возможно, пришла пора узаконить то, что и так очевидно всем, — навсегда связать наши дома, создав младший дом в цветах моего личного герба."
+ asoiaf_aegon_II_greens_cadet_branch_tooltip:0 "Вы создадите младший дом Таргариенов на основе вашего личного герба"
+ asoiaf_choosing_aegon_II_greens_cadet_branch_tooltip:0 "Вы создаёте младший дом текущего [house|E] на основе личного герба — золотого дракона на зелёном фоне"
+ asoiaf_choosing_aegon_II_greens_cadet_branch_tooltip_2:0 "Любой брат или сестра, рождённые от родителя из дома Хайтауэров, присоединятся к вашему новому [house|E]"
+ asoiaf_aegon_II_greens_cadet_branch_decision_confirm:0 "Создать младший дом"
+ 
+ #ПЕРЕКОВАТЬ «ЛЁД»
+ asoiaf_reforge_ice_decision:0 "Перековать «Лёд»"
+ asoiaf_reforge_ice_selection_tooltip:0 "Перековать великий меч #bold Лёд#! в два меньших клинка"
+ asoiaf_reforge_ice_desc:0 "Имея в руках валирийский великий меч #bold Лёд#!, я могу перековать его в два меньших клинка, выполненных в стиле моего [house|E]. Это обойдётся недёшево, и мне понадобится мастер-кузнец, способный взяться за такую работу.\n\nПрежние владельцы «Льда» не скоро забудут это оскорбление…"
+ asoiaf_reforge_ice_effect_tooltip_1:0 "#negative_value #bold Лёд#! будет переплавлен и навсегда уничтожен#!"
+ asoiaf_reforge_ice_effect_tooltip_2:0 "Будут созданы мечи #bold «Клятвохранитель»#! и #bold «Вдовий Плач»#!"
+ asoiaf_reforge_ice_effect_tooltip_3:0 "Начинается [house_feud|E] с #underline домом Старков#!"
+ asoiaf_reforge_ice_decision_confirm:0 "Переплавить"
+ asoiaf_has_ice_tooltip:0 "У вас есть валирийский великий меч #bold Лёд#!"
+ asoiaf_has_master_court_smith_tooltip:0 "Ваш [GetCourtPositionType('court_smith_court_position').GetName()] обладает всем перечисленным:\n • [aptitude|E]$aptitude_excellent$\n • Знает, как перековывать валирийскую сталь, или исповедует [faith|E] с догматом [GetFaithDoctrine('tenet_blood_magic_steel').GetBaseName]"

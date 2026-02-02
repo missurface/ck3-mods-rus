@@ -1,23 +1,23 @@
 ﻿l_russian:
- asoiaf_tell_jons_secret_interaction: "Рассказать секрет Джона"
-  
- asoiaf_told_jons_secret_desc: "Рассказан секрет Джона"
- asoiaf_told_jons_secret_tt: "Рассказал [recipient.GetFirstName] о тайном происхождении Джона"
- asoiaf_learned_jons_secret_desc: "Узнал секрет Джона"
- asoiaf_learned_jons_secret_tt: "Узнал о тайном происхождении Джона Сноу от [actor.GetName]"
-  
- asoiaf_designate_heir_interaction: "Незаконно назначить наследника"
- asoiaf_designate_heir_interaction_desc: "Выберите [recipient.GetShortUINameNoTooltip] в качестве вашего [designated_heir|E], несмотря на вашу низкую [crown_authority|E]\n@warning_icon! #X Это акт [tyranny|E], вызывающий потерю [opinion|E] ваших подданных#!"
-  
- asoiaf_dismiss_kingsguard_interaction: "Уволить члена Королевской гвардии"
- asoiaf_dismiss_kingsguard_interaction_desc: "Принудительно уволить сэра [recipient.GetFirstNameNoTooltip] из [kingsguard|E]\n@warning_icon! #X Это акт [tyranny|E], вызывающий потерю [opinion|E] ваших подданных/вассалов#!"
- asoiaf_is_in_entrenched_regency: "Вы находитесь в укрепленном [regency|E]"
- asoiaf_recipient_is_lord_commander_of_the_kingsguard: "[recipient.GetShortUINameNoTooltip] — лорд-командующий [kingsguard|E]"
- asoiaf_kingsguard_dismissal_notification: "Принудительное увольнение из Королевской гвардии"
- asoiaf_kingsguard_dismissal_notification_desc: "[asoiaf_dismissing_monarch.GetTitledFirstNameNoTooltip] принудительно уволил сэра [recipient.GetFirstNameNoTooltip] из Королевской гвардии"
-  
- asoiaf_force_spouse_heir_designation_interaction: "Заставить супруга назначить вас наследником"
- asoiaf_force_spouse_heir_designation_interaction_desc: "Заставить [recipient.GetShortUINameNoTooltip] объявить вас [recipient.GetHerHis] [designated_heir|E]\n@warning_icon! #X Это злоупотребление властью и вызовет [strife|E] с вашими [vassals|E]#!"
- asoiaf_is_sadistic_or_torturer: "У вас #bold нет#! черт #V Sadistic#! или #V Torturer#!"
- asoiaf_spouse_is_in_dungeon: "[recipient.GetShortUINameNoTooltip] #bold не#! находится в тюрьме типа: #V Dungeon#!"
- asoiaf_spouse_has_been_tortured: "[recipient.GetShortUINamePossessiveNoTooltip] #bold не#! был сломлен через #V torture#!"
+ asoiaf_tell_jons_secret_interaction:0 "Раскрыть тайну Джона"
+ 
+ asoiaf_told_jons_secret_desc:0 "Тайна Джона раскрыта"
+ asoiaf_told_jons_secret_tt:0 "Вы сообщили [recipient.GetFirstName] о тайном происхождении Джона"
+ asoiaf_learned_jons_secret_desc:0 "Тайна Джона раскрыта"
+ asoiaf_learned_jons_secret_tt:0 "Вы узнали о тайном происхождении Джона Сноу от [actor.GetName]"
+ 
+ asoiaf_designate_heir_interaction:0 "Незаконно назначить наследника"
+ asoiaf_designate_heir_interaction_desc:1 "Выбрать [recipient.GetShortUINameNoTooltip] своим [designated_heir|E], несмотря на низкий уровень [crown_authority|E]\n@warning_icon! #X Это акт [tyranny|E], из-за которого ваши подданные потеряют [opinion|E] к вам#!"
+ 
+ asoiaf_dismiss_kingsguard_interaction:0 "Исключить из Королевской гвардии"
+ asoiaf_dismiss_kingsguard_interaction_desc:0 "Насильно исключить сира [recipient.GetFirstNameNoTooltip] из [kingsguard|E]\n@warning_icon! #X Это акт [tyranny|E], из-за которого ваши подданные и равные вам вассалы потеряют [opinion|E] к вам#!"
+ asoiaf_is_in_entrenched_regency:0 "Вы находитесь в укоренившемся [regency|E]"
+ asoiaf_recipient_is_lord_commander_of_the_kingsguard:0 "[recipient.GetShortUINameNoTooltip] — лорд-командующий [kingsguard|E]"
+ asoiaf_kingsguard_dismissal_notification:0 "Принудительное исключение из Королевской гвардии"
+ asoiaf_kingsguard_dismissal_notification_desc:0 "[asoiaf_dismissing_monarch.GetTitledFirstNameNoTooltip] [Select_CString(asoiaf_dismissing_monarch.IsFemale, 'насильно исключила', 'насильно исключил' )] сира [recipient.GetFirstNameNoTooltip] из Королевской гвардии"
+ 
+ asoiaf_force_spouse_heir_designation_interaction:0 "Заставить супруга объявить вас наследником"
+ asoiaf_force_spouse_heir_designation_interaction_desc:1 "Заставить [recipient.GetShortUINameNoTooltip] объявить вас своим [designated_heir|E]\n@warning_icon! #X Это злоупотребление властью и вызовет [strife|E] среди равных вам [vassals|E]#!"
+ asoiaf_is_sadistic_or_torturer:0 "У вас #bold нет#! черты #V Садист#! или #V Палач#!"
+ asoiaf_spouse_is_in_dungeon:0 "[recipient.GetShortUINameNoTooltip] #bold не#! находится в заключении типа: #V Подземелье#!"
+ asoiaf_spouse_has_been_tortured:0 "Пытки #bold не#! сломили [recipient.GetShortUINameNoTooltip]"

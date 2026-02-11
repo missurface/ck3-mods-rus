@@ -1,0 +1,4 @@
+﻿l_russian:
+ # Dummy Titles Window
+ DUMMY_TITLES_WINDOW_TOGGLE_ON:0 "Посмотреть титулы"
+ DUMMY_TITLES_WINDOW_TOGGLE_OFF:0 "Закрыть окно"

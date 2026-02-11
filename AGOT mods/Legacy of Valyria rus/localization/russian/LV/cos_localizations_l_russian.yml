@@ -919,9 +919,9 @@
  name_list_sothori_high: "Низшие Сотторийцы" 
  name_list_sothori_low: "Низшие Сотторийцы" 
 
- brindled_men_high: "Высшие Сотторийцы" 
- brindled_men_high_collective_noun: "Высше-соторийск"
- brindled_men_high_prefix: "Высше"
+ brindled_man_high: "High Sothoryi" 
+ brindled_man_high_collective_noun: "High Sothoryi"
+ brindled_man_high_prefix: "High Sothoryi"
 
  brindled_ghoul: "Пятнистые люди"
  brindled_ghoul_collective_noun: "Пятнисто-людск"

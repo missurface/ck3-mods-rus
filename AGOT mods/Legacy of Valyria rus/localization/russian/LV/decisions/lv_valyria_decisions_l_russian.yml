@@ -21,3 +21,14 @@
  unite_valyria_empire_decision: "Объединить Королевство"
  unite_valyria_empire_decision_desc: "Восстановите сердце некогда могущественного Вальрийского Свободного Царства."
  unite_valyria_empire_decision_effect_tooltip: "Объедините раздробленные земли Валирии, а также все другие земли, которые вы завоевали."
+
+ lv_find_the_dragonblood_decision: "Найти династии драконьей крови"
+ lv_find_the_dragonblood_decision_desc: "Созови придворных и прикажи им составить список всех живущих в мире семей с Кровью Дракона."
+ lv_find_the_dragonblood_decision_tooltip: "Найдите мне Кровь Дракона."
+ lv_find_the_dragonblood_decision_confirm: "Найдите мне Кровь Дракона."
+ lv_find_the_dragonblood_decision_effect: "Будет представлен список всех возможных семей драконьей крови."
+ lv_find_the_dragonblood_decision_effect_tooltip: "Будет представлен список всех возможных семей драконьей крови."
+
+ choose_lv_find_the_dragonblood_name: "Список домов Крови Древней Валирии"
+ choose_lv_find_the_dragonriders_name: "Список домов — всадников драконов"
+ choose_lv_find_the_current_dragonriders_name: "Список нынешних всадников драконов"

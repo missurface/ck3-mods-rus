@@ -199,6 +199,7 @@
  building_great_arena_of_valyria_01: "Остатки Великой арены"
  building_type_great_arena_of_valyria_01: "Остатки Великой арены"
  building_great_arena_of_valyria_01_desc: "Некогда огромная арена, заполненная гладиаторами и зрителями, теперь находится в руинах. Ее восстановление обойдется дорого, но может вернуть радость людям."
+ building_type_great_arena_of_valyria_01_desc: "Некогда огромная арена, заполненная гладиаторами и зрителями, теперь находится в руинах. Ее восстановление обойдется дорого, но может вернуть радость людям."
   
  building_great_arena_of_valyria_02: "Великая арена Валирии"
  building_type_great_arena_of_valyria_02: "Великая арена Валирии"
@@ -207,6 +208,7 @@
  building_great_library_of_valyria_01: "Ветхие руины библиотеки"
  building_type_great_library_of_valyria_01: "Ветхие руины библиотеки"
  building_great_library_of_valyria_01_desc: "Разрушенные остатки великой библиотеки можно было бы восстановить, чтобы в ней хранились великие произведения искусства и литературы."
+ building_type_great_library_of_valyria_01_desc: "Разрушенные остатки великой библиотеки можно было бы восстановить, чтобы в ней хранились великие произведения искусства и литературы."
   
  building_great_library_of_valyria_02: "Великая библиотека Валирии"
  building_type_great_library_of_valyria_02: "Великая библиотека Валирии"
@@ -249,6 +251,8 @@
  building_valyrian_gate_01: "Руины ворот"
  building_type_valyrian_gate_01: "Руины ворот"
  building_valyrian_gate_01_desc: "Руины некогда великих ворот Валирии, могущественного символа богатства и власти, превратились в груду кирпичей."
+ building_type_valyrian_gate_01_desc: "Руины некогда великих ворот Валирии, могущественного символа богатства и власти, превратились в груду кирпичей."
+
   
  building_valyrian_gate_02: "Великие Валирийские врата"
  building_type_valyrian_gate_02: "Великие Валирийские врата"
@@ -257,6 +261,7 @@
  building_great_harbor_of_valyria_01: "Залив для гавани"
  building_type_great_harbor_of_valyria_01: "Великая гавань Валирии"
  building_great_harbor_of_valyria_01_desc: " Этот залив достаточно велик и глубок, чтобы построить Великую гавань, но сейчас здесь нет ничего, кроме рыбы."
+ building_type_great_harbor_of_valyria_01_desc: "Этот залив достаточно велик и глубок, чтобы построить Великую гавань, но сейчас здесь нет ничего, кроме рыбы."
   
  building_great_harbor_of_valyria_02: "Верфи и сухие доки"
  building_type_great_harbor_of_valyria_02: "Великая гавань Валирии"
@@ -298,6 +303,7 @@
  building_great_dragonkeep_of_valyria_01: "Место дворца"
  building_type_great_dragonkeep_of_valyria_01: "Великая Драконья Обитель Валирии"
  building_great_dragonkeep_of_valyria_01_desc: "Мы нашли потенциальное место для великого дворца, который в будущем станет величественной резиденцией. Но пока здесь нет ничего примечательного."
+ building_type_great_dragonkeep_of_valyria_01_desc: "We have located a potential site for a great palace. In the future, it will become the place of grandeur. But for now, there's not much of note here."
   
  building_great_dragonkeep_of_valyria_02: "Закладывая основы"
  building_type_great_dragonkeep_of_valyria_02: "The Great Dragonkeep of Valyria"

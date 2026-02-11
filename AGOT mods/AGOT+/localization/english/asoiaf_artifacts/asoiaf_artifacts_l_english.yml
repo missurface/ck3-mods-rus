@@ -37,3 +37,13 @@
 
  asoiaf_radzig_sword_name:0 "Ser [recipient.GetFirstNamePossessive] Sword"
  asoiaf_radzig_sword_description:0 "Originally forged for [recipient.GetFullName], this bastard sword came to be a symbol of death and vengence. It was forged by the blacksmith [creator.GetFirstName] the same day [creator.GetHerHis] village was raided, resulting in [creator.GetHerHis] death along with [creator.GetHerHis] wife, and orphaning [creator.GetHerHis] adopted son [henry.GetFirstName]. Its hilt is richly carved with floral motifs, while the octagonal pommel bears the sigil of House [recipient.GetDynastyHouseName]. On the blade is inscribed the [recipient.GetDynastyHouseNameNoTooltip] words: #italic King, Family, Vengeance#!."
+
+ asoiaf_hound_armour_name:0 "The Hound's Armour"
+ asoiaf_hound_armour_description:0 "Created for Sandor Clegane, this battle-scarred suit of armour is dominated by an ominous steel helm fashioned in the likeness of a snarling hound. The arms and shoulders are well-protected under segmented steel plates laying on top of a chainmail hauberk, itself worn under a studded leather sleeveless tunic. A dagger is hung from the belt for quick access in emergencies, but the battle of courage will already be won with the fearsome hound helm, sure to intimidate any opponent."
+
+ asoiaf_needle_name:0 "Needle"
+ asoiaf_needle_description:0 "Originally a gift from Jon Snow, this short rapier was forged specifically for the smaller proportions of Arya Stark. Its hilt is made of engraved bronze-gold with the guard vaguely resembling weirwood branches, while the grip is wrapped in a dark brown leather. The sword's sowing-needle-like blade is notably of castle-forged steel, distinguishing it from lesser-made weapons."
+
+ asoiaf_hearteater_name:0 "Hearteater"
+ asoiaf_hearteater_description:0 "This bastard sword was forged for King Joffrey I Baratheon shortly after his crowning. Its gold guard is fashioned into the shape of a stag's antlers, with the grip carved of antler bone, polished for a smoother finish. The hilt is topped by a carved gold pommel with a crown engraving, symbolising the wielder's royal authority."
+ asoiaf_hearteater_dynamic_description:0 "This bastard sword was forged for [owner.GetTitledFirstNameRegnal] shortly after [owner.GetHerHis] ascent to [owner.GetPrimaryTitle.GetNameNoTier]. Its gold guard is fashioned into the shape of a stag's antlers, with the grip carved of antler bone, polished for a smoother finish. The hilt is topped by a carved gold pommel with a crown engraving, symbolising the wielder's royal authority."

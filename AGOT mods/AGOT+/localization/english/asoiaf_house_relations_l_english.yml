@@ -1,0 +1,2 @@
+﻿l_english:
+ house_relation_reason_asoiaf_destroyed_valyrian_steel_artefact_desc: "[target_char.GetShortUIName|U] destroyed a Valyrian steel artefact of House [char.GetDynastyHouseName]"

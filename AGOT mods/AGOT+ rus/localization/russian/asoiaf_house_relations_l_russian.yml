@@ -1,0 +1,2 @@
+﻿l_russian:
+ house_relation_reason_asoiaf_destroyed_valyrian_steel_artefact_desc: "[target_char.GetShortUIName|U] [Select_CString(target_char.IsFemale, 'уничтожила', 'уничтожил' )] артефакт из валирийской стали дома [char.GetDynastyHouseName]"

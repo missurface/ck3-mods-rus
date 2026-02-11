@@ -225,4 +225,5 @@
   
  mde_canon_dragon_clutch_events.0001.t: "[dragon_parent.GetNameNoTooltip] принес кладку!@historical_character_icon_small!"
   
-  
+ agot_ninepenny.1014.c: "Ночь жива музыкой драконов! Этот ребёнок — [Select_CString(ROOT.Char.IsFemale, '«Драконорождённая»', '«Драконорождённый»' )]!"
+ agot_ninepenny.1014.d: "Несмотря на трагедию, с этим ребёнком есть надежда — [Select_CString(ROOT.Char.IsFemale, '«Драконорождённая»', '«Драконорождённый»' )]."

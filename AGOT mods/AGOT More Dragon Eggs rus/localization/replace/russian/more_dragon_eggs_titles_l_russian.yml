@@ -3,3 +3,6 @@
  k_the_sapphire_islands_adj: "Сапфировых Островов"
  d_dornish_islands: "Дорнийские Острова"
  d_dornish_islands_adj: "Дорнийских Островов"
+
+ nick_mde_dragonborn: "[Select_CString(CHARACTER.IsFemale, 'Драконорождённая', 'Драконорождённый' )]"
+ nick_mde_dragonborn_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [Select_CString(CHARACTER.IsFemale, 'родилась', 'родился' )] в ночь, наполненную музыкой драконов."

@@ -371,18 +371,8 @@
   
  setting_ebon_will_desc: "Ксобар 'Черный Принц' Кхока сформирует Сапфировые острова при появлении соответствующего условия."
  setting_ebon_wont_desc: "Ксобар 'Черный Принц' Кхока сохранит Тарт при появлении соответствующего условия."
-  
- rule_jon_snow_appearance: "@mde_icon!Внешность Джона Сноу"
- setting_js_canon_appearance: "Каноничная внешность"
- setting_js_purple_eyes: "Фиолетовые глаза"
- setting_js_purple_eyes_silver_hair: "Фиолетовые глаза и серебряные волосы"
- setting_js_random_appearance: "Случайная"
-  
- setting_js_canon_appearance_desc: "Джон Сноу будет иметь каноничную внешность при каноничном рождении."
- setting_js_purple_eyes_desc: "Джон Сноу будет иметь фиолетовые глаза и каноничные волосы при каноничном рождении."
- setting_js_purple_eyes_silver_hair_desc: "Джон Сноу будет иметь фиолетовые глаза и серебряные волосы при каноничном рождении."
- setting_js_random_appearance_desc: "Внешность Джона Сноу будет случайным образом выбрана из других доступных вариантов."
-  
+
+
  rule_targaryen_exile_success_chance: "@mde_icon!Шанс успеха вылупления яиц Таргариенов в изгнании@drogon_dragon_egg_icon!@tan_dragon_egg_icon!@vhagar_dragon_egg_icon!"
  setting_targaryen_exile_guaranteed: "Гарантированно"
  setting_targaryen_exile_very_likely: "Очень вероятно"
@@ -445,6 +435,5 @@
  game_rule_category_hatching: "Церемонии вылупления"
  game_rule_category_egg: "Яйца драконов"
  game_rule_category_dragonlore: "Драконьи предания"
- game_rule_category_dragon: "Драконы"
  game_rule_category_scenario_modification: "Изменение сценария"
  game_rule_category_mde_misc: "Дополнительные настройки"

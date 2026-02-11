@@ -3,3 +3,6 @@
  k_the_sapphire_islands_adj:0 "The Sapphire Islands"
  d_dornish_islands:0 "The Dornish Islands"
  d_dornish_islands_adj:0 "The Dornish Islands"
+
+ nick_mde_dragonborn:0 "Dragonborn"
+ nick_mde_dragonborn_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharWereWas(CHARACTER)] born on the night that came alive with the music of dragons."

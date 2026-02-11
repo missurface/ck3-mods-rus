@@ -372,16 +372,6 @@
  setting_ebon_will_desc:0 "Xhobar 'The Ebon Prince' Qhoqua will form The Sapphire Islands when prompted."
  setting_ebon_wont_desc:0 "Xhobar 'The Ebon Prince' Qhoqua will keep Tarth when prompted."
 
- rule_jon_snow_appearance:0 "@mde_icon!Jon Snow Appearance"
- setting_js_canon_appearance:0 "Canon Appearance"
- setting_js_purple_eyes:0 "Purple Eyes"
- setting_js_purple_eyes_silver_hair:0 "Purple Eyes and Silver Hair"
- setting_js_random_appearance:0 "Random"
-
- setting_js_canon_appearance_desc:0 "Jon Snow will have his canon appearance as a canon birth."
- setting_js_purple_eyes_desc:0 "Jon Snow will have purple eyes and his canon hair as a canon birth."
- setting_js_purple_eyes_silver_hair_desc:0 "Jon Snow will have purple eyes and silver hair as a canon birth."
- setting_js_random_appearance_desc:0 "Jon Snow's appearance will be randomly selected to be one of the other listed options."
 
  rule_targaryen_exile_success_chance:0 "@mde_icon!Targaryen Exile Hatching Success Chance@drogon_dragon_egg_icon!@tan_dragon_egg_icon!@vhagar_dragon_egg_icon!"
  setting_targaryen_exile_guaranteed:0 "Guaranteed"
@@ -445,6 +435,5 @@
  game_rule_category_hatching:0 "Hatching Ceremonies"
  game_rule_category_egg:0 "Dragon Eggs"
  game_rule_category_dragonlore:0 "Dragonlore"
- game_rule_category_dragon:0 "Dragons"
  game_rule_category_scenario_modification:0 "Scenario Modification"
  game_rule_category_mde_misc:0 "More Dragon Eggs Tweaks"

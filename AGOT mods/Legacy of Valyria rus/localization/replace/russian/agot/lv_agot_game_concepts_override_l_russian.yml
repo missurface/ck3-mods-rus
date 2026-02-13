@@ -1,10 +1,10 @@
 ﻿l_russian:
-   # Night's Watch 
- game_concept_nw_govt: "Ночной Дозор" #NT!
- game_concept_nw_govt_desc: "#bold Ночной Дозор#! — это военный орден, посвящённый охране [watch_wall|E], огромного укрепления на северной границе [seven_kingdoms|E], защищающего владения людей от того, что скрывается [beyond_the_wall|E]. Орден был основан ещё в [age_of_heroes|E], когда [others|E] были оттеснены. Люди из #bold Ночного Дозора#! носят только чёрное и известны как #bold чёрные братья#!. О новобранцах, присоединившихся к #bold Дозору#!, говорят, что они #bold надели чёрное#!.\n\nПри $game_concept_nw_govt$ [government_form|E] верховный [liege|E] раздаёт [land|E] [vassals|E] для управления и защиты. Только присягнувшие братья Ночного Дозора могут владеть титулами при таком типе правления, и после их смерти титулы возвращаются их сюзерену." #NT!
- game_concept_nw_govt_i: "@nights_watch_government!" #NT!
-  
-   # Dragons 
- DRAGON_RELATION_IS_WANDERING: "[Character.Custom('LV_FirewyrmLocation')]" #NT!
- DRAGON_RELATION_IS_WANDERING.FIREWYRM: "Рыскает по [Character.GetCurrentLocation.GetName|V]" #NT!
- DRAGON_RELATION_IS_WANDERING.VANILLA: "Летает вокруг [Character.GetCurrentLocation.GetName|V]" #NT!
+   # Night's Watch
+   game_concept_nw_govt:0 "Ночной Дозор"
+   game_concept_nw_govt_desc:0 "#bold Ночной Дозор#! — военный орден, посвятивший себя охране [Concept('watch_wall', 'Стены')|E] — грандиозного укрепления на северной границе [Concept('seven_kingdoms', 'Семи Королевств')|E], защищающего людские державы от того, что таится [beyond_the_wall|E]. Орден был основан в [Concept('age_of_heroes', 'Эпоху Героев')|E], когда [others|E] были отброшены. Братья #bold Ночного Дозора#! носят исключительно чёрное и известны как #bold чёрные братья#!. О новобранцах, вступающих в #bold Дозор#!, говорят, что они #bold надели чёрное#!.\n\nПри [government_form|E] «$game_concept_nw_govt$» верховный [liege|E] распределяет [land|E] между [vassals|E] для управления и защиты. Только присягнувшие братья Ночного Дозора могут владеть титулами при этой форме правления, а после их смерти титулы возвращаются к сюзерену."
+   game_concept_nw_govt_i:0 "@nights_watch_government!"
+
+   # Dragons
+   DRAGON_RELATION_IS_WANDERING:0 "[Character.Custom('LV_FirewyrmLocation')]"
+   DRAGON_RELATION_IS_WANDERING.FIREWYRM:0 "Рыщет по [Character.GetCurrentLocation.GetName|V]"
+   DRAGON_RELATION_IS_WANDERING.VANILLA:0 "Летает над [Character.GetCurrentLocation.GetName|V]"

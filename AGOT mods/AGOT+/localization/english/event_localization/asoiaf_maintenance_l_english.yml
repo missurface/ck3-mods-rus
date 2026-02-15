@@ -76,4 +76,4 @@
  asoiaf_maintenance_events_0015:0 "A Sword Fit for A [ROOT.Char.GetTitleAsNameNoTooltip]"
  asoiaf_maintenance_events_0015_desc:0 "A fortnight has passed since I commanded [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierPossessiveNoTooltip] smiths to forge me a new sword, and finally I am informed that the blade is finished.\n\nThe smiths usher me to their workshop where they unveil their labour. They have made me a bastard sword of great beauty, though perhaps not the height of craftsmanship. Its hilt is made of gold and carved antler bone, with the engraved pommel bearing an etching of a crown, and the guard shaped into a pair of antlers in honour of my House.\n\nThis sword would be a fine addition to any [ROOT.Char.GetTitleAsNamePossessiveNoTooltip] armoury... but is it worthy of #italic me#!?"
  asoiaf_maintenance_events.0015.a:0 "Yes, I shall name it #italic Hearteater#! @asoiaf_icon_hearteater!"
- asoiaf_maintenance_events.0015.b:0 "This is hardly what I wanted, away with you!"
+ asoiaf_maintenance_events.0015.b:0 ""This is hardly what I wanted, away with you!""

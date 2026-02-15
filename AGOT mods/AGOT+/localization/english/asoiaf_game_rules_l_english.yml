@@ -248,89 +248,89 @@
  setting_asoiaf_new_dnas_dragons_rule_on_desc:0 "Dragons are given #bold new DNA#!."
  
  #Valyrian New CLOTHES
- rule_asoiaf_new_clothes_valyrian_rule:0 "@asoiaf_icon! New Valyrian #bold #G Clothes & Artefacts#!#!"
+ rule_asoiaf_new_clothes_valyrian_rule:0 "@asoiaf_icon! New Valyrian #bold #G Aesthetics#!#!"
  setting_asoiaf_new_clothes_valyrian_rule_off:0 "Default"
- setting_asoiaf_new_clothes_valyrian_rule_on:0 "#high New Clothes & Artefacts#!"
+ setting_asoiaf_new_clothes_valyrian_rule_on:0 "#high New Aesthetics#!"
  
- setting_asoiaf_new_clothes_valyrian_rule_off_desc:0 "Valyrian characters are #bold not#! given new clothes and artefact visuals."
- setting_asoiaf_new_clothes_valyrian_rule_on_desc:0 "Valyrian characters are given #bold new clothes and artefact visuals#!."
+ setting_asoiaf_new_clothes_valyrian_rule_off_desc:0 "Valyrian characters are #bold not#! given new clothes, artefact, and court room visuals."
+ setting_asoiaf_new_clothes_valyrian_rule_on_desc:0 "Valyrian characters are given #bold new clothes, artefact, and court room visuals#!."
  
  #North New CLOTHES
- rule_asoiaf_new_clothes_north_rule:0 "@asoiaf_icon! New North #bold #G Clothes & Artefacts#!#!"
+ rule_asoiaf_new_clothes_north_rule:0 "@asoiaf_icon! New North #bold #G Aesthetics#!#!"
  setting_asoiaf_new_clothes_north_rule_off:0 "Default"
- setting_asoiaf_new_clothes_north_rule_on:0 "#high New Clothes & Artefacts#!"
+ setting_asoiaf_new_clothes_north_rule_on:0 "#high New Aesthetics#!"
  
- setting_asoiaf_new_clothes_north_rule_off_desc:0 "North characters are #bold not#! given new clothes and artefact visuals."
- setting_asoiaf_new_clothes_north_rule_on_desc:0 "North characters are given #bold new clothes and artefact visuals#!."
+ setting_asoiaf_new_clothes_north_rule_off_desc:0 "North characters are #bold not#! given new clothes, artefact, and court room visuals."
+ setting_asoiaf_new_clothes_north_rule_on_desc:0 "North characters are given #bold new clothes, artefact, and court room visuals#!."
  
  #Crownlands New CLOTHES
- rule_asoiaf_new_clothes_crownlands_rule:0 "@asoiaf_icon! New Crownlands #bold #G Clothes & Artefacts#!#!"
+ rule_asoiaf_new_clothes_crownlands_rule:0 "@asoiaf_icon! New Crownlands #bold #G Aesthetics#!#!"
  setting_asoiaf_new_clothes_crownlands_rule_off:0 "Default"
- setting_asoiaf_new_clothes_crownlands_rule_on:0 "#high New Clothes & Artefacts#!"
+ setting_asoiaf_new_clothes_crownlands_rule_on:0 "#high New Aesthetics#!"
  
- setting_asoiaf_new_clothes_crownlands_rule_off_desc:0 "Crownlands characters are #bold not#! given new clothes and artefact visuals."
- setting_asoiaf_new_clothes_crownlands_rule_on_desc:0 "Crownlands characters are given #bold new clothes and artefact visuals#!."
+ setting_asoiaf_new_clothes_crownlands_rule_off_desc:0 "Crownlands characters are #bold not#! given new clothes, artefact, and court room visuals."
+ setting_asoiaf_new_clothes_crownlands_rule_on_desc:0 "Crownlands characters are given #bold new clothes, artefact, and court room visuals#!."
  
  #Vale New CLOTHES
- rule_asoiaf_new_clothes_vale_rule:0 "@asoiaf_icon! New Vale #bold #G Clothes & Artefacts#!#!"
+ rule_asoiaf_new_clothes_vale_rule:0 "@asoiaf_icon! New Vale #bold #G Aesthetics#!#!"
  setting_asoiaf_new_clothes_vale_rule_off:0 "Default"
- setting_asoiaf_new_clothes_vale_rule_on:0 "#high New Clothes & Artefacts#!"
+ setting_asoiaf_new_clothes_vale_rule_on:0 "#high New Aesthetics#!"
  
- setting_asoiaf_new_clothes_vale_rule_off_desc:0 "Vale characters are #bold not#! given new clothes and artefact visuals."
- setting_asoiaf_new_clothes_vale_rule_on_desc:0 "Vale characters are given #bold new clothes and artefact visuals#!."
+ setting_asoiaf_new_clothes_vale_rule_off_desc:0 "Vale characters are #bold not#! given new clothes artefact, and court room visuals."
+ setting_asoiaf_new_clothes_vale_rule_on_desc:0 "Vale characters are given #bold new clothes, artefact, and court room visuals#!."
  
  #Riverlands New CLOTHES
- rule_asoiaf_new_clothes_riverlands_rule:0 "@asoiaf_icon! New Riverlands #bold #G Clothes & Artefacts#!#!"
+ rule_asoiaf_new_clothes_riverlands_rule:0 "@asoiaf_icon! New Riverlands #bold #G Aesthetics#!#!"
  setting_asoiaf_new_clothes_riverlands_rule_off:0 "Default"
- setting_asoiaf_new_clothes_riverlands_rule_on:0 "#high New Clothes & Artefacts#!"
+ setting_asoiaf_new_clothes_riverlands_rule_on:0 "#high New Aesthetics#!"
  
- setting_asoiaf_new_clothes_riverlands_rule_off_desc:0 "Riverlands characters are #bold not#! given new clothes and artefact visuals."
- setting_asoiaf_new_clothes_riverlands_rule_on_desc:0 "Riverlands characters are given #bold new clothes and artefact visuals#!."
+ setting_asoiaf_new_clothes_riverlands_rule_off_desc:0 "Riverlands characters are #bold not#! given new clothes, artefact, and court room visuals."
+ setting_asoiaf_new_clothes_riverlands_rule_on_desc:0 "Riverlands characters are given #bold new clothes, artefact, and court room visuals#!."
  
  #Westerlands New CLOTHES
- rule_asoiaf_new_clothes_westerlands_rule:0 "@asoiaf_icon! New Westerlands #bold #G Clothes & Artefacts#!#!"
+ rule_asoiaf_new_clothes_westerlands_rule:0 "@asoiaf_icon! New Westerlands #bold #G Aesthetics#!#!"
  setting_asoiaf_new_clothes_westerlands_rule_off:0 "Default"
- setting_asoiaf_new_clothes_westerlands_rule_on:0 "#high New Clothes & Artefacts#!"
+ setting_asoiaf_new_clothes_westerlands_rule_on:0 "#high New Aesthetics#!"
  
- setting_asoiaf_new_clothes_westerlands_rule_off_desc:0 "Westerlands characters are #bold not#! given new clothes and artefact visuals."
- setting_asoiaf_new_clothes_westerlands_rule_on_desc:0 "Westerlands characters are given #bold new clothes and artefact visuals#!."
+ setting_asoiaf_new_clothes_westerlands_rule_off_desc:0 "Westerlands characters are #bold not#! given new clothes, artefact, and court room visuals."
+ setting_asoiaf_new_clothes_westerlands_rule_on_desc:0 "Westerlands characters are given #bold new clothes, artefact, and court room visuals#!."
  
  #Reach New CLOTHES
- rule_asoiaf_new_clothes_reach_rule:0 "@asoiaf_icon! New Reach #bold #G Clothes & Artefacts#!#!"
+ rule_asoiaf_new_clothes_reach_rule:0 "@asoiaf_icon! New Reach #bold #G Aesthetics#!#!"
  setting_asoiaf_new_clothes_reach_rule_off:0 "Default"
- setting_asoiaf_new_clothes_reach_rule_on:0 "#high New Clothes & Artefacts#!"
+ setting_asoiaf_new_clothes_reach_rule_on:0 "#high New Aesthetics#!"
  
- setting_asoiaf_new_clothes_reach_rule_off_desc:0 "Reach characters are #bold not#! given new clothes and artefact visuals."
- setting_asoiaf_new_clothes_reach_rule_on_desc:0 "Reach characters are given #bold new clothes and artefact visuals#!."
+ setting_asoiaf_new_clothes_reach_rule_off_desc:0 "Reach characters are #bold not#! given new clothes, artefact, and court room visuals."
+ setting_asoiaf_new_clothes_reach_rule_on_desc:0 "Reach characters are given #bold new clothes, artefact, and court room visuals#!."
  
  #Stormlands New CLOTHES
- rule_asoiaf_new_clothes_stormlands_rule:0 "@asoiaf_icon! New Stormlands #bold #G Clothes & Artefacts#!#!"
+ rule_asoiaf_new_clothes_stormlands_rule:0 "@asoiaf_icon! New Stormlands #bold #G Aesthetics#!#!"
  setting_asoiaf_new_clothes_stormlands_rule_off:0 "Default"
- setting_asoiaf_new_clothes_stormlands_rule_on:0 "#high New Clothes & Artefacts#!"
+ setting_asoiaf_new_clothes_stormlands_rule_on:0 "#high New Aesthetics#!"
  
- setting_asoiaf_new_clothes_stormlands_rule_off_desc:0 "Stormlands characters are #bold not#! given new clothes and artefact visuals."
- setting_asoiaf_new_clothes_stormlands_rule_on_desc:0 "Stormlands characters are given #bold new clothes and artefact visuals#!."
+ setting_asoiaf_new_clothes_stormlands_rule_off_desc:0 "Stormlands characters are #bold not#! given new clothes, artefact, and court room visuals."
+ setting_asoiaf_new_clothes_stormlands_rule_on_desc:0 "Stormlands characters are given #bold new clothes, artefact, and court room visuals#!."
  
  #Dorne New CLOTHES
- rule_asoiaf_new_clothes_dorne_rule:0 "@asoiaf_icon! New Dorne #bold #G Clothes & Artefacts#!#!"
+ rule_asoiaf_new_clothes_dorne_rule:0 "@asoiaf_icon! New Dorne #bold #G Aesthetics#!#!"
  setting_asoiaf_new_clothes_dorne_rule_off:0 "Default"
- setting_asoiaf_new_clothes_dorne_rule_on:0 "#high New Clothes & Artefacts#!"
+ setting_asoiaf_new_clothes_dorne_rule_on:0 "#high New Aesthetics#!"
  
- setting_asoiaf_new_clothes_dorne_rule_off_desc:0 "Dorne characters are #bold not#! given new clothes and artefact visuals."
- setting_asoiaf_new_clothes_dorne_rule_on_desc:0 "Dorne characters are given #bold new clothes and artefact visuals#!."
+ setting_asoiaf_new_clothes_dorne_rule_off_desc:0 "Dorne characters are #bold not#! given new clothes, artefact, and court room visuals."
+ setting_asoiaf_new_clothes_dorne_rule_on_desc:0 "Dorne characters are given #bold new clothes, artefact, and court room visuals#!."
  
  #Iron Isles New CLOTHES
- rule_asoiaf_new_clothes_iron_isles_rule:0 "@asoiaf_icon! New Iron Isles #bold #G Clothes & Artefacts#!#!"
+ rule_asoiaf_new_clothes_iron_isles_rule:0 "@asoiaf_icon! New Iron Isles #bold #G Aesthetics#!#!"
  setting_asoiaf_new_clothes_iron_isles_rule_off:0 "Default"
- setting_asoiaf_new_clothes_iron_isles_rule_on:0 "#high New Clothes & Artefacts#!"
+ setting_asoiaf_new_clothes_iron_isles_rule_on:0 "#high New Aesthetics#!"
  
- setting_asoiaf_new_clothes_iron_isles_rule_off_desc:0 "Iron Isles characters are #bold not#! given new clothes and artefact visuals."
- setting_asoiaf_new_clothes_iron_isles_rule_on_desc:0 "Iron Isles characters are given #bold new clothes and artefact visuals#!."
+ setting_asoiaf_new_clothes_iron_isles_rule_off_desc:0 "Iron Isles characters are #bold not#! given new clothes, artefact, and court room visuals."
+ setting_asoiaf_new_clothes_iron_isles_rule_on_desc:0 "Iron Isles characters are given #bold new clothes, artefact, and court room visuals#!."
  
  #Essos New CLOTHES
- rule_asoiaf_new_clothes_essos_rule:0 "@asoiaf_icon! New Essos #bold #G Clothes & Artefacts#!#!"
+ rule_asoiaf_new_clothes_essos_rule:0 "@asoiaf_icon! New Essos #bold #G Aesthetics#!#!"
  setting_asoiaf_new_clothes_essos_rule_off:0 "Default"
- setting_asoiaf_new_clothes_essos_rule_on:0 "#high New Clothes & Artefacts#!"
+ setting_asoiaf_new_clothes_essos_rule_on:0 "#high New Aesthetics#!"
  
- setting_asoiaf_new_clothes_essos_rule_off_desc:0 "Essos characters are #bold not#! given new clothes and artefact visuals."
- setting_asoiaf_new_clothes_essos_rule_on_desc:0 "Essos characters are given #bold new clothes and artefact visuals#!."
+ setting_asoiaf_new_clothes_essos_rule_off_desc:0 "Essos characters are #bold not#! given new clothes, artefact, and court room visuals."
+ setting_asoiaf_new_clothes_essos_rule_on_desc:0 "Essos characters are given #bold new clothes, artefact, and court room visuals#!."

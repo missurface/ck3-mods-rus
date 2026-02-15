@@ -247,90 +247,90 @@
  setting_asoiaf_new_dnas_dragons_rule_off_desc:0 "Драконы сохраняют #bold стандартную ДНК AGOT#!."
  setting_asoiaf_new_dnas_dragons_rule_on_desc:0 "Драконы получают #bold новую ДНК#!."
  
- #Новая валирийская одежда и артефакты
- rule_asoiaf_new_clothes_valyrian_rule:0 "@asoiaf_icon! Новые валирийские #bold #G одежда и артефакты#!#!"
+ #Новая валирийская эстетика
+ rule_asoiaf_new_clothes_valyrian_rule:0 "@asoiaf_icon! Новая валирийская #bold #G эстетика#!#!"
  setting_asoiaf_new_clothes_valyrian_rule_off:0 "По умолчанию"
- setting_asoiaf_new_clothes_valyrian_rule_on:0 "#high Новая одежда и артефакты#!"
+ setting_asoiaf_new_clothes_valyrian_rule_on:0 "#high Новая эстетика#!"
  
- setting_asoiaf_new_clothes_valyrian_rule_off_desc:0 "Валирийцам #bold не#! выдаются новые образы одежды и артефактов."
- setting_asoiaf_new_clothes_valyrian_rule_on_desc:0 "Валирийцам выдаются #bold новые образы одежды и артефактов#!."
+ setting_asoiaf_new_clothes_valyrian_rule_off_desc:0 "Валирийцам #bold не#! выдаются образы одежды, артефактов и королевских."
+ setting_asoiaf_new_clothes_valyrian_rule_on_desc:0 "Валирийцам выдаются #bold новые образы одежды, артефактов и королевских дворов#!."
  
- #Новая одежда и артефакты Севера
- rule_asoiaf_new_clothes_north_rule:0 "@asoiaf_icon! Новые Северные #bold #G одежда и артефакты#!#!"
+ #Новая эстетика Севера
+ rule_asoiaf_new_clothes_north_rule:0 "@asoiaf_icon! Новая северная #bold #G эстетика#!#!"
  setting_asoiaf_new_clothes_north_rule_off:0 "По умолчанию"
- setting_asoiaf_new_clothes_north_rule_on:0 "#high Новая одежда и артефакты#!"
+ setting_asoiaf_new_clothes_north_rule_on:0 "#high Новая эстетика#!"
  
- setting_asoiaf_new_clothes_north_rule_off_desc:0 "Персонажам Севера #bold не#! выдаются новые образы одежды и артефактов."
- setting_asoiaf_new_clothes_north_rule_on_desc:0 "Персонажам Севера выдаются #bold новые образы одежды и артефактов#!."
+ setting_asoiaf_new_clothes_north_rule_off_desc:0 "Персонажам Севера #bold не#! выдаются образы одежды, артефактов и королевских."
+ setting_asoiaf_new_clothes_north_rule_on_desc:0 "Персонажам Севера выдаются #bold новые образы одежды, артефактов и королевских#!."
  
- #Новая одежда и артефакты Королевских земель
- rule_asoiaf_new_clothes_crownlands_rule:0 "@asoiaf_icon! Новые #bold #G одежда и артефакты#!#! Королевских земель"
+ #Новая эстетика Королевских земель
+ rule_asoiaf_new_clothes_crownlands_rule:0 "@asoiaf_icon! Новая королевская #bold #G эстетика#!#! Королевских земель"
  setting_asoiaf_new_clothes_crownlands_rule_off:0 "По умолчанию"
- setting_asoiaf_new_clothes_crownlands_rule_on:0 "#high Новая одежда и артефакты#!"
+ setting_asoiaf_new_clothes_crownlands_rule_on:0 "#high Новая эстетика#!"
  
- setting_asoiaf_new_clothes_crownlands_rule_off_desc:0 "Персонажам Королевских земель #bold не#! выдаются новые образы одежды и артефактов."
- setting_asoiaf_new_clothes_crownlands_rule_on_desc:0 "Персонажам Королевских земель выдаются #bold новые образы одежды и артефактов#!."
+ setting_asoiaf_new_clothes_crownlands_rule_off_desc:0 "Персонажам Королевских земель #bold не#! выдаются образы одежды, артефактов и королевских."
+ setting_asoiaf_new_clothes_crownlands_rule_on_desc:0 "Персонажам Королевских земель выдаются #bold новые образы одежды, артефактов и королевских#!."
  
- #Новая одежда и артефакты Долины
- rule_asoiaf_new_clothes_vale_rule:0 "@asoiaf_icon! Новые Долинные #bold #G одежда и артефакты#!#!"
+ #Новая эстетика Долины
+ rule_asoiaf_new_clothes_vale_rule:0 "@asoiaf_icon! Новая долинная #bold #G эстетика#!#!"
  setting_asoiaf_new_clothes_vale_rule_off:0 "По умолчанию"
- setting_asoiaf_new_clothes_vale_rule_on:0 "#high Новая одежда и артефакты#!"
+ setting_asoiaf_new_clothes_vale_rule_on:0 "#high Новая эстетика#!"
  
- setting_asoiaf_new_clothes_vale_rule_off_desc:0 "Персонажам Долины #bold не#! выдаются новые образы одежды и артефактов."
- setting_asoiaf_new_clothes_vale_rule_on_desc:0 "Персонажам Долины выдаются #bold новые образы одежды и артефактов#!."
+ setting_asoiaf_new_clothes_vale_rule_off_desc:0 "Персонажам Долины #bold не#! выдаются образы одежды, артефактов и королевских."
+ setting_asoiaf_new_clothes_vale_rule_on_desc:0 "Персонажам Долины выдаются #bold новые образы одежды, артефактов и королевских#!."
  
- #Новая одежда и артефакты Речных земель
- rule_asoiaf_new_clothes_riverlands_rule:0 "@asoiaf_icon! Новые Речные #bold #G одежда и артефакты#!#!"
+ #Новая эстетика Речных земель
+ rule_asoiaf_new_clothes_riverlands_rule:0 "@asoiaf_icon! Новая речная #bold #G эстетика#!#!"
  setting_asoiaf_new_clothes_riverlands_rule_off:0 "По умолчанию"
- setting_asoiaf_new_clothes_riverlands_rule_on:0 "#high Новая одежда и артефакты#!"
+ setting_asoiaf_new_clothes_riverlands_rule_on:0 "#high Новая эстетика#!"
  
- setting_asoiaf_new_clothes_riverlands_rule_off_desc:0 "Персонажам Речных земель #bold не#! выдаются новые образы одежды и артефактов."
- setting_asoiaf_new_clothes_riverlands_rule_on_desc:0 "Персонажам Речных земель выдаются #bold новые образы одежды и артефактов#!."
+ setting_asoiaf_new_clothes_riverlands_rule_off_desc:0 "Персонажам Речных земель #bold не#! выдаются образы одежды, артефактов и королевских."
+ setting_asoiaf_new_clothes_riverlands_rule_on_desc:0 "Персонажам Речных земель выдаются #bold новые образы одежды, артефактов и королевских#!."
  
- #Новая одежда и артефакты Западных земель
- rule_asoiaf_new_clothes_westerlands_rule:0 "@asoiaf_icon! Новые Западные #bold #G одежда и артефакты#!#!"
+ #Новая эстетика Западных земель
+ rule_asoiaf_new_clothes_westerlands_rule:0 "@asoiaf_icon! Новая западная #bold #G эстетика#!#!"
  setting_asoiaf_new_clothes_westerlands_rule_off:0 "По умолчанию"
- setting_asoiaf_new_clothes_westerlands_rule_on:0 "#high Новая одежда и артефакты#!"
+ setting_asoiaf_new_clothes_westerlands_rule_on:0 "#high Новая эстетика#!"
  
- setting_asoiaf_new_clothes_westerlands_rule_off_desc:0 "Персонажам Западных земель #bold не#! выдаются новые образы одежды и артефактов."
- setting_asoiaf_new_clothes_westerlands_rule_on_desc:0 "Персонажам Западных земель выдаются #bold новые образы одежды и артефактов#!."
+ setting_asoiaf_new_clothes_westerlands_rule_off_desc:0 "Персонажам Западных земель #bold не#! выдаются образы одежды, артефактов и королевских."
+ setting_asoiaf_new_clothes_westerlands_rule_on_desc:0 "Персонажам Западных земель выдаются #bold новые образы одежды, артефактов и королевских#!."
  
- #Новая одежда и артефакты Простора
- rule_asoiaf_new_clothes_reach_rule:0 "@asoiaf_icon! Новые Просторские #bold #G одежда и артефакты#!#!"
+ #Новая эстетика Простора
+ rule_asoiaf_new_clothes_reach_rule:0 "@asoiaf_icon! Новая просторская #bold #G эстетика#!#!"
  setting_asoiaf_new_clothes_reach_rule_off:0 "По умолчанию"
- setting_asoiaf_new_clothes_reach_rule_on:0 "#high Новая одежда и артефакты#!"
+ setting_asoiaf_new_clothes_reach_rule_on:0 "#high Новая эстетика#!"
  
- setting_asoiaf_new_clothes_reach_rule_off_desc:0 "Персонажам Простора #bold не#! выдаются новые образы одежды и артефактов."
- setting_asoiaf_new_clothes_reach_rule_on_desc:0 "Персонажам Простора выдаются #bold новые образы одежды и артефактов#!."
+ setting_asoiaf_new_clothes_reach_rule_off_desc:0 "Персонажам Простора #bold не#! выдаются образы одежды, артефактов и королевских."
+ setting_asoiaf_new_clothes_reach_rule_on_desc:0 "Персонажам Простора выдаются #bold новые образы одежды, артефактов и королевских#!."
  
- #Новая одежда и артефакты Штормовых земель
- rule_asoiaf_new_clothes_stormlands_rule:0 "@asoiaf_icon! Новые Штормовые #bold #G одежда и артефакты#!#!"
+ #Новая эстетика Штормовых земель
+ rule_asoiaf_new_clothes_stormlands_rule:0 "@asoiaf_icon! Новая штормовая #bold #G эстетика#!#!"
  setting_asoiaf_new_clothes_stormlands_rule_off:0 "По умолчанию"
- setting_asoiaf_new_clothes_stormlands_rule_on:0 "#high Новая одежда и артефакты#!"
+ setting_asoiaf_new_clothes_stormlands_rule_on:0 "#high Новая эстетика#!"
  
- setting_asoiaf_new_clothes_stormlands_rule_off_desc:0 "Персонажам Штормовых земель #bold не#! выдаются новые образы одежды и артефактов."
- setting_asoiaf_new_clothes_stormlands_rule_on_desc:0 "Персонажам Штормовых земель выдаются #bold новые образы одежды и артефактов#!."
+ setting_asoiaf_new_clothes_stormlands_rule_off_desc:0 "Персонажам Штормовых земель #bold не#! выдаются образы одежды, артефактов и королевских."
+ setting_asoiaf_new_clothes_stormlands_rule_on_desc:0 "Персонажам Штормовых земель выдаются #bold новые образы одежды, артефактов и королевских#!."
  
- #Новая одежда и артефакты Дорна
- rule_asoiaf_new_clothes_dorne_rule:0 "@asoiaf_icon! Новые Дорнийские #bold #G одежда и артефакты#!#!"
+ #Новая эстетика Дорна
+ rule_asoiaf_new_clothes_dorne_rule:0 "@asoiaf_icon! Новая дорнийская #bold #G эстетика#!#!"
  setting_asoiaf_new_clothes_dorne_rule_off:0 "По умолчанию"
- setting_asoiaf_new_clothes_dorne_rule_on:0 "#high Новая одежда и артефакты#!"
+ setting_asoiaf_new_clothes_dorne_rule_on:0 "#high Новая эстетика#!"
  
- setting_asoiaf_new_clothes_dorne_rule_off_desc:0 "Персонажам Дорна #bold не#! выдаются новые образы одежды и артефактов."
- setting_asoiaf_new_clothes_dorne_rule_on_desc:0 "Персонажам Дорна выдаются #bold новые образы одежды и артефактов#!."
+ setting_asoiaf_new_clothes_dorne_rule_off_desc:0 "Персонажам Дорна #bold не#! выдаются образы одежды, артефактов и королевских."
+ setting_asoiaf_new_clothes_dorne_rule_on_desc:0 "Персонажам Дорна выдаются #bold новые образы одежды, артефактов и королевских#!."
  
- #Новая одежда и артефакты Железных островов
- rule_asoiaf_new_clothes_iron_isles_rule:0 "@asoiaf_icon! Новые Железные #bold #G одежда и артефакты#!#!"
+ #Новая эстетика Железных островов
+ rule_asoiaf_new_clothes_iron_isles_rule:0 "@asoiaf_icon! Новая железнорождённая #bold #G эстетика#!#!"
  setting_asoiaf_new_clothes_iron_isles_rule_off:0 "По умолчанию"
- setting_asoiaf_new_clothes_iron_isles_rule_on:0 "#high Новая одежда и артефакты#!"
+ setting_asoiaf_new_clothes_iron_isles_rule_on:0 "#high Новая эстетика#!"
  
- setting_asoiaf_new_clothes_iron_isles_rule_off_desc:0 "Персонажам Железных островов #bold не#! выдаются новые образы одежды и артефактов."
- setting_asoiaf_new_clothes_iron_isles_rule_on_desc:0 "Персонажам Железных островов выдаются #bold новые образы одежды и артефактов#!."
+ setting_asoiaf_new_clothes_iron_isles_rule_off_desc:0 "Персонажам Железных островов #bold не#! выдаются образы одежды, артефактов и королевских."
+ setting_asoiaf_new_clothes_iron_isles_rule_on_desc:0 "Персонажам Железных островов выдаются #bold новые образы одежды, артефактов и королевских#!."
  
- #Новая одежда и артефакты Эссоса
- rule_asoiaf_new_clothes_essos_rule:0 "@asoiaf_icon! Новые Эссосские #bold #G одежда и артефакты#!#!"
+ #Новая эстетика Эссоса
+ rule_asoiaf_new_clothes_essos_rule:0 "@asoiaf_icon! Новая эссосская #bold #G эстетика#!#!"
  setting_asoiaf_new_clothes_essos_rule_off:0 "По умолчанию"
- setting_asoiaf_new_clothes_essos_rule_on:0 "#high Новая одежда и артефакты#!"
+ setting_asoiaf_new_clothes_essos_rule_on:0 "#high Новая эстетика#!"
  
- setting_asoiaf_new_clothes_essos_rule_off_desc:0 "Персонажам Эссоса #bold не#! выдаются новые образы одежды и артефактов."
- setting_asoiaf_new_clothes_essos_rule_on_desc:0 "Персонажам Эссоса выдаются #bold новые образы одежды и артефактов#!."
+ setting_asoiaf_new_clothes_essos_rule_off_desc:0 "Персонажам Эссоса #bold не#! выдаются образы одежды, артефактов и королевских."
+ setting_asoiaf_new_clothes_essos_rule_on_desc:0 "Персонажам Эссоса выдаются #bold новые образы одежды, артефактов и королевских#!."

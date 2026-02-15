@@ -75,5 +75,5 @@
 
  asoiaf_maintenance_events_0015: "Меч, достойный [ROOT.Char.GetTitleAsNameNoTooltip]"
  asoiaf_maintenance_events_0015_desc: "Прошло две недели с тех пор, как я [Select_CString(ROOT.Char.IsFemale, 'приказала', 'приказал' )] кузнецам из [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierPossessiveNoTooltip] выковать мне новый меч, и наконец мне сообщили, что клинок готов.\n\nКузнецы проводят меня в свою мастерскую и показывают результат работы. Мне изготовили полуторный меч великой красоты, хотя, возможно, и не вершину мастерства. Эфес сделан из золота и резной кости оленьего рога; на гравированном навершии вытравлен силуэт короны, а гарда выполнена в виде пары рогов в честь моего дома.\n\nЭтот меч стал бы отличным пополнением любой [ROOT.Char.GetTitleAsNamePossessiveNoTooltip] оружейной... но достоин ли он #italic меня#!?"
- asoiaf_maintenance_events.0015.a: "Да, я назову его #italic Сердцеед#! @asoiaf_icon_hearteater!"
- asoiaf_maintenance_events.0015.b: "Это совсем не то, чего я [Select_CString(ROOT.Char.IsFemale, 'хотела', 'хотел' )], прочь с глаз!"
+ asoiaf_maintenance_events.0015.a: "Да, я назову его #italic Пожиратель Сердец#! @asoiaf_icon_hearteater!"
+ asoiaf_maintenance_events.0015.b: "«Это совсем не то, чего я [Select_CString(ROOT.Char.IsFemale, 'хотела', 'хотел' )], прочь с глаз!»"

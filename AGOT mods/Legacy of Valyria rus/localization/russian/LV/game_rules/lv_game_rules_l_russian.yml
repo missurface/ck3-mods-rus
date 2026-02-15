@@ -1,13 +1,13 @@
 ﻿l_russian:
- lv_prefix: "LoV:" #NT!
- lv_canonicity: "LoV Каноничность" #NT!
- game_rule_category_lv_canonicity: "$lv_canonicity$" #NT!
+ lv_prefix: "LoV:"
+ lv_canonicity: "LoV Каноничность"
+ game_rule_category_lv_canonicity: "$lv_canonicity$"
   
- #rule_lv_valyria_status: "#Y $lv_canonicity$:#! Valyria" #NT!
- #setting_lv_valyria_default: "Default" #NT!
- #setting_lv_valyria_default_desc: "[valyria|E] starts as it is after The [doom|E]—a deadly wasteland engulfed by the Fourteen Flames." #NT!
- #setting_lv_valyria_blank_slate: "Blank Slate" #NT!
- #setting_lv_valyria_blank_slate_desc: "Valyrian provinces start off as ruins, but otherwise have none of the deadly modifiers." #NT!
+ #rule_lv_valyria_status: "#Y $lv_canonicity$:#! Valyria"
+ #setting_lv_valyria_default: "Default"
+ #setting_lv_valyria_default_desc: "[valyria|E] starts as it is after The [doom|E]—a deadly wasteland engulfed by the Fourteen Flames."
+ #setting_lv_valyria_blank_slate: "Blank Slate"
+ #setting_lv_valyria_blank_slate_desc: "Valyrian provinces start off as ruins, but otherwise have none of the deadly modifiers."
   
  rule_lv_colonisation: "#Y $lv_prefix$#! Колонизация и восстановление руин"
  setting_lv_colonisation_default: "По умолчанию"
@@ -19,13 +19,13 @@
  setting_lv_colonisation_instant: "Мгновенно"
  setting_lv_colonisation_instant_desc: "Восстановление руин и развитие поселений происходит мгновенно."
   
- #rule_lv_green_valyria: "#Y $lv_prefix$#! Зеленая Валирия" #NT!
- #setting_lv_green_valyria_gradual: "Постепенно" #NT!
- #setting_lv_green_valyria_gradual_desc: "Валирия будет постепенно зеленеть с течением времени, и процесс ускорится по мере восстановления подобластей." #NT!
- #setting_lv_green_valyria_instant: "Мгновенно" #NT!
- #setting_lv_green_valyria_instant_desc: "Валирия станет зеленее, как только будут достигнуты пороговые значения для подобластей." #NT!
- #setting_lv_green_valyria_disabled: "Отключено" #NT!
- #setting_lv_green_valyria_disabled_desc: "Валирия останется выжженной пустошью, независимо от степени её восстановления." #NT!
+ #rule_lv_green_valyria: "#Y $lv_prefix$#! Зеленая Валирия"
+ #setting_lv_green_valyria_gradual: "Постепенно"
+ #setting_lv_green_valyria_gradual_desc: "Валирия будет постепенно зеленеть с течением времени, и процесс ускорится по мере восстановления подобластей."
+ #setting_lv_green_valyria_instant: "Мгновенно"
+ #setting_lv_green_valyria_instant_desc: "Валирия станет зеленее, как только будут достигнуты пороговые значения для подобластей."
+ #setting_lv_green_valyria_disabled: "Отключено"
+ #setting_lv_green_valyria_disabled_desc: "Валирия останется выжженной пустошью, независимо от степени её восстановления."
  
  rule_lv_rehabilitate_valyria_duration: "#Y $lv_prefix$#! Срок восстановления Валирии"
  setting_lv_rehabilitate_valyria_duration_instant: "Мгновенно"

@@ -1,30 +1,30 @@
 ﻿l_russian:
    ## Valyria 
- situation_valyria_situation: "Руины Валирии" #NT!
+ situation_valyria_situation: "Руины Валирии"
   
    # Sub Regions 
- valyria_situation_sub_region_valyria: "Валирия" #NT!
- valyria_situation_sub_region_aquos_dhaen: "Аквос Даэн" #NT!
- valyria_situation_sub_region_tyria: "Тирия" #NT!
- valyria_situation_sub_region_dragonfields: "Драконьи поля" #NT!
- valyria_situation_sub_region_kastaryia: "Кастария" #NT!
- valyria_situation_sub_region_mhysa_faer: "Миса Фаер" #NT!
- valyria_situation_sub_region_gelios: "Гелиос" #NT!
- valyria_situation_sub_region_pyrys: "Пирис" #NT!
- valyria_situation_sub_region_egrys: "Эгрис" #NT!
- valyria_situation_sub_region_nuqiria: "Нукирия" #NT!
- valyria_situation_sub_region_jarqanor: "Жарканор" #NT!
- valyria_situation_sub_region_rhyos: "Риос" #NT!
- valyria_situation_sub_region_orbar: "Орбар" #NT!
- valyria_situation_sub_region_jelmazmar: "Джелмазмар" #NT!
- valyria_situation_sub_region_daervos: "Даэрвос" #NT!
- valyria_situation_sub_region_sombazbion: "Сомбазион" #NT!
- valyria_situation_sub_region_oros: "Орос" #NT!
- valyria_situation_sub_region_vharomar: "Варомар" #NT!
- valyria_situation_sub_region_martivia: "Мартивиа" #NT!
- valyria_situation_sub_region_argava: "Аргава" #NT!
- valyria_situation_sub_region_port_of_sighs: "Порт вздохов" #NT!
- valyria_situation_sub_region_zoglos: "Зоглос" #NT!
+ valyria_situation_sub_region_valyria: "Валирия"
+ valyria_situation_sub_region_aquos_dhaen: "Аквос Даэн"
+ valyria_situation_sub_region_tyria: "Тирия"
+ valyria_situation_sub_region_dragonfields: "Драконьи поля"
+ valyria_situation_sub_region_kastaryia: "Кастария"
+ valyria_situation_sub_region_mhysa_faer: "Миса Фаер"
+ valyria_situation_sub_region_gelios: "Гелиос"
+ valyria_situation_sub_region_pyrys: "Пирис"
+ valyria_situation_sub_region_egrys: "Эгрис"
+ valyria_situation_sub_region_nuqiria: "Нукирия"
+ valyria_situation_sub_region_jarqanor: "Жарканор"
+ valyria_situation_sub_region_rhyos: "Риос"
+ valyria_situation_sub_region_orbar: "Орбар"
+ valyria_situation_sub_region_jelmazmar: "Джелмазмар"
+ valyria_situation_sub_region_daervos: "Даэрвос"
+ valyria_situation_sub_region_sombazbion: "Сомбазион"
+ valyria_situation_sub_region_oros: "Орос"
+ valyria_situation_sub_region_vharomar: "Варомар"
+ valyria_situation_sub_region_martivia: "Мартивиа"
+ valyria_situation_sub_region_argava: "Аргава"
+ valyria_situation_sub_region_port_of_sighs: "Порт вздохов"
+ valyria_situation_sub_region_zoglos: "Зоглос"
   
    # Participant Groups 
  valyria_situation_participant_group_blood_of_valyria: "Кровь Валирии" 

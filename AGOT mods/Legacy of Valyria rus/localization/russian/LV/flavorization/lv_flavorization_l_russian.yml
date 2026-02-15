@@ -15,8 +15,8 @@
  county_major_city: "[city]"
   
    # Colonies 
- county_colony: "Колония" #NT!
- barony_colony: "Поселение" #NT!
+ county_colony: "Колония"
+ barony_colony: "Поселение"
   
    # Free Cities 
  king_free_city_male_k_volantis: "Триарх"

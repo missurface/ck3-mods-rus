@@ -1,0 +1,27 @@
+﻿l_english:
+ 
+ # THE CONQUEST
+ oldtown.0001:0 "Seven Days and Seven Nights"
+ oldtown.0001.desc:0 "When word of Aegon’s landing first reached Oldtown, the High Septon had locked himself within the Starry Sept for seven days and seven nights, seeking the guidance of the gods. He took no nourishment but bread and water, and spent all his waking hours in prayer, moving from one altar to the next. And on the seventh day, the Crone had lifted up her golden lamp to show him the path ahead. If Oldtown took up arms against Aegon the Dragon, His High Holiness saw, the city would surely burn, and the Hightower and the Citadel and the Starry Sept would be cast down and destroyed. \n \nAs the High Septon tells me of this of this vision vouchsafed him by the Crone, I know I must choose our path forward."
+ oldtown.0001.option1:0 "We will submit to King Aegon"
+ oldtown.0001.option2:0 "Oldtown will stand!"
+
+ oldtown.0002:0 "Oldtown Submits"
+ oldtown.0002.desc:0 "I rode forth to greet Aegon Targaryen as his now-mighty host approached Oldtown, I offer my sword, city and oaths. I also offered my daughter but he refused, politely, no matter. \n \nWe shall pray that the Kingdoms shall be better for this."
+ oldtown.0002.option1:0 "The Coronation is to be hosted in some days."
+
+ oldtown.0003:0 "Oldtown will not Bend nor Burn"
+ oldtown.0003.desc:0 "Word had reached me of Aegon Targaryen’s conquests, and though many lords bent the knee to the dragon’s might, we will not. Oldtown was no mere castle to be taken by force. It is the greatest city on the continent.. I willnot bow to the foreign dragonlords who sought to impose their will on Westeros. My banners fly high as ravens were sent out to summon our vassals to war. \n \nThis will not be a mere battle it was a stand for the very soul of the Seven Kingdoms, and I will ensure that Aegon's conquest will be prevented and if not it will have met its fiercest resistance at the gates of Oldtown."
+ oldtown.0003.option1:0 "We light the way."
+ 
+ oldtown.0004:0 "The Coronation of Aegon I Targaryen"
+ oldtown.0004.desc:0 "Three days later, in the Starry Sept, His High Holiness himself anointed Aegon with the seven oils, placed a crown upon his head, and proclaimed him #bold Aegon of House Targaryen, the First of His Name, King of the Andals, the Rhoynar, and the First Men, Lord of the Seven Kingdoms, and Protector of the Realm. #! \n \nOnly a handful of lords had been present for Aegon's first coronation at the mouth of the Blackwater, but hundreds were on hand to witness his second, and tens of thousands cheered him afterward in the streets of Oldtown as he rode through the city on Balerion's back. Amongst those at Aegon's second coronation were the maesters and archmaesters of the Citadel. Perhaps for that reason, it was this coronation, rather than the Aegonfort crowning on the day of Aegon's landing, that became fixed as the start of Aegon's reign. \n \nThus were the Seven Kingdoms of Westeros hammered into one great realm, by the will of Aegon the Conqueror and his sisters."
+ oldtown.0004.option1:0 "We serve our King."
+
+ oldtown.0005:0 "Oldtown Falls"
+ oldtown.0005.desc:0 "We have failed, Oldtown has fallen, the foreign King Aegon Targaryen now flies the three-headed dragon over our city from the Hightower. He and his sisters circle it from above on their dragons. \n \nOur knees are bent, our backs are broken and our swords are taken. Now the High Septon is to crown Aegon, in three days time."
+ oldtown.0005.option1:0 "Gods, forgive us."
+
+ oldtown.0006:0 "The Coronation of Aegon I Targaryen"
+ oldtown.0006.desc:0 "Three days later, in the Starry Sept, His High Holiness himself anointed Aegon with the seven oils, placed a crown upon his head, and proclaimed him #bold Aegon of House Targaryen, the First of His Name, King of the Andals, the Rhoynar, and the First Men, Lord of the Seven Kingdoms, and Protector of the Realm. #! \n \nOnly a handful of lords had been present for Aegon's first coronation at the mouth of the Blackwater, but hundreds were on hand to witness his second, and tens of thousands cheered him afterward in the streets of Oldtown as he rode through the city on Balerion's back. Amongst those at Aegon's second coronation were the maesters and archmaesters of the Citadel. Perhaps for that reason, it was this coronation, rather than the Aegonfort crowning on the day of Aegon's landing, that became fixed as the start of Aegon's reign. \n \nThus were the Seven Kingdoms of Westeros hammered into one great realm, by the will of Aegon the Conqueror and his sisters."
+ oldtown.0006.option1:0 "We hope he rules wisely."

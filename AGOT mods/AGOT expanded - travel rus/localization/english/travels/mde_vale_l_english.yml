@@ -1,0 +1,62 @@
+﻿l_english:
+
+ mde_vale.0001.t: "Mountains of the Moon"
+ mde_vale.0001.desc: "Before me lies a valley nestled between the Mountains of the Moon. On our way here we’ve heard tales and warnings of Shadow Cats, Mountain Clans, and even a dragon or two.\n\n The peaks loom vast in the distance, their snow-covered summits piercing the clouds. Cold winds rule this valley, and the forests around it whisper with unseen life.\n\nSo why am I here? My company and I are in no shape to face a large group of Mountain Clans. What could these mountains possibly hold?"
+ mde_vale.0001.a: "Ask the locals for dragonlore."
+ mde_vale.0001.a.f: "Both the dragon Morning and Sheepstealer were rumoured to live in these mountains for a time. Perhaps the local smallfolk have tales or hints to their behavior and patterns."
+ mde_vale.0001.b: "Seek out the Burned Men."
+ mde_vale.0001.b.f: "A local tale is that the Mountain Clan ‘Burned Men’ is a product of the mountain's inhabitants worshipping the dragon [sheepstealer.GetName]. Perhaps they have something interesting to say, or perhaps I will lose my head..."
+ mde_vale.0001.c: "Let's just continue..."
+
+ ## dragonlore
+ mde_vale.0101.t: "Mountains of the Moon: Dragonlore"
+ mde_vale.0101.desc: "After many long days spent prodding through hills, forests, and winding mountain paths, we've gathered a fair amount of information from the smallfolk.\n\nWell, #italic information#!. Most of it consists of local legends, useless family tales, made-up nonsense, and above all, begging.\n\nTravelers are rare in these parts, as the stares and wary questions make plain. But at least, I’ve managed to avoid trouble.\n\nNow, with a small piece of the puzzle in hand, I’m ready to move on."
+ mde_vale.0101.a: "Another piece of the puzzle..."
+
+
+
+ #burned men
+
+ mde_vale.0201.t: "Mountains of the Moon: Burned Men"
+ mde_vale.0201.desc: "Tracking through forests, hills, and mountains, listening to countless smallfolk and shepherds, we find nothing.\n\nWhenever these mountains actually contain savage Clanmen, we have not seen or heard a sign of it.\n\nRunning low on provisions, and with the howls of shadowcats growing closer, it is time to head back down the mountains and return home."
+ mde_vale.0201.a: "Let's move on..."
+
+ mde_vale.0202.desc: "Standing before you is a large, deformed man. He calls himself #bold ‘Redhands’#! and fancies himself the leader of this ragged band of thieves and savages.\n\nLurking in his shadow are a gang of barely human figures, clad in rotting clothes stripped from pillaged corpses. Rusted steel, sharpened stone, or splintered sticks fill their hands.\n\nYet they haven’t come to fight. Not yet.\n\n#italic “Gold and gifts,”#! Redhands calls out. #italic “Give us what you have, and a blessing from the Mountains Above will be yours. Refuse, and we shall fight.”#!"
+ mde_vale.0202.a: "Bestow them a great gift of gold."
+ mde_vale.0202.b: "Trade your artifact for theirs."
+ mde_vale.0202.c: "Refuse any trade."
+ mde_vale.0202.c.f: "The Mountain Clans are not known for being the most courteous, this could lead to something bad..."
+ mde_vale.0202.d: "Attempt to talk yourself out of it."
+ mde_vale.0202.d.f: "While highly unlucky, the Mountain Clans #italic COULD#! be reasoned with, if the right words are said..."
+
+ mde_vale.0203.desc: "Standing before you is a large, deformed man. He calls himself #bold ‘Redhands’#! and fancies himself the leader of this ragged band of thieves and savages.\n\nLurking in his shadow are a gang of barely human figures, clad in rotting clothes stripped from pillaged corpses. Rusted steel, sharpened stone, or splintered sticks fill their hands.\n\n#italic “Weak man, [ROOT.Char.GetTitleTierName]!”#! he calls out. #italic “Fight me! A friendly duel - no deaths. The winner shall give the other a great gift!”#!\n\nA simple demand. I’ve finally found them... and it comes to #bold this#!? What would happen if I refused?"
+ mde_vale.0203.a: "#italic "Let's dance then...""
+ mde_vale.0203.b: "Refuse."
+ mde_vale.0203.b.f: "The Mountain Clans are not known for being the most courteous, this could lead to something bad..."
+ mde_vale.0203.d: "Attempt to talk yourself out of it."
+ mde_vale.0203.d.f: "While highly unlucky, the Mountain Clans #italic COULD#! be reasoned with, if the right words are said..."
+
+ mde_vale.0204.desc: "Screams, cries, howls, endless yelling crashes over me all at once.\n\nAn ambush!\n\nA savage looms before me, and in his shadow stands a ragged pack of barely human men. They wear rotting clothes stripped from pillaged corpses, gripping rusted steel, jagged stone, or splintered sticks.\n\n#italic "Surrender your trinkets, weak man,"#! the big one at the front growls. #italic "Give them up, and we might just let you walk off this mountain alive…"#!"
+ mde_vale.0204.a: "Challenge their leader."
+ mde_vale.0204.b: "Attempt to talk yourself out of it."
+ mde_vale.0204.b.f: "While highly unlucky, the Mountain Clans #italic COULD#! be reasoned with, if the right words are said..."
+ mde_vale.0204.c: "Start an all out brawl."
+ mde_vale.0204.d: "Surrender..."
+
+
+
+
+
+
+ #after / maintaince
+
+ mde_vale.9992.desc: "And just like that, the savage lies dead before you.\n\nHis ragged band scatters like cowards into the trees, while a burst of cheers erupts from behind me.\n\nBut my eyes are not on the fleeing men, nor the proud voices at my back. My gaze is fixed on the ground, where something strange, something #bold wonderful#!, has been left behind by the mountain men..."
+ mde_vale.9992.a: "Can it really be…?"
+ mde_vale.9992.b: "Can it really be…?"
+
+ mde_vale.9994.desc: "As almost a game, we clash and clash our swords against each other. Both locked in a storm of swords.\n\nBut I manage to bring the savage down, and [burned_man.GetSheHe] screams, #italic "Enough!"#!\n\nOn [burned_man.GetHersHis] knees, [burned_man.GetSheHe] mutters, #italic "You win... take the [vale_artifact.GetName] and leave us be."#! [burned_man.GetHersHis] pride lies broken, left as a feast for crows in the valley."
+ mde_vale.9994.a: "#italic “Let’s make this into a song!”#!"
+ mde_vale.9994.b: "#italic “Let’s make this into a song!”#!"
+
+ mde_vale.9995.desc: "As almost a game, we clash and clash our swords against each other. Both locked in a storm of swords.\n\nYet [burned_man.GetSheHe] knocks me down. Bruised and battered, bleeding and exhausted, I have no strength to get up again, it’s over…\n\nNow I hand over my price, or I accept death…"
+ mde_vale.9995.a: "Hand over the price."

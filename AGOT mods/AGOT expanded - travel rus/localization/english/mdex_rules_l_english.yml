@@ -1,0 +1,7 @@
+﻿l_english:
+ 
+ rule_mde_modcanon_travel: "#color_red Travel Expanded #! - Modcanon travel locations."
+ setting_enable_modcanon_travel: "Enable"  
+ setting_enable_modcanon_travel_desc: "Several small modcanon locations will be added, be it the TV series locations, or other obscure lore events."  
+ setting_disable_modcanon_travel: "Disable"
+ setting_disable_modcanon_travel_desc: "Modcanon travel locations will not appear, only locations with book lore tied to it witll appear."

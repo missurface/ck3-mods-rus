@@ -1,0 +1,27 @@
+﻿l_english:
+ 
+ # THE CONQUEST
+ gardener.0001:0 "The Dragonlord Turns West"
+ gardener.0001.desc:0 "Aegon Targaryen has defeated the Storm King and the Ironborn, seizing control over the first two kingdoms. It is clear that a single kingdom alone cannot hope to stand against this Targaryen and so we must reach out to the Lannisters of Casterly Rock, the King's of the Rock and form an alliance to pull together the greatest army Westeros has ever seen. \n \nBefore this, hopefully, the Dragonlord will fall. We may yet see victory."
+ gardener.0001.option1:0 "By Our Hand."
+
+ gardener.0002:0 "Aegon's Invasion of the Reach"
+ gardener.0002.desc:0 "Aegon Targaryen has begun his march into the Reach, we must call the Lannisters to our defence and we shall repulse this invader. \n \nNo matter how many dragons Aegon has, we have more in men, the largest army known to Westeros."
+ gardener.0002.option1:0 "We will crush them."
+
+ gardener.0003:0 "The Field of Fire"
+ gardener.0003.desc:0 "I have decided to face Aegon's armies directly. We have far more ment than them but they have dragons, three dragons. We prepare our forces and begin to advance. \n \nI myself led the charge against the center on my golden stallion, my son Gawen beside him with his banner, a great green hand upon a field of white. Roaring and screaming, urged on by horns and drums, the Gardeners and allied forces charged through a storm of arrows down unto their foes, sweeping aside the Targaryen spearmen, shattering their ranks. \n \nBut by then Aegon and his sisters were in the air. Aegon flew above the ranks of his foes upon Balerion, through a storm of spears and stones and arrows, swooping down repeatedly to bathe our men in flame. Rhaenys and Visenya set fires upwind of the us and behind. The dry grasses and stands of wheat went up at once. The wind fanned the flames and blew the smoke into our advancing ranks. \n \nOur ranks began to break as walls of fire rose on every side of them. Archers and spears made short work of the burned and burning men who came staggering from the inferno. \n \n#bold The Field of Fire, the battle was named afterward. King Mern IX was amongst the dead, together with his sons, grandsons, brothers, cousins, and other kin.#"
+ gardener.0003.option1:0 "No!"
+
+ gardener.0004:0 "Lord Paramount of the Reach"
+ gardener.0004.desc:0 "We have failed, Aegon Targaryen has defeated our armies, we must surrender, House Gardener will bend the knee to the dragonlord. \n \nPerhaps we shall see our true glory once again but for now we must rebuild, vassals of the Valyrians."
+ gardener.0004.option1:0 "By Our Hand."
+
+ gardener.1001:0 "The Death of House Gardener"
+ gardener.1001.desc:0 "The Field of Fire, they call it. All of House Gardener was extinguished, killed in the dragonflame of Aegon Targaryen and his sisters, Rhaenys and Visenya. \n \nWe now hold Highgarden, previously just its stewards, we hold the castle with no lord, we must make a decision on how to move forward, continue this war or bend the knee to the Targaryen's?"
+ gardener.1001.option1:0 "Open the gates, we allow the Conqueror in."
+ gardener.1001.option2:0 "We continue the fight, for the fallen King Mern!"
+
+ gardener.1002:0 "Lord Paramount of the Reach"
+ gardener.1002.desc:0 "We have allowed the Targaryen's into Highgarden and now bend the knee to them. \n \nIn turn House Tyrell has been named Lord of Highgarden, Lord Paramount of the Reach and Warden of the South. An honour we never would have expected to be placed upon our house. We truly owe our fealty to House Targaryen until the end of time."
+ gardener.1002.option1:0 "We will fight for our new King."

@@ -1,0 +1,3 @@
+﻿l_english:
+ adopt_house_interaction:0 "Adopt Valyrian House"
+ adopt_house_interaction_desc:0 "Have [recipient.GetFirstNameNoTooltip] adopt the words and sigil of a Valyrian House"

@@ -1,0 +1,138 @@
+﻿l_polish:
+ # Event 0001 - Left Flank Envelopment SUCCESS 
+ tactical_flank_battle.0001.t: "Lewe skrzydło atakuje!"
+ tactical_flank_battle.0001.desc: "[scope:flank_commander.GetTitledFirstName], dowodzący naszą lewą flanką, znalazł lukę! Prawa strona wroga jest odsłonięta, a my mamy okazję otoczyć jego pozycję. Siły [enemy_commander.GetTitledFirstName] są podatne na niszczycielski manewr flankujący!"
+ tactical_flank_battle.0001.a: "Agresywnie naciskaj przewagę! (Waleczność vs [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0001.a.success: "Nasza lewa flanka szarżuje z wściekłością, wzmacniając linię!"
+ tactical_flank_battle.0001.a.failure: "Agresywne pchnięcie zostało powstrzymane."
+ tactical_flank_battle.0001.b: "Koordynuj z centrum! (Zarządzanie vs [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0001.b.success: "Doskonała koordynacja wzmacnia naszą przewagę!"
+ tactical_flank_battle.0001.b.failure: "Koordynacja nie zostaje zrealizowana."
+ tactical_flank_battle.0001.c: "Wykonaj ruch szczypcami! (Martial kontra [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0001.c.success: "Uwięziliśmy ich w niszczycielskich szczypcach!"
+ tactical_flank_battle.0001.c.failure: "Unikają manewru szczypiec."
+ tactical_flank_battle.0001.d: "Utrzymaj pozycję i obserwuj."
+  
+ # Event 0002 - Left Flank Envelopment FAILURE 
+ tactical_flank_battle.0002.t: "Lewa flanka pod presją!"
+ tactical_flank_battle.0002.desc: "[scope:flank_commander.GetTitledFirstName], dowodzący naszą lewą flanką, ma kłopoty! [enemy_commander.GetTitledFirstName] obrócił naszą próbę okrążenia przeciwko nam. Nasza lewica jest teraz bezbronna i cofa się. Musimy działać szybko, w przeciwnym razie zaryzykujemy utratę całej flanki!"
+ tactical_flank_battle.0002.a: "Zreformuj flankę! (Martial kontra [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0002.a.success: "Przywracamy porządek na lewym skrzydle!"
+ tactical_flank_battle.0002.a.failure: "Flanka nadal się rozpada."
+ tactical_flank_battle.0002.b: "Wezwij wsparcie z centrum! (Dyplomacja kontra [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0002.b.success: "Posiłki wzmacniają naszą lewą stronę!"
+ tactical_flank_battle.0002.b.failure: "Żadna pomoc nie dotrze na czas."
+ tactical_flank_battle.0002.c: "Wykonaj wycofanie bojowe! (Zarządzanie vs [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0002.c.success: "Wycofujemy się w dobrym stanie!"
+ tactical_flank_battle.0002.c.failure: "Wycofanie się staje się porażką."
+ tactical_flank_battle.0002.d: "Zaakceptuj porażkę."
+  
+ # Event 0003 - Center Hold SUCCESS 
+ tactical_flank_battle.0003.t: "Centrum trzyma poziom!"
+ tactical_flank_battle.0003.desc: "[scope:flank_commander.GetTitledFirstName] dowodzący naszym ośrodkiem udowodnili swoją wartość! Podczas gdy [enemy_commander.GetTitledFirstName] rzuca wszystkim na naszą linię, środek stoi jak forteca. Nasza pozycja jest silna i stąd możemy dyktować przebieg bitwy!"
+ tactical_flank_battle.0003.a: "Pchnij agresywnie do przodu! (Martial kontra [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0003.a.success: "Centrum ich wypędza!"
+ tactical_flank_battle.0003.a.failure: "Opierają się naszym naciskom."
+ tactical_flank_battle.0003.b: "Zakotwicz całą linię! (Waleczność vs [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0003.b.success: "Nasz ośrodek staje się nieruchomą kotwicą!"
+ tactical_flank_battle.0003.b.failure: "Pozycja kotwicy słabnie."
+ tactical_flank_battle.0003.c: "Wyślij wsparcie na obie flanki! (Zarządzanie vs [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0003.c.success: "Środek wzmacnia całą naszą linię!"
+ tactical_flank_battle.0003.c.failure: "Rozłożyliśmy się zbyt cienko."
+ tactical_flank_battle.0003.d: "Utrzymuj stałe ciśnienie."
+  
+ # Event 0004 - Center Collapsing FAILURE 
+ tactical_flank_battle.0004.t: "Centrum pęka!"
+ tactical_flank_battle.0004.desc: "[scope:flank_commander.GetTitledFirstName] desperacko próbuje utrzymać środek, ale [enemy_commander.GetTitledFirstName] się przebija! Jeśli centrum się zawali, obie flanki zostaną odcięte i zniszczone. To krytyczny moment bitwy!"
+ tactical_flank_battle.0004.a: "Zbierz centrum osobiście! (Martial kontra [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0004.a.success: "Moja obecność stabilizuje centrum!"
+ tactical_flank_battle.0004.a.failure: "Nawet moja obecność nie może powstrzymać upadku."
+ tactical_flank_battle.0004.b: "Zaangażuj wszystkie rezerwy! (Zarządzanie vs [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0004.b.success: "Świeże oddziały wypełniają lukę!"
+ tactical_flank_battle.0004.b.failure: "Rezerwy zostały pochłonięte."
+ tactical_flank_battle.0004.c: "Odrzuć środek i wzmocnij flanki! (Nauka kontra [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0004.c.success: "Tworzymy nową linię obrony!"
+ tactical_flank_battle.0004.c.failure: "Manewr kończy się katastrofalnie."
+ tactical_flank_battle.0004.d: "Przygotuj się na uderzenie i nadzieję."
+  
+  
+ tactical_forest_battle.0251.tt: "[center_flank_commander.GetFirstNameOrMe] wiedza specjalistyczna w [battle_location.GetProvince.GetTerrain.GetName]"
+ tactical_forest_battle.0251.tt.success: "[center_flank_commander.GetFirstNameOrMe] sprawność w [battle_location.GetProvince.GetTerrain.GetNameNoTooltip] w [battle_location.GetProvince.GetName] wyróżniła ich wśród rówieśników."
+  
+ tactical_forest_battle.0250.tt: "[left_flank_commander.GetFirstNameOrMe] wiedza specjalistyczna w [battle_location.GetProvince.GetTerrain.GetName]"
+ tactical_forest_battle.0250.tt.success: "[left_flank_commander.GetFirstNameOrMe] sprawność w [battle_location.GetProvince.GetTerrain.GetNameNoTooltip] w [battle_location.GetProvince.GetName] wyróżniła ich na tle rówieśników."
+  
+ tactical_forest_battle.0252.tt: "[right_flank_commander.GetFirstNameOrMe] wiedza specjalistyczna w [battle_location.GetProvince.GetTerrain.GetName]"
+ tactical_forest_battle.0252.tt.success: "[right_flank_commander.GetFirstNameOrMe] sprawność w [battle_location.GetProvince.GetTerrain.GetNameNoTooltip] w [battle_location.GetProvince.GetName] wyróżniła ich na tle rówieśników."
+  
+ grant_left_interaction_desc: "Wyznacz [recipient.GetTitledFirstName] na dowódcę centrum, zapewniając mu władzę taktyczną i prestiż."
+ grant_center_interaction_desc: "Wyznacz [recipient.GetTitledFirstName] na dowódcę centrum, zapewniając mu władzę taktyczną i prestiż."
+ grant_right_flank_interaction_desc: "Wyznacz [recipient.GetTitledFirstName] na dowódcę swojej prawej flanki, zapewniając mu władzę taktyczną i prestiż."
+  
+ # Custom Tooltips 
+ grant_left_flank_commander_tt: "[recipient.GetTitledFirstName] został wyznaczony na dowódcę lewej flanki."
+ grant_center_commander_tt: "[recipient.GetTitledFirstName] został wyznaczony na dowódcę centrum."
+ grant_right_flank_commander_tt: "[recipient.GetTitledFirstName] został wyznaczony na dowódcę prawej flanki."
+  
+ tactical_overmatched_enemy_commander: "Przewyższony dowódca wroga"
+ tactical_overmatched_enemy_commander_desc: "Doświadczenie i umiejętności tej postaci na polu bitwy znacznie przewyższają wrogich dowódców, z którymi się spotykają, dając im znaczną przewagę w walce i taktyce."
+ tactical_outmatched_enemy_commander: "Nad moją głową"
+ tactical_outmatched_enemy_commander_desc: "Postać ta staje twarzą w twarz z wrogim dowódcą, którego doświadczenie i umiejętności na polu bitwy znacznie przewyższają jej własne, co stawia ją w niekorzystnej sytuacji w walce i taktyce."
+  
+  
+ trait_lifestyle_flank_commander: "Dowódca flanki"
+ trait_lifestyle_flank_commander_desc: "#soft_glow #difficulty_hard Nieprzydzielony \n\n#![ROOT.GetCharacter.GetFirstNameNoTooltip] ma doświadczenie w dowodzeniu flanką, którego zadaniem jest wykonywanie manewrów flankujących i wykorzystywanie słabości prawej strony wroga."
+ lifestyle_assigned_flank_commander_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] został wybrany na dowódcę flanki w armii [ROOT.GetCharacter.GetLiegeEvenWhenDead.GetTitledHouseNameOrFirstNamePossessiveOrMy], a jego zadaniem było wykonywanie manewrów flankujących i wykorzystywanie słabości prawej strony wroga."
+ trait_lifestyle_flank_commander_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] dowodzi lewą flanką armii [ROOT.GetCharacter.GetLiegeEvenWhenDead.GetTitledHouseNameOrFirstNamePossessiveOrMy], której zadaniem jest wykonywanie manewrów flankujących i wykorzystywanie słabości prawej strony wroga."
+ trait_track_left: "Dowódca lewej flanki"
+ trait_track_left_desc: "Walcząc po lewej stronie flanki i manewrując na prawej flance wroga, postać ta ma doświadczenie w walce z najpotężniejszymi oddziałami wroga."
+ trait_track_center: "Dowódca środkowej flanki"
+ trait_track_center_desc: "Walcząc na środku flanki i manewrując przeciwko głównej linii wroga, postać ta walczy z głównymi siłami wroga i ma doświadczenie w starciu z jego najbardziej zdyscyplinowanymi oddziałami."
+ trait_track_right: "Dowódca prawej flanki"
+ trait_track_right_desc: "Walcząc na prawej flance i manewrując przeciwko lewej flance wroga, postać ta dowodzi najszlachetniejszymi i elitarnymi oddziałami armii w bitwie."
+  
+ lifestyle_left_flank_commander_desc: "Postać ta dowodzi lewą flanką armii i odpowiada za wykonywanie manewrów flankujących oraz wykorzystywanie słabych punktów prawej strony wroga."
+ lifestyle_assigned_left_flank_commander_desc: "#soft_glow #difficulty_easy Nieprzypisany\n\n#!This postać została wybrana do dowodzenia lewą flanką armii, odpowiedzialną za wykonywanie manewrów flankujących i wykorzystywanie słabych punktów prawej strony wroga."
+ lifestyle_assigned_center_flank_commander_desc: "#soft_glow #difficulty_easy Nieprzypisany\n\n#!This postać została wybrana na dowódcę centrum armii, odpowiedzialnego za utrzymanie głównej linii bitwy i koordynację strategii z flankami."
+ lifestyle_assigned_right_flank_commander_desc: "#soft_glow #difficulty_easy Nieprzypisany\n\n#!This postać została wybrana do dowodzenia prawą flanką armii, odpowiedzialna za wykonywanie manewrów flankujących i wykorzystywanie słabych punktów po lewej stronie wroga."
+  
+ trait_lifestyle_war_commander: "Dowódca wojenny"
+ trait_lifestyle_war_commander_desc: "Postać ta dowodzi armią kraju toczącego wojnę, otrzymując w czasie wojny większy prestiż dzięki sukcesom militarnym i premiom do umiejętności walki."
+ trait_lifestyle_war_commander_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] dowodzi armią [ROOT.GetCharacter.GetLiegeTitleEvenWhenDead.GetNameNoTier] w czasie wojny. Nadzorując pole bitwy, wzbudza szacunek i zasiewa strach w sercach wrogów."
+  
+ lifestyle_war_commander_desc: "Postać ta dowodzi armią w czasie wojny, odpowiadając za kierowanie operacjami wojskowymi i osiąganie zwycięstwa dla swojego narodu."
+ trait_track_lifestyle_war_commander: "Dowódca wojny"
+ trait_track_lifestyle_war_commander_desc: "Postać ta dowodzi armią w czasie wojny, a jej zadaniem jest dowodzenie wysiłkami militarnymi i zapewnianie zwycięstw swojemu krajowi."
+ trait_track_skill: "Doświadczenie w bitwie"
+ trait_track_skill_desc: "Postać ta przeprowadziła udane manewry podczas bitwy, demonstrując swoje umiejętności i doświadczenie w dowodzeniu oddziałami."
+ trait_track_victories: "Wiktor w bitwie"
+ trait_track_victories_desc: "Liczba zwycięstw tej postaci w bitwach w czasie wojny, pokazująca jej umiejętności i sukcesy na polu bitwy."
+ trait_track_foreign_fighter: "Walka na obcej ziemi"
+ trait_track_foreign_fighter_desc: "Doświadczenie tej postaci w prowadzeniu ludzi do zwycięstwa poza granicami ich królestwa, demonstrowanie ich umiejętności w poruszaniu się po obcym terenie i pokonywaniu wyzwań związanych z walką z dala od domu."
+ trait_track_local_fighter: "Obrona Ojczyzny"
+ trait_track_local_fighter_desc: "Doświadczenie tej postaci w skutecznym prowadzeniu ludzi do obrony ojczyzny, demonstrowaniu ich umiejętności wykorzystania na swoją korzyść znanego terenu i lokalnych zasobów."
+ trait_track_outnumbered: "Wbrew przeciwnościom"
+ trait_track_outnumbered_desc: "Doświadczenie tej postaci w skutecznym prowadzeniu ludzi w bitwie z siłami większymi niż jej własne, demonstrowanie jej umiejętności stosowania doskonałej taktyki i strategii w celu pokonania przeciwności losu."
+  
+  
+ trait_lifestyle_home_terrain_expert: "Obrońca Ojczyzny"
+ trait_track_lifestyle_home_terrain_expert: "Obrońca Ojczyzny"
+ trait_track_lifestyle_home_terrain_expert_desc: "Postać ta, doświadczona w walce w granicach swojego królestwa, ze znajomością krainy i jej zalet, stanowi potężnego przeciwnika podczas walki na znajomym terenie."
+ trait_lifestyle_home_terrain_expert_desc: "Postać ta, doświadczona w walce w granicach swojego królestwa, ze znajomością krainy i jej zalet, stanowi potężnego przeciwnika podczas walki na znajomym terenie."
+ trait_lifestyle_home_terrain_expert_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] ma doświadczenie w walce w granicach [ROOT.GetCharacter.GetHerHis] krainy, znając krainę i jej zalety, [ROOT.GetCharacter.GetSheHe] jest potężnym przeciwnikiem podczas walki na znajomym terenie."
+  
+ trait_lifestyle_foreign_terrain_expert: "Bojownik o obcych ziemiach"
+ trait_track_lifestyle_foreign_terrain_expert: "Bojownik o obcych ziemiach"
+ trait_track_lifestyle_foreign_terrain_expert_desc: "Postać ta ma doświadczenie w walce poza granicami swojego królestwa, mimo że zna tę krainę, jest biegła w kierowaniu armią przez obce krainy."
+ trait_lifestyle_foreign_terrain_expert_desc: "Postać ta ma doświadczenie w walce poza granicami swojego królestwa, mimo że zna tę krainę, jest biegła w kierowaniu armią przez obce krainy."
+ trait_lifestyle_foreign_terrain_expert_character_desc: "Postać ta ma doświadczenie w walce poza granicami swojego królestwa, mimo że zna tę krainę, jest biegła w kierowaniu armią przez obce krainy."
+ lifestyle_foreign_terrain_expert_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] ma doświadczenie w walce poza granicami swojego [ROOT.GetCharacter.GetHerHis], mimo że nie zna tego kraju, [ROOT.GetCharacter.GetSheHe] jest biegły w prowadzeniu armii przez obce kraje."
+  
+ trait_lifestyle_outnumbered_fighter_expert: "Dowódca wojsk z przewagą liczebną"
+ trait_track_lifestyle_outnumbered_fighter_expert: "Dowódca wojsk z przewagą liczebną"
+ trait_track_lifestyle_outnumbered_fighter_expert_desc: "Ta postać ma doświadczenie w prowadzeniu ludzi przeciwko siłom większym niż ich własne, demonstrując swoje umiejętności w stosowaniu doskonałej taktyki i strategii, aby pokonać wszelkie przeciwności losu."
+ trait_lifestyle_outnumbered_fighter_expert_desc: "Ta postać ma doświadczenie w prowadzeniu ludzi przeciwko siłom większym niż ich własne, demonstrując swoje umiejętności w stosowaniu doskonałej taktyki i strategii, aby pokonać wszelkie przeciwności losu."
+ trait_lifestyle_outnumbered_fighter_expert_character_desc: "Ta postać ma doświadczenie w prowadzeniu ludzi przeciwko siłom większym niż ich własne, demonstrując swoje umiejętności w stosowaniu doskonałej taktyki i strategii, aby pokonać wszelkie przeciwności losu."
+ lifestyle_outnumbered_fighter_expert_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] ma doświadczenie w prowadzeniu ludzi przeciwko siłom większym niż [ROOT.GetCharacter.GetHerHis] własne, wykazując się [ROOT.GetCharacter.GetHerHis] umiejętnością stosowania doskonałej taktyki i strategii w celu pokonania przeciwności losu."
+  
+  

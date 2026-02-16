@@ -1,0 +1,754 @@
+﻿l_korean:
+  
+ #customLoc 
+ hegemon_female_plural_one: "헤게몬의"
+ emperor_female_plural_one: "황후의"
+ king_female_plural_one: "퀸스"
+ duke_female_plural_one: "공작부인의"
+ count_female_plural_one: "백작부인의"
+  
+ hegemon_male_plural_one: "헤게몬의"
+ emperor_male_plural_one: "황제의"
+ king_male_plural_one: "킹스"
+ duke_male_plural_one: "듀크의"
+ count_male_plural_one: "백작의"
+  
+ #NICKNAMES - GIVEN BECAUSE UNLANDED CANT HAVE FLAVOR 
+  
+ nick_the_bulwark_of_place: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 보루"
+ nick_the_sword_of_place: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 검"
+ nick_the_shield_of_place: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 방패"
+ nick_the_defender_of_place: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 수호자"
+ nick_the_protector_of_place: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 수호자"
+ nick_the_iron_fist_of_place: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 철권"
+ nick_the_fist_of_place: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 주먹"
+ nick_the_champion_of_place: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 챔피언"
+ nick_the_first_blade_of_place: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 첫 번째 칼날"
+ nick_the_first_shield_of_place: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 첫 번째 방패"
+ nick_the_anvil_of_place: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 모루"
+ nick_the_hammer_of_place: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 망치"
+ nick_the_fury_of_place: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 분노"
+ nick_the_might_of_place: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 힘"
+  
+  
+ # The ______ of the King/Queen 
+  
+ nick_the_iron_fist_of_the_male_person: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 철권"
+ nick_the_iron_fist_of_the_female_person: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 철권"
+ nick_the_blade_of_the_male_person: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 칼날"
+ nick_the_blade_of_the_female_person: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 칼날"
+ nick_the_first_blade_of_the_male_person: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 첫 번째 칼날"
+ nick_the_first_blade_of_the_female_person: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 첫 번째 칼날"
+ nick_the_shield_of_the_male_person: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 방패"
+ nick_the_shield_of_the_female_person: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 방패"
+ nick_the_might_of_the_male_person: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 힘"
+ nick_the_might_of_the_female_person: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 힘"
+ nick_the_protector_of_male: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 챔피언"
+ nick_the_protector_of_female: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 챔피언"
+  
+  
+ # The King's/Queens ___________________ 
+  
+ nick_the_person_shield_male: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 방패"
+ nick_the_person_shield_female: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] 방패"
+ nick_the_person_blade_male: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 블레이드"
+ nick_the_person_blade_female: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] 블레이드"
+ nick_the_person_champion_male: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 챔피언"
+ nick_the_person_champion_female: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] 챔피언"
+ nick_the_person_fury_male: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 퓨리"
+ nick_the_person_fury_female: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] 퓨리"
+ nick_the_person_fist_male: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 주먹"
+ nick_the_person_fist_female: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] 주먹"
+ nick_the_person_protector_male: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 수호자"
+ nick_the_person_protector_female: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] 수호자"
+ nick_the_person_might_male: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 힘"
+ nick_the_person_might_female: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] 힘"
+  
+ ### Marches 
+  
+ nick_defender_of_the_realm_marches: "[Character.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 수호자"
+ nick_protector_of_the_realm_marches: "[Character.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 수호자"
+ nick_warden_of_the_realm_marches: "[Character.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 감시자"
+  
+  
+  
+ ####################################################### FLAVOR LOCS ############################################################## 
+  
+ # The ________ of Paris (Liege Capital Location) 
+  
+ tbatt_military_title_bulwark: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 보루"
+ tbatt_military_title_bulwark_fem: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 보루"
+ tbatt_military_title_sword: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 검"
+ tbatt_military_title_sword_fem: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 검"
+ tbatt_military_title_shield: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 방패"
+ tbatt_military_title_shield_fem: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 방패"
+ tbatt_military_title_defender: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 수호자"
+ tbatt_military_title_defender_fem: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 수호자"
+ tbatt_military_title_protector: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 수호자"
+ tbatt_military_title_protector_fem: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 수호자"
+ tbatt_military_title_iron_fist: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 철권"
+ tbatt_military_title_iron_fist_fem: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 철권"
+ tbatt_military_title_champion: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 챔피언"
+ tbatt_military_title_champion_fem: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 챔피언"
+ tbatt_military_title_anvil: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 모루"
+ tbatt_military_title_anvil_fem: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 모루"
+ tbatt_military_title_hammer: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 망치"
+ tbatt_military_title_hammer_fem: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 망치"
+ tbatt_military_title_fury: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 분노"
+ tbatt_military_title_fury_fem: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 분노"
+ tbatt_military_title_might: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 힘"
+ tbatt_military_title_might_fem: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 힘"
+  
+ # First _______ of Paris (Liege Capital Location) 
+  
+ tbatt_military_title_first_blade: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 첫 번째 블레이드"
+ tbatt_military_title_first_blade_fem: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 첫 번째 블레이드"
+ tbatt_military_title_first_shield: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 첫 번째 방패"
+ tbatt_military_title_first_shield_fem: "[Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 첫 번째 방패"
+  
+ # The ______ of the King/Queen 
+ tbatt_military_title_iron_fist_of_male: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 철권"
+ tbatt_military_title_iron_fist_of_female: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 철권"
+ tbatt_military_title_first_blade_of_male:0 "The First Blade of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_first_blade_of_female:0 "The First Blade of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_shield_of_male:0 "The Shield of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_shield_of_female:0 "The Shield of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_might_of_male:0 "The Might of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_might_of_female:0 "The Might of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_protector_of_male: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 챔피언"
+ tbatt_military_title_protector_of_female:0 "The Champion of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+  
+ # The King's/Queens ___________________ 
+  
+ tbatt_military_title_male_shield: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 방패, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_female_shield: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] 방패, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_male_blade: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 블레이드, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_female_blade: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] 블레이드, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_male_champion: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 챔피언, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_female_champion: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] 챔피언, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_male_fury: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 분노, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_female_fury: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] 분노, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_male_fist: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 주먹, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_female_fist: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] 주먹, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_male_protector: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 수호자, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_female_protector: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] 수호자, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_male_might: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 힘, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_female_might: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] 힘, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+  
+  
+ # ________ of the West Francia Marches 
+  
+ tbatt_military_title_marches_defender: "[Character.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 수호자, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_marches_defender_fem: "[Character.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 수호자, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_marches_protector: "[Character.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 수호자, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_marches_protector_fem: "[Character.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 수호자, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_marches_warden: "[Character.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 감시자, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_marches_warden_fem: "[Character.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 감시자, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tactical_honorary_military_title: "명예군사칭호"
+ tactical_honorary_military_title_desc: "이 캐릭터는 군주가 개인적으로 부여한 군사 칭호를 보유하고 있어 동료들 사이에서 두각을 나타냅니다.\n특성 획득: [GetPerk('like_weed_in_a_garden_perk').GetName(Character)]\n특성 획득: [GetPerk('unshackled_lust_perk').GetName(Character)]\n특성 획득: [GetPerk('subtle_desire_perk').GetName(Character)]"
+  
+  
+  
+ #### player 
+  
+ tbatt_military_title_state_fist: "[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 주먹"
+ tbatt_military_title_state_fist_fem: "[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 주먹"
+ tbatt_military_title_state_guardian: "[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 수호자"
+ tbatt_military_title_state_guardian_fem: "[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 수호자"
+ tbatt_military_title_state_protector: "[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 수호자"
+ tbatt_military_title_state_protector_fem: "[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 수호자"
+ tbatt_military_title_state_blade: "[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 칼날"
+ tbatt_military_title_state_blade_fem: "[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 칼날"
+ tbatt_military_title_state_shield: "[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 방패"
+ tbatt_military_title_state_shield_fem: "[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 방패"
+ tbatt_military_title_state_warden: "[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 소장"
+ tbatt_military_title_state_warden_fem: "[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 소장"
+  
+ tbatt_military_title_culture_savior: "[Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 구원자"
+ tbatt_military_title_culture_savior_fem: "[Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 구원자"
+ tbatt_military_title_culture_protector: "[Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 수호자"
+ tbatt_military_title_culture_protector_fem: "[Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 수호자"
+ tbatt_military_title_culture_guardian: "[Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 수호자"
+ tbatt_military_title_culture_guardian_fem: "[Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 수호자"
+ tbatt_military_title_culture_shield: "[Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 방패"
+ tbatt_military_title_culture_shield_fem: "[Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 방패"
+ tbatt_military_title_culture_blade: "[Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 검"
+ tbatt_military_title_culture_blade_fem: "[Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 검"
+ tbatt_military_title_culture_might: "[Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 힘"
+ tbatt_military_title_culture_might_fem: "[Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 힘"
+  
+ tbatt_military_title_son_of_father: "[Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 아들"
+ tbatt_military_title_son_of_father_fem: "[Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 딸"
+ tbatt_military_title_blood_of_father: "[Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 피"
+ tbatt_military_title_blood_of_father_fem: "[Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 피"
+ tbatt_military_title_scion_of_father: "[Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 후예"
+ tbatt_military_title_scion_of_father_fem: "[Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 후예"
+  
+ tbatt_military_title_hand_of_justice: "정의의 손, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_hand_of_justice_fem: "정의의 손, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_bane_of_devil: "[Character.GetFaith.DevilName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 파멸"
+ tbatt_military_title_bane_of_devil_fem: "[Character.GetFaith.DevilName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 파멸"
+ tbatt_military_title_vanquisher_of_unholy: "부정한 자의 정복자, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_vanquisher_of_unholy_fem: "부정한 자의 정복자, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_vanquisher_of_wicked: "사악한 자의 정복자, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_vanquisher_of_wicked_fem: "사악한 자의 정복자, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_vanquisher_of_unbelievers: "불신자들의 정복자, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_vanquisher_of_unbelievers_fem: "불신자들의 정복자, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_protector_of_clergy: "[Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 수호자"
+ tbatt_military_title_protector_of_clergy_fem: "[Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 수호자"
+ tbatt_military_title_guardian_of_clergy: "[Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 수호자"
+ tbatt_military_title_guardian_of_clergy_fem: "[Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 수호자"
+ tbatt_military_title_custodian_of_clergy: "[Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 관리자"
+ tbatt_military_title_custodian_of_clergy_fem: "[Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 관리자"
+  
+ tbatt_military_title_the_lords_wrath: "[Character.GetFaith.HighGodNameAlternatePossessive|U] 분노, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lords_wrath_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] 분노, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lords_fury: "[Character.GetFaith.HighGodNameAlternatePossessive|U] 분노, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lords_fury_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] 분노, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lords_might: "[Character.GetFaith.HighGodNameAlternatePossessive|U] 어쩌면, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lords_might_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] 어쩌면, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lords_vengeance: "[Character.GetFaith.HighGodNameAlternatePossessive|U] 복수, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lords_vengeance_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] 복수, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lords_shield: "[Character.GetFaith.HighGodNameAlternatePossessive|U] 방패, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lords_shield_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] 방패, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lords_justice: "[Character.GetFaith.HighGodNameAlternatePossessive|U] 정의, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lords_justice_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] 정의, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lords_blade: "[Character.GetFaith.HighGodNameAlternatePossessive|U] 블레이드, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lords_blade_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] 블레이드, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_guardian_of_text: "[Character.GetFaith.ReligiousText|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 수호자"
+ tbatt_military_title_guardian_of_text_fem: "[Character.GetFaith.ReligiousText|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 수호자"
+ tbatt_military_title_protector_of_text: "[Character.GetFaith.ReligiousText|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 수호자"
+ tbatt_military_title_protector_of_text_fem: "[Character.GetFaith.ReligiousText|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 수호자"
+  
+ tbatt_military_title_blade_of_followers: "[GetPlayer.GetFaith.GetAdherentNamePluralNoTooltip|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 검"
+ tbatt_military_title_blade_of_followers_fem: "[GetPlayer.GetFaith.GetAdherentNamePluralNoTooltip|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 검"
+  
+ tbatt_military_title_bane_of_infidels: "[Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 파멸"
+ tbatt_military_title_bane_of_infidels_fem: "[Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 파멸"
+ tbatt_military_title_vanquisher_of_infidels: "[Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 제압자"
+ tbatt_military_title_vanquisher_of_infidels_fem: "[Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 제압자"
+ tbatt_military_title_conqueror_of_infidels: "[Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 정복자"
+ tbatt_military_title_conqueror_of_infidels_fem: "[Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 정복자"
+ tbatt_military_title_blade_of_infidels: "[Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 검"
+ tbatt_military_title_blade_of_infidels_fem: "[Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 검"
+ tbatt_military_title_blade_of_infidels: "[Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 검"
+ tbatt_military_title_blade_of_infidels_fem: "[Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 검"
+  
+ tbatt_military_title_wrath_of_god: "[Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 분노"
+ tbatt_military_title_wrath_of_god_fem: "[Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 분노"
+ tbatt_military_title_blade_of_god: "[Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 칼날"
+ tbatt_military_title_blade_of_god_fem: "[Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 칼날"
+ tbatt_military_title_shield_of_god: "[Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 방패"
+ tbatt_military_title_shield_of_god_fem: "[Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 방패"
+  
+ tbatt_military_title_gods_fury: "[Character.GetFaith.HighGodNamePossessive|U] 분노, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_gods_fury_fem: "[Character.GetFaith.HighGodNamePossessive|U] 분노, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_gods_wrath: "[Character.GetFaith.HighGodNamePossessive|U] 분노, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_gods_wrath_fem: "[Character.GetFaith.HighGodNamePossessive|U] 분노, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_sword_of_wargod: "[Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 검"
+ tbatt_military_title_sword_of_wargod_fem: "[Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 검"
+ tbatt_military_title_blade_of_wargod: "[Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 칼날"
+ tbatt_military_title_blade_of_wargod_fem: "[Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 칼날"
+ tbatt_military_title_might_of_wargod: "[Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 힘"
+ tbatt_military_title_might_of_wargod_fem: "[Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 힘"
+ tbatt_military_title_wrath_of_wargod: "[Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 분노"
+ tbatt_military_title_wrath_of_wargod_fem: "[Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 분노"
+ tbatt_military_title_fury_of_wargod: "[Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 분노"
+ tbatt_military_title_fury_of_wargod_fem: "[Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 분노"
+  
+ tbatt_military_title_blade_of_heaven: "[Character.GetFaith.PositiveAfterLife|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 칼날"
+ tbatt_military_title_blade_of_heaven_fem: "[Character.GetFaith.PositiveAfterLife|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 칼날"
+ tbatt_military_title_shield_of_heaven: "[Character.GetFaith.PositiveAfterLife|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 방패"
+ tbatt_military_title_shield_of_heaven_fem: "[Character.GetFaith.PositiveAfterLife|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 방패"
+  
+ tbatt_military_title_bearer_of_cross: "[Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 소유자"
+ tbatt_military_title_bearer_of_cross_fem: "[Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 소유자"
+ tbatt_military_title_defender_of_cross: "[Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 수호자"
+ tbatt_military_title_defender_of_cross_fem: "[Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 수호자"
+ tbatt_military_title_protector_of_cross: "[Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 수호자"
+ tbatt_military_title_protector_of_cross_fem: "[Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 수호자"
+  
+ tbatt_military_title_the_black_lion: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_black_lion_fem: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lion_of_realm: "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lion_of_realm_fem: "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lion_of_capital: "[GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]의 [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lion_of_capital_fem: "[GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]의 [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_black_lion_of_realm: "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ tbatt_military_title_the_black_lion_of_realm_fem: "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ tbatt_military_title_the_black_lion_of_capital: "[GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ tbatt_military_title_the_black_lion_of_capital_fem: "[GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ tbatt_military_title_the_dynasty_lion: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_dynasty_lion_fem: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lion_of_dynasty: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lion_of_dynasty_fem: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_black_lion_of_dynasty: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ tbatt_military_title_the_black_lion_of_dynasty_fem: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ tbatt_military_title_the_lion_of_dynasty: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lion_of_dynasty_fem: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_black_king: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')],"
+ tbatt_military_title_the_black_king_fem: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')],"
+ tbatt_military_title_the_black_king_of_realm: "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')],"
+ tbatt_military_title_the_black_king_of_realm_fem: "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')],"
+ tbatt_military_title_the_black_blade_of_realm: "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] 블레이드"
+ tbatt_military_title_the_black_blade_of_realm_fem: "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] 블레이드"
+ tbatt_military_title_the_black_blade_of_capital: "[GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] 블레이드"
+ tbatt_military_title_the_black_blade_of_capital_fem: "[GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]의 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] 블레이드"
+  
+ tbatt_player_faith_devilname: "[GetPlayer.GetFaith.DevilName|U]"
+ tbatt_player_faith_clergy: "[GetPlayer.GetFaith.AltPriestTermPlural|U]"
+ tbatt_player_faith_the_lords: "[GetPlayer.GetFaith.HighGodNameAlternatePossessive|U]"
+ tbatt_player_faith_scriptures: "[GetPlayer.GetFaith.ReligiousText|U]"
+ tbatt_player_faith_adherents: "[GetPlayer.GetFaith.GetAdherentNamePluralNoTooltip|U]"
+ tbatt_player_faith_of_god: "[GetPlayer.GetFaith.HighGodName|U]"
+ tbatt_player_faith_gods: "[GetPlayer.GetFaith.HighGodNamePossessive|U]"
+ tbatt_player_faith_wargod: "[GetPlayer.GetFaith.WarGodName|U]"
+ tbatt_player_faith_afterlife: "[GetPlayer.GetFaith.PositiveAfterLife|U]"
+ tbatt_player_faith_symbol: "[GetPlayer.GetFaith.ReligiousSymbol|U]"
+  
+ tbatt_title_color_green_flag: "녹색"
+ tbatt_title_color_orange_flag: "주황색"
+ tbatt_title_color_yellow_flag: "노란색"
+ tbatt_title_color_red_flag: "빨간색"
+ tbatt_title_color_black_flag: "검은색"
+ tbatt_title_color_white_flag: "하얀색"
+ tbatt_title_color_blue_flag: "파란색"
+ tbatt_title_color_purple_flag: "보라"
+ tbatt_title_color_pink_flag: "분홍색"
+ tbatt_title_color_gray_flag: "회색"
+  
+ tbatt_title_animal_bear_flag: "곰"
+ tbatt_title_animal_wolf_flag: "늑대"
+ tbatt_title_animal_spider_flag: "거미"
+ tbatt_title_animal_boar_flag: "수퇘지"
+ tbatt_title_animal_stag_flag: "수사슴"
+ tbatt_title_animal_fish_flag: "물고기"
+ tbatt_title_animal_fox_flag: "여우"
+ tbatt_title_animal_dragon_flag: "용"
+ tbatt_title_animal_basilisk_flag: "바실리스크"
+ tbatt_title_animal_aurochs_flag: "오록스"
+ tbatt_title_animal_leopard_flag: "표범"
+ tbatt_title_animal_cat_flag: "고양이"
+ tbatt_title_animal_dog_flag: "개"
+ tbatt_title_animal_serpent_flag: "뱀"
+ tbatt_title_animal_lion_flag: "사자"
+  
+ # Tactical Battle Titles - Position Names 
+ tbatt_titlecard_bane_of_devil: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_devilname').GetFlagName]의 파멸"
+ tbatt_titlecard_vanquisher_of_unholy: "부정한 자의 정복자"
+ tbatt_titlecard_vanquisher_of_wicked: "사악한 자의 정복자"
+  
+ tbatt_titlecard_protector_of_clergy: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]의 수호자"
+ tbatt_titlecard_guardian_of_clergy: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]의 수호자"
+ tbatt_titlecard_custodian_of_clergy: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]의 관리인"
+ tbatt_titlecard_lords_wrath: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 분노"
+ tbatt_titlecard_lords_fury: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 분노"
+ tbatt_titlecard_lords_might: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 어쩌면"
+ tbatt_titlecard_lords_vengeance: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 복수"
+ tbatt_titlecard_lords_blade: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 블레이드"
+ tbatt_titlecard_lords_shield: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 방패"
+ tbatt_titlecard_lords_justice: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 정의"
+ tbatt_titlecard_guardian_of_text: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]의 수호자"
+ tbatt_titlecard_protector_of_text: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]의 수호자"
+ tbatt_titlecard_blade_of_followers: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_adherents').GetFlagName]의 칼날"
+ tbatt_titlecard_wrath_of_god: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]의 분노"
+ tbatt_titlecard_gods_fury: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] 분노"
+ tbatt_titlecard_gods_wrath: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] 분노"
+ tbatt_titlecard_blade_of_god: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]의 칼날"
+ tbatt_titlecard_shield_of_god: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]의 방패"
+ tbatt_titlecard_sword_of_wargod: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]의 검"
+ tbatt_titlecard_blade_of_wargod: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]의 칼날"
+ tbatt_titlecard_might_of_wargod: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]의 힘"
+ tbatt_titlecard_wrath_of_wargod: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]의 분노"
+ tbatt_titlecard_fury_of_wargod: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]의 분노"
+ tbatt_titlecard_blade_of_heaven: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]의 칼날"
+ tbatt_titlecard_shield_of_heaven: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]의 방패"
+ tbatt_titlecard_bearer_of_symbol: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]의 소유자"
+ tbatt_titlecard_defender_of_symbol: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]의 수비수"
+ tbatt_titlecard_protector_of_symbol: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]의 수호자"
+  
+ tbatt_header_bane_of_devil: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_devilname').GetFlagName]의 파멸"
+ tbatt_header_vanquisher_of_unholy: "부정한 자의 정복자"
+ tbatt_header_vanquisher_of_wicked: "사악한 자의 정복자"
+ tbatt_header_protector_of_clergy: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]의 수호자"
+ tbatt_header_guardian_of_clergy: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]의 수호자"
+ tbatt_header_custodian_of_clergy: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]의 관리인"
+ tbatt_header_lords_wrath: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 분노"
+ tbatt_header_lords_fury: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 분노"
+ tbatt_header_lords_might: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 어쩌면"
+ tbatt_header_lords_vengeance: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 복수"
+ tbatt_header_lords_blade: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 블레이드"
+ tbatt_header_lords_shield: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 방패"
+ tbatt_header_lords_justice: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 정의"
+ tbatt_header_guardian_of_text: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]의 수호자"
+ tbatt_header_protector_of_text: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]의 수호자"
+ tbatt_header_blade_of_followers: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_adherents').GetFlagName]의 칼날"
+ tbatt_header_wrath_of_god: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]의 분노"
+ tbatt_header_gods_fury: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] 분노"
+ tbatt_header_gods_wrath: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] 분노"
+ tbatt_header_blade_of_god: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]의 칼날"
+ tbatt_header_shield_of_god: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]의 방패"
+ tbatt_header_sword_of_wargod: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]의 검"
+ tbatt_header_blade_of_wargod: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]의 칼날"
+ tbatt_header_might_of_wargod: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]의 힘"
+ tbatt_header_wrath_of_wargod: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]의 분노"
+ tbatt_header_fury_of_wargod: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]의 분노"
+ tbatt_header_blade_of_heaven: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]의 칼날"
+ tbatt_header_shield_of_heaven: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]의 방패"
+ tbatt_header_bearer_of_symbol: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]의 소유자"
+ tbatt_header_defender_of_symbol: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]의 수비수"
+ tbatt_header_protector_of_symbol: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]의 수호자"
+  
+ tbatt_grant_bane_of_devil: "사탄의 파멸 위치 부여"
+ tbatt_grant_vanquisher_of_unholy: "부정한 정복자 지위 부여"
+ tbatt_grant_vanquisher_of_wicked: "사악한 정복자 지위 부여"
+ tbatt_grant_protector_of_clergy: "성직자의 수호자 직위 부여"
+ tbatt_grant_guardian_of_clergy: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]의 그랜트 수호자"
+ tbatt_grant_custodian_of_clergy: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]의 관리인 부여"
+ tbatt_grant_lords_wrath: "신의 진노 지위 부여"
+ tbatt_grant_lords_fury: "신들의 분노 위치 부여"
+ tbatt_grant_lords_might: "신의 힘 위치 부여"
+ tbatt_grant_lords_vengeance: "신들의 복수 위치 부여"
+ tbatt_grant_lords_blade: "갓즈블레이드 위치 부여"
+ tbatt_grant_lords_shield: "신들의 방패 위치 부여"
+ tbatt_grant_lords_justice: "신의 정의 지위 부여"
+ tbatt_grant_guardian_of_text: "성경의 수호자에게 지위를 부여하다"
+ tbatt_grant_protector_of_text: "성경의 수호자 지위를 부여하다"
+ tbatt_grant_blade_of_followers: "카톨릭의 칼날 지위 부여"
+ tbatt_grant_wrath_of_god: "신의 분노 지위 부여"
+ tbatt_grant_gods_fury: "신의 분노 위치 부여"
+ tbatt_grant_gods_wrath: "신의 진노 지위 부여"
+ tbatt_grant_blade_of_god: "신의 칼날 위치 부여"
+ tbatt_grant_shield_of_god: "신의 방패 위치 부여"
+ tbatt_grant_sword_of_wargod: "Wargod의 검 위치 부여"
+ tbatt_grant_blade_of_wargod: "전쟁신의 검 위치 부여"
+ tbatt_grant_might_of_wargod: "Might of Wargod 지위 부여"
+ tbatt_grant_wrath_of_wargod: "전쟁신의 분노 지위 부여"
+ tbatt_grant_fury_of_wargod: "전쟁신의 분노 지위 부여"
+ tbatt_grant_blade_of_heaven: "천상의 검 위치 부여"
+ tbatt_grant_shield_of_heaven: "천상의 방패 지위 부여"
+ tbatt_grant_bearer_of_symbol: "십자가를 지는 자에게 지위를 부여하다"
+ tbatt_grant_defender_of_symbol: "십자가의 수호자 위치 부여"
+ tbatt_grant_protector_of_symbol: "십자가의 수호자 지위 부여"
+  
+ tbatt_remove_bane_of_devil: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_devilname').GetFlagName]의 베인 제거"
+ tbatt_remove_vanquisher_of_unholy: "부정한 자의 제압자 제거"
+ tbatt_remove_vanquisher_of_wicked: "사악한 자의 정복자 제거"
+ tbatt_remove_protector_of_clergy: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]의 수호자 제거"
+ tbatt_remove_guardian_of_clergy: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]의 수호자 제거"
+ tbatt_remove_custodian_of_clergy: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]의 관리인 제거"
+ tbatt_remove_lords_wrath: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 분노 제거"
+ tbatt_remove_lords_fury: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 분노 제거"
+ tbatt_remove_lords_might: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 제거"
+ tbatt_remove_lords_vengeance: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 복수 제거"
+ tbatt_remove_lords_blade: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 블레이드 제거"
+ tbatt_remove_lords_shield: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 방패 제거"
+ tbatt_remove_lords_justice: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] 정의 제거"
+ tbatt_remove_guardian_of_text: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]의 수호자 제거"
+ tbatt_remove_protector_of_text: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]의 수호자 제거"
+ tbatt_remove_blade_of_followers: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_adherents').GetFlagName]의 칼날 제거"
+ tbatt_remove_wrath_of_god: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]의 분노 제거"
+ tbatt_remove_gods_fury: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] 분노 제거"
+ tbatt_remove_gods_wrath: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] 분노 제거"
+ tbatt_remove_blade_of_god: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]의 칼날 제거"
+ tbatt_remove_shield_of_god: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]의 보호막 제거"
+ tbatt_remove_sword_of_wargod: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]의 검 제거"
+ tbatt_remove_blade_of_wargod: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]의 칼날 제거"
+ tbatt_remove_might_of_wargod: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]의 힘 제거"
+ tbatt_remove_wrath_of_wargod: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]의 분노 제거"
+ tbatt_remove_fury_of_wargod: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]의 분노 제거"
+ tbatt_remove_blade_of_heaven: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]의 칼날 제거"
+ tbatt_remove_shield_of_heaven: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]의 보호막 제거"
+ tbatt_remove_bearer_of_symbol: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]의 전달자 제거"
+ tbatt_remove_defender_of_symbol: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]의 수비수 제거"
+ tbatt_remove_protector_of_symbol: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]의 수호자 제거"
+  
+ TB_RM_RANDOM_TRAITS:  "무작위 특성 제거"
+ TB_TITLE_FLANK_COMMANDERS:  "측면 사령관"
+ TB_TITLE_MILITARY_TITLES:  "군사 타이틀"
+ TB_TITLE_PLAYER_TITLES:  "플레이어 타이틀"
+ TB_TITLE_MIL_POS_TITLES:  "군사 위치"
+ TB_OPEN_WINDOW:  "전술 전투 타이틀 보기 열기"
+ TB_WINDOW_TITLE_HEADER:  "측면 사령관 및 직함"
+  
+  
+ TB_RM_TITLE_PLAYER_TITLES:  "플레이어 타이틀 제거"
+ TB_TITLE_SELECT_PLAYER_COLOR:  "색상 선택"
+ TB_TITLE_SELECT_PLAYER_ANIMAL:  "동물 선택"
+ TB_SELECT_COLOR_ANIMAL_INSTRUCTION:  "#strong_glow #high 관련 제목을 보려면 색상과 동물을 선택하세요."
+ TB_TITLE_SELECT_COLOR_ANIMAL:  "#strong_glow #high 관련 제목을 보려면 색상과 동물을 선택하세요."
+ TB_CHAR_MARTIAL:  "무술: [Character.GetSkill( 'martial' )]"
+ TB_CHAR_PROWESS:  "기량: [Character.GetSkill( 'prowess' )]"
+  
+ TB_LANDS_TEXT:  "#high #medium_glow #help_light_background #L [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]/[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_PRIMARY_LANDS_HEADER:  "[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]/[Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+  
+ TB_PLAYER_TITLE_VACANT:  "#help_light_background #difficulty_hard 공석"
+  
+  
+ TB_TITLE_LEFTFLANK_COMMANDER:  "왼쪽 측면 사령관"
+ TB_SELECT_LEFTFLANK_COMMANDER:  "왼쪽 사령관 선택"
+ TB_REMOVE_LEFTFLANK_COMMANDER:  "왼쪽 사령관 제거"
+  
+ TB_TITLE_CENTERFLANK_COMMANDER:  "중앙 측면 사령관"
+ TB_SELECT_CENTERFLANK_COMMANDER:  "센터 사령관 선택"
+ TB_REMOVE_CENTERFLANK_COMMANDER:  "중앙 사령관 제거"
+  
+ TB_TITLE_RIGHTFLANK_COMMANDER:  "오른쪽 측면 사령관"
+ TB_SELECT_RIGHTFLANK_COMMANDER:  "오른쪽 사령관 선택"
+ TB_REMOVE_RIGHTFLANK_COMMANDER:  "오른쪽 사령관 제거"
+  
+ TB_TITLE_BULWARK_OF_STATE:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 보루"
+ TB_GRANT_BULWARK_OF_STATE:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 보루 선택"
+ TB_REMOVE_BULWARK_OF_STATE:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 보루 제거"
+  
+ TB_TITLE_SWORD_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 검"
+ TB_GRANT_SWORD_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 검 선택"
+ TB_REMOVE_SWORD_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 검 제거"
+  
+ TB_TITLE_SHIELD_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 방패"
+ TB_GRANT_SHIELD_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 방패 선택"
+ TB_REMOVE_SHIELD_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 보호막 제거"
+  
+ TB_TITLE_DEFENDER_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 수호자"
+ TB_GRANT_DEFENDER_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 수비수 선택"
+ TB_REMOVE_DEFENDER_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 수비수 제거"
+  
+ TB_TITLE_PROTECTOR_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 수호자"
+ TB_GRANT_PROTECTOR_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 수호자 선택"
+ TB_REMOVE_PROTECTOR_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 수호자 제거"
+  
+ TB_TITLE_ANVIL_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 모루"
+ TB_GRANT_ANVIL_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 모루를 선택하세요"
+ TB_REMOVE_ANVIL_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 모루 제거"
+  
+ TB_TITLE_ANVIL_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 모루"
+ TB_GRANT_ANVIL_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 모루를 선택하세요"
+ TB_REMOVE_ANVIL_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 모루 제거"
+  
+ TB_TITLE_FIST_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 주먹"
+ TB_GRANT_FIST_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip] 주먹 선택"
+ TB_REMOVE_FIST_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 주먹 제거"
+  
+ TB_TITLE_CHAMPION_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 챔피언"
+ TB_GRANT_CHAMPION_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 챔피언 선택"
+ TB_REMOVE_CHAMPION_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 챔피언 제거"
+  
+ TB_TITLE_FIRST_BLADE_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 첫 번째 칼날"
+ TB_GRANT_FIRST_BLADE_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 첫 번째 블레이드 선택"
+ TB_REMOVE_FIRST_BLADE_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 첫 번째 블레이드 제거"
+  
+ TB_TITLE_FIRST_SHIELD_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 첫 번째 방패"
+ TB_GRANT_FIRST_SHIELD_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 첫 번째 방패 선택"
+ TB_REMOVE_FIRST_SHIELD_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 첫 번째 보호막 제거"
+  
+ TB_TITLE_HAMMER_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 망치"
+ TB_GRANT_HAMMER_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 망치 선택"
+ TB_REMOVE_HAMMER_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 망치 제거"
+  
+ TB_TITLE_FURY_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 분노"
+ TB_GRANT_FURY_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip] 중 분노 선택"
+ TB_REMOVE_FURY_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 분노 제거"
+  
+ TB_TITLE_MIGHT_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 힘"
+ TB_GRANT_MIGHT_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 힘을 선택하세요"
+ TB_REMOVE_MIGHT_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 힘 제거"
+  
+ TB_TITLE_HAMMER_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 망치"
+ TB_GRANT_HAMMER_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 망치 선택"
+ TB_REMOVE_HAMMER_OF_REALM:  "[GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]의 망치 제거"
+  
+ TB_TITLE_IRON_FIST_PERSON:  "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 철권"
+ TB_GRANT_IRON_FIST_PERSON:  "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 철권을 선택하세요"
+ TB_REMOVE_IRON_FIST_PERSON:  "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 철권 제거"
+  
+ TB_TITLE_FIRST_BLADE_PERSON:  "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 첫 번째 칼날"
+ TB_GRANT_FIRST_BLADE_PERSON:  "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 첫 번째 블레이드를 선택하세요."
+ TB_REMOVE_FIRST_BLADE_PERSON:  "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 첫 번째 블레이드 제거"
+  
+ TB_TITLE_FIRST_SHIELD_PERSON:  "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 첫 번째 방패"
+ TB_GRANT_FIRST_SHIELD_PERSON:  "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 첫 번째 방패를 선택하세요."
+ TB_REMOVE_FIRST_SHIELD_PERSON:  "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 첫 번째 방패 제거"
+  
+ TB_TITLE_SHIELD_PERSON:  "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 방패"
+ TB_GRANT_SHIELD_PERSON:  "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 방패를 선택하세요"
+ TB_REMOVE_SHIELD_PERSON:  "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 방패 제거"
+  
+ TB_TITLE_MIGHT_PERSON:  "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 힘"
+ TB_GRANT_MIGHT_PERSON:  "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 힘을 선택하세요"
+ TB_REMOVE_MIGHT_PERSON:  "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 힘을 제거하세요"
+  
+ TB_TITLE_PERSON_SHIELD: "The [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] Shield""  <"[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 쉴드"">  #NT!
+ TB_GRANT_PERSON_SHIELD: "Select The [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] Shield""  <"[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 방패를 선택하세요"">  #NT!
+ TB_REMOVE_PERSON_SHIELD: "Remove The [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] Shield""  <"[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 방패 제거"">  #NT!
+  
+ TB_TITLE_PERSON_BLADE:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 블레이드"
+ TB_GRANT_PERSON_BLADE:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 블레이드를 선택하세요"
+ TB_REMOVE_PERSON_BLADE:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 블레이드 제거"
+  
+ TB_TITLE_PERSON_CHAMPION:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 챔피언"
+ TB_GRANT_PERSON_CHAMPION:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 챔피언을 선택하세요"
+ TB_REMOVE_PERSON_CHAMPION:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 챔피언 제거"
+  
+ TB_TITLE_PERSON_FURY:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 퓨리"
+ TB_GRANT_PERSON_FURY:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 분노를 선택하세요"
+ TB_REMOVE_PERSON_FURY:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 분노 제거"
+  
+ TB_TITLE_PERSON_FIST:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 주먹"
+ TB_GRANT_PERSON_FIST:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 주먹을 선택하세요"
+ TB_REMOVE_PERSON_FIST:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 주먹 제거"
+  
+ TB_TITLE_PERSON_MIGHT:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 힘"
+ TB_GRANT_PERSON_MIGHT:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 힘을 선택하세요"
+ TB_REMOVE_PERSON_MIGHT:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] 힘을 제거하세요"
+  
+ TB_TITLE_MARCHES_DEFENDER:  "[GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 수호자"
+ TB_GRANT_MARCHES_DEFENDER:  "[GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 수비수 선택"
+ TB_REMOVE_MARCHES_DEFENDER:  "[GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 수비수 제거"
+  
+ TB_TITLE_MARCHES_PROTECTOR:  "[GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 수호자"
+ TB_GRANT_MARCHES_PROTECTOR:  "[GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 수호자 선택"
+ TB_REMOVE_MARCHES_PROTECTOR:  "[GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 수호자 제거"
+  
+ TB_TITLE_MARCHES_WARDEN:  "[GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 감시자"
+ TB_GRANT_MARCHES_WARDEN:  "[GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 감시관 선택"
+ TB_REMOVE_MARCHES_WARDEN:  "[GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] 행진의 감시관 제거"
+  
+ TB_TITLE_THE_BLACK_LION:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ TB_GRANT_THE_BLACK_LION:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]을 선택하세요."
+ TB_REMOVE_THE_BLACK_LION:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] 제거"
+  
+  
+ TB_TITLE_THE_LION_OF_REALM:  "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ TB_GRANT_THE_LION_OF_REALM:  "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]을 선택하세요."
+ TB_REMOVE_THE_LION_OF_REALM:  "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] 제거"
+  
+ TB_TITLE_THE_LION_OF_CAPITAL:  "[GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ TB_GRANT_THE_LION_OF_CAPITAL:  "[GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]을 선택하세요."
+ TB_REMOVE_THE_LION_OF_CAPITAL:  "[GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] 제거"
+  
+ TB_TITLE_THE_BLACK_LION_OF_CAPITAL:  "[GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ TB_GRANT_THE_BLACK_LION_OF_CAPITAL:  "[GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]을 선택하세요."
+ TB_REMOVE_THE_BLACK_LION_OF_CAPITAL:  "[GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] 제거"
+  
+ TB_TITLE_THE_BLACK_LION_OF_REALM:  "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ TB_GRANT_THE_BLACK_LION_OF_REALM:  "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]을 선택하세요."
+ TB_REMOVE_THE_BLACK_LION_OF_REALM:  "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] 제거"
+  
+ TB_TITLE_THE_LION_OF_DYNASTY:  "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ TB_GRANT_THE_LION_OF_DYNASTY:  "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]을 선택하세요."
+ TB_REMOVE_THE_LION_OF_DYNASTY:  "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] 제거"
+  
+ TB_TITLE_THE_BLACK_LION_OF_DYNASTY:  "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ TB_GRANT_THE_BLACK_LION_OF_DYNASTY:  "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]을 선택하세요."
+ TB_REMOVE_THE_BLACK_LION_OF_DYNASTY:  "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] 제거"
+  
+ TB_TITLE_THE_DYNASTY_LION:  "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ TB_GRANT_THE_DYNASTY_LION:  "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]을 선택하세요."
+ TB_REMOVE_THE_DYNASTY_LION:  "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] 제거"
+  
+ TB_TITLE_THE_BLACK_KING:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_GRANT_THE_BLACK_KING:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]을 선택하세요."
+ TB_REMOVE_THE_BLACK_KING:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 제거"
+  
+ TB_TITLE_THE_BLACK_KING_OF_REALM:  "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_GRANT_THE_BLACK_KING_OF_REALM:  "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]을 선택하세요."
+ TB_REMOVE_THE_BLACK_KING_OF_REALM:  "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip] 중 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 제거"
+  
+ TB_TITLE_THE_BLACK_BLADE_OF_REALM:  "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] 칼날"
+ TB_GRANT_THE_BLACK_BLADE_OF_REALM:  "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] 블레이드를 선택하세요."
+ TB_REMOVE_THE_BLACK_BLADE_OF_REALM:  "[GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] 블레이드 제거"
+  
+ TB_TITLE_THE_BLACK_BLADE_OF_CAPITAL:  "[GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]의 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] 칼날"
+ TB_GRANT_THE_BLACK_BLADE_OF_CAPITAL:  "[GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]의 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] 블레이드를 선택하세요."
+ TB_REMOVE_THE_BLACK_BLADE_OF_CAPITAL:  "[GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]의 [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] 블레이드 제거"
+  
+ TB_TITLE_PLAYER_FIST_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 주먹"
+ TB_GRANT_PLAYER_FIST_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip] 주먹 선택"
+ TB_REMOVE_PLAYER_FIST_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 주먹 제거"
+  
+ TB_TITLE_PLAYER_GUARDIAN_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 수호자"
+ TB_GRANT_PLAYER_GUARDIAN_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 수호자 선택"
+ TB_REMOVE_PLAYER_GUARDIAN_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 Guardian 제거"
+  
+ TB_TITLE_PLAYER_PROTECTOR_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 수호자"
+ TB_GRANT_PLAYER_PROTECTOR_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 수호자 선택"
+ TB_REMOVE_PLAYER_PROTECTOR_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 수호자 제거"
+  
+  
+ TB_TITLE_PLAYER_BLADE_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 칼날"
+ TB_GRANT_PLAYER_BLADE_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 블레이드 선택"
+ TB_REMOVE_PLAYER_BLADE_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 칼날 제거"
+  
+  
+ TB_TITLE_PLAYER_SHIELD_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 방패"
+ TB_GRANT_PLAYER_SHIELD_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 방패 선택"
+ TB_REMOVE_PLAYER_SHIELD_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 보호막 제거"
+  
+ TB_TITLE_PLAYER_WARDEN_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 소장"
+ TB_GRANT_PLAYER_WARDEN_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 소장을 선택하세요"
+ TB_REMOVE_PLAYER_WARDEN_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 소장 제거"
+  
+ TB_TITLE_PLAYER_SAVIOR_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 구세주"
+ TB_GRANT_PLAYER_SAVIOR_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 구원자를 선택하세요"
+ TB_REMOVE_PLAYER_SAVIOR_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 구원자 제거"
+  
+ TB_TITLE_PLAYER_PROTECTOR_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 수호자"
+ TB_GRANT_PLAYER_PROTECTOR_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 수호자 선택"
+ TB_REMOVE_PLAYER_PROTECTOR_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 수호자 제거"
+  
+ TB_TITLE_PLAYER_GUARDIAN_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 수호자"
+ TB_GRANT_PLAYER_GUARDIAN_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 수호자 선택"
+ TB_REMOVE_PLAYER_GUARDIAN_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 수호자 제거"
+  
+ TB_TITLE_PLAYER_SHIELD_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 방패"
+ TB_GRANT_PLAYER_SHIELD_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 방패를 선택하세요"
+ TB_REMOVE_PLAYER_SHIELD_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 방패 제거"
+  
+ TB_TITLE_PLAYER_BLADE_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 칼날"
+ TB_GRANT_PLAYER_BLADE_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 칼날을 선택하세요"
+ TB_REMOVE_PLAYER_BLADE_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 칼날 제거"
+  
+ TB_TITLE_PLAYER_MIGHT_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 힘"
+ TB_GRANT_PLAYER_MIGHT_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 힘을 선택하세요"
+ TB_REMOVE_PLAYER_MIGHT_OF_CULTURE:  "[GetPlayer.GetCulture.GetCollectiveNounNoTooltip]의 힘 제거"
+  
+ TB_TITLE_PLAYER_SON_OF_FATHER:  "[GetPlayer.GetFather.GetFirstNameNoTooltip]의 아들"
+ TB_GRANT_PLAYER_SON_OF_FATHER:  "[GetPlayer.GetFather.GetFirstNameNoTooltip]의 아들을 선택하세요"
+ TB_REMOVE_PLAYER_SON_OF_FATHER:  "[GetPlayer.GetFather.GetFirstNameNoTooltip]의 아들 제거"
+  
+ TB_TITLE_PLAYER_BLOOD_OF_FATHER:  "[GetPlayer.GetFather.GetFirstNameNoTooltip]의 피"
+ TB_GRANT_PLAYER_BLOOD_OF_FATHER:  "[GetPlayer.GetFather.GetFirstNameNoTooltip]의 피를 선택하세요"
+ TB_REMOVE_PLAYER_BLOOD_OF_FATHER:  "[GetPlayer.GetFather.GetFirstNameNoTooltip]의 피를 제거하세요"
+  
+ TB_TITLE_PLAYER_SCION_OF_FATHER:  "[GetPlayer.GetFather.GetFirstNameNoTooltip]의 후예"
+ TB_GRANT_PLAYER_SCION_OF_FATHER:  "[GetPlayer.GetFather.GetFirstNameNoTooltip]의 후예를 선택하세요"
+ TB_REMOVE_PLAYER_SCION_OF_FATHER:  "[GetPlayer.GetFather.GetFirstNameNoTooltip]의 자손 제거"
+  
+ TB_TITLE_PLAYER_HAND_OF_JUSTICE:  "정의의 손"
+ TB_GRANT_PLAYER_HAND_OF_JUSTICE:  "정의의 손길을 선택하세요"
+ TB_REMOVE_PLAYER_HAND_OF_JUSTICE:  "정의의 손을 제거하세요"
+  
+ TB_TITLE_PLAYER_WARDEN_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 소장"
+ TB_GRANT_PLAYER_WARDEN_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 소장을 선택하세요"
+ TB_REMOVE_PLAYER_WARDEN_OF_REALM:  "[GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]의 소장 제거"
+  
+ TB_TITLE_PLAYER_VANQ_OF_UNB:  "불신자들의 정복자"
+ TB_GRANT_PLAYER_VANQ_OF_UNB:  "불신자들의 정복자 선택"
+ TB_REMOVE_PLAYER_VANQ_OF_UNB:  "불신자들의 정복자 제거"
+  
+ TB_TITLE_PLAYER_BANE_OF_INFIDELS:  "이교도의 파멸"
+ TB_GRANT_PLAYER_BANE_OF_INFIDELS:  "이교도의 파멸 선택"
+ TB_REMOVE_PLAYER_BANE_OF_INFIDELS:  "이교도의 파멸을 제거하십시오"
+  
+ TB_TITLE_PLAYER_CONQ_OF_INFIDELS:  "이교도의 정복자"
+ TB_GRANT_PLAYER_CONQ_OF_INFIDELS:  "이교도의 정복자를 선택하세요"
+ TB_REMOVE_PLAYER_CONQ_OF_INFIDELS:  "이교도의 정복자 제거"
+  
+ TB_TITLE_PLAYER_VANQ_OF_INFIDELS:  "이교도의 정복자"
+ TB_GRANT_PLAYER_VANQ_OF_INFIDELS:  "이교도 정복자 선택"
+ TB_REMOVE_PLAYER_VANQ_OF_INFIDELS:  "이교도 제압자 제거"

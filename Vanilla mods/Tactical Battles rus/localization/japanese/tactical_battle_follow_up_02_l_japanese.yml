@@ -1,0 +1,130 @@
+﻿l_korean:
+  
+ tactical_forest_battle.1010.f: "Exploit [enemy_right_flank_commander.GetFirstNamePossessive] Ability"  <"[enemy_right_flank_commander.GetFirstNamePossessive] アビリティを活用する">  #NT!
+ tactical_forest_battle.1010.f.success: "[left_flank_commander.GetFirstNamePossessiveOrMy|U] superior skill overwhelms [enemy_right_flank_commander.GetFirstNameNoTooltip]"  <"[left_flank_commander.GetFirstNamePossessiveOrMy|U] 優れたスキルが圧倒 [enemy_right_flank_commander.GetFirstNameNoTooltip]">  #NT!
+ tactical_forest_battle.1010.f.failure: "[enemy_commander.GetFirstName|U] sends any available forces to support [enemy_commander.GetHerHis] outmatched commander!"  <"[enemy_commander.GetFirstName|U] は、[enemy_commander.GetHerHis] の劣勢な指揮官を支援するために、利用可能な部隊を派遣します!">  #NT!
+  
+ tactical_forest_battle.1011.f: "Exploit [enemy_right_flank_commander.GetFirstNamePossessive] Ability"  <"[enemy_right_flank_commander.GetFirstNamePossessive] アビリティを活用する">  #NT!
+ tactical_forest_battle.1011.f.success: "[left_flank_commander.GetFirstNamePossessiveOrMy|U] superior skill overwhelms [enemy_right_flank_commander.GetFirstNameNoTooltip]"  <"[left_flank_commander.GetFirstNamePossessiveOrMy|U] 優れたスキルが圧倒 [enemy_right_flank_commander.GetFirstNameNoTooltip]">  #NT!
+ tactical_forest_battle.1011.f.failure: "[enemy_commander.GetFirstName|U] sends any available forces to support [enemy_commander.GetHerHis] outmatched commander!"  <"[enemy_commander.GetFirstName|U] は、[enemy_commander.GetHerHis] の劣勢な指揮官を支援するために、利用可能な部隊を派遣します!">  #NT!
+  
+ tactical_forest_battle.1013.f: "Exploit [enemy_center_flank_commander.GetFirstNamePossessive] Ability"  <"[enemy_center_flank_commander.GetFirstNamePossessive] アビリティを活用する">  #NT!
+ tactical_forest_battle.1013.f.success: "[center_flank_commander.GetFirstNamePossessiveOrMy|U] superior skill overwhelms [enemy_center_flank_commander.GetFirstNameNoTooltip]"  <"[center_flank_commander.GetFirstNamePossessiveOrMy|U] 優れたスキルが圧倒 [enemy_center_flank_commander.GetFirstNameNoTooltip]">  #NT!
+ tactical_forest_battle.1013.f.failure: "[enemy_commander.GetFirstName|U] sends any available forces to support [enemy_commander.GetHerHis] outmatched commander!"  <"[enemy_commander.GetFirstName|U] は、[enemy_commander.GetHerHis] の劣勢な指揮官を支援するために、利用可能な部隊を派遣します!">  #NT!
+  
+  
+ tactical_outnumbered_lands.tt: "Success in [battle_location.GetName]"  <"[battle_location.GetName] で成功しました">  #NT!
+ tactical_outnumbered_lands.tt.success: "[this.GetFirstName] was about to defeat [enemy_commander.GetFirstName] in [battle_location.GetName] despite beihng outnumbered! [this.GetFirstName] has proven to be a brilliant commander and has earned the respect of all who witnessed the battle."  <"[this.GetFirstName] は多勢に無勢にもかかわらず、[battle_location.GetName] で [enemy_commander.GetFirstName] を倒そうとしていました! [this.GetFirstName] は優秀な指揮官であることが証明され、戦闘を目撃したすべての人々の尊敬を集めました。">  #NT!
+  
+  # tactical_forest_battle.9416 - Harrying left flank, enemy bleeding 
+ tactical_forest_battle.9416.t: "Their Left Is Bleeding!"  <"彼らの左翼は血を流している！">  #NT!
+ tactical_forest_battle.9416.desc: "[enemy_commander.GetFirstNamePossessive] forces are reeling from our hit-and-run tactics. Their left flank is severely depleted and their wounded are slowing their movements. We must act quickly to capitalize on their weakness before they can reorganize."  <"[enemy_commander.GetFirstNamePossessive] 部隊は私たちの一撃離脱戦術に動揺しています。彼らの左脇腹はひどく消耗しており、負傷者は動きが鈍くなっている。彼らが組織を再編する前に、私たちは彼らの弱点を突くために迅速に行動しなければなりません。">  #NT!
+ tactical_forest_battle.9416.a: "Coordinate a charge with our elite crack units"  <"当社の精鋭クラック部隊と連携して突撃を行う">  #NT!
+ tactical_forest_battle.9416.a.success: "Our elite units sweep through their left flank, sending them into disarray!"  <"我が精鋭部隊が彼らの左翼を掃討し、彼らを混乱に陥れます！">  #NT!
+ tactical_forest_battle.9416.a.failure: "The charge is unable to break through their stubborn defense!"  <"突撃は頑固な守備を突破できない！">  #NT!
+ tactical_forest_battle.9416.b: "Coordinate a charge with our knights"  <"騎士たちと突撃を調整する">  #NT!
+ tactical_forest_battle.9416.b.success: "Our knights smash into the weakened enemy left, sending them into disarray!"  <"我らが騎士団が弱体化した敵左翼に激突し、混乱に陥れる！">  #NT!
+ tactical_forest_battle.9416.b.failure: "The assault smashes into the weakened enemy left, sending them into disarray!"  <"攻撃は弱体化した敵左翼を打ち破り、混乱に陥る！">  #NT!
+ tactical_forest_battle.9416.c: "The charge is unable to break through their stubborn defense!"  <"突撃は頑固な守備を突破できない！">  #NT!
+ tactical_forest_battle.9416.c.success: "Our left flank drive scatters the weakened enemy!"  <"我らの左翼機動が弱体化した敵を蹴散らす！">  #NT!
+ tactical_forest_battle.9416.c.failure: "They maintain formation despite their losses!"  <"負けてもフォーメーションを維持！">  #NT!
+ tactical_forest_battle.9416.d: "Feign a retreat a turn on them"  <"退却したふりをして彼らに敵対する">  #NT!
+ tactical_forest_battle.9416.d.success: "The enemy falls for our deception and pursues into an unexpected strike!"  <"敵は私たちの欺瞞に陥り、予期せぬ攻撃を仕掛けてきます!">  #NT!
+ tactical_forest_battle.9416.d.failure: "They see through our deception and maintain their formation!!"  <"彼らは我々の欺瞞を見抜き、隊列を維持する!!">  #NT!
+ tactical_forest_battle.9416.e: "Press the advantage"  <"利点を押してください">  #NT!
+ tactical_forest_battle.9416.e.success: "Their left flank is crumbling under the immense pressure!"  <"巨大なプレッシャーに彼らの左翼は崩れ去る！">  #NT!
+ tactical_forest_battle.9416.e.failure: "They maintain formation despite their losses!"  <"負けてもフォーメーションを維持！">  #NT!
+  
+  
+  # tactical_forest_battle.9418 - Hit and run successful, enemy bleeding 
+ tactical_forest_battle.9418.t: "Their Right Is Bleeding!"  <"彼らの権利は血を流すことです！">  #NT!
+ tactical_forest_battle.9418.desc: "[enemy_commander.GetFirstNamePossessive] forces are reeling from our hit-and-run tactics. Their right flank is severely depleted and their wounded are slowing their movements. We must act quickly to capitalize on their weakness before they can reorganize."  <"[enemy_commander.GetFirstNamePossessive] 部隊は私たちの一撃離脱戦術に動揺しています。彼らの右脇腹はひどく消耗しており、負傷者によって動きが鈍くなっている。彼らが組織を再編する前に、私たちは彼らの弱点を突くために迅速に行動しなければなりません。">  #NT!
+ tactical_forest_battle.9418.a: "Coordinate a charge with our elite crack units"  <"当社の精鋭クラック部隊と連携して突撃を行う">  #NT!
+ tactical_forest_battle.9418.a.success: "Our elite units sweep through their right flank, sending them into disarray!"  <"我が精鋭部隊が彼らの右翼を掃討し、彼らを混乱に陥れます！">  #NT!
+ tactical_forest_battle.9418.a.failure: "The charge is unable to break through their stubborn defense!"  <"突撃は頑固な守備を突破できない！">  #NT!
+ tactical_forest_battle.9418.b: "Coordinate a charge with our knights"  <"騎士たちと突撃を調整する">  #NT!
+ tactical_forest_battle.9418.b.success: "Our knights smash into the weakened enemy right, sending them into disarray!"  <"我が騎士達は弱った敵を真っ直ぐに叩きつけ、敵を混乱に陥れます！">  #NT!
+ tactical_forest_battle.9418.b.failure: "The assault smashes into the weakened enemy right, sending them into disarray!"  <"弱体化した敵を直撃し大混乱に陥れる！">  #NT!
+ tactical_forest_battle.9418.c: "Charge their scattered line"  <"散在するラインに突撃する">  #NT!
+ tactical_forest_battle.9418.c.success: "Our left flank drive scatters the weakened enemy!"  <"我らの左翼機動が弱体化した敵を蹴散らす！">  #NT!
+ tactical_forest_battle.9418.c.failure: "They maintain formation despite their losses!"  <"負けてもフォーメーションを維持！">  #NT!
+ tactical_forest_battle.9418.d: "Feign a retreat a turn on them"  <"退却したふりをして彼らに敵対する">  #NT!
+ tactical_forest_battle.9418.d.success: "The enemy falls for our deception and pursues into an unexpected strike!"  <"敵は私たちの欺瞞に陥り、予期せぬ攻撃を仕掛けてきます!">  #NT!
+ tactical_forest_battle.9418.d.failure: "They see through our deception and maintain their formation!!"  <"彼らは我々の欺瞞を見抜き、隊列を維持する!!">  #NT!
+ tactical_forest_battle.9418.e: "Press the advantage"  <"利点を押してください">  #NT!
+ tactical_forest_battle.9418.e.success: "Their right flank is crumbling under the immense pressure!"  <"巨大なプレッシャーに右翼が崩れ去る！">  #NT!
+ tactical_forest_battle.9418.e.failure: "They maintain formation despite their losses!"  <"負けてもフォーメーションを維持！">  #NT!
+  
+  # tactical_forest_battle.7320 - Failure event, enemy reorganizes and stands strong 
+ tactical_forest_battle.7320.t: "Enemy Stand Strong Behind Our Lines"  <"敵は我々の前線の背後に強力に立つ">  #NT!
+ tactical_forest_battle.7320.desc: "[enemy_commander.GetFirstNamePossessive] forces have rallied and reorganized their line behind ours. They are now dug in deeper, with their back toward our lines and their formation strengthened. We must decide whether to continue pressing them or change our tactics."  <"[enemy_commander.GetFirstNamePossessive] 部隊が結集し、我々の後方で戦列を再編成しました。彼らは今、より深く掘り下げられ、我々の前線に背を向け、その陣形を強化している。私たちは彼らにプレスを続けるか、それとも戦術を変更するかを決断しなければなりません。">  #NT!
+ tactical_forest_battle.7320.a: "Send a charge with our elite crack units to attack their flank"  <"精鋭部隊を率いて突撃を送り、側面を攻撃しましょう">  #NT!
+ tactical_forest_battle.7320.a.success: "Our crack units take them unaware and sweep through their lines!"  <"私たちの特殊部隊は彼らに気づかれずに彼らの戦線を一掃します!">  #NT!
+ tactical_forest_battle.7320.a.failure: "Our crack units are unable to break through their solid defense!"  <"我が精鋭部隊は堅守を突破できない！">  #NT!
+ tactical_forest_battle.7320.b: "Send knights to attack their flank"  <"側面を攻撃するために騎士を送ります">  #NT!
+ tactical_forest_battle.7320.b.success: "Our knights smash into their flank, breaking their formation!"  <"我らの騎士達がその側面に激突し、陣形を崩した！">  #NT!
+ tactical_forest_battle.7320.b.failure: "The knights are intercepted by enemy reserves!"  <"騎士団が敵の予備軍に迎撃される！">  #NT!
+ tactical_forest_battle.7320.c: "Break off center reserves to smash their rear"  <"中央の予備を打ち破って後方を粉砕する">  #NT!
+ tactical_forest_battle.7320.c.success: "Our center reserves smash into their rear, causing chaos!"  <"我がセンターの予備兵が彼らの後方に激突し、大混乱を引き起こした！">  #NT!
+ tactical_forest_battle.7320.c.failure: "Our center reserves are unable to disengage due to a sudden push!"  <"突然のプッシュにより、センターの予備軍が離脱できなくなりました。">  #NT!
+ tactical_forest_battle.7320.d: "Break off right reserves to smash their rear"  <"右のリザーブを振り切って後方を粉砕する">  #NT!
+ tactical_forest_battle.7320.d.success: "Our center reserves smash into their rear, causing chaos!"  <"我がセンターの予備兵が彼らの後方に激突し、大混乱を引き起こした！">  #NT!
+ tactical_forest_battle.7320.d.failure: "Our center reserves are unable to disengage due to a sudden push!"  <"突然のプッシュにより、センターの予備軍が離脱できなくなりました。">  #NT!
+ tactical_forest_battle.7320.e: "Feign a retreat and turn on the pursuers"  <"退却したふりをして追手を迎え撃つ">  #NT!
+ tactical_forest_battle.7320.e.success: "The enemy falls for our deception and pursues into an unexpected strike!"  <"敵は私たちの欺瞞に陥り、予期せぬ攻撃を仕掛けてきます!">  #NT!
+ tactical_forest_battle.7320.e.failure: "The enemy retreats to our exposed center!"  <"敵は露出した中心部に後退します！">  #NT!
+  
+  
+  # tactical_forest_battle.7322 - Enemy attacks our depleted right flank 
+ tactical_forest_battle.7322.t: "Enemy Strikes Right Flank"  <"敵が右翼を攻撃">  #NT!
+ tactical_forest_battle.7322.desc: "[enemy_commander.GetFirstNamePossessive] has recognized our weakened right flank and is launching an assault. Without our reserves, we make a crucial decision to keep our right flank."  <"[enemy_commander.GetFirstNamePossessive] は我々の弱体化した右翼を認識し、攻撃を開始しています。予備力がなければ、右サイドを守るという重大な決断を下す。">  #NT!
+ tactical_forest_battle.7322.a: "Right flank stands strong against the assault"  <"右翼は攻撃に対して強力に抵抗する">  #NT!
+ tactical_forest_battle.7322.a.success: "Our right flank holds firm against the enemy onslaught!"  <"我が右翼は敵の猛攻を断固阻止せよ！">  #NT!
+ tactical_forest_battle.7322.a.failure: "The right flank is overwhelmed and begins to falter!"  <"右サイドが圧倒され、よろめき始める！">  #NT!
+ tactical_forest_battle.7322.b: "Send knights to reinforce the right"  <"右翼を強化するために騎士を派遣する">  #NT!
+ tactical_forest_battle.7322.b.success: "Fresh knights stabilize the right flank!"  <"フレッシュナイツが右サイドを安定させる！">  #NT!
+ tactical_forest_battle.7322.b.failure: "The knights are intercepted before reaching the right!"  <"右に到達する前に騎士たちが迎撃される！">  #NT!
+ tactical_forest_battle.7322.c: "Send our elite crack units to reinforce the right flank"  <"右翼を強化するために精鋭の精鋭部隊を派遣してください">  #NT!
+ tactical_forest_battle.7322.c.success: "Our reinforcements stablize the right flank!"  <"我々の援軍が右翼を安定させます！">  #NT!
+ tactical_forest_battle.7322.c.failure: "Our right is crumbling despite the reinforcements!"  <"援軍にもかかわらず、我々の権利は崩れつつある！">  #NT!
+ tactical_forest_battle.7322.d: "Try to retreat and get their left flank out of position while reinforcements arrive"  <"援軍が到着するまでに後退して左翼を位置から外してください。">  #NT!
+ tactical_forest_battle.7322.d.success: "Their left flank begins to follow our retreat, exposing them!"  <"彼らの左翼が私たちの退却を追跡し始め、彼らを露出させます！">  #NT!
+ tactical_forest_battle.7322.d.failure: "The right is unable to disengage under pressure!"  <"右派は圧力を受けて解放できない！">  #NT!
+ tactical_forest_battle.7322.e: "Feign a retreat and turn on the pursuers"  <"退却したふりをして追手を迎え撃つ">  #NT!
+ tactical_forest_battle.7322.e.success: "The enemy falls for our deception and pursues into an unexpected strike!"  <"敵は私たちの欺瞞に陥り、予期せぬ攻撃を仕掛けてきます!">  #NT!
+ tactical_forest_battle.7322.e.failure: "They see through our deception and maintain their formation!"  <"彼らは私たちの欺瞞を見抜き、その陣形を維持しているのです！">  #NT!
+  
+  
+ tactical_forest_battle.231.t: "Charged Our False Gap"  <"私たちの偽りのギャップを告発">  #NT!
+ tactical_forest_battle.231.desc: "[enemy_commander.GetFirstNameNoTooltip] has taken the bait and charged into the false gap we created our right flank. Their left is now exposed and vulnerable. We must act quickly to exploit this opportunity before they can recover."  <"[enemy_commander.GetFirstNameNoTooltip] が餌に乗って、私たちが右翼に作った誤った隙間に突撃してきました。彼らの左翼は今露出しており、脆弱です。彼らが回復する前に、私たちはこの機会を利用するために迅速に行動しなければなりません。">  #NT!
+ tactical_forest_battle.231.a: "Send our elite crack units to charge their exposed left flank"  <"我が精鋭精鋭部隊を派遣して、露出した左翼を突撃させる">  #NT!
+ tactical_forest_battle.231.a.success: "Our elite units are sweeping through their left flank, breaking their formation!"  <"我が精鋭部隊が陣形を崩しながら左翼を掃討中！">  #NT!
+ tactical_forest_battle.231.a.failure: "Their right holds ground against our elite assault!"  <"彼らの権利は、私たちのエリートの攻撃に対して根拠を持っています!">  #NT!
+ tactical_forest_battle.231.b: "Send knights to break their left flank"  <"騎士団を派遣して左翼を突破せよ">  #NT!
+ tactical_forest_battle.231.b.success: "[left_flank_commander.GetFullNameNicknamedOrMe] charge and send their flank into disarray!"  <"[left_flank_commander.GetFullNameNicknamedOrMe] 突撃して側面を混乱に陥れましょう!">  #NT!
+ tactical_forest_battle.231.b.failure: "The assault smashes into their left flank, sending them into disarray!"  <"攻撃は彼らの左側面を打ち破り、彼らを混乱に陥らせます！">  #NT!
+ tactical_forest_battle.231.c: "Right flank charges to break their formation"  <"右翼が陣形を崩すために突撃する">  #NT!
+ tactical_forest_battle.231.c.success: "[right_flank_commander.GetFullNameNicknamedOrMe] charge and send their flank into disarray!"  <"[right_flank_commander.GetFullNameNicknamedOrMe] 突撃して側面を混乱に陥れましょう!">  #NT!
+ tactical_forest_battle.231.c.failure: "Their left remains steadfast and refused to break!"  <"彼らの左翼は堅固であり、破壊することを拒否しました！">  #NT!
+ tactical_forest_battle.231.d: "Perform a feigned retreat and turn on them"  <"偽りの撤退を実行し、彼らを攻撃します">  #NT!
+ tactical_forest_battle.231.d.success: "The enemy falls for our deception and pursues!"  <"敵は私たちの欺瞞に陥り、追撃してきます！">  #NT!
+ tactical_forest_battle.231.d.failure: "They see through our deception and maintain their formation!"  <"彼らは私たちの欺瞞を見抜き、その陣形を維持しているのです！">  #NT!
+ tactical_forest_battle.231.e: "Press the advantage"  <"利点を押してください">  #NT!
+ tactical_forest_battle.231.e.success: "The enemies left crumbles under the relentless assault!"  <"容赦ない攻撃に残された敵は崩れ去る！">  #NT!
+ tactical_forest_battle.231.e.failure: "Enemy reserves arrive to shore up the line!"  <"敵の予備軍が戦線を強化するために到着します！">  #NT!
+ tactical_forest_battle.231.f: "Break off left reserves to encricle"  <"左の予備を打ち破って包囲する">  #NT!
+ tactical_forest_battle.231.f.success: "Our left disengage and are in position to encricle the enemy!"  <"我らの左翼は離脱し、敵を包囲できる位置にある！">  #NT!
+ tactical_forest_battle.231.f.failure: "Our left reserves are unable to disengage!"  <"左側の予備部隊は離脱できません！">  #NT!
+  
+ tactical_forest_battle.5907.t: "Our Center Is Routing"  <"私たちのセンターはルーティングを行っています">  #NT!
+ tactical_forest_battle.5907.desc: "Our center is breaking! [enemy_commander.GetFirstNamePossessive] has routed our center and the entire army is in danger of collapse. We must act immediately to prevent catastrophe!"  <"私たちのセンターは壊れています！ [enemy_commander.GetFirstNamePossessive] が私たちの中心部を敗走させ、軍全体が崩壊の危機に瀕しています。大惨事を防ぐためにはすぐに行動しなければなりません!">  #NT!
+ tactical_forest_battle.5907.b: "Screen retreat with counter-attack"  <"スクリーンリトリートとカウンターアタック">  #NT!
+ tactical_forest_battle.5907.b.success: "The counter-attack buys time for our troops to consolidate!"  <"反撃で我が軍が集結するまでの時間を稼ぐ！">  #NT!
+ tactical_forest_battle.5907.b.failure: "The counter-attack fails and the rout continues!"  <"反撃は失敗し敗走は続く！">  #NT!
+ tactical_forest_battle.5907.c: "Desperate charge to break those chasing the routed right flank"  <"敗走する右翼を追う敵を打ち砕く決死の突撃">  #NT!
+ tactical_forest_battle.5907.c.success: "Our right manages to escape!"  <"私たちの権利はなんとか逃げ出すことに成功しました！">  #NT!
+ tactical_forest_battle.5907.c.failure: "Our charge is repulsed and rout continues!"  <"我々の突撃は撃退され、敗走は続く！">  #NT!
+ tactical_forest_battle.5907.a: "Retreat to defensive positions"  <"守備陣地に退却する">  #NT!
+ tactical_forest_battle.5907.a.success: "We manage to pull back and establish a new defensive line!"  <"なんとか撤退し新たな防衛線を確立！">  #NT!
+ tactical_forest_battle.5907.a.failure: "Our men take heavy losses!"  <"我が軍は多大な損害を被る！">  #NT!
+  

@@ -1,0 +1,758 @@
+﻿l_polish:
+  
+ #customLoc 
+ hegemon_female_plural_one: "Hegemona"  #NT!
+ emperor_female_plural_one: "Cesarzowej"  #NT!
+ king_female_plural_one: "Królowej"  #NT!
+ duke_female_plural_one: "Księżnej"  #NT!
+ count_female_plural_one: "Hrabiny"  #NT!
+  
+ hegemon_male_plural_one: "Hegemona"  #NT!
+ emperor_male_plural_one: "Cesarza"  #NT!
+ king_male_plural_one: "Królewskie"  #NT!
+ duke_male_plural_one: "Duke'a"  #NT!
+ count_male_plural_one: "hrabiego"  #NT!
+  
+ #NICKNAMES - GIVEN BECAUSE UNLANDED CANT HAVE FLAVOR 
+  
+ nick_the_bulwark_of_place: "Przedmurze [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"  #NT!
+ nick_the_sword_of_place: "Miecz [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"  #NT!
+ nick_the_shield_of_place: "Tarcza [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"  #NT!
+ nick_the_defender_of_place: "Obrońca [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"  #NT!
+ nick_the_protector_of_place: "Obrońca [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"  #NT!
+ nick_the_iron_fist_of_place: "Żelazna Pięść [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"  #NT!
+ nick_the_fist_of_place: "Pięść [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"  #NT!
+ nick_the_champion_of_place: "Mistrz [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"  #NT!
+ nick_the_first_blade_of_place: "Pierwsze ostrze [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"  #NT!
+ nick_the_first_shield_of_place: "Pierwsza Tarcza [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"  #NT!
+ nick_the_anvil_of_place: "Kowadło [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"  #NT!
+ nick_the_hammer_of_place: "Młot [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"  #NT!
+ nick_the_fury_of_place: "Furia [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"  #NT!
+ nick_the_might_of_place: "Potęga [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"  #NT!
+  
+  
+ # The ______ of the King/Queen 
+  
+ nick_the_iron_fist_of_the_male_person: "Żelazna Pięść [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ nick_the_iron_fist_of_the_female_person: "Żelazna Pięść [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ nick_the_blade_of_the_male_person: "Ostrze [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ nick_the_blade_of_the_female_person: "Ostrze [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ nick_the_first_blade_of_the_male_person: "Pierwsze ostrze [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ nick_the_first_blade_of_the_female_person: "Pierwsze ostrze [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ nick_the_shield_of_the_male_person: "Tarcza [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ nick_the_shield_of_the_female_person: "Tarcza [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ nick_the_might_of_the_male_person: "Potęga [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ nick_the_might_of_the_female_person: "Potęga [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ nick_the_protector_of_male: "Mistrz [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ nick_the_protector_of_female: "Mistrz [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+  
+ # The King's/Queens ___________________ 
+  
+ nick_the_person_shield_male: "Tarcza [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"  #NT!
+ nick_the_person_shield_female: "Tarcza [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')]"  #NT!
+ nick_the_person_blade_male: "Ostrze [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"  #NT!
+ nick_the_person_blade_female: "Ostrze [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')]"  #NT!
+ nick_the_person_champion_male: "Mistrz [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"  #NT!
+ nick_the_person_champion_female: "Mistrz [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')]"  #NT!
+ nick_the_person_fury_male: "Furia [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"  #NT!
+ nick_the_person_fury_female: "Furia [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')]"  #NT!
+ nick_the_person_fist_male: "Pięść [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"  #NT!
+ nick_the_person_fist_female: "Pięść [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')]"  #NT!
+ nick_the_person_protector_male: "Obrońca [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"  #NT!
+ nick_the_person_protector_female: "Obrońca [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')]"  #NT!
+ nick_the_person_might_male: "Potęga [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"  #NT!
+ nick_the_person_might_female: "Potęga [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')]"  #NT!
+  
+ ### Marches 
+  
+ nick_defender_of_the_realm_marches: "Obrońca Marszów [Character.GetPrimaryTitle.GetAdjectiveNoTooltip]"  #NT!
+ nick_protector_of_the_realm_marches: "Obrońca [Character.GetPrimaryTitle.GetAdjectiveNoTooltip] Marchii"  #NT!
+ nick_warden_of_the_realm_marches: "Strażnik Marszów [Character.GetPrimaryTitle.GetAdjectiveNoTooltip]"  #NT!
+  
+  
+  
+ ####################################################### FLAVOR LOCS ############################################################## 
+  
+ # The ________ of Paris (Liege Capital Location) 
+  
+ tbatt_military_title_bulwark: "Przedmurze [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_bulwark_fem: "Przedmurze [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_sword: "Miecz [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_sword_fem: "Miecz [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_shield: "Tarcza [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_shield_fem: "Tarcza [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_defender: "Obrońca [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_defender_fem: "Obrońca [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_protector: "Obrońca [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_protector_fem: "Obrońca [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_iron_fist: "Żelazna Pięść z [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_iron_fist_fem: "Żelazna Pięść z [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_champion: "Mistrz [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_champion_fem: "Mistrz [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_anvil: "Kowadło [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_anvil_fem: "Kowadło [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_hammer: "Młot [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_hammer_fem: "Młot [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_fury: "Furia [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_fury_fem: "Furia [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_might: "Potęga [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_might_fem: "Potęga [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ # First _______ of Paris (Liege Capital Location) 
+  
+ tbatt_military_title_first_blade: "Pierwsze ostrze [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_first_blade_fem: "Pierwsze ostrze [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_first_shield: "Pierwsza tarcza [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_first_shield_fem: "Pierwsza tarcza [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ # The ______ of the King/Queen 
+ tbatt_military_title_iron_fist_of_male: "Żelazna Pięść [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_iron_fist_of_female: "Żelazna Pięść [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_first_blade_of_male:0 "The First Blade of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_first_blade_of_female:0 "The First Blade of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_shield_of_male:0 "The Shield of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_shield_of_female:0 "The Shield of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_might_of_male:0 "The Might of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_might_of_female:0 "The Might of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_protector_of_male: "Mistrz [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_protector_of_female:0 "The Champion of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+  
+ # The King's/Queens ___________________ 
+  
+ tbatt_military_title_male_shield: "Tarcza [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_female_shield: "Tarcza [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_male_blade: "Ostrze [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_female_blade: "Ostrze [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_male_champion: "Mistrz [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_female_champion: "Mistrz [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_male_fury: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] Furia, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_female_fury: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] Furia, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_male_fist: "Pięść [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_female_fist: "Pięść [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_male_protector: "Obrońca [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_female_protector: "Obrońca [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_male_might: "Moc [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_female_might: "Moc [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+  
+  
+ # ________ of the West Francia Marches 
+  
+ tbatt_military_title_marches_defender: "Obrońca [Character.GetPrimaryTitle.GetAdjectiveNoTooltip] Marszów, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_marches_defender_fem: "Obrońca [Character.GetPrimaryTitle.GetAdjectiveNoTooltip] Marszów, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_marches_protector: "Obrońca [Character.GetPrimaryTitle.GetAdjectiveNoTooltip] Marszów, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_marches_protector_fem: "Obrońca [Character.GetPrimaryTitle.GetAdjectiveNoTooltip] Marszów, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_marches_warden: "Strażnik [Character.GetPrimaryTitle.GetAdjectiveNoTooltip] Marchii, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_marches_warden_fem: "Strażnik [Character.GetPrimaryTitle.GetAdjectiveNoTooltip] Marchii, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ tactical_honorary_military_title: "Honorowy Tytuł Wojskowy"  #NT!
+ tactical_honorary_military_title_desc: "Ta postać posiada tytuł wojskowy nadany osobiście przez jej władcę, który wyróżnia ją na tle innych.\nOtrzymuje premię: [GetPerk('like_weed_in_a_garden_perk').GetName(Character)]\nOtrzymuje premię: [GetPerk('unshackled_lust_perk').GetName(Character)]\nOtrzymuje premię: [GetPerk('subtle_desire_perk').GetName(Character)]"  #NT!
+  
+  
+  
+ #### player 
+  
+ tbatt_military_title_state_fist: "Pięść [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_state_fist_fem: "Pięść [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_state_guardian: "Strażnik [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_state_guardian_fem: "Strażnik [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_state_protector: "Obrońca [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_state_protector_fem: "Obrońca [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_state_blade: "Ostrze [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_state_blade_fem: "Ostrze [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_state_shield: "Tarcza [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_state_shield_fem: "Tarcza [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_state_warden: "Strażnik [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_state_warden_fem: "Strażnik [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ tbatt_military_title_culture_savior: "Zbawiciel [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_culture_savior_fem: "Zbawiciel [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_culture_protector: "Obrońca [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_culture_protector_fem: "Obrońca [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_culture_guardian: "Strażnik [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_culture_guardian_fem: "Strażnik [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_culture_shield: "Tarcza [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_culture_shield_fem: "Tarcza [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_culture_blade: "Ostrze [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_culture_blade_fem: "Ostrze [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_culture_might: "Potęga [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_culture_might_fem: "Potęga [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ tbatt_military_title_son_of_father: "Syn [Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_son_of_father_fem: "Córka [Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_blood_of_father: "Krew [Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_blood_of_father_fem: "Krew [Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_scion_of_father: "Potomek [Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_scion_of_father_fem: "Potomek [Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ tbatt_military_title_hand_of_justice: "Ręka Sprawiedliwości, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_hand_of_justice_fem: "Ręka Sprawiedliwości, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ tbatt_military_title_bane_of_devil: "Zmora [Character.GetFaith.DevilName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_bane_of_devil_fem: "Zmora [Character.GetFaith.DevilName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_vanquisher_of_unholy: "Pogromca bezbożnych, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_vanquisher_of_unholy_fem: "Pogromca bezbożnych, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_vanquisher_of_wicked: "Pogromca niegodziwych, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_vanquisher_of_wicked_fem: "Pogromca niegodziwych, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_vanquisher_of_unbelievers: "Pogromca niewiernych, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_vanquisher_of_unbelievers_fem: "Pogromca niewiernych, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ tbatt_military_title_protector_of_clergy: "Obrońca [Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_protector_of_clergy_fem: "Obrońca [Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_guardian_of_clergy: "Strażnik [Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_guardian_of_clergy_fem: "Strażnik [Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_custodian_of_clergy: "Opiekun [Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_custodian_of_clergy_fem: "Opiekun [Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ tbatt_military_title_the_lords_wrath: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Gniew, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_lords_wrath_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Gniew, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_the_lords_fury: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Furia, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_lords_fury_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Furia, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_the_lords_might: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Moc, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_lords_might_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Moc, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_the_lords_vengeance: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Zemsta, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_lords_vengeance_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Zemsta, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_the_lords_shield: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Tarcza, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_lords_shield_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Tarcza, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_the_lords_justice: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Sprawiedliwość, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_lords_justice_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Sprawiedliwość, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_the_lords_blade: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Ostrze, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_lords_blade_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Ostrze, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_guardian_of_text: "Strażnik [Character.GetFaith.ReligiousText|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_guardian_of_text_fem: "Strażnik [Character.GetFaith.ReligiousText|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_protector_of_text: "Obrońca [Character.GetFaith.ReligiousText|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_protector_of_text_fem: "Obrońca [Character.GetFaith.ReligiousText|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ tbatt_military_title_blade_of_followers: "Ostrze [GetPlayer.GetFaith.GetAdherentNamePluralNoTooltip|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_blade_of_followers_fem: "Ostrze [GetPlayer.GetFaith.GetAdherentNamePluralNoTooltip|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ tbatt_military_title_bane_of_infidels: "Zmora [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_bane_of_infidels_fem: "Zmora [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_vanquisher_of_infidels: "Pogromca [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_vanquisher_of_infidels_fem: "Pogromca [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_conqueror_of_infidels: "Zdobywca [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_conqueror_of_infidels_fem: "Zdobywca [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_blade_of_infidels: "Ostrze [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_blade_of_infidels_fem: "Ostrze [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_blade_of_infidels: "Ostrze [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_blade_of_infidels_fem: "Ostrze [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ tbatt_military_title_wrath_of_god: "Gniew [Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_wrath_of_god_fem: "Gniew [Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_blade_of_god: "Ostrze [Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_blade_of_god_fem: "Ostrze [Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_shield_of_god: "Tarcza [Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_shield_of_god_fem: "Tarcza [Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ tbatt_military_title_gods_fury: "[Character.GetFaith.HighGodNamePossessive|U] Furia, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_gods_fury_fem: "[Character.GetFaith.HighGodNamePossessive|U] Furia, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_gods_wrath: "[Character.GetFaith.HighGodNamePossessive|U] Gniew, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_gods_wrath_fem: "[Character.GetFaith.HighGodNamePossessive|U] Gniew, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ tbatt_military_title_sword_of_wargod: "Miecz [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_sword_of_wargod_fem: "Miecz [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_blade_of_wargod: "Ostrze [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_blade_of_wargod_fem: "Ostrze [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_might_of_wargod: "Potęga [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_might_of_wargod_fem: "Potęga [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_wrath_of_wargod: "Gniew [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_wrath_of_wargod_fem: "Gniew [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_fury_of_wargod: "Furia [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_fury_of_wargod_fem: "Furia [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ tbatt_military_title_blade_of_heaven: "Ostrze [Character.GetFaith.PositiveAfterLife|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_blade_of_heaven_fem: "Ostrze [Character.GetFaith.PositiveAfterLife|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_shield_of_heaven: "Tarcza [Character.GetFaith.PositiveAfterLife|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_shield_of_heaven_fem: "Tarcza [Character.GetFaith.PositiveAfterLife|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ tbatt_military_title_bearer_of_cross: "Posiadacz [Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_bearer_of_cross_fem: "Posiadacz [Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_defender_of_cross: "Obrońca [Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_defender_of_cross_fem: "Obrońca [Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_protector_of_cross: "Obrońca [Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_protector_of_cross_fem: "Obrońca [Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+ tbatt_military_title_the_black_lion: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_black_lion_fem: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_the_lion_of_realm: "[GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_lion_of_realm_fem: "[GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_the_lion_of_capital: "[GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_lion_of_capital_fem: "[GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_the_black_lion_of_realm: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_black_lion_of_realm_fem: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_the_black_lion_of_capital: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_black_lion_of_capital_fem: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_the_dynasty_lion: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_dynasty_lion_fem: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_the_lion_of_dynasty: "[GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_lion_of_dynasty_fem: "[GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_the_black_lion_of_dynasty: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_black_lion_of_dynasty_fem: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_the_lion_of_dynasty: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_lion_of_dynasty_fem: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_the_black_king: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')],"  #NT!
+ tbatt_military_title_the_black_king_fem: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')],"  #NT!
+ tbatt_military_title_the_black_king_of_realm: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip],"  #NT!
+ tbatt_military_title_the_black_king_of_realm_fem: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip],"  #NT!
+ tbatt_military_title_the_black_blade_of_realm: "Ostrze [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_black_blade_of_realm_fem: "Ostrze [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+ tbatt_military_title_the_black_blade_of_capital: "Ostrze [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+ tbatt_military_title_the_black_blade_of_capital_fem: "Ostrze [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"  #NT!
+  
+  
+  
+  
+ tbatt_player_faith_devilname: "[GetPlayer.GetFaith.DevilName|U]"  #NT!
+ tbatt_player_faith_clergy: "[GetPlayer.GetFaith.AltPriestTermPlural|U]"  #NT!
+ tbatt_player_faith_the_lords: "[GetPlayer.GetFaith.HighGodNameAlternatePossessive|U]"  #NT!
+ tbatt_player_faith_scriptures: "[GetPlayer.GetFaith.ReligiousText|U]"  #NT!
+ tbatt_player_faith_adherents: "[GetPlayer.GetFaith.GetAdherentNamePluralNoTooltip|U]"  #NT!
+ tbatt_player_faith_of_god: "[GetPlayer.GetFaith.HighGodName|U]"  #NT!
+ tbatt_player_faith_gods: "[GetPlayer.GetFaith.HighGodNamePossessive|U]"  #NT!
+ tbatt_player_faith_wargod: "[GetPlayer.GetFaith.WarGodName|U]"  #NT!
+ tbatt_player_faith_afterlife: "[GetPlayer.GetFaith.PositiveAfterLife|U]"  #NT!
+ tbatt_player_faith_symbol: "[GetPlayer.GetFaith.ReligiousSymbol|U]"  #NT!
+  
+ tbatt_title_color_green_flag: "Zielony"  #NT!
+ tbatt_title_color_orange_flag: "Pomarańczowy"  #NT!
+ tbatt_title_color_yellow_flag: "Żółty"  #NT!
+ tbatt_title_color_red_flag: "Czerwony"  #NT!
+ tbatt_title_color_black_flag: "Czarny"  #NT!
+ tbatt_title_color_white_flag: "Biały"  #NT!
+ tbatt_title_color_blue_flag: "Niebieski"  #NT!
+ tbatt_title_color_purple_flag: "Fioletowy"  #NT!
+ tbatt_title_color_pink_flag: "Różowy"  #NT!
+ tbatt_title_color_gray_flag: "Szary"  #NT!
+  
+ tbatt_title_animal_bear_flag: "Niedźwiedź"  #NT!
+ tbatt_title_animal_wolf_flag: "Wilk"  #NT!
+ tbatt_title_animal_spider_flag: "Pająk"  #NT!
+ tbatt_title_animal_boar_flag: "Dzik"  #NT!
+ tbatt_title_animal_stag_flag: "Jeleń"  #NT!
+ tbatt_title_animal_fish_flag: "Ryba"  #NT!
+ tbatt_title_animal_fox_flag: "Lis"  #NT!
+ tbatt_title_animal_dragon_flag: "Smok"  #NT!
+ tbatt_title_animal_basilisk_flag: "Bazyliszek"  #NT!
+ tbatt_title_animal_aurochs_flag: "Żubr"  #NT!
+ tbatt_title_animal_leopard_flag: "Lampart"  #NT!
+ tbatt_title_animal_cat_flag: "Kot"  #NT!
+ tbatt_title_animal_dog_flag: "Pies"  #NT!
+ tbatt_title_animal_serpent_flag: "Wąż"  #NT!
+ tbatt_title_animal_lion_flag: "Lew"  #NT!
+  
+ # Tactical Battle Titles - Position Names 
+ tbatt_titlecard_bane_of_devil: "Zmora [GetPlayer.MakeScope.Var('tbatt_get_player_faith_devilname').GetFlagName]"  #NT!
+ tbatt_titlecard_vanquisher_of_unholy: "Pogromca bezbożnych"  #NT!
+ tbatt_titlecard_vanquisher_of_wicked: "Pogromca Złych"  #NT!
+ tbatt_titlecard_protector_of_clergy: "Obrońca [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"  #NT!
+ tbatt_titlecard_guardian_of_clergy: "Strażnik [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"  #NT!
+ tbatt_titlecard_custodian_of_clergy: "Opiekun [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"  #NT!
+ tbatt_titlecard_lords_wrath: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Gniew"  #NT!
+ tbatt_titlecard_lords_fury: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Wściekłość"  #NT!
+ tbatt_titlecard_lords_might: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Może"  #NT!
+ tbatt_titlecard_lords_vengeance: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Zemsta"  #NT!
+ tbatt_titlecard_lords_blade: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Ostrze"  #NT!
+ tbatt_titlecard_lords_shield: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Tarcza"  #NT!
+ tbatt_titlecard_lords_justice: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Sprawiedliwość"  #NT!
+ tbatt_titlecard_guardian_of_text: "Strażnik [GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]"  #NT!
+ tbatt_titlecard_protector_of_text: "Obrońca [GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]"  #NT!
+ tbatt_titlecard_blade_of_followers: "Ostrze [GetPlayer.MakeScope.Var('tbatt_get_player_faith_adherents').GetFlagName]"  #NT!
+ tbatt_titlecard_wrath_of_god: "Gniew [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"  #NT!
+ tbatt_titlecard_gods_fury: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] Wściekłość"  #NT!
+ tbatt_titlecard_gods_wrath: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] Gniew"  #NT!
+ tbatt_titlecard_blade_of_god: "Ostrze [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"  #NT!
+ tbatt_titlecard_shield_of_god: "Tarcza [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"  #NT!
+ tbatt_titlecard_sword_of_wargod: "Miecz [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_titlecard_blade_of_wargod: "Ostrze [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_titlecard_might_of_wargod: "Potęga [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_titlecard_wrath_of_wargod: "Gniew [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_titlecard_fury_of_wargod: "Furia [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_titlecard_blade_of_heaven: "Ostrze [GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]"  #NT!
+ tbatt_titlecard_shield_of_heaven: "Tarcza [GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]"  #NT!
+ tbatt_titlecard_bearer_of_symbol: "Posiadacz [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"  #NT!
+ tbatt_titlecard_defender_of_symbol: "Obrońca [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"  #NT!
+ tbatt_titlecard_protector_of_symbol: "Obrońca [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"  #NT!
+  
+ tbatt_header_bane_of_devil: "Zmora [GetPlayer.MakeScope.Var('tbatt_get_player_faith_devilname').GetFlagName]"  #NT!
+ tbatt_header_vanquisher_of_unholy: "Pogromca bezbożnych"  #NT!
+ tbatt_header_vanquisher_of_wicked: "Pogromca Złych"  #NT!
+ tbatt_header_protector_of_clergy: "Obrońca [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"  #NT!
+ tbatt_header_guardian_of_clergy: "Strażnik [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"  #NT!
+ tbatt_header_custodian_of_clergy: "Opiekun [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"  #NT!
+ tbatt_header_lords_wrath: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Gniew"  #NT!
+ tbatt_header_lords_fury: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Wściekłość"  #NT!
+ tbatt_header_lords_might: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Może"  #NT!
+ tbatt_header_lords_vengeance: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Zemsta"  #NT!
+ tbatt_header_lords_blade: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Ostrze"  #NT!
+ tbatt_header_lords_shield: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Tarcza"  #NT!
+ tbatt_header_lords_justice: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Sprawiedliwość"  #NT!
+ tbatt_header_guardian_of_text: "Strażnik [GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]"  #NT!
+ tbatt_header_protector_of_text: "Obrońca [GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]"  #NT!
+ tbatt_header_blade_of_followers: "Ostrze [GetPlayer.MakeScope.Var('tbatt_get_player_faith_adherents').GetFlagName]"  #NT!
+ tbatt_header_wrath_of_god: "Gniew [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"  #NT!
+ tbatt_header_gods_fury: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] Wściekłość"  #NT!
+ tbatt_header_gods_wrath: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] Gniew"  #NT!
+ tbatt_header_blade_of_god: "Ostrze [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"  #NT!
+ tbatt_header_shield_of_god: "Tarcza [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"  #NT!
+ tbatt_header_sword_of_wargod: "Miecz [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_header_blade_of_wargod: "Ostrze [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_header_might_of_wargod: "Potęga [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_header_wrath_of_wargod: "Gniew [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_header_fury_of_wargod: "Furia [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_header_blade_of_heaven: "Ostrze [GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]"  #NT!
+ tbatt_header_shield_of_heaven: "Tarcza [GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]"  #NT!
+ tbatt_header_bearer_of_symbol: "Posiadacz [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"  #NT!
+ tbatt_header_defender_of_symbol: "Obrońca [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"  #NT!
+ tbatt_header_protector_of_symbol: "Obrońca [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"  #NT!
+  
+ tbatt_grant_bane_of_devil: "Grant Bane z [GetPlayer.MakeScope.Var('tbatt_get_player_faith_devilname').GetFlagName]"  #NT!
+ tbatt_grant_vanquisher_of_unholy: "Grant Pogromcą Bezbożnych"  #NT!
+ tbatt_grant_vanquisher_of_wicked: "Grant Pogromca Złych"  #NT!
+ tbatt_grant_protector_of_clergy: "Grant Protector [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"  #NT!
+ tbatt_grant_guardian_of_clergy: "Przyznaj opiekuna [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"  #NT!
+ tbatt_grant_custodian_of_clergy: "Grant Opiekun [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"  #NT!
+ tbatt_grant_lords_wrath: "Udziel [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] gniewu"  #NT!
+ tbatt_grant_lords_fury: "Przyznaj [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Furii"  #NT!
+ tbatt_grant_lords_might: "Przyznaj [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Moc"  #NT!
+ tbatt_grant_lords_vengeance: "Udziel [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] zemsty"  #NT!
+ tbatt_grant_lords_blade: "Przyznaj [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] ostrze"  #NT!
+ tbatt_grant_lords_shield: "Przyznaj [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] tarczy"  #NT!
+ tbatt_grant_lords_justice: "Przyznaj [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] sprawiedliwość"  #NT!
+ tbatt_grant_guardian_of_text: "Przyznaj opiekuna [GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]"  #NT!
+ tbatt_grant_protector_of_text: "Grant Protector [GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]"  #NT!
+ tbatt_grant_blade_of_followers: "Grant Blade z [GetPlayer.MakeScope.Var('tbatt_get_player_faith_adherents').GetFlagName]"  #NT!
+ tbatt_grant_wrath_of_god: "Udziel gniewu [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"  #NT!
+ tbatt_grant_gods_fury: "Przyznaj [GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] Furii"  #NT!
+ tbatt_grant_gods_wrath: "Udziel [GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] gniewu"  #NT!
+ tbatt_grant_blade_of_god: "Przyznaj Ostrze [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"  #NT!
+ tbatt_grant_shield_of_god: "Daj Tarczę [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"  #NT!
+ tbatt_grant_sword_of_wargod: "Daj Miecz [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_grant_blade_of_wargod: "Przyznaj Ostrze [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_grant_might_of_wargod: "Daj potęgę [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_grant_wrath_of_wargod: "Udziel gniewu [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_grant_fury_of_wargod: "Przyznaj Furię [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_grant_blade_of_heaven: "Przyznaj Ostrze [GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]"  #NT!
+ tbatt_grant_shield_of_heaven: "Daj Tarczę [GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]"  #NT!
+ tbatt_grant_bearer_of_symbol: "Nosiciel stypendium [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"  #NT!
+ tbatt_grant_defender_of_symbol: "Grant Obrońca [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"  #NT!
+ tbatt_grant_protector_of_symbol: "Grant Protector [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"  #NT!
+  
+ tbatt_remove_bane_of_devil: "Usuń Zgubę [GetPlayer.MakeScope.Var('tbatt_get_player_faith_devilname').GetFlagName]"  #NT!
+ tbatt_remove_vanquisher_of_unholy: "Usuń Pogromcę Bezbożnych"  #NT!
+ tbatt_remove_vanquisher_of_wicked: "Usuń Pogromcę Złych"  #NT!
+ tbatt_remove_protector_of_clergy: "Usuń osłonę [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"  #NT!
+ tbatt_remove_guardian_of_clergy: "Usuń Strażnika [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"  #NT!
+ tbatt_remove_custodian_of_clergy: "Usuń opiekuna [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"  #NT!
+ tbatt_remove_lords_wrath: "Usuń [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Gniew"  #NT!
+ tbatt_remove_lords_fury: "Usuń [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Furię"  #NT!
+ tbatt_remove_lords_might: "Usuń [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Might"  #NT!
+ tbatt_remove_lords_vengeance: "Usuń [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Vengeance"  #NT!
+ tbatt_remove_lords_blade: "Usuń ostrze [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName]"  #NT!
+ tbatt_remove_lords_shield: "Usuń tarczę [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName]"  #NT!
+ tbatt_remove_lords_justice: "Usuń [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Sprawiedliwość"  #NT!
+ tbatt_remove_guardian_of_text: "Usuń Strażnika [GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]"  #NT!
+ tbatt_remove_protector_of_text: "Usuń osłonę [GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]"  #NT!
+ tbatt_remove_blade_of_followers: "Usuń Ostrze [GetPlayer.MakeScope.Var('tbatt_get_player_faith_adherents').GetFlagName]"  #NT!
+ tbatt_remove_wrath_of_god: "Usuń Gniew [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"  #NT!
+ tbatt_remove_gods_fury: "Usuń [GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] Furię"  #NT!
+ tbatt_remove_gods_wrath: "Usuń [GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] Gniew"  #NT!
+ tbatt_remove_blade_of_god: "Usuń Ostrze [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"  #NT!
+ tbatt_remove_shield_of_god: "Usuń tarczę [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"  #NT!
+ tbatt_remove_sword_of_wargod: "Usuń Miecz [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_remove_blade_of_wargod: "Usuń Ostrze [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_remove_might_of_wargod: "Usuń Moc [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_remove_wrath_of_wargod: "Usuń Gniew [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_remove_fury_of_wargod: "Usuń Furię [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"  #NT!
+ tbatt_remove_blade_of_heaven: "Usuń Ostrze [GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]"  #NT!
+ tbatt_remove_shield_of_heaven: "Usuń tarczę [GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]"  #NT!
+ tbatt_remove_bearer_of_symbol: "Usuń nośnika [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"  #NT!
+ tbatt_remove_defender_of_symbol: "Usuń Obrońcę [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"  #NT!
+ tbatt_remove_protector_of_symbol: "Usuń osłonę [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"  #NT!
+
+
+ 
+ TB_RM_RANDOM_TRAITS:  "Usuń losowe cechy"
+ TB_TITLE_FLANK_COMMANDERS:  "Dowódcy flanki"
+ TB_TITLE_MILITARY_TITLES:  "Tytuły wojskowe"
+ TB_TITLE_PLAYER_TITLES:  "Tytuły graczy"
+ TB_TITLE_MIL_POS_TITLES:  "Stanowisko wojskowe"
+ TB_OPEN_WINDOW:  "Otwórz widok tytułów bitew taktycznych"
+ TB_WINDOW_TITLE_HEADER:  "Dowódcy flanki i tytuły"
+  
+  
+ TB_RM_TITLE_PLAYER_TITLES:  "Usuń tytuł gracza"
+ TB_TITLE_SELECT_PLAYER_COLOR:  "Wybierz Kolor"
+ TB_TITLE_SELECT_PLAYER_ANIMAL:  "Wybierz Zwierzę"
+ TB_SELECT_COLOR_ANIMAL_INSTRUCTION:  "#strong_glow #high Wybierz kolor i zwierzę, aby wyświetlić powiązane tytuły"
+ TB_TITLE_SELECT_COLOR_ANIMAL:  "#strong_glow #high Wybierz kolor i zwierzę, aby wyświetlić powiązane tytuły"
+ TB_CHAR_MARTIAL:  "Martial: [Character.GetSkill( 'martial' )]"
+ TB_CHAR_PROWESS:  "Sprawność: [Character.GetSkill( 'prowess' )]"
+  
+ TB_LANDS_TEXT:  "#high #medium_glow #help_light_background #L [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] z [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_PRIMARY_LANDS_HEADER:  "[Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] z [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_PLAYER_TITLE_VACANT:  "#help_light_background #difficulty_hard Wolne"
+  
+  
+ TB_TITLE_LEFTFLANK_COMMANDER:  "Dowódca lewej flanki"
+ TB_SELECT_LEFTFLANK_COMMANDER:  "Wybierz Lewy dowódca"
+ TB_REMOVE_LEFTFLANK_COMMANDER:  "Usuń lewego dowódcę"
+  
+ TB_TITLE_CENTERFLANK_COMMANDER:  "Dowódca środkowej flanki"
+ TB_SELECT_CENTERFLANK_COMMANDER:  "Wybierz Dowódcę centralnego"
+ TB_REMOVE_CENTERFLANK_COMMANDER:  "Usuń Centralnego Dowódcę"
+  
+ TB_TITLE_RIGHTFLANK_COMMANDER:  "Dowódca prawej flanki"
+ TB_SELECT_RIGHTFLANK_COMMANDER:  "Wybierz Prawy dowódca"
+ TB_REMOVE_RIGHTFLANK_COMMANDER:  "Usuń prawego dowódcę"
+  
+ TB_TITLE_BULWARK_OF_STATE:  "Przedmurze [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_BULWARK_OF_STATE:  "Wybierz Przedmurze [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_BULWARK_OF_STATE:  "Usuń obudowę [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_SWORD_OF_REALM:  "Miecz [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_SWORD_OF_REALM:  "Wybierz Miecz [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_SWORD_OF_REALM:  "Usuń Miecz [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_SHIELD_OF_REALM:  "Tarcza [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_SHIELD_OF_REALM:  "Wybierz Tarczę [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_SHIELD_OF_REALM:  "Usuń tarczę [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_DEFENDER_OF_REALM:  "Obrońca [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_DEFENDER_OF_REALM:  "Wybierz Obrońcę [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_DEFENDER_OF_REALM:  "Usuń obrońcę [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_PROTECTOR_OF_REALM:  "Obrońca [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_PROTECTOR_OF_REALM:  "Wybierz Obrońcę [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_PROTECTOR_OF_REALM:  "Usuń protektora [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_ANVIL_OF_REALM:  "Kowadło [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_ANVIL_OF_REALM:  "Wybierz Kowadło [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_ANVIL_OF_REALM:  "Usuń kowadło z [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_ANVIL_OF_REALM:  "Kowadło [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_ANVIL_OF_REALM:  "Wybierz Kowadło [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_ANVIL_OF_REALM:  "Usuń kowadło z [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_FIST_OF_REALM:  "Pięść [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_FIST_OF_REALM:  "Wybierz Pięść [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_FIST_OF_REALM:  "Usuń pięść [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_CHAMPION_OF_REALM:  "Mistrz [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_CHAMPION_OF_REALM:  "Wybierz mistrza [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_CHAMPION_OF_REALM:  "Usuń mistrza [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_FIRST_BLADE_OF_REALM:  "Pierwsze ostrze [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_FIRST_BLADE_OF_REALM:  "Wybierz pierwsze ostrze [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_FIRST_BLADE_OF_REALM:  "Usuń pierwsze ostrze [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_FIRST_SHIELD_OF_REALM:  "Pierwsza Tarcza [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_FIRST_SHIELD_OF_REALM:  "Wybierz Pierwszą Tarczę [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_FIRST_SHIELD_OF_REALM:  "Usuń pierwszą tarczę [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_HAMMER_OF_REALM:  "Młot [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_HAMMER_OF_REALM:  "Wybierz Młot [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_HAMMER_OF_REALM:  "Usuń młotek [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_FURY_OF_REALM:  "Furia [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_FURY_OF_REALM:  "Wybierz Furię [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_FURY_OF_REALM:  "Usuń Furię z [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_MIGHT_OF_REALM:  "Potęga [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_MIGHT_OF_REALM:  "Wybierz Moc [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_MIGHT_OF_REALM:  "Usuń Moc [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_HAMMER_OF_REALM:  "Młot [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_HAMMER_OF_REALM:  "Wybierz Młot [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_HAMMER_OF_REALM:  "Usuń młotek [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_IRON_FIST_PERSON:  "Żelazna Pięść [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_GRANT_IRON_FIST_PERSON:  "Wybierz Żelazną Pięść [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_REMOVE_IRON_FIST_PERSON:  "Usuń Żelazną Pięść z [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+  
+ TB_TITLE_FIRST_BLADE_PERSON:  "Pierwsze ostrze [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_GRANT_FIRST_BLADE_PERSON:  "Wybierz Pierwsze ostrze [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_REMOVE_FIRST_BLADE_PERSON:  "Usuń pierwsze ostrze [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+  
+ TB_TITLE_FIRST_SHIELD_PERSON:  "Pierwsza Tarcza [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_GRANT_FIRST_SHIELD_PERSON:  "Wybierz Pierwszą Tarczę [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_REMOVE_FIRST_SHIELD_PERSON:  "Usuń pierwszą tarczę [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+  
+ TB_TITLE_SHIELD_PERSON:  "Tarcza [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_GRANT_SHIELD_PERSON:  "Wybierz Tarczę [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_REMOVE_SHIELD_PERSON:  "Usuń tarczę [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+  
+ TB_TITLE_MIGHT_PERSON:  "Potęga [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_GRANT_MIGHT_PERSON:  "Wybierz Potęgę [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_REMOVE_MIGHT_PERSON:  "Usuń Potęgę [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+  
+ TB_TITLE_PERSON_SHIELD: "The [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] Shield"Tarcza [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]”
+ TB_GRANT_PERSON_SHIELD: "Select The [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] Shield"Wybierz tarczę [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]”
+ TB_REMOVE_PERSON_SHIELD: "Remove The [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] Shield"Usuń tarczę [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]”
+  
+ TB_TITLE_PERSON_BLADE:  "Ostrze [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ TB_GRANT_PERSON_BLADE:  "Wybierz ostrze [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ TB_REMOVE_PERSON_BLADE:  "Usuń ostrze [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+  
+ TB_TITLE_PERSON_CHAMPION:  "Mistrz [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ TB_GRANT_PERSON_CHAMPION:  "Wybierz Mistrza [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ TB_REMOVE_PERSON_CHAMPION:  "Usuń mistrza [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+  
+ TB_TITLE_PERSON_FURY:  "Furia [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ TB_GRANT_PERSON_FURY:  "Wybierz Furię [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ TB_REMOVE_PERSON_FURY:  "Usuń Furię [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+  
+ TB_TITLE_PERSON_FIST:  "Pięść [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ TB_GRANT_PERSON_FIST:  "Wybierz Pięść [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ TB_REMOVE_PERSON_FIST:  "Usuń pięść [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+  
+ TB_TITLE_PERSON_MIGHT:  "Potęga [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ TB_GRANT_PERSON_MIGHT:  "Wybierz Moc [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ TB_REMOVE_PERSON_MIGHT:  "Usuń moc [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+  
+ TB_TITLE_MARCHES_DEFENDER:  "Obrońca Marszów [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip]"
+ TB_GRANT_MARCHES_DEFENDER:  "Wybierz Obrońcę Marszów [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip]"
+ TB_REMOVE_MARCHES_DEFENDER:  "Usuń Obrońcę Marszów [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip]"
+  
+ TB_TITLE_MARCHES_PROTECTOR:  "Obrońca [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] Marchii"
+ TB_GRANT_MARCHES_PROTECTOR:  "Wybierz Obrońcę Marszów [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip]"
+ TB_REMOVE_MARCHES_PROTECTOR:  "Usuń Obrońcę Marszów [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip]"
+  
+ TB_TITLE_MARCHES_WARDEN:  "Strażnik Marszów [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip]"
+ TB_GRANT_MARCHES_WARDEN:  "Wybierz Strażnika Marszów [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip]"
+ TB_REMOVE_MARCHES_WARDEN:  "Usuń Strażnika Marszów [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip]"
+  
+ TB_TITLE_THE_BLACK_LION:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ TB_GRANT_THE_BLACK_LION:  "Wybierz [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ TB_REMOVE_THE_BLACK_LION:  "Usuń [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+  
+  
+ TB_TITLE_THE_LION_OF_REALM:  "[GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_THE_LION_OF_REALM:  "Wybierz [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_THE_LION_OF_REALM:  "Usuń [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_THE_LION_OF_CAPITAL:  "[GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+ TB_GRANT_THE_LION_OF_CAPITAL:  "Wybierz [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+ TB_REMOVE_THE_LION_OF_CAPITAL:  "Usuń [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+  
+ TB_TITLE_THE_BLACK_LION_OF_CAPITAL:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+ TB_GRANT_THE_BLACK_LION_OF_CAPITAL:  "Wybierz [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+ TB_REMOVE_THE_BLACK_LION_OF_CAPITAL:  "Usuń [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+  
+ TB_TITLE_THE_BLACK_LION_OF_REALM:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_THE_BLACK_LION_OF_REALM:  "Wybierz [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_THE_BLACK_LION_OF_REALM:  "Usuń [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_THE_LION_OF_DYNASTY:  "[GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip]"
+ TB_GRANT_THE_LION_OF_DYNASTY:  "Wybierz [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip]"
+ TB_REMOVE_THE_LION_OF_DYNASTY:  "Usuń [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip]"
+  
+ TB_TITLE_THE_BLACK_LION_OF_DYNASTY:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip]"
+ TB_GRANT_THE_BLACK_LION_OF_DYNASTY:  "Wybierz [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip]"
+ TB_REMOVE_THE_BLACK_LION_OF_DYNASTY:  "Usuń [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] z [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip]"
+  
+ TB_TITLE_THE_DYNASTY_LION:  "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ TB_GRANT_THE_DYNASTY_LION:  "Wybierz [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ TB_REMOVE_THE_DYNASTY_LION:  "Usuń [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+  
+ TB_TITLE_THE_BLACK_KING:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_GRANT_THE_BLACK_KING:  "Wybierz [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_REMOVE_THE_BLACK_KING:  "Usuń [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+  
+ TB_TITLE_THE_BLACK_KING_OF_REALM:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_THE_BLACK_KING_OF_REALM:  "Wybierz [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_THE_BLACK_KING_OF_REALM:  "Usuń [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_THE_BLACK_BLADE_OF_REALM:  "Ostrze [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_THE_BLACK_BLADE_OF_REALM:  "Wybierz ostrze [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_THE_BLACK_BLADE_OF_REALM:  "Usuń ostrze [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] z [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_THE_BLACK_BLADE_OF_CAPITAL:  "Ostrze [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+ TB_GRANT_THE_BLACK_BLADE_OF_CAPITAL:  "Wybierz ostrze [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] z [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+ TB_REMOVE_THE_BLACK_BLADE_OF_CAPITAL:  "Usuń ostrze [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] z [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+  
+ TB_TITLE_PLAYER_FIST_OF_REALM:  "Pięść [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_PLAYER_FIST_OF_REALM:  "Wybierz Pięść [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_PLAYER_FIST_OF_REALM:  "Usuń pięść [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_PLAYER_GUARDIAN_OF_REALM:  "Strażnik [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_PLAYER_GUARDIAN_OF_REALM:  "Wybierz Strażnika [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_PLAYER_GUARDIAN_OF_REALM:  "Usuń Strażnika [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_PLAYER_PROTECTOR_OF_REALM:  "Obrońca [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_PLAYER_PROTECTOR_OF_REALM:  "Wybierz Obrońcę [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_PLAYER_PROTECTOR_OF_REALM:  "Usuń protektora [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+  
+ TB_TITLE_PLAYER_BLADE_OF_REALM:  "Ostrze [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_PLAYER_BLADE_OF_REALM:  "Wybierz Ostrze [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_PLAYER_BLADE_OF_REALM:  "Usuń Ostrze [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+  
+ TB_TITLE_PLAYER_SHIELD_OF_REALM:  "Tarcza [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_PLAYER_SHIELD_OF_REALM:  "Wybierz Tarczę [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_PLAYER_SHIELD_OF_REALM:  "Usuń tarczę [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_PLAYER_WARDEN_OF_REALM:  "Strażnik [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_PLAYER_WARDEN_OF_REALM:  "Wybierz Strażnika [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_PLAYER_WARDEN_OF_REALM:  "Usuń Strażnika [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_PLAYER_SAVIOR_OF_CULTURE:  "Zbawiciel [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_GRANT_PLAYER_SAVIOR_OF_CULTURE:  "Wybierz Zbawiciela [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_REMOVE_PLAYER_SAVIOR_OF_CULTURE:  "Usuń Zbawiciela z [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+  
+ TB_TITLE_PLAYER_PROTECTOR_OF_CULTURE:  "Obrońca [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_GRANT_PLAYER_PROTECTOR_OF_CULTURE:  "Wybierz Obrońcę [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_REMOVE_PLAYER_PROTECTOR_OF_CULTURE:  "Usuń osłonę [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+  
+ TB_TITLE_PLAYER_GUARDIAN_OF_CULTURE:  "Strażnik [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_GRANT_PLAYER_GUARDIAN_OF_CULTURE:  "Wybierz Strażnika [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_REMOVE_PLAYER_GUARDIAN_OF_CULTURE:  "Usuń Strażnika [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+  
+ TB_TITLE_PLAYER_SHIELD_OF_CULTURE:  "Tarcza [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_GRANT_PLAYER_SHIELD_OF_CULTURE:  "Wybierz Tarcza [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_REMOVE_PLAYER_SHIELD_OF_CULTURE:  "Usuń tarczę [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+  
+ TB_TITLE_PLAYER_BLADE_OF_CULTURE:  "Ostrze [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_GRANT_PLAYER_BLADE_OF_CULTURE:  "Wybierz Ostrze [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_REMOVE_PLAYER_BLADE_OF_CULTURE:  "Usuń Ostrze [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+  
+ TB_TITLE_PLAYER_MIGHT_OF_CULTURE:  "Potęga [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_GRANT_PLAYER_MIGHT_OF_CULTURE:  "Wybierz Potęgę [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_REMOVE_PLAYER_MIGHT_OF_CULTURE:  "Usuń Moc [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+  
+ TB_TITLE_PLAYER_SON_OF_FATHER:  "Syn [GetPlayer.GetFather.GetFirstNameNoTooltip]"
+ TB_GRANT_PLAYER_SON_OF_FATHER:  "Wybierz Syna [GetPlayer.GetFather.GetFirstNameNoTooltip]"
+ TB_REMOVE_PLAYER_SON_OF_FATHER:  "Usuń Syna [GetPlayer.GetFather.GetFirstNameNoTooltip]"
+  
+ TB_TITLE_PLAYER_BLOOD_OF_FATHER:  "Krew [GetPlayer.GetFather.GetFirstNameNoTooltip]"
+ TB_GRANT_PLAYER_BLOOD_OF_FATHER:  "Wybierz Krew [GetPlayer.GetFather.GetFirstNameNoTooltip]"
+ TB_REMOVE_PLAYER_BLOOD_OF_FATHER:  "Usuń krew [GetPlayer.GetFather.GetFirstNameNoTooltip]"
+  
+ TB_TITLE_PLAYER_SCION_OF_FATHER:  "Potomek [GetPlayer.GetFather.GetFirstNameNoTooltip]"
+ TB_GRANT_PLAYER_SCION_OF_FATHER:  "Wybierz potomka [GetPlayer.GetFather.GetFirstNameNoTooltip]"
+ TB_REMOVE_PLAYER_SCION_OF_FATHER:  "Usuń potomka [GetPlayer.GetFather.GetFirstNameNoTooltip]"
+  
+ TB_TITLE_PLAYER_HAND_OF_JUSTICE:  "Ręka Sprawiedliwości"
+ TB_GRANT_PLAYER_HAND_OF_JUSTICE:  "Wybierz Rękę Sprawiedliwości"
+ TB_REMOVE_PLAYER_HAND_OF_JUSTICE:  "Usuń Rękę Sprawiedliwości"
+  
+ TB_TITLE_PLAYER_WARDEN_OF_REALM:  "Strażnik [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_PLAYER_WARDEN_OF_REALM:  "Wybierz Strażnika [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_PLAYER_WARDEN_OF_REALM:  "Usuń Strażnika [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_PLAYER_VANQ_OF_UNB:  "Pogromca niewiernych"
+ TB_GRANT_PLAYER_VANQ_OF_UNB:  "Wybierz Pogromcę niewiernych"
+ TB_REMOVE_PLAYER_VANQ_OF_UNB:  "Usuń Pogromcę niewiernych"
+  
+ TB_TITLE_PLAYER_BANE_OF_INFIDELS:  "Zmora niewiernych"
+ TB_GRANT_PLAYER_BANE_OF_INFIDELS:  "Wybierz Zgubę niewiernych"
+ TB_REMOVE_PLAYER_BANE_OF_INFIDELS:  "Usuń Zmorę Niewiernych"
+  
+ TB_TITLE_PLAYER_CONQ_OF_INFIDELS:  "Zdobywca niewiernych"
+ TB_GRANT_PLAYER_CONQ_OF_INFIDELS:  "Wybierz Zdobywcę niewiernych"
+ TB_REMOVE_PLAYER_CONQ_OF_INFIDELS:  "Usuń Zdobywcę niewiernych"
+  
+ TB_TITLE_PLAYER_VANQ_OF_INFIDELS:  "Pogromca niewiernych"
+ TB_GRANT_PLAYER_VANQ_OF_INFIDELS:  "Wybierz Pogromcę niewiernych"
+ TB_REMOVE_PLAYER_VANQ_OF_INFIDELS:  "Usuń Pogromcę Niewiernych"

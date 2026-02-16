@@ -1,0 +1,347 @@
+﻿l_korean:
+  
+  
+ rule_tactical_modifier_duration: "#bold #difficulty_hard • 전술적 전투 • 성공적인 움직임으로 #!\nDuration 버프/디버프 제공" #NT!
+ setting_tbatt_mod_length_8: "8일" #NT!
+ setting_tbatt_mod_length_8_desc: "#high 동작으로 인한 버프/디버프 지속 시간은 8일로 설정됩니다." #NT!
+ setting_tbatt_mod_length_10: "10일" #NT!
+ setting_tbatt_mod_length_10_desc: "#high 동작으로 인한 버프/디버프 지속 시간은 10일로 설정됩니다." #NT!
+ setting_tbatt_mod_length_12: "12일" #NT!
+ setting_tbatt_mod_length_12_desc: "#high 동작으로 인한 버프/디버프 지속 시간은 12일로 설정됩니다." #NT!
+ setting_tbatt_mod_length_15: "15일" #NT!
+ setting_tbatt_mod_length_15_desc: "#high 동작으로 인한 버프/디버프 지속 시간은 15일로 설정됩니다." #NT!
+ setting_tbatt_mod_length_18: "18일" #NT!
+ setting_tbatt_mod_length_18_desc: "#high 동작으로 인한 버프/디버프 지속 시간은 18일로 설정됩니다." #NT!
+ setting_tbatt_mod_length_20: "20일" #NT!
+ setting_tbatt_mod_length_20_desc: "#high 동작으로 인한 버프/디버프 지속 시간은 20일로 설정되어 있습니다." #NT!
+ setting_tbatt_mod_length_22: "22일" #NT!
+ setting_tbatt_mod_length_22_desc: "#high 동작으로 인한 버프/디버프 지속 시간은 22일로 설정됩니다." #NT!
+ setting_tbatt_mod_length_25: "25일" #NT!
+ setting_tbatt_mod_length_25_desc: "#high 동작으로 인한 버프/디버프 지속 시간은 25일로 설정됩니다." #NT!
+ setting_tbatt_mod_length_30: "30일" #NT!
+ setting_tbatt_mod_length_30_desc: "#high 동작으로 인한 버프/디버프 지속 시간은 30일로 설정됩니다." #NT!
+ setting_tbatt_default_mod_length: "20일(기본값)" #NT!
+ setting_tbatt_default_mod_length_desc: "#high 이동으로 인한 버프/디버프 지속 시간은 기본 20일로 설정되어 있습니다." #NT!
+  
+ # Router Modifier Duration Rule 
+ rule_tactical_router_modifier_duration: "#bold #difficulty_hard • 전술적 전투 • #!\nDuration 패주한 군대 수정치" #NT!
+ setting_tbatt_router_mod_length_8: "8일" #NT!
+ setting_tbatt_router_mod_length_8_desc: "#high 패배한 군대 디버프는 8일 동안 지속됩니다." #NT!
+ setting_tbatt_router_mod_length_10: "10일" #NT!
+ setting_tbatt_router_mod_length_10_desc: "#high 패배한 군대 디버프는 10일 동안 지속됩니다." #NT!
+ setting_tbatt_router_mod_length_12: "12일" #NT!
+ setting_tbatt_router_mod_length_12_desc: "#high 패배한 군대 디버프는 12일 동안 지속됩니다." #NT!
+ setting_tbatt_router_mod_length_18: "18일" #NT!
+ setting_tbatt_router_mod_length_18_desc: "#high 패배한 군대 디버프는 18일 동안 지속됩니다." #NT!
+ setting_tbatt_router_mod_length_20: "20일" #NT!
+ setting_tbatt_router_mod_length_20_desc: "#high 패배한 군대 디버프는 20일 동안 지속됩니다." #NT!
+ setting_tbatt_router_mod_length_22: "22일" #NT!
+ setting_tbatt_router_mod_length_22_desc: "#high 패배한 군대 디버프는 22일 동안 지속됩니다." #NT!
+ setting_tbatt_router_mod_length_25: "25일" #NT!
+ setting_tbatt_router_mod_length_25_desc: "#high 패배한 군대 디버프는 25일 동안 지속됩니다." #NT!
+ setting_tbatt_router_mod_length_30: "30일" #NT!
+ setting_tbatt_router_mod_length_30_desc: "#high 패배한 군대 디버프는 30일 동안 지속됩니다." #NT!
+ setting_tbatt_router_default_mod_length: "15일(기본값)" #NT!
+ setting_tbatt_router_default_mod_length_desc: "#high 패주한 군대 디버프는 기본적으로 15일 동안 지속됩니다." #NT!
+  
+ # Reserve Modifier Duration Rule 
+ rule_tactical_reserve_modifier_duration: "#bold #difficulty_hard • 전술적 전투 • #!\nDuration 예비 교전 수정치" #NT!
+ setting_tbatt_reserve_mod_length_8: "8일" #NT!
+ setting_tbatt_reserve_mod_length_8_desc: "#high 예비 참여 버프는 8일 동안 지속됩니다." #NT!
+ setting_tbatt_reserve_mod_length_12: "12일" #NT!
+ setting_tbatt_reserve_mod_length_12_desc: "#high 예비 참여 버프는 12일 동안 지속됩니다." #NT!
+ setting_tbatt_reserve_mod_length_15: "15일" #NT!
+ setting_tbatt_reserve_mod_length_15_desc: "#high 예비 참여 버프는 15일 동안 지속됩니다." #NT!
+ setting_tbatt_reserve_mod_length_18: "18일" #NT!
+ setting_tbatt_reserve_mod_length_18_desc: "#high 예비 참여 버프는 18일 동안 지속됩니다." #NT!
+ setting_tbatt_reserve_mod_length_20: "20일" #NT!
+ setting_tbatt_reserve_mod_length_20_desc: "#high 예비 참여 버프는 20일 동안 지속됩니다." #NT!
+ setting_tbatt_reserve_mod_length_22: "22일" #NT!
+ setting_tbatt_reserve_mod_length_22_desc: "#high 예비 참여 버프는 22일 동안 지속됩니다." #NT!
+ setting_tbatt_reserve_mod_length_25: "25일" #NT!
+ setting_tbatt_reserve_mod_length_25_desc: "#high 예비 참여 버프는 25일 동안 지속됩니다." #NT!
+ setting_tbatt_reserve_mod_length_30: "30일" #NT!
+ setting_tbatt_reserve_mod_length_30_desc: "#high 예비 참여 버프는 30일 동안 지속됩니다." #NT!
+ setting_tbatt_reserve_default_mod_length: "기본값(10일)" #NT!
+ setting_tbatt_reserve_default_mod_length_desc: "#high 예비 참여 버프는 기본적으로 10일 동안 지속됩니다." #NT!
+  
+ # Encircled Modifier Duration Rule 
+ rule_tactical_encircled_modifier_duration: "#bold #difficulty_hard • 전술적 전투 • #!\nDuration 포위된 군대 수정치" #NT!
+ setting_tbatt_encircled_mod_length_8: "8일" #NT!
+ setting_tbatt_encircled_mod_length_8_desc: "#high 포위된 군대 디버프는 8일 동안 지속됩니다." #NT!
+ setting_tbatt_encircled_mod_length_10: "10일" #NT!
+ setting_tbatt_encircled_mod_length_10_desc: "#high 포위된 군대 디버프는 10일 동안 지속됩니다." #NT!
+ setting_tbatt_encircled_mod_length_12: "12일" #NT!
+ setting_tbatt_encircled_mod_length_12_desc: "#high 포위된 군대 디버프는 12일 동안 지속됩니다." #NT!
+ setting_tbatt_encircled_mod_length_15: "15일(기본값)" #NT!
+ setting_tbatt_encircled_mod_length_15_desc: "#high 포위된 군대 디버프는 15일 동안 지속됩니다." #NT!
+ setting_tbatt_encircled_mod_length_18: "18일" #NT!
+ setting_tbatt_encircled_mod_length_18_desc: "#high 포위된 군대 디버프는 18일 동안 지속됩니다." #NT!
+ setting_tbatt_encircled_mod_length_20: "20일" #NT!
+ setting_tbatt_encircled_mod_length_20_desc: "#high 포위된 군대 디버프는 20일 동안 지속됩니다." #NT!
+ setting_tbatt_encircled_mod_length_22: "22일" #NT!
+ setting_tbatt_encircled_mod_length_22_desc: "#high 포위된 군대 디버프는 22일 동안 지속됩니다." #NT!
+ setting_tbatt_encircled_mod_length_25: "25일" #NT!
+ setting_tbatt_encircled_mod_length_25_desc: "#high 포위된 군대 디버프는 25일 동안 지속됩니다." #NT!
+ setting_tbatt_encircled_mod_length_30: "30일" #NT!
+ setting_tbatt_encircled_mod_length_30_desc: "#high 포위된 군대 디버프는 30일 동안 지속됩니다." #NT!
+ setting_tbatt_encircled_default_mod_length: "기본(15일)" #NT!
+ setting_tbatt_encircled_default_mod_length_desc: "#high 포위된 군대 디버프는 기본적으로 15일 동안 지속됩니다." #NT!
+  
+ # Commander Switched Modifier Duration Rule 
+ rule_tactical_commander_switched_modifier_duration: "#bold #difficulty_hard • 전술 전투 • #!\nDuration 사령관이 디버프를 전환함" #NT!
+ setting_tbatt_commander_switched_mod_length_5: "5일" #NT!
+ setting_tbatt_commander_switched_mod_length_5_desc: "#high 사령관 전환 디버프는 5일 동안 지속됩니다." #NT!
+ setting_tbatt_commander_switched_mod_length_6: "6일" #NT!
+ setting_tbatt_commander_switched_mod_length_6_desc: "#high 사령관 전환 디버프는 6일 동안 지속됩니다." #NT!
+ setting_tbatt_commander_switched_mod_length_7: "7일" #NT!
+ setting_tbatt_commander_switched_mod_length_7_desc: "#high 사령관 전환 디버프는 7일 동안 지속됩니다." #NT!
+ setting_tbatt_commander_switched_mod_length_8: "8일" #NT!
+ setting_tbatt_commander_switched_mod_length_8_desc: "#high 사령관 전환 디버프는 8일 동안 지속됩니다." #NT!
+ setting_tbatt_commander_switched_mod_length_9: "9일" #NT!
+ setting_tbatt_commander_switched_mod_length_9_desc: "#high 사령관 스위치 디버프는 9일 동안 지속됩니다." #NT!
+ setting_tbatt_commander_switched_mod_length_12: "12일" #NT!
+ setting_tbatt_commander_switched_mod_length_12_desc: "#high 사령관 전환 디버프는 12일 동안 지속됩니다." #NT!
+ setting_tbatt_commander_switched_mod_length_15: "15일" #NT!
+ setting_tbatt_commander_switched_mod_length_15_desc: "#high 사령관 전환 디버프는 15일 동안 지속됩니다." #NT!
+ setting_tbatt_commander_switched_default_mod_length: "기본값(10일)" #NT!
+ setting_tbatt_commander_switched_default_mod_length_desc: "#high 사령관 스위치 디버프는 기본 10일 동안 지속됩니다." #NT!
+  
+ # Counterattack Modifier Duration Rule 
+ rule_tactical_counterattack_modifier_duration: "#bold #difficulty_hard • 전술적 전투 • #!\nDuration 반격 수정치" #NT!
+ setting_tbatt_counterattack_mod_length_8: "8일" #NT!
+ setting_tbatt_counterattack_mod_length_8_desc: "#high 반격 버프는 8일 동안 지속됩니다." #NT!
+ setting_tbatt_counterattack_mod_length_12: "12일" #NT!
+ setting_tbatt_counterattack_mod_length_12_desc: "#high 반격 버프는 10일 동안 지속됩니다." #NT!
+ setting_tbatt_counterattack_mod_length_10: "10일" #NT!
+ setting_tbatt_counterattack_mod_length_10_desc: "#high 반격 버프는 15일 동안 지속됩니다." #NT!
+ setting_tbatt_counterattack_mod_length_15: "15일" #NT!
+ setting_tbatt_counterattack_mod_length_15_desc: "#high 반격 버프는 15일 동안 지속됩니다." #NT!
+ setting_tbatt_counterattack_mod_length_18: "18일" #NT!
+ setting_tbatt_counterattack_mod_length_18_desc: "#high 반격 버프는 18일 동안 지속됩니다." #NT!
+ setting_tbatt_counterattack_mod_length_20: "20일" #NT!
+ setting_tbatt_counterattack_mod_length_20_desc: "#high 반격 버프는 20일 동안 지속됩니다." #NT!
+ setting_tbatt_counterattack_mod_length_22: "22일" #NT!
+ setting_tbatt_counterattack_mod_length_22_desc: "#high 반격 버프는 22일 동안 지속됩니다." #NT!
+ setting_tbatt_counterattack_mod_length_25: "25일" #NT!
+ setting_tbatt_counterattack_mod_length_25_desc: "#high 반격 버프는 25일 동안 지속됩니다." #NT!
+ setting_tbatt_counterattack_mod_length_30: "30일" #NT!
+ setting_tbatt_counterattack_mod_length_30_desc: "#high 반격 버프는 30일 동안 지속됩니다." #NT!
+ setting_tbatt_counterattack_default_mod_length: "기본값(10일)" #NT!
+ setting_tbatt_counterattack_default_mod_length_desc: "#high 반격 버프는 기본적으로 10일 동안 지속됩니다." #NT!
+  
+ # Martial Skill Increase Value Rule 
+ rule_tactical_martial_increase_skill_value: "#bold #difficulty_hard • 전술적 전투 • #!\nMax 무술 기술 증가" #NT!
+ setting_tbatt_martial_skill_increase_default_value: "3 무술(기본값)" #NT!
+ setting_tbatt_martial_skill_increase_default_value_desc: "#high 지휘관은 더 숙련된 지휘관의 측면을 라우팅하여 최대 3 [martial|E] 스킬 포인트를 얻을 수 있는 기회('기술 증가 기회' 기준)를 갖습니다." #NT!
+ setting_tbatt_martial_skill_increase_value_1: "1 무술" #NT!
+ setting_tbatt_martial_skill_increase_value_1_desc: "#high 지휘관은 '기술 증가 기회'에 따라 더 숙련된 지휘관의 측면을 라우팅하여 1 [martial|E] 기술 포인트를 얻을 수 있는 기회를 갖습니다." #NT!
+ setting_tbatt_martial_skill_increase_value_2: "2 무술" #NT!
+ setting_tbatt_martial_skill_increase_value_2_desc: "#high 지휘관은 '기술 증가 기회'에 따라 더 숙련된 지휘관의 측면을 라우팅하여 최대 2 [martial|E] 스킬 포인트를 얻을 수 있는 기회를 갖습니다." #NT!
+ setting_tbatt_martial_skill_increase_value_3: "3 무술(기본값)" #NT!
+ setting_tbatt_martial_skill_increase_value_3_desc: "#high 지휘관은 '기술 증가 기회'에 따라 더 숙련된 지휘관의 측면을 라우팅하여 최대 3 [martial|E] 스킬 포인트를 얻을 수 있는 기회를 갖습니다." #NT!
+ setting_tbatt_martial_skill_increase_value_4: "4 무술" #NT!
+ setting_tbatt_martial_skill_increase_value_4_desc: "#high 지휘관은 '기술 증가 기회'에 따라 더 숙련된 지휘관의 측면을 라우팅하여 최대 4 [martial|E] 스킬 포인트를 얻을 수 있는 기회를 갖습니다." #NT!
+ setting_tbatt_martial_skill_increase_value_5: "5 무술" #NT!
+ setting_tbatt_martial_skill_increase_value_5_desc: "#high 지휘관은 '기술 증가 기회'에 따라 더 숙련된 지휘관의 측면을 라우팅하여 최대 5 [martial|E] 스킬 포인트를 얻을 수 있는 기회를 갖습니다." #NT!
+ setting_tbatt_martial_skill_increase_value_6: "6 무술" #NT!
+ setting_tbatt_martial_skill_increase_value_6_desc: "#high 지휘관은 전술적 승리를 통해 6개의 무술 기술 포인트를 얻습니다." #NT!
+  
+ # Commander Martial Difference Value Rule 
+ rule_tactical_martial_increase_diff_value: "#bold #difficulty_hard • 전술적 전투 • #!\nCommander 무술의 차이" #NT!
+ setting_tbatt_commander_martial_diff_default_value: "4 스킬 차이 (기본)" #NT!
+ setting_tbatt_commander_martial_diff_default_value_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 기술이 4 이상일 때 [martial|E] 더 숙련된 사령관을 라우팅할 때 해당 사령관의 [martial|E] 기술이 향상될 가능성이 있습니다." #NT!
+ setting_tbatt_commander_martial_diff_value_1: "1 스킬 차이" #NT!
+ setting_tbatt_commander_martial_diff_value_1_desc: "#high 당신의 측면 사령관 중 한 명이 적의 측면 사령관보다 1 이상 능숙할 때 [martial|E], 더 숙련된 사령관을 라우팅할 때 그들의 [martial|E] 기술을 높일 수 있는 기회가 있습니다." #NT!
+ setting_tbatt_commander_martial_diff_value_3: "3 스킬 차이" #NT!
+ setting_tbatt_commander_martial_diff_value_3_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 기술이 3 이상일 때 [martial|E], 더 숙련된 사령관을 라우팅할 때 해당 사령관의 [martial|E] 기술을 높일 수 있는 기회가 있습니다." #NT!
+ setting_tbatt_commander_martial_diff_value_4: "4 스킬 차이 (기본)" #NT!
+ setting_tbatt_commander_martial_diff_value_4_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 기술이 4 이상일 때 [martial|E] 더 숙련된 사령관을 라우팅할 때 해당 사령관의 [martial|E] 기술이 향상될 가능성이 있습니다." #NT!
+ setting_tbatt_commander_martial_diff_value_5: "5 스킬 차이" #NT!
+ setting_tbatt_commander_martial_diff_value_5_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 5 이상 숙련된 경우 [martial|E], 더 숙련된 사령관을 라우팅할 때 해당 측면 사령관의 [martial|E] 기술이 증가할 가능성이 있습니다." #NT!
+ setting_tbatt_commander_martial_diff_value_6: "6 스킬 차이" #NT!
+ setting_tbatt_commander_martial_diff_value_6_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 기술이 6 이상일 때 [martial|E], 더 숙련된 사령관을 라우팅할 때 해당 사령관의 [martial|E] 기술을 높일 수 있는 기회가 있습니다." #NT!
+ setting_tbatt_commander_martial_diff_value_7: "7 스킬 차이" #NT!
+ setting_tbatt_commander_martial_diff_value_7_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 7 이상 숙련된 경우 [martial|E], 더 숙련된 사령관을 라우팅할 때 해당 사령관의 [martial|E] 기술을 높일 수 있는 기회가 있습니다." #NT!
+ setting_tbatt_commander_martial_diff_value_10: "10 스킬 차이" #NT!
+ setting_tbatt_commander_martial_diff_value_10_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 기술이 10 이상 [martial|E] 높을 때, 더 숙련된 사령관을 라우팅할 때 해당 사령관의 [martial|E] 기술을 높일 수 있는 기회가 있습니다." #NT!
+ setting_tbatt_commander_martial_diff_value_12: "12 스킬 차이" #NT!
+ setting_tbatt_commander_martial_diff_value_12_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 12 이상 숙련된 경우 [martial|E], 더 숙련된 사령관을 라우팅할 때 해당 사령관의 [martial|E] 기술을 높일 수 있는 기회가 있습니다." #NT!
+ setting_tbatt_commander_martial_diff_value_15: "15 스킬 차이" #NT!
+ setting_tbatt_commander_martial_diff_value_15_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 15 이상 숙련된 경우 [martial|E], 더 숙련된 사령관을 라우팅할 때 해당 사령관의 [martial|E] 기술을 높일 수 있는 기회가 있습니다." #NT!
+  
+ # Skill Increase Chance Value Rule 
+ rule_tactical_skill_increase_chance_value: "#bold #difficulty_hard • 전술적 전투 • #!\nChance 무술 실력 향상용" #NT!
+ setting_tbatt_skill_increase_chance_default_value: "75%(기본값)" #NT!
+ setting_tbatt_skill_increase_chance_default_value_desc: "[martial|E] 기술 획득량이 [martial|E]인 사령관은 더 숙련된 사령관의 측면을 라우팅하여 [martial|E] 기술을 얻을 확률이 75%입니다." #NT!
+ setting_tbatt_skill_increase_chance_value_0: "0" #NT!
+ setting_tbatt_skill_increase_chance_value_0_desc: "#high '무술 기술 이득 상한' 설정에 있는 지휘관은 더 숙련된 지휘관의 측면을 라우팅해도 [martial|E] 기술을 얻지 못합니다." #NT!
+ setting_tbatt_skill_increase_chance_value_25: "25%" #NT!
+ setting_tbatt_skill_increase_chance_value_25_desc: "#high '무술 숙련도 증가' 설정에 따라 지휘관은 더 숙련된 지휘관의 측면을 라우팅하여 [martial|E] 기술을 얻을 확률이 25%입니다." #NT!
+ setting_tbatt_skill_increase_chance_value_33: "33%" #NT!
+ setting_tbatt_skill_increase_chance_value_33_desc: "#high '무술 기술 이득 상한' 설정에 따라 지휘관은 더 숙련된 지휘관의 측면을 라우팅하여 [martial|E] 기술을 얻을 확률이 33%입니다." #NT!
+ setting_tbatt_skill_increase_chance_value_50: "50%" #NT!
+ setting_tbatt_skill_increase_chance_value_50_desc: "#high '무술 기술 이득 상한' 설정에 따라 지휘관은 더 숙련된 지휘관의 측면을 라우팅하여 [martial|E] 기술을 얻을 확률이 50%입니다." #NT!
+ setting_tbatt_skill_increase_chance_value_60: "60%" #NT!
+ setting_tbatt_skill_increase_chance_value_60_desc: "#high '무술 기술 이득 상한' 설정에 따라 지휘관은 더 숙련된 지휘관의 측면을 라우팅하여 [martial|E] 기술을 얻을 확률이 60%입니다." #NT!
+ setting_tbatt_skill_increase_chance_value_85: "85%" #NT!
+ setting_tbatt_skill_increase_chance_value_85_desc: "#high '무술 기술 이득 상한' 설정에 따라 지휘관은 더 숙련된 지휘관의 측면을 라우팅하여 [martial|E] 기술을 얻을 확률이 85%입니다." #NT!
+ setting_tbatt_skill_increase_chance_value_100: "100%" #NT!
+ setting_tbatt_skill_increase_chance_value_100_desc: "#high '무술 기술 이득 상한' 설정에 따라 지휘관은 더 숙련된 지휘관의 측면을 라우팅하여 [martial|E] 기술을 얻을 확률이 100%입니다." #NT!
+  
+ rule_tactical_skill_cap_value: "#bold #difficulty_hard • 전술 전투 • #!\nCap 무술 기술 획득 시" #NT!
+ setting_tbatt_martial_skill_cap_default_value: "24 무술 기술(기본값)" #NT!
+ setting_tbatt_martial_skill_cap_default_value_desc: "#high 측면 사령관 중 한 명이 24 [martial|E] 미만이면 더 숙련된 사령관의 측면을 라우팅하여 [martial|E] 기술을 얻을 수 있습니다. (사령관의 전투차이 규칙에 따라 결정됨)" #NT!
+ setting_tbatt_martial_skill_cap_value_21: "21 무술" #NT!
+ setting_tbatt_martial_skill_cap_value_21_desc: "#high 측면 사령관 중 한 명이 21 [martial|E] 미만이면 더 숙련된 사령관의 측면을 라우팅하여 [martial|E] 기술을 얻을 수 있습니다. (사령관의 전투차이 규칙에 따라 결정됨)" #NT!
+ setting_tbatt_martial_skill_cap_value_24: "24 무술 기술(기본값)" #NT!
+ setting_tbatt_martial_skill_cap_value_24_desc: "#high 측면 사령관 중 한 명이 24 [martial|E] 미만이면 더 숙련된 사령관의 측면을 라우팅하여 [martial|E] 기술을 얻을 수 있습니다. (사령관의 전투차이 규칙에 따라 결정됨)" #NT!
+ setting_tbatt_martial_skill_cap_value_27: "27 무술" #NT!
+ setting_tbatt_martial_skill_cap_value_27_desc: "#high 측면 사령관 중 한 명이 27 [martial|E] 미만이면 더 숙련된 사령관의 측면을 라우팅하여 [martial|E] 기술을 얻을 수 있습니다. (사령관의 전투차이 규칙에 따라 결정됨)" #NT!
+ setting_tbatt_martial_skill_cap_value_30: "30 무술 기술" #NT!
+ setting_tbatt_martial_skill_cap_value_30_desc: "#high 측면 사령관 중 한 명이 30 [martial|E] 미만이면 더 숙련된 사령관의 측면을 라우팅하여 [martial|E] 기술을 얻을 수 있습니다. (사령관의 전투차이 규칙에 따라 결정됨)" #NT!
+ setting_tbatt_martial_skill_cap_value_35: "35 무술" #NT!
+ setting_tbatt_martial_skill_cap_value_35_desc: "#high 측면 사령관 중 한 명이 35 [martial|E] 미만이면 더 숙련된 사령관의 측면을 라우팅하여 [martial|E] 기술을 얻을 수 있습니다. (사령관의 전투차이 규칙에 따라 결정됨)" #NT!
+ setting_tbatt_martial_skill_cap_value_100: "무술 기술 100" #NT!
+ setting_tbatt_martial_skill_cap_value_100_desc: "#high 측면 사령관 중 한 명이 100 [martial|E] 미만이면 더 숙련된 사령관의 측면을 라우팅하여 [martial|E] 기술을 얻을 수 있습니다. (사령관의 전투차이 규칙에 따라 결정됨)" #NT!
+  
+ # Martial Skill Increase Value Rule 
+ rule_tactical_prowess_increase_skill_value: "#bold #difficulty_hard • 전술적 전투 • #!\nMax 기량 스킬 증가" #NT!
+ setting_tbatt_prowess_skill_increase_default_value: "3 기량(기본값)" #NT!
+ setting_tbatt_prowess_skill_increase_default_value_desc: "#high 지휘관은 더 숙련된 지휘관을 제압하여 최대 3 [prowess|E] 스킬 포인트를 얻을 수 있는 기회('기술 증가 기회' 기준)를 갖습니다." #NT!
+ setting_tbatt_prowess_skill_increase_value_1: "1 기량" #NT!
+ setting_tbatt_prowess_skill_increase_value_1_desc: "#high 지휘관은 '기술 증가 기회'에 따라 더 숙련된 지휘관을 제압하여 1 [prowess|E] 기술 포인트를 얻을 수 있는 기회를 갖습니다." #NT!
+ setting_tbatt_prowess_skill_increase_value_2: "2 기량" #NT!
+ setting_tbatt_prowess_skill_increase_value_2_desc: "#high 사령관은 '기술 증가 기회'에 따라 더 숙련된 사령관을 제압하여 최대 2 [prowess|E] 기술 포인트를 얻을 수 있는 기회를 갖습니다." #NT!
+ setting_tbatt_prowess_skill_increase_value_3: "3 기량(기본값)" #NT!
+ setting_tbatt_prowess_skill_increase_value_3_desc: "#high 사령관은 '기술 증가 기회'에 따라 더 숙련된 사령관을 제압하여 최대 3 [prowess|E] 기술 포인트를 얻을 수 있는 기회를 갖습니다." #NT!
+ setting_tbatt_prowess_skill_increase_value_4: "4 기량" #NT!
+ setting_tbatt_prowess_skill_increase_value_4_desc: "#high 사령관은 '기술 증가 기회'에 따라 더 숙련된 사령관을 제압하여 최대 4 [prowess|E] 기술 포인트를 얻을 수 있는 기회를 갖습니다." #NT!
+ setting_tbatt_prowess_skill_increase_value_5: "5 기량" #NT!
+ setting_tbatt_prowess_skill_increase_value_5_desc: "#high 사령관은 '기술 증가 기회'에 따라 더 숙련된 사령관을 제압하여 최대 5 [prowess|E] 기술 포인트를 얻을 수 있는 기회를 갖습니다." #NT!
+ setting_tbatt_prowess_skill_increase_value_6: "6 기량" #NT!
+ setting_tbatt_prowess_skill_increase_value_6_desc: "#high 지휘관은 전술적 승리를 통해 6개의 기량 스킬 포인트를 얻습니다." #NT!
+  
+ # Commander Martial Difference Value Rule 
+ rule_tactical_prowess_increase_diff_value: "#bold #difficulty_hard • 전술적 전투 • #!\nCommander 기량 차이" #NT!
+ setting_tbatt_commander_prowess_diff_default_value: "4 스킬 차이 (기본)" #NT!
+ setting_tbatt_commander_prowess_diff_default_value_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 기술이 4 이상 [prowess|E] 높을 때, 숙련된 사령관을 제압하면 해당 사령관의 기술이 [prowess|E] 증가할 확률이 있습니다." #NT!
+ setting_tbatt_commander_prowess_diff_value_0: "0 스킬 차이" #NT!
+ setting_tbatt_commander_prowess_diff_value_0_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 기술이 1 이상 [prowess|E] 높을 때 숙련된 사령관을 제압하면 해당 사령관의 기술이 [prowess|E] 증가할 확률이 있습니다." #NT!
+ setting_tbatt_commander_prowess_diff_value_1: "1 스킬 차이" #NT!
+ setting_tbatt_commander_prowess_diff_value_1_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 기술이 1 이상 [prowess|E] 높을 때 숙련된 사령관을 제압하면 해당 사령관의 기술이 [prowess|E] 증가할 확률이 있습니다." #NT!
+ setting_tbatt_commander_prowess_diff_value_3: "3 스킬 차이" #NT!
+ setting_tbatt_commander_prowess_diff_value_3_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 3 이상 숙련된 경우 [prowess|E] 숙련된 사령관을 제압하면 해당 측면 사령관의 기술이 [prowess|E] 증가할 확률이 있습니다." #NT!
+ setting_tbatt_commander_prowess_diff_value_4: "4 스킬 차이 (기본)" #NT!
+ setting_tbatt_commander_prowess_diff_value_4_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 기술이 4 이상 [prowess|E] 높을 때, 숙련된 사령관을 제압하면 해당 사령관의 기술이 [prowess|E] 증가할 확률이 있습니다." #NT!
+ setting_tbatt_commander_prowess_diff_value_5: "5 스킬 차이" #NT!
+ setting_tbatt_commander_prowess_diff_value_5_desc: "#high 당신의 측면 사령관 중 한 명이 적의 측면 사령관보다 5 이상 숙련된 경우 [prowess|E], 숙련된 사령관을 제압하면 해당 측면 사령관의 [prowess|E] 기술이 증가할 확률이 있습니다." #NT!
+ setting_tbatt_commander_prowess_diff_value_6: "6 스킬 차이" #NT!
+ setting_tbatt_commander_prowess_diff_value_6_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 기술이 6 이상 [prowess|E] 높을 때 숙련된 사령관을 제압하면 해당 사령관의 기술이 [prowess|E] 증가할 확률이 있습니다." #NT!
+ setting_tbatt_commander_prowess_diff_value_7: "7 스킬 차이" #NT!
+ setting_tbatt_commander_prowess_diff_value_7_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 7 이상 숙련된 경우 [prowess|E] 숙련된 사령관을 제압하면 해당 측면 사령관의 기술이 [prowess|E] 증가할 확률이 있습니다." #NT!
+ setting_tbatt_commander_prowess_diff_value_10: "10 스킬 차이" #NT!
+ setting_tbatt_commander_prowess_diff_value_10_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 기술이 10 이상 [prowess|E] 높을 때 숙련된 사령관을 제압하면 해당 사령관의 기술이 [prowess|E] 증가할 기회가 있습니다." #NT!
+ setting_tbatt_commander_prowess_diff_value_12: "12 스킬 차이" #NT!
+ setting_tbatt_commander_prowess_diff_value_12_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 기술이 12 이상 [prowess|E] 높을 때 숙련된 사령관을 제압하면 해당 사령관의 기술이 [prowess|E] 증가할 확률이 있습니다." #NT!
+ setting_tbatt_commander_prowess_diff_value_15: "15 스킬 차이" #NT!
+ setting_tbatt_commander_prowess_diff_value_15_desc: "#high 측면 사령관 중 한 명이 적 측면 사령관보다 기술이 15 이상 [prowess|E] 높을 때, 숙련된 사령관을 제압하면 해당 사령관의 기술이 [prowess|E] 증가할 확률이 있습니다." #NT!
+  
+ # Skill Increase Chance Value Rule 
+ rule_tactical_prowess_skill_increase_chance_value: "#bold #difficulty_hard • 전술적 전투 • #!\nChance 기량 스킬 향상" #NT!
+ setting_tbatt_prowess_skill_increase_chance_default_value: "75%(기본값)" #NT!
+ setting_tbatt_prowess_skill_increase_chance_default_value_desc: "[prowess|E] 기술 획득량이 [prowess|E]인 사령관은 더 숙련된 사령관을 제압하여 [prowess|E] 기술을 얻을 확률이 75%입니다." #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_0: "0" #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_0_desc: "#high '기량 최대치 스킬 이득' 설정에 있는 지휘관은 더 숙련된 지휘관을 이겨도 [prowess|E] 스킬을 얻지 못합니다." #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_25: "25%" #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_25_desc: "#high '기량 최대치 스킬 이득' 설정에 따라 지휘관은 더 숙련된 지휘관을 제압하여 [prowess|E] 스킬을 얻을 확률이 25%입니다." #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_33: "33%" #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_33_desc: "#high '기량 최대치 스킬 획득' 설정에 따라 지휘관은 더 숙련된 지휘관을 제압하면 33%의 확률로 [prowess|E] 스킬을 얻을 수 있습니다." #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_50: "50%" #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_50_desc: "#high '기량 최대치 스킬 획득' 설정에 따라 지휘관은 더 숙련된 지휘관을 제압하면 50%의 확률로 [prowess|E] 스킬을 얻을 수 있습니다." #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_60: "60%" #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_60_desc: "#high '기량 최대치 스킬 이득' 설정에 따라 지휘관은 더 숙련된 지휘관을 제압하여 [prowess|E] 스킬을 얻을 확률이 60%입니다." #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_85: "85%" #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_85_desc: "#high '기량 최대치 스킬 이득' 설정에 따라 지휘관은 더 숙련된 지휘관을 제압하면 85%의 확률로 [prowess|E] 스킬을 얻을 수 있습니다." #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_100: "100%" #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_100_desc: "#high '기량 최대치 스킬 획득' 설정에 따라 지휘관은 더 숙련된 지휘관을 제압하면 100% 확률로 [prowess|E] 스킬을 얻을 수 있습니다." #NT!
+  
+ rule_tactical_prowess_skill_cap_value: "#bold #difficulty_hard • 전술적 전투 • #!\nCap 기량 스킬 획득" #NT!
+ setting_tbatt_prowess_skill_cap_default_value: "31 기량 스킬 (기본값)" #NT!
+ setting_tbatt_prowess_skill_cap_default_value_desc: "#high 측면 사령관 중 한 명이 31 [prowess|E] 미만이면 더 숙련된 사령관을 제압하여 [prowess|E] 기술을 얻을 수 있습니다. (사령관 기량 차이 규칙에 따라 결정됨)" #NT!
+ setting_tbatt_prowess_skill_cap_value_27: "27 기량 스킬" #NT!
+ setting_tbatt_prowess_skill_cap_value_27_desc: "#high 측면 사령관 중 한 명이 27 [prowess|E] 미만이면 더 숙련된 사령관을 제압하여 [prowess|E] 기술을 얻을 수 있습니다. (사령관 기량 차이 규칙에 따라 결정됨)" #NT!
+ setting_tbatt_prowess_skill_cap_value_34: "34 기량 스킬 (기본값)" #NT!
+ setting_tbatt_prowess_skill_cap_value_34_desc: "#high 측면 사령관 중 한 명이 34 [prowess|E] 미만이면 더 숙련된 사령관을 제압하여 [prowess|E] 기술을 얻을 수 있습니다. (사령관 기량 차이 규칙에 따라 결정됨)" #NT!
+ setting_tbatt_prowess_skill_cap_value_37: "37 기량 스킬" #NT!
+ setting_tbatt_prowess_skill_cap_value_37_desc: "#high 측면 사령관 중 한 명이 37 [prowess|E] 미만이면 더 숙련된 사령관을 제압하여 [prowess|E] 기술을 얻을 수 있습니다. (사령관 기량 차이 규칙에 따라 결정됨)" #NT!
+ setting_tbatt_prowess_skill_cap_value_40: "40 기량 스킬" #NT!
+ setting_tbatt_prowess_skill_cap_value_40_desc: "#high 측면 사령관 중 한 명이 40 [prowess|E] 미만이면 더 숙련된 사령관을 제압하여 [prowess|E] 기술을 얻을 수 있습니다. (사령관 기량 차이 규칙에 따라 결정됨)" #NT!
+ setting_tbatt_prowess_skill_cap_value_100: "100 기량 스킬" #NT!
+ setting_tbatt_prowess_skill_cap_value_100_desc: "#high 측면 사령관 중 한 명이 100 [prowess|E] 미만이면 더 숙련된 사령관을 제압하여 [prowess|E] 기술을 얻을 수 있습니다. (사령관 기량 차이 규칙에 따라 결정됨)" #NT!
+  
+ rule_tactical_recruit_soldier_month_value: "#bold #difficulty_hard • 전술적 전투 • #!\Cooldown 군인 모집" #NT!
+ setting_tbatt_recruit_soldier_month_default_value: "3년(기본값)" #NT!
+ setting_tbatt_recruit_soldier_month_default_value_desc: "#high 기본적으로 중장병에서 대장을 모집하는 데 3년의 쿨타임이 있습니다." #NT!
+ setting_tbatt_recruit_soldier_event_value_value_6: "6개월" #NT!
+ setting_tbatt_recruit_soldier_event_value_value_6_desc:0 "#high There is a 6 month cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_12: "1년" #NT!
+ setting_tbatt_recruit_soldier_event_value_value_12_desc:0 "#high There is a 1 year cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_24: "2년" #NT!
+ setting_tbatt_recruit_soldier_event_value_value_24_desc:0 "#high There is a 2 year cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_48: "4년" #NT!
+ setting_tbatt_recruit_soldier_event_value_value_48_desc:0 "#high There is a 4 year cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_60: "5년" #NT!
+ setting_tbatt_recruit_soldier_event_value_value_60_desc:0 "#high There is a 5 year cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_84: "7년" #NT!
+ setting_tbatt_recruit_soldier_event_value_value_84_desc:0 "#high There is a 7 year cooldown to recruit captains 
+  
+ tact_left_commander_wounded_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] 부상 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_left_commander_wounded_enemy_duel_toast_desc: "전투에서 [left_flank_commander.GetHerHis]명의 병력을 이끄는 동안 [left_flank_commander.GetFirstNameNicknamed] 부상 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_left_commander_onelegged_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] 불구가 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_left_commander_onelegged_enemy_duel_toast_desc: "[left_flank_commander.GetFirstNameNicknamed]이 [enemy_knight_for_duel.GetFullNameNicknamed]의 다리를 잡고 전투에서 [left_flank_commander.GetHerHis]명의 군대를 이끌었습니다!" #NT!
+ tact_left_commander_oneeyed_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] 불구가 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_left_commander_oneeyed_enemy_duel_toast_desc: "[left_flank_commander.GetFirstNameNicknamed]이 [left_flank_commander.GetHerHis]명의 병력을 이끌고 전투를 벌이던 중 [enemy_knight_for_duel.GetFullNameNicknamed]의 눈을 사로잡았습니다!" #NT!
+ tact_left_commander_disfigured_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] 손상됨 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_left_commander_disfigured_enemy_duel_toast_desc: "전투에서 [left_flank_commander.GetHerHis] 군대를 이끄는 동안 [left_flank_commander.GetFirstNameNicknamed] 손상 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_left_commander_maimed_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] 불구가 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_left_commander_maimed_enemy_duel_toast_desc: "[left_flank_commander.GetFirstNameNicknamed]은 전투에서 [left_flank_commander.GetHerHis]명의 군대를 이끄는 동안 [enemy_knight_for_duel.GetFullNameNicknamed] 부상을 입었습니다!" #NT!
+ tact_left_commander_killed_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed]명이 죽었습니다 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_left_commander_killed_enemy_duel_toast_desc: "전투에서 [left_flank_commander.GetHerHis]명의 병력을 이끄는 동안 [left_flank_commander.GetFirstNameNicknamed]명이 [enemy_knight_for_duel.GetFullNameNicknamed]명 사망했습니다!" #NT!
+ tact_give_left_commander_prowess_toast: "[left_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] 능력이 향상되었습니다!" #NT!
+ tact_give_left_commander_prowess_toast_desc: "전투에서 [left_flank_commander.GetHerHis]개의 행동을 통해 [left_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal]개의 능력이 향상되고 [left_flank_commander.GetHerHis] 평판이 성장합니다!" #NT!
+  
+ tact_right_commander_wounded_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] 부상 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_right_commander_wounded_enemy_duel_toast_desc: "전투에서 [right_flank_commander.GetHerHis]명의 병력을 이끄는 동안 [right_flank_commander.GetFirstNameNicknamed] 부상 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_right_commander_onelegged_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] 불구가 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_right_commander_onelegged_enemy_duel_toast_desc: "[right_flank_commander.GetFirstNameNicknamed]이 [enemy_knight_for_duel.GetFullNameNicknamed]의 다리를 잡고 전투에서 [right_flank_commander.GetHerHis]명의 군대를 이끌었습니다!" #NT!
+ tact_right_commander_oneeyed_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] 불구가 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_right_commander_oneeyed_enemy_duel_toast_desc: "[right_flank_commander.GetFirstNameNicknamed]이 [right_flank_commander.GetHerHis]명의 병력을 이끌고 전투를 벌이던 중 [enemy_knight_for_duel.GetFullNameNicknamed]의 눈을 사로잡았습니다!" #NT!
+ tact_right_commander_disfigured_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] 손상됨 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_right_commander_disfigured_enemy_duel_toast_desc: "전투에서 [right_flank_commander.GetHerHis] 군대를 이끄는 동안 [right_flank_commander.GetFirstNameNicknamed] 손상 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_right_commander_maimed_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] 불구가 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_right_commander_maimed_enemy_duel_toast_desc: "[right_flank_commander.GetFirstNameNicknamed]은 전투에서 [right_flank_commander.GetHerHis]명의 군대를 이끄는 동안 [enemy_knight_for_duel.GetFullNameNicknamed] 부상을 입었습니다!" #NT!
+ tact_right_commander_killed_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed]명이 죽었습니다 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_right_commander_killed_enemy_duel_toast_desc: "전투에서 [right_flank_commander.GetHerHis]명의 병력을 이끄는 동안 [right_flank_commander.GetFirstNameNicknamed]명이 [enemy_knight_for_duel.GetFullNameNicknamed]명 사망했습니다!" #NT!
+ tact_give_right_commander_prowess_toast: "[right_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] 능력이 향상되었습니다!" #NT!
+ tact_give_right_commander_prowess_toast_desc: "전투에서 [right_flank_commander.GetHerHis]개의 행동을 통해 [right_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal]개의 능력이 향상되고 [right_flank_commander.GetHerHis] 평판이 성장합니다!" #NT!
+  
+ tact_center_commander_wounded_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] 부상 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_center_commander_wounded_enemy_duel_toast_desc: "전투에서 [center_flank_commander.GetHerHis]명의 병력을 이끄는 동안 [center_flank_commander.GetFirstNameNicknamed] 부상 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_center_commander_onelegged_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] 불구가 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_center_commander_onelegged_enemy_duel_toast_desc: "[center_flank_commander.GetFirstNameNicknamed]이 [enemy_knight_for_duel.GetFullNameNicknamed]의 다리를 잡고 전투에서 [center_flank_commander.GetHerHis]명의 군대를 이끌었습니다!" #NT!
+ tact_center_commander_oneeyed_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] 불구가 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_center_commander_oneeyed_enemy_duel_toast_desc: "[center_flank_commander.GetFirstNameNicknamed]이 [center_flank_commander.GetHerHis]명의 병력을 이끌고 전투를 벌이던 중 [enemy_knight_for_duel.GetFullNameNicknamed]의 눈을 사로잡았습니다!" #NT!
+ tact_center_commander_disfigured_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] 손상됨 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_center_commander_disfigured_enemy_duel_toast_desc: "전투에서 [center_flank_commander.GetHerHis] 군대를 이끄는 동안 [center_flank_commander.GetFirstNameNicknamed] 손상 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_center_commander_maimed_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] 불구가 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_center_commander_maimed_enemy_duel_toast_desc: "[center_flank_commander.GetFirstNameNicknamed]은 전투에서 [center_flank_commander.GetHerHis]명의 군대를 이끄는 동안 [enemy_knight_for_duel.GetFullNameNicknamed] 부상을 입었습니다!" #NT!
+ tact_center_commander_killed_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed]명이 죽었습니다 [enemy_knight_for_duel.GetFullNameNicknamed]!" #NT!
+ tact_center_commander_killed_enemy_duel_toast_desc: "전투에서 [center_flank_commander.GetHerHis]명의 병력을 이끄는 동안 [center_flank_commander.GetFirstNameNicknamed]명이 [enemy_knight_for_duel.GetFullNameNicknamed]명 사망했습니다!" #NT!
+ tact_give_center_commander_prowess_toast: "[center_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] 능력이 향상되었습니다!" #NT!
+ tact_give_center_commander_prowess_toast_desc: "전투에서 [center_flank_commander.GetHerHis]개의 행동을 통해 [center_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal]개의 능력이 향상되고 [center_flank_commander.GetHerHis] 평판이 성장합니다!" #NT!
+  
+  
+ tact_give_victor_commander_prowess_toast: "[sc_victor.GetFirstNameNicknamedPossessiveOrMyRegnal] 능력이 향상되었습니다!" #NT!
+ tact_give_victor_commander_prowess_toast_desc: "패배 후 단일 전투에서 [sc_loser.GetFirstNameNicknamed] [sc_victor.GetFirstNameNicknamedPossessiveOrMyRegnal] 능력이 향상되었습니다!" #NT!
+  

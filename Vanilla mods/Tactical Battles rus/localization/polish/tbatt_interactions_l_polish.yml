@@ -1,0 +1,10 @@
+﻿l_polish:
+ appoint_left_flank_interaction: "Wyznacz przywódcę lewej flanki"  #NT!
+ appoint_center_flank_interaction: "Wyznacz przywódcę flanki Centrum"  #NT!
+ appoint_right_flank_interaction: "Wyznacz przywódcę prawej flanki"  #NT!
+ left_flank_commander_tooltip: "Przydziel dowódcę, który poprowadzi lewą flankę twojej armii. Wykwalifikowany dowódca może zapewnić przewagę taktyczną jednostkom pod swoim dowództwem."  #NT!
+ center_flank_leader_tooltip: "Przydziel dowódcę, który będzie dowodził środkową flanką twojej armii. Wykwalifikowany dowódca może zapewnić przewagę taktyczną jednostkom pod swoim dowództwem."  #NT!
+ right_flank_leader_tooltip: "Przydziel dowódcę, który poprowadzi prawą flankę twojej armii. Wykwalifikowany dowódca może zapewnić przewagę taktyczną jednostkom pod swoim dowództwem."  #NT!
+  
+ remove_nick_or_flavor_from_character_interaction: "Usuń pseudonim lub tekst o smaku"  #NT!
+ remove_nick_or_flavor_from_character_desc: "Usuń pseudonim z Bitew Taktycznych lub tekst opisujący tę postać."  #NT!

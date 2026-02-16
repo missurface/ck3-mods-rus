@@ -1,0 +1,130 @@
+﻿l_spanish:
+  
+ tactical_forest_battle.1010.f: "Exploit [enemy_right_flank_commander.GetFirstNamePossessive] Ability"  <"Explotar la habilidad [enemy_right_flank_commander.GetFirstNamePossessive]">  #NT!
+ tactical_forest_battle.1010.f.success: "[left_flank_commander.GetFirstNamePossessiveOrMy|U] superior skill overwhelms [enemy_right_flank_commander.GetFirstNameNoTooltip]"  <"[left_flank_commander.GetFirstNamePossessiveOrMy|U] habilidad superior abruma [enemy_right_flank_commander.GetFirstNameNoTooltip]">  #NT!
+ tactical_forest_battle.1010.f.failure: "[enemy_commander.GetFirstName|U] sends any available forces to support [enemy_commander.GetHerHis] outmatched commander!"  <"[enemy_commander.GetFirstName|U] envía todas las fuerzas disponibles para apoyar a [enemy_commander.GetHerHis] comandante superado.">  #NT!
+  
+ tactical_forest_battle.1011.f: "Exploit [enemy_right_flank_commander.GetFirstNamePossessive] Ability"  <"Explotar la habilidad [enemy_right_flank_commander.GetFirstNamePossessive]">  #NT!
+ tactical_forest_battle.1011.f.success: "[left_flank_commander.GetFirstNamePossessiveOrMy|U] superior skill overwhelms [enemy_right_flank_commander.GetFirstNameNoTooltip]"  <"[left_flank_commander.GetFirstNamePossessiveOrMy|U] habilidad superior abruma [enemy_right_flank_commander.GetFirstNameNoTooltip]">  #NT!
+ tactical_forest_battle.1011.f.failure: "[enemy_commander.GetFirstName|U] sends any available forces to support [enemy_commander.GetHerHis] outmatched commander!"  <"[enemy_commander.GetFirstName|U] envía todas las fuerzas disponibles para apoyar a [enemy_commander.GetHerHis] comandante superado.">  #NT!
+  
+ tactical_forest_battle.1013.f: "Exploit [enemy_center_flank_commander.GetFirstNamePossessive] Ability"  <"Explotar la habilidad [enemy_center_flank_commander.GetFirstNamePossessive]">  #NT!
+ tactical_forest_battle.1013.f.success: "[center_flank_commander.GetFirstNamePossessiveOrMy|U] superior skill overwhelms [enemy_center_flank_commander.GetFirstNameNoTooltip]"  <"[center_flank_commander.GetFirstNamePossessiveOrMy|U] habilidad superior abruma [enemy_center_flank_commander.GetFirstNameNoTooltip]">  #NT!
+ tactical_forest_battle.1013.f.failure: "[enemy_commander.GetFirstName|U] sends any available forces to support [enemy_commander.GetHerHis] outmatched commander!"  <"[enemy_commander.GetFirstName|U] envía todas las fuerzas disponibles para apoyar a [enemy_commander.GetHerHis] comandante superado.">  #NT!
+  
+  
+ tactical_outnumbered_lands.tt: "Success in [battle_location.GetName]"  <"Éxito en [battle_location.GetName]">  #NT!
+ tactical_outnumbered_lands.tt.success: "[this.GetFirstName] was about to defeat [enemy_commander.GetFirstName] in [battle_location.GetName] despite beihng outnumbered! [this.GetFirstName] has proven to be a brilliant commander and has earned the respect of all who witnessed the battle."  <"¡[this.GetFirstName] estuvo a punto de derrotar a [enemy_commander.GetFirstName] en [battle_location.GetName] a pesar de estar superado en número! [this.GetFirstName] ha demostrado ser un comandante brillante y se ha ganado el respeto de todos los que presenciaron la batalla.">  #NT!
+  
+  # tactical_forest_battle.9416 - Harrying left flank, enemy bleeding 
+ tactical_forest_battle.9416.t: "¡Su izquierda está sangrando!"
+ tactical_forest_battle.9416.desc: "[enemy_commander.GetFirstNamePossessive] fuerzas se están tambaleando por nuestras tácticas de atropello y fuga. Su flanco izquierdo está gravemente agotado y sus heridos ralentizan sus movimientos. Debemos actuar rápidamente para aprovechar su debilidad antes de que puedan reorganizarse."
+ tactical_forest_battle.9416.a: "Coordina una carga con nuestras unidades de élite de crack."
+ tactical_forest_battle.9416.a.success: "¡Nuestras unidades de élite barren su flanco izquierdo y los desorganizan!"
+ tactical_forest_battle.9416.a.failure: "¡La carga no puede atravesar su obstinada defensa!"
+ tactical_forest_battle.9416.b: "Coordinar una carga con nuestros caballeros."
+ tactical_forest_battle.9416.b.success: "¡Nuestros caballeros chocan contra el enemigo debilitado que queda, enviándolos al caos!"
+ tactical_forest_battle.9416.b.failure: "¡El asalto choca contra el enemigo debilitado que queda, enviándolos al caos!"
+ tactical_forest_battle.9416.c: "¡La carga no puede atravesar su obstinada defensa!"
+ tactical_forest_battle.9416.c.success: "¡Nuestro avance por el flanco izquierdo dispersa al enemigo debilitado!"
+ tactical_forest_battle.9416.c.failure: "¡Mantienen la formación a pesar de sus pérdidas!"
+ tactical_forest_battle.9416.d: "Fingir una retirada y volverse contra ellos."
+ tactical_forest_battle.9416.d.success: "¡El enemigo cae en nuestro engaño y persigue un ataque inesperado!"
+ tactical_forest_battle.9416.d.failure: "¡¡Ven a través de nuestro engaño y mantienen su formación!!"
+ tactical_forest_battle.9416.e: "Presione la ventaja"
+ tactical_forest_battle.9416.e.success: "¡Su flanco izquierdo se está desmoronando bajo la inmensa presión!"
+ tactical_forest_battle.9416.e.failure: "¡Mantienen la formación a pesar de sus pérdidas!"
+  
+  
+  # tactical_forest_battle.9418 - Hit and run successful, enemy bleeding 
+ tactical_forest_battle.9418.t: "¡Su derecho está sangrando!"
+ tactical_forest_battle.9418.desc: "[enemy_commander.GetFirstNamePossessive] fuerzas se están tambaleando por nuestras tácticas de atropello y fuga. Su flanco derecho está gravemente agotado y sus heridos ralentizan sus movimientos. Debemos actuar rápidamente para aprovechar su debilidad antes de que puedan reorganizarse."
+ tactical_forest_battle.9418.a: "Coordina una carga con nuestras unidades de élite de crack."
+ tactical_forest_battle.9418.a.success: "¡Nuestras unidades de élite barren su flanco derecho y los desorganizan!"
+ tactical_forest_battle.9418.a.failure: "¡La carga no puede atravesar su obstinada defensa!"
+ tactical_forest_battle.9418.b: "Coordinar una carga con nuestros caballeros."
+ tactical_forest_battle.9418.b.success: "¡Nuestros caballeros chocan contra el enemigo debilitado y lo desorganizan!"
+ tactical_forest_battle.9418.b.failure: "¡El asalto se estrella contra la derecha enemiga debilitada y los desorganiza!"
+ tactical_forest_battle.9418.c: "Cargue su línea dispersa"
+ tactical_forest_battle.9418.c.success: "¡Nuestro avance por el flanco izquierdo dispersa al enemigo debilitado!"
+ tactical_forest_battle.9418.c.failure: "¡Mantienen la formación a pesar de sus pérdidas!"
+ tactical_forest_battle.9418.d: "Fingir una retirada y volverse contra ellos."
+ tactical_forest_battle.9418.d.success: "¡El enemigo cae en nuestro engaño y persigue un ataque inesperado!"
+ tactical_forest_battle.9418.d.failure: "¡¡Ven a través de nuestro engaño y mantienen su formación!!"
+ tactical_forest_battle.9418.e: "Presione la ventaja"
+ tactical_forest_battle.9418.e.success: "¡Su flanco derecho se está desmoronando bajo la inmensa presión!"
+ tactical_forest_battle.9418.e.failure: "¡Mantienen la formación a pesar de sus pérdidas!"
+  
+  # tactical_forest_battle.7320 - Failure event, enemy reorganizes and stands strong 
+ tactical_forest_battle.7320.t: "El enemigo se mantiene firme detrás de nuestras líneas"
+ tactical_forest_battle.7320.desc: "[enemy_commander.GetFirstNamePossessive] fuerzas se han reunido y reorganizado su línea detrás de la nuestra. Ahora están atrincherados más profundamente, de espaldas a nuestras líneas y su formación fortalecida. Debemos decidir si continuar presionándolos o cambiar nuestras tácticas."
+ tactical_forest_battle.7320.a: "Envía una carga con nuestras unidades de élite para atacar su flanco."
+ tactical_forest_battle.7320.a.success: "¡Nuestras unidades de crack los toman por sorpresa y barren sus líneas!"
+ tactical_forest_battle.7320.a.failure: "¡Nuestras unidades de crack no pueden atravesar su sólida defensa!"
+ tactical_forest_battle.7320.b: "Envía caballeros para atacar su flanco."
+ tactical_forest_battle.7320.b.success: "¡Nuestros caballeros chocan contra su flanco, rompiendo su formación!"
+ tactical_forest_battle.7320.b.failure: "¡Los caballeros son interceptados por las reservas enemigas!"
+ tactical_forest_battle.7320.c: "Romper las reservas centrales para aplastarles la retaguardia."
+ tactical_forest_battle.7320.c.success: "¡Nuestras reservas centrales chocan contra su retaguardia, provocando el caos!"
+ tactical_forest_battle.7320.c.failure: "¡Nuestras reservas centrales no pueden retirarse debido a un empujón repentino!"
+ tactical_forest_battle.7320.d: "Romper las reservas de derecha para aplastarles el trasero."
+ tactical_forest_battle.7320.d.success: "¡Nuestras reservas centrales chocan contra su retaguardia, provocando el caos!"
+ tactical_forest_battle.7320.d.failure: "¡Nuestras reservas centrales no pueden retirarse debido a un empujón repentino!"
+ tactical_forest_battle.7320.e: "Finge una retirada y ataca a los perseguidores."
+ tactical_forest_battle.7320.e.success: "¡El enemigo cae en nuestro engaño y persigue un ataque inesperado!"
+ tactical_forest_battle.7320.e.failure: "¡El enemigo se retira a nuestro centro expuesto!"
+  
+  
+  # tactical_forest_battle.7322 - Enemy attacks our depleted right flank 
+ tactical_forest_battle.7322.t: "El enemigo ataca el flanco derecho"
+ tactical_forest_battle.7322.desc: "[enemy_commander.GetFirstNamePossessive] ha reconocido nuestro flanco derecho debilitado y está lanzando un ataque. Sin nuestras reservas, tomamos una decisión crucial para mantener nuestro flanco derecho."
+ tactical_forest_battle.7322.a: "El flanco derecho se mantiene firme ante el asalto"
+ tactical_forest_battle.7322.a.success: "¡Nuestro flanco derecho se mantiene firme ante el ataque enemigo!"
+ tactical_forest_battle.7322.a.failure: "¡El flanco derecho se ve desbordado y empieza a flaquear!"
+ tactical_forest_battle.7322.b: "Envía caballeros para reforzar la derecha."
+ tactical_forest_battle.7322.b.success: "¡Caballeros frescos estabilizan el flanco derecho!"
+ tactical_forest_battle.7322.b.failure: "¡Los caballeros son interceptados antes de llegar a la derecha!"
+ tactical_forest_battle.7322.c: "Envía nuestras unidades de élite para reforzar el flanco derecho."
+ tactical_forest_battle.7322.c.success: "¡Nuestros refuerzos estabilizan el flanco derecho!"
+ tactical_forest_battle.7322.c.failure: "¡Nuestra derecha se desmorona a pesar de los refuerzos!"
+ tactical_forest_battle.7322.d: "Intenta retirarte y descolocar su flanco izquierdo mientras llegan refuerzos."
+ tactical_forest_battle.7322.d.success: "¡Su flanco izquierdo comienza a seguir nuestra retirada, exponiéndolos!"
+ tactical_forest_battle.7322.d.failure: "¡La derecha no puede retirarse bajo presión!"
+ tactical_forest_battle.7322.e: "Finge una retirada y ataca a los perseguidores."
+ tactical_forest_battle.7322.e.success: "¡El enemigo cae en nuestro engaño y persigue un ataque inesperado!"
+ tactical_forest_battle.7322.e.failure: "¡Ellos ven más allá de nuestro engaño y mantienen su formación!"
+  
+  
+ tactical_forest_battle.231.t: "Cargó nuestra falsa brecha"
+ tactical_forest_battle.231.desc: "[enemy_commander.GetFirstNameNoTooltip] mordió el anzuelo y cargó contra el hueco falso que creamos en nuestro flanco derecho. Su izquierda está ahora expuesta y vulnerable. Debemos actuar rápidamente para aprovechar esta oportunidad antes de que puedan recuperarse."
+ tactical_forest_battle.231.a: "Envía nuestras unidades de élite para cargar su expuesto flanco izquierdo."
+ tactical_forest_battle.231.a.success: "¡Nuestras unidades de élite están arrasando su flanco izquierdo, rompiendo su formación!"
+ tactical_forest_battle.231.a.failure: "¡Su derecha resiste nuestro ataque de élite!"
+ tactical_forest_battle.231.b: "Envía caballeros para romper su flanco izquierdo."
+ tactical_forest_battle.231.b.success: "[left_flank_commander.GetFullNameNicknamedOrMe] ¡carga y desordena su flanco!"
+ tactical_forest_battle.231.b.failure: "¡El asalto se estrella contra su flanco izquierdo y los desorganiza!"
+ tactical_forest_battle.231.c: "Cargas del flanco derecho para romper su formación."
+ tactical_forest_battle.231.c.success: "[right_flank_commander.GetFullNameNicknamedOrMe] ¡carga y desordena su flanco!"
+ tactical_forest_battle.231.c.failure: "¡Su izquierda se mantiene firme y se niega a quebrarse!"
+ tactical_forest_battle.231.d: "Realiza una retirada fingida y vuelve contra ellos."
+ tactical_forest_battle.231.d.success: "¡El enemigo cae en nuestro engaño y nos persigue!"
+ tactical_forest_battle.231.d.failure: "¡Ellos ven más allá de nuestro engaño y mantienen su formación!"
+ tactical_forest_battle.231.e: "Presione la ventaja"
+ tactical_forest_battle.231.e.success: "¡Los enemigos quedaron desmoronados bajo el implacable asalto!"
+ tactical_forest_battle.231.e.failure: "¡Las reservas enemigas llegan para apuntalar la línea!"
+ tactical_forest_battle.231.f: "Romper las reservas de la izquierda para encrillar"
+ tactical_forest_battle.231.f.success: "¡Nuestra izquierda se retira y está en posición de cercar al enemigo!"
+ tactical_forest_battle.231.f.failure: "¡Nuestras reservas de izquierda no pueden retirarse!"
+  
+ tactical_forest_battle.5907.t: "Nuestro centro está enrutando"
+ tactical_forest_battle.5907.desc: "¡Nuestro centro se está rompiendo! [enemy_commander.GetFirstNamePossessive] ha derrotado nuestro centro y todo el ejército está en peligro de colapsar. ¡Debemos actuar inmediatamente para evitar una catástrofe!"
+ tactical_forest_battle.5907.b: "Retirada de pantalla con contraataque"
+ tactical_forest_battle.5907.b.success: "¡El contraataque da tiempo para que nuestras tropas se consoliden!"
+ tactical_forest_battle.5907.b.failure: "¡El contraataque fracasa y la derrota continúa!"
+ tactical_forest_battle.5907.c: "Carga desesperada para derrotar a los que persiguen el flanco derecho derrotado."
+ tactical_forest_battle.5907.c.success: "¡Nuestra derecha logra escapar!"
+ tactical_forest_battle.5907.c.failure: "¡Nuestra carga es rechazada y la derrota continúa!"
+ tactical_forest_battle.5907.a: "Retirada a posiciones defensivas"
+ tactical_forest_battle.5907.a.success: "¡Conseguimos retroceder y establecer una nueva línea defensiva!"
+ tactical_forest_battle.5907.a.failure: "¡Nuestros hombres sufren grandes pérdidas!"
+  

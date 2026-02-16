@@ -1,0 +1,286 @@
+﻿l_japanese:
+  
+ # Huscarl 
+ trait_tbat_soldier_huscarl: "ハスカール船長"  #NT!
+ tbat_soldier_huscarl_desc: "この兵士は、連隊の戦闘での成功に貢献した後、ハスカールのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_huscarl_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ハスカールのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Landsknecht 
+ trait_tbat_soldier_landsknecht: "ランツクネヒト船長"  #NT!
+ tbat_soldier_landsknecht_desc: "この兵士は、連隊の戦闘での成功に貢献した後、ランツクネヒトのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_landsknecht_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ランツクネヒトのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Longbowmen 
+ trait_tbat_soldier_longbowmen: "長弓兵の船長"  #NT!
+ tbat_soldier_longbowmen_desc: "この兵士は、戦闘で連隊の成功に貢献した後、長弓兵のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_longbowmen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、長弓兵のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Goedendag 
+ trait_tbat_soldier_goedendag: "ゲーデンダグ船長"  #NT!
+ tbat_soldier_goedendag_desc: "この兵士は、連隊の戦闘での成功に貢献した後、ゲーデンダーグ民兵組織のエリート部隊から昇進した。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_goedendag_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ゲーデンダーグ民兵組織のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Gendarme 
+ trait_tbat_soldier_gendarme: "憲兵大尉"  #NT!
+ tbat_soldier_gendarme_desc: "この兵士は、連隊の戦闘での成功に貢献した後、憲兵隊のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_gendarme_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、憲兵隊のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Chasseur 
+ trait_tbat_soldier_chasseur: "猟師キャプテン"  #NT!
+ tbat_soldier_chasseur_desc: "この兵士は、連隊の戦闘での成功に貢献した後、エリート部隊である猟兵から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_chasseur_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、エリート部隊である猟兵から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Picchieri 
+ trait_tbat_soldier_picchieri: "ピッキエーリ キャプテン"  #NT!
+ tbat_soldier_picchieri_desc: "この兵士は、戦闘で連隊の成功に貢献した後、ピッキエーリのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_picchieri_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ピッキエーリのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Praetorian 
+ trait_tbat_soldier_praetorian: "プレトリアンキャプテン"  #NT!
+ tbat_soldier_praetorian_desc: "この兵士は、連隊の戦闘での成功に貢献した後、プレトリアンのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_praetorian_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、連隊の戦闘での成功に貢献した後、プレトリアンのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Caballero 
+ trait_tbat_soldier_caballero: "キャバレロ ​​キャプテン"  #NT!
+ tbat_soldier_caballero_desc: "この兵士は、戦闘で連隊の成功に貢献した後、カバレロスのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_caballero_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、カバレロスのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Cataphract 
+ trait_tbat_soldier_cataphract: "カタフラクト船長"  #NT!
+ tbat_soldier_cataphract_desc: "この兵士は、連隊の戦闘での成功に貢献した後、カタフラクトのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_cataphract_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、連隊の戦闘での成功に貢献した後、カタフラクトのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Monaspa 
+ trait_tbat_soldier_monaspa: "モナスパキャプテン"  #NT!
+ tbat_soldier_monaspa_desc: "この兵士は、連隊の戦闘での成功に貢献した後、モナスパのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_monaspa_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、連隊の戦闘での成功に貢献した後、モナスパのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Hobelar 
+ trait_tbat_soldier_hobelar: "ホベララーキャプテン"  #NT!
+ tbat_soldier_hobelar_desc: "この兵士は、連隊の戦闘での成功に貢献した後、ホベラーズのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_hobelar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ホベラーズのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Schiltron 
+ trait_tbat_soldier_schiltron: "シルトロン船長"  #NT!
+ tbat_soldier_schiltron_desc: "この兵士は、連隊の戦闘での成功に貢献した後、シルトロンのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_schiltron_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、シルトロンのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Metsanvartija 
+ trait_tbat_soldier_metsanvartija: "メツァンヴァルティヤ キャプテン"  #NT!
+ tbat_soldier_metsanvartija_desc: "この兵士は、連隊の戦闘での成功に貢献した後、メツァンヴァルティヤのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_metsanvartija_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、連隊の戦闘での成功に貢献した後、メツァンヴァルティヤのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Horse Archers 
+ trait_tbat_soldier_horse_archers: "射手隊長"  #NT!
+ tbat_soldier_horse_archers_desc: "この兵士は、連隊の戦闘での成功に貢献した後、射手のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、連隊の戦闘での成功に貢献した後、射手エリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Mubarizun 
+ trait_tbat_soldier_mubarizun: "ムバリズン船長"  #NT!
+ tbat_soldier_mubarizun_desc: "この兵士は、連隊の戦闘での成功に貢献した後、ムバリズンのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_mubarizun_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ムバリズンのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Ayyar 
+ trait_tbat_soldier_ayyar: "アイヤル船長"  #NT!
+ tbat_soldier_ayyar_desc: "この兵士は、戦闘で連隊の成功に貢献した後、アイヤルのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_ayyar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、アイヤルのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Druzhina 
+ trait_tbat_soldier_druzhina: "ドルジナ船長"  #NT!
+ tbat_soldier_druzhina_desc: "この兵士は、戦闘で連隊の成功に貢献した後、ドルジナのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_druzhina_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ドルジナのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Hussar 
+ trait_tbat_soldier_hussar: "軽騎兵大尉"  #NT!
+ tbat_soldier_hussar_desc: "この兵士は、連隊の戦闘での成功に貢献した後、軽騎兵のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_hussar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、軽騎兵のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Horn Warrior 
+ trait_tbat_soldier_horn_warrior: "角戦士キャプテン"  #NT!
+ tbat_soldier_horn_warrior_desc: "この兵士は、戦闘で連隊の成功に貢献した後、ホーン戦士のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_horn_warrior_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ホーン戦士のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Bush Hunter 
+ trait_tbat_soldier_bush_hunter: "ブッシュハンターの船長"  #NT!
+ tbat_soldier_bush_hunter_desc: "この兵士は、連隊の戦闘での成功に貢献した後、ブッシュ・ハンターのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_bush_hunter_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ブッシュ ハンターのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Shomer 
+ trait_tbat_soldier_shomer: "ショマー船長"  #NT!
+ tbat_soldier_shomer_desc: "この兵士は、戦闘で連隊の成功に貢献した後、ショマーのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_shomer_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ショマーのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Khandayat 
+ trait_tbat_soldier_khandayat: "カンダヤット船長"  #NT!
+ tbat_soldier_khandayat_desc: "この兵士は、戦闘で連隊の成功に貢献した後、カンダヤットのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_khandayat_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、カンダヤットのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Garudas 
+ trait_tbat_soldier_garudas: "ガルーダの船長"  #NT!
+ tbat_soldier_garudas_desc: "この兵士は、戦闘で連隊の成功に貢献した後、ガルーダのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_garudas_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ガルーダのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Mountaineer 
+ trait_tbat_soldier_mountaineer: "登山隊長"  #NT!
+ tbat_soldier_mountaineer_desc: "この兵士は、戦闘で連隊の成功に貢献した後、登山家のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_mountaineer_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、登山家のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Sahel Horsemen 
+ trait_tbat_soldier_sahel_horsemen: "サヘル騎兵隊長"  #NT!
+ tbat_soldier_sahel_horsemen_desc: "この兵士は、連隊の戦闘での成功に貢献した後、サヘル騎兵のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_sahel_horsemen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、サヘル騎兵のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Guinea Warrior 
+ trait_tbat_soldier_guinea_warrior: "ギニア戦士のキャプテン"  #NT!
+ tbat_soldier_guinea_warrior_desc: "この兵士は、連隊の戦闘での成功に貢献した後、ギニア戦士のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_guinea_warrior_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ギニア戦士のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Sarawit 
+ trait_tbat_soldier_sarawit: "サラウィット船長"  #NT!
+ tbat_soldier_sarawit_desc: "この兵士は、連隊の戦闘での成功に貢献した後、サラウィットのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_sarawit_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、連隊の戦闘での成功に貢献した後、サラウィットのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Abudrar 
+ trait_tbat_soldier_abudrar: "アブドラル船長"  #NT!
+ tbat_soldier_abudrar_desc: "この兵士は、戦闘で連隊の成功に貢献した後、アブドラルのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_abudrar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、アブドラルのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Zbrojnosh 
+ trait_tbat_soldier_zbrojnosh: "ズブロジノシュ キャプテン"  #NT!
+ tbat_soldier_zbrojnosh_desc: "この兵士は、連隊の戦闘での成功に貢献した後、ズブロジノシュのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_zbrojnosh_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ズブロジノシュのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Palace Guards 
+ trait_tbat_soldier_palace_guards: "宮殿衛兵隊長"  #NT!
+ tbat_soldier_palace_guards_desc: "この兵士は、連隊の戦闘での成功に貢献した後、宮殿衛兵のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_palace_guards_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、宮殿衛兵のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Shenbigong 
+ trait_tbat_soldier_shenbigong: "シェンビゴン船長"  #NT!
+ tbat_soldier_shenbigong_desc: "この兵士は、戦闘で連隊の成功に貢献した後、神碧公のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_shenbigong_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、神碧公のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Mulaththamun 
+ trait_tbat_soldier_mulaththamun: "ムラタムン船長"  #NT!
+ tbat_soldier_mulaththamun_desc: "この兵士は、戦闘で連隊の成功に貢献した後、ムラータムンのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_mulaththamun_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ムラータムンのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Archers of the Nile 
+ trait_tbat_soldier_archers_of_the_nile: "ナイルの射手 キャプテン"  #NT!
+ tbat_soldier_archers_of_the_nile_desc: "この兵士は、連隊の戦闘での成功に貢献した後、ナイルの射手のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_archers_of_the_nile_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、連隊の戦闘での成功に貢献した後、ナイルの射手のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Paiks 
+ trait_tbat_soldier_paiks: "パイクス船長"  #NT!
+ tbat_soldier_paiks_desc: "この兵士は、戦闘で連隊の成功に貢献した後、パイクスのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_paiks_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、パイクスのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Guanch Vaulter 
+ trait_tbat_soldier_guanch_vaulter: "グアンチ・ボールターのキャプテン"  #NT!
+ tbat_soldier_guanch_vaulter_desc: "この兵士は、連隊の戦闘での成功に貢献した後、グアンチ・ヴォルターのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_guanch_vaulter_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、連隊の戦闘での成功に貢献した後、グアンチ ヴォルターのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Ayrudzi 
+ trait_tbat_soldier_ayrudzi: "アイルジ船長"  #NT!
+ tbat_soldier_ayrudzi_desc: "この兵士は、戦闘で連隊の成功に貢献した後、アイルージのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_ayrudzi_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、アイルージのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Conrois 
+ trait_tbat_soldier_conrois: "コンロイス・キャプテン"  #NT!
+ tbat_soldier_conrois_desc: "この兵士は、連隊の戦闘での成功に貢献した後、コンロイスのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_conrois_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、コンロイスのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Akritai 
+ trait_tbat_soldier_akritai: "アクリタイのキャプテン"  #NT!
+ tbat_soldier_akritai_desc: "この兵士は、戦闘で連隊の成功に貢献した後、アクリタイのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_akritai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、アクリタイのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Ballistrai 
+ trait_tbat_soldier_ballistrai: "バリストライキャプテン"  #NT!
+ tbat_soldier_ballistrai_desc: "この兵士は、戦闘で連隊の成功に貢献した後、バリストライのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_ballistrai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、連隊の戦闘での成功に貢献した後、バリストライのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Skoutatoi 
+ trait_tbat_soldier_skoutatoi: "スクータトイ キャプテン"  #NT!
+ tbat_soldier_skoutatoi_desc: "この兵士は、戦闘で連隊の成功に貢献した後、スクウタトイのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_skoutatoi_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、スクウタトイのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Varangian Guards 
+ trait_tbat_soldier_varangian_guards: "ヴァリャン衛兵隊隊長"  #NT!
+ tbat_soldier_varangian_guards_desc: "この兵士は、連隊の戦闘での成功に貢献した後、ヴァリャン近衛兵のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_varangian_guards_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、連隊の戦闘での成功に貢献した後、ヴァリャン近衛兵のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Handpicked Faithful 
+ trait_tbat_soldier_handpicked_faithful: "厳選された忠実なキャプテン"  #NT!
+ tbat_soldier_handpicked_faithful_desc: "この兵士は、連隊の戦闘での成功に貢献した後、厳選された忠実なエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_handpicked_faithful_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、連隊の戦闘での成功に貢献した後、厳選された忠実なエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Fire Lancers 
+ trait_tbat_soldier_fire_lancers: "ファイアーランサーズキャプテン"  #NT!
+ tbat_soldier_fire_lancers_desc: "この兵士は、連隊の戦闘での成功に貢献した後、消防槍士のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_fire_lancers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、連隊の戦闘での成功に貢献した後、ファイア ランサーのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Gakgung Archers 
+ trait_tbat_soldier_gakgung_archers: "ガクンアーチャーズキャプテン"  #NT!
+ tbat_soldier_gakgung_archers_desc: "この兵士は、連隊の戦闘での成功に貢献した後、学宮射手のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_gakgung_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ガクグン射手のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Ballista Elephant 
+ trait_tbat_soldier_ballista_elephant: "バリスタエレファントキャプテン"  #NT!
+ tbat_soldier_ballista_elephant_desc: "この兵士は、連隊の戦闘での成功に貢献した後、バリスタ エレファンツのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_ballista_elephant_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、連隊の戦闘での成功に貢献した後、バリスタ エレファンツのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Pesilat Warriors 
+ trait_tbat_soldier_pesilat_warriors: "ペシラット ウォリアーズ キャプテン"  #NT!
+ tbat_soldier_pesilat_warriors_desc: "この兵士は、連隊の戦闘での成功に貢献した後、ペシラット戦士のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_pesilat_warriors_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ペシラット戦士のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Samurai 
+ trait_tbat_soldier_samurai: "サムライキャプテン"  #NT!
+ tbat_soldier_samurai_desc: "この兵士は、戦闘で連隊の成功に貢献した後、武士のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_samurai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、武士のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Japanese Horse Archers 
+ trait_tbat_soldier_japanese_horse_archers: "日本の射手大尉"  #NT!
+ tbat_soldier_japanese_horse_archers_desc: "この兵士は、連隊の戦闘での成功に貢献した後、日本の射馬のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_japanese_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、連隊の戦闘での成功に貢献した後、日本の射手エリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Emishi Horse Archers 
+ trait_tbat_soldier_emishi_horse_archers: "蝦夷の射手隊長"  #NT!
+ tbat_soldier_emishi_horse_archers_desc: "この兵士は、連隊の戦闘での成功に貢献した後、蝦夷騎馬射手のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_emishi_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、蝦夷騎馬射手のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Warrior Monks 
+ trait_tbat_soldier_warrior_monks: "戦士僧侶のキャプテン"  #NT!
+ tbat_soldier_warrior_monks_desc: "この兵士は、戦闘で連隊の成功に貢献した後、戦士僧侶のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_warrior_monks_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、戦士僧侶のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Zhanmadao Infantry 
+ trait_tbat_soldier_zhanmadao_infantry: "ザンマダオ歩兵大尉"  #NT!
+ tbat_soldier_zhanmadao_infantry_desc: "この兵士は、戦闘で連隊の成功に貢献した後、ザンマダオ歩兵のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_zhanmadao_infantry_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ザンマダオ歩兵のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Tiefutu 
+ trait_tbat_soldier_tiefutu: "ティエフトゥ船長"  #NT!
+ tbat_soldier_tiefutu_desc: "この兵士は、連隊の戦闘での成功に貢献した後、ティエフトゥのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_tiefutu_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ティエフトゥのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Black Armor Cavalry 
+ trait_tbat_soldier_black_armor_cavalry: "黒鎧騎兵隊隊長"  #NT!
+ tbat_soldier_black_armor_cavalry_desc: "この兵士は、戦闘で連隊の成功に貢献した後、ブラック アーマー騎兵隊のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_black_armor_cavalry_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ブラック アーマー騎兵隊のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Burenjia 
+ trait_tbat_soldier_burenjia: "ブレンジア船長"  #NT!
+ tbat_soldier_burenjia_desc: "この兵士は、連隊の戦闘での成功に貢献した後、ブレンジアのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_burenjia_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ブレンジアのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Rocket Carts 
+ trait_tbat_soldier_rocket_carts: "ロケットカートのキャプテン"  #NT!
+ tbat_soldier_rocket_carts_desc: "この兵士は、連隊の戦闘での成功に貢献した後、ロケットカートのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_rocket_carts_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、戦闘で連隊の成功に貢献した後、ロケット カートのエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+  
+ # Ordo Riders Horse Archers 
+ trait_tbat_soldier_ordo_riders_horse_archers: "オルド・ライダーズ・アーチャーズ・キャプテン"  #NT!
+ tbat_soldier_ordo_riders_horse_archers_desc: "この兵士は、連隊の戦闘での成功に貢献した後、オルド騎馬射手のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!
+ trait_tbat_soldier_ordo_riders_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] は、連隊の戦闘での成功に貢献した後、オルド ライダー射手隊のエリート部隊から昇進しました。戦いにおける彼らの存在は、周囲の人々にさらなる武功へのインスピレーションを与えます。"  #NT!

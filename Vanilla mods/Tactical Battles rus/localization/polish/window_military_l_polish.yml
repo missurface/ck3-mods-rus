@@ -1,0 +1,149 @@
+﻿l_polish:
+ MILITARY_POSITIONS_TAB: "Stopnie wojskowe"  #NT!
+ TBATT_TITLE_BANE_OF_DEVIL: "Zmora [Faith.DevilName]"  #NT!
+ TBATT_TITLE_VANQUISHER_OF_UNHOLY: "Pogromca bezbożnych"  #NT!
+ TBATT_TITLE_VANQUISHER_OF_WICKED: "Pogromca Złych"  #NT!
+ tbatt_title_protector_of_clergy: "Obrońca [GetPlayer.MakeScope.Char.GetFaith.AltPriestTermPlural|U]"  #NT!
+ tbatt_title_lords_wrath: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] Gniew"  #NT!
+ tbatt_title_lords_fury: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] Wściekłość"  #NT!
+ tbatt_title_lords_might: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] Może"  #NT!
+ tbatt_title_lords_vengeance: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] Zemsta"  #NT!
+ tbatt_title_lords_blade: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] Ostrze"  #NT!
+ tbatt_title_lords_shield: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] Tarcza"  #NT!
+ tbatt_title_lords_justice: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] Sprawiedliwość"  #NT!
+ tbatt_title_guardian_of_text: "Strażnik [GetPlayer.MakeScope.Char.GetFaith.ReligiousText|U]"  #NT!
+ tbatt_title_protector_of_text: "Obrońca [GetPlayer.MakeScope.Char.GetFaith.ReligiousText|U]"  #NT!
+ tbatt_title_blade_of_followers: "Ostrze [GetPlayer.MakeScope.Char.GetFaith.Custom|U]"  #NT!
+ tbatt_title_wrath_of_god: "Gniew Boży"  #NT!
+ tbatt_title_gods_fury: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNamePossessive|U] Wściekłość"  #NT!
+ tbatt_title_gods_wrath: "[GetPlayer.GetFaith.HighGodNamePossessive|U] Gniew"  #NT!
+ tbatt_title_blade_of_god: "Ostrze [GetPlayer.GetFaith.HighGodName|U]"  #NT!
+ tbatt_title_shield_of_god: "Tarcza [GetPlayer.GetFaith.HighGodName|U]"  #NT!
+ tbatt_title_sword_of_wargod: "Miecz [GetPlayer.GetFaith.WarGodName|U]"  #NT!
+ tbatt_title_blade_of_wargod: "Ostrze [GetPlayer.GetFaith.WarGodName|U]"  #NT!
+ tbatt_title_might_of_wargod: "Potęga [GetPlayer.GetFaith.WarGodName|U]"  #NT!
+ tbatt_title_wrath_of_wargod: "Gniew [GetPlayer.GetFaith.WarGodName|U]"  #NT!
+ tbatt_title_fury_of_wargod: "Furia [GetPlayer.GetFaith.WarGodName|U]"  #NT!
+ tbatt_title_blade_of_heaven: "Ostrze [GetPlayer.GetFaith.PositiveAfterLife|U]"  #NT!
+ tbatt_title_shield_of_heaven: "Tarcza [GetPlayer.GetFaith.PositiveAfterLife|U]"  #NT!
+ tbatt_title_bearer_of_symbol: "Posiadacz [GetPlayer.GetFaith.ReligiousSymbol|U]"  #NT!
+ tbatt_title_defender_of_symbol: "Obrońca [GetPlayer.GetFaith.ReligiousSymbol|U]"  #NT!
+ tbatt_title_protector_of_symbol: "Obrońca [GetPlayer.GetFaith.ReligiousSymbol|U]"  #NT!
+ tbatt_title_vanquisher_of_unholy: "Pogromca bezbożnych"  #NT!
+ tbatt_title_vanquisher_of_wicked: "Pogromca Złych"  #NT!
+ tbatt_title_slayer_of_unholy: "Pogromca Bezbożnych"  #NT!
+  
+ tbatt_military_title_fist: "Pięść [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+  
+  
+#  # Grant Position Tooltips 
+#  tbatt_grant_bane_of_devil: "Przyznaj pozycję Zguby Szatana"  #NT!
+#  tbatt_grant_vanquisher_of_unholy: "Daj pogromcy bezbożnych stanowisko"  #NT!
+#  tbatt_grant_vanquisher_of_wicked: "Przyznaj pozycję Pogromcy Złych"  #NT!
+#  tbatt_grant_protector_of_clergy: "Nadaj stanowisko Opiekuna Duchowieństwa"  #NT!
+#  tbatt_grant_lords_wrath: "Przyznaj stanowisko Gniewu Bożego"  #NT!
+#  tbatt_grant_lords_fury: "Przyznaj pozycję Furii Bogów"  #NT!
+#  tbatt_grant_lords_might: "Przyznaj pozycję Potęgi Bogów"  #NT!
+#  tbatt_grant_lords_vengeance: "Przyznaj stanowisko Zemsty Bogów"  #NT!
+#  tbatt_grant_lords_blade: "Przyznaj pozycję Ostrza Bogów"  #NT!
+#  tbatt_grant_lords_shield: "Przyznaj pozycję Tarczy Bogów"  #NT!
+#  tbatt_grant_lords_justice: "Przyznaj stanowisko Sprawiedliwości Boskiej"  #NT!
+#  tbatt_grant_guardian_of_text: "Przyznaj stanowisko Strażnika Pisma Świętego"  #NT!
+#  tbatt_grant_protector_of_text: "Przyznaj stanowisko Obrońcy Pisma Świętego"  #NT!
+#  tbatt_grant_blade_of_followers: "Przyznaj stanowisko Ostrza Katolików"  #NT!
+#  tbatt_grant_wrath_of_god: "Przyznaj pozycję Gniewu Bożego"  #NT!
+#  tbatt_grant_gods_fury: "Przyznaj pozycję Furii Boga"  #NT!
+#  tbatt_grant_gods_wrath: "Przyznaj stanowisko Gniewu Bożego"  #NT!
+#  tbatt_grant_blade_of_god: "Przyznaj pozycję Ostrze Boga"  #NT!
+#  tbatt_grant_shield_of_god: "Przyznaj pozycję Tarczy Boga"  #NT!
+#  tbatt_grant_sword_of_wargod: "Przyznaj pozycję Miecza Wargod"  #NT!
+#  tbatt_grant_blade_of_wargod: "Przyznaj pozycję Blade of Wargod"  #NT!
+#  tbatt_grant_might_of_wargod: "Przyznaj pozycję Potęgi Wargod"  #NT!
+#  tbatt_grant_wrath_of_wargod: "Przyznaj pozycję Wrath of Wargod"  #NT!
+#  tbatt_grant_fury_of_wargod: "Przyznaj pozycję Furii Wargod"  #NT!
+#  tbatt_grant_blade_of_heaven: "Przyznaj pozycję Niebiańskiemu Ostrzu"  #NT!
+#  tbatt_grant_shield_of_heaven: "Przyznaj pozycję Tarczy Niebios"  #NT!
+#  tbatt_grant_bearer_of_symbol: "Przyznaj stanowisko Nosiciela Krzyża"  #NT!
+#  tbatt_grant_defender_of_symbol: "Przyznaj stanowisko Obrońcy Krzyża"  #NT!
+#  tbatt_grant_protector_of_symbol: "Udziel Obrońcy Krzyża stanowiska"  #NT!
+  
+#  # Remove Position Tooltips 
+#  tbatt_remove_bane_of_devil: "Usuń zgubę szatana"  #NT!
+#  tbatt_remove_vanquisher_of_unholy: "Usuń Pogromcę Bezbożnych"  #NT!
+#  tbatt_remove_vanquisher_of_wicked: "Usuń Pogromcę Złych"  #NT!
+#  tbatt_remove_protector_of_clergy: "Usuń Protektora Duchowieństwa"  #NT!
+#  tbatt_remove_lords_wrath: "Usuń gniew Boży"  #NT!
+#  tbatt_remove_lords_fury: "Usuń gniew Boga"  #NT!
+#  tbatt_remove_lords_might: "Usuń Bożą Moc"  #NT!
+#  tbatt_remove_lords_vengeance: "Usuń zemstę Boga"  #NT!
+#  tbatt_remove_lords_blade: "Usuń Ostrze Boga"  #NT!
+#  tbatt_remove_lords_shield: "Usuń tarczę Boga"  #NT!
+#  tbatt_remove_lords_justice: "Usuń Bożą Sprawiedliwość"  #NT!
+#  tbatt_remove_guardian_of_text: "Usuń Strażnika Pisma Świętego"  #NT!
+#  tbatt_remove_protector_of_text: "Usuń Obrońcę Pisma Świętego"  #NT!
+#  tbatt_remove_blade_of_followers: "Usuń Ostrze Katolików"  #NT!
+#  tbatt_remove_wrath_of_god: "Usuń Gniew Boży"  #NT!
+#  tbatt_remove_gods_fury: "Usuń gniew Boga"  #NT!
+#  tbatt_remove_gods_wrath: "Usuń gniew Boży"  #NT!
+#  tbatt_remove_blade_of_god: "Usuń Ostrze Boga"  #NT!
+#  tbatt_remove_shield_of_god: "Usuń Tarczę Boga"  #NT!
+#  tbatt_remove_sword_of_wargod: "Usuń Miecz Wargod"  #NT!
+#  tbatt_remove_blade_of_wargod: "Usuń Blade of Wargod"  #NT!
+#  tbatt_remove_might_of_wargod: "Usuń Might of Wargod"  #NT!
+#  tbatt_remove_wrath_of_wargod: "Usuń Wrath of Wargod"  #NT!
+#  tbatt_remove_fury_of_wargod: "Usuń Furię Wargod"  #NT!
+#  tbatt_remove_blade_of_heaven: "Usuń Ostrze Niebios"  #NT!
+#  tbatt_remove_shield_of_heaven: "Usuń Tarczę Niebios"  #NT!
+#  tbatt_remove_bearer_of_symbol: "Usuń Nosiciela Krzyża"  #NT!
+#  tbatt_remove_defender_of_symbol: "Usuń Obrońcę Krzyża"  #NT!
+#  tbatt_remove_protector_of_symbol: "Usuń Obrońcę Krzyża"  #NT!
+  
+ # Header Position Tooltips 
+ tbatt_header_bane_of_devil: "Zmora szatana"  #NT!
+ tbatt_header_vanquisher_of_unholy: "Pogromca bezbożnych"  #NT!
+ tbatt_header_vanquisher_of_wicked: "Pogromca Złych"  #NT!
+ tbatt_header_protector_of_clergy: "Przykłady:\nObrońca starszych\nObrońca duchowieństwa\nObrońca Sanghi"  #NT!
+ guardian_of_the_clergy_tt: "Przykłady:\nStrażnik starszych\nStrażnik duchownych\nStrażnik Sanghi"  #NT!
+ tbatt_header_custodian_of_clergy: "Przykłady:\nKustosz Starszych\nKustosz Duchowieństwa\nKustosz Sanghi"  #NT!
+ tbatt_header_lords_wrath: "Przykłady oparte na wierze:\nGniew Pana\nGniew Wszechojca\nGniew Oświeconych\nGniew Zbawicieli\nGniew Ojca Niebieskiego"  #NT!
+ tbatt_header_lords_fury: "Przykłady oparte na wierze:\nGniew Pana\nWściekłość Wszechojca\nWściekłość Oświeconych\nWściekłość Zbawicieli\nWściekłość Ojca Niebieskiego"  #NT!
+ tbatt_header_lords_might: "Przykłady oparte na wierze:\nPotęga Pana\nPotęga Wszechojca\nPotęga Oświeconych\nPotęga Zbawicieli\nPotęga Ojca Niebieskiego"  #NT!
+ tbatt_header_lords_vengeance: "Przykłady oparte na wierze:\nZemsta Pana\nZemsta Wszechojca\nZemsta Oświeconych\nZemsta Zbawicieli\nZemsta Ojca Niebieskiego"  #NT!
+ tbatt_header_lords_blade: "Przykłady oparte na wierze:\nOstrze Pana\nOstrze Wszechojca\nOstrze Oświeconych\nOstrze Zbawiciela\nOstrze Ojca Niebieskiego"  #NT!
+ tbatt_header_lords_shield: "Przykłady oparte na wierze:\nTarcza Pana\nTarcza Wszechojca\nTarcza Oświeconych\nTarcza Zbawicieli\nTarcza Ojca Niebieskiego"  #NT!
+ tbatt_header_lords_justice: "Przykłady oparte na wierze:\nSprawiedliwość Pana\nSprawiedliwość Wszechojca\nSprawiedliwość Oświeconych\nSprawiedliwość Zbawicieli\nSprawiedliwość Ojca Niebieskiego"  #NT!
+ tbatt_header_guardian_of_text: "Przykłady oparte na wierze:\nSprawiedliwość Pana\nSprawiedliwość Wszechojca\nSprawiedliwość Oświeconych\nSprawiedliwość Zbawicieli\nSprawiedliwość Ojca Niebieskiego"  #NT!
+ tbatt_header_protector_of_text: "Przykłady oparte na wierze:\nObrońca Pisma Świętego\nObrońca bohaterskich sag\nObrońca wielkich legend"  #NT!
+ tbatt_header_blade_of_followers: "Przykłady oparte na wierze:\nOstrze chrześcijan\nOstrze Tengriystów\nOstrze Astaruan"  #NT!
+ tbatt_header_wrath_of_god: "Przykłady oparte na wierze:\nGniew Boży\nGniew Odyna\nGniew Pana\nGniew Allaha\nGniew Różdżki"  #NT!
+ tbatt_header_gods_fury: "Przykłady oparte na wierze:\nGniew Boga\nWściekłość Odyna\nWściekłość Pana\nWściekłość Allaha\nWściekłość Roda"  #NT!
+ tbatt_header_gods_wrath: "Przykłady oparte na wierze:\nGniew Boga\nGniew Odyna\nGniew Pana\nGniew Allaha\nGniew Roda"  #NT!
+ tbatt_header_blade_of_god: "Przykłady oparte na wierze:\nOstrze Boga\nOstrze Odyna\nOstrze Pana\nOstrze Allaha\nOstrze Różdżki"  #NT!
+ tbatt_header_shield_of_god: "Przykłady oparte na wierze:\nTarcza Boga\nTarcza Odyna\nTarcza Pana\nTarcza Allaha\nTarcza Różdżki"  #NT!
+ tbatt_header_sword_of_wargod: "Przykłady oparte na wierze:\nMiecz św. Jerzego\nMiecz Týra\nMiecz Hadúra\nMiecz Allaha\nMiecz Yeshe Walmo\nMiecz Jagganatha"  #NT!
+ tbatt_header_blade_of_wargod: "Przykłady oparte na wierze:\nOstrze św. Jerzego\nOstrze Týra\nOstrze Hadúra\nOstrze Allaha\nOstrze Yeshe Walmo\nOstrze Jagganath"  #NT!
+ tbatt_header_might_of_wargod: "Przykłady oparte na wierze:\nPotęga św. Jerzego\nPotęga Týra\nPotęga Hadúra\nPotęga Allaha\nPotęga Yeshe Walmo\nPotęga Jagganath"  #NT!
+ tbatt_header_wrath_of_wargod: "Przykłady oparte na wierze:\nGniew św. Jerzego\nGniew Týra\nGniew Hadúra\nGniew Allaha\nGniew Yeshe Walmo\nGniew Jagganatha"  #NT!
+ tbatt_header_fury_of_wargod: "Przykłady oparte na wierze:\nWściekłość św. Jerzego\nWściekłość Týra\nWściekłość Hadúra\nWściekłość Allaha\nWściekłość Yeshe Walmo\nWściekłość Jagganatha"  #NT!
+ tbatt_header_blade_of_heaven: "Przykłady oparte na wierze:\nOstrze Niebios\nOstrze Walhalli\nOstrze Wiecznie Błękitnego Nieba\nOstrze Svargi"  #NT!
+ tbatt_header_shield_of_heaven: "Przykłady oparte na wierze:\nTarcza Niebios\nTarcza Walhalli\nTarcza Wiecznie Błękitnego Nieba\nTarcza Svargi"  #NT!
+ tbatt_header_bearer_of_symbol: "Przykłady oparte na wierze:\nNosiciel krzyża\nNosiciel Valknut\nNosiciel Om\nNosiciel krzyża światła\nNosiciel Dharmachakry\nNosiciel Shahady"  #NT!
+ tbatt_header_defender_of_symbol: "Przykłady oparte na wierze:\nObrońca Krzyża\nObrońca Valknut\nObrońca Om\nObrońca Krzyża Światła\nObrońca Dharmachakry\nObrońca Shahady"  #NT!
+ tbatt_header_protector_of_symbol: "Przykłady oparte na wierze:\nObrońca Krzyża\nObrońca Valknut\nObrońca Om\nObrońca Krzyża Światła\nObrońca Dharmachakry\nObrońca Shahady"  #NT!
+  
+ bane_of_infidels_tt: "Przykłady oparte na wierze:\nZmora niewiernych\nZmora outsiderów\nZmora barbarzyńców\nZmora pogan"  #NT!
+ vanq_of_infidels_tt: "Przykłady oparte na wierze:\nPogromca niewiernych\nPogromca obcych\nPogromca barbarzyńców\nPogromca pogan"  #NT!
+ conq_of_infidels_tt: "Przykłady oparte na wierze:\nPogromca niewiernych\nPogromca outsiderów\nPogromca barbarzyńców\nPogromca pogan"  #NT!
+ blade_of_catholics_tt: "Przykłady oparte na wierze:\nOstrze katolików\nOstrze Maturidis\nOstrze Tengriystów\nOstrze Muwalladis"  #NT!
+  
+ learn_commander_trait.0005.a: "Niewierny"  #NT!
+ learn_commander_trait.0005.b: "Poganie"  #NT!
+ learn_commander_trait.0005.c: "Osoby z zewnątrz"  #NT!
+ learn_commander_trait.0005.d: "Barbaria"  #NT!
+  
+ tactical_training_events.01.t: "Wybierz swój kolor"  #NT!
+ tactical_training_events.02.t: "Wybierz swoje zwierzę"  #NT!
+ tactical_training_events.03.t: "Kim są twoi wrogowie?"  #NT!
+ tactical_training_events.1101.desc: "Jakiego koloru jesteś?"  #NT!
+ tactical_training_events.1102.desc: "Jakim zwierzęciem jesteś?"  #NT!
+ tactical_training_events.1103.desc: "Kim są twoi wrogowie?"  #NT!

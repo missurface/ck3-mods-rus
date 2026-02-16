@@ -1,0 +1,347 @@
+﻿l_polish:
+  
+  
+ rule_tactical_modifier_duration: "#bold #difficulty_hard • Bitwy taktyczne • #!\nDuration wzmocnień/osłabień uzyskanych w wyniku udanych ruchów"  #NT!
+ setting_tbatt_mod_length_8: "8 dni"  #NT!
+ setting_tbatt_mod_length_8_desc: "#high Czas trwania wzmocnień/osłabień z ruchów jest ustawiony na 8 dni."  #NT!
+ setting_tbatt_mod_length_10: "10 dni"  #NT!
+ setting_tbatt_mod_length_10_desc: "#high Czas trwania wzmocnień/osłabień z ruchów jest ustawiony na 10 dni."  #NT!
+ setting_tbatt_mod_length_12: "12 dni"  #NT!
+ setting_tbatt_mod_length_12_desc: "#high Czas trwania wzmocnień/osłabień z ruchów jest ustawiony na 12 dni."  #NT!
+ setting_tbatt_mod_length_15: "15 dni"  #NT!
+ setting_tbatt_mod_length_15_desc: "#high Czas trwania wzmocnień/osłabień z ruchów jest ustawiony na 15 dni."  #NT!
+ setting_tbatt_mod_length_18: "18 dni"  #NT!
+ setting_tbatt_mod_length_18_desc: "#high Czas trwania wzmocnień/osłabień z ruchów jest ustawiony na 18 dni."  #NT!
+ setting_tbatt_mod_length_20: "20 dni"  #NT!
+ setting_tbatt_mod_length_20_desc: "#high Czas trwania wzmocnień/osłabień z ruchów jest ustawiony na 20 dni."  #NT!
+ setting_tbatt_mod_length_22: "22 dni"  #NT!
+ setting_tbatt_mod_length_22_desc: "#high Czas trwania wzmocnień/osłabień z ruchów jest ustawiony na 22 dni."  #NT!
+ setting_tbatt_mod_length_25: "25 dni"  #NT!
+ setting_tbatt_mod_length_25_desc: "#high Czas trwania wzmocnień/osłabień z ruchów jest ustawiony na 25 dni."  #NT!
+ setting_tbatt_mod_length_30: "30 dni"  #NT!
+ setting_tbatt_mod_length_30_desc: "#high Czas trwania wzmocnień/osłabień z ruchów jest ustawiony na 30 dni."  #NT!
+ setting_tbatt_default_mod_length: "20 dni (domyślnie)"  #NT!
+ setting_tbatt_default_mod_length_desc: "#high Czas trwania wzmocnień/osłabień z ruchów jest ustawiony na domyślnie 20 dni."  #NT!
+  
+ # Router Modifier Duration Rule 
+ rule_tactical_router_modifier_duration: "#bold #difficulty_hard • Bitwy taktyczne • #!\nDuration modyfikatorów rozbitej armii"  #NT!
+ setting_tbatt_router_mod_length_8: "8 dni"  #NT!
+ setting_tbatt_router_mod_length_8_desc: "#high Negatywne skutki rozbitych armii trwają 8 dni."  #NT!
+ setting_tbatt_router_mod_length_10: "10 dni"  #NT!
+ setting_tbatt_router_mod_length_10_desc: "#high Negatywne skutki rozbitych armii trwają 10 dni."  #NT!
+ setting_tbatt_router_mod_length_12: "12 dni"  #NT!
+ setting_tbatt_router_mod_length_12_desc: "#high Negatywne skutki rozbitych armii trwają 12 dni."  #NT!
+ setting_tbatt_router_mod_length_18: "18 dni"  #NT!
+ setting_tbatt_router_mod_length_18_desc: "#high Negatywne skutki rozbitych armii trwają 18 dni."  #NT!
+ setting_tbatt_router_mod_length_20: "20 dni"  #NT!
+ setting_tbatt_router_mod_length_20_desc: "#high Negatywne skutki rozbitych armii trwają 20 dni."  #NT!
+ setting_tbatt_router_mod_length_22: "22 dni"  #NT!
+ setting_tbatt_router_mod_length_22_desc: "#high Negatywne skutki rozbitych armii trwają 22 dni."  #NT!
+ setting_tbatt_router_mod_length_25: "25 dni"  #NT!
+ setting_tbatt_router_mod_length_25_desc: "#high Negatywne skutki rozbitych armii trwają 25 dni."  #NT!
+ setting_tbatt_router_mod_length_30: "30 dni"  #NT!
+ setting_tbatt_router_mod_length_30_desc: "#high Negatywne skutki rozbitych armii trwają 30 dni."  #NT!
+ setting_tbatt_router_default_mod_length: "15 dni (domyślnie)"  #NT!
+ setting_tbatt_router_default_mod_length_desc: "#high Negatywne skutki rozbitych armii trwają domyślnie 15 dni."  #NT!
+  
+ # Reserve Modifier Duration Rule 
+ rule_tactical_reserve_modifier_duration: "#bold #difficulty_hard • Bitwy taktyczne • #!\nDuration modyfikatorów walki rezerw"  #NT!
+ setting_tbatt_reserve_mod_length_8: "8 dni"  #NT!
+ setting_tbatt_reserve_mod_length_8_desc: "#high Premie za walkę z rezerwą trwają 8 dni."  #NT!
+ setting_tbatt_reserve_mod_length_12: "12 dni"  #NT!
+ setting_tbatt_reserve_mod_length_12_desc: "#high Premie za walkę z rezerwą trwają 12 dni."  #NT!
+ setting_tbatt_reserve_mod_length_15: "15 dni"  #NT!
+ setting_tbatt_reserve_mod_length_15_desc: "#high Premie za walkę z rezerwą trwają 15 dni."  #NT!
+ setting_tbatt_reserve_mod_length_18: "18 dni"  #NT!
+ setting_tbatt_reserve_mod_length_18_desc: "#high Premie za walkę z rezerwą trwają 18 dni."  #NT!
+ setting_tbatt_reserve_mod_length_20: "20 dni"  #NT!
+ setting_tbatt_reserve_mod_length_20_desc: "#high Premie za walkę z rezerwą trwają 20 dni."  #NT!
+ setting_tbatt_reserve_mod_length_22: "22 dni"  #NT!
+ setting_tbatt_reserve_mod_length_22_desc: "#high Premie za walkę z rezerwą trwają 22 dni."  #NT!
+ setting_tbatt_reserve_mod_length_25: "25 dni"  #NT!
+ setting_tbatt_reserve_mod_length_25_desc: "#high Premie za walkę z rezerwą trwają 25 dni."  #NT!
+ setting_tbatt_reserve_mod_length_30: "30 dni"  #NT!
+ setting_tbatt_reserve_mod_length_30_desc: "#high Premie za walkę z rezerwą trwają 30 dni."  #NT!
+ setting_tbatt_reserve_default_mod_length: "Domyślny (10 dni)"  #NT!
+ setting_tbatt_reserve_default_mod_length_desc: "#high Premie za walkę z rezerwą trwają domyślnie 10 dni."  #NT!
+  
+ # Encircled Modifier Duration Rule 
+ rule_tactical_encircled_modifier_duration: "#bold #difficulty_hard • Bitwy taktyczne • #!\nDuration modyfikatorów okrążonej armii"  #NT!
+ setting_tbatt_encircled_mod_length_8: "8 dni"  #NT!
+ setting_tbatt_encircled_mod_length_8_desc: "#high Negatywne skutki okrążonej armii trwają 8 dni."  #NT!
+ setting_tbatt_encircled_mod_length_10: "10 dni"  #NT!
+ setting_tbatt_encircled_mod_length_10_desc: "#high Negatywne skutki armii okrążonej trwają 10 dni."  #NT!
+ setting_tbatt_encircled_mod_length_12: "12 dni"  #NT!
+ setting_tbatt_encircled_mod_length_12_desc: "#high Negatywne skutki okrążonej armii trwają 12 dni."  #NT!
+ setting_tbatt_encircled_mod_length_15: "15 dni (domyślnie)"  #NT!
+ setting_tbatt_encircled_mod_length_15_desc: "#high Negatywne skutki armii okrążonej trwają 15 dni."  #NT!
+ setting_tbatt_encircled_mod_length_18: "18 dni"  #NT!
+ setting_tbatt_encircled_mod_length_18_desc: "#high Negatywne skutki okrążonej armii trwają 18 dni."  #NT!
+ setting_tbatt_encircled_mod_length_20: "20 dni"  #NT!
+ setting_tbatt_encircled_mod_length_20_desc: "#high Negatywne skutki okrążonej armii trwają 20 dni."  #NT!
+ setting_tbatt_encircled_mod_length_22: "22 dni"  #NT!
+ setting_tbatt_encircled_mod_length_22_desc: "#high Negatywne skutki armii okrążonej trwają 22 dni."  #NT!
+ setting_tbatt_encircled_mod_length_25: "25 dni"  #NT!
+ setting_tbatt_encircled_mod_length_25_desc: "#high Negatywne skutki okrążonej armii trwają 25 dni."  #NT!
+ setting_tbatt_encircled_mod_length_30: "30 dni"  #NT!
+ setting_tbatt_encircled_mod_length_30_desc: "#high Negatywne skutki okrążonej armii trwają 30 dni."  #NT!
+ setting_tbatt_encircled_default_mod_length: "Domyślny (15 dni)"  #NT!
+ setting_tbatt_encircled_default_mod_length_desc: "#high Negatywne skutki armii okrążonej trwają domyślnie 15 dni."  #NT!
+  
+ # Commander Switched Modifier Duration Rule 
+ rule_tactical_commander_switched_modifier_duration: "#bold #difficulty_hard • Bitwy taktyczne • #!\nDuration osłabień zmienionych przez dowódcę"  #NT!
+ setting_tbatt_commander_switched_mod_length_5: "5 dni"  #NT!
+ setting_tbatt_commander_switched_mod_length_5_desc: "#high Negatywne skutki zmiany dowódcy trwają 5 dni."  #NT!
+ setting_tbatt_commander_switched_mod_length_6: "6 dni"  #NT!
+ setting_tbatt_commander_switched_mod_length_6_desc: "#high Negatywne skutki zmiany dowódcy trwają 6 dni."  #NT!
+ setting_tbatt_commander_switched_mod_length_7: "7 dni"  #NT!
+ setting_tbatt_commander_switched_mod_length_7_desc: "#high Negatywne skutki zmiany dowódcy trwają 7 dni."  #NT!
+ setting_tbatt_commander_switched_mod_length_8: "8 dni"  #NT!
+ setting_tbatt_commander_switched_mod_length_8_desc: "#high Negatywne skutki zmiany dowódcy trwają 8 dni."  #NT!
+ setting_tbatt_commander_switched_mod_length_9: "9 dni"  #NT!
+ setting_tbatt_commander_switched_mod_length_9_desc: "#high Negatywne skutki zmiany dowódcy trwają 9 dni."  #NT!
+ setting_tbatt_commander_switched_mod_length_12: "12 dni"  #NT!
+ setting_tbatt_commander_switched_mod_length_12_desc: "#high Negatywne skutki zmiany dowódcy trwają 12 dni."  #NT!
+ setting_tbatt_commander_switched_mod_length_15: "15 dni"  #NT!
+ setting_tbatt_commander_switched_mod_length_15_desc: "#high Negatywne skutki zmiany dowódcy trwają 15 dni."  #NT!
+ setting_tbatt_commander_switched_default_mod_length: "Domyślny (10 dni)"  #NT!
+ setting_tbatt_commander_switched_default_mod_length_desc: "#high Negatywne skutki zmiany dowódcy trwają domyślnie 10 dni"  #NT!
+  
+ # Counterattack Modifier Duration Rule 
+ rule_tactical_counterattack_modifier_duration: "#bold #difficulty_hard • Bitwy taktyczne • #!\nDuration modyfikatorów kontrataku"  #NT!
+ setting_tbatt_counterattack_mod_length_8: "8 dni"  #NT!
+ setting_tbatt_counterattack_mod_length_8_desc: "#high Wzmocnienia kontrataku trwają 8 dni."  #NT!
+ setting_tbatt_counterattack_mod_length_12: "12 dni"  #NT!
+ setting_tbatt_counterattack_mod_length_12_desc: "#high Wzmocnienia kontrataku trwają 10 dni."  #NT!
+ setting_tbatt_counterattack_mod_length_10: "10 dni"  #NT!
+ setting_tbatt_counterattack_mod_length_10_desc: "#high Wzmocnienia kontrataku trwają 15 dni."  #NT!
+ setting_tbatt_counterattack_mod_length_15: "15 dni"  #NT!
+ setting_tbatt_counterattack_mod_length_15_desc: "#high Wzmocnienia kontrataku trwają 15 dni."  #NT!
+ setting_tbatt_counterattack_mod_length_18: "18 dni"  #NT!
+ setting_tbatt_counterattack_mod_length_18_desc: "#high Wzmocnienia kontrataku trwają 18 dni."  #NT!
+ setting_tbatt_counterattack_mod_length_20: "20 dni"  #NT!
+ setting_tbatt_counterattack_mod_length_20_desc: "#high Wzmocnienia kontrataku trwają 20 dni."  #NT!
+ setting_tbatt_counterattack_mod_length_22: "22 dni"  #NT!
+ setting_tbatt_counterattack_mod_length_22_desc: "#high Wzmocnienia kontrataku trwają 22 dni."  #NT!
+ setting_tbatt_counterattack_mod_length_25: "25 dni"  #NT!
+ setting_tbatt_counterattack_mod_length_25_desc: "#high Wzmocnienia kontrataku trwają 25 dni."  #NT!
+ setting_tbatt_counterattack_mod_length_30: "30 dni"  #NT!
+ setting_tbatt_counterattack_mod_length_30_desc: "#high Wzmocnienia kontrataku trwają 30 dni."  #NT!
+ setting_tbatt_counterattack_default_mod_length: "Domyślny (10 dni)"  #NT!
+ setting_tbatt_counterattack_default_mod_length_desc: "#high Wzmocnienia kontrataku trwają domyślnie 10 dni."  #NT!
+  
+ # Martial Skill Increase Value Rule 
+ rule_tactical_martial_increase_skill_value: "#bold #difficulty_hard • Bitwy taktyczne • #!\nMax Wzrost umiejętności walki"  #NT!
+ setting_tbatt_martial_skill_increase_default_value: "3 Walka (domyślnie)"  #NT!
+ setting_tbatt_martial_skill_increase_default_value_desc: "#high Dowódcy mają szansę (w oparciu o „Szansę na wzrost umiejętności”) na zdobycie maksymalnie 3 [martial|E] punktów umiejętności za rozbicie flanki bardziej utalentowanego dowódcy."  #NT!
+ setting_tbatt_martial_skill_increase_value_1: "1 Martial"  #NT!
+ setting_tbatt_martial_skill_increase_value_1_desc: "#high Dowódcy mają szansę w oparciu o „Szansę na wzrost umiejętności” na zdobycie 1 [martial|E] punktów umiejętności w wyniku rozbicia flanki bardziej utalentowanego dowódcy."  #NT!
+ setting_tbatt_martial_skill_increase_value_2: "2 Martial"  #NT!
+ setting_tbatt_martial_skill_increase_value_2_desc: "#high Dowódcy mają szansę w oparciu o „Szansę na wzrost umiejętności” na zdobycie maksymalnie 2 [martial|E] punktów umiejętności za rozbicie flanki bardziej utalentowanego dowódcy."  #NT!
+ setting_tbatt_martial_skill_increase_value_3: "3 Walka (domyślnie)"  #NT!
+ setting_tbatt_martial_skill_increase_value_3_desc: "#high Dowódcy mają szansę w oparciu o „Szansę na wzrost umiejętności” na zdobycie maksymalnie 3 [martial|E] punktów umiejętności za rozbicie flanki bardziej utalentowanego dowódcy."  #NT!
+ setting_tbatt_martial_skill_increase_value_4: "4 Martial"  #NT!
+ setting_tbatt_martial_skill_increase_value_4_desc: "#high Dowódcy mają szansę w oparciu o „Szansę na wzrost umiejętności” na zdobycie maksymalnie 4 [martial|E] punktów umiejętności za rozbicie flanki bardziej utalentowanego dowódcy."  #NT!
+ setting_tbatt_martial_skill_increase_value_5: "5 Martiala"  #NT!
+ setting_tbatt_martial_skill_increase_value_5_desc: "#high Dowódcy mają szansę w oparciu o „Szansę na wzrost umiejętności” na zdobycie maksymalnie 5 [martial|E] punktów umiejętności za rozbicie flanki bardziej utalentowanego dowódcy."  #NT!
+ setting_tbatt_martial_skill_increase_value_6: "6 Martial"  #NT!
+ setting_tbatt_martial_skill_increase_value_6_desc: "#high Dowódcy zyskują 6 punktów umiejętności walki za zwycięstwa taktyczne."  #NT!
+  
+ # Commander Martial Difference Value Rule 
+ rule_tactical_martial_increase_diff_value: "#bold #difficulty_hard • Bitwy taktyczne • #!\nCommander Różnica w walce"  #NT!
+ setting_tbatt_commander_martial_diff_default_value: "4. Różnica w umiejętnościach (domyślnie)"  #NT!
+ setting_tbatt_commander_martial_diff_default_value_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 4 lub więcej [martial|E], istnieje szansa na zwiększenie jego umiejętności [martial|E] podczas rozbijania bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_martial_diff_value_1: "1 różnica w umiejętnościach"  #NT!
+ setting_tbatt_commander_martial_diff_value_1_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 1 lub więcej [martial|E], istnieje szansa na zwiększenie jego umiejętności [martial|E] podczas rozbijania bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_martial_diff_value_3: "3 Różnica w umiejętnościach"  #NT!
+ setting_tbatt_commander_martial_diff_value_3_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 3 lub więcej [martial|E], istnieje szansa na zwiększenie jego umiejętności [martial|E] podczas rozbijania bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_martial_diff_value_4: "4. Różnica w umiejętnościach (domyślnie)"  #NT!
+ setting_tbatt_commander_martial_diff_value_4_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 4 lub więcej [martial|E], istnieje szansa na zwiększenie jego umiejętności [martial|E] podczas rozbijania bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_martial_diff_value_5: "5 Różnica umiejętności"  #NT!
+ setting_tbatt_commander_martial_diff_value_5_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 5 lub więcej [martial|E], istnieje szansa na zwiększenie jego umiejętności [martial|E] podczas rozbijania bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_martial_diff_value_6: "6 Różnica umiejętności"  #NT!
+ setting_tbatt_commander_martial_diff_value_6_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 6 lub więcej [martial|E], istnieje szansa na zwiększenie jego umiejętności [martial|E] podczas rozbijania bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_martial_diff_value_7: "7 Różnica umiejętności"  #NT!
+ setting_tbatt_commander_martial_diff_value_7_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 7 lub więcej [martial|E], istnieje szansa na zwiększenie jego umiejętności [martial|E] podczas rozbijania bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_martial_diff_value_10: "10 Różnica w umiejętnościach"  #NT!
+ setting_tbatt_commander_martial_diff_value_10_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 10 lub więcej [martial|E], istnieje szansa na zwiększenie jego umiejętności [martial|E] podczas rozbijania bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_martial_diff_value_12: "12 Różnica w umiejętnościach"  #NT!
+ setting_tbatt_commander_martial_diff_value_12_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 12 lub więcej [martial|E], istnieje szansa na zwiększenie jego umiejętności [martial|E] podczas rozbijania bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_martial_diff_value_15: "15 Różnica w umiejętnościach"  #NT!
+ setting_tbatt_commander_martial_diff_value_15_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 15 lub więcej [martial|E], istnieje szansa na zwiększenie jego umiejętności [martial|E] podczas rozbijania bardziej zręcznego dowódcy."  #NT!
+  
+ # Skill Increase Chance Value Rule 
+ rule_tactical_skill_increase_chance_value: "#bold #difficulty_hard • Bitwy taktyczne • #!\nChance Dla zwiększenia umiejętności walki"  #NT!
+ setting_tbatt_skill_increase_chance_default_value: "75% (domyślnie)"  #NT!
+ setting_tbatt_skill_increase_chance_default_value_desc: "#high Dowódcy poniżej limitu [martial|E] przyrostu umiejętności mają 75% szans na zdobycie [martial|E] umiejętności w wyniku rozbicia flanki bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_skill_increase_chance_value_0: "0"  #NT!
+ setting_tbatt_skill_increase_chance_value_0_desc: "#high Dowódcy z ustawieniem „Ograniczenie przyrostu umiejętności bojowych” nie zyskają [martial|E] umiejętności w wyniku rozbicia flanki bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_skill_increase_chance_value_25: "25%"  #NT!
+ setting_tbatt_skill_increase_chance_value_25_desc: "#high Dowódcy w ramach ustawienia „Ograniczenie przyrostu umiejętności bojowych” mają 25% szans na zdobycie [martial|E] umiejętności w wyniku rozbicia flanki bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_skill_increase_chance_value_33: "33%"  #NT!
+ setting_tbatt_skill_increase_chance_value_33_desc: "#high Dowódcy w ramach ustawienia „Ograniczenie przyrostu umiejętności bojowych” mają 33% szans na zdobycie [martial|E] umiejętności w wyniku rozbicia flanki bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_skill_increase_chance_value_50: "50%"  #NT!
+ setting_tbatt_skill_increase_chance_value_50_desc: "#high Dowódcy w ramach ustawienia „Ograniczenie przyrostu umiejętności bojowych” mają 50% szans na zdobycie [martial|E] umiejętności w wyniku rozbicia flanki bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_skill_increase_chance_value_60: "60%"  #NT!
+ setting_tbatt_skill_increase_chance_value_60_desc: "#high Dowódcy w ramach ustawienia „Ograniczenie przyrostu umiejętności bojowych” mają 60% szans na zdobycie [martial|E] umiejętności w wyniku rozbicia flanki bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_skill_increase_chance_value_85: "85%"  #NT!
+ setting_tbatt_skill_increase_chance_value_85_desc: "#high Dowódcy w ramach ustawienia „Ograniczenie przyrostu umiejętności bojowych” mają 85% szans na zdobycie [martial|E] umiejętności w wyniku rozbicia flanki bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_skill_increase_chance_value_100: "100%"  #NT!
+ setting_tbatt_skill_increase_chance_value_100_desc: "#high Dowódcy w ramach ustawienia „Ograniczenie przyrostu umiejętności bojowych” mają 100% szans na zdobycie [martial|E] umiejętności w wyniku rozbicia flanki bardziej zręcznego dowódcy."  #NT!
+  
+ rule_tactical_skill_cap_value: "#bold #difficulty_hard • Bitwy taktyczne • #!\nCap O zdobywaniu umiejętności walki"  #NT!
+ setting_tbatt_martial_skill_cap_default_value: "24 Umiejętność walki (domyślnie)"  #NT!
+ setting_tbatt_martial_skill_cap_default_value_desc: "#high Kiedy jeden z dowódców twojej flanki ma mniej niż 24 lata [martial|E], może zyskać [martial|E] umiejętności, rozbijając flankę bardziej zręcznego dowódcy. (Określone przez zasadę różnicy bojowej dowódcy)"  #NT!
+ setting_tbatt_martial_skill_cap_value_21: "21 Umiejętność walki"  #NT!
+ setting_tbatt_martial_skill_cap_value_21_desc: "#high Kiedy jeden z dowódców twojej flanki ma mniej niż 21 lat [martial|E], może zyskać [martial|E] umiejętności, rozbijając flankę bardziej zręcznego dowódcy. (Określone przez zasadę różnicy bojowej dowódcy)"  #NT!
+ setting_tbatt_martial_skill_cap_value_24: "24 Umiejętność walki (domyślnie)"  #NT!
+ setting_tbatt_martial_skill_cap_value_24_desc: "#high Kiedy jeden z dowódców twojej flanki ma mniej niż 24 lata [martial|E], może zyskać [martial|E] umiejętności, rozbijając flankę bardziej zręcznego dowódcy. (Określone przez zasadę różnicy bojowej dowódcy)"  #NT!
+ setting_tbatt_martial_skill_cap_value_27: "27 Umiejętność walki"  #NT!
+ setting_tbatt_martial_skill_cap_value_27_desc: "#high Kiedy jeden z dowódców twojej flanki ma mniej niż 27 lat [martial|E], może zyskać [martial|E] umiejętności, rozbijając flankę bardziej zręcznego dowódcy. (Określone przez zasadę różnicy bojowej dowódcy)"  #NT!
+ setting_tbatt_martial_skill_cap_value_30: "30 Umiejętność walki"  #NT!
+ setting_tbatt_martial_skill_cap_value_30_desc: "#high Kiedy jeden z dowódców twojej flanki ma mniej niż 30 [martial|E], może zyskać [martial|E] umiejętności, rozbijając flankę bardziej zręcznego dowódcy. (Określone przez zasadę różnicy bojowej dowódcy)"  #NT!
+ setting_tbatt_martial_skill_cap_value_35: "35 Umiejętność walki"  #NT!
+ setting_tbatt_martial_skill_cap_value_35_desc: "#high Kiedy jeden z dowódców twojej flanki ma mniej niż 35 [martial|E], może zyskać [martial|E] umiejętności, rozbijając flankę bardziej zręcznego dowódcy. (Określone przez zasadę różnicy bojowej dowódcy)"  #NT!
+ setting_tbatt_martial_skill_cap_value_100: "100 umiejętności walki"  #NT!
+ setting_tbatt_martial_skill_cap_value_100_desc: "#high Kiedy jeden z dowódców twojej flanki ma mniej niż 100 [martial|E], może zyskać [martial|E] umiejętności, rozbijając flankę bardziej zręcznego dowódcy. (Określone przez zasadę różnicy bojowej dowódcy)"  #NT!
+  
+ # Martial Skill Increase Value Rule 
+ rule_tactical_prowess_increase_skill_value: "#bold #difficulty_hard • Bitwy taktyczne • #!\nMax Waleczność Zwiększenie umiejętności"  #NT!
+ setting_tbatt_prowess_skill_increase_default_value: "3 Męstwo (domyślnie)"  #NT!
+ setting_tbatt_prowess_skill_increase_default_value_desc: "#high Dowódcy mają szansę (w oparciu o „Szansę na wzrost umiejętności”) na zdobycie maksymalnie 3 [prowess|E] punktów umiejętności za pokonanie bardziej utalentowanego dowódcy."  #NT!
+ setting_tbatt_prowess_skill_increase_value_1: "1 Sprawność"  #NT!
+ setting_tbatt_prowess_skill_increase_value_1_desc: "#high Dowódcy mają szansę opartą na „Szansie na wzrost umiejętności” na zdobycie 1 [prowess|E] punktów umiejętności za pokonanie bardziej utalentowanego dowódcy."  #NT!
+ setting_tbatt_prowess_skill_increase_value_2: "2 Sprawność"  #NT!
+ setting_tbatt_prowess_skill_increase_value_2_desc: "#high Dowódcy mają szansę w oparciu o „Szansę na wzrost umiejętności” na zdobycie maksymalnie 2 [prowess|E] punktów umiejętności za pokonanie bardziej utalentowanego dowódcy."  #NT!
+ setting_tbatt_prowess_skill_increase_value_3: "3 Męstwo (domyślnie)"  #NT!
+ setting_tbatt_prowess_skill_increase_value_3_desc: "#high Dowódcy mają szansę w oparciu o „Szansę na wzrost umiejętności” na zdobycie maksymalnie 3 [prowess|E] punktów umiejętności za pokonanie bardziej utalentowanego dowódcy."  #NT!
+ setting_tbatt_prowess_skill_increase_value_4: "4 Sprawność"  #NT!
+ setting_tbatt_prowess_skill_increase_value_4_desc: "#high Dowódcy mają szansę w oparciu o „Szansę na wzrost umiejętności” na zdobycie maksymalnie 4 [prowess|E] punktów umiejętności za pokonanie bardziej utalentowanego dowódcy."  #NT!
+ setting_tbatt_prowess_skill_increase_value_5: "5 Sprawność"  #NT!
+ setting_tbatt_prowess_skill_increase_value_5_desc: "#high Dowódcy mają szansę w oparciu o „Szansę na wzrost umiejętności” na zdobycie maksymalnie 5 [prowess|E] punktów umiejętności za pokonanie bardziej utalentowanego dowódcy."  #NT!
+ setting_tbatt_prowess_skill_increase_value_6: "6 Sprawność"  #NT!
+ setting_tbatt_prowess_skill_increase_value_6_desc: "#high Dowódcy zyskują 6 punktów umiejętności w wyniku zwycięstw taktycznych."  #NT!
+  
+ # Commander Martial Difference Value Rule 
+ rule_tactical_prowess_increase_diff_value: "#bold #difficulty_hard • Bitwy taktyczne • #!\nCommander Różnica w umiejętnościach"  #NT!
+ setting_tbatt_commander_prowess_diff_default_value: "4. Różnica w umiejętnościach (domyślnie)"  #NT!
+ setting_tbatt_commander_prowess_diff_default_value_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 4 lub więcej [prowess|E], istnieje szansa na zwiększenie jego umiejętności [prowess|E] po pokonaniu zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_prowess_diff_value_0: "0 Różnica umiejętności"  #NT!
+ setting_tbatt_commander_prowess_diff_value_0_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 1 lub więcej [prowess|E], istnieje szansa na zwiększenie jego umiejętności [prowess|E] po pokonaniu zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_prowess_diff_value_1: "1 różnica w umiejętnościach"  #NT!
+ setting_tbatt_commander_prowess_diff_value_1_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 1 lub więcej [prowess|E], istnieje szansa na zwiększenie jego umiejętności [prowess|E] po pokonaniu zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_prowess_diff_value_3: "3 Różnica w umiejętnościach"  #NT!
+ setting_tbatt_commander_prowess_diff_value_3_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 3 lub więcej [prowess|E], istnieje szansa na zwiększenie jego umiejętności [prowess|E] po pokonaniu zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_prowess_diff_value_4: "4. Różnica w umiejętnościach (domyślnie)"  #NT!
+ setting_tbatt_commander_prowess_diff_value_4_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 4 lub więcej [prowess|E], istnieje szansa na zwiększenie jego umiejętności [prowess|E] po pokonaniu zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_prowess_diff_value_5: "5 Różnica umiejętności"  #NT!
+ setting_tbatt_commander_prowess_diff_value_5_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 5 lub więcej [prowess|E], istnieje szansa na zwiększenie jego umiejętności [prowess|E] po pokonaniu zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_prowess_diff_value_6: "6 Różnica umiejętności"  #NT!
+ setting_tbatt_commander_prowess_diff_value_6_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 6 lub więcej [prowess|E], istnieje szansa na zwiększenie jego umiejętności [prowess|E] po pokonaniu zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_prowess_diff_value_7: "7 Różnica umiejętności"  #NT!
+ setting_tbatt_commander_prowess_diff_value_7_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 7 lub więcej [prowess|E], istnieje szansa na zwiększenie jego umiejętności [prowess|E] po pokonaniu zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_prowess_diff_value_10: "10 Różnica w umiejętnościach"  #NT!
+ setting_tbatt_commander_prowess_diff_value_10_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 10 lub więcej [prowess|E], istnieje szansa na zwiększenie jego umiejętności [prowess|E] po pokonaniu zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_prowess_diff_value_12: "12 Różnica w umiejętnościach"  #NT!
+ setting_tbatt_commander_prowess_diff_value_12_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 12 lub więcej [prowess|E], istnieje szansa na zwiększenie jego umiejętności [prowess|E] po pokonaniu zręcznego dowódcy."  #NT!
+ setting_tbatt_commander_prowess_diff_value_15: "15 Różnica w umiejętnościach"  #NT!
+ setting_tbatt_commander_prowess_diff_value_15_desc: "#high Kiedy jeden z twoich dowódców flanki jest lepszy od dowódcy flanki wroga o 15 lub więcej [prowess|E], istnieje szansa na zwiększenie jego umiejętności [prowess|E] po pokonaniu zręcznego dowódcy."  #NT!
+  
+ # Skill Increase Chance Value Rule 
+ rule_tactical_prowess_skill_increase_chance_value: "#bold #difficulty_hard • Bitwy taktyczne • #!\nChance Dla zwiększenia umiejętności"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_default_value: "75% (domyślnie)"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_default_value_desc: "#high Dowódcy poniżej limitu [prowess|E] przyrostu umiejętności mają 75% szans na zdobycie [prowess|E] umiejętności w wyniku pokonania bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_0: "0"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_0_desc: "#high Dowódcy objęci ustawieniem „Ograniczenie przyrostu umiejętności” nie zyskają [prowess|E] umiejętności po pokonaniu bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_25: "25%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_25_desc: "#high Dowódcy objęci ustawieniem „Ograniczenie przyrostu umiejętności” mają 25% szans na zdobycie [prowess|E] umiejętności w wyniku pokonania bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_33: "33%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_33_desc: "#high Dowódcy w ramach ustawienia „Ograniczenie przyrostu umiejętności” mają 33% szans na zdobycie [prowess|E] umiejętności w wyniku pokonania bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_50: "50%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_50_desc: "#high Dowódcy w ramach ustawienia „Ograniczenie przyrostu umiejętności” mają 50% szans na zdobycie [prowess|E] umiejętności w wyniku pokonania bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_60: "60%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_60_desc: "#high Dowódcy w ramach ustawienia „Ograniczenie przyrostu umiejętności” mają 60% szans na zdobycie [prowess|E] umiejętności w wyniku pokonania bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_85: "85%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_85_desc: "#high Dowódcy w ramach ustawienia „Ograniczenie przyrostu umiejętności” mają 85% szans na zdobycie [prowess|E] umiejętności w wyniku pokonania bardziej zręcznego dowódcy."  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_100: "100%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_100_desc: "#high Dowódcy w ramach ustawienia „Ograniczenie przyrostu umiejętności” mają 100% szans na zdobycie [prowess|E] umiejętności w wyniku pokonania bardziej zręcznego dowódcy."  #NT!
+  
+ rule_tactical_prowess_skill_cap_value: "#bold #difficulty_hard • Bitwy taktyczne • #!\nCap O zdobywaniu umiejętności"  #NT!
+ setting_tbatt_prowess_skill_cap_default_value: "31 Umiejętność Waleczności (domyślna)"  #NT!
+ setting_tbatt_prowess_skill_cap_default_value_desc: "#high Kiedy jeden z dowódców twojej flanki ma mniej niż 31 lat [prowess|E], może zyskać [prowess|E] umiejętności po pokonaniu bardziej zręcznego dowódcy. (Określone przez regułę różnicy sprawności dowódcy)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_27: "27 Umiejętność Zręczności"  #NT!
+ setting_tbatt_prowess_skill_cap_value_27_desc: "#high Kiedy jeden z dowódców twojej flanki ma mniej niż 27 lat [prowess|E], może zyskać [prowess|E] umiejętności po pokonaniu bardziej zręcznego dowódcy. (Określone przez regułę różnicy sprawności dowódcy)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_34: "34 Umiejętność Waleczności (domyślna)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_34_desc: "#high Kiedy jeden z dowódców twojej flanki ma mniej niż 34 [prowess|E], może zyskać [prowess|E] umiejętności po pokonaniu bardziej zręcznego dowódcy. (Określone przez regułę różnicy sprawności dowódcy)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_37: "37 Umiejętność Waleczności"  #NT!
+ setting_tbatt_prowess_skill_cap_value_37_desc: "#high Kiedy jeden z dowódców twojej flanki ma mniej niż 37 lat [prowess|E], może zyskać [prowess|E] umiejętności po pokonaniu bardziej zręcznego dowódcy. (Określone przez regułę różnicy sprawności dowódcy)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_40: "40 Umiejętność Waleczności"  #NT!
+ setting_tbatt_prowess_skill_cap_value_40_desc: "#high Kiedy jeden z dowódców twojej flanki ma mniej niż 40 lat [prowess|E], może zyskać [prowess|E] umiejętności po pokonaniu bardziej zręcznego dowódcy. (Określone przez regułę różnicy sprawności dowódcy)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_100: "100 umiejętności Biegłości"  #NT!
+ setting_tbatt_prowess_skill_cap_value_100_desc: "#high Kiedy jeden z dowódców twojej flanki ma mniej niż 100 [prowess|E], może zyskać [prowess|E] umiejętności po pokonaniu bardziej zręcznego dowódcy. (Określone przez regułę różnicy sprawności dowódcy)"  #NT!
+  
+ rule_tactical_recruit_soldier_month_value: "#bold #difficulty_hard • Bitwy taktyczne • #!\Cooldown Rekrutacja żołnierzy"  #NT!
+ setting_tbatt_recruit_soldier_month_default_value: "3 lata (domyślnie)"  #NT!
+ setting_tbatt_recruit_soldier_month_default_value_desc: "#high Domyślnie rekrutacja kapitanów spośród zbrojnych wynosi 3 lata"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_6: "6 miesięcy"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_6_desc:0 "#high There is a 6 month cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_12: "1 rok"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_12_desc:0 "#high There is a 1 year cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_24: "2 lata"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_24_desc:0 "#high There is a 2 year cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_48: "4 lata"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_48_desc:0 "#high There is a 4 year cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_60: "5 lat"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_60_desc:0 "#high There is a 5 year cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_84: "7 lat"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_84_desc:0 "#high There is a 7 year cooldown to recruit captains 
+  
+ tact_left_commander_wounded_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] rannych [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_wounded_enemy_duel_toast_desc: "[left_flank_commander.GetFirstNameNicknamed] rannych [enemy_knight_for_duel.GetFullNameNicknamed] podczas prowadzenia [left_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_left_commander_onelegged_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] okaleczony [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_onelegged_enemy_duel_toast_desc: "[left_flank_commander.GetFirstNameNicknamed] złapał nogę [enemy_knight_for_duel.GetFullNameNicknamed], prowadząc [left_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_left_commander_oneeyed_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] okaleczony [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_oneeyed_enemy_duel_toast_desc: "[left_flank_commander.GetFirstNameNicknamed] przykuł uwagę [enemy_knight_for_duel.GetFullNameNicknamed], prowadząc [left_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_left_commander_disfigured_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] oszpecony [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_disfigured_enemy_duel_toast_desc: "[left_flank_commander.GetFirstNameNicknamed] oszpecony [enemy_knight_for_duel.GetFullNameNicknamed] podczas prowadzenia [left_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_left_commander_maimed_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] okaleczony [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_maimed_enemy_duel_toast_desc: "[left_flank_commander.GetFirstNameNicknamed] okaleczony [enemy_knight_for_duel.GetFullNameNicknamed] podczas prowadzenia [left_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_left_commander_killed_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] zabitych [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_killed_enemy_duel_toast_desc: "[left_flank_commander.GetFirstNameNicknamed] zabitych [enemy_knight_for_duel.GetFullNameNicknamed], prowadząc [left_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_give_left_commander_prowess_toast: "[left_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] umiejętność uległa poprawie!"  #NT!
+ tact_give_left_commander_prowess_toast_desc: "Dzięki [left_flank_commander.GetHerHis] akcjom w bitwie, [left_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] zdolność uległa poprawie, a reputacja [left_flank_commander.GetHerHis] wzrosła!"  #NT!
+  
+ tact_right_commander_wounded_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] rannych [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_wounded_enemy_duel_toast_desc: "[right_flank_commander.GetFirstNameNicknamed] rannych [enemy_knight_for_duel.GetFullNameNicknamed] podczas prowadzenia [right_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_right_commander_onelegged_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] okaleczony [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_onelegged_enemy_duel_toast_desc: "[right_flank_commander.GetFirstNameNicknamed] złapał nogę [enemy_knight_for_duel.GetFullNameNicknamed], prowadząc [right_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_right_commander_oneeyed_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] okaleczony [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_oneeyed_enemy_duel_toast_desc: "[right_flank_commander.GetFirstNameNicknamed] przykuł uwagę [enemy_knight_for_duel.GetFullNameNicknamed], prowadząc [right_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_right_commander_disfigured_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] oszpecony [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_disfigured_enemy_duel_toast_desc: "[right_flank_commander.GetFirstNameNicknamed] oszpecony [enemy_knight_for_duel.GetFullNameNicknamed] podczas prowadzenia [right_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_right_commander_maimed_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] okaleczony [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_maimed_enemy_duel_toast_desc: "[right_flank_commander.GetFirstNameNicknamed] okaleczony [enemy_knight_for_duel.GetFullNameNicknamed] podczas prowadzenia [right_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_right_commander_killed_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] zabitych [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_killed_enemy_duel_toast_desc: "[right_flank_commander.GetFirstNameNicknamed] zabitych [enemy_knight_for_duel.GetFullNameNicknamed], prowadząc [right_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_give_right_commander_prowess_toast: "[right_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] umiejętność uległa poprawie!"  #NT!
+ tact_give_right_commander_prowess_toast_desc: "Dzięki [right_flank_commander.GetHerHis] akcjom w bitwie, [right_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] zdolność uległa poprawie, a reputacja [right_flank_commander.GetHerHis] wzrosła!"  #NT!
+  
+ tact_center_commander_wounded_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] rannych [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_wounded_enemy_duel_toast_desc: "[center_flank_commander.GetFirstNameNicknamed] rannych [enemy_knight_for_duel.GetFullNameNicknamed] podczas prowadzenia [center_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_center_commander_onelegged_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] okaleczony [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_onelegged_enemy_duel_toast_desc: "[center_flank_commander.GetFirstNameNicknamed] złapał nogę [enemy_knight_for_duel.GetFullNameNicknamed], prowadząc [center_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_center_commander_oneeyed_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] okaleczony [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_oneeyed_enemy_duel_toast_desc: "[center_flank_commander.GetFirstNameNicknamed] przykuł uwagę [enemy_knight_for_duel.GetFullNameNicknamed], prowadząc [center_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_center_commander_disfigured_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] oszpecony [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_disfigured_enemy_duel_toast_desc: "[center_flank_commander.GetFirstNameNicknamed] oszpecony [enemy_knight_for_duel.GetFullNameNicknamed] podczas prowadzenia [center_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_center_commander_maimed_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] okaleczony [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_maimed_enemy_duel_toast_desc: "[center_flank_commander.GetFirstNameNicknamed] okaleczony [enemy_knight_for_duel.GetFullNameNicknamed] podczas prowadzenia [center_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_center_commander_killed_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] zabitych [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_killed_enemy_duel_toast_desc: "[center_flank_commander.GetFirstNameNicknamed] zabitych [enemy_knight_for_duel.GetFullNameNicknamed], prowadząc [center_flank_commander.GetHerHis] żołnierzy w bitwie!"  #NT!
+ tact_give_center_commander_prowess_toast: "[center_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] umiejętność uległa poprawie!"  #NT!
+ tact_give_center_commander_prowess_toast_desc: "Dzięki [center_flank_commander.GetHerHis] akcjom w bitwie, [center_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] zdolność uległa poprawie, a reputacja [center_flank_commander.GetHerHis] wzrosła!"  #NT!
+  
+  
+ tact_give_victor_commander_prowess_toast: "[sc_victor.GetFirstNameNicknamedPossessiveOrMyRegnal] umiejętność uległa poprawie!"  #NT!
+ tact_give_victor_commander_prowess_toast_desc: "Po pokonaniu, umiejętność [sc_loser.GetFirstNameNicknamed] w walce pojedynczej [sc_victor.GetFirstNameNicknamedPossessiveOrMyRegnal] uległa poprawie!"  #NT!
+  

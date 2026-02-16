@@ -1,0 +1,149 @@
+﻿l_spanish:
+ MILITARY_POSITIONS_TAB: "Rangos militares"  #NT!
+ TBATT_TITLE_BANE_OF_DEVIL: "Perdición de [Faith.DevilName]"  #NT!
+ TBATT_TITLE_VANQUISHER_OF_UNHOLY: "Vencedor de lo impío"  #NT!
+ TBATT_TITLE_VANQUISHER_OF_WICKED: "Vencedor de los malvados"  #NT!
+ tbatt_title_protector_of_clergy: "Protector del [GetPlayer.MakeScope.Char.GetFaith.AltPriestTermPlural|U]"  #NT!
+ tbatt_title_lords_wrath: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] Ira"  #NT!
+ tbatt_title_lords_fury: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] Furia"  #NT!
+ tbatt_title_lords_might: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] Podría"  #NT!
+ tbatt_title_lords_vengeance: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] Venganza"  #NT!
+ tbatt_title_lords_blade: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] Hoja"  #NT!
+ tbatt_title_lords_shield: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] Escudo"  #NT!
+ tbatt_title_lords_justice: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] Justicia"  #NT!
+ tbatt_title_guardian_of_text: "Guardián del [GetPlayer.MakeScope.Char.GetFaith.ReligiousText|U]"  #NT!
+ tbatt_title_protector_of_text: "Protector del [GetPlayer.MakeScope.Char.GetFaith.ReligiousText|U]"  #NT!
+ tbatt_title_blade_of_followers: "Hoja del [GetPlayer.MakeScope.Char.GetFaith.Custom|U]"  #NT!
+ tbatt_title_wrath_of_god: "La ira de Dios"  #NT!
+ tbatt_title_gods_fury: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNamePossessive|U] Furia"  #NT!
+ tbatt_title_gods_wrath: "[GetPlayer.GetFaith.HighGodNamePossessive|U] Ira"  #NT!
+ tbatt_title_blade_of_god: "La espada de [GetPlayer.GetFaith.HighGodName|U]"  #NT!
+ tbatt_title_shield_of_god: "El Escudo de [GetPlayer.GetFaith.HighGodName|U]"  #NT!
+ tbatt_title_sword_of_wargod: "La espada de [GetPlayer.GetFaith.WarGodName|U]"  #NT!
+ tbatt_title_blade_of_wargod: "La espada de [GetPlayer.GetFaith.WarGodName|U]"  #NT!
+ tbatt_title_might_of_wargod: "El poder de [GetPlayer.GetFaith.WarGodName|U]"  #NT!
+ tbatt_title_wrath_of_wargod: "La ira de [GetPlayer.GetFaith.WarGodName|U]"  #NT!
+ tbatt_title_fury_of_wargod: "La furia de [GetPlayer.GetFaith.WarGodName|U]"  #NT!
+ tbatt_title_blade_of_heaven: "La espada de [GetPlayer.GetFaith.PositiveAfterLife|U]"  #NT!
+ tbatt_title_shield_of_heaven: "El Escudo de [GetPlayer.GetFaith.PositiveAfterLife|U]"  #NT!
+ tbatt_title_bearer_of_symbol: "Portador del [GetPlayer.GetFaith.ReligiousSymbol|U]"  #NT!
+ tbatt_title_defender_of_symbol: "Defensor del [GetPlayer.GetFaith.ReligiousSymbol|U]"  #NT!
+ tbatt_title_protector_of_symbol: "Protector del [GetPlayer.GetFaith.ReligiousSymbol|U]"  #NT!
+ tbatt_title_vanquisher_of_unholy: "Vencedor de lo impío"  #NT!
+ tbatt_title_vanquisher_of_wicked: "Vencedor de los malvados"  #NT!
+ tbatt_title_slayer_of_unholy: "Asesino de lo impío"  #NT!
+  
+ tbatt_military_title_fist: "Puño de [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"  #NT!
+  
+  
+#  # Grant Position Tooltips 
+#  tbatt_grant_bane_of_devil: "Concede la posición de Banes of Satan"  #NT!
+#  tbatt_grant_vanquisher_of_unholy: "Otorga la posición de Vencedor de lo Impío"  #NT!
+#  tbatt_grant_vanquisher_of_wicked: "Otorga el puesto de Vencedor de los malvados."  #NT!
+#  tbatt_grant_protector_of_clergy: "Otorgar el puesto de Protector del Clero"  #NT!
+#  tbatt_grant_lords_wrath: "Concede la posición de la ira de Dios"  #NT!
+#  tbatt_grant_lords_fury: "Concede la posición Furia de los Dioses"  #NT!
+#  tbatt_grant_lords_might: "Otorga la posición de poder de los dioses"  #NT!
+#  tbatt_grant_lords_vengeance: "Concede la posición de Venganza de los Dioses"  #NT!
+#  tbatt_grant_lords_blade: "Otorga la posición de la Espada de los Dioses"  #NT!
+#  tbatt_grant_lords_shield: "Otorga la posición del Escudo de los Dioses"  #NT!
+#  tbatt_grant_lords_justice: "Concede la posición de Justicia de los Dioses"  #NT!
+#  tbatt_grant_guardian_of_text: "Otorgar el puesto de Guardián de las Escrituras"  #NT!
+#  tbatt_grant_protector_of_text: "Otorgar el puesto de Protector de las Escrituras"  #NT!
+#  tbatt_grant_blade_of_followers: "Otorgar el puesto de Espada de los Católicos"  #NT!
+#  tbatt_grant_wrath_of_god: "Concede la posición de la ira de Dios"  #NT!
+#  tbatt_grant_gods_fury: "Concede la posición Furia de Dios"  #NT!
+#  tbatt_grant_gods_wrath: "Concede la posición de la ira de Dios"  #NT!
+#  tbatt_grant_blade_of_god: "Concede la posición Espada de Dios"  #NT!
+#  tbatt_grant_shield_of_god: "Otorga la posición Escudo de Dios"  #NT!
+#  tbatt_grant_sword_of_wargod: "Otorga la posición Espada del Dios de la Guerra"  #NT!
+#  tbatt_grant_blade_of_wargod: "Otorga la posición Blade of Wargod"  #NT!
+#  tbatt_grant_might_of_wargod: "Otorga la posición Poder del Dios de la Guerra"  #NT!
+#  tbatt_grant_wrath_of_wargod: "Concede la posición Wrath of Wargod"  #NT!
+#  tbatt_grant_fury_of_wargod: "Otorga la posición Furia de Dios de la Guerra"  #NT!
+#  tbatt_grant_blade_of_heaven: "Concede la posición Blade of Heaven"  #NT!
+#  tbatt_grant_shield_of_heaven: "Otorga la posición Escudo del Cielo"  #NT!
+#  tbatt_grant_bearer_of_symbol: "Otorga el puesto de Portador de la Cruz"  #NT!
+#  tbatt_grant_defender_of_symbol: "Otorga la posición Defensor de la Cruz"  #NT!
+#  tbatt_grant_protector_of_symbol: "Otorga el puesto de Protector de la Cruz"  #NT!
+  
+#  # Remove Position Tooltips 
+#  tbatt_remove_bane_of_devil: "Eliminar la perdición de Satanás"  #NT!
+#  tbatt_remove_vanquisher_of_unholy: "Eliminar el vencedor de lo impío"  #NT!
+#  tbatt_remove_vanquisher_of_wicked: "Eliminar El vencedor de los malvados"  #NT!
+#  tbatt_remove_protector_of_clergy: "Quitar al protector del clero"  #NT!
+#  tbatt_remove_lords_wrath: "Quitar la ira de Dios"  #NT!
+#  tbatt_remove_lords_fury: "Quitar la furia de Dios"  #NT!
+#  tbatt_remove_lords_might: "Quitar el poder de Dios"  #NT!
+#  tbatt_remove_lords_vengeance: "Quitar la venganza de Dios"  #NT!
+#  tbatt_remove_lords_blade: "Quitar la espada de Dios"  #NT!
+#  tbatt_remove_lords_shield: "Quitar el escudo de Dios"  #NT!
+#  tbatt_remove_lords_justice: "Quitar la justicia de Dios"  #NT!
+#  tbatt_remove_guardian_of_text: "Eliminar Guardián de las Escrituras"  #NT!
+#  tbatt_remove_protector_of_text: "Quitar Protector de las Escrituras"  #NT!
+#  tbatt_remove_blade_of_followers: "Quitar Espada de los Católicos"  #NT!
+#  tbatt_remove_wrath_of_god: "Quitar la ira de Dios"  #NT!
+#  tbatt_remove_gods_fury: "Quitar la furia de Dios"  #NT!
+#  tbatt_remove_gods_wrath: "Quitar la ira de Dios"  #NT!
+#  tbatt_remove_blade_of_god: "Quitar la espada de Dios"  #NT!
+#  tbatt_remove_shield_of_god: "Quitar Escudo de Dios"  #NT!
+#  tbatt_remove_sword_of_wargod: "Quitar la espada del dios de la guerra"  #NT!
+#  tbatt_remove_blade_of_wargod: "Quitar la espada del dios de la guerra"  #NT!
+#  tbatt_remove_might_of_wargod: "Eliminar el poder de Wargod"  #NT!
+#  tbatt_remove_wrath_of_wargod: "Eliminar la ira del dios de la guerra"  #NT!
+#  tbatt_remove_fury_of_wargod: "Eliminar la furia del dios de la guerra"  #NT!
+#  tbatt_remove_blade_of_heaven: "Quitar la espada del cielo"  #NT!
+#  tbatt_remove_shield_of_heaven: "Quitar Escudo del Cielo"  #NT!
+#  tbatt_remove_bearer_of_symbol: "Eliminar al portador de la cruz"  #NT!
+#  tbatt_remove_defender_of_symbol: "Eliminar Defensor de la Cruz"  #NT!
+#  tbatt_remove_protector_of_symbol: "Quitar Protector de la Cruz"  #NT!
+  
+ # Header Position Tooltips 
+ tbatt_header_bane_of_devil: "La perdición de satanás"  #NT!
+ tbatt_header_vanquisher_of_unholy: "Vencedor de lo impío"  #NT!
+ tbatt_header_vanquisher_of_wicked: "Vencedor de los malvados"  #NT!
+ tbatt_header_protector_of_clergy: "Ejemplos:\nProtector de los Ancianos\nProtector del Clero\nProtector de la Sangha"  #NT!
+ guardian_of_the_clergy_tt: "Ejemplos:\nGuardián de los Ancianos\nGuardián del Clero\nGuardián de la Sangha"  #NT!
+ tbatt_header_custodian_of_clergy: "Ejemplos:\nCustodio de los Ancianos\nCustodio del Clero\nCustodio de la Sangha"  #NT!
+ tbatt_header_lords_wrath: "Ejemplos basados ​​en la fe:\nLa ira del Señor\nLa ira del Padre de todo\nLa ira de los iluminados\nLa ira de los salvadores\nLa ira del Padre Celestial"  #NT!
+ tbatt_header_lords_fury: "Ejemplos basados ​​en la fe:\nLa furia del Señor\nLa furia del Padre de todo\nLa furia de los iluminados\nLa furia de los salvadores\nLa furia del Padre Celestial"  #NT!
+ tbatt_header_lords_might: "Ejemplos basados ​​en la fe:\nEl poder del Señor\nEl poder del Padre\nEl poder de los iluminados\nEl poder de los salvadores\nEl poder del Padre Celestial"  #NT!
+ tbatt_header_lords_vengeance: "Ejemplos basados ​​en la fe:\nLa venganza del Señor\nLa venganza del Padre de todo\nLa venganza de los iluminados\nLa venganza de los salvadores\nLa venganza del Padre Celestial"  #NT!
+ tbatt_header_lords_blade: "Ejemplos basados ​​en la fe:\nLa espada del Señor\nLa espada del Padre Todo\nLa espada del Elevado\nLa espada de los Salvadores\nLa espada del Padre Celestial"  #NT!
+ tbatt_header_lords_shield: "Ejemplos basados ​​en la fe:\nEl escudo del Señor\nEl escudo del Padre de Todo\nEl escudo del Elevado\nEl escudo de los Salvadores\nEl escudo del Padre Celestial"  #NT!
+ tbatt_header_lords_justice: "Ejemplos basados ​​en la fe:\nLa justicia del Señor\nLa justicia del Padre de todo\nLa justicia de los iluminados\nLa justicia de los salvadores\nLa justicia del Padre Celestial"  #NT!
+ tbatt_header_guardian_of_text: "Ejemplos basados ​​en la fe:\nLa justicia del Señor\nLa justicia del Padre de todo\nLa justicia de los iluminados\nLa justicia de los salvadores\nLa justicia del Padre Celestial"  #NT!
+ tbatt_header_protector_of_text: "Ejemplos basados ​​en la fe:\nProtector de las Escrituras\nProtector de las sagas heroicas\nProtector de las Grandes leyendas"  #NT!
+ tbatt_header_blade_of_followers: "Ejemplos basados ​​en la fe:\nLa espada de los cristianos\nLa espada de los tengriistas\nLa espada de los astaruanos"  #NT!
+ tbatt_header_wrath_of_god: "Ejemplos basados ​​en la fe:\nLa ira de Dios\nLa ira de Odín\nLa ira del Señor\nLa ira de Alá\nLa ira de Rod"  #NT!
+ tbatt_header_gods_fury: "Ejemplos basados ​​en la fe:\nLa furia de Dios\nLa furia de Odín\nLa furia del Señor\nLa furia de Alá\nLa furia de Rod"  #NT!
+ tbatt_header_gods_wrath: "Ejemplos basados ​​en la fe:\nLa ira de Dios\nLa ira de Odín\nLa ira del Señor\nLa ira de Alá\nLa ira de Vara"  #NT!
+ tbatt_header_blade_of_god: "Ejemplos basados ​​en la fe:\nLa espada de Dios\nLa espada de Odín\nLa espada del Señor\nLa espada de Alá\nLa espada de Vara"  #NT!
+ tbatt_header_shield_of_god: "Ejemplos basados ​​en la fe:\nEl escudo de Dios\nEl escudo de Odín\nEl escudo del Señor\nEl escudo de Alá\nEl escudo de Vara"  #NT!
+ tbatt_header_sword_of_wargod: "Ejemplos basados ​​en la fe:\nLa espada de San Jorge\nLa espada de Týr\nLa espada de Hadúr\nLa espada de Alá\nLa espada de Yeshe Walmo\nLa espada de Jagganath"  #NT!
+ tbatt_header_blade_of_wargod: "Ejemplos basados ​​en la fe:\nLa espada de San Jorge\nLa espada de Týr\nLa espada de Hadúr\nLa espada de Alá\nLa espada de Yeshe Walmo\nLa espada de Jagganath"  #NT!
+ tbatt_header_might_of_wargod: "Ejemplos basados ​​en la fe:\nEl poder de San Jorge\nEl poder de Týr\nEl poder de Hadúr\nEl poder de Alá\nEl poder de Yeshe Walmo\nEl poder de Jagganath"  #NT!
+ tbatt_header_wrath_of_wargod: "Ejemplos basados ​​en la fe:\nLa ira de San Jorge\nLa ira de Týr\nLa ira de Hadúr\nLa ira de Alá\nLa ira de Yeshe Walmo\nLa ira de Jagganath"  #NT!
+ tbatt_header_fury_of_wargod: "Ejemplos basados ​​en la fe:\nLa furia de San Jorge\nLa furia de Týr\nLa furia de Hadúr\nLa furia de Alá\nLa furia de Yeshe Walmo\nLa furia de Jagganath"  #NT!
+ tbatt_header_blade_of_heaven: "Ejemplos basados ​​en la fe:\nLa espada del cielo\nLa espada del Valhalla\nLa espada del cielo azul eterno\nLa espada de Svarga"  #NT!
+ tbatt_header_shield_of_heaven: "Ejemplos basados ​​en la fe:\nEl escudo del cielo\nEl escudo de Valhalla\nEl escudo del cielo azul eterno\nEl escudo de Svarga"  #NT!
+ tbatt_header_bearer_of_symbol: "Ejemplos basados ​​en la fe:\nPortador de la Cruz\nPortador del Valknut\nPortador del Om\nPortador de la Cruz de la luz\nPortador del Dharmachakra\nPortador de la Shahada"  #NT!
+ tbatt_header_defender_of_symbol: "Ejemplos basados ​​en la fe:\nDefensor de la Cruz\nDefensor del Valknut\nDefensor del Om\nDefensor de la Cruz de la luz\nDefensor del Dharmachakra\nDefensor de la Shahada"  #NT!
+ tbatt_header_protector_of_symbol: "Ejemplos basados ​​en la fe:\nProtector de la Cruz\nProtector del Valknut\nProtector del Om\nProtector de la Cruz de la luz\nProtector del Dharmachakra\nProtector de la Shahada"  #NT!
+  
+ bane_of_infidels_tt: "Ejemplos basados ​​en la fe:\nLa perdición de los infieles\nLa perdición de los forasteros\nLa perdición de los bárbaros\nLa perdición de los paganos"  #NT!
+ vanq_of_infidels_tt: "Ejemplos basados ​​en la fe:\nVencedor de los infieles\nVencedor de los forasteros\nVencedor de los bárbaros\nVencedor de los paganos"  #NT!
+ conq_of_infidels_tt: "Ejemplos basados ​​en la fe:\nConquistador de los infieles\nConquistador de los forasteros\nConquistador de los bárbaros\nConquistador de los paganos"  #NT!
+ blade_of_catholics_tt: "Ejemplos basados ​​en la fe:\nBlade of the Catholics\nBlade of the Maturidis\nBlade of the Tengriists\nBlade of the Muwalladis"  #NT!
+  
+ learn_commander_trait.0005.a: "Infiel"  #NT!
+ learn_commander_trait.0005.b: "paganos"  #NT!
+ learn_commander_trait.0005.c: "Forasteros"  #NT!
+ learn_commander_trait.0005.d: "bárbaros"  #NT!
+  
+ tactical_training_events.01.t: "Elige tu color"  #NT!
+ tactical_training_events.02.t: "Elige tu animal"  #NT!
+ tactical_training_events.03.t: "¿Quiénes son tus enemigos?"  #NT!
+ tactical_training_events.1101.desc: "¿De qué color eres?"  #NT!
+ tactical_training_events.1102.desc: "¿Qué animal eres?"  #NT!
+ tactical_training_events.1103.desc: "¿Quiénes son tus enemigos?"  #NT!

@@ -1,0 +1,703 @@
+﻿l_english:
+
+give_center_commander_martial_toast:0 "[center_flank_commander.GetFullNameNicknamed] Ability Increases!"
+give_center_commander_martial_toast_desc:0 "[center_flank_commander.GetFullNameNicknamed]'s tactical ability has improved after holding their own against a skillful commander!"
+give_left_commander_martial_toast:0 "[left_flank_commander.GetFullNameNicknamed] Ability Increases!"
+give_left_commander_martial_toast_desc:0 "[left_flank_commander.GetFullNameNicknamed]'s tactical ability has improved after holding their own against a skillful commander!"
+give_right_commander_martial_toast:0 "[right_flank_commander.GetFullNameNicknamed] Ability Increases!"
+give_right_commander_martial_toast_desc:0 "[right_flank_commander.GetFullNameNicknamed]'s tactical ability has improved after holding their own against a skillful commander!"
+tbatt_battle_event_in_battle_friendly_player:1 "You were involved [TARGET_CHARACTER.GetUINameNoTooltip] after the battle!"
+tbatt_battle_event_in_battle_friendly_player:1 "You captured [TARGET_CHARACTER.GetUINameNoTooltip] after the battle!"
+tbatt_battle_event_in_battle_friendly:0 "[CHARACTER.GetUINameNoTooltip] captured [TARGET_CHARACTER.GetUINameNoTooltip] after the battle!"
+tbatt_battle_event_in_battle_enemy_player:1 "You were captured by [CHARACTER.GetUINameNoTooltip] after the battle!"
+tbatt_battle_event_in_battle_enemy:0 "[TARGET_CHARACTER.GetUINameNoTooltip] was captured by [CHARACTER.GetUINameNoTooltip] after the battle!"
+
+tactical_knight_commander_killer_commander:0 "Commander Killer"
+tactical_knight_commander_killer_troops:0 "Their Commander's Dead"
+tactical_knight_commander_killer_enemy_commander:0 "Lost Our Flank"
+tactical_knight_commander_killer_enemy_troops:0 "Dead Commander"
+tactical_knight_captured_commander_commander:0 "Captured Commander"
+tactical_knight_captured_commander_troops:0 "Their Commander's Ours"
+tactical_knight_captured_commander_enemy_commander:0 "In Enemies' Hands"
+tactical_knight_captured_commander_enemy_troops:0 "Captured Commander"
+
+
+tactical_forest_battle.0061.t:0 "The Fate Of [sc_loser.GetFullNameNicknamed]"
+tactical_forest_battle.0061.desc:0 "With my last blow [sc_loser.GetFirstName] falls to one knee, bloodied and beaten. While the battlefield around me rages on, [sc_loser.GetTitledFirstNamePossessive] eyes look up at me, filled with a mix of defiance and resignation. The time has come to decide [sc_loser.GetHerHis] fate."
+tactical_forest_battle.0061.a:0 "Kill [sc_loser.GetFirstName]"
+tactical_forest_battle.0061.a.success:0 "[sc_loser.GetFirstName] meets [sc_loser.GetHerHis] end on the battlefield."
+tactical_forest_battle.0061.b:0 "Capture [sc_loser.GetFirstName]"
+tactical_forest_battle.0061.b.success:0 "[sc_loser.GetFirstName] is taken prisoner."
+tactical_forest_battle.0061.c:0 "Take [sc_loser.GetFirstNamePossessive] eye and release [sc_loser.GetHerHim] to [sc_loser.GetHerHis] fate."
+tactical_forest_battle.0061.c.success:0 "Blinding [sc_loser.GetFirstName] ensures [sc_loser.GetHerHis] survival, but at a great cost."
+tactical_forest_battle.0061.d:0 "Leave [sc_loser.GetFirstName] permanently scarred and release [sc_loser.GetHerHim] to [sc_loser.GetHerHis] fate."
+tactical_forest_battle.0061.d.success:0 "The scars will serve as a lasting reminder of [sc_loser.GetFirstNamePossessive] defeat."
+tactical_forest_battle.0061.e:0 "Maim [sc_loser.GetFirstName] and release [sc_loser.GetHerHim] to [sc_loser.GetHerHis] fate"
+tactical_forest_battle.0061.e.success:0 "[sc_loser.GetFirstName] will carry the burden of [sc_loser.GetHerHis] injuries for the rest of [sc_loser.GetHerHis] life."
+
+
+# Event 0005 - First tactical decision (Forest)
+tactical_forest_battle.0005.t:0 "Battle in the [battle_location.GetProvince.GetTerrain.GetName|l] of [battle_location.GetProvince.GetName]"
+tactical_forest_battle.0005.desc:0 "While fighting in the war for [fighting_war.GetName] against [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal], My army clashes in the [battle_location.GetProvince.GetTerrain.GetName|l] of [battle_location.GetProvince.GetName] against the forces of [enemy_war_leader.GetFullNameNicknamedOrMeRegnal]. Our scouts report of [enemy_commander.GetFullNameNicknamedOrMeRegnal] being at the command. As the commander, I must choose our move to overcome the [enemy_commander.GetTitleTierName]."
+tactical_forest_battle.0005.a:0 "Focus on the left flank ([left_flank_commander.GetSkill( 'martial' )]#! [martial|E] [left_flank_commander.GetTitledFirstNameOrMe] vs [enemy_right_flank_commander.GetTitledFirstNameNicknamedRegnal] [enemy_right_flank_commander.GetSkill( 'martial' )]#! [martial|E])"
+tactical_forest_battle.0005.b:0 "Focus on the center ([center_flank_commander.GetSkill( 'martial' )]#! [martial|E] [center_flank_commander.GetTitledFirstNameOrMe] vs [enemy_center_flank_commander.GetTitledFirstNameNicknamedRegnal] [enemy_center_flank_commander.GetSkill( 'martial' )]#! [martial|E])"
+tactical_forest_battle.0005.c:0 "Focus on the right flank ([right_flank_commander.GetSkill( 'martial' )]#! [martial|E] [right_flank_commander.GetTitledFirstNameOrMe] vs [enemy_left_flank_commander.GetTitledFirstNameNicknamedRegnal] [enemy_left_flank_commander.GetSkill( 'martial' )]#! [martial|E])"
+tactical_forest_battle.0005.d:0 "Hold my knights in reserve"
+tactical_forest_battle.0005.d.success:0 "My knights are perfectly positioned to exploit any opening!"
+tactical_forest_battle.0005.d.failure:0 "The battle develops too quickly, and my knights are caught out of position."
+tactical_forest_battle.0005.e:0 "Focus on our elite ranged units"
+tactical_forest_battle.0005.f:0 "Focus on our elite cavalry"
+tactical_forest_battle.0005.n:0 "Charge for their commander!"
+tactical_forest_battle.0005.n.success:0 "[left_flank_commander.GetFullNameNicknamedOrMe] duels [enemy_right_flank_commander.GetFullNameNicknamed]"
+tactical_forest_battle.0005.n.failure:0 "Our charge is unable to break through!"
+tactical_forest_battle.0005.kc:0 "Duel Victory!"
+tactical_forest_battle.0005.kc.success:0 "[left_flank_commander.GetFullNameNicknamed] has slain [enemy_right_flank_commander.GetFullNameNicknamed] in single combat, demoralizing their troops!"
+tactical_forest_battle.0005.cc:0 "Duel Victory!"
+tactical_forest_battle.0005.cc.success:0 "[left_flank_commander.GetFullNameNicknamed] has captured [enemy_right_flank_commander.GetFullNameNicknamed] after defeating [enemy_right_flank_commander.GetHerHim] in single combat, demoralizing their troops!"
+tactical_forest_battle.0005.ld:0 "Defeated in Duel!"
+tactical_forest_battle.0005.ld.failure:0 "[left_flank_commander.GetFullNameNicknamed] was defeated by [enemy_right_flank_commander.GetFullNameNicknamed] after surrounding [enemy_right_flank_commander.GetFirstName]! in battle!"
+tactical_forest_battle.0005.ldk:0 "Killed in Duel!"
+tactical_forest_battle.0005.ldk.failure:0 "[left_flank_commander.GetFullNameNicknamed] was killed by [enemy_right_flank_commander.GetFullNameNicknamed] after surrounding [enemy_right_flank_commander.GetFirstName] in battle!"
+tactical_forest_battle.0005.j:0 "Charge [enemy_right_flank_commander.GetFullNameNicknamed]!"
+tactical_forest_battle.0005.j.failure:0 "[left_flank_commander.GetFullNameNicknamed] was unable to breakthrough to [enemy_right_flank_commander.GetFullNameNicknamed]"
+tactical_forest_battle.0005.dtt.success:0 "Our flank charges and surrounds [enemy_right_flank_commander.GetFirstName]"
+# Event 0110 - Cavalry Feint SUCCESS Follow-up: Trap Sprung
+tactical_forest_battle.0110.t:0 "The Trap is Sprung!"
+tactical_forest_battle.0110.desc:0 "[left_flank_commander.GetTitledFirstNamePossessive] feint worked perfectly! [enemy_commander.GetFirstNamePossessive] commands to hold were drown out, and [enemy_commander.GetHerHis] vanguard broke formation to take the bait. The right side of their line is now stretched thin and disorganized."
+tactical_forest_battle.0110.a:0 "[left_flank_commander.GetTitledFirstName] leads the disorganized army into a trap of our crack units"
+tactical_forest_battle.0110.a.success:0 "[enemy_commander.GetFirstNamePossessive] right side follows [left_flank_commander.GetFirstNamePossessive] fleeing forces straight into an ambush!"
+tactical_forest_battle.0110.a.failure:0 "The right doesn't take the bait and holds position, rotating units to support other flanks"
+tactical_forest_battle.0110.b:0 "Send knights to crush their overextended flank"
+tactical_forest_battle.0110.b.success:0 "The knights smash into the enemy's exposed flank, breaking their formation!"
+tactical_forest_battle.0110.b.failure:0 "The enemy reorganizes quickly and turns on our knights"
+tactical_forest_battle.0110.c:0 "Break off forces from [right_flank_commander.GetTitledFirstNamePossessive] flank to encircle their lured units"
+tactical_forest_battle.0110.c.success:0 "[right_flank_commander.GetTitledFirstName] successfully encircles the enemy units, cutting off their retreat!"
+tactical_forest_battle.0110.c.failure:0 "The enemy leads a devastating charge into our depleted right flank"
+tactical_forest_battle.0110.d:0 "Rotate [center_flank_commander.GetFirstNamePossessive] reserves to encircle the lured units"
+tactical_forest_battle.0110.d.success:0 "The reserves move swiftly and are in position to encircle"
+tactical_forest_battle.0110.d.failure:0 "[enemy_commander.GetFirstNamePossessive] recognizes our depleted center!"
+tactical_forest_battle.0110.e:0 "Turn and kill the lured units with a full charge"
+tactical_forest_battle.0110.e.success:0 "The full charge takes the enemy by surprise!"
+tactical_forest_battle.0110.e.failure:0 "The enemy remains steadfast and repels our charge!"
+
+
+# ============================================
+# EVENT 9474 - Rally Army After Being Pressured
+# ============================================
+
+tactical_forest_battle.9474.t:0 "Rally the Army"
+tactical_forest_battle.9474.desc:0 "The battle on the left has reached a critical point. Our forces are wavering but not yet broken. With strong leadership and bold action, we can restore order and turn this around!"
+tactical_forest_battle.9474.a:0 "Left presses the attack"
+tactical_forest_battle.9474.a.success:0 "Our army hears the call and rallies!"
+tactical_forest_battle.9474.a.failure:0 "The army continues to waver!"
+tactical_forest_battle.9474.b:0 "Feign a retreat to lure enemy in and counter-attack"
+tactical_forest_battle.9474.b.success:0 "The counter-attack succeeds and morale soars!"
+tactical_forest_battle.9474.b.failure:0 "The counter-attack fails and morale crumbles!"
+tactical_forest_battle.9474.c:0 "Center charges hard to ease pressure"
+tactical_forest_battle.9474.c.success:0 "The charge disorients their right flank!"
+tactical_forest_battle.9474.c.failure:0 "The enemy remains steadfast!"
+tactical_forest_battle.9474.d:0 "Right flanks charges hard to ease pressure"
+tactical_forest_battle.9474.d.success:0 "The charge disorients their left flank!"
+tactical_forest_battle.9474.d.failure:0 "The enemy remains steadfast!"
+tactical_forest_battle.9474.e:0 "Send knights to reinforce"
+tactical_forest_battle.9474.e.success:0 "Reserves arrive and strengthen the line!"
+tactical_forest_battle.9474.e.failure:0 "Reserves are too scattered to help!"
+tactical_forest_battle.9474.f:0 "Send elite crack units to reinforce"
+tactical_forest_battle.9474.f.success:0 "Our crack units cause chaos among the enemy!"
+tactical_forest_battle.9474.f.failure:0 "Our crack units are overwhelmed!"
+
+# ============================================
+# EVENT 0650 - Right Flank Reserves Intercept
+# ============================================
+tactical_forest_battle.0650.t:0 "Right Flank Intercepts Enemy Movement"
+tactical_forest_battle.0650.desc:0 "Our right flank reserves have detected [enemy_commander.GetFirstNamePossessive] forces attempting to maneuver against our position. We have a brief window to act before the enemy completes their movement."
+
+tactical_forest_battle.0650.a:0 "Launch a fierce push by the right flank"
+tactical_forest_battle.0650.a.success:0 "The right flank delivers a crushing blow, collapsing the enemy's right side!"
+tactical_forest_battle.0650.a.failure:0 "The push is driven back, and the enemy gains the initiative!"
+
+tactical_forest_battle.0650.b:0 "Wheel the left flank to attack from behind"
+tactical_forest_battle.0650.b.success:0 "Our wheel maneuver catches the enemy in a devastating crossfire!"
+tactical_forest_battle.0650.b.failure:0 "The flanking maneuver is detected and disrupted by enemy counterattacks!"
+
+tactical_forest_battle.0650.c:0 "Inspire the troops with a bold rallying call"
+tactical_forest_battle.0650.c.success:0 "The troops are inspired and push back the enemy advance!"
+tactical_forest_battle.0650.c.failure:0 "Our rallying call goes unheeded, and the army continues to lose ground!"
+
+tactical_forest_battle.0650.d:0 "Turn on the right reserves and create confusion"
+tactical_forest_battle.0650.d.success:0 "The reserves create enough confusion for us to reposition favorably!"
+tactical_forest_battle.0650.d.failure:0 "The intrigue backfires, and the enemy exploits our confusion!"
+
+tactical_forest_battle.0650.e:0 "Send knights to reinforce the right flank"
+tactical_forest_battle.0650.e.success:0 "The knights reinforce the flank and secure the position!"
+tactical_forest_battle.0650.e.failure:0 "The knights are cut off and surrounded by superior enemy numbers!"
+
+tact_duel_kills_commander_desc:0 " #alert_trial [left_flank_commander.GetFirstName] kills the enemy [enemy_right_flank_commander.GetFirstName] in combat#!"
+tact_duel_capture_desc:0 " #alert_trial [left_flank_commander.GetFirstName] defeats the enemy [enemy_right_flank_commander.GetFirstName] in combat#!"
+tact_duel_loses_desc:0 " #alert_trial [enemy_right_flank_commander.GetFirstName] defeats our knight [left_flank_commander.GetFirstName] in combat#!"
+tact_duel_dies_desc:0 " #alert_trial [enemy_right_flank_commander.GetFirstName] kills our knight [left_flank_commander.GetFirstName] in combat#!"
+tact_duel_lost_injury_tt:0 "Could get seriously wounded!"
+tact_duel_captured_tt:0 "[enemy_right_flank_commander.GetFirstName] will be captured after battle"
+tactical_knight_lost_commander_tt:0 " #alert_trial The flank of the enemy is shook from losing their commander. #!"
+tactical_our_charge_was_routed_tt:0 " #alert_trial The enemy absorbs our charge and reforms#!" 
+tactical_our_commander_was_lost_tt:0 "Our Charge is absorbed and we lost the commander of our flanks!"
+
+tact_right_duel_kills_commander_desc:0 " #alert_trial [right_flank_commander.GetFirstName] kills the enemy [enemy_left_flank_commander.GetFirstName] in combat#!"
+tact_right_duel_capture_desc:0 " #alert_trial [right_flank_commander.GetFirstName] defeats the enemy [enemy_left_flank_commander.GetFirstName] in combat#!"
+tact_right_duel_loses_desc:0 " #alert_trial [enemy_left_flank_commander.GetFirstName] defeats our knight [right_flank_commander.GetFirstName] in combat#!"
+tact_right_duel_dies_desc:0 " #alert_trial [enemy_left_flank_commander.GetFirstName] kills our knight [right_flank_commander.GetFirstName] in combat#!"
+tact_right_duel_lost_injury_tt:0 "Could get seriously wounded!"
+tact_right_duel_captured_tt:0 "[enemy_center_flank_commander.GetFirstName] will be captured after battle"
+tactical_knight_lost_commander_tt:0 " #alert_trial The flank of the enemy is shook from losing their commander. #!"
+tactical_our_charge_was_routed_tt:0 " #alert_trial The enemy absorbs our charge and reforms#!" 
+tactical_our_commander_was_lost_tt:0 "Our Charge is absorbed and we lost the commander of our flanks!"
+
+tact_center_duel_kills_commander_desc:0 " #alert_trial [center_flank_commander.GetFirstName] kills the enemy [enemy_center_flank_commander.GetFirstName] in combat#!"
+tact_center_duel_capture_desc:0 " #alert_trial [center_flank_commander.GetFirstName] defeats the enemy [enemy_center_flank_commander.GetFirstName] in combat#!"
+tact_center_duel_loses_desc:0 " #alert_trial [enemy_center_flank_commander.GetFirstName] defeats our knight [center_flank_commander.GetFirstName] in combat#!"
+tact_center_duel_dies_desc:0 " #alert_trial [enemy_center_flank_commander.GetFirstName] kills our knight [center_flank_commander.GetFirstName] in combat#!"
+tact_center_duel_lost_injury_tt:0 "Could get seriously wounded!"
+tact_center_duel_captured_tt:0 "[enemy_center_flank_commander.GetFirstName] will be captured after battle"
+tactical_knight_lost_commander_tt:0 " #alert_trial The flank of the enemy is shook from losing their commander. #!"
+tactical_our_charge_was_routed_tt:0 " #alert_trial The enemy absorbs our charge and reforms#!" 
+tactical_our_commander_was_lost_tt:0 "Our charge is absorbed and we lost the commander of our flanks!"
+
+
+trait_lifestyle_battlefield_veteran:0 "Battlefield Veteran"
+lifestyle_battlefield_veteran_desc:0 "This character has extensive experience fighting in battle, having survived numerous engagements and learned valuable lessons from their experiences"
+lifestyle_battlefield_veteran_character_desc:0 "[ROOT.Char.GetFullNameNicknamed] has extensive experience fighting in battle, having survived numerous engagements and learned valuable lessons from their experiences"
+trait_track_kills:0 "Taker of Lives"
+trait_track_kills_desc:0 "This character has taken the lives on enemies on the battlefield."
+trait_track_maims:0 "Maimer"
+trait_track_maims_desc:0 "This character has permanently disfigured enemies on the battlefield."
+trait_track_wounds:0 "Scar Giver"
+trait_track_wounds_desc:0 "This character has inflicted permanent wounds on enemies on the battlefield."
+trait_track_wins:0 "Duelist"
+trait_track_wins_desc:0 "This character has won numerous duels on the battlefield."
+
+# ============================================
+# EVENT 9476 - Rally Army
+tactical_forest_battle.9476.t:0 "Rally the Army"
+tactical_forest_battle.9476.desc:0 "The battle on the right has reached a critical point. Our forces are wavering but not yet broken. With strong leadership and bold action, we can restore order and turn this around!"
+tactical_forest_battle.9476.a:0 "Right presses the attack"
+tactical_forest_battle.9476.a.success:0 "Our army hears the call and rallies!"
+tactical_forest_battle.9476.a.failure:0 "The army continues to waver!"
+tactical_forest_battle.9476.b:0 "Feign a retreat to lure enemy in and counter-attack"
+tactical_forest_battle.9476.b.success:0 "The counter-attack succeeds and morale soars!"
+tactical_forest_battle.9476.b.failure:0 "The counter-attack fails and morale crumbles!"
+tactical_forest_battle.9476.c:0 "Center charges hard to ease pressure"
+tactical_forest_battle.9476.c.success:0 "The charge disorients their right flank!"
+tactical_forest_battle.9476.c.failure:0 "The enemy remains steadfast!"
+tactical_forest_battle.9476.d:0 "Left flank charges hard to ease pressure"
+tactical_forest_battle.9476.d.success:0 "The charge disorients their left flank!"
+tactical_forest_battle.9476.d.failure:0 "The enemy remains steadfast!"
+tactical_forest_battle.9476.e:0 "Send knights to reinforce"
+tactical_forest_battle.9476.e.success:0 "Reserves arrive and strengthen the line!"
+tactical_forest_battle.9476.e.failure:0 "Reserves are too scattered to help!"
+tactical_forest_battle.9476.f:0 "Send elite crack units to reinforce"
+tactical_forest_battle.9476.f.success:0 "Our crack units cause chaos among the enemy!"
+tactical_forest_battle.9476.f.failure:0 "Our crack units are overwhelmed!"
+
+# ============================================
+# EVENT 8010 - Broken Left Flank Exposed Center
+# ============================================
+tactical_forest_battle.8010.t:0 "Exposed Center!"
+tactical_forest_battle.8010.desc:0 "What's left of [enemy_commander.GetFirstNamePossessive] left flank is retreating! We have a critical opportunity to pursue and destroy them before they can regroup!"
+tactical_forest_battle.8010.a:0 "Turn on their center's flank"
+tactical_forest_battle.8010.a.success:0 "[right_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] turns and drives into the flank of their center!"
+tactical_forest_battle.8010.a.failure:0 "Right flank is bogged down"
+tactical_forest_battle.8010.b:0 "Capture prisoners"
+tactical_forest_battle.8010.b.success:0 "We capture many prisoners!"
+tactical_forest_battle.8010.b.failure:0 "Prisoners slip away!"
+tactical_forest_battle.8010.c:0 "Send knights to crash into their center's exposed flank"
+tactical_forest_battle.8010.c.success:0 "Knights charge is causing havoc"
+tactical_forest_battle.8010.c.failure:0 "Knights charge is absorbed"
+tactical_forest_battle.8010.d:0 "Send our elite crack units to crash into their center's exposed flank"
+tactical_forest_battle.8010.d.success:0 "Our elite crack units destroy enemy supplies!"
+tactical_forest_battle.8010.d.failure:0 "Our elite crack units cannot locate supplies!"
+
+tactical_forest_battle.8035.t:0 "Exposed Center!"
+tactical_forest_battle.8035.desc:0 "What's left of [enemy_commander.GetFirstNamePossessive] right flank is retreating! We have a critical opportunity to pursue and destroy them before they can regroup!"
+tactical_forest_battle.8035.a:0 "Turn on their center's flank"
+tactical_forest_battle.8035.a.success:0 "[left_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] turns and drives into the flank of their center!"
+tactical_forest_battle.8035.a.failure:0 "Left flank is bogged down"
+tactical_forest_battle.8035.b:0 "Capture prisoners"
+tactical_forest_battle.8035.b.success:0 "We capture many prisoners!"
+tactical_forest_battle.8035.b.failure:0 "Prisoners slip away!"
+tactical_forest_battle.8035.c:0 "Send knights to crash into their center's exposed flank"
+tactical_forest_battle.8035.c.success:0 "Knights charge is causing havoc"
+tactical_forest_battle.8035.c.failure:0 "Knights charge is absorbed"
+tactical_forest_battle.8035.d:0 "Send our elite crack units to crash into their center's exposed flank"
+tactical_forest_battle.8035.d.success:0 "Our crack units turn on their exposed center!"
+tactical_forest_battle.8035.d.failure:0 "Our elite units are bogged down"
+# ============================================
+# EVENT 7324 - Enemy Reorganizes Turns to Meet our center
+
+
+tactical_forest_battle.7324.t:0 "Enemy Strikes center Flank"
+tactical_forest_battle.7324.desc:0 "[enemy_commander.GetFirstNamePossessive] has recognized our weakened center flank and is launching an assault. Without our reserves, we make a crucial decision to keep our center flank."
+tactical_forest_battle.7324.a:0 "center flank stands strong against the assault"
+tactical_forest_battle.7324.a.success:0 "Our center flank holds firm against the enemy onslaught!"
+tactical_forest_battle.7324.a.failure:0 "The center flank is overwhelmed and begins to falter!"
+tactical_forest_battle.7324.b:0 "Send knights to reinforce the center"
+tactical_forest_battle.7324.b.success:0 "Fresh knights stabilize the center flank!"
+tactical_forest_battle.7324.b.failure:0 "The knights are intercepted before reaching the center!"
+tactical_forest_battle.7324.c:0 "Send our elite crack units to reinforce the center flank"
+tactical_forest_battle.7324.c.success:0 "Our reinforcements stablize the center flank!"
+tactical_forest_battle.7324.c.failure:0 "Our center is crumbling despite the reinforcements!"
+tactical_forest_battle.7324.d:0 "Try to slowly retreat and get their center out of position while reinforcements arrive"
+tactical_forest_battle.7324.d.success:0 "Their center begins to follow our retreat, exposing them!"
+tactical_forest_battle.7324.d.failure:0 "The center is unable to disengage under pressure!"
+tactical_forest_battle.7324.e:0 "Feign a retreat and turn on the pursuers"
+tactical_forest_battle.7324.e.success:0 "The enemy falls for our deception and pursues into an unexpected strike!"
+tactical_forest_battle.7324.e.failure:0 "They see through our deception and maintain their formation!"
+
+tactical_reserves_engaged_commander:0 "Reserve Rotation"
+tactical_reserves_engaged_troops:0 "Reserves Involved"
+
+tactical_counterattack_success_commander:0 "Hail Mary"
+tactical_counterattack_success_troops:0 "Desperate Counterattack"
+tactical_counterattack_success_enemy_commander:0 "Losing Hope"
+tactical_counterattack_success_enemy_troops:0 "Shaken Morale"
+
+
+
+# ============================================
+
+######
+
+# Event 0210 - Cavalry Feint FAILURE Follow-up: Feint Unmasked
+tactical_forest_battle.0210.t:0 "Feint Unmasked!"
+tactical_forest_battle.0210.desc:0 "[enemy_commander.GetTitledFirstName] saw through our cavalry feint! Their forces held discipline instead of pursuing, and now our horsemen face braced infantry, volleys of missiles, or counter-cavalry waiting in ambush. The tactical situation has turned against us—I must decide how to salvage this disaster."
+tactical_forest_battle.0210.a:0 "Push through the trap! Charge with everything! (Martial + Prowess vs [enemy_commander.GetShortUINameNoTooltip], very risky)"
+tactical_forest_battle.0210.a.success:0 "Against all odds, our sheer audacity breaks their formation! The enemy reels from our desperate charge!"
+tactical_forest_battle.0210.a.failure:0 "The charge collapses into a catastrophic rout. Our cavalry are scattered and broken!"
+tactical_forest_battle.0210.b:0 "Dismount and hold the line! (Requires infantry support)"
+tactical_forest_battle.0210.c:0 "Screen the retreat with the cavalry. (Sacrifice cavalry to save the army)"
+tactical_forest_battle.0210.d:0 "Rally the wavering horse with personal leadership! (Requires Brave, Inspiring Leader, or Martial 14+)"
+tactical_forest_battle.0210.d.success:0 "My leadership steadies the cavalry! They reform and prepare to fight on!"
+tactical_forest_battle.0210.d.failure:0 "The cavalry refuse to rally. Morale continues to crumble."
+
+
+
+# Event 0120 - Infantry Ambush SUCCESS Follow-up: Kill Zone in the Woods
+tactical_forest_battle.0120.t:0 "Kill Zone in the Woods!"
+tactical_forest_battle.0120.desc:0 "The enemy column has walked straight into our concealed infantry and missile troops! The forest visibility is poor, their formations are stretched thin, and their command structure is in chaos. [enemy_commander.GetTitledFirstName]'s forces are caught in a perfect killing ground. How shall we capitalize on this opportunity?"
+tactical_forest_battle.0120.a:0 "Close the jaws of the trap! Seal their front and rear!"
+tactical_forest_battle.0120.b:0 "Let the arrows and javelins speak. Keep our infantry in cover. (Requires archers/skirmishers)"
+tactical_forest_battle.0120.b.success:0 "Our missile barrage devastates their exposed column!"
+tactical_forest_battle.0120.b.failure:0 "Their shields and armor limit the effectiveness of our barrage."
+tactical_forest_battle.0120.c:0 "Strike the officers first—target banners and commanders!"
+tactical_forest_battle.0120.c.success:0 "Our strike teams eliminate key officers! Their command collapses!"
+tactical_forest_battle.0120.c.failure:0 "The strike teams are isolated and take heavy casualties!"
+tactical_forest_battle.0120.d:0 "Leave them bleeding, then fade back into the woods."
+
+
+# Event 0220 - Infantry Ambush FAILURE Follow-up: Ambush Detected
+tactical_forest_battle.0220.t:0 "Ambush Detected!"
+tactical_forest_battle.0220.desc:0 "[enemy_commander.GetTitledFirstName] saw through our ambush! Their scouts detected our concealed positions, and their forces adapted before we could spring the trap. Our scattered infantry units are caught exposed in [battle_location.GetName] with no coordinated advantage. I must decide how to salvage this tactical disaster."
+tactical_forest_battle.0220.a:0 "Retreat and consolidate defensive positions! Regroup into strongholds."
+tactical_forest_battle.0220.b:0 "Change formation and counter-charge through enemy pressure! (Martial 11+, high risk)"
+tactical_forest_battle.0220.b.success:0 "Our unexpected aggression catches the enemy off-guard! Their formation breaks!"
+tactical_forest_battle.0220.b.failure:0 "The counter-charge exposes our infantry even further. Disaster!"
+tactical_forest_battle.0220.c:0 "Use the forest to scatter units and reform elsewhere. (Stewardship 10+)"
+tactical_forest_battle.0220.c.success:0 "Our units slip away through the trees and regroup safely!"
+tactical_forest_battle.0220.c.failure:0 "The scattered units cannot reform. They remain disorganized and vulnerable."
+tactical_forest_battle.0220.d:0 "Hold our ground and fight through the pressure! Accept heavy casualties."
+
+# Event 0130 - Levy Braced SUCCESS Follow-up: Spears and Trees
+tactical_forest_battle.0130.t:0 "Spears and Trees!"
+tactical_forest_battle.0130.desc:0 "The levy spearwall holds like stone! The forest itself becomes a fortress as our soldiers plant themselves between the trees. [enemy_commander.GetTitledFirstName]'s forces crash against our bristling formation and falter. Now comes the moment to press our advantage—how shall we exploit their weakness?"
+tactical_forest_battle.0130.a:0 "Hold the line and grind them down. Let attrition work for us."
+tactical_forest_battle.0130.b:0 "Strike suddenly through their center! (Learning + Martial 9+, moderate risk)"
+tactical_forest_battle.0130.b.success:0 "The sudden thrust breaks their resolve! The enemy formation collapses!"
+tactical_forest_battle.0130.b.failure:0 "The thrust slows but the line holds. They refuse to break."
+tactical_forest_battle.0130.c:0 "Let the archers massacre them in the killing field. (Requires archers MaA)"
+tactical_forest_battle.0130.c.success:0 "Devastating volleys rain down! The killing field claims hundreds!"
+tactical_forest_battle.0130.c.failure:0 "Archers run low on arrows and lose their advantage."
+tactical_forest_battle.0130.d:0 "Form an anvil to shatter their charge! (Focus on toughness)"
+
+# Event 0230 - Levy Scattered FAILURE Follow-up: Formation Broken
+tactical_forest_battle.0230.t:0 "Formation Broken!"
+tactical_forest_battle.0230.desc:0 "The levies scatter in panic! Instead of forming a bristling spearwall, the soldiers spread between the trees, unable to coordinate or hold a line. [enemy_commander.GetTitledFirstName] sees the weakness and exploits it. The formation is broken—I must act quickly to salvage this disaster."
+tactical_forest_battle.0230.a:0 "Rally them with personal example! Lead from the front! (Prowess 10+, Martial 9+)"
+tactical_forest_battle.0230.a.success:0 "My personal valor rallies the soldiers! They reform and steel themselves!"
+tactical_forest_battle.0230.a.failure:0 "The soldiers remain frightened and scattered. Morale does not recover."
+tactical_forest_battle.0230.b:0 "Commit your elite knights to shore up the line. (Requires 2+ knights)"
+tactical_forest_battle.0230.c:0 "Reposition scattered units to better terrain. (Stewardship 9+)"
+tactical_forest_battle.0230.c.success:0 "The scattered levies are gathered and repositioned to stronger ground!"
+tactical_forest_battle.0230.c.failure:0 "The repositioning attempt fails. Units become even more scattered!"
+tactical_forest_battle.0230.d:0 "Focus on reducing enemy morale instead. (Intrigue 8+, psychological warfare)"
+
+
+# Event 0140 - Knights in Reserve SUCCESS Follow-up: Knights Ready
+tactical_forest_battle.0140.t:0 "Knights Ready!"
+tactical_forest_battle.0140.desc:0 "The knights wait in perfect readiness, hidden from the enemy's view. [enemy_commander.GetTitledFirstName]'s forces are committed to their current positions, unaware of our cavalry reserve waiting to strike. Now is the moment to unleash them—how shall we use their devastating potential?"
+tactical_forest_battle.0140.a:0 "Hammer strike—devastating cavalry charge! (Prowess 11+, very high risk/reward)"
+tactical_forest_battle.0140.a.success:0 "The charge is executed flawlessly! Our knights shatter the enemy formation like glass!"
+tactical_forest_battle.0140.a.failure:0 "The charge overextends and knights are caught isolated!"
+tactical_forest_battle.0140.b:0 "Flanking maneuver—circle around the enemy! (Martial 10+)"
+tactical_forest_battle.0140.b.success:0 "The flanking maneuver succeeds! The enemy is caught off-guard from behind!"
+tactical_forest_battle.0140.b.failure:0 "The maneuver is blocked before it can develop!"
+tactical_forest_battle.0140.c:0 "Pursuit—capitalize on retreating units! (Intrigue 9+)"
+tactical_forest_battle.0140.c.success:0 "The pursuit routs the enemy! They cannot reorganize!"
+tactical_forest_battle.0140.c.failure:0 "The pursuit is blocked and our cavalry take casualties."
+tactical_forest_battle.0140.d:0 "Disciplined withdrawal—use knights to cover retreat. (Stewardship 9+)"
+
+martial_positive:0 "Tactical Advantage"
+martial_negative:0 "Tactical Disadvantage"
+
+frontline_commander:0 "Frontline Commander"
+frontline_commander_desc:0 "This character is leading troops in the thick of battle, inspiring them to greater feats of valor and effectiveness."
+tactical_commander:0 "Tactical Commander"
+
+# ============================================
+# EVENT 2010 - Left Flank Tactics
+# ============================================
+tactical_forest_battle.2010.t:0 "Following the Feint"
+tactical_forest_battle.2010.desc:0 "Our feint on the right flank has drawn the enemy's attention, leaving their left flank vulnerable. We must decide how best to exploit this opportunity before they can react and reinforce."
+
+tactical_forest_battle.2010.a:0 "Turn and kill the pursuing enemy"
+tactical_forest_battle.2010.a.success:0 "Left flank suddenly turns on pursuers"
+tactical_forest_battle.2010.a.failure:0 "[enemy_commander.GetFirstNamePossessive] right flank holds firm against our sudden onslaught"
+
+tactical_forest_battle.2010.b:0 "Lure to an ambush of our elite regmients"
+tactical_forest_battle.2010.b.success:0 "Their right flank is led into a trap!"
+tactical_forest_battle.2010.b.failure:0 "Their right maintains discipline and refuses to follow the feint"
+
+tactical_forest_battle.2010.c:0 "Rotate right reserves to try and encircle the out of position right flank"
+tactical_forest_battle.2010.c.success:0 "Our forces breakoff and are in position to encircle the enemy!"
+tactical_forest_battle.2010.c.failure:0 "The arrving encircling forces are met face o"
+
+tactical_forest_battle.2010.d:0 "Rotate center reserves to try and encircle the out of position right flank"
+tactical_forest_battle.2010.d.success:0 "Our forces breakoff and are in position to encircle the enemy!"
+tactical_forest_battle.2010.d.failure:0 "The arrving encircling forces are met face on"
+
+tactical_forest_battle.2010.e:0 "Press the advantage"
+tactical_forest_battle.2010.e.success:0 "We take advantage of the out of position enemy!"
+tactical_forest_battle.2010.e.failure:0 "The enemy is reinforced before we can exploit their position"
+
+# ============================================
+# EVENT 2012 - Knights Break Left Flank
+# ============================================
+tactical_forest_battle.2012.t:0 "Knights Tear Through The Right"
+tactical_forest_battle.2012.desc:0 "Our knights have torn through [enemy_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] out of position right flank, leaving it in disarray. If we press the attack now, we can turn on the exposed center and crush them before they can recover."
+
+tactical_forest_battle.2012.a:0 "Left flank floods the gap"
+tactical_forest_battle.2012.a.success:0 "[left_flank_commander.GetFullNameNicknamedPossessiveOrMy] flank floods through the shattered enemy formation!"
+tactical_forest_battle.2012.a.failure:0 "The enemy quickly stabilizes and prevents further penetration!"
+
+tactical_forest_battle.2012.b:0 "Send Our Elite Regiments to break their right"
+tactical_forest_battle.2012.b.success:0 "Our elite regiments smash through the enemy right!"
+tactical_forest_battle.2012.b.failure:0 "Their right rallys and holds against the charge!"
+
+tactical_forest_battle.2012.c:0 "Left flank charges hard to break the right flank"
+tactical_forest_battle.2012.c.success:0 "[left_flank_commander.GetFullNameNicknamedPossessiveOrMy] flank breaks their right flank"
+tactical_forest_battle.2012.c.failure:0 "Their right rallys and holds against the charge!"
+
+tactical_forest_battle.2012.d:0 "Press the advantage"
+tactical_forest_battle.2012.d.success:0 "[left_flank_commander.GetFullNameNicknamedOrMe] continues to press the right flank!"
+tactical_forest_battle.2012.d.failure:0 "The right is reinforced before we can exploit the breach!"
+
+tactical_forest_battle.2012.f:0 "Rotate center reserves to overwhelm the remaining right flank"
+tactical_forest_battle.2012.f.success:0 "Center reserves rotate and crush the remaining right flank!"
+tactical_forest_battle.2012.f.failure:0 "The reserves are unable to disengage after a push from the center!"
+
+
+
+# ============================================
+# EVENT 2014 - Right Flank Reserves Flood Left
+# ============================================
+tactical_forest_battle.2014.t:0 "Combined Assault on Left Flank"
+tactical_forest_battle.2014.desc:0 "The combined assault of our right flank reserves and [left_flank_commander.GetFullNameNicknamedPossessiveOrMy] left are are pressing the attack on their right flank, if we can break through here we can turn on the center."
+tactical_forest_battle.2014.a:0 "Combined forces flood the gap"
+tactical_forest_battle.2014.a.success:0 "The combined forces overwhelm the enemy right descends into disarray!"
+tactical_forest_battle.2014.a.failure:0 "The enemy quickly shifts forces to cover the gap!"
+
+tactical_forest_battle.2014.b:0 "Send our elite crack regiments to charge their disorganized flank"
+tactical_forest_battle.2014.b.success:0 "Our crack units cause havoc on their right flank!"
+tactical_forest_battle.2014.b.failure:0 "The enemy regroups and repels the assault!"
+
+tactical_forest_battle.2014.c:0 "Send knights to charge their right flank"
+tactical_forest_battle.2014.c.success:0 "Knights and reserves charge together, and their right descends into a panic"
+tactical_forest_battle.2014.c.failure:0 "The combined assault is met with fierce counterattack!"
+
+tactical_forest_battle.2014.d:0 "Flood the left to try and get behind their center"
+tactical_forest_battle.2014.d.success:0 "We manage to get some forces through their right flank"
+tactical_forest_battle.2014.d.failure:0 "The enemy anticipates the move and meets the flood head on"
+
+tactical_forest_battle.2014.e:0 "Press the assault"
+tactical_forest_battle.2014.e.success:0 "Our assault continues with devastating effect!"
+tactical_forest_battle.2014.e.failure:0 "The enemy stabilizes and the momentum slows!"
+
+# ============================================
+# EVENT 2016 - Center Flank Tactics
+# ============================================
+tactical_forest_battle.2016.t:0 "Combined Assault On The Left"
+tactical_forest_battle.2016.desc:0 "The combined assault of our center reserves and [left_flank_commander.GetFullNameNicknamedPossessiveOrMy] left are are pressing the attack on their right flank, if we can break through here we can turn on the center."
+
+tactical_forest_battle.2016.a:0 "Center reserves flood the gap"
+tactical_forest_battle.2016.a.success:0 "Center reserves pour through, breaking the enemy completely!"
+tactical_forest_battle.2016.a.failure:0 "The enemy stabilizes the center and holds firm!"
+
+tactical_forest_battle.2016.b:0 "Send our elite crack units to break the center"
+tactical_forest_battle.2016.b.success:0 "The crack units smash through the enemy center!"
+tactical_forest_battle.2016.b.failure:0 "The crack units assault is repulsed with heavy losses!"
+
+tactical_forest_battle.2016.c:0 "Send knights to support assault"
+tactical_forest_battle.2016.c.success:0 "Knights charge into the center, scattering the enemy!"
+tactical_forest_battle.2016.c.failure:0 "The knights are driven back by enemy reserves!"
+
+tactical_forest_battle.2016.d:0 "Right reserves support the center"
+tactical_forest_battle.2016.d.success:0 "Right reserves flank the center position perfectly!"
+tactical_forest_battle.2016.d.failure:0 "The maneuver fails and the center remains unbroken!"
+
+tactical_forest_battle.2016.e:0 "Continue the assault on the center"
+tactical_forest_battle.2016.e.success:0 "Our assault shatters the enemy center completely!"
+tactical_forest_battle.2016.e.failure:0 "The enemy holds the center position!"
+
+# ============================================
+# EVENT 1010 - Left Flank Exposed Center Follow-up
+# ============================================
+tactical_forest_battle.1010.t:0 "Flanked and Confused"
+tactical_forest_battle.1010.desc:0 "[left_flank_commander.GetTitledFirstNamePossessiveOrMy] flanking manuever has cause chaos on the enemies right flank, their men are breaking, if we can break through here we can turn on the center."
+
+tactical_forest_battle.1010.a:0 "Wrap around and flank their center"
+tactical_forest_battle.1010.a.success:0 "[left_flank_commander.GetFullNameNicknamedPossessiveOrMy] forces successfully flank the enemy center!"
+tactical_forest_battle.1010.a.failure:0 "The enemy anticipates the maneuver and blocks it!"
+
+tactical_forest_battle.1010.b:0 "Send knights to charge their right"
+tactical_forest_battle.1010.b.success:0 "Knights charge through and completely rout the left!"
+tactical_forest_battle.1010.b.failure:0 "The knights meet heavier resistance than expected!"
+
+tactical_forest_battle.1010.c:0 "Send our crack regiments to charge their right"
+tactical_forest_battle.1010.c.success:0 "Our crack regiments break "
+tactical_forest_battle.1010.c.failure:0 "The enemy has time to establish a new defensive line!"
+
+tactical_forest_battle.1010.d:0 "Press the advantage with full force"
+tactical_forest_battle.1010.d.success:0 "Full pressure breaks through all enemy defenses!"
+tactical_forest_battle.1010.d.failure:0 "The enemy holds despite the pressure!"
+
+tactical_forest_battle.1010.e:0 "Launch a hard charge to break their right flank"
+tactical_forest_battle.1010.e.success:0 "Left flank breaks enemy cohesion!"
+tactical_forest_battle.1010.e.failure:0 "Their holds strong and we can't break through!"
+
+
+# ============================================
+# EVENT 1014 - Center Pull Back Follow-up
+# ============================================
+tactical_forest_battle.1014.t:0 "Center Pull Back Strategy"
+tactical_forest_battle.1014.desc:0 "The enemy center is pulling back to regroup and coordinate with other forces. We must decide whether to pursue, lure them into a trap, or reposition our own units for maximum impact."
+tactical_forest_battle.1014.a:0 "Lure enemy to our MAA trap"
+tactical_forest_battle.1014.a.success:0 "The enemy walks directly into our trap and is devastated!"
+tactical_forest_battle.1014.a.failure:0 "The enemy recognizes the trap and avoids it!"
+tactical_forest_battle.1014.b:0 "Left flank charges hard at left"
+tactical_forest_battle.1014.b.success:0 "Our left charge breaks the enemy left completely!"
+tactical_forest_battle.1014.b.failure:0 "The left charge is repulsed by enemy reserves!"
+tactical_forest_battle.1014.c:0 "Center turns around and slaughters enemy"
+tactical_forest_battle.1014.c.success:0 "Our center wheels and destroys the enemy center!"
+tactical_forest_battle.1014.c.failure:0 "The enemy repels the counterattack!"
+tactical_forest_battle.1014.d:0 "Lure enemy center to knights"
+tactical_forest_battle.1014.d.success:0 "The enemy center is lured perfectly and destroyed by our knights!"
+tactical_forest_battle.1014.d.failure:0 "The enemy escapes the lure and retreats!"
+tactical_forest_battle.1014.e:0 "Press the advantage"
+tactical_forest_battle.1014.e.success:0 "Relentless pressure completely demoralizes the enemy!"
+tactical_forest_battle.1014.e.failure:0 "The enemy makes a stand and holds their ground!"
+
+ # Event 0010 - Left Flank Focus Follow-up
+tactical_forest_battle.0010.t:0 "Left Flank Engagement"
+tactical_forest_battle.0010.desc:0 "The battle rages on, and our forces engage along the left flank. [center_flank_commander.GetTitledFirstName] commands in the center, with [right_flank_commander.GetFirstName] on the right flank. [left_flank_commander.GetTitledFirstName] commands the left, using [left_flank_commander.GetHerHis] forces could prove pivotal to securing victory."
+tactical_forest_battle.0010.a:0 "Execute a feint retreat on the left flank"
+tactical_forest_battle.0010.a.success:0 "The feint succeeds! The enemy breaks formation to pursue our fleeing troops, creating a fatal vulnerability."
+tactical_forest_battle.0010.a.failure:0 "The enemy sees through our deception and maintains discipline, turning our feint against us!"
+tactical_forest_battle.0010.b:0 "Perform a flanking maneuver"
+tactical_forest_battle.0010.b.success:0 "Our flanking forces sweep around their left flank, shattering their cohesion!"
+tactical_forest_battle.0010.b.failure:0 "This commander anticipates our maneuver and rotates forces to meet us."
+tactical_forest_battle.0010.e:0 "Hit and run harassment tactics on their right flank"
+tactical_forest_battle.0010.e.success:0 "Our harassment tactics wear them down! Their right is bleeding!"
+tactical_forest_battle.0010.e.failure:0 "The enemy holds firm and maintain their formation!"
+tactical_forest_battle.0010.f:0 "Break off a hidden flanking force and slowly fallback"
+tactical_forest_battle.0010.f.success:0 "Our flanking force successfully disengages and loops around the pressing attack!"
+tactical_forest_battle.0010.f.failure:0 "Our flanking force is spotted and brought into combat!"
+tactical_forest_battle.0010.g:0 "Create a false gap enticing their right to charge into a trap"
+tactical_forest_battle.0010.g.success:0 "Their right begin to charge into the gap, falling into our trap!"
+tactical_forest_battle.0010.g.failure:0 "Their right refuses to take the bait and maintains discipline!"
+
+# Event 0011 - Center Flank Engagement
+tactical_forest_battle.0011.t:0 "Center Flank Engagement"
+tactical_forest_battle.0011.desc:0 "The battle rages on, and our forces engage along the center flank. [left_flank_commander.GetTitledFirstName] commands on the left, with [right_flank_commander.GetFirstName] on the right flank. [center_flank_commander.GetTitledFirstName] commands the center, and using [center_flank_commander.GetHerHis] forces could prove pivotal to securing victory."
+tactical_forest_battle.0011.a:0 "Create a false gap on the left part of our center"
+tactical_forest_battle.0011.a.success:0 "Their center charges the gap, falling into our trap!"
+tactical_forest_battle.0011.a.failure:0 "The enemy refuses to be drawn in and hold firm!"
+tactical_forest_battle.0011.b:0 "Create a false gap on the right part of our center"
+tactical_forest_battle.0011.b.success:0 "Their center charges the gap, falling into our trap!"
+tactical_forest_battle.0011.b.failure:0 "The enemy refuses to be drawn in and hold firm!"
+tactical_forest_battle.0011.c:0 "Send our elite regiments to crack their center"
+tactical_forest_battle.0011.c.success:0 "The elite attack shatters their cohesion! The center begins to crumble!"
+tactical_forest_battle.0011.c.failure:0 "The enemy anticipates and our elite forces are thrown back!"
+tactical_forest_battle.0011.d:0 "Commit our knights to smash through their center"
+tactical_forest_battle.0011.d.success:0 "The knights charge with devastating force! Their center collapses!"
+tactical_forest_battle.0011.d.failure:0 "The enemy prepares a counter-charge and our knights are thrown back!"
+tactical_forest_battle.0011.e:0 "Slowly Pull the center back to try and encircle"
+tactical_forest_battle.0011.e.success:0 "Their center is suddenly exposed on both flanks!"
+tactical_forest_battle.0011.e.failure:0 "They refuse to be drawn in and hold firm!"
+tactical_forest_battle.0011.f:0 "Launch a devastating charge through their center"
+tactical_forest_battle.0011.f.success:0 "Our charge smashes through their center! Their formation splinters under the impact!"
+tactical_forest_battle.0011.f.failure:0 "The enemy holds firm and our charge fails to break through!"
+
+# Event 0012 - Right Flank Engagement
+tactical_forest_battle.0012.t:0 "Right Flank Engagement"
+tactical_forest_battle.0012.desc:0 "Our forces engage the enemies left side, with [right_flank_commander.GetTitledFirstNameOrMeRegnal] commanding the right flank we can turn the tide of battle in our favor. "
+tactical_forest_battle.0012.a:0 "Execute a feint retreat on the enemies left flank"
+tactical_forest_battle.0012.a.success:0 "The feint succeeds! The enemy breaks formation to pursue our fleeing troops!"
+tactical_forest_battle.0012.a.succes.desc:0 "The feint succeeds! The enemy breaks formation to pursue our fleeing troops!"
+tactical_forest_battle.0012.a.failure:0 "[enemy_commander.GetFirstName] sees through our deception and retreats to attack our center!"
+tactical_forest_battle.0012.b:0 "Perform a flanking maneuver on their left flank"
+tactical_forest_battle.0012.b.success:0 "Our flanking forces sweep around their left flank, shattering their cohesion!"
+tactical_forest_battle.0012.b.failure:0 "[enemy_commander.GetFirstName] rotates reserves from the left to reinforce!"
+tactical_forest_battle.0012.c:0 "Break off a hidden flanking force and slowly fallback"
+tactical_forest_battle.0012.c.success:0 "Our flanking force successfully disengages and loops around the pressing attack!"
+tactical_forest_battle.0012.c.failure:0 "Our flanking force is spotted and brought into combat!"
+tactical_forest_battle.0012.d:0 "Engage in hit-and-run tactics on their left flank"
+tactical_forest_battle.0012.d.success:0 "Our hit-and-run tactics disrupt their formation! They struggle to reorganize!"
+tactical_forest_battle.0012.d.failure:0 "The enemy holds firm and our forces cannot exploit the moment!"
+tactical_forest_battle.0012.e:0 "Create a false gap enticing their left to charge into a trap"
+tactical_forest_battle.0012.e.success:0 "Their left begin to charge into the gap, falling into our trap!"
+tactical_forest_battle.0012.e.failure:0 "The left refuses to take the bait and maintains discipline!"
+
+
+
+# Event 8005 - Enemy Left Flank Routing
+
+# Event 5750 - Begin to Fallback Center
+tactical_forest_battle.5750.t:0 "Begin to Fallback Center"
+tactical_forest_battle.5750.desc:0 "Our center is taking heavy pressure from the enemy and we must decide whether to hold, retreat, or counterattack."
+tactical_forest_battle.5750.a:0 "MAA attack charge"
+tactical_forest_battle.5750.a.success:0 "MAA charge breaks enemy assault!"
+tactical_forest_battle.5750.a.failure:0 "MAA charge is repulsed!"
+tactical_forest_battle.5750.b:0 "Left flank charge"
+tactical_forest_battle.5750.b.success:0 "Left flank charge relieves pressure!"
+tactical_forest_battle.5750.b.failure:0 "Left flank charge fails to develop!"
+tactical_forest_battle.5750.c:0 "Knights retreat charge"
+tactical_forest_battle.5750.c.success:0 "Knights charge while retreating succeeds!"
+tactical_forest_battle.5750.c.failure:0 "Knights charge fails!"
+tactical_forest_battle.5750.d:0 "Knights retreat into ambush"
+tactical_forest_battle.5750.d.success:0 "Enemy pursues into our ambush!"
+tactical_forest_battle.5750.d.failure:0 "Enemy avoids the ambush!"
+tactical_forest_battle.5750.e:0 "Inspire troops"
+tactical_forest_battle.5750.e.success:0 "Troops are inspired and hold firm!"
+tactical_forest_battle.5750.e.failure:0 "Inspiration fails to take hold!"
+
+# Event 9251 - Enemy Is Retreating
+
+# Event 0656 - Right Flank Reserves Intercepted
+tactical_forest_battle.0656.t:0 "Right Flank Reserves Intercepted"
+tactical_forest_battle.0656.desc:0 "[enemy_commander.GetFirstNamePossessive] has intercepted our right flank reserves! We must decide how to respond to this threat."
+tactical_forest_battle.0656.a:0 "Fierce push by left"
+tactical_forest_battle.0656.a.success:0 "Left flank fierce push succeeds!"
+tactical_forest_battle.0656.a.failure:0 "Left flank push fails to develop!"
+tactical_forest_battle.0656.b:0 "Feign retreat"
+tactical_forest_battle.0656.b.success:0 "Feigned retreat lures enemy into trap!"
+tactical_forest_battle.0656.b.failure:0 "Retreat becomes uncontrolled!"
+tactical_forest_battle.0656.c:0 "Inspire troops"
+tactical_forest_battle.0656.c.success:0 "Troops are inspired and rally!"
+tactical_forest_battle.0656.c.failure:0 "Inspiration falls on deaf ears!"
+tactical_forest_battle.0656.d:0 "Turn on right reserves"
+tactical_forest_battle.0656.d.success:0 "Right reserves turn and counterattack!"
+tactical_forest_battle.0656.d.failure:0 "Right reserves cannot maneuver!"
+tactical_forest_battle.0656.e:0 "Pull back and lure trap"
+tactical_forest_battle.0656.e.success:0 "Enemy pursues into our trap!"
+tactical_forest_battle.0656.e.failure:0 "Enemy avoids the trap!"
+tactical_forest_battle.0656.f:0 "Right flank pushes forward"
+tactical_forest_battle.0656.f.success:0 "Right flank pushes through enemy!"
+tactical_forest_battle.0656.f.failure:0 "Right flank is contained!"
+
+
+# Event 7323 - Left Encircles (Outcomes)
+tactical_forest_battle.7323.t:0 "The Right Flank is Encircled!"
+tactical_forest_battle.7323.desc:0 "[left_flank_commander.GetTitledFirstName] has successfully enclosed [enemy_commander.GetFirstNamePossessive] right flank! Thousands of enemy soldiers are now trapped, cut off from retreat or reinforcement. [enemy_commander.GetTitledFirstName] watches helplessly as their trapped forces face annihilation. We must decide their fate—do we show them the mercy of honorable surrender, or do we utterly destroy them as an example?"
+tactical_forest_battle.7323.a:0 "Begin the Slaughter!"
+tactical_forest_battle.7323.a.success:0 "[left_flank_commander.GetTitledFirstName] leads the assault on the trapped forces!"
+tactical_forest_battle.7323.a.failure:0 "The trapped forces stage a desperate breakout and many escape!"
+tactical_forest_battle.7323.b:0 "Take Captives!"
+tactical_forest_battle.7323.b.success:0 "The trapped forces surrender and become prisoners of war!"
+tactical_forest_battle.7323.b.failure:0 "Many of the trapped forces refuse to surrender and fight to the death!"
+
+ # Event 9466 - Their Center is Shocked
+tactical_forest_battle.9466.t:0 "Flanked and Confused"
+tactical_forest_battle.9466.desc:0 "[enemy_commander.GetTitledFirstNamePossessiveOrMy] center is reeling in shock! Ther panic is a perfect opportunity! If we can break through here we can turn on the center."
+tactical_forest_battle.9466.a:0 "Feign a retreat and turn on the pursuers "
+tactical_forest_battle.9466.a.success:0 "[center_flank_commander.GetFullNameNicknamedPossessiveOrMy] feign a retreat and smash into their center!"
+tactical_forest_battle.9466.a.failure:0 "The enemy reorganizes and stands firm!"
+tactical_forest_battle.9466.b:0 "Coordinate a charge with our knights"
+tactical_forest_battle.9466.b.success:0 "Our combined charge smashes into their center"
+tactical_forest_battle.9466.b.failure:0 "The enemy stands firm against our charge!"
+tactical_forest_battle.9466.c:0 "Coordinate with our crack regiments to charge their right"
+tactical_forest_battle.9466.c.success:0 "Our combined assault causes chaos on their center!"
+tactical_forest_battle.9466.c.failure:0 "The enemy has time to establish a new defensive line!"
+tactical_forest_battle.9466.d:0 "Press the advantage with full force"
+tactical_forest_battle.9466.d.success:0 "We press the attack on their center!"
+tactical_forest_battle.9466.d.failure:0 "The enemy holds despite the pressure!"
+tactical_forest_battle.9466.e:0 "[center_flank_commander.GetTitledFirstNameOrMeRegnal] charges hard to crush their center!"
+tactical_forest_battle.9466.e.success:0 "Our charge breaks enemy cohesion!"
+tactical_forest_battle.9466.e.failure:0 "Their holds strong and we can't break through!"
+
+# Event .220 - Left Begins Encircle
+tactical_forest_battle.220.t:0 "Left Flank Begins Encirclement"
+tactical_forest_battle.220.desc:0 "[left_flank_commander.GetTitledFirstNamePossessiveOrMy] force has leaked behind the enemy lines. We must press this advantage before [enemy_commander.GetFirstNamePossessive] reinforcements arrive. The men believe stalling the enemy for long enough will alow them to surround our enemy."
+tactical_forest_battle.220.a:0 "Pincer with Right Flank!"
+tactical_forest_battle.220.a.success:0 "[left_flank_commander.GetTitledFirstName] and our right flank coordinate a devastating pincer movement!"
+tactical_forest_battle.220.a.failure:0 "The coordination between flanks breaks down, and the enemy escapes the pincer!"
+tactical_forest_battle.220.b:0 "Send our knights to keep them busy!"
+tactical_forest_battle.220.b.success:0 "Our knights are engaged, distracting them from surrounding enemies!"
+tactical_forest_battle.220.b.failure:0 "The enemy sees the encircling force!"
+tactical_forest_battle.220.c:0 "Send our crack units to keep them busy"
+tactical_forest_battle.220.c.success:0 "Our crack units engage with the enemy, allowing the encirclement to proceed!"
+tactical_forest_battle.220.c.failure:0 "The enemy regroup and push back our units!"
+tactical_forest_battle.220.d:0 "Form an anvil while the leaked forces attack from behind"
+tactical_forest_battle.220.d.success:0 "[center_flank_commander.GetTitledFirstName] right flank is smashed between two forces!"
+tactical_forest_battle.220.d.failure:0 "Their right stands strong for the moment!"
+tactical_forest_battle.220.e:0 "Inspire our troops to fight harder until the encirclement is complete"
+tactical_forest_battle.220.e.success:0 "[center_flank_commander.GetTitledFirstName] right flank is smashed between two forces!"
+tactical_forest_battle.220.e.failure:0 "Their right stands strong for the moment!"
+
+
+tactical_forest_battle.221.t:0 "Right Flank Begins Encirclement"
+tactical_forest_battle.221.desc:0 "[right_flank_commander.GetTitledFirstNamePossessiveOrMy] force has leaked behind the enemy lines. We must press this advantage before [enemy_commander.GetFirstNamePossessive] reinforcements arrive. The men believe stalling the enemy for long enough will alow them to surround our enemy."
+tactical_forest_battle.221.a:0 "Pincer with Left!"
+tactical_forest_battle.221.a.success:0 "[right_flank_commander.GetTitledFirstName] and our left flank coordinate a devastating pincer movement!"
+tactical_forest_battle.221.a.failure:0 "The coordination between flanks breaks down, and the enemy escapes the pincer!"
+tactical_forest_battle.221.b:0 "Send our knights to keep them busy!"
+tactical_forest_battle.221.b.success:0 "Our knights are engaged, distracting them from surrounding enemies!"
+tactical_forest_battle.221.b.failure:0 "The enemy sees the encircling force!"
+tactical_forest_battle.221.c:0 "Send our crack units to keep them busy"
+tactical_forest_battle.221.c.success:0 "Our crack units engage with the enemy, allowing the encirclement to proceed!"
+tactical_forest_battle.221.c.failure:0 "The enemy regroup and push back our units!"
+tactical_forest_battle.221.d:0 "Form an anvil while the leaked forces attack from behind"
+tactical_forest_battle.221.d.success:0 "[center_flank_commander.GetTitledFirstName] left flank is smashed between two forces!"
+tactical_forest_battle.221.d.failure:0 "Their left stands strong for the moment!"
+tactical_forest_battle.221.e:0 "Inspire our troops to fight harder until the encirclement is complete"
+tactical_forest_battle.221.e.success:0 "[center_flank_commander.GetTitledFirstName] left flank is smashed between two forces!"
+tactical_forest_battle.221.e.failure:0 "Their left stands strong for the moment!"
+
+
+appoint_left_flank_interaction:0 "Appoint Left Flank Commander"
+appoint_center_flank_interaction:0 "Appoint Center Flank Commander"
+appoint_right_flank_interaction:0 "Appoint Right Flank Commander"
+remove_left_flank_interaction:0 "Remove Left Flank Commander"
+remove_center_flank_interaction:0 "Remove Center Flank Commander"
+remove_right_flank_interaction:0 "Remove Right Flank Commander"
+appoint_center_flank_interaction_desc:0 "Assign a commander to lead the center flank in the upcoming battle."
+appoint_left_flank_interaction_desc:0 "Assign a commander to lead the left flank in the upcoming battle."
+appoint_right_flank_interaction_desc:0 "Assign a commander to lead the right flank in the upcoming battle."
+remove_center_flank_interaction_desc:0 "Relieve the current center flank commander of their duties."
+remove_left_flank_interaction_desc:0 "Relieve the current left flank commander of their duties."
+remove_right_flank_interaction_desc:0 "Relieve the current right flank commander of their duties."
+
+# Flank Commanders Tab
+MV_FLANK_COMMANDERS:0 "Flank Commanders"
+LEFT_FLANK_COMMANDER:0 "Left Flank Commander"
+CENTER_FLANK_COMMANDER:0 "Center Flank Commander"
+RIGHT_FLANK_COMMANDER:0 "Right Flank Commander"
+NO_ASSIGNMENT:0 "No assignment"
+

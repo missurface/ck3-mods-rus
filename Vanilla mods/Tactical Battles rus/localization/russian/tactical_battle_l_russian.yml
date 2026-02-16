@@ -1,0 +1,703 @@
+﻿l_russian:
+  
+ give_center_commander_martial_toast: "[center_flank_commander.GetFullNameNicknamed] Увеличение способностей!"
+ give_center_commander_martial_toast_desc: "Тактические способности [center_flank_commander.GetFullNameNicknamed] улучшились после того, как они выстояли против умелого командира!"
+ give_left_commander_martial_toast: "[left_flank_commander.GetFullNameNicknamed] Увеличение способностей!"
+ give_left_commander_martial_toast_desc: "Тактические способности [left_flank_commander.GetFullNameNicknamed] улучшились после того, как они выстояли против умелого командира!"
+ give_right_commander_martial_toast: "[right_flank_commander.GetFullNameNicknamed] Увеличение способностей!"
+ give_right_commander_martial_toast_desc: "Тактические способности [right_flank_commander.GetFullNameNicknamed] улучшились после того, как они выстояли против умелого командира!"
+ tbatt_battle_event_in_battle_friendly_player: "Вы участвовали [TARGET_CHARACTER.GetUINameNoTooltip] после битвы!"
+ tbatt_battle_event_in_battle_friendly_player: "Вы захватили [TARGET_CHARACTER.GetUINameNoTooltip] после битвы!"
+ tbatt_battle_event_in_battle_friendly: "[CHARACTER.GetUINameNoTooltip] захвачен [TARGET_CHARACTER.GetUINameNoTooltip] после битвы!"
+ tbatt_battle_event_in_battle_enemy_player: "Вы были захвачены [CHARACTER.GetUINameNoTooltip] после битвы!"
+ tbatt_battle_event_in_battle_enemy: "[TARGET_CHARACTER.GetUINameNoTooltip] был захвачен [CHARACTER.GetUINameNoTooltip] после битвы!"
+  
+ tactical_knight_commander_killer_commander: "Командир убийца"
+ tactical_knight_commander_killer_troops: "Их командир мертв"
+ tactical_knight_commander_killer_enemy_commander: "Потеряли наш фланг"
+ tactical_knight_commander_killer_enemy_troops: "Мертвый командир"
+ tactical_knight_captured_commander_commander: "Пленный командир"
+ tactical_knight_captured_commander_troops: "Их командир наш"
+ tactical_knight_captured_commander_enemy_commander: "В руках врагов"
+ tactical_knight_captured_commander_enemy_troops: "Пленный командир"
+  
+  
+ tactical_forest_battle.0061.t: "Судьба [sc_loser.GetFullNameNicknamed]"
+ tactical_forest_battle.0061.desc: "От моего последнего удара [sc_loser.GetFirstName] падает на одно колено, окровавленный и избитый. Пока вокруг меня бушует поле битвы, на меня смотрят [sc_loser.GetTitledFirstNamePossessive] глаза, наполненные смесью неповиновения и смирения. Пришло время решить [sc_loser.GetHerHis] судьбу."
+ tactical_forest_battle.0061.a: "Убить [sc_loser.GetFirstName]"
+ tactical_forest_battle.0061.a.success: "[sc_loser.GetFirstName] встречает [sc_loser.GetHerHis] конец на поле битвы."
+ tactical_forest_battle.0061.b: "Захватить [sc_loser.GetFirstName]"
+ tactical_forest_battle.0061.b.success: "[sc_loser.GetFirstName] взят в плен."
+ tactical_forest_battle.0061.c: "Возьмите [sc_loser.GetFirstNamePossessive] глаз и отпустите судьбу от [sc_loser.GetHerHim] до [sc_loser.GetHerHis]."
+ tactical_forest_battle.0061.c.success: "Ослепление [sc_loser.GetFirstName] гарантирует выживание [sc_loser.GetHerHis], но дорогой ценой."
+ tactical_forest_battle.0061.d: "Оставь [sc_loser.GetFirstName] навсегда покрытым шрамами и отпусти судьбу от [sc_loser.GetHerHim] до [sc_loser.GetHerHis]."
+ tactical_forest_battle.0061.d.success: "Шрамы будут служить постоянным напоминанием о поражении [sc_loser.GetFirstNamePossessive]."
+ tactical_forest_battle.0061.e: "Искалечить [sc_loser.GetFirstName] и освободить судьбу от [sc_loser.GetHerHim] до [sc_loser.GetHerHis]."
+ tactical_forest_battle.0061.e.success: "[sc_loser.GetFirstName] будет нести бремя [sc_loser.GetHerHis] травм до конца [sc_loser.GetHerHis] жизни."
+  
+  
+ # Event 0005 - First tactical decision (Forest) 
+ tactical_forest_battle.0005.t: "Битва в [battle_location.GetProvince.GetTerrain.GetName|l] из [battle_location.GetProvince.GetName]"
+ tactical_forest_battle.0005.desc: "Сражаясь в войне [fighting_war.GetName] против [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal], Моя армия сражается в [battle_location.GetProvince.GetTerrain.GetName|l] из [battle_location.GetProvince.GetName] против сил [enemy_war_leader.GetFullNameNicknamedOrMeRegnal]. Наши разведчики докладывают, что под командованием находится [enemy_commander.GetFullNameNicknamedOrMeRegnal]. Как командир, я должен выбрать ход, чтобы преодолеть [enemy_commander.GetTitleTierName]."
+ tactical_forest_battle.0005.a: "Сосредоточьтесь на левом фланге ([left_flank_commander.GetSkill( 'martial' )]#! [martial|E] [left_flank_commander.GetTitledFirstNameOrMe] против [enemy_right_flank_commander.GetTitledFirstNameNicknamedRegnal] [enemy_right_flank_commander.GetSkill( 'martial' )]#! [martial|E])"
+ tactical_forest_battle.0005.b: "Сосредоточьтесь на центре ([center_flank_commander.GetSkill( 'martial' )]#! [martial|E] [center_flank_commander.GetTitledFirstNameOrMe] vs [enemy_center_flank_commander.GetTitledFirstNameNicknamedRegnal] [enemy_center_flank_commander.GetSkill( 'martial' )]#! [martial|E])"
+ tactical_forest_battle.0005.c: "Сосредоточьтесь на правом фланге ([right_flank_commander.GetSkill( 'martial' )]#! [martial|E] [right_flank_commander.GetTitledFirstNameOrMe] против [enemy_left_flank_commander.GetTitledFirstNameNicknamedRegnal] [enemy_left_flank_commander.GetSkill( 'martial' )]#! [martial|E])"
+ tactical_forest_battle.0005.d: "Держи моих рыцарей в резерве"
+ tactical_forest_battle.0005.d.success: "Мои кони прекрасно подготовлены к использованию любого открытия!"
+ tactical_forest_battle.0005.d.failure: "Битва развивается слишком быстро, и мои рыцари оказываются не на своих позициях."
+ tactical_forest_battle.0005.e: "Сосредоточьтесь на наших элитных юнитах дальнего боя"
+ tactical_forest_battle.0005.f: "Сосредоточьтесь на нашей элитной кавалерии"
+ tactical_forest_battle.0005.n: "Взять на себя ответственность за своего командира!"
+ tactical_forest_battle.0005.n.success: "[left_flank_commander.GetFullNameNicknamedOrMe] дуэлей [enemy_right_flank_commander.GetFullNameNicknamed]"
+ tactical_forest_battle.0005.n.failure: "Наш заряд не способен прорваться!"
+ tactical_forest_battle.0005.kc: "Дуэльная победа!"
+ tactical_forest_battle.0005.kc.success: "[left_flank_commander.GetFullNameNicknamed] убил [enemy_right_flank_commander.GetFullNameNicknamed] в единоборстве, деморализовав его войска!"
+ tactical_forest_battle.0005.cc: "Дуэльная победа!"
+ tactical_forest_battle.0005.cc.success: "[left_flank_commander.GetFullNameNicknamed] захватил [enemy_right_flank_commander.GetFullNameNicknamed] после победы над [enemy_right_flank_commander.GetHerHim] в единоборстве, деморализовав его войска!"
+ tactical_forest_battle.0005.ld: "Победил в Дуэли!"
+ tactical_forest_battle.0005.ld.failure: "[left_flank_commander.GetFullNameNicknamed] потерпел поражение от [enemy_right_flank_commander.GetFullNameNicknamed] после окружения [enemy_right_flank_commander.GetFirstName]! в бою!"
+ tactical_forest_battle.0005.ldk: "Убит в дуэли!"
+ tactical_forest_battle.0005.ldk.failure: "[left_flank_commander.GetFullNameNicknamed] был убит [enemy_right_flank_commander.GetFullNameNicknamed] после окружения [enemy_right_flank_commander.GetFirstName] в бою!"
+ tactical_forest_battle.0005.j: "Заряд [enemy_right_flank_commander.GetFullNameNicknamed]!"
+ tactical_forest_battle.0005.j.failure: "[left_flank_commander.GetFullNameNicknamed] не смог прорваться к [enemy_right_flank_commander.GetFullNameNicknamed]"
+ tactical_forest_battle.0005.dtt.success: "Наш фланг атакует и окружает [enemy_right_flank_commander.GetFirstName]"
+ # Event 0110 - Cavalry Feint SUCCESS Follow-up: Trap Sprung 
+ tactical_forest_battle.0110.t: "Ловушка захлопнулась!"
+ tactical_forest_battle.0110.desc: "[left_flank_commander.GetTitledFirstNamePossessive] финт сработал отлично! [enemy_commander.GetFirstNamePossessive] команды удерживать были заглушены, а [enemy_commander.GetHerHis] авангард сломал строй, чтобы проглотить наживку. Правая часть их линии теперь растянута и дезорганизована."
+ tactical_forest_battle.0110.a: "[left_flank_commander.GetTitledFirstName] ведет дезорганизованную армию в ловушку наших первоклассных отрядов"
+ tactical_forest_battle.0110.a.success: "[enemy_commander.GetFirstNamePossessive] правая сторона следует за [left_flank_commander.GetFirstNamePossessive] бегущими силами прямо в засаду!"
+ tactical_forest_battle.0110.a.failure: "Правые не клюют на наживку и удерживают позицию, меняя подразделения для поддержки других флангов."
+ tactical_forest_battle.0110.b: "Отправьте рыцарей сокрушить их чрезмерно растянутый фланг."
+ tactical_forest_battle.0110.b.success: "Рыцари врезаются в незащищенный фланг врага, разрывая его строй!"
+ tactical_forest_battle.0110.b.failure: "Враг быстро перестраивается и атакует наших рыцарей."
+ tactical_forest_battle.0110.c: "Оторвите силы с фланга [right_flank_commander.GetTitledFirstNamePossessive], чтобы окружить заманенные отряды."
+ tactical_forest_battle.0110.c.success: "[right_flank_commander.GetTitledFirstName] успешно окружает отряды противника, отрезая им путь к отступлению!"
+ tactical_forest_battle.0110.c.failure: "Противник ведет разрушительную атаку на наш истощенный правый фланг."
+ tactical_forest_battle.0110.d: "Поверните [center_flank_commander.GetFirstNamePossessive] резервов, чтобы окружить заманенные отряды."
+ tactical_forest_battle.0110.d.success: "Резервы движутся быстро и готовы окружить"
+ tactical_forest_battle.0110.d.failure: "[enemy_commander.GetFirstNamePossessive] узнает наш истощенный центр!"
+ tactical_forest_battle.0110.e: "Поворачивайте и убивайте приманенные отряды с полным зарядом"
+ tactical_forest_battle.0110.e.success: "Полный заряд застает врага врасплох!"
+ tactical_forest_battle.0110.e.failure: "Враг остается стойким и отражает нашу атаку!"
+  
+  
+ # ============================================ 
+ # EVENT 9474 - Rally Army After Being Pressured 
+ # ============================================ 
+  
+ tactical_forest_battle.9474.t: "Сплотить армию"
+ tactical_forest_battle.9474.desc: "Битва на левом фланге достигла критической точки. Наши силы колеблются, но еще не сломлены. Благодаря сильному руководству и смелым действиям мы можем восстановить порядок и изменить ситуацию!"
+ tactical_forest_battle.9474.a: "Левый прессингует атаку"
+ tactical_forest_battle.9474.a.success: "Наша армия слышит призыв и сплачивается!"
+ tactical_forest_battle.9474.a.failure: "Армия продолжает колебаться!"
+ tactical_forest_battle.9474.b: "Симулируйте отступление, чтобы заманить врага и контратаковать."
+ tactical_forest_battle.9474.b.success: "Контратака увенчалась успехом, и боевой дух поднялся!"
+ tactical_forest_battle.9474.b.failure: "Контратака провалилась, и боевой дух рушится!"
+ tactical_forest_battle.9474.c: "Центровые сборы с трудом ослабляют давление"
+ tactical_forest_battle.9474.c.success: "Атака дезориентирует их правый фланг!"
+ tactical_forest_battle.9474.c.failure: "Враг остается стойким!"
+ tactical_forest_battle.9474.d: "Правый фланг атакует с трудом, чтобы ослабить давление"
+ tactical_forest_battle.9474.d.success: "Атака дезориентирует их левый фланг!"
+ tactical_forest_battle.9474.d.failure: "Враг остается стойким!"
+ tactical_forest_battle.9474.e: "Отправьте рыцарей на подкрепление"
+ tactical_forest_battle.9474.e.success: "Прибывают резервы и укрепляют строй!"
+ tactical_forest_battle.9474.e.failure: "Резервы слишком разбросаны, чтобы помочь!"
+ tactical_forest_battle.9474.f: "Отправьте элитные отряды для подкрепления"
+ tactical_forest_battle.9474.f.success: "Наши лучшие отряды сеют хаос среди врага!"
+ tactical_forest_battle.9474.f.failure: "Наши подразделения по борьбе с наркотиками перегружены!"
+  
+ # ============================================ 
+ # EVENT 0650 - Right Flank Reserves Intercept 
+ # ============================================ 
+ tactical_forest_battle.0650.t: "Правый фланг перехватывает движение противника"
+ tactical_forest_battle.0650.desc: "Наши правофланговые резервы обнаружили [enemy_commander.GetFirstNamePossessive] сил, пытающихся маневрировать против нашей позиции. У нас есть короткое время, чтобы действовать, прежде чем враг завершит свое движение."
+  
+ tactical_forest_battle.0650.a: "Начать яростный натиск правым флангом."
+ tactical_forest_battle.0650.a.success: "Правый фланг наносит сокрушительный удар, обрушивая правый фланг противника!"
+ tactical_forest_battle.0650.a.failure: "Натиск отбит, и противник перехватывает инициативу!"
+  
+ tactical_forest_battle.0650.b: "Разверните левый фланг, чтобы атаковать сзади."
+ tactical_forest_battle.0650.b.success: "Наш маневр с колесом застал врага под разрушительным перекрестным огнем!"
+ tactical_forest_battle.0650.b.failure: "Фланговый маневр обнаружен и сорван контратаками противника!"
+  
+ tactical_forest_battle.0650.c: "Вдохновите войска смелым призывом к сплочению"
+ tactical_forest_battle.0650.c.success: "Войска воодушевлены и отбрасывают наступление врага!"
+ tactical_forest_battle.0650.c.failure: "Наш призыв к сплочению остается без внимания, и армия продолжает сдавать позиции!"
+  
+ tactical_forest_battle.0650.d: "Включите правильные резервы и создайте путаницу"
+ tactical_forest_battle.0650.d.success: "Резервы создают достаточную путаницу, чтобы мы могли выгодно изменить позицию!"
+ tactical_forest_battle.0650.d.failure: "Интрига имеет неприятные последствия, и враг пользуется нашей растерянностью!"
+  
+ tactical_forest_battle.0650.e: "Отправьте рыцарей для усиления правого фланга."
+ tactical_forest_battle.0650.e.success: "Рыцари усиливают фланг и закрепляют позицию!"
+ tactical_forest_battle.0650.e.failure: "Рыцари отрезаны и окружены превосходящими силами противника!"
+  
+ tact_duel_kills_commander_desc: "#alert_trial [left_flank_commander.GetFirstName] убивает врага [enemy_right_flank_commander.GetFirstName] в бою#!"
+ tact_duel_capture_desc: "#alert_trial [left_flank_commander.GetFirstName] побеждает врага [enemy_right_flank_commander.GetFirstName] в бою#!"
+ tact_duel_loses_desc: "#alert_trial [enemy_right_flank_commander.GetFirstName] побеждает нашего рыцаря [left_flank_commander.GetFirstName] в бою#!"
+ tact_duel_dies_desc: "#alert_trial [enemy_right_flank_commander.GetFirstName] убивает нашего рыцаря [left_flank_commander.GetFirstName] в бою#!"
+ tact_duel_lost_injury_tt: "Мог получить серьёзное ранение!"
+ tact_duel_captured_tt: "[enemy_right_flank_commander.GetFirstName] будет захвачен после битвы"
+ tactical_knight_lost_commander_tt: "#alert_trial Фланг врага потрясен от потери своего командира. #!"
+ tactical_our_charge_was_routed_tt: "#alert_trial Враг принимает на себя наш натиск и реформируется#!"
+ tactical_our_commander_was_lost_tt: "Наша атака поглощена, и мы потеряли командующего нашими флангами!"
+  
+ tact_right_duel_kills_commander_desc: "#alert_trial [right_flank_commander.GetFirstName] убивает врага [enemy_left_flank_commander.GetFirstName] в бою#!"
+ tact_right_duel_capture_desc: "#alert_trial [right_flank_commander.GetFirstName] побеждает врага [enemy_left_flank_commander.GetFirstName] в бою#!"
+ tact_right_duel_loses_desc: "#alert_trial [enemy_left_flank_commander.GetFirstName] побеждает нашего рыцаря [right_flank_commander.GetFirstName] в бою#!"
+ tact_right_duel_dies_desc: "#alert_trial [enemy_left_flank_commander.GetFirstName] убивает нашего рыцаря [right_flank_commander.GetFirstName] в бою#!"
+ tact_right_duel_lost_injury_tt: "Мог получить серьёзное ранение!"
+ tact_right_duel_captured_tt: "[enemy_center_flank_commander.GetFirstName] будет захвачен после битвы"
+ tactical_knight_lost_commander_tt: "#alert_trial Фланг врага потрясен от потери своего командира. #!"
+ tactical_our_charge_was_routed_tt: "#alert_trial Враг принимает на себя наш натиск и реформируется#!"
+ tactical_our_commander_was_lost_tt: "Наша атака поглощена, и мы потеряли командующего нашими флангами!"
+  
+ tact_center_duel_kills_commander_desc: "#alert_trial [center_flank_commander.GetFirstName] убивает врага [enemy_center_flank_commander.GetFirstName] в бою#!"
+ tact_center_duel_capture_desc: "#alert_trial [center_flank_commander.GetFirstName] побеждает врага [enemy_center_flank_commander.GetFirstName] в бою#!"
+ tact_center_duel_loses_desc: "#alert_trial [enemy_center_flank_commander.GetFirstName] побеждает нашего рыцаря [center_flank_commander.GetFirstName] в бою#!"
+ tact_center_duel_dies_desc: "#alert_trial [enemy_center_flank_commander.GetFirstName] убивает нашего рыцаря [center_flank_commander.GetFirstName] в бою#!"
+ tact_center_duel_lost_injury_tt: "Мог получить серьёзное ранение!"
+ tact_center_duel_captured_tt: "[enemy_center_flank_commander.GetFirstName] будет захвачен после битвы"
+ tactical_knight_lost_commander_tt: "#alert_trial Фланг врага потрясен от потери своего командира. #!"
+ tactical_our_charge_was_routed_tt: "#alert_trial Враг принимает на себя наш натиск и реформируется#!"
+ tactical_our_commander_was_lost_tt: "Наша атака поглощена, и мы потеряли командующего нашими флангами!"
+  
+  
+ trait_lifestyle_battlefield_veteran: "Ветеран поля боя"
+ lifestyle_battlefield_veteran_desc: "Этот персонаж имеет большой опыт боевых действий, он пережил множество сражений и извлек ценные уроки из своего опыта."
+ lifestyle_battlefield_veteran_character_desc: "[ROOT.Char.GetFullNameNicknamed] имеет большой опыт боевых действий, выжил во многих сражениях и извлек ценные уроки из своего опыта."
+ trait_track_kills: "Похититель жизней"
+ trait_track_kills_desc: "Этот персонаж забирал жизни врагов на поле боя."
+ trait_track_maims: "Маймер"
+ trait_track_maims_desc: "Этот персонаж навсегда изуродовал врагов на поле боя."
+ trait_track_wounds: "Даритель шрама"
+ trait_track_wounds_desc: "Этот персонаж нанес врагам на поле боя необратимые раны."
+ trait_track_wins: "Дуэлянт"
+ trait_track_wins_desc: "Этот персонаж выиграл множество дуэлей на поле боя."
+  
+ # ============================================ 
+ # EVENT 9476 - Rally Army 
+ tactical_forest_battle.9476.t: "Сплотить армию"
+ tactical_forest_battle.9476.desc: "Бой на правом фланге достиг критической точки. Наши силы колеблются, но еще не сломлены. Благодаря сильному руководству и смелым действиям мы можем восстановить порядок и изменить ситуацию!"
+ tactical_forest_battle.9476.a: "Правый прессингует атаку"
+ tactical_forest_battle.9476.a.success: "Наша армия слышит призыв и сплачивается!"
+ tactical_forest_battle.9476.a.failure: "Армия продолжает колебаться!"
+ tactical_forest_battle.9476.b: "Симулируйте отступление, чтобы заманить врага и контратаковать."
+ tactical_forest_battle.9476.b.success: "Контратака увенчалась успехом, и боевой дух поднялся!"
+ tactical_forest_battle.9476.b.failure: "Контратака провалилась, и боевой дух рушится!"
+ tactical_forest_battle.9476.c: "Центровые сборы с трудом ослабляют давление"
+ tactical_forest_battle.9476.c.success: "Атака дезориентирует их правый фланг!"
+ tactical_forest_battle.9476.c.failure: "Враг остается стойким!"
+ tactical_forest_battle.9476.d: "Левый фланг атакует с трудом, чтобы ослабить давление"
+ tactical_forest_battle.9476.d.success: "Атака дезориентирует их левый фланг!"
+ tactical_forest_battle.9476.d.failure: "Враг остается стойким!"
+ tactical_forest_battle.9476.e: "Отправьте рыцарей на подкрепление"
+ tactical_forest_battle.9476.e.success: "Прибывают резервы и укрепляют строй!"
+ tactical_forest_battle.9476.e.failure: "Резервы слишком разбросаны, чтобы помочь!"
+ tactical_forest_battle.9476.f: "Отправьте элитные отряды для подкрепления"
+ tactical_forest_battle.9476.f.success: "Наши лучшие отряды сеют хаос среди врага!"
+ tactical_forest_battle.9476.f.failure: "Наши подразделения по борьбе с наркотиками перегружены!"
+  
+ # ============================================ 
+ # EVENT 8010 - Broken Left Flank Exposed Center 
+ # ============================================ 
+ tactical_forest_battle.8010.t: "Открытый центр!"
+ tactical_forest_battle.8010.desc: "То, что осталось от [enemy_commander.GetFirstNamePossessive], левый фланг отступает! У нас есть прекрасная возможность преследовать и уничтожить их, прежде чем они смогут перегруппироваться!"
+ tactical_forest_battle.8010.a: "Включите фланг их центра"
+ tactical_forest_battle.8010.a.success: "[right_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] разворачивается и въезжает во фланг своего центра!"
+ tactical_forest_battle.8010.a.failure: "Правый фланг застрял"
+ tactical_forest_battle.8010.b: "Захват пленных"
+ tactical_forest_battle.8010.b.success: "Мы захватываем много пленных!"
+ tactical_forest_battle.8010.b.failure: "Заключенные убегают!"
+ tactical_forest_battle.8010.c: "Отправьте рыцарей врезаться в незащищенный фланг их центра."
+ tactical_forest_battle.8010.c.success: "Атака рыцарей вызывает хаос"
+ tactical_forest_battle.8010.c.failure: "Рыцарский заряд поглощен"
+ tactical_forest_battle.8010.d: "Отправьте наши элитные отряды врезаться в незащищенный фланг их центра."
+ tactical_forest_battle.8010.d.success: "Наши элитные подразделения уничтожают запасы противника!"
+ tactical_forest_battle.8010.d.failure: "Наши элитные подразделения взлома не могут найти припасы!"
+  
+ tactical_forest_battle.8035.t: "Открытый центр!"
+ tactical_forest_battle.8035.desc: "То, что осталось от правого фланга [enemy_commander.GetFirstNamePossessive], отступает! У нас есть прекрасная возможность преследовать и уничтожить их, прежде чем они смогут перегруппироваться!"
+ tactical_forest_battle.8035.a: "Включите фланг их центра"
+ tactical_forest_battle.8035.a.success: "[left_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] разворачивается и въезжает во фланг своего центра!"
+ tactical_forest_battle.8035.a.failure: "Левый фланг застрял"
+ tactical_forest_battle.8035.b: "Захват пленных"
+ tactical_forest_battle.8035.b.success: "Мы захватываем много пленных!"
+ tactical_forest_battle.8035.b.failure: "Заключенные убегают!"
+ tactical_forest_battle.8035.c: "Отправьте рыцарей врезаться в незащищенный фланг их центра."
+ tactical_forest_battle.8035.c.success: "Атака рыцарей вызывает хаос"
+ tactical_forest_battle.8035.c.failure: "Рыцарский заряд поглощен"
+ tactical_forest_battle.8035.d: "Отправьте наши элитные отряды врезаться в незащищенный фланг их центра."
+ tactical_forest_battle.8035.d.success: "Наши взрывные устройства включают свой обнаженный центр!"
+ tactical_forest_battle.8035.d.failure: "Наши элитные подразделения увязли"
+ # ============================================ 
+ # EVENT 7324 - Enemy Reorganizes Turns to Meet our center 
+  
+  
+ tactical_forest_battle.7324.t: "Враг наносит удары по центру и с фланга"
+ tactical_forest_battle.7324.desc: "[enemy_commander.GetFirstNamePossessive] обнаружил наш ослабленный центральный фланг и начал атаку. Без наших резервов мы принимаем решающее решение сохранить наш центральный фланг."
+ tactical_forest_battle.7324.a: "центральный фланг устойчиво противостоит нападению"
+ tactical_forest_battle.7324.a.success: "Наш центральный фланг стойко выдерживает натиск врага!"
+ tactical_forest_battle.7324.a.failure: "Центральный фланг разбит и начинает давать сбои!"
+ tactical_forest_battle.7324.b: "Отправьте рыцарей, чтобы укрепить центр."
+ tactical_forest_battle.7324.b.success: "Свежие рыцари стабилизируют центральный фланг!"
+ tactical_forest_battle.7324.b.failure: "Рыцари перехвачены, не дойдя до центра!"
+ tactical_forest_battle.7324.c: "Отправьте наши элитные подразделения для усиления центрального фланга."
+ tactical_forest_battle.7324.c.success: "Наши подкрепления стабилизируют центральный фланг!"
+ tactical_forest_battle.7324.c.failure: "Наш центр рушится, несмотря на подкрепление!"
+ tactical_forest_battle.7324.d: "Постарайтесь медленно отступить и вывести их центр из позиции, пока не прибудет подкрепление."
+ tactical_forest_battle.7324.d.success: "Их центр начинает следить за нашим отступлением, разоблачая их!"
+ tactical_forest_battle.7324.d.failure: "Центр не способен выйти из боя под давлением!"
+ tactical_forest_battle.7324.e: "Симулируйте отступление и нападите на преследователей."
+ tactical_forest_battle.7324.e.success: "Враг попадается на наш обман и преследует неожиданный удар!"
+ tactical_forest_battle.7324.e.failure: "Они видят наш обман и поддерживают свой строй!"
+  
+ tactical_reserves_engaged_commander: "Резервная ротация"
+ tactical_reserves_engaged_troops: "Задействованные резервы"
+  
+ tactical_counterattack_success_commander: "Радуйся, Мария"
+ tactical_counterattack_success_troops: "Отчаянная контратака"
+ tactical_counterattack_success_enemy_commander: "Потеря надежды"
+ tactical_counterattack_success_enemy_troops: "Потрясенный моральный дух"
+  
+  
+  
+ # ============================================ 
+  
+ ###### 
+  
+ # Event 0210 - Cavalry Feint FAILURE Follow-up: Feint Unmasked 
+ tactical_forest_battle.0210.t: "Финт разоблачен!"
+ tactical_forest_battle.0210.desc: "[enemy_commander.GetTitledFirstName] раскусил наш кавалерийский финт! Их войска сохраняли дисциплину, а не преследовали, и теперь наши всадники сталкиваются с подготовленной пехотой, залпами ракет или контр-кавалерией, ожидающей в засаде. Тактическая ситуация обернулась против нас — я должен решить, как спасти эту катастрофу."
+ tactical_forest_battle.0210.a: "Прорвитесь через ловушку! Заряжайте всем! (Боевое + Доблесть против [enemy_commander.GetShortUINameNoTooltip], очень рискованно)"
+ tactical_forest_battle.0210.a.success: "Несмотря ни на что, наша явная смелость разрушает их строй! Враг отшатнулся от нашей отчаянной атаки!"
+ tactical_forest_battle.0210.a.failure: "Атака превращается в катастрофическое бегство. Наша кавалерия рассеяна и разбита!"
+ tactical_forest_battle.0210.b: "Спешитесь и держите строй! (Требуется поддержка пехоты)"
+ tactical_forest_battle.0210.c: "Прикройте отступление кавалерией. (Пожертвуйте кавалерией, чтобы спасти армию)"
+ tactical_forest_battle.0210.d: "Сплотите колеблющегося коня под личным руководством! (Требуется «Храбрый», «Вдохновляющий лидер» или «Воинственный» 14+)"
+ tactical_forest_battle.0210.d.success: "Мое руководство поддерживает кавалерию! Они реформируются и готовятся сражаться дальше!"
+ tactical_forest_battle.0210.d.failure: "Кавалерия отказывается объединяться. Моральный дух продолжает рушиться."
+  
+  
+  
+ # Event 0120 - Infantry Ambush SUCCESS Follow-up: Kill Zone in the Woods 
+ tactical_forest_battle.0120.t: "Зона убийства в лесу!"
+ tactical_forest_battle.0120.desc: "Вражеская колонна подошла прямо к нашим замаскированным пехотным и ракетным войскам! Видимость в лесу плохая, их соединения растянуты, а в их командной структуре царит хаос. Войска [enemy_commander.GetTitledFirstName] оказались на идеальном поле боя. Как мы воспользуемся этой возможностью?"
+ tactical_forest_battle.0120.a: "Закройте пасть ловушки! Запечатайте их спереди и сзади!"
+ tactical_forest_battle.0120.b: "Пусть говорят стрелы и копья. Держите нашу пехоту в укрытии. (Требуются лучники/застрельщики)"
+ tactical_forest_battle.0120.b.success: "Наш ракетный обстрел опустошает их незащищенную колонну!"
+ tactical_forest_battle.0120.b.failure: "Их щиты и броня ограничивают эффективность нашего обстрела."
+ tactical_forest_battle.0120.c: "Ударьте первыми офицеров — цельтесь в знамена и командиров!"
+ tactical_forest_battle.0120.c.success: "Наши ударные группы устраняют ключевых офицеров! Их командование разваливается!"
+ tactical_forest_battle.0120.c.failure: "Ударные группы изолированы и несут тяжелые потери!"
+ tactical_forest_battle.0120.d: "Оставьте их истекать кровью, а затем исчезните обратно в лес."
+  
+  
+ # Event 0220 - Infantry Ambush FAILURE Follow-up: Ambush Detected 
+ tactical_forest_battle.0220.t: "Засада обнаружена!"
+ tactical_forest_battle.0220.desc: "[enemy_commander.GetTitledFirstName] разглядел нашу засаду! Их разведчики обнаружили наши замаскированные позиции, и их силы адаптировались прежде, чем мы успели захлопнуть ловушку. Наши рассредоточенные пехотные подразделения оказались незащищенными в [battle_location.GetName], не имея скоординированного преимущества. Я должен решить, как спасти эту тактическую катастрофу."
+ tactical_forest_battle.0220.a: "Отступайте и укрепляйте оборонительные позиции! Перегруппируйтесь в опорные пункты."
+ tactical_forest_battle.0220.b: "Меняйте строй и контратакуйте под давлением противника! (Боевой 11+, высокий риск)"
+ tactical_forest_battle.0220.b.success: "Наша неожиданная агрессия застает врага врасплох! Их строй ломается!"
+ tactical_forest_battle.0220.b.failure: "Контратака еще больше подвергает нашу пехоту опасности. Катастрофа!"
+ tactical_forest_battle.0220.c: "Используйте лес, чтобы рассредоточить отряды и реформироваться в другом месте. (Управление 10+)"
+ tactical_forest_battle.0220.c.success: "Наши подразделения ускользают через деревья и благополучно перегруппировываются!"
+ tactical_forest_battle.0220.c.failure: "Разрозненные подразделения не могут реформироваться. Они остаются дезорганизованными и уязвимыми."
+ tactical_forest_battle.0220.d: "Держитесь и боритесь с давлением! Примите тяжелые потери."
+  
+ # Event 0130 - Levy Braced SUCCESS Follow-up: Spears and Trees 
+ tactical_forest_battle.0130.t: "Копья и деревья!"
+ tactical_forest_battle.0130.desc: "Копье ополчения держится как камень! Сам лес становится крепостью, когда наши солдаты садятся между деревьями. Силы [enemy_commander.GetTitledFirstName] врезаются в наш ощетинившийся строй и колеблются. Теперь настал момент воспользоваться нашим преимуществом — как нам использовать их слабость?"
+ tactical_forest_battle.0130.a: "Держите леску и заточите их. Пусть истощение работает на нас."
+ tactical_forest_battle.0130.b: "Нанесите внезапный удар через их центр! (Обучение + Боевой 9+, умеренный риск)"
+ tactical_forest_battle.0130.b.success: "Внезапный толчок ломает их решимость! Вражеский строй рушится!"
+ tactical_forest_battle.0130.b.failure: "Тяга замедляется, но веревка держится. Они отказываются ломаться."
+ tactical_forest_battle.0130.c: "Пусть лучники убьют их на поле смерти. (Требуется лучник МаА)"
+ tactical_forest_battle.0130.c.success: "Разрушительные залпы обрушиваются! Поле смерти требует сотен людей!"
+ tactical_forest_battle.0130.c.failure: "У лучников кончаются стрелы, и они теряют преимущество."
+ tactical_forest_battle.0130.d: "Сформируйте наковальню, чтобы разбить их заряд! (Сосредоточьтесь на прочности)"
+  
+ # Event 0230 - Levy Scattered FAILURE Follow-up: Formation Broken 
+ tactical_forest_battle.0230.t: "Формирование нарушено!"
+ tactical_forest_battle.0230.desc: "Наемники в панике разбегаются! Вместо того, чтобы образовать ощетинившуюся стену копий, солдаты рассредоточились между деревьями, не имея возможности координировать свои действия или удерживать строй. [enemy_commander.GetTitledFirstName] видит слабость и использует ее. Построение нарушено — я должен действовать быстро, чтобы спасти эту катастрофу."
+ tactical_forest_battle.0230.a: "Сплотите их личным примером! Веди с фронта! (Доблесть 10+, Боевое 9+)"
+ tactical_forest_battle.0230.a.success: "Моя личная доблесть сплачивает солдат! Они реформируются и закаляют себя!"
+ tactical_forest_battle.0230.a.failure: "Солдаты по-прежнему напуганы и рассеяны. Моральный дух не восстанавливается."
+ tactical_forest_battle.0230.b: "Поручите своим элитным рыцарям укрепить линию обороны. (Требуется 2+ рыцаря)"
+ tactical_forest_battle.0230.c: "Переставьте разбросанные отряды на лучшую местность. (Управление 9+)"
+ tactical_forest_battle.0230.c.success: "Разрозненные рекруты собираются и перебрасываются на более прочную почву!"
+ tactical_forest_battle.0230.c.failure: "Попытка изменения положения не удалась. Отряды становятся еще более разрозненными!"
+ tactical_forest_battle.0230.d: "Вместо этого сосредоточьтесь на снижении боевого духа врага. (Интрига 8+, психологическая война)"
+  
+  
+ # Event 0140 - Knights in Reserve SUCCESS Follow-up: Knights Ready 
+ tactical_forest_battle.0140.t: "Рыцари готовы!"
+ tactical_forest_battle.0140.desc: "Рыцари ждут в полной готовности, скрытые от глаз врага. Войска [enemy_commander.GetTitledFirstName] занимают свои текущие позиции, не подозревая о нашем кавалерийском резерве, ожидающем удара. Настал момент дать им волю – как нам использовать их разрушительный потенциал?"
+ tactical_forest_battle.0140.a: "Удар молота — сокрушительная кавалерийская атака! (Удалить 11+, очень высокий риск/награда)"
+ tactical_forest_battle.0140.a.success: "Заряд выполнен безупречно! Наши рыцари разбивают вражеский строй, как стекло!"
+ tactical_forest_battle.0140.a.failure: "Атака слишком расширяется, и рыцари оказываются изолированными!"
+ tactical_forest_battle.0140.b: "Фланговый маневр – кружить вокруг противника! (Боевой 10+)"
+ tactical_forest_battle.0140.b.success: "Фланговый маневр удался! Враг застигнут врасплох сзади!"
+ tactical_forest_battle.0140.b.failure: "Маневр блокируется до того, как он сможет развиться!"
+ tactical_forest_battle.0140.c: "Преследование — извлекайте выгоду из отступающих подразделений! (Интрига 9+)"
+ tactical_forest_battle.0140.c.success: "Преследование разгромило врага! Они не могут реорганизоваться!"
+ tactical_forest_battle.0140.c.failure: "Преследование заблокировано, и наша кавалерия несет потери."
+ tactical_forest_battle.0140.d: "Дисциплинированный отход — используйте рыцарей для прикрытия отступления. (Управление 9+)"
+  
+ martial_positive: "Тактическое преимущество"
+ martial_negative: "Тактическое преимущество"
+  
+ frontline_commander: "Командир передовой"
+ frontline_commander_desc: "Этот персонаж возглавляет войска в гуще битвы, вдохновляя их на еще более доблестные и эффективные подвиги."
+ tactical_commander: "Тактический командир"
+  
+ # ============================================ 
+ # EVENT 2010 - Left Flank Tactics 
+ # ============================================ 
+ tactical_forest_battle.2010.t: "После финта"
+ tactical_forest_battle.2010.desc: "Наш маневр на правом фланге привлек внимание противника, сделав его левый фланг уязвимым. Мы должны решить, как лучше всего использовать эту возможность, прежде чем они смогут отреагировать и подкрепиться."
+  
+ tactical_forest_battle.2010.a: "Повернитесь и убейте преследующего врага"
+ tactical_forest_battle.2010.a.success: "Левый фланг неожиданно нападает на преследователей"
+ tactical_forest_battle.2010.a.failure: "[enemy_commander.GetFirstNamePossessive] правый фланг стойко выдерживает наш внезапный натиск"
+  
+ tactical_forest_battle.2010.b: "Выманить в засаду наши элитные полки"
+ tactical_forest_battle.2010.b.success: "Их правый фланг заведён в ловушку!"
+ tactical_forest_battle.2010.b.failure: "Их право поддерживает дисциплину и отказывается следовать финту."
+  
+ tactical_forest_battle.2010.c: "Ротация правых резервов, чтобы попытаться окружить правый фланг, находящийся вне позиции."
+ tactical_forest_battle.2010.c.success: "Наши силы отрываются и готовы окружить врага!"
+ tactical_forest_battle.2010.c.failure: "Прибывающие окружающие силы встречают лицом к лицу."
+  
+ tactical_forest_battle.2010.d: "Ротация центральных резервов, чтобы попытаться окружить правый фланг, находящийся вне позиции."
+ tactical_forest_battle.2010.d.success: "Наши силы отрываются и готовы окружить врага!"
+ tactical_forest_battle.2010.d.failure: "Прибывающие войска окружения встречаются лицом к лицу."
+  
+ tactical_forest_battle.2010.e: "Нажмите на преимущество"
+ tactical_forest_battle.2010.e.success: "Мы пользуемся преимуществом вне позиции врага!"
+ tactical_forest_battle.2010.e.failure: "Враг получает подкрепление прежде, чем мы сможем использовать его позицию."
+  
+ # ============================================ 
+ # EVENT 2012 - Knights Break Left Flank 
+ # ============================================ 
+ tactical_forest_battle.2012.t: "Рыцари прорываются сквозь правую сторону"
+ tactical_forest_battle.2012.desc: "Наши кони прорвали правый фланг [enemy_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] из позиции, приведя его в замешательство. Если мы продолжим атаку сейчас, мы сможем включить незащищенный центр и сокрушить их, прежде чем они смогут восстановиться."
+  
+ tactical_forest_battle.2012.a: "Левый фланг закрывает брешь"
+ tactical_forest_battle.2012.a.success: "[left_flank_commander.GetFullNameNicknamedPossessiveOrMy] фланг прорывает разбитый строй противника!"
+ tactical_forest_battle.2012.a.failure: "Противник быстро стабилизируется и предотвращает дальнейшее проникновение!"
+  
+ tactical_forest_battle.2012.b: "Отправьте наши элитные полки нарушить их право"
+ tactical_forest_battle.2012.b.success: "Наши элитные полки прорывают врага верно!"
+ tactical_forest_battle.2012.b.failure: "Их право сплачивается и сопротивляется обвинению!"
+  
+ tactical_forest_battle.2012.c: "Левый фланг сильно атакует, чтобы прорвать правый фланг."
+ tactical_forest_battle.2012.c.success: "[left_flank_commander.GetFullNameNicknamedPossessiveOrMy] фланг прорывает их правый фланг"
+ tactical_forest_battle.2012.c.failure: "Их право сплачивается и сопротивляется обвинению!"
+  
+ tactical_forest_battle.2012.d: "Нажмите на преимущество"
+ tactical_forest_battle.2012.d.success: "[left_flank_commander.GetFullNameNicknamedOrMe] продолжает прессинговать правый фланг!"
+ tactical_forest_battle.2012.d.failure: "Право усиливается до того, как мы сможем воспользоваться брешью!"
+  
+ tactical_forest_battle.2012.f: "Ротация центральных резервов, чтобы сокрушить оставшийся правый фланг."
+ tactical_forest_battle.2012.f.success: "Центральные резервы вращаются и сокрушают оставшийся правый фланг!"
+ tactical_forest_battle.2012.f.failure: "Резервы не могут выйти из боя после натиска из центра!"
+  
+  
+  
+ # ============================================ 
+ # EVENT 2014 - Right Flank Reserves Flood Left 
+ # ============================================ 
+ tactical_forest_battle.2014.t: "Комбинированный штурм левого фланга"
+ tactical_forest_battle.2014.desc: "Совместная атака наших правых фланговых резервов и [left_flank_commander.GetFullNameNicknamedPossessiveOrMy] левого фланга усиливает атаку на их правом фланге. Если мы сможем прорваться сюда, мы сможем атаковать центр."
+ tactical_forest_battle.2014.a: "Объединенные силы заполняют брешь"
+ tactical_forest_battle.2014.a.success: "Объединенные силы сокрушают врага и приходит в беспорядок!"
+ tactical_forest_battle.2014.a.failure: "Противник быстро перебрасывает силы, чтобы закрыть брешь!"
+  
+ tactical_forest_battle.2014.b: "Отправьте наши элитные отборные полки атаковать их дезорганизованный фланг."
+ tactical_forest_battle.2014.b.success: "Наши лучшие подразделения сеют хаос на их правом фланге!"
+ tactical_forest_battle.2014.b.failure: "Враг перегруппировывается и отбивает штурм!"
+  
+ tactical_forest_battle.2014.c: "Отправьте рыцарей атаковать их правый фланг."
+ tactical_forest_battle.2014.c.success: "Рыцари и резервисты атакуют вместе, и их правые погружаются в панику."
+ tactical_forest_battle.2014.c.failure: "Комбинированная атака встречена яростной контратакой!"
+  
+ tactical_forest_battle.2014.d: "Затопите левых, чтобы попытаться обойти их центр."
+ tactical_forest_battle.2014.d.success: "Нам удается провести часть сил через их правый фланг."
+ tactical_forest_battle.2014.d.failure: "Противник предвидит это движение и встречает наводнение лицом к лицу."
+  
+ tactical_forest_battle.2014.e: "Нажмите на штурм"
+ tactical_forest_battle.2014.e.success: "Наше нападение продолжается с разрушительным эффектом!"
+ tactical_forest_battle.2014.e.failure: "Враг стабилизируется, а скорость замедляется!"
+  
+ # ============================================ 
+ # EVENT 2016 - Center Flank Tactics 
+ # ============================================ 
+ tactical_forest_battle.2016.t: "Комбинированное нападение слева"
+ tactical_forest_battle.2016.desc: "Совместная атака наших центральных резервов и [left_flank_commander.GetFullNameNicknamedPossessiveOrMy] левого фланга усиливает атаку на их правом фланге. Если мы сможем прорваться сюда, мы сможем атаковать центр."
+  
+ tactical_forest_battle.2016.a: "Резервы центра заполняют пробел"
+ tactical_forest_battle.2016.a.success: "Резервы центра прорываются, полностью разбивая врага!"
+ tactical_forest_battle.2016.a.failure: "Враг стабилизирует центр и держится!"
+  
+ tactical_forest_battle.2016.b: "Отправьте наши элитные отряды взлома, чтобы прорвать центр"
+ tactical_forest_battle.2016.b.success: "Отряды прорываются через центр врага!"
+ tactical_forest_battle.2016.b.failure: "Атака лучших подразделений отбита с большими потерями!"
+  
+ tactical_forest_battle.2016.c: "Отправьте рыцарей для поддержки нападения"
+ tactical_forest_battle.2016.c.success: "Рыцари бросаются в центр, рассеивая врага!"
+ tactical_forest_battle.2016.c.failure: "Рыцари отброшены резервами противника!"
+  
+ tactical_forest_battle.2016.d: "Правые резервы поддерживают центр"
+ tactical_forest_battle.2016.d.success: "Правые резервы прекрасно фланкируют центральную позицию!"
+ tactical_forest_battle.2016.d.failure: "Маневр не удался, и центр остался целым!"
+  
+ tactical_forest_battle.2016.e: "Продолжить штурм центра"
+ tactical_forest_battle.2016.e.success: "Наша атака полностью разрушила центр противника!"
+ tactical_forest_battle.2016.e.failure: "Враг удерживает центральную позицию!"
+  
+ # ============================================ 
+ # EVENT 1010 - Left Flank Exposed Center Follow-up 
+ # ============================================ 
+ tactical_forest_battle.1010.t: "Захваченный и сбитый с толку"
+ tactical_forest_battle.1010.desc: "[left_flank_commander.GetTitledFirstNamePossessiveOrMy] фланговый маневр вызвал хаос на правом фланге противника, их люди прорываются, если мы сможем прорваться сюда, мы сможем атаковать центр."
+  
+ tactical_forest_battle.1010.a: "Оберните и фланкируйте их центр."
+ tactical_forest_battle.1010.a.success: "[left_flank_commander.GetFullNameNicknamedPossessiveOrMy] сил успешно фланкируют центр противника!"
+ tactical_forest_battle.1010.a.failure: "Противник предвидит маневр и блокирует его!"
+  
+ tactical_forest_battle.1010.b: "Отправьте рыцарей атаковать свое право"
+ tactical_forest_battle.1010.b.success: "Рыцари прорываются и полностью разгромляют левый фланг!"
+ tactical_forest_battle.1010.b.failure: "Рыцари встретили более сильное сопротивление, чем ожидалось!"
+  
+ tactical_forest_battle.1010.c: "Отправьте наши лучшие полки, чтобы они защитили свои права"
+ tactical_forest_battle.1010.c.success: "Наши лучшие полки ломаются"
+ tactical_forest_battle.1010.c.failure: "У врага есть время установить новую линию обороны!"
+  
+ tactical_forest_battle.1010.d: "Используйте преимущество в полную силу"
+ tactical_forest_battle.1010.d.success: "Полный натиск прорывает всю оборону врага!"
+ tactical_forest_battle.1010.d.failure: "Враг держится, несмотря на давление!"
+  
+ tactical_forest_battle.1010.e: "Начать мощную атаку, чтобы прорвать их правый фланг."
+ tactical_forest_battle.1010.e.success: "Левый фланг разрывает сплоченность противника!"
+ tactical_forest_battle.1010.e.failure: "Их держится крепко, и нам не прорваться!"
+  
+  
+ # ============================================ 
+ # EVENT 1014 - Center Pull Back Follow-up 
+ # ============================================ 
+ tactical_forest_battle.1014.t: "Стратегия отступления центра"
+ tactical_forest_battle.1014.desc: "Вражеский центр отступает, чтобы перегруппироваться и координировать свои действия с другими силами. Мы должны решить, преследовать ли их, заманивать в ловушку или перемещать наши подразделения для достижения максимального эффекта."
+ tactical_forest_battle.1014.a: "Заманите врага в нашу ловушку MAA."
+ tactical_forest_battle.1014.a.success: "Враг попадает прямо в нашу ловушку и опустошен!"
+ tactical_forest_battle.1014.a.failure: "Враг распознает ловушку и избегает ее!"
+ tactical_forest_battle.1014.b: "Левый фланг мощно атакует слева"
+ tactical_forest_battle.1014.b.success: "Наша левая атака полностью разбивает противника слева!"
+ tactical_forest_battle.1014.b.failure: "Левая атака отбита резервами противника!"
+ tactical_forest_battle.1014.c: "Центр разворачивается и убивает врага"
+ tactical_forest_battle.1014.c.success: "Наш центр катится и уничтожает вражеский центр!"
+ tactical_forest_battle.1014.c.failure: "Враг отбивает контратаку!"
+ tactical_forest_battle.1014.d: "Заманить вражеский центр к рыцарям"
+ tactical_forest_battle.1014.d.success: "Центр противника отлично выманен и уничтожен нашими рыцарями!"
+ tactical_forest_battle.1014.d.failure: "Враг ускользает от приманки и отступает!"
+ tactical_forest_battle.1014.e: "Нажмите на преимущество"
+ tactical_forest_battle.1014.e.success: "Неослабевающее давление полностью деморализует противника!"
+ tactical_forest_battle.1014.e.failure: "Враг стоит и удерживает свои позиции!"
+  
+  # Event 0010 - Left Flank Focus Follow-up 
+ tactical_forest_battle.0010.t: "Левофланговый бой"
+ tactical_forest_battle.0010.desc: "Бой продолжается, и наши войска вступают в бой на левом фланге. [center_flank_commander.GetTitledFirstName] командует в центре, [right_flank_commander.GetFirstName] — на правом фланге. [left_flank_commander.GetTitledFirstName] командует левым флангом, и использование сил [left_flank_commander.GetHerHis] может сыграть решающую роль в обеспечении победы."
+ tactical_forest_battle.0010.a: "Выполнить ложный отход на левом фланге."
+ tactical_forest_battle.0010.a.success: "Финт удался! Противник нарушает строй, чтобы преследовать наши бегущие войска, создавая фатальную уязвимость."
+ tactical_forest_battle.0010.a.failure: "Враг видит наш обман и поддерживает дисциплину, обращая против нас наш обман!"
+ tactical_forest_battle.0010.b: "Выполнить фланговый маневр"
+ tactical_forest_battle.0010.b.success: "Наши фланговые силы обходят их левый фланг, разрушая их сплоченность!"
+ tactical_forest_battle.0010.b.failure: "Этот командующий предвидит наш маневр и меняет силы, чтобы встретить нас."
+ tactical_forest_battle.0010.e: "Тактика преследования «бей и беги» на их правом фланге"
+ tactical_forest_battle.0010.e.success: "Наша тактика преследования их утомляет! Их право истекает кровью!"
+ tactical_forest_battle.0010.e.failure: "Враг держится и сохраняет свой строй!"
+ tactical_forest_battle.0010.f: "Освободите скрытую фланговую силу и медленно отступайте."
+ tactical_forest_battle.0010.f.success: "Наши фланговые силы успешно выходят из боя и обходят наступающую атаку!"
+ tactical_forest_battle.0010.f.failure: "Наши фланговые силы обнаружены и введены в бой!"
+ tactical_forest_battle.0010.g: "Создайте ложную брешь, соблазняющую их право броситься в ловушку."
+ tactical_forest_battle.0010.g.success: "Их правые начинают бросаться в пропасть, попадая в нашу ловушку!"
+ tactical_forest_battle.0010.g.failure: "Их право не клюнуть на наживку и поддерживать дисциплину!"
+  
+ # Event 0011 - Center Flank Engagement 
+ tactical_forest_battle.0011.t: "Центральный фланговый бой"
+ tactical_forest_battle.0011.desc: "Бой продолжается, и наши силы вступают в бой на центральном фланге. [left_flank_commander.GetTitledFirstName] командует слева, [right_flank_commander.GetFirstName] — на правом фланге. [center_flank_commander.GetTitledFirstName] командует центром, и использование сил [center_flank_commander.GetHerHis] может оказаться решающим фактором в обеспечении победы."
+ tactical_forest_battle.0011.a: "Создайте ложный разрыв в левой части нашего центра."
+ tactical_forest_battle.0011.a.success: "Их центр разрывает брешь, попадая в нашу ловушку!"
+ tactical_forest_battle.0011.a.failure: "Враг отказывается втягиваться и держаться!"
+ tactical_forest_battle.0011.b: "Создадим ложный разрыв в правой части нашего центра."
+ tactical_forest_battle.0011.b.success: "Их центр разрывает брешь, попадая в нашу ловушку!"
+ tactical_forest_battle.0011.b.failure: "Враг отказывается втягиваться и держаться!"
+ tactical_forest_battle.0011.c: "Отправьте наши элитные полки взломать их центр."
+ tactical_forest_battle.0011.c.success: "Атака элиты разрушает их сплоченность! Центр начинает рушиться!"
+ tactical_forest_battle.0011.c.failure: "Враг предвидит, и наши элитные силы отброшены!"
+ tactical_forest_battle.0011.d: "Заставьте наших рыцарей прорваться через их центр."
+ tactical_forest_battle.0011.d.success: "Рыцари атакуют с разрушительной силой! Их центр рушится!"
+ tactical_forest_battle.0011.d.failure: "Враг готовит контратаку, и наши рыцари отброшены!"
+ tactical_forest_battle.0011.e: "Медленно потяните центр назад, чтобы попытаться окружить"
+ tactical_forest_battle.0011.e.success: "Их центр внезапно обнажился на обоих флангах!"
+ tactical_forest_battle.0011.e.failure: "Они отказываются втягиваться и держаться!"
+ tactical_forest_battle.0011.f: "Запустите разрушительный заряд через их центр."
+ tactical_forest_battle.0011.f.success: "Наша атака прорывается через их центр! Их конструкция раскололась от удара!"
+ tactical_forest_battle.0011.f.failure: "Враг держится, и нашей атаке не удается прорваться!"
+  
+ # Event 0012 - Right Flank Engagement 
+ tactical_forest_battle.0012.t: "Правофланговый бой"
+ tactical_forest_battle.0012.desc: "None"
+ tactical_forest_battle.0012.a: "Выполните ложное отступление на левом фланге противника."
+ tactical_forest_battle.0012.a.success: "Финт удался! Враг разрывает строй и преследует наши бегущие войска!"
+ tactical_forest_battle.0012.a.succes.desc: "Финт удался! Враг разрывает строй и преследует наши бегущие войска!"
+ tactical_forest_battle.0012.a.failure: "[enemy_commander.GetFirstName] видит наш обман и отступает, чтобы атаковать наш центр!"
+ tactical_forest_battle.0012.b: "Выполните фланговый маневр на их левом фланге."
+ tactical_forest_battle.0012.b.success: "Наши фланговые силы обходят их левый фланг, разрушая их сплоченность!"
+ tactical_forest_battle.0012.b.failure: "[enemy_commander.GetFirstName] ротирует резервы слева для подкрепления!"
+ tactical_forest_battle.0012.c: "Освободите скрытую фланговую силу и медленно отступайте."
+ tactical_forest_battle.0012.c.success: "Наши фланговые силы успешно выходят из боя и обходят наступающую атаку!"
+ tactical_forest_battle.0012.c.failure: "Наши фланговые силы обнаружены и введены в бой!"
+ tactical_forest_battle.0012.d: "Применяйте тактику «бей и беги» на своем левом фланге."
+ tactical_forest_battle.0012.d.success: "Наша тактика «нападай и беги» нарушает их построение! Они изо всех сил пытаются реорганизоваться!"
+ tactical_forest_battle.0012.d.failure: "Враг держится, и наши силы не могут воспользоваться моментом!"
+ tactical_forest_battle.0012.e: "Создайте ложную брешь, соблазняющую их левых атаковать в ловушку."
+ tactical_forest_battle.0012.e.success: "Их левая сторона начинает атаковать пролом и попадает в нашу ловушку!"
+ tactical_forest_battle.0012.e.failure: "Левые отказываются клюнуть на наживку и сохраняют дисциплину!"
+  
+  
+  
+ # Event 8005 - Enemy Left Flank Routing 
+  
+ # Event 5750 - Begin to Fallback Center 
+ tactical_forest_battle.5750.t: "Начать резервный центр"
+ tactical_forest_battle.5750.desc: "Наш центр испытывает сильное давление со стороны противника, и мы должны решить, держаться, отступать или контратаковать."
+ tactical_forest_battle.5750.a: "Заряд атаки МАА"
+ tactical_forest_battle.5750.a.success: "Атака МАА отбивает атаку противника!"
+ tactical_forest_battle.5750.a.failure: "Заряд МАА отбит!"
+ tactical_forest_battle.5750.b: "Атака на левом фланге"
+ tactical_forest_battle.5750.b.success: "Атака левого фланга ослабляет давление!"
+ tactical_forest_battle.5750.b.failure: "Левофланговая атака не развивается!"
+ tactical_forest_battle.5750.c: "Рыцари отступают"
+ tactical_forest_battle.5750.c.success: "Рыцари атакуют, отступая успешно!"
+ tactical_forest_battle.5750.c.failure: "Атака рыцарей провалилась!"
+ tactical_forest_battle.5750.d: "Рыцари отступают в засаду"
+ tactical_forest_battle.5750.d.success: "Враг преследует нашу засаду!"
+ tactical_forest_battle.5750.d.failure: "Враг избегает засады!"
+ tactical_forest_battle.5750.e: "Вдохновляйте войска"
+ tactical_forest_battle.5750.e.success: "Войска воодушевлены и держатся!"
+ tactical_forest_battle.5750.e.failure: "Вдохновение не дает о себе знать!"
+  
+ # Event 9251 - Enemy Is Retreating 
+  
+ # Event 0656 - Right Flank Reserves Intercepted 
+ tactical_forest_battle.0656.t: "Правофланговые резервы перехвачены"
+ tactical_forest_battle.0656.desc: "[enemy_commander.GetFirstNamePossessive] перехватил наши правофланговые резервы! Мы должны решить, как реагировать на эту угрозу."
+ tactical_forest_battle.0656.a: "Яростный толчок слева"
+ tactical_forest_battle.0656.a.success: "Яростный рывок на левом фланге удался!"
+ tactical_forest_battle.0656.a.failure: "Левофланговый натиск не развивается!"
+ tactical_forest_battle.0656.b: "Притвориться отступлением"
+ tactical_forest_battle.0656.b.success: "Притворное отступление заманивает врага в ловушку!"
+ tactical_forest_battle.0656.b.failure: "Отступление становится бесконтрольным!"
+ tactical_forest_battle.0656.c: "Вдохновляйте войска"
+ tactical_forest_battle.0656.c.success: "Войска воодушевляются и сплачиваются!"
+ tactical_forest_battle.0656.c.failure: "Вдохновение остается без внимания!"
+ tactical_forest_battle.0656.d: "Включите правые резервы"
+ tactical_forest_battle.0656.d.success: "Правые резервы разворачиваются и контратакуют!"
+ tactical_forest_battle.0656.d.failure: "Правые резервы не могут маневрировать!"
+ tactical_forest_battle.0656.e: "Отступите и заманите в ловушку"
+ tactical_forest_battle.0656.e.success: "Враг преследует нашу ловушку!"
+ tactical_forest_battle.0656.e.failure: "Враг избегает ловушки!"
+ tactical_forest_battle.0656.f: "Правый фланг продвигается вперед"
+ tactical_forest_battle.0656.f.success: "Правый фланг прорывает врага!"
+ tactical_forest_battle.0656.f.failure: "Правый фланг сдерживается!"
+  
+  
+ # Event 7323 - Left Encircles (Outcomes) 
+ tactical_forest_battle.7323.t: "Правый фланг окружен!"
+ tactical_forest_battle.7323.desc: "[left_flank_commander.GetTitledFirstName] успешно окружил правый фланг [enemy_commander.GetFirstNamePossessive]! Тысячи вражеских солдат теперь оказались в ловушке, отрезанные от возможности отступления или подкрепления. [enemy_commander.GetTitledFirstName] беспомощно наблюдает, как их попавшие в ловушку силы сталкиваются с уничтожением. Мы должны решить их судьбу: покажем ли мы им милость почетной капитуляции или же полностью уничтожим их по примеру?"
+ tactical_forest_battle.7323.a: "Начни резню!"
+ tactical_forest_battle.7323.a.success: "[left_flank_commander.GetTitledFirstName] возглавляет атаку на попавшие в ловушку силы!"
+ tactical_forest_battle.7323.a.failure: "Попавшие в ловушку силы предпринимают отчаянный побег, и многие сбегают!"
+ tactical_forest_battle.7323.b: "Возьмите пленников!"
+ tactical_forest_battle.7323.b.success: "Попавшие в ловушку силы сдаются и становятся военнопленными!"
+ tactical_forest_battle.7323.b.failure: "Многие из попавших в ловушку сил отказываются сдаваться и сражаются насмерть!"
+  
+  # Event 9466 - Their Center is Shocked 
+ tactical_forest_battle.9466.t: "Захваченный и сбитый с толку"
+ tactical_forest_battle.9466.desc: "[enemy_commander.GetTitledFirstNamePossessiveOrMy] центр в шоке! Тогда паника — прекрасная возможность! Если мы сможем прорваться сюда, мы сможем атаковать центр."
+ tactical_forest_battle.9466.a: "Симулируйте отступление и нападите на преследователей."
+ tactical_forest_battle.9466.a.success: "[center_flank_commander.GetFullNameNicknamedPossessiveOrMy] симулируйте отступление и ворвитесь в их центр!"
+ tactical_forest_battle.9466.a.failure: "Враг реорганизуется и стоит твердо!"
+ tactical_forest_battle.9466.b: "Координируйте атаку с нашими рыцарями"
+ tactical_forest_battle.9466.b.success: "Наша объединенная атака врезается в их центр."
+ tactical_forest_battle.9466.b.failure: "Враг стойко противостоит нашему нападению!"
+ tactical_forest_battle.9466.c: "Координируйте свои действия с нашими первоклассными полками, чтобы защитить свои права."
+ tactical_forest_battle.9466.c.success: "Наша совместная атака вызывает хаос в их центре!"
+ tactical_forest_battle.9466.c.failure: "У врага есть время установить новую линию обороны!"
+ tactical_forest_battle.9466.d: "Используйте преимущество в полную силу"
+ tactical_forest_battle.9466.d.success: "Нажимаем атаку на их центр!"
+ tactical_forest_battle.9466.d.failure: "Враг держится, несмотря на давление!"
+ tactical_forest_battle.9466.e: "[center_flank_commander.GetTitledFirstNameOrMeRegnal] зарядов с трудом сокрушает их центр!"
+ tactical_forest_battle.9466.e.success: "Наша атака разрушает сплоченность врага!"
+ tactical_forest_battle.9466.e.failure: "Их держится крепко, и нам не прорваться!"
+  
+ # Event .220 - Left Begins Encircle 
+ tactical_forest_battle.220.t: "Левый фланг начинает окружение"
+ tactical_forest_battle.220.desc: "[left_flank_commander.GetTitledFirstNamePossessiveOrMy] сил просочилось в тыл врага. Мы должны воспользоваться этим преимуществом до прибытия [enemy_commander.GetFirstNamePossessive] подкрепления. Мужчины считают, что если задержать врага на достаточно долгое время, они смогут окружить врага."
+ tactical_forest_battle.220.a: "Клещи с правого фланга!"
+ tactical_forest_battle.220.a.success: "[left_flank_commander.GetTitledFirstName] и наш правый фланг координируют разрушительное движение клешней!"
+ tactical_forest_battle.220.a.failure: "Нарушается координация между флангами, и враг ускользает из клещей!"
+ tactical_forest_battle.220.b: "Отправьте наших рыцарей занять их!"
+ tactical_forest_battle.220.b.success: "Наши рыцари заняты, отвлекая их от окружающих врагов!"
+ tactical_forest_battle.220.b.failure: "Враг видит окружающие силы!"
+ tactical_forest_battle.220.c: "Отправьте наши взломанные подразделения, чтобы они были заняты"
+ tactical_forest_battle.220.c.success: "Наши лучшие подразделения вступают в бой с противником, позволяя продолжить окружение!"
+ tactical_forest_battle.220.c.failure: "Враг перегруппировывается и отбрасывает наши части!"
+ tactical_forest_battle.220.d: "Сформируйте наковальню, пока вытекшие силы атакуют сзади."
+ tactical_forest_battle.220.d.success: "[center_flank_commander.GetTitledFirstName] правый фланг разбит между двумя силами!"
+ tactical_forest_battle.220.d.failure: "Их права на данный момент сильны!"
+ tactical_forest_battle.220.e: "Вдохновите наши войска сражаться сильнее, пока окружение не будет завершено."
+ tactical_forest_battle.220.e.success: "[center_flank_commander.GetTitledFirstName] правый фланг разбит между двумя силами!"
+ tactical_forest_battle.220.e.failure: "Их права на данный момент сильны!"
+  
+  
+ tactical_forest_battle.221.t: "Правый фланг начинает окружение"
+ tactical_forest_battle.221.desc: "[right_flank_commander.GetTitledFirstNamePossessiveOrMy] сил просочилось в тыл врага. Мы должны воспользоваться этим преимуществом до прибытия [enemy_commander.GetFirstNamePossessive] подкрепления. Мужчины считают, что если задержать врага на достаточно долгое время, они смогут окружить врага."
+ tactical_forest_battle.221.a: "Клещи слева!"
+ tactical_forest_battle.221.a.success: "[right_flank_commander.GetTitledFirstName] и наш левый фланг координируют разрушительное движение клешней!"
+ tactical_forest_battle.221.a.failure: "Нарушается координация между флангами, и враг ускользает из клещей!"
+ tactical_forest_battle.221.b: "Отправьте наших рыцарей занять их!"
+ tactical_forest_battle.221.b.success: "Наши рыцари заняты, отвлекая их от окружающих врагов!"
+ tactical_forest_battle.221.b.failure: "Враг видит окружающие силы!"
+ tactical_forest_battle.221.c: "Отправьте наши взломанные подразделения, чтобы они были заняты"
+ tactical_forest_battle.221.c.success: "Наши лучшие подразделения вступают в бой с противником, позволяя продолжить окружение!"
+ tactical_forest_battle.221.c.failure: "Враг перегруппировывается и отбрасывает наши части!"
+ tactical_forest_battle.221.d: "Сформируйте наковальню, пока вытекшие силы атакуют сзади."
+ tactical_forest_battle.221.d.success: "[center_flank_commander.GetTitledFirstName] левый фланг разбит между двумя силами!"
+ tactical_forest_battle.221.d.failure: "Их левая сторона на данный момент сильна!"
+ tactical_forest_battle.221.e: "Вдохновите наши войска сражаться сильнее, пока окружение не будет завершено."
+ tactical_forest_battle.221.e.success: "[center_flank_commander.GetTitledFirstName] левый фланг разбит между двумя силами!"
+ tactical_forest_battle.221.e.failure: "Их левая сторона на данный момент сильна!"
+  
+  
+ appoint_left_flank_interaction: "Назначить командующего левым флангом"
+ appoint_center_flank_interaction: "Назначить командующего центральным флангом"
+ appoint_right_flank_interaction: "Назначить командующего правым флангом"
+ remove_left_flank_interaction: "Удалить командующего левым флангом"
+ remove_center_flank_interaction: "Удалить командира центрального фланга"
+ remove_right_flank_interaction: "Удалить командующего правым флангом"
+ appoint_center_flank_interaction_desc: "Назначьте командира, который возглавит центральный фланг в предстоящем сражении."
+ appoint_left_flank_interaction_desc: "Назначьте командира, который возглавит левый фланг в предстоящем сражении."
+ appoint_right_flank_interaction_desc: "Назначьте командира, который возглавит правый фланг в предстоящем сражении."
+ remove_center_flank_interaction_desc: "Освободить нынешнего командующего центральным флангом от его обязанностей."
+ remove_left_flank_interaction_desc: "Освободить нынешнего командующего левым флангом от его обязанностей."
+ remove_right_flank_interaction_desc: "Освободить нынешнего командующего правым флангом от его обязанностей."
+  
+ # Flank Commanders Tab 
+ MV_FLANK_COMMANDERS: "Фланговые командиры"
+ LEFT_FLANK_COMMANDER: "Командир левого фланга"
+ CENTER_FLANK_COMMANDER: "Командир центрального фланга"
+ RIGHT_FLANK_COMMANDER: "Командир правого фланга"
+ NO_ASSIGNMENT: "Нет задания"
+  

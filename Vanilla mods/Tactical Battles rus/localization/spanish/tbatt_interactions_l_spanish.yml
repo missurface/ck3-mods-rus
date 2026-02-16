@@ -1,0 +1,10 @@
+﻿l_spanish:
+ appoint_left_flank_interaction: "Designar líder del flanco izquierdo"  #NT!
+ appoint_center_flank_interaction: "Designar líder del flanco central"  #NT!
+ appoint_right_flank_interaction: "Designar líder del flanco derecho"  #NT!
+ left_flank_commander_tooltip: "Asigna un comandante para que lidere el flanco izquierdo de tu ejército. Un líder hábil puede proporcionar ventajas tácticas a las unidades bajo su mando."  #NT!
+ center_flank_leader_tooltip: "Asigna un comandante para que dirija el flanco central de tu ejército. Un líder hábil puede proporcionar ventajas tácticas a las unidades bajo su mando."  #NT!
+ right_flank_leader_tooltip: "Asigna un comandante para que lidere el flanco derecho de tu ejército. Un líder hábil puede proporcionar ventajas tácticas a las unidades bajo su mando."  #NT!
+  
+ remove_nick_or_flavor_from_character_interaction: "Eliminar apodo o texto de sabor"  #NT!
+ remove_nick_or_flavor_from_character_desc: "Elimina el apodo de Batallas Tácticas o el texto de sabor de este personaje."  #NT!

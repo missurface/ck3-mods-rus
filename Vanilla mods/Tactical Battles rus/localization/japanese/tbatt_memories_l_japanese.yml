@@ -1,0 +1,124 @@
+﻿l_japanese:
+  
+ right_commander_feign_broke: "彼らの左翼を打ち破った"  #NT!
+ right_commander_feign_broke_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の過程で、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で右翼を指揮しました。私は戦術的に見せかけの撤退に続いて奇襲を開始し、[enemy_commander.GetFullNameNicknamedOrMeRegnal] の左翼を突破しました。"  #NT!
+ right_commander_feign_broke_01_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の間、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で右翼を指揮しました。私は戦略的と見せかけて撤退した後、奇襲攻撃を開始し、[enemy_commander.GetFullNameNicknamedOrMeRegnal] の左側面を粉砕しました。"  #NT!
+ right_commander_feign_broke_02_first: "[ROOT.Var('fighting_war').War.GetName] 対 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal] 戦に従事していたとき、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] の戦い」で右翼を指揮していました。私は計算された後退を装った後に奇襲攻撃を実行し、[enemy_commander.GetFullNameNicknamedOrMeRegnal] の左翼を壊滅させました。"  #NT!
+ right_commander_feign_broke_second: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、あなたは、[battle_location.GetProvince.GetName] の戦いで [enemy_commander.GetFullNameNicknamedOrMeRegnal] の左翼を敗走させる偽装撤退を指揮しました。"  #NT!
+ right_commander_feign_broke_third: "[fighting_war.GetName] を目指して [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] と戦っている間、[ROOT.GetTitledFirstName] は偽装撤退を指揮し、[battle_location.GetProvince.GetNameNoTooltip] の戦いで [enemy_commander.GetFullNameNicknamedOrMeRegnal] の左翼を敗走させた。"  #NT!
+  
+  
+ right_commander_charge_broke: "猛烈なチャージ"  #NT!
+ right_commander_charge_broke_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の間、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で右翼を指揮しました。私は[enemy_commander.GetFullNameNicknamedOrMeRegnal]の左側面を打ち砕く猛烈な突撃を先導した"  #NT!
+ right_commander_charge_broke_nk_first: "私は「[ROOT.Var('battle_location').GetProvince.GetBaronyNameExplicitly]の戦い」で[enemy_commander.GetFullNameNicknamedOrMeRegnal]の左翼を粉砕する猛烈な突撃を指揮しました。"  #NT!
+ right_commander_charge_broke_01_first: "[ROOT.Var('fighting_war').War.GetName] 対 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal] 戦に従事していたとき、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] の戦い」で右翼を指揮していました。私は[enemy_commander.GetFullNameNicknamedOrMeRegnal]の左翼を破壊する強力な突撃を主導しました"  #NT!
+ right_commander_charge_broke_nk1_first: "私は「[ROOT.Var('battle_location').GetProvince.GetBaronyNameExplicitly]の戦い」で右翼を指揮していたとき、[enemy_commander.GetFullNameNicknamedOrMeRegnal]の左翼を壊滅させる強力な突撃を指揮しました。"  #NT!
+ right_commander_charge_broke_02_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の過程で、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で右翼を指揮しました。私が先陣を切って執拗な突撃を行い、[enemy_commander.GetFullNameNicknamedOrMeRegnal]の左翼を圧倒した"  #NT!
+ right_commander_charge_broke_nk2_first: "「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で戦っている間、私は右翼を率いて執拗な突撃の先鋒を務め、[enemy_commander.GetFullNameNicknamedOrMeRegnal]の左翼を圧倒しました。"  #NT!
+ right_commander_charge_broke_second: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、あなたは[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の左翼を敗走させる壊滅的な突撃を指揮しました。"  #NT!
+ right_commander_charge_broke_third: "[fighting_war.GetName] をめぐる戦争で [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] と戦っている間、[ROOT.GetTitledFirstName] は[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の左翼を敗走させる壊滅的な突撃を主導しました。"  #NT!
+  
+ right_commander_knights_broke: "騎士団長"  #NT!
+ right_commander_knights_broke_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の間、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で右翼を指揮しました。私は騎士の突撃を先導し、[enemy_commander.GetFullNameNicknamedOrMeRegnal]の左側面を打ち砕いた"  #NT!
+ right_commander_knights_broke_01_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」では右翼を担当しました。 [enemy_commander.GetFullNameNicknamedOrMeRegnal]の左側面を突破した騎士団の突撃の先鋒を務めた"  #NT!
+ right_commander_knights_broke_02_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」では右翼を担当しました。 [enemy_commander.GetFullNameNicknamedOrMeRegnal]の左翼を圧倒する騎士の突撃を指示した"  #NT!
+ right_commander_knights_broke_second: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、あなたは、[battle_location.GetProvince.GetName] の戦いで [enemy_commander.GetFullNameNicknamedOrMeRegnal] の左翼を敗走させた我が騎士団の突撃を指揮しました。"  #NT!
+ right_commander_knights_broke_third: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、[ROOT.GetTitledFirstName] は、[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の左翼を敗走させた騎士団の突撃を指揮しました。"  #NT!
+  
+ right_commander_maa_broke: "クラックコマンダー"  #NT!
+ right_commander_maa_broke_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の間、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で右翼を指揮しました。私は[enemy_commander.GetFullNameNicknamedOrMeRegnal]の左翼を粉砕した精鋭部隊の突撃を率いました"  #NT!
+ right_commander_maa_broke_01_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の過程で、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で右翼の指揮を執りました。私は[enemy_commander.GetFullNameNicknamedOrMeRegnal]の左翼を突破した精鋭部隊で攻撃の先頭に立った"  #NT!
+ right_commander_maa_broke_02_first: "[ROOT.Var('fighting_war').War.GetName] 対 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal] で交戦中、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] の戦い」で右翼を率いました。私は精鋭部隊の突撃を指揮し、[enemy_commander.GetFullNameNicknamedOrMeRegnal]の左翼を壊滅させた。"  #NT!
+ right_commander_maa_broke_second: "[fighting_war.GetName] 対 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦いで、あなたは、[battle_location.GetProvince.GetName] の戦いで [enemy_commander.GetFullNameNicknamedOrMeRegnal] の左翼を敗走させた精鋭部隊の突撃を指揮しました。"  #NT!
+ right_commander_maa_broke_third: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、[ROOT.GetTitledFirstName] は、[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の左翼を敗走させた精鋭部隊の突撃を指揮しました。"  #NT!
+  
+  
+ left_commander_feign_broke: "彼らの権利を破った"  #NT!
+ left_commander_feign_broke_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」では左翼を指揮しました。私は戦術的に見せかけの退却に続いて奇襲を開始し、[enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を突破しました。"  #NT!
+ left_commander_feign_broke_01_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の間、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で左翼を指揮しました。私は戦略的と見せかけて撤退した後、奇襲攻撃を開始し、[enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を粉砕しました。"  #NT!
+ left_commander_feign_broke_02_first: "[ROOT.Var('fighting_war').War.GetName] 対 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal] で交戦中、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] の戦い」で左翼を指揮しました。私は計算された後退を装った後に奇襲攻撃を実行し、[enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を壊滅させました。"  #NT!
+ left_commander_feign_broke_second: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、あなたは、[battle_location.GetProvince.GetName] の戦いで [enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を敗走させる偽装撤退を指揮しました。"  #NT!
+ left_commander_feign_broke_third: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、[ROOT.GetTitledFirstName] は偽装撤退を指揮し、[battle_location.GetProvince.GetNameNoTooltip] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を敗走させました。"  #NT!
+  
+  
+ left_commander_charge_broke: "猛烈なチャージ"  #NT!
+ left_commander_charge_broke_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の間、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で左翼を指揮しました。私は[enemy_commander.GetFullNameNicknamedOrMeRegnal]の右脇腹を打ち砕く猛烈な突撃を先導した"  #NT!
+ left_commander_charge_broke_01_first: "[ROOT.Var('fighting_war').War.GetName] 対 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal] で交戦中、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] の戦い」で左翼を指揮しました。私は[enemy_commander.GetFullNameNicknamedOrMeRegnal]の右翼を壊滅させる強力な突撃を指揮しました"  #NT!
+ left_commander_charge_broke_02_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」では左翼を指揮しました。私が先陣を切って執拗な突撃を行い、[enemy_commander.GetFullNameNicknamedOrMeRegnal]の右翼を圧倒した"  #NT!
+ left_commander_charge_broke_second: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、あなたは[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を敗走させる壊滅的な突撃を指揮しました。"  #NT!
+ left_commander_charge_broke_third: "[fighting_war.GetName] をめぐる戦争で [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] と戦っている間、[ROOT.GetTitledFirstName] は[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を敗走させる壊滅的な突撃を主導しました。"  #NT!
+  
+ left_commander_knights_broke: "騎士団長"  #NT!
+ left_commander_knights_broke_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の間、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で左翼を指揮しました。私は騎士の突撃を先導し、[enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を粉砕しました"  #NT!
+ left_commander_knights_broke_01_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」では左翼を担当しました。 [enemy_commander.GetFullNameNicknamedOrMeRegnal]の右翼を突破した騎士団の突撃の先頭に立った"  #NT!
+ left_commander_knights_broke_02_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」では左翼を担当しました。 [enemy_commander.GetFullNameNicknamedOrMeRegnal]の右翼を圧倒する騎士の突撃を指示した"  #NT!
+ left_commander_knights_broke_second: "[fighting_war.GetName] 対 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦いで、あなたは[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を敗走させた我が騎士団の突撃を指揮しました。"  #NT!
+ left_commander_knights_broke_third: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、[ROOT.GetTitledFirstName] は、[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を敗走させた騎士団の突撃を指揮しました。"  #NT!
+  
+ left_commander_maa_broke: "クラックコマンダー"  #NT!
+ left_commander_maa_broke_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の間、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で左翼を指揮しました。私は精鋭部隊の突撃を率い、[enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を粉砕しました"  #NT!
+ left_commander_maa_broke_01_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の過程で、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で左翼の指揮を執りました。私は精鋭部隊で攻撃の先頭に立って[enemy_commander.GetFullNameNicknamedOrMeRegnal]の右翼を突破しました"  #NT!
+ left_commander_maa_broke_02_first: "[ROOT.Var('fighting_war').War.GetName] 対 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal] に従事している間、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] の戦い」で左翼を率いました。私は精鋭部隊の突撃を指揮し、[enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を壊滅させました。"  #NT!
+ left_commander_maa_broke_second: "[fighting_war.GetName] 対 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦いで、あなたは、[battle_location.GetProvince.GetName] の戦いで [enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を敗走させた精鋭部隊の突撃を指揮しました。"  #NT!
+ left_commander_maa_broke_third: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、[ROOT.GetTitledFirstName] は、[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を敗走させた精鋭部隊の突撃を指揮しました。"  #NT!
+  
+ center_commander_feign_broke: "彼らの権利を破った"  #NT!
+ center_commander_feign_broke_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」では左翼を指揮しました。私は戦術的に見せかけの退却に続いて奇襲を開始し、[enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を突破しました。"  #NT!
+ center_commander_feign_broke_01_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の間、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で左翼を指揮しました。私は戦略的と見せかけて撤退した後、奇襲攻撃を開始し、[enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を粉砕しました。"  #NT!
+ center_commander_feign_broke_02_first: "[ROOT.Var('fighting_war').War.GetName] 対 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal] で交戦中、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] の戦い」で左翼を指揮しました。私は計算された後退を装った後に奇襲攻撃を実行し、[enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を壊滅させました。"  #NT!
+ center_commander_feign_broke_second: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、あなたは、[battle_location.GetProvince.GetName] の戦いで [enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を敗走させる偽装撤退を指揮しました。"  #NT!
+ center_commander_feign_broke_third: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、[ROOT.GetTitledFirstName] は偽装撤退を指揮し、[battle_location.GetProvince.GetNameNoTooltip] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の右翼を敗走させました。"  #NT!
+  
+  
+ center_commander_charge_broke: "猛烈なチャージ"  #NT!
+ center_commander_charge_broke_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」では中央を指揮しました。 [enemy_commander.GetFullNameNicknamedOrMeRegnal]の中心を粉砕する猛突進を先導したのは私だ"  #NT!
+ center_commander_charge_broke_01_first: "[ROOT.Var('fighting_war').War.GetName] 対 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal] に従事していたとき、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] の戦い」で中央の指揮を執っていました。私は[enemy_commander.GetFullNameNicknamedOrMeRegnal]の中心を破壊する強力な突撃を主導しました"  #NT!
+ center_commander_charge_broke_02_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の過程で、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で中央を率いました。 [enemy_commander.GetFullNameNicknamedOrMeRegnal]のセンターを圧倒する執拗な突撃の先頭に立った"  #NT!
+ center_commander_charge_broke_second: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、あなたは[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心を敗走させる壊滅的な突撃を指揮しました。"  #NT!
+ center_commander_charge_broke_third: "[fighting_war.GetName] をめぐる戦争で [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] と戦っている間、[ROOT.GetTitledFirstName] は[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心を敗走させる壊滅的な突撃を主導しました。"  #NT!
+  
+ center_commander_knights_broke: "騎士団長"  #NT!
+ center_commander_knights_broke_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」では中央を指揮しました。私は[enemy_commander.GetFullNameNicknamedOrMeRegnal]の中心を打ち砕いた騎士の突撃を先導した"  #NT!
+ center_commander_knights_broke_01_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」ではセンターを担当しました。 [enemy_commander.GetFullNameNicknamedOrMeRegnal]の中心部を突破した騎士団の突撃を私が先鋒した"  #NT!
+ center_commander_knights_broke_02_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」ではセンターを担当しました。 [enemy_commander.GetFullNameNicknamedOrMeRegnal]のセンターを圧倒するナイトの突撃を演出した"  #NT!
+ center_commander_knights_broke_second: "[fighting_war.GetName] 対 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、あなたは[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心を敗走させた騎士団の突撃を指揮しました。"  #NT!
+ center_commander_knights_broke_third: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、[ROOT.GetTitledFirstName] は、[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心を敗走させた騎士団の突撃を指揮しました。"  #NT!
+  
+ center_commander_maa_broke: "クラックコマンダー"  #NT!
+ center_commander_maa_broke_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」では中央を指揮しました。私は[enemy_commander.GetFullNameNicknamedOrMeRegnal]の中心部を粉砕した精鋭部隊の突撃を率いました"  #NT!
+ center_commander_maa_broke_01_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」では中央の指揮を執りました。私は精鋭部隊で突撃の先頭に立って[enemy_commander.GetFullNameNicknamedOrMeRegnal]の中心部を突破しました"  #NT!
+ center_commander_maa_broke_02_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]で交戦中、私は中央を率いて「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」に参加しました。私は[enemy_commander.GetFullNameNicknamedOrMeRegnal]の中心部を壊滅させた精鋭部隊の突撃を指揮した。"  #NT!
+ center_commander_maa_broke_second: "[fighting_war.GetName] 対 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、あなたは、[battle_location.GetProvince.GetName] の戦いで [enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心部を敗走させた精鋭部隊の突撃を指揮しました。"  #NT!
+ center_commander_maa_broke_third: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、[ROOT.GetTitledFirstName] は、[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心部を敗走させた精鋭部隊の突撃を指揮しました。"  #NT!
+  
+  
+ center_commander_feign_broke: "彼らの権利を破った"  #NT!
+ center_commander_feign_broke_first: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、私は偽装撤退を指揮し、[battle_location.GetProvince.GetName] の戦いで [enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心を敗走させました。"  #NT!
+ center_commander_feign_broke_second: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、あなたは偽装撤退を指揮し、[battle_location.GetProvince.GetName] の戦いで [enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心部を敗走させました。"  #NT!
+ center_commander_feign_broke_third: "[fighting_war.GetName] をめぐる戦争で [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] と戦っている間、[ROOT.GetTitledFirstName] は偽装撤退を指揮し、[battle_location.GetProvince.GetName] の戦いで [enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心を敗走させた。"  #NT!
+  
+ center_commander_charge_broke: "猛烈なチャージ"  #NT!
+ center_commander_charge_broke_first: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、私は[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心を敗走させる壊滅的な突撃を指揮しました。"  #NT!
+ center_commander_charge_broke_second: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、あなたは[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心を敗走させる壊滅的な突撃を指揮しました。"  #NT!
+ center_commander_charge_broke_third: "[fighting_war.GetName] をめぐる戦争で [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] と戦っている間、[ROOT.GetTitledFirstName] は[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心を敗走させる壊滅的な突撃を主導しました。"  #NT!
+  
+ center_commander_knights_broke: "騎士団長"  #NT!
+ center_commander_knights_broke_first: "[fighting_war.GetName] 対 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、私は[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心を敗走させた騎士団の突撃を指揮しました。"  #NT!
+ center_commander_knights_broke_second: "[fighting_war.GetName] 対 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、あなたは[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心を敗走させた騎士団の突撃を指揮しました。"  #NT!
+ center_commander_knights_broke_third: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、[ROOT.GetTitledFirstName] は、[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心を敗走させた騎士団の突撃を指揮しました。"  #NT!
+  
+ center_commander_maa_broke: "クラックコマンダー"  #NT!
+ center_commander_maa_broke_first: "[ROOT.Var('fighting_war').War.GetName] 対 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、私は[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心部を敗走させた精鋭部隊の突撃を指揮しました。"  #NT!
+ center_commander_maa_broke_second: "[fighting_war.GetName] 対 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、あなたは、[battle_location.GetProvince.GetName] の戦いで [enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心部を敗走させた精鋭部隊の突撃を指揮しました。"  #NT!
+ center_commander_maa_broke_third: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、[ROOT.GetTitledFirstName] は、[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] の中心部を敗走させた精鋭部隊の突撃を指揮しました。"  #NT!
+  
+  
+ commander_encircled_army: "軍隊を包囲した"  #NT!
+ commander_encircled_army_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の間、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で[enemy_commander.GetFullNameNicknamedOrMeRegnal]軍の包囲を首謀しました。補給線と逃げ道を遮断することで"  #NT!
+ commander_encircled_army_01_first: "[ROOT.Var('fighting_war').War.GetName]対[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]の過程で、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]の戦い」で[enemy_commander.GetFullNameNicknamedOrMeRegnal]軍の包囲を指揮しました。この戦略的作戦により彼らの軍隊は罠に嵌まりました"  #NT!
+ commander_encircled_army_02_first: "[ROOT.Var('fighting_war').War.GetName] 対 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal] に従事している間、私は「[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] の戦い」で[enemy_commander.GetFullNameNicknamedOrMeRegnal] の軍隊を見事に包囲しました。"  #NT!
+ commander_encircled_army_second: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、あなたは [battle_location.GetProvince.GetName] の戦いで [enemy_commander.GetFullNameNicknamedOrMeRegnal] 軍の包囲を首謀し、彼らを降伏させました。"  #NT!
+ commander_encircled_army_third: "[fighting_war.GetName] と [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal] の戦争で戦っている間、[ROOT.GetTitledFirstName] は、[battle_location.GetProvince.GetName] の戦いで[enemy_commander.GetFullNameNicknamedOrMeRegnal] 軍の包囲を首謀し、彼らを降伏させました。"  #NT!
+  
+  
+  

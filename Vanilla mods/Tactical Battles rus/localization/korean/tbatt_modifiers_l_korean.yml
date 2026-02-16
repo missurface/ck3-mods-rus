@@ -1,0 +1,535 @@
+﻿l_korean:
+  
+ FLANK_COMMANDERS_TAB: "측면 사령관" #NT!
+ tactical_turn_and_kill_success_commander: "턴앤킬" #NT!
+ tactical_turn_and_kill_success_commander_desc: "이 캐릭터의 군대는 성공적으로 적을 유인하고 갑자기 공격하여 전열에 엄청난 충격을 안겨주었습니다." #NT!
+ tactical_turn_and_kill_success_troops: "킬링 프렌지" #NT!
+ tactical_turn_and_kill_success_troops_desc: "이 캐릭터의 군대는 충격을 받은 전선을 이용하여 혼란스러운 적진을 버터처럼 절단하고 있습니다." #NT!
+ tactical_turn_and_kill_success_enemy_commander: "미끼" #NT!
+ tactical_turn_and_kill_success_enemy_commander_desc: "이 사령관은 계략에 빠져 갑작스러운 병력 반전으로 허를 찔린 후 큰 손실을 입고 있습니다." #NT!
+ tactical_turn_and_kill_success_enemy_troops: "유인" #NT!
+ tactical_turn_and_kill_success_enemy_troops_desc: "이 캐릭터의 군대는 미끼를 따라 파괴적인 반격을 가해 큰 손실을 입었습니다." #NT!
+ tactical_turn_and_kill_failure_commander: "보류됨" #NT!
+ tactical_turn_and_kill_failure_commander_desc: "이 캐릭터가 시도한 페인트는 적군이 자리를 잡고 반격에 저항했기 때문에 실패했습니다." #NT!
+ tactical_turn_and_kill_failure_troops: "방어 스탠드" #NT!
+ tactical_turn_and_kill_failure_troops_desc: "우리 군대는 강력한 방어선을 구축했지만 위장 작전을 활용하지 못했습니다." #NT!
+ tactical_turn_and_kill_failure_enemy_commander: "견고한 방어" #NT!
+ tactical_turn_and_kill_failure_enemy_commander_desc: "이 사령관은 속임수를 간파하고 군대를 규율 있게 통제했습니다." #NT!
+ tactical_turn_and_kill_failure_enemy_troops: "리펠러" #NT!
+ tactical_turn_and_kill_failure_enemy_troops_desc: "적군은 갑작스러운 역전에도 대비해 진형을 유지하며 반격을 격퇴했다." #NT!
+  
+ tactical_maa_ambush_success_commander: "매복" #NT!
+ tactical_maa_ambush_success_commander_desc: "이 사령관은 적군을 성공적으로 매복하여 경계를 허물었습니다." #NT!
+ tactical_maa_ambush_success_troops: "빨간색이 보인다" #NT!
+ tactical_maa_ambush_success_troops_desc: "매복 공격이 성공하자 우리 군대는 분노하여 맹렬하게 공격하고 있습니다." #NT!
+ tactical_maa_ambush_success_enemy_commander: "매복당함" #NT!
+ tactical_maa_ambush_success_enemy_commander_desc: "이 사령관은 매복 공격에 허를 찔려 대응에 어려움을 겪고 있습니다." #NT!
+ tactical_maa_ambush_success_enemy_troops: "손실을 감수하다" #NT!
+ tactical_maa_ambush_success_enemy_troops_desc: "적군은 매복 공격으로 인해 큰 손실을 입습니다." #NT!
+ tactical_maa_ambush_failure_commander: "멀리 회전" #NT!
+ tactical_maa_ambush_failure_commander_desc: "이 사령관은 매복 공격을 피하기 위해 군대를 성공적으로 순환시켰습니다." #NT!
+ tactical_maa_ambush_failure_troops: "내 발 뒤꿈치에" #NT!
+ tactical_maa_ambush_failure_troops_desc: "우리 군대는 매복 공격이 실패한 후 이를 따라잡기 위해 고군분투하고 있습니다." #NT!
+ tactical_maa_ambush_failure_enemy_commander: "똑똑한 본능" #NT!
+ tactical_maa_ambush_failure_enemy_commander_desc: "이 사령관은 빠른 판단력을 보여 매복 공격을 피했습니다." #NT!
+ tactical_maa_ambush_failure_enemy_troops: "공격 중" #NT!
+  
+  
+ tactical_flank_breakoff_success_commander: "육군 순환" #NT!
+ tactical_flank_breakoff_success_commander_desc: "측면은 성공적으로 회전하여 새로운 적과 교전하거나 이점을 위해 위치를 변경했습니다." #NT!
+ tactical_flank_breakoff_success_troops: "싸울 준비가 되었습니다" #NT!
+ tactical_flank_breakoff_success_troops_desc: "군대는 활력이 넘치고 새로운 위치에서 싸울 준비가 되어 있습니다." #NT!
+ tactical_flank_breakoff_success_enemy_commander: "압박감을 느끼다" #NT!
+ tactical_flank_breakoff_success_enemy_commander_desc: "우리의 측면이 그들에 맞서 재배치되면서 적군은 압박감을 느끼고 있습니다." #NT!
+ tactical_flank_breakoff_success_enemy_troops: "적 강화" #NT!
+ tactical_flank_breakoff_success_enemy_troops_desc: "적군은 측면 공격에 직면하면서 강화되고 있습니다." #NT!
+ tactical_flank_breakoff_failure_commander: "수렁에 빠졌다" #NT!
+ tactical_flank_breakoff_failure_commander_desc: "측면이 막혀 회전을 실행할 수 없게 되었습니다." #NT!
+ tactical_flank_breakoff_failure_troops: "해제할 수 없음" #NT!
+ tactical_flank_breakoff_failure_troops_desc: "군대는 위치를 변경하기 위해 적으로부터 분리될 수 없습니다." #NT!
+ tactical_flank_breakoff_failure_enemy_commander: "압력을 유지" #NT!
+ tactical_flank_breakoff_failure_enemy_commander_desc: "적은 압박을 유지하면서 우리 측면이 이탈하는 것을 막고 있습니다." #NT!
+ tactical_flank_breakoff_failure_enemy_troops: "검 준비" #NT!
+ tactical_flank_breakoff_failure_enemy_troops_desc: "적군은 자신의 위치를 ​​​​유지할 준비가되어 있습니다." #NT!
+  
+ tactical_center_breakoff_success_commander: "육군 순환" #NT!
+ tactical_center_breakoff_success_commander_desc: "센터는 성공적으로 회전하여 새로운 적과 교전하거나 이점을 위해 위치를 변경했습니다." #NT!
+ tactical_center_breakoff_success_troops: "싸울 준비가 되었습니다" #NT!
+ tactical_center_breakoff_success_troops_desc: "중앙 부대는 활력이 넘치고 새로운 위치에서 싸울 준비가 되어 있습니다." #NT!
+ tactical_center_breakoff_success_enemy_commander: "압박감을 느끼다" #NT!
+ tactical_center_breakoff_success_enemy_commander_desc: "우리 중앙이 그들에 맞서 위치를 바꾸면서 적군은 압박감을 느끼고 있습니다." #NT!
+ tactical_center_breakoff_success_enemy_troops: "적 강화" #NT!
+ tactical_center_breakoff_success_enemy_troops_desc: "중앙 기동을 앞두고 적군이 강화되고 있습니다." #NT!
+ tactical_center_breakoff_failure_commander: "수렁에 빠졌다" #NT!
+ tactical_center_breakoff_failure_commander_desc: "센터가 막혀 회전을 할 수 없게 됐다." #NT!
+ tactical_center_breakoff_failure_troops: "해제할 수 없음" #NT!
+ tactical_center_breakoff_failure_troops_desc: "중앙 부대는 재배치를 위해 적과 교전을 벌일 수 없습니다." #NT!
+ tactical_center_breakoff_failure_enemy_commander: "압력을 유지" #NT!
+ tactical_center_breakoff_failure_enemy_commander_desc: "적은 압박을 유지하면서 우리 중앙이 교전 해제되는 것을 막고 있습니다." #NT!
+ tactical_center_breakoff_failure_enemy_troops: "검 준비" #NT!
+ tactical_center_breakoff_failure_enemy_troops_desc: "적군은 중앙에 맞서 싸울 준비가 되어 있습니다." #NT!
+  
+ tactical_crashing_knights_success_commander: "크래싱 나이츠" #NT!
+ tactical_crashing_knights_success_commander_desc: "기사들의 돌격은 파괴적인 기병력으로 적진을 성공적으로 분쇄합니다." #NT!
+ tactical_crashing_knights_success_troops: "기사의 돌격" #NT!
+ tactical_crashing_knights_success_troops_desc: "군대는 기사들과 함께 전진하여 적의 방어를 돌파합니다." #NT!
+ tactical_crashing_knights_success_enemy_commander: "기사의 맹공격" #NT!
+ tactical_crashing_knights_success_enemy_commander_desc: "이 사령관은 파괴적인 기사의 돌격에 압도되었습니다." #NT!
+ tactical_crashing_knights_success_enemy_troops: "기사의 지휘 아래" #NT!
+ tactical_crashing_knights_success_enemy_troops_desc: "적군은 돌격하는 기사들에 의해 짓밟히고 패주합니다." #NT!
+ tactical_crashing_knights_failure_commander: "기사단 격퇴" #NT!
+ tactical_crashing_knights_failure_commander_desc: "기사의 돌격은 적의 강력한 방어에 의해 격퇴되었습니다." #NT!
+ tactical_crashing_knights_failure_troops: "기사단이 뒤로 물러나다" #NT!
+ tactical_crashing_knights_failure_troops_desc: "지원군은 기사들이 궁지에 갇혀 있는 상태에서는 돌파할 수 없습니다." #NT!
+ tactical_crashing_knights_failure_enemy_commander: "기사단 격퇴" #NT!
+ tactical_crashing_knights_failure_enemy_commander_desc: "이 사령관은 기사의 돌격을 성공적으로 격퇴했습니다." #NT!
+ tactical_crashing_knights_failure_enemy_troops: "기사단이 뒤로 물러나다" #NT!
+ tactical_crashing_knights_failure_enemy_troops_desc: "적군은 돌격하는 기사들을 성공적으로 저지했습니다." #NT!
+ tactical_harrying_success_commander: "해리어" #NT!
+ tactical_harrying_success_commander_desc: "지휘관은 신속한 공격과 전술적 후퇴를 통해 적을 성공적으로 괴롭힙니다." #NT!
+ tactical_harrying_success_troops: "히트 앤 런" #NT!
+ tactical_harrying_success_troops_desc: "군대는 신속한 뺑소니 전술을 실행하여 적을 지치게 합니다." #NT!
+ tactical_harrying_success_enemy_commander: "좌절스러운" #NT!
+ tactical_harrying_success_enemy_commander_desc: "이 사령관은 계속되는 괴롭힘에 좌절하여 결정적인 타격을 가할 수 없습니다." #NT!
+ tactical_harrying_success_enemy_troops: "쫓기다" #NT!
+ tactical_harrying_success_enemy_troops_desc: "적군은 추격과 공격을 받고 있어 견고한 방어를 형성할 수 없습니다." #NT!
+ tactical_harrying_failure_commander: "고정됨" #NT!
+ tactical_harrying_failure_commander_desc: "사령관의 괴롭히는 전술은 실패했고 이제 병력은 정체되었습니다." #NT!
+ tactical_harrying_failure_troops: "압박감 속에서" #NT!
+ tactical_harrying_failure_troops_desc: "군대는 뺑소니 전술을 유지할 수 없어 현재 큰 압박을 받고 있습니다." #NT!
+ tactical_harrying_failure_enemy_commander: "잔인한" #NT!
+ tactical_harrying_failure_enemy_commander_desc: "이 사령관의 끈질긴 추격이 우리 병력을 따라잡았습니다." #NT!
+ tactical_harrying_failure_enemy_troops: "탈출 금지" #NT!
+ tactical_harrying_failure_enemy_troops_desc: "적군은 열심히 압박하고 있고 우리 군대는 도망갈 곳이 없습니다." #NT!
+  
+ tactical_maa_reinforce_success_commander: "강화" #NT!
+ tactical_maa_reinforce_success_troops: "신선한 피" #NT!
+ tactical_maa_reinforce_success_enemy_commander: "새로운 세력과의 싸움" #NT!
+ tactical_maa_reinforce_success_enemy_troops: "새로운 공격에 직면하다" #NT!
+ tactical_maa_reinforce_failure_commander: "수렁에 빠졌다" #NT!
+ tactical_maa_reinforce_failure_troops: "가로채기" #NT!
+ tactical_maa_reinforce_failure_enemy_commander: "빠른 사고" #NT!
+ tactical_maa_reinforce_failure_enemy_troops: "우리와 일치하지 않습니다" #NT!
+  
+ tactical_knights_reinforce_success_commander: "강화" #NT!
+ tactical_knights_reinforce_success_commander_desc: "기사 지원군이 주 전선을 성공적으로 강화했습니다." #NT!
+ tactical_knights_reinforce_success_troops: "신선한 피" #NT!
+ tactical_knights_reinforce_success_troops_desc: "새로운 기사 지원군이 도착하여 사기가 높아집니다." #NT!
+ tactical_knights_reinforce_success_enemy_commander: "새로운 세력과의 싸움" #NT!
+ tactical_knights_reinforce_success_enemy_commander_desc: "이 사령관은 추가적인 기사 지원군을 상대해야 합니다." #NT!
+ tactical_knights_reinforce_success_enemy_troops: "새로운 공격에 직면하다" #NT!
+ tactical_knights_reinforce_success_enemy_troops_desc: "새로운 기사 지원군이 적군을 공격합니다." #NT!
+ tactical_knights_reinforce_failure_commander: "수렁에 빠졌다" #NT!
+ tactical_knights_reinforce_failure_commander_desc: "기사 지원군은 수렁에 빠져 전선에 도달하지 못했습니다." #NT!
+ tactical_knights_reinforce_failure_troops: "가로채기" #NT!
+ tactical_knights_reinforce_failure_troops_desc: "기사 지원군이 요격되어 주력군에서 차단되었습니다." #NT!
+ tactical_knights_reinforce_failure_enemy_commander: "빠른 결정" #NT!
+ tactical_knights_reinforce_failure_enemy_commander_desc: "이 사령관은 우리 기사 지원군을 차단하기 위해 빠른 결정을 내렸습니다." #NT!
+ tactical_knights_reinforce_failure_enemy_troops: "공격을 누르십시오" #NT!
+ tactical_knights_reinforce_failure_enemy_troops_desc: "우리 기사들이 요격당하는 동안 적군이 공격을 가하고 있습니다." #NT!
+  
+  
+ tactical_ferocious_charge_success_commander: "맹렬한 돌진" #NT!
+ tactical_ferocious_charge_success_commander_desc: "지휘관은 적의 방어를 압도하는 맹렬한 돌격을 이끈다." #NT!
+ tactical_ferocious_charge_success_troops: "멈출 수 없는" #NT!
+ tactical_ferocious_charge_success_troops_desc: "군대는 멈출 수 없는 추진력과 맹렬함으로 전진합니다." #NT!
+ tactical_ferocious_charge_success_enemy_commander: "압도된" #NT!
+ tactical_ferocious_charge_success_enemy_commander_desc: "이 사령관은 맹렬한 공격에 압도당했습니다." #NT!
+ tactical_ferocious_charge_success_enemy_troops: "밀어 넣는" #NT!
+ tactical_ferocious_charge_success_enemy_troops_desc: "압도적인 돌격에 적군은 무너진다." #NT!
+ tactical_ferocious_charge_failure_commander: "충전 거부" #NT!
+ tactical_ferocious_charge_failure_commander_desc: "맹렬한 돌격은 단호한 적의 저항에 의해 격퇴되었습니다." #NT!
+ tactical_ferocious_charge_failure_troops: "보류됨" #NT!
+ tactical_ferocious_charge_failure_troops_desc: "돌격 부대는 강력한 적군에 의해 저지되었습니다." #NT!
+ tactical_ferocious_charge_failure_enemy_commander: "확고한" #NT!
+ tactical_ferocious_charge_failure_enemy_commander_desc: "이 사령관은 굳건함을 유지하며 돌격에 맞서 방어선을 유지했습니다." #NT!
+ tactical_ferocious_charge_failure_enemy_troops: "굳건히 서다" #NT!
+ tactical_ferocious_charge_failure_enemy_troops_desc: "적군은 맹렬한 돌격에 맞서 굳건히 버텼습니다." #NT!
+  
+ tactical_diversion_success_commander: "방해의 달인" #NT!
+ tactical_diversion_success_commander_desc: "지휘관의 우회 전술은 적을 혼란스럽게 만드는 데 성공했습니다." #NT!
+ tactical_diversion_success_troops: "혼란스러운 적들" #NT!
+ tactical_diversion_success_troops_desc: "적들은 전환 전술로 인해 혼란스럽고 혼란스러워졌습니다." #NT!
+ tactical_diversion_success_enemy_commander: "빗나간" #NT!
+ tactical_diversion_success_enemy_commander_desc: "이 사령관은 페인트에 정신이 팔려 집중력을 잃습니다." #NT!
+ tactical_diversion_success_enemy_troops: "혼란에 빠졌다" #NT!
+ tactical_diversion_success_enemy_troops_desc: "전술적 전환으로 적군은 혼란에 빠진다." #NT!
+ tactical_diversion_failure_commander: "전환 실패" #NT!
+ tactical_diversion_failure_commander_desc: "전환 전술은 적을 혼란스럽게 만드는 데 실패했습니다." #NT!
+ tactical_diversion_failure_troops: "움직이지 않는 적" #NT!
+ tactical_diversion_failure_troops_desc: "우회 시도에도 불구하고 적은 움직이지 않고 집중했습니다." #NT!
+  
+ tactical_hidden_flank_success_commander: "숨겨진 측면" #NT!
+ tactical_hidden_flank_success_commander_desc: "숨겨진 측면 움직임은 적을 완전히 방심하게 만듭니다." #NT!
+ tactical_hidden_flank_success_troops: "기습" #NT!
+ tactical_hidden_flank_success_troops_desc: "우리 군대는 숨겨진 측면에서 파괴적인 기습 공격을 시작합니다." #NT!
+ tactical_hidden_flank_success_enemy_commander: "측면" #NT!
+ tactical_hidden_flank_success_enemy_commander_desc: "이 사령관은 숨겨진 측면이 나타나자 방심하고 있습니다." #NT!
+ tactical_hidden_flank_success_enemy_troops: "매복당함" #NT!
+ tactical_hidden_flank_success_enemy_troops_desc: "적군은 예상치 못한 방향에서 매복 공격을 받습니다." #NT!
+ tactical_hidden_flank_failure_commander: "측면 놓침" #NT!
+ tactical_hidden_flank_failure_commander_desc: "숨겨진 측면 기동은 적을 놀라게하지 못했습니다." #NT!
+ tactical_hidden_flank_failure_troops: "놀라지 마세요" #NT!
+ tactical_hidden_flank_failure_troops_desc: "측면 움직임은 놀라움과 충격 가치를 달성하지 못했습니다." #NT!
+ tactical_hidden_flank_failure_enemy_commander: "경고됨" #NT!
+ tactical_hidden_flank_failure_enemy_commander_desc: "이 사령관은 측면 공격 시도에 대해 경고를 받았습니다." #NT!
+ tactical_hidden_flank_failure_enemy_troops: "준비됨" #NT!
+ tactical_hidden_flank_failure_enemy_troops_desc: "적군은 측면 공격을 준비하고 준비했습니다." #NT!
+  
+ tactical_hidden_flank_encircle_failure_commander: "포위 실패" #NT!
+ tactical_hidden_flank_encircle_failure_commander_desc: "포위 작전 시도는 완료되지 않았습니다." #NT!
+ tactical_hidden_flank_encircle_failure_troops: "갇혀" #NT!
+ tactical_hidden_flank_encircle_failure_troops_desc: "우리 군대는 갇혀 있고 포위될 위험에 처해 있습니다." #NT!
+ tactical_hidden_flank_encircle_failure_enemy_commander: "좁은 탈출" #NT!
+ tactical_hidden_flank_encircle_failure_enemy_commander_desc: "이 사령관은 포위 시도를 간신히 피했습니다." #NT!
+ tactical_hidden_flank_encircle_failure_enemy_troops: "속보 무료" #NT!
+ tactical_hidden_flank_encircle_failure_enemy_troops_desc: "적군이 포위 시도에서 벗어나고 있습니다." #NT!
+ tactical_hidden_flank_encircle_success_commander: "포위 완료" #NT!
+ tactical_hidden_flank_encircle_success_commander_desc: "포위 작전이 완료되었습니다. 적이 포위되었습니다." #NT!
+ tactical_hidden_flank_encircle_success_troops: "포위됨" #NT!
+ tactical_hidden_flank_encircle_success_troops_desc: "우리 군대는 적군을 완전히 포위했습니다." #NT!
+ tactical_hidden_flank_encircle_success_enemy_commander: "갇혀" #NT!
+ tactical_hidden_flank_encircle_success_enemy_commander_desc: "이 사령관은 탈출 경로가 없는 함정에 빠졌습니다." #NT!
+ tactical_hidden_flank_encircle_success_enemy_troops: "탈출 금지" #NT!
+ tactical_hidden_flank_encircle_success_enemy_troops_desc: "적군은 탈출구가 없이 포위되어 있습니다." #NT!
+  
+ tactical_maa_charge_success_commander: "엘리트 차지" #NT!
+ tactical_maa_charge_success_commander_desc: "정예 중장군 유닛이 성공적으로 돌격하여 적진을 돌파합니다." #NT!
+ tactical_maa_charge_success_troops: "균열 단위" #NT!
+ tactical_maa_charge_success_troops_desc: "크랙 엘리트 유닛은 파괴적인 효과를 내며 전진합니다." #NT!
+ tactical_maa_charge_success_enemy_commander: "단속" #NT!
+ tactical_maa_charge_success_enemy_commander_desc: "이 사령관은 정예 돌격으로부터 단속을 경험합니다." #NT!
+ tactical_maa_charge_success_enemy_troops: "줄바꿈" #NT!
+ tactical_maa_charge_success_enemy_troops_desc: "정예 부대의 공격으로 적진이 무너지고 있습니다." #NT!
+ tactical_maa_charge_failure_commander: "충전 거부" #NT!
+ tactical_maa_charge_failure_commander_desc: "엘리트 돌격은 돌파하기 전에 격퇴되었습니다." #NT!
+ tactical_maa_charge_failure_troops: "보류됨" #NT!
+ tactical_maa_charge_failure_troops_desc: "정예 부대는 적의 저항에 막혔습니다." #NT!
+ tactical_maa_charge_failure_enemy_commander: "확고한" #NT!
+ tactical_maa_charge_failure_enemy_commander_desc: "이 사령관은 정예 돌격에 맞서 확고한 태도를 유지했습니다." #NT!
+ tactical_maa_charge_failure_enemy_troops: "굳건히 서다" #NT!
+ tactical_maa_charge_failure_enemy_troops_desc: "적군은 정예 돌격에 맞서 굳건히 버텼습니다." #NT!
+  
+ tactical_knights_charge_success_commander: "기사의 돌격" #NT!
+ tactical_knights_charge_success_commander_desc: "기사들의 돌격은 결정적이며 적진을 돌파합니다." #NT!
+ tactical_knights_charge_success_troops: "샤이닝 차지" #NT!
+ tactical_knights_charge_success_troops_desc: "군대는 기사들과 함께 파괴적인 돌격을 가하며 앞으로 돌진합니다." #NT!
+ tactical_knights_charge_success_enemy_commander: "기사의 맹공격 아래" #NT!
+ tactical_knights_charge_success_enemy_commander_desc: "이 사령관은 돌격하는 기사들의 맹공격을 받고 물러났습니다." #NT!
+ tactical_knights_charge_success_enemy_troops: "기사들에게 짓밟혀" #NT!
+ tactical_knights_charge_success_enemy_troops_desc: "무거운 기사들의 돌격으로 적군이 무너집니다." #NT!
+ tactical_knights_charge_failure_commander: "기사단 격퇴" #NT!
+ tactical_knights_charge_failure_commander_desc: "기사 돌격은 격퇴되어 돌파에 실패했습니다." #NT!
+ tactical_knights_charge_failure_troops: "기사단이 뒤로 물러나다" #NT!
+ tactical_knights_charge_failure_troops_desc: "기사들은 강력한 적의 방어에 막혔습니다." #NT!
+ tactical_knights_charge_failure_enemy_commander: "기사단 격퇴" #NT!
+ tactical_knights_charge_failure_enemy_commander_desc: "이 사령관은 기사들을 성공적으로 격퇴했습니다." #NT!
+ tactical_knights_charge_failure_enemy_troops: "기사단이 뒤로 물러나다" #NT!
+ tactical_knights_charge_failure_enemy_troops_desc: "적군은 돌격하는 기사들에 맞서 굳건히 맞서 싸웠습니다." #NT!
+  
+ tactical_center_pullpack_success_commander: "센터 풀백" #NT!
+ tactical_center_pullpack_success_commander_desc: "중앙은 뒤로 물러나 적을 앞으로 유인하여 반격에 노출시킵니다." #NT!
+ tactical_center_pullpack_success_troops: "미끼" #NT!
+ tactical_center_pullpack_success_troops_desc: "우리 군대는 능숙하게 적을 유인하여 과도하게 확장하고 있습니다." #NT!
+ tactical_center_pullpack_success_enemy_commander: "과도하게 확장됨" #NT!
+ tactical_center_pullpack_success_enemy_commander_desc: "이 사령관은 후퇴를 추구하여 병력을 과도하게 확장했습니다." #NT!
+ tactical_center_pullpack_success_enemy_troops: "잃어버린 땅" #NT!
+ tactical_center_pullpack_success_enemy_troops_desc: "적군은 미끼를 물린 후퇴를 추구하면서 결속력을 잃고 있습니다." #NT!
+ tactical_center_pullpack_failure_commander: "풀백 실패" #NT!
+ tactical_center_pullpack_failure_commander_desc: "철수 작전은 적을 미끼로 삼지 못했습니다." #NT!
+ tactical_center_pullpack_failure_troops: "갇힌" #NT!
+ tactical_center_pullpack_failure_troops_desc: "우리 군대는 철수를 시도하는 동안 막혔습니다." #NT!
+ tactical_center_pullpack_failure_enemy_commander: "압력 유지" #NT!
+ tactical_center_pullpack_failure_enemy_commander_desc: "이 사령관은 압력을 유지하고 철수를 막았습니다." #NT!
+ tactical_center_pullpack_failure_enemy_troops: "지주회사" #NT!
+ tactical_center_pullpack_failure_enemy_troops_desc: "적군은 굳건히 버티고 미끼에 빠지지 않았습니다." #NT!
+  
+ tactical_flank_pullpack_success_commander: "측면 풀백" #NT!
+ tactical_flank_pullpack_success_commander_desc: "측면은 성공적으로 후퇴하여 적을 과도하게 확장하도록 유인합니다." #NT!
+ tactical_flank_pullpack_success_troops: "미끼" #NT!
+ tactical_flank_pullpack_success_troops_desc: "측면 부대는 성공적으로 적을 전방으로 유인합니다." #NT!
+ tactical_flank_pullpack_success_enemy_commander: "과도하게 확장됨" #NT!
+ tactical_flank_pullpack_success_enemy_commander_desc: "적군이 측면 철수를 쫓는 동안 과도하게 확장했습니다." #NT!
+ tactical_flank_pullpack_success_enemy_troops: "잃어버린 땅" #NT!
+ tactical_flank_pullpack_success_enemy_troops_desc: "적 측면 부대는 미끼를 낀 추격으로 인해 결속력을 잃고 있습니다." #NT!
+ tactical_flank_pullpack_failure_commander: "풀백 실패" #NT!
+ tactical_flank_pullpack_failure_commander_desc: "측면 철수는 적을 미끼로 삼지 못했습니다." #NT!
+ tactical_flank_pullpack_failure_troops: "갇힌" #NT!
+ tactical_flank_pullpack_failure_troops_desc: "측면이 막혀 뒤로 물러날 수 없게 되었습니다." #NT!
+ tactical_flank_pullpack_failure_enemy_commander: "압력 유지" #NT!
+ tactical_flank_pullpack_failure_enemy_commander_desc: "이 사령관은 끊임없는 압력을 가했습니다." #NT!
+ tactical_flank_pullpack_failure_enemy_troops: "지주회사" #NT!
+ tactical_flank_pullpack_failure_enemy_troops_desc: "적의 측면 부대는 철수 시도에 맞서 굳건히 버텼습니다." #NT!
+  
+ tactical_feint_success_commander: "속임수의 대가" #NT!
+ tactical_feint_success_commander_desc: "지휘관의 속임수는 성공적으로 적을 속이고 진형을 무너뜨립니다." #NT!
+ tactical_feint_success_troops: "적 페인트 칠하기" #NT!
+ tactical_feint_success_troops_desc: "우리 군대는 완벽한 페인트를 실행하여 적을 혼란스럽게 만듭니다." #NT!
+ tactical_feint_success_enemy_commander: "속임" #NT!
+ tactical_feint_success_enemy_commander_desc: "이 사령관은 가짜 작전에 속았습니다." #NT!
+ tactical_feint_success_enemy_troops: "혼란에 빠졌다" #NT!
+ tactical_feint_success_enemy_troops_desc: "그 속임수로 인해 적군은 혼란에 빠진다." #NT!
+ tactical_feint_failure_commander: "페인트 실패" #NT!
+ tactical_feint_failure_commander_desc: "그 가짜 작전은 적을 속이는 데 실패했습니다." #NT!
+ tactical_feint_failure_troops: "움직이지 않는 적" #NT!
+ tactical_feint_failure_troops_desc: "적은 움직이지 않고 페인트에 경계했습니다." #NT!
+ tactical_feint_failure_enemy_commander: "단념하지 않음" #NT!
+ tactical_feint_failure_enemy_commander_desc: "이 사령관은 속임수를 간파하고 단념하지 않았습니다." #NT!
+ tactical_feint_failure_enemy_troops: "굳건히 서다" #NT!
+ tactical_feint_failure_enemy_troops_desc: "적군은 거짓 시도에도 불구하고 굳건히 버텼습니다." #NT!
+  
+ tactical_flanking_success_commander: "측면 기동" #NT!
+ tactical_flanking_success_commander_desc: "성공적인 측면 기동은 적을 불리하게 만듭니다." #NT!
+ tactical_flanking_success_troops: "기습" #NT!
+ tactical_flanking_success_troops_desc: "우리 군대는 기습적인 측면 공격을 시작합니다." #NT!
+ tactical_flanking_success_enemy_commander: "측면" #NT!
+ tactical_flanking_success_enemy_commander_desc: "이 사령관은 측면 공격 위치에 있습니다." #NT!
+ tactical_flanking_success_enemy_troops: "매복당함" #NT!
+ tactical_flanking_success_enemy_troops_desc: "적군은 측면 기동으로 매복 공격을 받습니다." #NT!
+ tactical_flanking_failure_commander: "측면 놓침" #NT!
+ tactical_flanking_failure_commander_desc: "측면 공격 기동은 적의 방심을 잡는 데 실패했습니다." #NT!
+ tactical_flanking_failure_troops: "놀라지 마세요" #NT!
+ tactical_flanking_failure_troops_desc: "측면 공격은 기습을 달성하지 못했습니다." #NT!
+ tactical_flanking_failure_enemy_commander: "경고됨" #NT!
+ tactical_flanking_failure_enemy_commander_desc: "이 사령관은 측면 공격 시도에 대해 경고를 받았습니다." #NT!
+ tactical_flanking_failure_enemy_troops: "준비됨" #NT!
+ tactical_flanking_failure_enemy_troops_desc: "적군은 측면 공격을 준비했습니다." #NT!
+  
+ tactical_hit_and_run_success_commander: "히트 앤 런" #NT!
+ tactical_hit_and_run_success_commander_desc: "신속한 뺑소니 전술로 적을 괴롭히는 데 성공합니다." #NT!
+ tactical_hit_and_run_success_troops: "신속한 일격" #NT!
+ tactical_hit_and_run_success_troops_desc: "군대는 신속한 공격과 전술적 후퇴를 실행합니다." #NT!
+ tactical_hit_and_run_success_enemy_commander: "좌절스러운" #NT!
+ tactical_hit_and_run_success_enemy_commander_desc: "이 사령관은 끊임없는 괴롭힘에 좌절감을 느낍니다." #NT!
+ tactical_hit_and_run_success_enemy_troops: "쫓기다" #NT!
+ tactical_hit_and_run_success_enemy_troops_desc: "적군이 추격하고 공격하고 있습니다." #NT!
+ tactical_hit_and_run_failure_commander: "고정됨" #NT!
+ tactical_hit_and_run_failure_commander_desc: "뺑소니 전술이 실패하고 병력이 고정되었습니다." #NT!
+ tactical_hit_and_run_failure_troops: "압박감 속에서" #NT!
+ tactical_hit_and_run_failure_troops_desc: "군대는 큰 압박을 받고 있으며 후퇴할 수 없습니다." #NT!
+ tactical_hit_and_run_failure_enemy_commander: "잔인한" #NT!
+ tactical_hit_and_run_failure_enemy_commander_desc: "이 사령관은 끈질기게 추격을 벌이고 있습니다." #NT!
+ tactical_hit_and_run_failure_enemy_troops: "탈출 금지" #NT!
+ tactical_hit_and_run_failure_enemy_troops_desc: "적군은 탈출할 방법도 없이 강압적으로 압박하고 있습니다." #NT!
+  
+ tactical_false_gap_success_commander: "거짓 격차" #NT!
+ tactical_false_gap_success_commander_desc: "라인의 잘못된 간격은 성공적으로 적을 함정으로 유인합니다." #NT!
+ tactical_false_gap_success_troops: "유인됨" #NT!
+ tactical_false_gap_success_troops_desc: "적은 거짓 틈새로 유인되고 우리 군대는 공격합니다." #NT!
+ tactical_false_gap_success_enemy_commander: "갇혀" #NT!
+ tactical_false_gap_success_enemy_commander_desc: "이 사령관은 거짓 틈에 갇혔습니다." #NT!
+ tactical_false_gap_success_enemy_troops: "매복당함" #NT!
+ tactical_false_gap_success_enemy_troops_desc: "적군은 잘못된 틈에 넘어진 후 매복 공격을 받습니다." #NT!
+ tactical_false_gap_failure_commander: "격차 해소" #NT!
+ tactical_false_gap_failure_commander_desc: "적군은 거짓 틈새를 간파하고 이를 피했습니다." #NT!
+ tactical_false_gap_failure_troops: "매복 금지" #NT!
+ tactical_false_gap_failure_troops_desc: "거짓 격차는 적을 매복으로 유인하는 데 실패했습니다." #NT!
+ tactical_false_gap_failure_enemy_commander: "조심성 있는" #NT!
+ tactical_false_gap_failure_enemy_commander_desc: "이 사령관은 조심스러워서 함정을 피했습니다." #NT!
+ tactical_false_gap_failure_enemy_troops: "온 가드" #NT!
+ tactical_false_gap_failure_enemy_troops_desc: "적군은 경계를 유지하고 잘못된 격차를 피했습니다." #NT!
+  
+  
+ tactical_encircle_breakoff_success_commander: "포위된 적들" #NT!
+ tactical_encircle_breakoff_success_commander_desc: "적군은 탈출 수단 없이 성공적으로 포위되었습니다." #NT!
+ tactical_encircle_breakoff_success_troops: "탈출 금지" #NT!
+ tactical_encircle_breakoff_success_troops_desc: "우리 군대는 적을 포위했습니다. 그들에게는 탈출구가 없습니다." #NT!
+ tactical_encircle_breakoff_success_enemy_commander: "둘러싸임" #NT!
+ tactical_encircle_breakoff_success_enemy_commander_desc: "이 사령관은 그들의 군대가 완전히 포위된 것을 발견했습니다." #NT!
+ tactical_encircle_breakoff_success_enemy_troops: "갇혀" #NT!
+ tactical_encircle_breakoff_success_enemy_troops_desc: "적군은 탈출구가 없이 갇혀 있고 포위되어 있습니다." #NT!
+ tactical_encircle_breakoff_failure_commander: "포위 실패" #NT!
+ tactical_encircle_breakoff_failure_commander_desc: "포위 시도가 완료되지 못했습니다." #NT!
+ tactical_encircle_breakoff_failure_troops: "속보 무료" #NT!
+ tactical_encircle_breakoff_failure_troops_desc: "우리 군대는 포위 시도에서 벗어나고 있습니다." #NT!
+ tactical_encircle_breakoff_failure_enemy_commander: "좁은 탈출" #NT!
+ tactical_encircle_breakoff_failure_enemy_commander_desc: "이 사령관은 포위 시도를 간신히 피했습니다." #NT!
+ tactical_encircle_breakoff_failure_enemy_troops: "탈출" #NT!
+ tactical_encircle_breakoff_failure_enemy_troops_desc: "적군은 포위 시도에서 탈출하고 있습니다." #NT!
+  
+ tactical_flank_breakoff_success_commander: "측면 회전" #NT!
+ tactical_flank_breakoff_success_commander_desc: "측면은 성공적으로 회전하고 분리되어 새로운 위치를 공격합니다." #NT!
+ tactical_flank_breakoff_success_troops: "싸울 준비가 되었습니다" #NT!
+ tactical_flank_breakoff_success_troops_desc: "측면 부대는 새로운 목표와 교전할 준비가 되어 있습니다." #NT!
+ tactical_flank_breakoff_success_enemy_commander: "압박감을 느끼다" #NT!
+ tactical_flank_breakoff_success_enemy_commander_desc: "이 사령관은 회전하는 측면의 압박을 느끼고 있습니다." #NT!
+ tactical_flank_breakoff_success_enemy_troops: "적 강화" #NT!
+ tactical_flank_breakoff_success_enemy_troops_desc: "적 측면 부대는 순환 공격에 맞서기 위해 강화되고 있습니다." #NT!
+ tactical_flank_breakoff_failure_commander: "수렁에 빠졌다" #NT!
+ tactical_flank_breakoff_failure_commander_desc: "측면이 막혀서 회전할 수 없게 되었습니다." #NT!
+ tactical_flank_breakoff_failure_troops: "해제할 수 없음" #NT!
+ tactical_flank_breakoff_failure_troops_desc: "측면 부대는 전투에서 이탈할 수 없습니다." #NT!
+ tactical_flank_breakoff_failure_enemy_commander: "압력을 유지" #NT!
+ tactical_flank_breakoff_failure_enemy_commander_desc: "이 사령관은 회전을 막기 위해 우리 측면에 압력을 가하고 있습니다." #NT!
+ tactical_flank_breakoff_failure_enemy_troops: "검 준비" #NT!
+ tactical_flank_breakoff_failure_enemy_troops_desc: "적 측면 병력이 준비되어 우리의 이탈을 막고 있습니다." #NT!
+  
+ tactical_press_advantage_success_commander: "이점을 누름" #NT!
+ tactical_press_advantage_success_commander_desc: "사령관은 성공적으로 우위를 점하고 돌파합니다." #NT!
+ tactical_press_advantage_success_troops: "기세" #NT!
+ tactical_press_advantage_success_troops_desc: "우리 군대는 추진력을 갖고 결단력 있게 전진하고 있습니다." #NT!
+ tactical_press_advantage_success_enemy_commander: "잃어버린 땅" #NT!
+ tactical_press_advantage_success_enemy_commander_desc: "우리가 우위를 점하면서 이 사령관은 입지를 잃고 있습니다." #NT!
+ tactical_press_advantage_success_enemy_troops: "뒷발에" #NT!
+ tactical_press_advantage_success_enemy_troops_desc: "우리가 앞으로 밀고 나가는 동안 적군이 뒷발로 밀고 있습니다." #NT!
+ tactical_press_advantage_failure_commander: "추진력 상실" #NT!
+ tactical_press_advantage_failure_commander_desc: "우위를 점하려는 시도는 추진력을 잃었습니다." #NT!
+ tactical_press_advantage_failure_troops: "정지됨" #NT!
+ tactical_press_advantage_failure_troops_desc: "우리의 전진은 정체되었고 추진력은 상실되었습니다." #NT!
+ tactical_press_advantage_failure_enemy_commander: "재편성됨" #NT!
+ tactical_press_advantage_failure_enemy_commander_desc: "이 사령관은 전선을 재편성하고 안정시켰습니다." #NT!
+ tactical_press_advantage_failure_enemy_troops: "지주회사" #NT!
+ tactical_press_advantage_failure_enemy_troops_desc: "적군이 우리의 진격을 막고 있습니다." #NT!
+  
+ tactical_flooding_success_troops: "압도적인 숫자" #NT!
+ tactical_flooding_success_troops_desc: "우리의 압도적인 숫자가 적진에 넘쳐납니다." #NT!
+ tactical_flooding_success_commander: "압도된" #NT!
+ tactical_flooding_success_commander_desc: "이 사령관은 엄청난 숫자에 압도당했습니다." #NT!
+ tactical_flooding_success_enemy_troops: "밀어 넣는" #NT!
+ tactical_flooding_success_enemy_troops_desc: "적군은 압도적인 수의 무게에 압도당합니다." #NT!
+ tactical_flooding_success_enemy_commander: "일치하지 않음" #NT!
+ tactical_flooding_success_enemy_commander_desc: "적군은 우리의 압도적인 전력을 상대할 수 없습니다." #NT!
+ tactical_flooding_failure_troops: "보류됨" #NT!
+ tactical_flooding_failure_troops_desc: "우리의 공격은 우월한 수에도 불구하고 저지되었습니다." #NT!
+ tactical_flooding_failure_commander: "격퇴됨" #NT!
+ tactical_flooding_failure_commander_desc: "사령관의 공격이 격퇴되었습니다." #NT!
+ tactical_flooding_failure_enemy_troops: "굳건히 서다" #NT!
+ tactical_flooding_failure_enemy_troops_desc: "적군은 압도적인 수에 맞서 굳건히 맞서고 있습니다." #NT!
+ tactical_flooding_failure_enemy_commander: "확고한" #NT!
+ tactical_flooding_failure_enemy_commander_desc: "이 사령관은 홍수에 맞서 굳건히 서 있습니다." #NT!
+  
+ tactical_reserve_breakoff_success_commander: "예비비 투입" #NT!
+ tactical_reserve_breakoff_success_commander_desc: "지휘관은 전투를 주도하기 위해 예비군을 투입하는 데 성공했습니다." #NT!
+ tactical_reserve_breakoff_success_troops: "신선한 힘" #NT!
+ tactical_reserve_breakoff_success_troops_desc: "새로운 예비군이 투입되어 전투력이 강화됩니다." #NT!
+ tactical_reserve_breakoff_success_enemy_commander: "약정된 준비금" #NT!
+ tactical_reserve_breakoff_success_enemy_commander_desc: "적은 우리의 공격에 맞서기 위해 예비군을 투입해야 합니다." #NT!
+ tactical_reserve_breakoff_success_enemy_troops: "새로운 공격에 직면하다" #NT!
+ tactical_reserve_breakoff_success_enemy_troops_desc: "적군은 우리 예비군의 새로운 공격에 직면해 있습니다." #NT!
+ tactical_reserve_breakoff_failure_commander: "보유 예비금" #NT!
+ tactical_reserve_breakoff_failure_commander_desc: "지휘관의 예비 투입이 실패했습니다." #NT!
+ tactical_reserve_breakoff_failure_troops: "가로채기" #NT!
+ tactical_reserve_breakoff_failure_troops_desc: "우리의 예비군은 차단되어 전선에 도달하지 못했습니다." #NT!
+ tactical_reserve_breakoff_failure_enemy_commander: "빠른 사고" #NT!
+ tactical_reserve_breakoff_failure_enemy_commander_desc: "적군은 재빠른 판단을 보여 우리 예비군을 가로막았습니다." #NT!
+ tactical_reserve_breakoff_failure_enemy_troops: "우리와 일치하지 않습니다" #NT!
+ tactical_reserve_breakoff_failure_enemy_troops_desc: "적군은 우리의 예비군 투입에 맞서 강력하게 저항했습니다." #NT!
+  
+ tactical_hold_strong_success_commander: "굳건히 버티다" #NT!
+ tactical_hold_strong_success_commander_desc: "사령관은 모든 공격에 맞서 강력한 전선을 유지합니다." #NT!
+ tactical_hold_strong_success_troops: "확고한" #NT!
+ tactical_hold_strong_success_troops_desc: "우리 군대는 무너지지 않고 굳건히 버티고 있습니다." #NT!
+ tactical_hold_strong_success_enemy_commander: "좌절스러운" #NT!
+ tactical_hold_strong_success_enemy_commander_desc: "이 사령관은 우리의 막강한 방어력에 좌절감을 느꼈습니다." #NT!
+ tactical_hold_strong_success_enemy_troops: "깰 수 없습니다" #NT!
+ tactical_hold_strong_success_enemy_troops_desc: "적군은 우리 전선을 뚫을 수 없습니다." #NT!
+ tactical_hold_strong_failure_commander: "끊어진 선" #NT!
+ tactical_hold_strong_failure_commander_desc: "적의 공격으로 지휘관의 전선이 무너졌습니다." #NT!
+ tactical_hold_strong_failure_troops: "위반" #NT!
+ tactical_hold_strong_failure_troops_desc: "적군이 우리 전선을 무너뜨렸습니다." #NT!
+ tactical_hold_strong_failure_enemy_commander: "돌파구" #NT!
+ tactical_hold_strong_failure_enemy_commander_desc: "적이 우리 방어에 돌파구를 마련했습니다." #NT!
+ tactical_hold_strong_failure_enemy_troops: "크러싱 어드밴스" #NT!
+ tactical_hold_strong_failure_enemy_troops_desc: "적군이 엄청난 기세로 전진하고 있습니다." #NT!
+  
+ tactical_organized_retreat_success_commander: "조직적인 휴양지" #NT!
+ tactical_organized_retreat_success_commander_desc: "지휘관은 군대를 보존하기 위해 조직적인 후퇴를 조율합니다." #NT!
+ tactical_organized_retreat_success_troops: "질서 있는 철수" #NT!
+ tactical_organized_retreat_success_troops_desc: "우리 군대는 손실을 최소화하면서 질서 있게 철수를 수행합니다." #NT!
+ tactical_organized_retreat_success_enemy_commander: "적 후퇴" #NT!
+ tactical_organized_retreat_success_enemy_commander_desc: "적은 순서대로 후퇴하고 있습니다. 다시 집결할 ​​수도 있습니다." #NT!
+ tactical_organized_retreat_success_enemy_troops: "추구" #NT!
+ tactical_organized_retreat_success_enemy_troops_desc: "적군이 추격하고 있지만 후퇴는 그대로입니다." #NT!
+ tactical_organized_retreat_failure_commander: "라우팅됨" #NT!
+ tactical_organized_retreat_failure_commander_desc: "퇴각은 큰 손실을 입은 대패로 바뀌었다." #NT!
+ tactical_organized_retreat_failure_troops: "무질서" #NT!
+ tactical_organized_retreat_failure_troops_desc: "퇴각은 무질서하고 혼란스러워졌습니다." #NT!
+ tactical_organized_retreat_failure_enemy_commander: "대패 달성" #NT!
+ tactical_organized_retreat_failure_enemy_commander_desc: "이 사령관은 완전한 패배를 달성했습니다." #NT!
+ tactical_organized_retreat_failure_enemy_troops: "추격" #NT!
+ tactical_organized_retreat_failure_enemy_troops_desc: "적군이 도망가는 우리 군대를 추격하고 있습니다." #NT!
+  
+ tactical_screen_retreat_success_commander: "선별된 수련회" #NT!
+ tactical_screen_retreat_success_commander_desc: "선별군이 퇴각을 엄호하여 대부분의 병력이 탈출할 수 있도록 합니다." #NT!
+ tactical_screen_retreat_success_troops: "커버철회" #NT!
+ tactical_screen_retreat_success_troops_desc: "우리 군대는 엄호 후퇴를 통해 엄호 철수를 수행합니다." #NT!
+ tactical_screen_retreat_success_enemy_commander: "적 후퇴" #NT!
+ tactical_screen_retreat_success_enemy_commander_desc: "적이 방어막 뒤로 후퇴하고 있습니다." #NT!
+ tactical_screen_retreat_success_enemy_troops: "추구" #NT!
+ tactical_screen_retreat_success_enemy_troops_desc: "적군이 추격 중이지만 강력한 방어선을 만나게 됩니다." #NT!
+ tactical_screen_retreat_failure_commander: "후퇴 노출" #NT!
+ tactical_screen_retreat_failure_commander_desc: "스크리닝 부대가 실패하고 퇴각이 노출됩니다." #NT!
+ tactical_screen_retreat_failure_troops: "커버 없음" #NT!
+ tactical_screen_retreat_failure_troops_desc: "우리의 퇴각에는 엄폐물이 없으며 취약합니다." #NT!
+ tactical_screen_retreat_failure_enemy_commander: "잔인한" #NT!
+ tactical_screen_retreat_failure_enemy_commander_desc: "적군은 노출된 후퇴를 집요하게 추구합니다." #NT!
+ tactical_screen_retreat_failure_enemy_troops: "추격" #NT!
+ tactical_screen_retreat_failure_enemy_troops_desc: "적군이 노출된 우리 부대를 추격하고 있습니다." #NT!
+  
+ tactical_encircled_slaughter_success_commander: "포위되어 학살당함" #NT!
+ tactical_encircled_slaughter_success_commander_desc: "포위된 적들은 자비나 탈출 없이 학살됩니다." #NT!
+ tactical_encircled_slaughter_success_troops: "탈출 금지" #NT!
+ tactical_encircled_slaughter_success_troops_desc: "적은 달릴 곳이 없습니다. 완전히 전멸됩니다." #NT!
+ tactical_encircled_slaughter_success_enemy_commander: "갇혀" #NT!
+ tactical_encircled_slaughter_success_enemy_commander_desc: "이 사령관은 후퇴할 곳이 없는 함정에 빠졌습니다." #NT!
+ tactical_encircled_slaughter_success_enemy_troops: "포위됨" #NT!
+ tactical_encircled_slaughter_success_enemy_troops_desc: "적군은 포위되어 학살당하고 있습니다." #NT!
+ tactical_encircled_slaughter_failure_commander: "포위망이 무너졌다" #NT!
+ tactical_encircled_slaughter_failure_commander_desc: "적은 포위망을 뚫고 탈출했다." #NT!
+ tactical_encircled_slaughter_failure_troops: "속보 무료" #NT!
+ tactical_encircled_slaughter_failure_troops_desc: "우리 군대는 탈출하면서 적을 제지하는 데 실패했습니다." #NT!
+ tactical_encircled_slaughter_failure_enemy_commander: "좁은 탈출" #NT!
+ tactical_encircled_slaughter_failure_enemy_commander_desc: "이 사령관은 포위 함정에서 간신히 탈출했습니다." #NT!
+ tactical_encircled_slaughter_failure_enemy_troops: "탈출" #NT!
+ tactical_encircled_slaughter_failure_enemy_troops_desc: "적군이 포위망에서 탈출하고 있습니다." #NT!
+  
+ tactical_taking_prisoners_success_commander: "포로 잡기" #NT!
+ tactical_taking_prisoners_success_commander_desc: "지휘관은 몸값과 정보를 위해 적군을 성공적으로 포획합니다." #NT!
+ tactical_taking_prisoners_success_troops: "적 포획" #NT!
+ tactical_taking_prisoners_success_troops_desc: "우리 군대는 적군을 포로로 잡아 포로로 잡고 있습니다." #NT!
+ tactical_taking_prisoners_success_enemy_commander: "캡처됨" #NT!
+ tactical_taking_prisoners_success_enemy_commander_desc: "이 사령관은 포로로 삼기 위해 병사들을 잃고 있습니다." #NT!
+ tactical_taking_prisoners_success_enemy_troops: "사로잡힌 포로들" #NT!
+ tactical_taking_prisoners_success_enemy_troops_desc: "적군 병사들이 포로로 잡혀가고 있습니다." #NT!
+ tactical_taking_prisoners_failure_commander: "죄수들이 탈출했다" #NT!
+ tactical_taking_prisoners_failure_commander_desc: "포로들은 탈출하거나 적군에 의해 구출되었습니다." #NT!
+ tactical_taking_prisoners_failure_troops: "캡처 실패" #NT!
+ tactical_taking_prisoners_failure_troops_desc: "우리 군대는 적군을 포로로 잡는 데 실패했습니다." #NT!
+ tactical_taking_prisoners_failure_enemy_commander: "회피된 포획" #NT!
+ tactical_taking_prisoners_failure_enemy_commander_desc: "적은 포로를 피하고 병력을 유지했습니다." #NT!
+ tactical_taking_prisoners_failure_enemy_troops: "미끄러져 사라졌다" #NT!
+ tactical_taking_prisoners_failure_enemy_troops_desc:0 "Enemy soldiers slipped away and avoided capture. 
+  
+  
+ tactical_submitted_in_duel_commander: "적의 손에" #NT!
+ tactical_submitted_in_duel_commander_desc: "이 사령관은 일대일 전투에서 패한 뒤 포로가 되어 포로가 되었습니다." #NT!
+  
+ tactical_center_router_commander: "센터의 라우터" #NT!
+ tactical_center_router_commander_desc: "이 사령관은 적군의 중앙을 성공적으로 돌파했습니다." #NT!
+ tactical_left_router_commander: "좌파의 라우터" #NT!
+ tactical_left_router_commander_desc: "이 사령관은 적군의 왼쪽 측면을 성공적으로 패주시켰습니다." #NT!
+ tactical_right_router_commander: "우파의 라우터" #NT!
+ tactical_right_router_commander_desc: "이 사령관은 적군의 오른쪽 측면을 성공적으로 돌파했습니다." #NT!
+  
+ tactical_commander_switched_commander: "새로운 사령관" #NT!
+ tactical_commander_switched_commander_desc: "새로운 사령관이 군대를 장악했습니다." #NT!
+  
+ tactical_commander_switched_troops: "지휘관 전환" #NT!
+ tactical_commander_switched_troops_desc: "군대는 새로운 사령관에 적응하고 있습니다." #NT!
+  
+ tactical_enemy_taking_captives: "몸값 사냥" #NT!
+ tactical_enemy_taking_captives_desc: "적군은 몸값을 위해 적 지도자를 포획하여 전투에서의 기량을 감소시키려고 적극적으로 노력하고 있습니다." #NT!
+  
+ tactical_encircled_army_commander: "갇힌 측면" #NT!
+ tactical_encircled_army_commander_desc: "이 사령관의 군대는 적의 측면을 포위하여 탈출 경로를 차단했습니다." #NT!
+  
+ tactical_knight_commander_killer_commander: "커맨더 킬러" #NT!
+  
+ tactical_knight_defeated_commander_commander: "패배한 측면 사령관" #NT!
+ tactical_knight_defeated_commander_troops: "영감을 주는 리더" #NT!
+ tactical_knight_defeated_commander_enemy_commander: "사기가 저하됨" #NT!
+ tactical_knight_defeated_commander_enemy_troops: "마음을 잃는" #NT!
+  
+ tactical_player_military_title: "별명" #NT!
+ tactical_player_military_title_desc: "이 캐릭터는 동료들과 구별되는 별명인 술주를 갖고 있습니다." #NT!
+ tactical_successful_maa_move: "성공적인 크랙 유닛" #NT!

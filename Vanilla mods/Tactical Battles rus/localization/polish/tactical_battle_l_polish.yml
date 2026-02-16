@@ -1,0 +1,703 @@
+﻿l_polish:
+  
+ give_center_commander_martial_toast: "[center_flank_commander.GetFullNameNicknamed] Zwiększa się zdolność!"  #NT!
+ give_center_commander_martial_toast_desc: "Zdolności taktyczne [center_flank_commander.GetFullNameNicknamed] poprawiły się po pokonaniu zręcznego dowódcy!"  #NT!
+ give_left_commander_martial_toast: "[left_flank_commander.GetFullNameNicknamed] Zwiększa się zdolność!"  #NT!
+ give_left_commander_martial_toast_desc: "Zdolności taktyczne [left_flank_commander.GetFullNameNicknamed] poprawiły się po pokonaniu zręcznego dowódcy!"  #NT!
+ give_right_commander_martial_toast: "[right_flank_commander.GetFullNameNicknamed] Zwiększa się zdolność!"  #NT!
+ give_right_commander_martial_toast_desc: "Zdolności taktyczne [right_flank_commander.GetFullNameNicknamed] poprawiły się po pokonaniu zręcznego dowódcy!"  #NT!
+ tbatt_battle_event_in_battle_friendly_player: "Byłeś zaangażowany [TARGET_CHARACTER.GetUINameNoTooltip] po bitwie!"  #NT!
+ tbatt_battle_event_in_battle_friendly_player: "Zdobyłeś [TARGET_CHARACTER.GetUINameNoTooltip] po bitwie!"  #NT!
+ tbatt_battle_event_in_battle_friendly: "[CHARACTER.GetUINameNoTooltip] schwytany [TARGET_CHARACTER.GetUINameNoTooltip] po bitwie!"  #NT!
+ tbatt_battle_event_in_battle_enemy_player: "Po bitwie zostałeś schwytany przez [CHARACTER.GetUINameNoTooltip]!"  #NT!
+ tbatt_battle_event_in_battle_enemy: "[TARGET_CHARACTER.GetUINameNoTooltip] został schwytany przez [CHARACTER.GetUINameNoTooltip] po bitwie!"  #NT!
+  
+ tactical_knight_commander_killer_commander: "Komendant Zabójca"  #NT!
+ tactical_knight_commander_killer_troops: "Ich dowódca nie żyje"  #NT!
+ tactical_knight_commander_killer_enemy_commander: "Straciliśmy flankę"  #NT!
+ tactical_knight_commander_killer_enemy_troops: "Martwy dowódca"  #NT!
+ tactical_knight_captured_commander_commander: "Schwytany dowódca"  #NT!
+ tactical_knight_captured_commander_troops: "Ich dowódca jest naszym"  #NT!
+ tactical_knight_captured_commander_enemy_commander: "W rękach wrogów"  #NT!
+ tactical_knight_captured_commander_enemy_troops: "Schwytany dowódca"  #NT!
+  
+  
+ tactical_forest_battle.0061.t: "Los [sc_loser.GetFullNameNicknamed]"  #NT!
+ tactical_forest_battle.0061.desc: "Z moim ostatnim ciosem [sc_loser.GetFirstName] pada na jedno kolano, zakrwawiony i pobity. Podczas gdy pole bitwy wokół mnie trwa, [sc_loser.GetTitledFirstNamePossessive] oczy spoglądają na mnie, wypełnione mieszaniną buntu i rezygnacji. Nadszedł czas, aby zdecydować o losie [sc_loser.GetHerHis]."  #NT!
+ tactical_forest_battle.0061.a: "Zabij [sc_loser.GetFirstName]"  #NT!
+ tactical_forest_battle.0061.a.success: "[sc_loser.GetFirstName] spotyka się z [sc_loser.GetHerHis] końcem na polu bitwy."  #NT!
+ tactical_forest_battle.0061.b: "Przechwyć [sc_loser.GetFirstName]"  #NT!
+ tactical_forest_battle.0061.b.success: "[sc_loser.GetFirstName] zostaje wzięty do niewoli."  #NT!
+ tactical_forest_battle.0061.c: "Weź [sc_loser.GetFirstNamePossessive] oko i wypuść [sc_loser.GetHerHim] do [sc_loser.GetHerHis] losu."  #NT!
+ tactical_forest_battle.0061.c.success: "Oślepienie [sc_loser.GetFirstName] zapewnia [sc_loser.GetHerHis] przetrwanie, ale dużym kosztem."  #NT!
+ tactical_forest_battle.0061.d: "Zostaw [sc_loser.GetFirstName] trwale bliznami i uwolnij los [sc_loser.GetHerHim] do [sc_loser.GetHerHis]."  #NT!
+ tactical_forest_battle.0061.d.success: "Blizny będą trwałą pamiątką po porażce [sc_loser.GetFirstNamePossessive]."  #NT!
+ tactical_forest_battle.0061.e: "Okalecz [sc_loser.GetFirstName] i uwolnij los od [sc_loser.GetHerHim] do [sc_loser.GetHerHis]"  #NT!
+ tactical_forest_battle.0061.e.success: "[sc_loser.GetFirstName] będzie dźwigał ciężar [sc_loser.GetHerHis] obrażeń przez resztę [sc_loser.GetHerHis] życia."  #NT!
+  
+  
+ # Event 0005 - First tactical decision (Forest) 
+ tactical_forest_battle.0005.t: "Bitwa w [battle_location.GetProvince.GetTerrain.GetName|l] z [battle_location.GetProvince.GetName]"  #NT!
+ tactical_forest_battle.0005.desc: "Walcząc w wojnie o [fighting_war.GetName] przeciwko [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal], Moja armia ściera się w [battle_location.GetProvince.GetTerrain.GetName|l] z [battle_location.GetProvince.GetName] z siłami [enemy_war_leader.GetFullNameNicknamedOrMeRegnal]. Nasi zwiadowcy meldują, że [enemy_commander.GetFullNameNicknamedOrMeRegnal] dowodził. Jako dowódca muszę wybrać nasz ruch, aby pokonać [enemy_commander.GetTitleTierName]."  #NT!
+ tactical_forest_battle.0005.a: "Skup się na lewej flance ([left_flank_commander.GetSkill( 'martial' )]#! [martial|E] [left_flank_commander.GetTitledFirstNameOrMe] vs [enemy_right_flank_commander.GetTitledFirstNameNicknamedRegnal] [enemy_right_flank_commander.GetSkill( 'martial' )]#! [martial|E])"  #NT!
+ tactical_forest_battle.0005.b: "Skup się na środku ([center_flank_commander.GetSkill( 'martial' )]#! [martial|E] [center_flank_commander.GetTitledFirstNameOrMe] vs [enemy_center_flank_commander.GetTitledFirstNameNicknamedRegnal] [enemy_center_flank_commander.GetSkill( 'martial' )]#! [martial|E])"  #NT!
+ tactical_forest_battle.0005.c: "Skup się na prawej flance ([right_flank_commander.GetSkill( 'martial' )]#! [martial|E] [right_flank_commander.GetTitledFirstNameOrMe] vs [enemy_left_flank_commander.GetTitledFirstNameNicknamedRegnal] [enemy_left_flank_commander.GetSkill( 'martial' )]#! [martial|E])"  #NT!
+ tactical_forest_battle.0005.d: "Trzymaj moich rycerzy w rezerwie"  #NT!
+ tactical_forest_battle.0005.d.success: "Moi rycerze są doskonale przygotowani, aby wykorzystać każdą okazję!"  #NT!
+ tactical_forest_battle.0005.d.failure: "Bitwa rozwija się zbyt szybko i moi rycerze zostają złapani na nieodpowiednich pozycjach."  #NT!
+ tactical_forest_battle.0005.e: "Skoncentruj się na naszych elitarnych jednostkach dystansowych"  #NT!
+ tactical_forest_battle.0005.f: "Skup się na naszej elitarnej kawalerii"  #NT!
+ tactical_forest_battle.0005.n: "Szarża za ich dowódcę!"  #NT!
+ tactical_forest_battle.0005.n.success: "[left_flank_commander.GetFullNameNicknamedOrMe] pojedynków [enemy_right_flank_commander.GetFullNameNicknamed]"  #NT!
+ tactical_forest_battle.0005.n.failure: "Nasza szarża nie jest w stanie się przebić!"  #NT!
+ tactical_forest_battle.0005.kc: "Zwycięstwo pojedynku!"  #NT!
+ tactical_forest_battle.0005.kc.success: "[left_flank_commander.GetFullNameNicknamed] zabił [enemy_right_flank_commander.GetFullNameNicknamed] w pojedynczej walce, demoralizując swoje wojska!"  #NT!
+ tactical_forest_battle.0005.cc: "Zwycięstwo pojedynku!"  #NT!
+ tactical_forest_battle.0005.cc.success: "[left_flank_commander.GetFullNameNicknamed] zdobył [enemy_right_flank_commander.GetFullNameNicknamed] po pokonaniu [enemy_right_flank_commander.GetHerHim] w pojedynczej walce, demoralizując ich wojska!"  #NT!
+ tactical_forest_battle.0005.ld: "Pokonany w pojedynku!"  #NT!
+ tactical_forest_battle.0005.ld.failure: "[left_flank_commander.GetFullNameNicknamed] został pokonany przez [enemy_right_flank_commander.GetFullNameNicknamed] po okrążeniu [enemy_right_flank_commander.GetFirstName]! w bitwie!"  #NT!
+ tactical_forest_battle.0005.ldk: "Zabity w pojedynku!"  #NT!
+ tactical_forest_battle.0005.ldk.failure: "[left_flank_commander.GetFullNameNicknamed] został zabity przez [enemy_right_flank_commander.GetFullNameNicknamed] po okrążeniu [enemy_right_flank_commander.GetFirstName] w bitwie!"  #NT!
+ tactical_forest_battle.0005.j: "Naładuj [enemy_right_flank_commander.GetFullNameNicknamed]!"  #NT!
+ tactical_forest_battle.0005.j.failure: "[left_flank_commander.GetFullNameNicknamed] nie był w stanie przedostać się do [enemy_right_flank_commander.GetFullNameNicknamed]"  #NT!
+ tactical_forest_battle.0005.dtt.success: "Nasza flanka szarżuje i otacza [enemy_right_flank_commander.GetFirstName]"  #NT!
+ # Event 0110 - Cavalry Feint SUCCESS Follow-up: Trap Sprung 
+ tactical_forest_battle.0110.t: "Pułapka została uruchomiona!"  #NT!
+ tactical_forest_battle.0110.desc: "[left_flank_commander.GetTitledFirstNamePossessive] zwód zadziałał doskonale! [enemy_commander.GetFirstNamePossessive] polecenia zatrzymania zostały zagłuszone, a [enemy_commander.GetHerHis] straż przednia złamała szyk, aby złapać przynętę. Prawa strona ich linii jest teraz rozciągnięta i zdezorganizowana."  #NT!
+ tactical_forest_battle.0110.a: "[left_flank_commander.GetTitledFirstName] prowadzi zdezorganizowaną armię w pułapkę naszych jednostek cracku"  #NT!
+ tactical_forest_battle.0110.a.success: "[enemy_commander.GetFirstNamePossessive] prawa strona podąża za [left_flank_commander.GetFirstNamePossessive] uciekającymi siłami prosto w zasadzkę!"  #NT!
+ tactical_forest_battle.0110.a.failure: "Prawa strona nie bierze przynęty i utrzymuje pozycję, obracając jednostki, aby wesprzeć inne flanki"  #NT!
+ tactical_forest_battle.0110.b: "Wyślij rycerzy, aby zmiażdżyli ich nadmiernie rozciągniętą flankę"  #NT!
+ tactical_forest_battle.0110.b.success: "Rycerze uderzają w odsłoniętą flankę wroga, rozbijając formację!"  #NT!
+ tactical_forest_battle.0110.b.failure: "Wróg szybko się reorganizuje i zwraca się przeciwko naszym rycerzom"  #NT!
+ tactical_forest_battle.0110.c: "Oderwij siły z flanki [right_flank_commander.GetTitledFirstNamePossessive], aby otoczyć zwabione jednostki"  #NT!
+ tactical_forest_battle.0110.c.success: "[right_flank_commander.GetTitledFirstName] skutecznie okrąża jednostki wroga, odcinając im odwrót!"  #NT!
+ tactical_forest_battle.0110.c.failure: "Wróg prowadzi niszczycielski atak na naszą uszczuploną prawą flankę"  #NT!
+ tactical_forest_battle.0110.d: "Obróć [center_flank_commander.GetFirstNamePossessive] rezerw, aby otoczyć zwabione jednostki"  #NT!
+ tactical_forest_battle.0110.d.success: "Rezerwy poruszają się szybko i są w pozycji do okrążenia"  #NT!
+ tactical_forest_battle.0110.d.failure: "[enemy_commander.GetFirstNamePossessive] rozpoznaje nasze wyczerpane centrum!"  #NT!
+ tactical_forest_battle.0110.e: "Odwróć się i zabij zwabione jednostki przy pełnym naładowaniu"  #NT!
+ tactical_forest_battle.0110.e.success: "Pełna szarża zaskakuje wroga!"  #NT!
+ tactical_forest_battle.0110.e.failure: "Wróg pozostaje nieugięty i odpiera naszą szarżę!"  #NT!
+  
+  
+ # ============================================ 
+ # EVENT 9474 - Rally Army After Being Pressured 
+ # ============================================ 
+  
+ tactical_forest_battle.9474.t: "Zbierz armię"  #NT!
+ tactical_forest_battle.9474.desc: "Bitwa na lewicy osiągnęła punkt krytyczny. Nasze siły są chwiejne, ale jeszcze nie zniszczone. Dzięki silnemu przywództwu i odważnym działaniom możemy przywrócić porządek i odwrócić tę sytuację!"  #NT!
+ tactical_forest_battle.9474.a: "Lewy atakuje"  #NT!
+ tactical_forest_battle.9474.a.success: "Nasza armia słyszy wezwanie i gromadzi się!"  #NT!
+ tactical_forest_battle.9474.a.failure: "Armia nadal się waha!"  #NT!
+ tactical_forest_battle.9474.b: "Udawaj odwrót, aby zwabić wroga i przeprowadzić kontratak"  #NT!
+ tactical_forest_battle.9474.b.success: "Kontratak się powiódł i morale wzrosło!"  #NT!
+ tactical_forest_battle.9474.b.failure: "Kontratak kończy się niepowodzeniem i morale spada!"  #NT!
+ tactical_forest_battle.9474.c: "Centralne ładowanie jest trudne, aby zmniejszyć nacisk"  #NT!
+ tactical_forest_battle.9474.c.success: "Szarża dezorientuje ich prawą flankę!"  #NT!
+ tactical_forest_battle.9474.c.failure: "Wróg pozostaje niezłomny!"  #NT!
+ tactical_forest_battle.9474.d: "Prawe flanki ostro szarżują, aby złagodzić presję"  #NT!
+ tactical_forest_battle.9474.d.success: "Szarża dezorientuje ich lewą flankę!"  #NT!
+ tactical_forest_battle.9474.d.failure: "Wróg pozostaje niezłomny!"  #NT!
+ tactical_forest_battle.9474.e: "Wyślij rycerzy jako wsparcie"  #NT!
+ tactical_forest_battle.9474.e.success: "Rezerwy przybywają i wzmacniają linię!"  #NT!
+ tactical_forest_battle.9474.e.failure: "Rezerwy są zbyt rozproszone, aby pomóc!"  #NT!
+ tactical_forest_battle.9474.f: "Wyślij elitarne jednostki cracku w celu wzmocnienia"  #NT!
+ tactical_forest_battle.9474.f.success: "Nasze jednostki cracku powodują chaos wśród wroga!"  #NT!
+ tactical_forest_battle.9474.f.failure: "Nasze jednostki cracku są przeciążone!"  #NT!
+  
+ # ============================================ 
+ # EVENT 0650 - Right Flank Reserves Intercept 
+ # ============================================ 
+ tactical_forest_battle.0650.t: "Prawa flanka przechwytuje ruch wroga"  #NT!
+ tactical_forest_battle.0650.desc: "Nasze rezerwy prawej flanki wykryły siły [enemy_commander.GetFirstNamePossessive] próbujące manewrować przeciwko naszej pozycji. Mamy krótkie okno na działanie, zanim wróg zakończy swój ruch."  #NT!
+  
+ tactical_forest_battle.0650.a: "Rozpocznij mocny atak prawą flanką"  #NT!
+ tactical_forest_battle.0650.a.success: "Prawa flanka zadaje miażdżący cios, zawalając prawą stronę wroga!"  #NT!
+ tactical_forest_battle.0650.a.failure: "Natarcie zostaje odparte, a wróg przejmuje inicjatywę!"  #NT!
+  
+ tactical_forest_battle.0650.b: "Obróć lewą flankę, aby zaatakować od tyłu"  #NT!
+ tactical_forest_battle.0650.b.success: "Nasz manewr kołem łapie wroga w niszczycielskim ogniu krzyżowym!"  #NT!
+ tactical_forest_battle.0650.b.failure: "Manewr flankujący zostaje wykryty i przerwany przez kontrataki wroga!"  #NT!
+  
+ tactical_forest_battle.0650.c: "Zainspiruj żołnierzy odważnym wezwaniem bojowym"  #NT!
+ tactical_forest_battle.0650.c.success: "Żołnierze są zainspirowani i odpierają natarcie wroga!"  #NT!
+ tactical_forest_battle.0650.c.failure: "Nasze wezwanie do zgromadzenia zostaje zlekceważone, a armia nadal traci grunt pod nogami!"  #NT!
+  
+ tactical_forest_battle.0650.d: "Włącz odpowiednie rezerwy i wywołaj zamieszanie"  #NT!
+ tactical_forest_battle.0650.d.success: "Rezerwy powodują wystarczające zamieszanie, abyśmy mogli zmienić pozycję na korzyść!"  #NT!
+ tactical_forest_battle.0650.d.failure: "Intryga przynosi odwrotny skutek, a wróg wykorzystuje nasze zamieszanie!"  #NT!
+  
+ tactical_forest_battle.0650.e: "Wyślij rycerzy, żeby wzmocnili prawą flankę"  #NT!
+ tactical_forest_battle.0650.e.success: "Rycerze wzmacniają flankę i zabezpieczają pozycję!"  #NT!
+ tactical_forest_battle.0650.e.failure: "Rycerze zostają odcięci i otoczeni przez większą liczbę wrogów!"  #NT!
+  
+ tact_duel_kills_commander_desc: "#alert_trial [left_flank_commander.GetFirstName] zabija wroga [enemy_right_flank_commander.GetFirstName] w walce#!"  #NT!
+ tact_duel_capture_desc: "#alert_trial [left_flank_commander.GetFirstName] pokonuje wroga [enemy_right_flank_commander.GetFirstName] w walce#!"  #NT!
+ tact_duel_loses_desc: "#alert_trial [enemy_right_flank_commander.GetFirstName] pokonuje naszego rycerza [left_flank_commander.GetFirstName] w walce#!"  #NT!
+ tact_duel_dies_desc: "#alert_trial [enemy_right_flank_commander.GetFirstName] zabija naszego rycerza [left_flank_commander.GetFirstName] w walce#!"  #NT!
+ tact_duel_lost_injury_tt: "Może zostać poważnie ranny!"  #NT!
+ tact_duel_captured_tt: "[enemy_right_flank_commander.GetFirstName] zostanie schwytany po bitwie"  #NT!
+ tactical_knight_lost_commander_tt: "#alert_trial Flanka wroga jest wstrząśnięta utratą dowódcy. #!"  #NT!
+ tactical_our_charge_was_routed_tt: "#alert_trial Wróg absorbuje naszą szarżę i reformuje się#!"  #NT!
+ tactical_our_commander_was_lost_tt: "Nasza Szarża została wchłonięta i straciliśmy dowódcę naszych flanek!"  #NT!
+  
+ tact_right_duel_kills_commander_desc: "#alert_trial [right_flank_commander.GetFirstName] zabija wroga [enemy_left_flank_commander.GetFirstName] w walce#!"  #NT!
+ tact_right_duel_capture_desc: "#alert_trial [right_flank_commander.GetFirstName] pokonuje wroga [enemy_left_flank_commander.GetFirstName] w walce#!"  #NT!
+ tact_right_duel_loses_desc: "#alert_trial [enemy_left_flank_commander.GetFirstName] pokonuje naszego rycerza [right_flank_commander.GetFirstName] w walce#!"  #NT!
+ tact_right_duel_dies_desc: "#alert_trial [enemy_left_flank_commander.GetFirstName] zabija naszego rycerza [right_flank_commander.GetFirstName] w walce#!"  #NT!
+ tact_right_duel_lost_injury_tt: "Może zostać poważnie ranny!"  #NT!
+ tact_right_duel_captured_tt: "[enemy_center_flank_commander.GetFirstName] zostanie schwytany po bitwie"  #NT!
+ tactical_knight_lost_commander_tt: "#alert_trial Flanka wroga jest wstrząśnięta utratą dowódcy. #!"  #NT!
+ tactical_our_charge_was_routed_tt: "#alert_trial Wróg absorbuje naszą szarżę i reformuje się#!"  #NT!
+ tactical_our_commander_was_lost_tt: "Nasza Szarża została wchłonięta i straciliśmy dowódcę naszych flanek!"  #NT!
+  
+ tact_center_duel_kills_commander_desc: "#alert_trial [center_flank_commander.GetFirstName] zabija wroga [enemy_center_flank_commander.GetFirstName] w walce#!"  #NT!
+ tact_center_duel_capture_desc: "#alert_trial [center_flank_commander.GetFirstName] pokonuje wroga [enemy_center_flank_commander.GetFirstName] w walce#!"  #NT!
+ tact_center_duel_loses_desc: "#alert_trial [enemy_center_flank_commander.GetFirstName] pokonuje naszego rycerza [center_flank_commander.GetFirstName] w walce#!"  #NT!
+ tact_center_duel_dies_desc: "#alert_trial [enemy_center_flank_commander.GetFirstName] zabija naszego rycerza [center_flank_commander.GetFirstName] w walce#!"  #NT!
+ tact_center_duel_lost_injury_tt: "Może zostać poważnie ranny!"  #NT!
+ tact_center_duel_captured_tt: "[enemy_center_flank_commander.GetFirstName] zostanie schwytany po bitwie"  #NT!
+ tactical_knight_lost_commander_tt: "#alert_trial Flanka wroga jest wstrząśnięta utratą dowódcy. #!"  #NT!
+ tactical_our_charge_was_routed_tt: "#alert_trial Wróg absorbuje naszą szarżę i reformuje się#!"  #NT!
+ tactical_our_commander_was_lost_tt: "Nasza szarża została wchłonięta i straciliśmy dowódcę naszych flanek!"  #NT!
+  
+  
+ trait_lifestyle_battlefield_veteran: "Weteran pola bitwy"  #NT!
+ lifestyle_battlefield_veteran_desc: "Postać ta ma duże doświadczenie w walce w bitwie, przetrwała wiele potyczek i wyciągnęła cenne lekcje ze swoich doświadczeń"  #NT!
+ lifestyle_battlefield_veteran_character_desc: "[ROOT.Char.GetFullNameNicknamed] ma rozległe doświadczenie w walce, przetrwał wiele potyczek i wyciągnął cenne lekcje ze swoich doświadczeń"  #NT!
+ trait_track_kills: "Zdobywca życia"  #NT!
+ trait_track_kills_desc: "Ta postać odebrała życie wrogom na polu bitwy."  #NT!
+ trait_track_maims: "Maimer"  #NT!
+ trait_track_maims_desc: "Postać ta trwale oszpeciła wrogów na polu bitwy."  #NT!
+ trait_track_wounds: "Dawca Blizn"  #NT!
+ trait_track_wounds_desc: "Postać ta zadała trwałe rany wrogom na polu bitwy."  #NT!
+ trait_track_wins: "Pojedynkujący się"  #NT!
+ trait_track_wins_desc: "Postać ta wygrała wiele pojedynków na polu bitwy."  #NT!
+  
+ # ============================================ 
+ # EVENT 9476 - Rally Army 
+ tactical_forest_battle.9476.t: "Zbierz armię"  #NT!
+ tactical_forest_battle.9476.desc: "Bitwa na prawicy osiągnęła punkt krytyczny. Nasze siły są chwiejne, ale jeszcze nie zniszczone. Dzięki silnemu przywództwu i odważnym działaniom możemy przywrócić porządek i odwrócić tę sytuację!"  #NT!
+ tactical_forest_battle.9476.a: "Prawy pressing w ataku"  #NT!
+ tactical_forest_battle.9476.a.success: "Nasza armia słyszy wezwanie i gromadzi się!"  #NT!
+ tactical_forest_battle.9476.a.failure: "Armia nadal się waha!"  #NT!
+ tactical_forest_battle.9476.b: "Udawaj odwrót, aby zwabić wroga i przeprowadzić kontratak"  #NT!
+ tactical_forest_battle.9476.b.success: "Kontratak się powiódł i morale wzrosło!"  #NT!
+ tactical_forest_battle.9476.b.failure: "Kontratak kończy się niepowodzeniem i morale spada!"  #NT!
+ tactical_forest_battle.9476.c: "Centralne ładowanie jest trudne, aby zmniejszyć nacisk"  #NT!
+ tactical_forest_battle.9476.c.success: "Szarża dezorientuje ich prawą flankę!"  #NT!
+ tactical_forest_battle.9476.c.failure: "Wróg pozostaje niezłomny!"  #NT!
+ tactical_forest_battle.9476.d: "Lewa flanka ostro szarżuje, aby złagodzić presję"  #NT!
+ tactical_forest_battle.9476.d.success: "Szarża dezorientuje ich lewą flankę!"  #NT!
+ tactical_forest_battle.9476.d.failure: "Wróg pozostaje niezłomny!"  #NT!
+ tactical_forest_battle.9476.e: "Wyślij rycerzy jako wsparcie"  #NT!
+ tactical_forest_battle.9476.e.success: "Rezerwy przybywają i wzmacniają linię!"  #NT!
+ tactical_forest_battle.9476.e.failure: "Rezerwy są zbyt rozproszone, aby pomóc!"  #NT!
+ tactical_forest_battle.9476.f: "Wyślij elitarne jednostki cracku w celu wzmocnienia"  #NT!
+ tactical_forest_battle.9476.f.success: "Nasze jednostki cracku powodują chaos wśród wroga!"  #NT!
+ tactical_forest_battle.9476.f.failure: "Nasze jednostki cracku są przeciążone!"  #NT!
+  
+ # ============================================ 
+ # EVENT 8010 - Broken Left Flank Exposed Center 
+ # ============================================ 
+ tactical_forest_battle.8010.t: "Odsłonięte centrum!"  #NT!
+ tactical_forest_battle.8010.desc: "To, co zostało z [enemy_commander.GetFirstNamePossessive] lewej flanki, wycofuje się! Mamy wyjątkową okazję, aby ich ścigać i zniszczyć, zanim zdążą się przegrupować!"  #NT!
+ tactical_forest_battle.8010.a: "Włącz ich środkową flankę"  #NT!
+ tactical_forest_battle.8010.a.success: "[right_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] skręca i wjeżdża na flankę ich środka!"  #NT!
+ tactical_forest_battle.8010.a.failure: "Prawa flanka ugrzęzła"  #NT!
+ tactical_forest_battle.8010.b: "Schwytaj więźniów"  #NT!
+ tactical_forest_battle.8010.b.success: "Łapiemy wielu więźniów!"  #NT!
+ tactical_forest_battle.8010.b.failure: "Więźniowie wymykają się!"  #NT!
+ tactical_forest_battle.8010.c: "Wyślij rycerzy, aby rozbili się na odsłoniętej flance ich centrum"  #NT!
+ tactical_forest_battle.8010.c.success: "Szarża Rycerzy powoduje spustoszenie"  #NT!
+ tactical_forest_battle.8010.c.failure: "Szarża rycerzy zostaje wchłonięta"  #NT!
+ tactical_forest_battle.8010.d: "Wyślij nasze elitarne jednostki cracku, aby rozbiły się na odsłoniętej flance ich centrum"  #NT!
+ tactical_forest_battle.8010.d.success: "Nasze elitarne jednostki cracku niszczą zapasy wroga!"  #NT!
+ tactical_forest_battle.8010.d.failure: "Nasze elitarne jednostki zajmujące się crackiem nie mogą zlokalizować zapasów!"  #NT!
+  
+ tactical_forest_battle.8035.t: "Odsłonięte centrum!"  #NT!
+ tactical_forest_battle.8035.desc: "To, co zostało z [enemy_commander.GetFirstNamePossessive] prawej flanki, wycofuje się! Mamy wyjątkową okazję, aby ich ścigać i zniszczyć, zanim zdążą się przegrupować!"  #NT!
+ tactical_forest_battle.8035.a: "Włącz ich środkową flankę"  #NT!
+ tactical_forest_battle.8035.a.success: "[left_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] skręca i wjeżdża na flankę ich środka!"  #NT!
+ tactical_forest_battle.8035.a.failure: "Lewa flanka ugrzęzła"  #NT!
+ tactical_forest_battle.8035.b: "Schwytaj więźniów"  #NT!
+ tactical_forest_battle.8035.b.success: "Łapiemy wielu więźniów!"  #NT!
+ tactical_forest_battle.8035.b.failure: "Więźniowie wymykają się!"  #NT!
+ tactical_forest_battle.8035.c: "Wyślij rycerzy, aby rozbili się na odsłoniętej flance ich centrum"  #NT!
+ tactical_forest_battle.8035.c.success: "Szarża Rycerzy powoduje spustoszenie"  #NT!
+ tactical_forest_battle.8035.c.failure: "Szarża rycerzy zostaje wchłonięta"  #NT!
+ tactical_forest_battle.8035.d: "Wyślij nasze elitarne jednostki cracku, aby rozbiły się na odsłoniętej flance ich centrum"  #NT!
+ tactical_forest_battle.8035.d.success: "Nasze jednostki cracku włączają swój odsłonięty środek!"  #NT!
+ tactical_forest_battle.8035.d.failure: "Nasze elitarne jednostki utknęły w martwym punkcie"  #NT!
+ # ============================================ 
+ # EVENT 7324 - Enemy Reorganizes Turns to Meet our center 
+  
+  
+ tactical_forest_battle.7324.t: "Wróg uderza w środkową flankę"  #NT!
+ tactical_forest_battle.7324.desc: "[enemy_commander.GetFirstNamePossessive] rozpoznał naszą osłabioną środkową flankę i rozpoczyna atak. Bez naszych rezerw podejmujemy kluczową decyzję o utrzymaniu środkowej flanki."  #NT!
+ tactical_forest_battle.7324.a: "Środkowa flanka jest silna wobec ataku"  #NT!
+ tactical_forest_battle.7324.a.success: "Nasza środkowa flanka opiera się atakowi wroga!"  #NT!
+ tactical_forest_battle.7324.a.failure: "Środkowa flanka jest przytłoczona i zaczyna słabnąć!"  #NT!
+ tactical_forest_battle.7324.b: "Wyślij rycerzy, żeby wzmocnili centrum"  #NT!
+ tactical_forest_battle.7324.b.success: "Świezi rycerze stabilizują środkową flankę!"  #NT!
+ tactical_forest_battle.7324.b.failure: "Rycerze zostają przechwyceni, zanim dotrą do centrum!"  #NT!
+ tactical_forest_battle.7324.c: "Wyślij nasze elitarne jednostki cracku, aby wzmocniły środkową flankę"  #NT!
+ tactical_forest_battle.7324.c.success: "Nasze posiłki stabilizują środkową flankę!"  #NT!
+ tactical_forest_battle.7324.c.failure: "Nasz ośrodek kruszy się mimo wzmocnień!"  #NT!
+ tactical_forest_battle.7324.d: "Spróbuj powoli się wycofać i przesunąć swoje centrum z pozycji, zanim nadejdą posiłki"  #NT!
+ tactical_forest_battle.7324.d.success: "Ich centrum zaczyna podążać za naszym odwrotem, odsłaniając ich!"  #NT!
+ tactical_forest_battle.7324.d.failure: "Centrum nie jest w stanie rozłączyć się pod ciśnieniem!"  #NT!
+ tactical_forest_battle.7324.e: "Udawaj odwrót i zwróć się przeciwko prześladowcom"  #NT!
+ tactical_forest_battle.7324.e.success: "Wróg daje się nabrać na nasze oszustwo i przystępuje do nieoczekiwanego ataku!"  #NT!
+ tactical_forest_battle.7324.e.failure: "Przejrzeli nasze oszustwo i podtrzymują swoją formację!"  #NT!
+  
+ tactical_reserves_engaged_commander: "Rotacja rezerw"  #NT!
+ tactical_reserves_engaged_troops: "Rezerwy zaangażowane"  #NT!
+  
+ tactical_counterattack_success_commander: "Zdrowaś Maryjo"  #NT!
+ tactical_counterattack_success_troops: "Desperacki kontratak"  #NT!
+ tactical_counterattack_success_enemy_commander: "Tracić nadzieję"  #NT!
+ tactical_counterattack_success_enemy_troops: "Wstrząśnięte morale"  #NT!
+  
+  
+  
+ # ============================================ 
+  
+ ###### 
+  
+ # Event 0210 - Cavalry Feint FAILURE Follow-up: Feint Unmasked 
+ tactical_forest_battle.0210.t: "Zwód zdemaskowany!"  #NT!
+ tactical_forest_battle.0210.desc: "[enemy_commander.GetTitledFirstName] przejrzał zwód naszej kawalerii! Ich siły zamiast ścigać, utrzymywały dyscyplinę, a teraz nasi jeźdźcy stawiają czoła zwartej piechocie, salwom rakiet lub kontrkawalerii czekającej w zasadzce. Sytuacja taktyczna obróciła się przeciwko nam – muszę zdecydować, jak uratować tę katastrofę."  #NT!
+ tactical_forest_battle.0210.a: "Przepchnij się przez pułapkę! Naładuj się wszystkim! (Walka + Zręczność vs [enemy_commander.GetShortUINameNoTooltip], bardzo ryzykowne)"  #NT!
+ tactical_forest_battle.0210.a.success: "Wbrew wszystkiemu nasza śmiałość przełamuje ich formację! Wróg cofa się przed naszą desperacką szarżą!"  #NT!
+ tactical_forest_battle.0210.a.failure: "Szarża kończy się katastrofalną porażką. Nasza kawaleria jest rozproszona i rozbita!"  #NT!
+ tactical_forest_battle.0210.b: "Zsiądź i trzymaj linę! (Wymaga wsparcia piechoty)"  #NT!
+ tactical_forest_battle.0210.c: "Osłaniaj odwrót kawalerią. (Poświęć kawalerię, aby ocalić armię)"  #NT!
+ tactical_forest_battle.0210.d: "Zbierz chwiejnego konia dzięki osobistemu przywództwu! (Wymaga Odważnego, Inspirującego Lidera lub Martiala 14+)"  #NT!
+ tactical_forest_battle.0210.d.success: "Moje dowództwo utrzymuje kawalerię! Reformują się i przygotowują do dalszej walki!"  #NT!
+ tactical_forest_battle.0210.d.failure: "Kawaleria odmawia zgromadzenia się. Morale nadal spada."  #NT!
+  
+  
+  
+ # Event 0120 - Infantry Ambush SUCCESS Follow-up: Kill Zone in the Woods 
+ tactical_forest_battle.0120.t: "Strefa Zabij w lesie!"  #NT!
+ tactical_forest_battle.0120.desc: "Kolumna wroga wkroczyła prosto na naszą ukrytą piechotę i oddziały rakietowe! Widoczność w lasach jest słaba, ich formacje są rozciągnięte, a struktura dowodzenia pogrążona jest w chaosie. Siły [enemy_commander.GetTitledFirstName] znajdują się na idealnym polu śmierci. Jak wykorzystamy tę szansę?"  #NT!
+ tactical_forest_battle.0120.a: "Zamknij szczęki pułapki! Uszczelnij ich przód i tył!"  #NT!
+ tactical_forest_battle.0120.b: "Niech przemówią strzały i oszczepy. Trzymaj naszą piechotę w ukryciu. (Wymaga łuczników/harcowników)"  #NT!
+ tactical_forest_battle.0120.b.success: "Nasz ostrzał rakietowy niszczy ich odsłoniętą kolumnę!"  #NT!
+ tactical_forest_battle.0120.b.failure: "Ich tarcze i pancerze ograniczają skuteczność naszego ostrzału."  #NT!
+ tactical_forest_battle.0120.c: "Najpierw uderzaj w oficerów — celuj w sztandary i dowódców!"  #NT!
+ tactical_forest_battle.0120.c.success: "Nasze zespoły uderzeniowe eliminują kluczowych oficerów! Ich dowództwo upada!"  #NT!
+ tactical_forest_battle.0120.c.failure: "Zespoły uderzeniowe są odizolowane i ponoszą ciężkie straty!"  #NT!
+ tactical_forest_battle.0120.d: "Zostaw ich krwawiących, a potem zniknij z powrotem w lesie."  #NT!
+  
+  
+ # Event 0220 - Infantry Ambush FAILURE Follow-up: Ambush Detected 
+ tactical_forest_battle.0220.t: "Wykryto zasadzkę!"  #NT!
+ tactical_forest_battle.0220.desc: "[enemy_commander.GetTitledFirstName] przejrzał naszą zasadzkę! Ich zwiadowcy wykryli nasze ukryte pozycje, a ich siły przystosowały się, zanim zdążyliśmy zastawić pułapkę. Nasze rozproszone jednostki piechoty zostają zdemaskowane w [battle_location.GetName] bez skoordynowanej przewagi. Muszę zdecydować, jak uratować tę taktyczną katastrofę."  #NT!
+ tactical_forest_battle.0220.a: "Wycofaj się i skonsoliduj pozycje obronne! Przegrupuj się w twierdze."  #NT!
+ tactical_forest_battle.0220.b: "Zmień formację i kontratakuj poprzez nacisk wroga! (Martial 11+, wysokie ryzyko)"  #NT!
+ tactical_forest_battle.0220.b.success: "Nasza nieoczekiwana agresja zaskakuje wroga! Ich formacja pęka!"  #NT!
+ tactical_forest_battle.0220.b.failure: "Kontrszarża jeszcze bardziej odsłoniła naszą piechotę. Katastrofa!"  #NT!
+ tactical_forest_battle.0220.c: "Użyj lasu, aby rozproszyć jednostki i zreformować się gdzie indziej. (Zarządzanie 10+)"  #NT!
+ tactical_forest_battle.0220.c.success: "Nasze jednostki wymykają się między drzewami i bezpiecznie przegrupowują!"  #NT!
+ tactical_forest_battle.0220.c.failure: "Rozproszone jednostki nie mogą się zreformować. Pozostają zdezorganizowani i bezbronni."  #NT!
+ tactical_forest_battle.0220.d: "Utrzymaj naszą pozycję i walcz z presją! Zaakceptuj ciężkie straty."  #NT!
+  
+ # Event 0130 - Levy Braced SUCCESS Follow-up: Spears and Trees 
+ tactical_forest_battle.0130.t: "Włócznie i drzewa!"  #NT!
+ tactical_forest_battle.0130.desc: "Włócznia opłat trzyma się jak kamień! Sam las staje się fortecą, gdy nasi żołnierze zasadzają się między drzewami. Siły [enemy_commander.GetTitledFirstName] zderzają się z naszą najeżoną formacją i słabną. Teraz nadchodzi moment, aby wykorzystać naszą przewagę – jak wykorzystamy ich słabość?"  #NT!
+ tactical_forest_battle.0130.a: "Przytrzymaj linię i zetrzyj je. Niech ścieranie się pracuje dla nas."  #NT!
+ tactical_forest_battle.0130.b: "Uderz nagle przez ich środek! (Nauka + Martial 9+, umiarkowane ryzyko)"  #NT!
+ tactical_forest_battle.0130.b.success: "Nagłe pchnięcie łamie ich determinację! Formacja wroga rozpada się!"  #NT!
+ tactical_forest_battle.0130.b.failure: "Pchnięcie zwalnia, ale lina trzyma. Nie chcą się łamać."  #NT!
+ tactical_forest_battle.0130.c: "Niech łucznicy zmasakrują ich na polu śmierci. (Wymaga łuczników MaA)"  #NT!
+ tactical_forest_battle.0130.c.success: "Padają niszczycielskie salwy! Pole śmierci pochłania setki!"  #NT!
+ tactical_forest_battle.0130.c.failure: "Łucznikom zaczyna brakować strzał i tracą przewagę."  #NT!
+ tactical_forest_battle.0130.d: "Stwórz kowadło, aby rozbić ich ładunek! (Skoncentruj się na wytrzymałości)"  #NT!
+  
+ # Event 0230 - Levy Scattered FAILURE Follow-up: Formation Broken 
+ tactical_forest_battle.0230.t: "Formacja rozbita!"  #NT!
+ tactical_forest_battle.0230.desc: "Opłaty rozproszyły się w panice! Zamiast utworzyć najeżony mur włóczni, żołnierze rozproszyli się między drzewami, nie mogąc skoordynować działań ani utrzymać linii. [enemy_commander.GetTitledFirstName] widzi słabość i wykorzystuje ją. Formacja jest rozbita – muszę działać szybko, aby uratować tę katastrofę."  #NT!
+ tactical_forest_battle.0230.a: "Zdobądź ich osobistym przykładem! Prowadź od przodu! (Waleczność 10+, Walka 9+)"  #NT!
+ tactical_forest_battle.0230.a.success: "Moje osobiste męstwo jednoczy żołnierzy! Reformują się i hartują!"  #NT!
+ tactical_forest_battle.0230.a.failure: "Żołnierze są przestraszeni i rozproszeni. Morale nie wraca do normy."  #NT!
+ tactical_forest_battle.0230.b: "Zaangażuj swoich elitarnych rycerzy, aby wzmocnili linię. (Wymaga 2+ rycerzy)"  #NT!
+ tactical_forest_battle.0230.c: "Przenieś rozproszone jednostki na lepszy teren. (Zarządzanie 9+)"  #NT!
+ tactical_forest_battle.0230.c.success: "Rozproszone ładunki są zbierane i przenoszone na silniejszy teren!"  #NT!
+ tactical_forest_battle.0230.c.failure: "Próba zmiany położenia kończy się niepowodzeniem. Jednostki stają się jeszcze bardziej rozproszone!"  #NT!
+ tactical_forest_battle.0230.d: "Zamiast tego skup się na obniżeniu morale wrogów. (Intryga 8+, wojna psychologiczna)"  #NT!
+  
+  
+ # Event 0140 - Knights in Reserve SUCCESS Follow-up: Knights Ready 
+ tactical_forest_battle.0140.t: "Rycerze gotowi!"  #NT!
+ tactical_forest_battle.0140.desc: "Rycerze czekają w doskonałej gotowości, ukryci przed wzrokiem wroga. Siły [enemy_commander.GetTitledFirstName] pozostają na swoich obecnych pozycjach, nieświadome naszej rezerwy kawalerii czekającej na atak. Nadszedł moment, aby je uwolnić – jak wykorzystać ich niszczycielski potencjał?"  #NT!
+ tactical_forest_battle.0140.a: "Uderzenie młotem – niszczycielska szarża kawalerii! (Wyczyn 11+, bardzo wysokie ryzyko/nagroda)"  #NT!
+ tactical_forest_battle.0140.a.success: "Ładunek wykonany bez zarzutu! Nasi rycerze rozbijają formację wroga jak szkło!"  #NT!
+ tactical_forest_battle.0140.a.failure: "Szarża przekracza zasięg i rycerze zostają złapani w izolacji!"  #NT!
+ tactical_forest_battle.0140.b: "Manewr flankujący — okrąż wroga! (Wojna 10+)"  #NT!
+ tactical_forest_battle.0140.b.success: "Manewr flankujący powiódł się! Wróg zostaje zaskoczony od tyłu!"  #NT!
+ tactical_forest_battle.0140.b.failure: "Manewr zostaje zablokowany, zanim będzie mógł się rozwinąć!"  #NT!
+ tactical_forest_battle.0140.c: "Pościg — wykorzystaj wycofujące się jednostki! (Intryga 9+)"  #NT!
+ tactical_forest_battle.0140.c.success: "Pościg rozgromił wroga! Nie mogą się zreorganizować!"  #NT!
+ tactical_forest_battle.0140.c.failure: "Pościg zostaje zablokowany, a nasza kawaleria ponosi straty."  #NT!
+ tactical_forest_battle.0140.d: "Zdyscyplinowane wycofanie się – użyj rycerzy do osłony odwrotu. (Zarządzanie 9+)"  #NT!
+  
+ martial_positive: "Przewaga taktyczna"  #NT!
+ martial_negative: "Wada taktyczna"  #NT!
+  
+ frontline_commander: "Dowódca Linii Frontu"  #NT!
+ frontline_commander_desc: "Ta postać prowadzi żołnierzy w wirze bitwy, inspirując ich do większych wyczynów męstwa i skuteczności."  #NT!
+ tactical_commander: "Dowódca Taktyczny"  #NT!
+  
+ # ============================================ 
+ # EVENT 2010 - Left Flank Tactics 
+ # ============================================ 
+ tactical_forest_battle.2010.t: "Podążając za zwódką"  #NT!
+ tactical_forest_battle.2010.desc: "Nasz zwód na prawej flance przyciągnął uwagę wroga, pozostawiając jego lewą flankę bezbronną. Musimy zdecydować, jak najlepiej wykorzystać tę szansę, zanim będą mogli zareagować i wzmocnić."  #NT!
+  
+ tactical_forest_battle.2010.a: "Odwróć się i zabij ścigającego wroga"  #NT!
+ tactical_forest_battle.2010.a.success: "Lewa flanka nagle zwraca się przeciwko pościgowi"  #NT!
+ tactical_forest_battle.2010.a.failure: "[enemy_commander.GetFirstNamePossessive] prawa flanka opiera się naszemu nagłemu atakowi"  #NT!
+  
+ tactical_forest_battle.2010.b: "Zwab zasadzkę naszych elitarnych pułkowników"  #NT!
+ tactical_forest_battle.2010.b.success: "Ich prawa flanka zostaje wciągnięta w pułapkę!"  #NT!
+ tactical_forest_battle.2010.b.failure: "Ich prawica utrzymuje dyscyplinę i odmawia stosowania się do zwodów"  #NT!
+  
+ tactical_forest_battle.2010.c: "Zmień prawe rezerwy, aby spróbować okrążyć prawą flankę nie na pozycji"  #NT!
+ tactical_forest_battle.2010.c.success: "Nasze siły odrywają się i są w stanie okrążyć wroga!"  #NT!
+ tactical_forest_battle.2010.c.failure: "Nadciągające siły okrążające spotykają się z twarzą o"  #NT!
+  
+ tactical_forest_battle.2010.d: "Zmień środkową rezerwę, aby spróbować okrążyć nieustawioną prawą flankę"  #NT!
+ tactical_forest_battle.2010.d.success: "Nasze siły odrywają się i są w stanie okrążyć wroga!"  #NT!
+ tactical_forest_battle.2010.d.failure: "Nadciągające siły okrążające spotykają się twarzą w twarz"  #NT!
+  
+ tactical_forest_battle.2010.e: "Naciśnij przewagę"  #NT!
+ tactical_forest_battle.2010.e.success: "Wykorzystujemy nieobecnego wroga!"  #NT!
+ tactical_forest_battle.2010.e.failure: "Wróg zostanie wzmocniony, zanim będziemy mogli wykorzystać jego pozycję"  #NT!
+  
+ # ============================================ 
+ # EVENT 2012 - Knights Break Left Flank 
+ # ============================================ 
+ tactical_forest_battle.2012.t: "Rycerze przedzierają się przez prawicę"  #NT!
+ tactical_forest_battle.2012.desc: "Nasi rycerze przedarli się przez [enemy_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] z prawej flanki, pozostawiając ją w chaosie. Jeśli teraz naciśniemy atak, możemy zwrócić się przeciwko odsłoniętemu centrum i zmiażdżyć ich, zanim zdążą się zregenerować."  #NT!
+  
+ tactical_forest_battle.2012.a: "Lewa flanka zalewa lukę"  #NT!
+ tactical_forest_battle.2012.a.success: "[left_flank_commander.GetFullNameNicknamedPossessiveOrMy] flanka zalewa rozbitą formację wroga!"  #NT!
+ tactical_forest_battle.2012.a.failure: "Wróg szybko się stabilizuje i zapobiega dalszej penetracji!"  #NT!
+  
+ tactical_forest_battle.2012.b: "Wyślij nasze elitarne pułki, aby złamały swoje prawa"  #NT!
+ tactical_forest_battle.2012.b.success: "Nasze elitarne pułki rozbijają wroga prosto!"  #NT!
+ tactical_forest_battle.2012.b.failure: "Ich prawica podnosi swoje siły i sprzeciwia się szarży!"  #NT!
+  
+ tactical_forest_battle.2012.c: "Lewa flanka szarżuje ciężko, aby rozbić prawą flankę"  #NT!
+ tactical_forest_battle.2012.c.success: "Flanka [left_flank_commander.GetFullNameNicknamedPossessiveOrMy] łamie ich prawą flankę"  #NT!
+ tactical_forest_battle.2012.c.failure: "Ich prawica podnosi swoje siły i sprzeciwia się szarży!"  #NT!
+  
+ tactical_forest_battle.2012.d: "Naciśnij przewagę"  #NT!
+ tactical_forest_battle.2012.d.success: "[left_flank_commander.GetFullNameNicknamedOrMe] nadal naciska prawą flankę!"  #NT!
+ tactical_forest_battle.2012.d.failure: "Prawo zostanie wzmocnione, zanim będziemy mogli wykorzystać naruszenie!"  #NT!
+  
+ tactical_forest_battle.2012.f: "Zmień środkową rezerwę, aby przytłoczyć pozostałą prawą flankę"  #NT!
+ tactical_forest_battle.2012.f.success: "Środkowe rezerwy obracają się i miażdżą pozostałą prawą flankę!"  #NT!
+ tactical_forest_battle.2012.f.failure: "Rezerwy nie są w stanie się rozłączyć po pchnięciu ze środka!"  #NT!
+  
+  
+  
+ # ============================================ 
+ # EVENT 2014 - Right Flank Reserves Flood Left 
+ # ============================================ 
+ tactical_forest_battle.2014.t: "Połączony atak na lewą flankę"  #NT!
+ tactical_forest_battle.2014.desc: "Połączony atak rezerw naszej prawej flanki i [left_flank_commander.GetFullNameNicknamedPossessiveOrMy] lewej flanki naciska atak na ich prawą flankę, jeśli uda nam się tu przebić, możemy zawrócić na środek."  #NT!
+ tactical_forest_battle.2014.a: "Połączone siły zalewają lukę"  #NT!
+ tactical_forest_battle.2014.a.success: "Połączone siły przytłaczają wroga, który popada w chaos!"  #NT!
+ tactical_forest_battle.2014.a.failure: "Wróg szybko zmienia siły, aby zakryć lukę!"  #NT!
+  
+ tactical_forest_battle.2014.b: "Wyślij nasze elitarne pułki cracków, aby zaatakowały ich zdezorganizowaną flankę"  #NT!
+ tactical_forest_battle.2014.b.success: "Nasze jednostki cracku sieją spustoszenie na prawej flance!"  #NT!
+ tactical_forest_battle.2014.b.failure: "Wróg przegrupowuje się i odpiera atak!"  #NT!
+  
+ tactical_forest_battle.2014.c: "Wyślij rycerzy, aby zaatakowali ich prawą flankę"  #NT!
+ tactical_forest_battle.2014.c.success: "Rycerze i rezerwy szarżują razem, a ich prawica popada w panikę"  #NT!
+ tactical_forest_battle.2014.c.failure: "Połączony atak spotyka się z zaciekłym kontratakiem!"  #NT!
+  
+ tactical_forest_battle.2014.d: "Zalej lewą stronę i spróbuj przedostać się za ich środek"  #NT!
+ tactical_forest_battle.2014.d.success: "Udaje nam się przeforsować część sił przez ich prawą flankę"  #NT!
+ tactical_forest_battle.2014.d.failure: "Wróg przewiduje ten ruch i napiera na powódź"  #NT!
+  
+ tactical_forest_battle.2014.e: "Naciśnij atak"  #NT!
+ tactical_forest_battle.2014.e.success: "Nasz atak trwa nadal z niszczycielskim skutkiem!"  #NT!
+ tactical_forest_battle.2014.e.failure: "Wróg stabilizuje się, a dynamika zwalnia!"  #NT!
+  
+ # ============================================ 
+ # EVENT 2016 - Center Flank Tactics 
+ # ============================================ 
+ tactical_forest_battle.2016.t: "Połączony atak z lewej strony"  #NT!
+ tactical_forest_battle.2016.desc: "Połączony atak naszych środkowych rezerw i [left_flank_commander.GetFullNameNicknamedPossessiveOrMy] lewicy naciska atak na ich prawą flankę, jeśli uda nam się tu przebić, możemy zwrócić się na środek."  #NT!
+  
+ tactical_forest_battle.2016.a: "Rezerwy środka wypełniają lukę"  #NT!
+ tactical_forest_battle.2016.a.success: "Rezerwy środkowe napływają, całkowicie rozbijając wroga!"  #NT!
+ tactical_forest_battle.2016.a.failure: "Wróg stabilizuje środek i trzyma mocno!"  #NT!
+  
+ tactical_forest_battle.2016.b: "Wyślij nasze elitarne jednostki cracków, aby rozbiły centrum"  #NT!
+ tactical_forest_battle.2016.b.success: "Jednostki cracku przebijają centrum wroga!"  #NT!
+ tactical_forest_battle.2016.b.failure: "Atak jednostek cracku został odparty z ciężkimi stratami!"  #NT!
+  
+ tactical_forest_battle.2016.c: "Wyślij rycerzy, aby wsparli atak"  #NT!
+ tactical_forest_battle.2016.c.success: "Rycerze szarżują na środek, rozpraszając wroga!"  #NT!
+ tactical_forest_battle.2016.c.failure: "Rycerze zostają wyparci przez rezerwy wroga!"  #NT!
+  
+ tactical_forest_battle.2016.d: "Prawe rezerwy wspierają centrum"  #NT!
+ tactical_forest_battle.2016.d.success: "Prawe rezerwy doskonale flankują środkową pozycję!"  #NT!
+ tactical_forest_battle.2016.d.failure: "Manewr się nie udaje, a środek pozostaje nienaruszony!"  #NT!
+  
+ tactical_forest_battle.2016.e: "Kontynuuj atak na centrum"  #NT!
+ tactical_forest_battle.2016.e.success: "Nasz atak całkowicie rozbija centrum wroga!"  #NT!
+ tactical_forest_battle.2016.e.failure: "Wróg utrzymuje środkową pozycję!"  #NT!
+  
+ # ============================================ 
+ # EVENT 1010 - Left Flank Exposed Center Follow-up 
+ # ============================================ 
+ tactical_forest_battle.1010.t: "Oskrzydlony i zdezorientowany"  #NT!
+ tactical_forest_battle.1010.desc: "[left_flank_commander.GetTitledFirstNamePossessiveOrMy] manewr flankujący wywołał chaos na prawej flance wroga, ich ludzie przełamują się, jeśli uda nam się tu przebić, możemy zawrócić na środek."  #NT!
+  
+ tactical_forest_battle.1010.a: "Owiń i flankuj ich środek"  #NT!
+ tactical_forest_battle.1010.a.success: "[left_flank_commander.GetFullNameNicknamedPossessiveOrMy] sił skutecznie flankuje centrum wroga!"  #NT!
+ tactical_forest_battle.1010.a.failure: "Wróg przewiduje manewr i blokuje go!"  #NT!
+  
+ tactical_forest_battle.1010.b: "Wyślij rycerzy, aby zaatakowali swoje prawo"  #NT!
+ tactical_forest_battle.1010.b.success: "Rycerze szarżują i całkowicie rozbijają lewicę!"  #NT!
+ tactical_forest_battle.1010.b.failure: "Rycerze napotkali większy opór, niż się spodziewano!"  #NT!
+  
+ tactical_forest_battle.1010.c: "Wyślij nasze pułki cracku, żeby zaatakowały ich prawą stronę"  #NT!
+ tactical_forest_battle.1010.c.success: "Nasze pułki cracku rozpadają się"  #NT!
+ tactical_forest_battle.1010.c.failure: "Wróg ma czas na ustanowienie nowej linii obrony!"  #NT!
+  
+ tactical_forest_battle.1010.d: "Naciśnij przewagę z pełną siłą"  #NT!
+ tactical_forest_battle.1010.d.success: "Pełne ciśnienie przełamuje całą obronę wroga!"  #NT!
+ tactical_forest_battle.1010.d.failure: "Wróg trzyma się pomimo nacisku!"  #NT!
+  
+ tactical_forest_battle.1010.e: "Rozpocznij mocną szarżę, aby przełamać ich prawą flankę"  #NT!
+ tactical_forest_battle.1010.e.success: "Lewa flanka niszczy spójność wroga!"  #NT!
+ tactical_forest_battle.1010.e.failure: "Trzymają się mocno i nie możemy się przebić!"  #NT!
+  
+  
+ # ============================================ 
+ # EVENT 1014 - Center Pull Back Follow-up 
+ # ============================================ 
+ tactical_forest_battle.1014.t: "Strategia wycofania środka"  #NT!
+ tactical_forest_battle.1014.desc: "Centrum wroga wycofuje się, aby przegrupować się i skoordynować działania z innymi siłami. Musimy zdecydować, czy kontynuować pościg, zwabić ich w pułapkę, czy zmienić położenie naszych jednostek, aby uzyskać maksymalny efekt."  #NT!
+ tactical_forest_battle.1014.a: "Zwab wroga w naszą pułapkę MAA"  #NT!
+ tactical_forest_battle.1014.a.success: "Wróg wchodzi bezpośrednio w naszą pułapkę i jest zdruzgotany!"  #NT!
+ tactical_forest_battle.1014.a.failure: "Wróg rozpoznaje pułapkę i unika jej!"  #NT!
+ tactical_forest_battle.1014.b: "Lewa flanka ostro szarżuje po lewej stronie"  #NT!
+ tactical_forest_battle.1014.b.success: "Nasza lewa szarża całkowicie rozbija pozostawionego wroga!"  #NT!
+ tactical_forest_battle.1014.b.failure: "Lewa szarża zostaje odparta przez rezerwy wroga!"  #NT!
+ tactical_forest_battle.1014.c: "Centrum odwraca się i morduje wroga"  #NT!
+ tactical_forest_battle.1014.c.success: "Nasze centrum kręci i niszczy centrum wroga!"  #NT!
+ tactical_forest_battle.1014.c.failure: "Wróg odpiera kontratak!"  #NT!
+ tactical_forest_battle.1014.d: "Zwab centrum wroga do rycerzy"  #NT!
+ tactical_forest_battle.1014.d.success: "Centrum wroga zostało doskonale zwabione i zniszczone przez naszych rycerzy!"  #NT!
+ tactical_forest_battle.1014.d.failure: "Wróg ucieka przed przynętą i wycofuje się!"  #NT!
+ tactical_forest_battle.1014.e: "Naciśnij przewagę"  #NT!
+ tactical_forest_battle.1014.e.success: "Bezlitosny nacisk całkowicie demoralizuje wroga!"  #NT!
+ tactical_forest_battle.1014.e.failure: "Wróg stawia opór i utrzymuje pozycję!"  #NT!
+  
+  # Event 0010 - Left Flank Focus Follow-up 
+ tactical_forest_battle.0010.t: "Walka na lewej flance"  #NT!
+ tactical_forest_battle.0010.desc: "Bitwa trwa, a nasze siły atakują lewą flankę. [center_flank_commander.GetTitledFirstName] dowodzi w środku, z [right_flank_commander.GetFirstName] na prawym skrzydle. [left_flank_commander.GetTitledFirstName] dowodzi lewą stroną, użycie sił [left_flank_commander.GetHerHis] może okazać się kluczowe dla zapewnienia zwycięstwa."  #NT!
+ tactical_forest_battle.0010.a: "Wykonaj zwodniczy odwrót na lewym skrzydle"  #NT!
+ tactical_forest_battle.0010.a.success: "Zwód się udał! Wróg przerywa formację, aby ścigać nasze uciekające wojska, tworząc śmiertelną bezbronność."  #NT!
+ tactical_forest_battle.0010.a.failure: "Wróg widzi nasze oszustwa i utrzymuje dyscyplinę, zwracając naszą uwagę przeciwko nam!"  #NT!
+ tactical_forest_battle.0010.b: "Wykonaj manewr flankujący"  #NT!
+ tactical_forest_battle.0010.b.success: "Nasze siły flankujące omiatają ich lewą flankę, niszcząc ich spójność!"  #NT!
+ tactical_forest_battle.0010.b.failure: "Dowódca ten przewiduje nasz manewr i kieruje siły na spotkanie z nami."  #NT!
+ tactical_forest_battle.0010.e: "Taktyka ataku i ucieczki na prawym skrzydle"  #NT!
+ tactical_forest_battle.0010.e.success: "Nasze taktyki nękania ich wyniszczają! Ich prawo krwawi!"  #NT!
+ tactical_forest_battle.0010.e.failure: "Wróg trzyma się mocno i utrzymuje formację!"  #NT!
+ tactical_forest_battle.0010.f: "Oderwij ukryte siły flankujące i powoli wycofaj się"  #NT!
+ tactical_forest_battle.0010.f.success: "Nasze siły flankujące skutecznie wycofują się i okrążają nacierający atak!"  #NT!
+ tactical_forest_battle.0010.f.failure: "Nasze flankujące siły zostają wykryte i wciągnięte do walki!"  #NT!
+ tactical_forest_battle.0010.g: "Stwórz fałszywą lukę, zachęcając ich do szarży w pułapkę"  #NT!
+ tactical_forest_battle.0010.g.success: "Ich prawa strona zaczyna szarżować w wyrwę, wpadając w naszą pułapkę!"  #NT!
+ tactical_forest_battle.0010.g.failure: "Ich prawica nie bierze przynęty i utrzymuje dyscyplinę!"  #NT!
+  
+ # Event 0011 - Center Flank Engagement 
+ tactical_forest_battle.0011.t: "Walka na środkowej flance"  #NT!
+ tactical_forest_battle.0011.desc: "Bitwa trwa, a nasze siły atakują środkową flankę. Polecenia [left_flank_commander.GetTitledFirstName] po lewej stronie, z [right_flank_commander.GetFirstName] na prawym skrzydle. [center_flank_commander.GetTitledFirstName] dowodzi środkiem, a użycie sił [center_flank_commander.GetHerHis] może okazać się kluczowe dla zapewnienia zwycięstwa."  #NT!
+ tactical_forest_battle.0011.a: "Utwórz fałszywą lukę po lewej stronie naszego środka"  #NT!
+ tactical_forest_battle.0011.a.success: "Ich środek atakuje lukę, wpadając w naszą pułapkę!"  #NT!
+ tactical_forest_battle.0011.a.failure: "Wróg nie daje się wciągnąć i utrzymać mocno!"  #NT!
+ tactical_forest_battle.0011.b: "Utwórz fałszywą lukę po prawej stronie naszego środka"  #NT!
+ tactical_forest_battle.0011.b.success: "Ich środek atakuje lukę, wpadając w naszą pułapkę!"  #NT!
+ tactical_forest_battle.0011.b.failure: "Wróg nie daje się wciągnąć i utrzymać mocno!"  #NT!
+ tactical_forest_battle.0011.c: "Wyślij nasze elitarne pułki, aby złamały ich centrum"  #NT!
+ tactical_forest_battle.0011.c.success: "Atak elity niszczy ich spójność! Centrum zaczyna się kruszyć!"  #NT!
+ tactical_forest_battle.0011.c.failure: "Wróg przewiduje i nasze elitarne siły zostają odrzucone!"  #NT!
+ tactical_forest_battle.0011.d: "Zobowiąż naszych rycerzy, aby przebili ich środek"  #NT!
+ tactical_forest_battle.0011.d.success: "Rycerze szarżują z niszczycielską siłą! Ich centrum się zawala!"  #NT!
+ tactical_forest_battle.0011.d.failure: "Wróg przygotowuje kontratak i nasi rycerze zostają odrzuceni!"  #NT!
+ tactical_forest_battle.0011.e: "Powoli odciągnij środek do tyłu, próbując go otoczyć"  #NT!
+ tactical_forest_battle.0011.e.success: "Ich środek zostaje nagle odsłonięty na obu flankach!"  #NT!
+ tactical_forest_battle.0011.e.failure: "Nie dają się wciągnąć i trzymają się mocno!"  #NT!
+ tactical_forest_battle.0011.f: "Uruchom niszczycielski ładunek przez ich środek"  #NT!
+ tactical_forest_battle.0011.f.success: "Nasz ładunek przebija ich środek! Ich formacja rozpada się pod wpływem uderzenia!"  #NT!
+ tactical_forest_battle.0011.f.failure: "Wróg trzyma się mocno, a nasza szarża nie może się przebić!"  #NT!
+  
+ # Event 0012 - Right Flank Engagement 
+ tactical_forest_battle.0012.t: "Walka na prawej flance"  #NT!
+ tactical_forest_battle.0012.desc: "Nasze siły atakują wrogów po lewej stronie, a gdy [right_flank_commander.GetTitledFirstNameOrMeRegnal] dowodzi prawą flanką, możemy odwrócić losy bitwy na naszą korzyść."  #NT!
+ tactical_forest_battle.0012.a: "Wykonaj zwodniczy odwrót na lewym skrzydle wrogów"  #NT!
+ tactical_forest_battle.0012.a.success: "Zwód się udał! Wróg przerywa formację, aby ścigać nasze uciekające wojska!"  #NT!
+ tactical_forest_battle.0012.a.succes.desc: "Zwód się udał! Wróg przerywa formację, aby ścigać nasze uciekające wojska!"  #NT!
+ tactical_forest_battle.0012.a.failure: "[enemy_commander.GetFirstName] widzi nasze oszustwa i wycofuje się, by zaatakować nasze centrum!"  #NT!
+ tactical_forest_battle.0012.b: "Wykonaj manewr flankujący na ich lewym skrzydle"  #NT!
+ tactical_forest_battle.0012.b.success: "Nasze siły flankujące omiatają ich lewą flankę, niszcząc ich spójność!"  #NT!
+ tactical_forest_battle.0012.b.failure: "[enemy_commander.GetFirstName] obraca rezerwy od lewej, aby wzmocnić!"  #NT!
+ tactical_forest_battle.0012.c: "Oderwij ukryte siły flankujące i powoli wycofaj się"  #NT!
+ tactical_forest_battle.0012.c.success: "Nasze siły flankujące skutecznie wycofują się i okrążają nacierający atak!"  #NT!
+ tactical_forest_battle.0012.c.failure: "Nasze flankujące siły zostają wykryte i wciągnięte do walki!"  #NT!
+ tactical_forest_battle.0012.d: "Zastosuj taktykę ataku i ucieczki na ich lewej flance"  #NT!
+ tactical_forest_battle.0012.d.success: "Nasza taktyka „uderz i uciekaj” zakłóca ich formację! Walczą o reorganizację!"  #NT!
+ tactical_forest_battle.0012.d.failure: "Wróg trzyma się mocno, a nasze siły nie mogą wykorzystać tej chwili!"  #NT!
+ tactical_forest_battle.0012.e: "Stwórz fałszywą lukę, zachęcając ich lewą stronę do szarży w pułapkę"  #NT!
+ tactical_forest_battle.0012.e.success: "Ich lewica zaczyna szarżować w szczelinę, wpadając w naszą pułapkę!"  #NT!
+ tactical_forest_battle.0012.e.failure: "Lewica nie bierze przynęty i utrzymuje dyscyplinę!"  #NT!
+  
+  
+  
+ # Event 8005 - Enemy Left Flank Routing 
+  
+ # Event 5750 - Begin to Fallback Center 
+ tactical_forest_battle.5750.t: "Rozpocznij od centrum awaryjnego"  #NT!
+ tactical_forest_battle.5750.desc: "Nasz środek wywiera na nas duży nacisk ze strony wroga i musimy zdecydować, czy się utrzymać, wycofać, czy kontratakować."  #NT!
+ tactical_forest_battle.5750.a: "Ładunek ataku MAA"  #NT!
+ tactical_forest_battle.5750.a.success: "Szarża MAA przerywa atak wroga!"  #NT!
+ tactical_forest_battle.5750.a.failure: "Ładunek MAA został odparty!"  #NT!
+ tactical_forest_battle.5750.b: "Szarża lewej flanki"  #NT!
+ tactical_forest_battle.5750.b.success: "Szarża lewej flanki zmniejsza ciśnienie!"  #NT!
+ tactical_forest_battle.5750.b.failure: "Szarża lewej flanki nie rozwija się!"  #NT!
+ tactical_forest_battle.5750.c: "Szarża odwrotu rycerzy"  #NT!
+ tactical_forest_battle.5750.c.success: "Rycerze szarżują, a wycofanie się powiodło!"  #NT!
+ tactical_forest_battle.5750.c.failure: "Szarża rycerzy nie powiodła się!"  #NT!
+ tactical_forest_battle.5750.d: "Rycerze wycofują się w zasadzkę"  #NT!
+ tactical_forest_battle.5750.d.success: "Wróg wpada w naszą zasadzkę!"  #NT!
+ tactical_forest_battle.5750.d.failure: "Wróg unika zasadzki!"  #NT!
+ tactical_forest_battle.5750.e: "Inspiruj żołnierzy"  #NT!
+ tactical_forest_battle.5750.e.success: "Żołnierze są zainspirowani i trzymają się mocno!"  #NT!
+ tactical_forest_battle.5750.e.failure: "Inspiracja nie chwyta!"  #NT!
+  
+ # Event 9251 - Enemy Is Retreating 
+  
+ # Event 0656 - Right Flank Reserves Intercepted 
+ tactical_forest_battle.0656.t: "Przechwycono rezerwy prawej flanki"  #NT!
+ tactical_forest_battle.0656.desc: "[enemy_commander.GetFirstNamePossessive] przechwycił nasze rezerwy prawej flanki! Musimy zdecydować, jak zareagować na to zagrożenie."  #NT!
+ tactical_forest_battle.0656.a: "Ostre pchnięcie w lewo"  #NT!
+ tactical_forest_battle.0656.a.success: "Zacięty atak na lewej flance powiódł się!"  #NT!
+ tactical_forest_battle.0656.a.failure: "Natarcie na lewą flankę nie rozwija się!"  #NT!
+ tactical_forest_battle.0656.b: "Udawać odwrót"  #NT!
+ tactical_forest_battle.0656.b.success: "Udawany odwrót wabi wroga w pułapkę!"  #NT!
+ tactical_forest_battle.0656.b.failure: "Odwrót staje się niekontrolowany!"  #NT!
+ tactical_forest_battle.0656.c: "Inspiruj żołnierzy"  #NT!
+ tactical_forest_battle.0656.c.success: "Żołnierze są zainspirowani i gromadzą się!"  #NT!
+ tactical_forest_battle.0656.c.failure: "Inspiracja trafia w próżnię!"  #NT!
+ tactical_forest_battle.0656.d: "Włącz odpowiednie rezerwy"  #NT!
+ tactical_forest_battle.0656.d.success: "Prawi rezerwowi odwracają się i kontratakują!"  #NT!
+ tactical_forest_battle.0656.d.failure: "Prawe rezerwy nie mogą manewrować!"  #NT!
+ tactical_forest_battle.0656.e: "Odciągnij się i zwab pułapkę"  #NT!
+ tactical_forest_battle.0656.e.success: "Wróg podąża w naszą pułapkę!"  #NT!
+ tactical_forest_battle.0656.e.failure: "Wróg unika pułapki!"  #NT!
+ tactical_forest_battle.0656.f: "Prawa flanka naciska do przodu"  #NT!
+ tactical_forest_battle.0656.f.success: "Prawa flanka przebija wroga!"  #NT!
+ tactical_forest_battle.0656.f.failure: "Prawa flanka opanowana!"  #NT!
+  
+  
+ # Event 7323 - Left Encircles (Outcomes) 
+ tactical_forest_battle.7323.t: "Prawa flanka jest otoczona!"  #NT!
+ tactical_forest_battle.7323.desc: "[left_flank_commander.GetTitledFirstName] pomyślnie otoczył [enemy_commander.GetFirstNamePossessive] prawą flankę! Tysiące żołnierzy wroga jest teraz uwięzionych, odciętych od odwrotu i posiłków. [enemy_commander.GetTitledFirstName] bezradnie patrzy, jak ich uwięzione siły stają w obliczu zagłady. Musimy zadecydować o ich losie – czy okażemy im łaskę honorowego poddania się, czy też całkowicie ich zniszczymy jako przykład?"  #NT!
+ tactical_forest_battle.7323.a: "Rozpocznij rzeź!"  #NT!
+ tactical_forest_battle.7323.a.success: "[left_flank_commander.GetTitledFirstName] prowadzi atak na uwięzione siły!"  #NT!
+ tactical_forest_battle.7323.a.failure: "Uwięzione siły organizują desperacką ucieczkę i wielu ucieka!"  #NT!
+ tactical_forest_battle.7323.b: "Weź jeńców!"  #NT!
+ tactical_forest_battle.7323.b.success: "Uwięzione siły poddają się i stają się jeńcami wojennymi!"  #NT!
+ tactical_forest_battle.7323.b.failure: "Wiele uwięzionych sił odmawia poddania się i walki na śmierć i życie!"  #NT!
+  
+  # Event 9466 - Their Center is Shocked 
+ tactical_forest_battle.9466.t: "Oskrzydlony i zdezorientowany"  #NT!
+ tactical_forest_battle.9466.desc: "[enemy_commander.GetTitledFirstNamePossessiveOrMy] środkowy jest w szoku! Panika to doskonała okazja! Jeśli uda nam się tu przebić, możemy zaatakować centrum."  #NT!
+ tactical_forest_battle.9466.a: "Udawaj odwrót i zwróć się przeciwko prześladowcom"  #NT!
+ tactical_forest_battle.9466.a.success: "[center_flank_commander.GetFullNameNicknamedPossessiveOrMy] udaj odwrót i wbij się w ich środek!"  #NT!
+ tactical_forest_battle.9466.a.failure: "Wróg reorganizuje się i pozostaje niezmienny!"  #NT!
+ tactical_forest_battle.9466.b: "Koordynuj szarżę z naszymi rycerzami"  #NT!
+ tactical_forest_battle.9466.b.success: "Nasz połączony ładunek uderza w ich środek"  #NT!
+ tactical_forest_battle.9466.b.failure: "Wróg niewzruszenie stawia czoła naszym atakom!"  #NT!
+ tactical_forest_battle.9466.c: "Współpracuj z naszymi pułkami cracku, aby zaatakować ich prawą stronę"  #NT!
+ tactical_forest_battle.9466.c.success: "Nasz połączony atak powoduje chaos w ich centrum!"  #NT!
+ tactical_forest_battle.9466.c.failure: "Wróg ma czas na ustanowienie nowej linii obrony!"  #NT!
+ tactical_forest_battle.9466.d: "Naciśnij przewagę z pełną siłą"  #NT!
+ tactical_forest_battle.9466.d.success: "Naciskamy na ich środek!"  #NT!
+ tactical_forest_battle.9466.d.failure: "Wróg trzyma się pomimo nacisku!"  #NT!
+ tactical_forest_battle.9466.e: "[center_flank_commander.GetTitledFirstNameOrMeRegnal] szarżuje, by zmiażdżyć ich środek!"  #NT!
+ tactical_forest_battle.9466.e.success: "Nasza szarża niszczy spójność wroga!"  #NT!
+ tactical_forest_battle.9466.e.failure: "Trzymają się mocno i nie możemy się przebić!"  #NT!
+  
+ # Event .220 - Left Begins Encircle 
+ tactical_forest_battle.220.t: "Lewa flanka rozpoczyna okrążenie"  #NT!
+ tactical_forest_battle.220.desc: "Siła [left_flank_commander.GetTitledFirstNamePossessiveOrMy] wyciekła za linie wroga. Musimy wykorzystać tę przewagę, zanim przybędzie [enemy_commander.GetFirstNamePossessive] posiłków. Ludzie wierzą, że wystarczająco długie zwlekanie pozwoli im otoczyć wroga."  #NT!
+ tactical_forest_battle.220.a: "Kleszcze z prawą flanką!"  #NT!
+ tactical_forest_battle.220.a.success: "[left_flank_commander.GetTitledFirstName] i nasza prawa flanka koordynują niszczycielski ruch szczypiec!"  #NT!
+ tactical_forest_battle.220.a.failure: "Koordynacja między flankami zostaje zerwana, a wróg ucieka przed szczypcami!"  #NT!
+ tactical_forest_battle.220.b: "Wyślij naszych rycerzy, żeby mieli zajęcie!"  #NT!
+ tactical_forest_battle.220.b.success: "Nasi rycerze są zaangażowani, odwracając ich uwagę od otaczających wrogów!"  #NT!
+ tactical_forest_battle.220.b.failure: "Wróg widzi otaczającą siłę!"  #NT!
+ tactical_forest_battle.220.c: "Wyślij nasze jednostki cracku, żeby byli zajęci"  #NT!
+ tactical_forest_battle.220.c.success: "Nasze jednostki cracku nawiązują kontakt z wrogiem, umożliwiając kontynuację okrążenia!"  #NT!
+ tactical_forest_battle.220.c.failure: "Wróg przegrupowuje się i odpiera nasze jednostki!"  #NT!
+ tactical_forest_battle.220.d: "Uformuj kowadło, podczas gdy wyciekające siły atakują od tyłu"  #NT!
+ tactical_forest_battle.220.d.success: "[center_flank_commander.GetTitledFirstName] prawa flanka zostaje rozbita pomiędzy dwiema siłami!"  #NT!
+ tactical_forest_battle.220.d.failure: "Ich prawo jest na razie mocne!"  #NT!
+ tactical_forest_battle.220.e: "Zainspiruj nasze wojska do cięższej walki, aż do całkowitego okrążenia"  #NT!
+ tactical_forest_battle.220.e.success: "[center_flank_commander.GetTitledFirstName] prawa flanka zostaje rozbita pomiędzy dwiema siłami!"  #NT!
+ tactical_forest_battle.220.e.failure: "Ich prawo jest na razie mocne!"  #NT!
+  
+  
+ tactical_forest_battle.221.t: "Prawa flanka rozpoczyna okrążenie"  #NT!
+ tactical_forest_battle.221.desc: "Siła [right_flank_commander.GetTitledFirstNamePossessiveOrMy] wyciekła za linie wroga. Musimy wykorzystać tę przewagę, zanim przybędzie [enemy_commander.GetFirstNamePossessive] posiłków. Ludzie wierzą, że wystarczająco długie zwlekanie pozwoli im otoczyć wroga."  #NT!
+ tactical_forest_battle.221.a: "Szczypce z lewą!"  #NT!
+ tactical_forest_battle.221.a.success: "[right_flank_commander.GetTitledFirstName] i nasza lewa flanka koordynują niszczycielski ruch szczypiec!"  #NT!
+ tactical_forest_battle.221.a.failure: "Koordynacja między flankami zostaje zerwana, a wróg ucieka przed szczypcami!"  #NT!
+ tactical_forest_battle.221.b: "Wyślij naszych rycerzy, żeby mieli zajęcie!"  #NT!
+ tactical_forest_battle.221.b.success: "Nasi rycerze są zaangażowani, odwracając ich uwagę od otaczających wrogów!"  #NT!
+ tactical_forest_battle.221.b.failure: "Wróg widzi otaczającą siłę!"  #NT!
+ tactical_forest_battle.221.c: "Wyślij nasze jednostki cracku, żeby byli zajęci"  #NT!
+ tactical_forest_battle.221.c.success: "Nasze jednostki cracku nawiązują kontakt z wrogiem, umożliwiając kontynuację okrążenia!"  #NT!
+ tactical_forest_battle.221.c.failure: "Wróg przegrupowuje się i odpiera nasze jednostki!"  #NT!
+ tactical_forest_battle.221.d: "Uformuj kowadło, podczas gdy wyciekające siły atakują od tyłu"  #NT!
+ tactical_forest_battle.221.d.success: "[center_flank_commander.GetTitledFirstName] lewa flanka zostaje rozbita pomiędzy dwiema siłami!"  #NT!
+ tactical_forest_battle.221.d.failure: "Ich lewica jest na razie silna!"  #NT!
+ tactical_forest_battle.221.e: "Zainspiruj nasze wojska do cięższej walki, aż do całkowitego okrążenia"  #NT!
+ tactical_forest_battle.221.e.success: "[center_flank_commander.GetTitledFirstName] lewa flanka zostaje rozbita pomiędzy dwiema siłami!"  #NT!
+ tactical_forest_battle.221.e.failure: "Ich lewica jest na razie silna!"  #NT!
+  
+  
+ appoint_left_flank_interaction: "Mianuj dowódcę lewej flanki"  #NT!
+ appoint_center_flank_interaction: "Wyznacz dowódcę flanki w Centrum"  #NT!
+ appoint_right_flank_interaction: "Mianuj dowódcę prawej flanki"  #NT!
+ remove_left_flank_interaction: "Usuń dowódcę lewej flanki"  #NT!
+ remove_center_flank_interaction: "Usuń dowódcę środkowej flanki"  #NT!
+ remove_right_flank_interaction: "Usuń dowódcę prawej flanki"  #NT!
+ appoint_center_flank_interaction_desc: "Przydziel dowódcę, który poprowadzi środkową flankę w nadchodzącej bitwie."  #NT!
+ appoint_left_flank_interaction_desc: "Przydziel dowódcę, który poprowadzi lewą flankę w nadchodzącej bitwie."  #NT!
+ appoint_right_flank_interaction_desc: "Przydziel dowódcę, który poprowadzi prawą flankę w nadchodzącej bitwie."  #NT!
+ remove_center_flank_interaction_desc: "Zwolnij obecnego dowódcę środkowej flanki z obowiązków."  #NT!
+ remove_left_flank_interaction_desc: "Zwolnij obecnego dowódcę lewej flanki z obowiązków."  #NT!
+ remove_right_flank_interaction_desc: "Zwolnij obecnego dowódcę prawej flanki z obowiązków."  #NT!
+  
+ # Flank Commanders Tab 
+ MV_FLANK_COMMANDERS: "Dowódcy flanki"  #NT!
+ LEFT_FLANK_COMMANDER: "Dowódca lewej flanki"  #NT!
+ CENTER_FLANK_COMMANDER: "Dowódca środkowej flanki"  #NT!
+ RIGHT_FLANK_COMMANDER: "Dowódca prawej flanki"  #NT!
+ NO_ASSIGNMENT: "Żadnego zadania"  #NT!
+  

@@ -1,0 +1,703 @@
+﻿l_french:
+  
+ give_center_commander_martial_toast: "[center_flank_commander.GetFullNameNicknamed] augmentations de capacités !"
+ give_center_commander_martial_toast_desc: "La capacité tactique de [center_flank_commander.GetFullNameNicknamed] s'est améliorée après avoir résisté à un commandant habile !"
+ give_left_commander_martial_toast: "[left_flank_commander.GetFullNameNicknamed] augmentations de capacités !"
+ give_left_commander_martial_toast_desc: "La capacité tactique de [left_flank_commander.GetFullNameNicknamed] s'est améliorée après avoir résisté à un commandant habile !"
+ give_right_commander_martial_toast: "[right_flank_commander.GetFullNameNicknamed] augmentations de capacités !"
+ give_right_commander_martial_toast_desc: "La capacité tactique de [right_flank_commander.GetFullNameNicknamed] s'est améliorée après avoir résisté à un commandant habile !"
+ tbatt_battle_event_in_battle_friendly_player: "Vous avez été impliqué [TARGET_CHARACTER.GetUINameNoTooltip] après la bataille !"
+ tbatt_battle_event_in_battle_friendly_player: "Vous avez capturé [TARGET_CHARACTER.GetUINameNoTooltip] après la bataille !"
+ tbatt_battle_event_in_battle_friendly: "[CHARACTER.GetUINameNoTooltip] a capturé [TARGET_CHARACTER.GetUINameNoTooltip] après la bataille !"
+ tbatt_battle_event_in_battle_enemy_player: "Vous avez été capturé par [CHARACTER.GetUINameNoTooltip] après la bataille !"
+ tbatt_battle_event_in_battle_enemy: "[TARGET_CHARACTER.GetUINameNoTooltip] a été capturé par [CHARACTER.GetUINameNoTooltip] après la bataille !"
+  
+ tactical_knight_commander_killer_commander: "Commandant tueur"
+ tactical_knight_commander_killer_troops: "Leur commandant est mort"
+ tactical_knight_commander_killer_enemy_commander: "Nous avons perdu notre flanc"
+ tactical_knight_commander_killer_enemy_troops: "Commandant mort"
+ tactical_knight_captured_commander_commander: "Commandant capturé"
+ tactical_knight_captured_commander_troops: "Leur commandant est le nôtre"
+ tactical_knight_captured_commander_enemy_commander: "Entre les mains des ennemis"
+ tactical_knight_captured_commander_enemy_troops: "Commandant capturé"
+  
+  
+ tactical_forest_battle.0061.t: "Le destin de [sc_loser.GetFullNameNicknamed]"
+ tactical_forest_battle.0061.desc: "Avec mon dernier coup, [sc_loser.GetFirstName] tombe à genoux, ensanglanté et battu. Tandis que le champ de bataille autour de moi fait rage, [sc_loser.GetTitledFirstNamePossessive] me regarde avec un mélange de défi et de résignation. Le moment est venu de décider du sort de [sc_loser.GetHerHis]."
+ tactical_forest_battle.0061.a: "Tuer [sc_loser.GetFirstName]"
+ tactical_forest_battle.0061.a.success: "[sc_loser.GetFirstName] rencontre la fin [sc_loser.GetHerHis] sur le champ de bataille."
+ tactical_forest_battle.0061.b: "Capturer [sc_loser.GetFirstName]"
+ tactical_forest_battle.0061.b.success: "[sc_loser.GetFirstName] est fait prisonnier."
+ tactical_forest_battle.0061.c: "Prenez l'œil [sc_loser.GetFirstNamePossessive] et relâchez le destin [sc_loser.GetHerHim] vers [sc_loser.GetHerHis]."
+ tactical_forest_battle.0061.c.success: "L'aveuglement [sc_loser.GetFirstName] assure la survie de [sc_loser.GetHerHis], mais à un coût élevé."
+ tactical_forest_battle.0061.d: "Laissez [sc_loser.GetFirstName] marqué de façon permanente et libérez le destin de [sc_loser.GetHerHim] à [sc_loser.GetHerHis]."
+ tactical_forest_battle.0061.d.success: "Les cicatrices serviront de rappel durable de la défaite de [sc_loser.GetFirstNamePossessive]."
+ tactical_forest_battle.0061.e: "Mutiler [sc_loser.GetFirstName] et libérer le destin de [sc_loser.GetHerHim] à [sc_loser.GetHerHis]"
+ tactical_forest_battle.0061.e.success: "[sc_loser.GetFirstName] portera le fardeau des blessures de [sc_loser.GetHerHis] pour le reste de sa vie [sc_loser.GetHerHis]."
+  
+  
+ # Event 0005 - First tactical decision (Forest) 
+ tactical_forest_battle.0005.t: "Combattez dans le [battle_location.GetProvince.GetTerrain.GetName|l] du [battle_location.GetProvince.GetName]"
+ tactical_forest_battle.0005.desc: "Alors qu'il combat pour [fighting_war.GetName] contre [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal], mon armée s'affronte dans le [battle_location.GetProvince.GetTerrain.GetName|l] de [battle_location.GetProvince.GetName] contre les forces de [enemy_war_leader.GetFullNameNicknamedOrMeRegnal]. Nos éclaireurs rapportent que [enemy_commander.GetFullNameNicknamedOrMeRegnal] est au commandement. En tant que commandant, je dois choisir notre mouvement pour vaincre le [enemy_commander.GetTitleTierName]."
+ tactical_forest_battle.0005.a: "Concentrez-vous sur le flanc gauche ([left_flank_commander.GetSkill( 'martial' )]#! [martial|E] [left_flank_commander.GetTitledFirstNameOrMe] vs [enemy_right_flank_commander.GetTitledFirstNameNicknamedRegnal] [enemy_right_flank_commander.GetSkill( 'martial' )]#! [martial|E])"
+ tactical_forest_battle.0005.b: "Concentrez-vous sur le centre ([center_flank_commander.GetSkill( 'martial' )]#! [martial|E] [center_flank_commander.GetTitledFirstNameOrMe] vs [enemy_center_flank_commander.GetTitledFirstNameNicknamedRegnal] [enemy_center_flank_commander.GetSkill( 'martial' )]#! [martial|E])"
+ tactical_forest_battle.0005.c: "Concentrez-vous sur le flanc droit ([right_flank_commander.GetSkill( 'martial' )]#! [martial|E] [right_flank_commander.GetTitledFirstNameOrMe] vs [enemy_left_flank_commander.GetTitledFirstNameNicknamedRegnal] [enemy_left_flank_commander.GetSkill( 'martial' )]#! [martial|E])"
+ tactical_forest_battle.0005.d: "Tiens mes chevaliers en réserve"
+ tactical_forest_battle.0005.d.success: "Mes chevaliers sont parfaitement positionnés pour exploiter n'importe quelle ouverture !"
+ tactical_forest_battle.0005.d.failure: "La bataille se déroule trop rapidement et mes chevaliers se retrouvent hors de position."
+ tactical_forest_battle.0005.e: "Focus sur nos unités d'élite à distance"
+ tactical_forest_battle.0005.f: "Focus sur notre cavalerie d'élite"
+ tactical_forest_battle.0005.n: "Chargez leur commandant !"
+ tactical_forest_battle.0005.n.success: "[left_flank_commander.GetFullNameNicknamedOrMe] duels [enemy_right_flank_commander.GetFullNameNicknamed]"
+ tactical_forest_battle.0005.n.failure: "Notre charge est incapable de percer !"
+ tactical_forest_battle.0005.kc: "Victoire en duel !"
+ tactical_forest_battle.0005.kc.success: "[left_flank_commander.GetFullNameNicknamed] a tué [enemy_right_flank_commander.GetFullNameNicknamed] en combat singulier, démoralisant ses troupes !"
+ tactical_forest_battle.0005.cc: "Victoire en duel !"
+ tactical_forest_battle.0005.cc.success: "[left_flank_commander.GetFullNameNicknamed] a capturé [enemy_right_flank_commander.GetFullNameNicknamed] après avoir vaincu [enemy_right_flank_commander.GetHerHim] en combat singulier, démoralisant ses troupes !"
+ tactical_forest_battle.0005.ld: "Vaincu en Duel !"
+ tactical_forest_battle.0005.ld.failure: "[left_flank_commander.GetFullNameNicknamed] a été vaincu par [enemy_right_flank_commander.GetFullNameNicknamed] après avoir encerclé [enemy_right_flank_commander.GetFirstName] ! au combat !"
+ tactical_forest_battle.0005.ldk: "Tué en Duel !"
+ tactical_forest_battle.0005.ldk.failure: "[left_flank_commander.GetFullNameNicknamed] a été tué par [enemy_right_flank_commander.GetFullNameNicknamed] après avoir encerclé [enemy_right_flank_commander.GetFirstName] au combat !"
+ tactical_forest_battle.0005.j: "Chargez [enemy_right_flank_commander.GetFullNameNicknamed] !"
+ tactical_forest_battle.0005.j.failure: "[left_flank_commander.GetFullNameNicknamed] n'a pas pu passer à [enemy_right_flank_commander.GetFullNameNicknamed]"
+ tactical_forest_battle.0005.dtt.success: "Notre flanc charge et encercle [enemy_right_flank_commander.GetFirstName]"
+ # Event 0110 - Cavalry Feint SUCCESS Follow-up: Trap Sprung 
+ tactical_forest_battle.0110.t: "Le piège est ouvert !"
+ tactical_forest_battle.0110.desc: "[left_flank_commander.GetTitledFirstNamePossessive] feinte a parfaitement fonctionné ! [enemy_commander.GetFirstNamePossessive] commandes à tenir ont été noyées, et [enemy_commander.GetHerHis] avant-garde ont rompu la formation pour mordre à l'hameçon. Le côté droit de leur ligne est désormais étiré et désorganisé."
+ tactical_forest_battle.0110.a: "[left_flank_commander.GetTitledFirstName] mène l'armée désorganisée dans un piège de nos unités d'élite"
+ tactical_forest_battle.0110.a.success: "[enemy_commander.GetFirstNamePossessive] le côté droit suit [left_flank_commander.GetFirstNamePossessive] les forces en fuite directement dans une embuscade !"
+ tactical_forest_battle.0110.a.failure: "La droite ne mord pas à l'hameçon et maintient sa position, faisant tourner les unités pour soutenir les autres flancs."
+ tactical_forest_battle.0110.b: "Envoyez des chevaliers écraser leur flanc trop étendu"
+ tactical_forest_battle.0110.b.success: "Les chevaliers s'écrasent sur le flanc exposé de l'ennemi, brisant leur formation !"
+ tactical_forest_battle.0110.b.failure: "L'ennemi se réorganise rapidement et se retourne contre nos chevaliers"
+ tactical_forest_battle.0110.c: "Séparez les forces du flanc [right_flank_commander.GetTitledFirstNamePossessive] pour encercler leurs unités attirées."
+ tactical_forest_battle.0110.c.success: "[right_flank_commander.GetTitledFirstName] réussit à encercler les unités ennemies, leur coupant ainsi la retraite !"
+ tactical_forest_battle.0110.c.failure: "L'ennemi mène une charge dévastatrice sur notre flanc droit épuisé."
+ tactical_forest_battle.0110.d: "Faites pivoter [center_flank_commander.GetFirstNamePossessive] réserves pour encercler les unités attirées"
+ tactical_forest_battle.0110.d.success: "Les réserves se déplacent rapidement et sont en mesure d'encercler"
+ tactical_forest_battle.0110.d.failure: "[enemy_commander.GetFirstNamePossessive] reconnaît notre centre épuisé !"
+ tactical_forest_battle.0110.e: "Tournez et tuez les unités attirées avec une charge complète"
+ tactical_forest_battle.0110.e.success: "La charge complète surprend l’ennemi !"
+ tactical_forest_battle.0110.e.failure: "L'ennemi reste inébranlable et repousse notre charge !"
+  
+  
+ # ============================================ 
+ # EVENT 9474 - Rally Army After Being Pressured 
+ # ============================================ 
+  
+ tactical_forest_battle.9474.t: "Rassembler l'armée"
+ tactical_forest_battle.9474.desc: "La bataille à gauche a atteint un point critique. Nos forces vacillent mais ne sont pas encore brisées. Avec un leadership fort et des actions audacieuses, nous pouvons rétablir l’ordre et renverser la situation !"
+ tactical_forest_battle.9474.a: "La gauche appuie sur l'attaque"
+ tactical_forest_battle.9474.a.success: "Notre armée entend l’appel et se mobilise !"
+ tactical_forest_battle.9474.a.failure: "L'armée continue de vaciller !"
+ tactical_forest_battle.9474.b: "Feignez une retraite pour attirer l'ennemi et contre-attaquer."
+ tactical_forest_battle.9474.b.success: "La contre-attaque réussit et le moral s'envole !"
+ tactical_forest_battle.9474.b.failure: "La contre-attaque échoue et le moral s'effondre !"
+ tactical_forest_battle.9474.c: "Le centre charge durement pour alléger la pression"
+ tactical_forest_battle.9474.c.success: "La charge désoriente leur flanc droit !"
+ tactical_forest_battle.9474.c.failure: "L'ennemi reste inébranlable !"
+ tactical_forest_battle.9474.d: "Le flanc droit charge vigoureusement pour alléger la pression"
+ tactical_forest_battle.9474.d.success: "La charge désoriente leur flanc gauche !"
+ tactical_forest_battle.9474.d.failure: "L'ennemi reste inébranlable !"
+ tactical_forest_battle.9474.e: "Envoyez des chevaliers en renfort"
+ tactical_forest_battle.9474.e.success: "Les réserves arrivent et renforcent la ligne !"
+ tactical_forest_battle.9474.e.failure: "Les réserves sont trop dispersées pour aider !"
+ tactical_forest_battle.9474.f: "Envoyez des unités d'élite d'élite en renfort"
+ tactical_forest_battle.9474.f.success: "Nos unités d'élite sèment le chaos parmi l'ennemi !"
+ tactical_forest_battle.9474.f.failure: "Nos unités de crack sont débordées !"
+  
+ # ============================================ 
+ # EVENT 0650 - Right Flank Reserves Intercept 
+ # ============================================ 
+ tactical_forest_battle.0650.t: "Le flanc droit intercepte le mouvement ennemi"
+ tactical_forest_battle.0650.desc: "Nos réserves du flanc droit ont détecté [enemy_commander.GetFirstNamePossessive] forces tentant de manœuvrer contre notre position. Nous disposons d’une brève fenêtre pour agir avant que l’ennemi ne termine son mouvement."
+  
+ tactical_forest_battle.0650.a: "Lancer une poussée féroce par le flanc droit"
+ tactical_forest_battle.0650.a.success: "Le flanc droit porte un coup dévastateur, effondrant le côté droit de l'ennemi !"
+ tactical_forest_battle.0650.a.failure: "La poussée est repoussée et l’ennemi prend l’initiative !"
+  
+ tactical_forest_battle.0650.b: "Faites rouler le flanc gauche pour attaquer par derrière"
+ tactical_forest_battle.0650.b.success: "Notre manœuvre de roue attrape l'ennemi dans un feu croisé dévastateur !"
+ tactical_forest_battle.0650.b.failure: "La manœuvre de flanc est détectée et perturbée par les contre-attaques ennemies !"
+  
+ tactical_forest_battle.0650.c: "Inspirez les troupes avec un appel de ralliement audacieux"
+ tactical_forest_battle.0650.c.success: "Les troupes sont inspirées et repoussent l’avancée ennemie !"
+ tactical_forest_battle.0650.c.failure: "Notre appel à la mobilisation reste lettre morte et l’armée continue de perdre du terrain !"
+  
+ tactical_forest_battle.0650.d: "Activez les bonnes réserves et créez la confusion"
+ tactical_forest_battle.0650.d.success: "Les réserves créent suffisamment de confusion pour que nous puissions nous repositionner favorablement !"
+ tactical_forest_battle.0650.d.failure: "L’intrigue se retourne contre nous et l’ennemi exploite notre confusion !"
+  
+ tactical_forest_battle.0650.e: "Envoyez des chevaliers pour renforcer le flanc droit"
+ tactical_forest_battle.0650.e.success: "Les chevaliers renforcent le flanc et sécurisent la position !"
+ tactical_forest_battle.0650.e.failure: "Les chevaliers sont isolés et encerclés par un nombre supérieur d'ennemis !"
+  
+ tact_duel_kills_commander_desc: "#alert_trial [left_flank_commander.GetFirstName] tue l'ennemi [enemy_right_flank_commander.GetFirstName] au combat#!"
+ tact_duel_capture_desc: "#alert_trial [left_flank_commander.GetFirstName] bat l'ennemi [enemy_right_flank_commander.GetFirstName] au combat#!"
+ tact_duel_loses_desc: "#alert_trial [enemy_right_flank_commander.GetFirstName] bat notre chevalier [left_flank_commander.GetFirstName] au combat#!"
+ tact_duel_dies_desc: "#alert_trial [enemy_right_flank_commander.GetFirstName] tue notre chevalier [left_flank_commander.GetFirstName] au combat#!"
+ tact_duel_lost_injury_tt: "Pourrait être grièvement blessé !"
+ tact_duel_captured_tt: "[enemy_right_flank_commander.GetFirstName] sera capturé après la bataille"
+ tactical_knight_lost_commander_tt: "#alert_trial Le flanc de l'ennemi est ébranlé par la perte de son commandant. #!"
+ tactical_our_charge_was_routed_tt: "#alert_trial L'ennemi absorbe notre charge et se reforme#!"
+ tactical_our_commander_was_lost_tt: "Notre Charge est absorbée et nous avons perdu le commandant de nos flancs !"
+  
+ tact_right_duel_kills_commander_desc: "#alert_trial [right_flank_commander.GetFirstName] tue l'ennemi [enemy_left_flank_commander.GetFirstName] au combat#!"
+ tact_right_duel_capture_desc: "#alert_trial [right_flank_commander.GetFirstName] bat l'ennemi [enemy_left_flank_commander.GetFirstName] au combat#!"
+ tact_right_duel_loses_desc: "#alert_trial [enemy_left_flank_commander.GetFirstName] bat notre chevalier [right_flank_commander.GetFirstName] au combat#!"
+ tact_right_duel_dies_desc: "#alert_trial [enemy_left_flank_commander.GetFirstName] tue notre chevalier [right_flank_commander.GetFirstName] au combat#!"
+ tact_right_duel_lost_injury_tt: "Pourrait être grièvement blessé !"
+ tact_right_duel_captured_tt: "[enemy_center_flank_commander.GetFirstName] sera capturé après la bataille"
+ tactical_knight_lost_commander_tt: "#alert_trial Le flanc de l'ennemi est ébranlé par la perte de son commandant. #!"
+ tactical_our_charge_was_routed_tt: "#alert_trial L'ennemi absorbe notre charge et se reforme#!"
+ tactical_our_commander_was_lost_tt: "Notre Charge est absorbée et nous avons perdu le commandant de nos flancs !"
+  
+ tact_center_duel_kills_commander_desc: "#alert_trial [center_flank_commander.GetFirstName] tue l'ennemi [enemy_center_flank_commander.GetFirstName] au combat#!"
+ tact_center_duel_capture_desc: "#alert_trial [center_flank_commander.GetFirstName] bat l'ennemi [enemy_center_flank_commander.GetFirstName] au combat#!"
+ tact_center_duel_loses_desc: "#alert_trial [enemy_center_flank_commander.GetFirstName] bat notre chevalier [center_flank_commander.GetFirstName] au combat#!"
+ tact_center_duel_dies_desc: "#alert_trial [enemy_center_flank_commander.GetFirstName] tue notre chevalier [center_flank_commander.GetFirstName] au combat#!"
+ tact_center_duel_lost_injury_tt: "Pourrait être grièvement blessé !"
+ tact_center_duel_captured_tt: "[enemy_center_flank_commander.GetFirstName] sera capturé après la bataille"
+ tactical_knight_lost_commander_tt: "#alert_trial Le flanc de l'ennemi est ébranlé par la perte de son commandant. #!"
+ tactical_our_charge_was_routed_tt: "#alert_trial L'ennemi absorbe notre charge et se reforme#!"
+ tactical_our_commander_was_lost_tt: "Notre charge est absorbée et nous perdons le commandant de nos flancs !"
+  
+  
+ trait_lifestyle_battlefield_veteran: "Vétéran du champ de bataille"
+ lifestyle_battlefield_veteran_desc: "Ce personnage possède une vaste expérience du combat, ayant survécu à de nombreux engagements et tiré de précieuses leçons de ses expériences."
+ lifestyle_battlefield_veteran_character_desc: "[ROOT.Char.GetFullNameNicknamed] possède une vaste expérience du combat, ayant survécu à de nombreux engagements et tiré de précieuses leçons de ses expériences."
+ trait_track_kills: "Preneur de vies"
+ trait_track_kills_desc: "Ce personnage a coûté la vie à des ennemis sur le champ de bataille."
+ trait_track_maims: "Maimer"
+ trait_track_maims_desc: "Ce personnage a définitivement défiguré les ennemis sur le champ de bataille."
+ trait_track_wounds: "Donateur de cicatrices"
+ trait_track_wounds_desc: "Ce personnage a infligé des blessures permanentes aux ennemis sur le champ de bataille."
+ trait_track_wins: "Duelliste"
+ trait_track_wins_desc: "Ce personnage a remporté de nombreux duels sur le champ de bataille."
+  
+ # ============================================ 
+ # EVENT 9476 - Rally Army 
+ tactical_forest_battle.9476.t: "Rassembler l'armée"
+ tactical_forest_battle.9476.desc: "La bataille à droite a atteint un point critique. Nos forces vacillent mais ne sont pas encore brisées. Avec un leadership fort et des actions audacieuses, nous pouvons rétablir l’ordre et renverser la situation !"
+ tactical_forest_battle.9476.a: "La droite appuie sur l'attaque"
+ tactical_forest_battle.9476.a.success: "Notre armée entend l’appel et se mobilise !"
+ tactical_forest_battle.9476.a.failure: "L'armée continue de vaciller !"
+ tactical_forest_battle.9476.b: "Feignez une retraite pour attirer l'ennemi et contre-attaquer."
+ tactical_forest_battle.9476.b.success: "La contre-attaque réussit et le moral s'envole !"
+ tactical_forest_battle.9476.b.failure: "La contre-attaque échoue et le moral s'effondre !"
+ tactical_forest_battle.9476.c: "Le centre charge durement pour alléger la pression"
+ tactical_forest_battle.9476.c.success: "La charge désoriente leur flanc droit !"
+ tactical_forest_battle.9476.c.failure: "L'ennemi reste inébranlable !"
+ tactical_forest_battle.9476.d: "Le flanc gauche charge avec force pour relâcher la pression"
+ tactical_forest_battle.9476.d.success: "La charge désoriente leur flanc gauche !"
+ tactical_forest_battle.9476.d.failure: "L'ennemi reste inébranlable !"
+ tactical_forest_battle.9476.e: "Envoyez des chevaliers en renfort"
+ tactical_forest_battle.9476.e.success: "Les réserves arrivent et renforcent la ligne !"
+ tactical_forest_battle.9476.e.failure: "Les réserves sont trop dispersées pour aider !"
+ tactical_forest_battle.9476.f: "Envoyez des unités d'élite d'élite en renfort"
+ tactical_forest_battle.9476.f.success: "Nos unités d'élite sèment le chaos parmi l'ennemi !"
+ tactical_forest_battle.9476.f.failure: "Nos unités de crack sont débordées !"
+  
+ # ============================================ 
+ # EVENT 8010 - Broken Left Flank Exposed Center 
+ # ============================================ 
+ tactical_forest_battle.8010.t: "Centre exposé !"
+ tactical_forest_battle.8010.desc: "Ce qui reste du flanc gauche [enemy_commander.GetFirstNamePossessive] bat en retraite ! Nous avons une opportunité cruciale de les poursuivre et de les détruire avant qu’ils ne puissent se regrouper !"
+ tactical_forest_battle.8010.a: "Allumez le flanc de leur centre"
+ tactical_forest_battle.8010.a.success: "[right_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] se retourne et se dirige vers le flanc de son centre !"
+ tactical_forest_battle.8010.a.failure: "Le flanc droit s’enlise"
+ tactical_forest_battle.8010.b: "Capturer des prisonniers"
+ tactical_forest_battle.8010.b.success: "Nous capturons de nombreux prisonniers !"
+ tactical_forest_battle.8010.b.failure: "Les prisonniers s'échappent !"
+ tactical_forest_battle.8010.c: "Envoyez les chevaliers s'écraser sur le flanc exposé de leur centre."
+ tactical_forest_battle.8010.c.success: "La charge des chevaliers fait des ravages"
+ tactical_forest_battle.8010.c.failure: "La charge des chevaliers est absorbée"
+ tactical_forest_battle.8010.d: "Envoyez nos unités d'élite d'élite s'écraser sur le flanc exposé de leur centre."
+ tactical_forest_battle.8010.d.success: "Nos unités d'élite d'élite détruisent les approvisionnements ennemis !"
+ tactical_forest_battle.8010.d.failure: "Nos unités d'élite ne parviennent pas à localiser les fournitures !"
+  
+ tactical_forest_battle.8035.t: "Centre exposé !"
+ tactical_forest_battle.8035.desc: "Ce qui reste du flanc droit [enemy_commander.GetFirstNamePossessive] recule ! Nous avons une opportunité cruciale de les poursuivre et de les détruire avant qu’ils ne puissent se regrouper !"
+ tactical_forest_battle.8035.a: "Allumez le flanc de leur centre"
+ tactical_forest_battle.8035.a.success: "[left_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] se retourne et se dirige vers le flanc de son centre !"
+ tactical_forest_battle.8035.a.failure: "Le flanc gauche s’enlise"
+ tactical_forest_battle.8035.b: "Capturer des prisonniers"
+ tactical_forest_battle.8035.b.success: "Nous capturons de nombreux prisonniers !"
+ tactical_forest_battle.8035.b.failure: "Les prisonniers s'échappent !"
+ tactical_forest_battle.8035.c: "Envoyez les chevaliers s'écraser sur le flanc exposé de leur centre."
+ tactical_forest_battle.8035.c.success: "La charge des chevaliers fait des ravages"
+ tactical_forest_battle.8035.c.failure: "La charge des chevaliers est absorbée"
+ tactical_forest_battle.8035.d: "Envoyez nos unités d'élite d'élite s'écraser sur le flanc exposé de leur centre."
+ tactical_forest_battle.8035.d.success: "Nos unités de crack allument leur centre exposé !"
+ tactical_forest_battle.8035.d.failure: "Nos unités d'élite s'enlisent"
+ # ============================================ 
+ # EVENT 7324 - Enemy Reorganizes Turns to Meet our center 
+  
+  
+ tactical_forest_battle.7324.t: "L'ennemi frappe le flanc central"
+ tactical_forest_battle.7324.desc: "[enemy_commander.GetFirstNamePossessive] a reconnu notre flanc central affaibli et lance un assaut. Sans nos réserves, nous prenons la décision cruciale de conserver notre flanc central."
+ tactical_forest_battle.7324.a: "le flanc central résiste à l'assaut"
+ tactical_forest_battle.7324.a.success: "Notre flanc central tient bon face à l’assaut ennemi !"
+ tactical_forest_battle.7324.a.failure: "Le flanc central est débordé et commence à faiblir !"
+ tactical_forest_battle.7324.b: "Envoyez des chevaliers pour renforcer le centre"
+ tactical_forest_battle.7324.b.success: "De nouveaux chevaliers stabilisent le flanc central !"
+ tactical_forest_battle.7324.b.failure: "Les chevaliers sont interceptés avant d'atteindre le centre !"
+ tactical_forest_battle.7324.c: "Envoyez nos unités d'élite d'élite pour renforcer le flanc central"
+ tactical_forest_battle.7324.c.success: "Nos renforts stabilisent le flanc central !"
+ tactical_forest_battle.7324.c.failure: "Notre centre s'effondre malgré les renforts !"
+ tactical_forest_battle.7324.d: "Essayez de battre en retraite lentement et de déplacer leur centre pendant que les renforts arrivent"
+ tactical_forest_battle.7324.d.success: "Leur centre commence à suivre notre retraite, les exposant !"
+ tactical_forest_battle.7324.d.failure: "Le centre est incapable de se désengager sous la pression !"
+ tactical_forest_battle.7324.e: "Feignez une retraite et allumez-vous contre les poursuivants"
+ tactical_forest_battle.7324.e.success: "L’ennemi tombe dans le piège de notre tromperie et lance une attaque inattendue !"
+ tactical_forest_battle.7324.e.failure: "Ils voient clair dans notre tromperie et maintiennent leur formation !"
+  
+ tactical_reserves_engaged_commander: "Rotation des réserves"
+ tactical_reserves_engaged_troops: "Réserves impliquées"
+  
+ tactical_counterattack_success_commander: "Je vous salue Marie"
+ tactical_counterattack_success_troops: "Contre-attaque désespérée"
+ tactical_counterattack_success_enemy_commander: "Perdre espoir"
+ tactical_counterattack_success_enemy_troops: "Moral ébranlé"
+  
+  
+  
+ # ============================================ 
+  
+ ###### 
+  
+ # Event 0210 - Cavalry Feint FAILURE Follow-up: Feint Unmasked 
+ tactical_forest_battle.0210.t: "Feinte démasquée !"
+ tactical_forest_battle.0210.desc: "[enemy_commander.GetTitledFirstName] a vu à travers notre feinte de cavalerie ! Leurs forces ont maintenu la discipline au lieu de poursuivre, et maintenant nos cavaliers font face à une infanterie musclée, à des volées de missiles ou à une contre-cavalerie en embuscade. La situation tactique s'est retournée contre nous : je dois décider comment sauver ce désastre."
+ tactical_forest_battle.0210.a: "Traversez le piège ! Chargez de tout ! (Martial + Prouesse vs [enemy_commander.GetShortUINameNoTooltip], très risqué)"
+ tactical_forest_battle.0210.a.success: "Contre toute attente, notre audace brise leur formation ! L'ennemi chancelle devant notre charge désespérée !"
+ tactical_forest_battle.0210.a.failure: "La charge s’effondre dans une déroute catastrophique. Notre cavalerie est dispersée et brisée !"
+ tactical_forest_battle.0210.b: "Descendez et tenez la ligne ! (Nécessite le soutien de l'infanterie)"
+ tactical_forest_battle.0210.c: "Écran la retraite avec la cavalerie. (Sacrifiez la cavalerie pour sauver l'armée)"
+ tactical_forest_battle.0210.d: "Ralliez le cheval vacillant avec un leadership personnel ! (Nécessite Brave, Inspiring Leader ou Martial 14+)"
+ tactical_forest_battle.0210.d.success: "Mon leadership stabilise la cavalerie ! Ils se reforment et se préparent à continuer le combat !"
+ tactical_forest_battle.0210.d.failure: "La cavalerie refuse de se rallier. Le moral continue de s’effriter."
+  
+  
+  
+ # Event 0120 - Infantry Ambush SUCCESS Follow-up: Kill Zone in the Woods 
+ tactical_forest_battle.0120.t: "Tuez Zone dans les bois !"
+ tactical_forest_battle.0120.desc: "La colonne ennemie a marché droit sur nos troupes d'infanterie et de missiles dissimulées ! La visibilité dans la forêt est mauvaise, leurs formations sont étirées et leur structure de commandement est dans le chaos. Les forces de [enemy_commander.GetTitledFirstName] sont prises dans un terrain de massacre parfait. Comment allons-nous capitaliser sur cette opportunité ?"
+ tactical_forest_battle.0120.a: "Fermez les mâchoires du piège ! Scellez leur avant et arrière !"
+ tactical_forest_battle.0120.b: "Laissez parler les flèches et les javelots. Gardez notre infanterie à couvert. (Nécessite des archers/tirailleurs)"
+ tactical_forest_battle.0120.b.success: "Notre barrage de missiles dévaste leur colonne exposée !"
+ tactical_forest_battle.0120.b.failure: "Leurs boucliers et armures limitent l’efficacité de notre barrage."
+ tactical_forest_battle.0120.c: "Frappez d'abord les officiers : ciblez les bannières et les commandants !"
+ tactical_forest_battle.0120.c.success: "Nos équipes de grève éliminent les officiers clés ! Leur commandement s'effondre !"
+ tactical_forest_battle.0120.c.failure: "Les équipes d'attaque sont isolées et subissent de lourdes pertes !"
+ tactical_forest_battle.0120.d: "Laissez-les saigner, puis retournez dans les bois."
+  
+  
+ # Event 0220 - Infantry Ambush FAILURE Follow-up: Ambush Detected 
+ tactical_forest_battle.0220.t: "Embuscade détectée !"
+ tactical_forest_battle.0220.desc: "[enemy_commander.GetTitledFirstName] a déjoué notre embuscade ! Leurs éclaireurs ont détecté nos positions cachées et leurs forces se sont adaptées avant que nous puissions ouvrir le piège. Nos unités d'infanterie dispersées sont exposées dans [battle_location.GetName] sans avantage coordonné. Je dois décider comment sauver ce désastre tactique."
+ tactical_forest_battle.0220.a: "Retraitez et consolidez les positions défensives ! Regroupez-vous dans des forteresses."
+ tactical_forest_battle.0220.b: "Changez de formation et contre-chargez sous la pression ennemie ! (Martial 11+, risque élevé)"
+ tactical_forest_battle.0220.b.success: "Notre agression inattendue prend l’ennemi par surprise ! Leur formation se brise !"
+ tactical_forest_battle.0220.b.failure: "La contre-charge expose encore plus notre infanterie. Catastrophe!"
+ tactical_forest_battle.0220.c: "Utilisez la forêt pour disperser les unités et vous reformer ailleurs. (Intendance 10+)"
+ tactical_forest_battle.0220.c.success: "Nos unités s'éclipsent à travers les arbres et se regroupent en toute sécurité !"
+ tactical_forest_battle.0220.c.failure: "Les unités dispersées ne peuvent pas se reformer. Ils restent désorganisés et vulnérables."
+ tactical_forest_battle.0220.d: "Tenez bon et combattez malgré la pression ! Acceptez de lourdes pertes."
+  
+ # Event 0130 - Levy Braced SUCCESS Follow-up: Spears and Trees 
+ tactical_forest_battle.0130.t: "Des lances et des arbres !"
+ tactical_forest_battle.0130.desc: "Le mur de lance de prélèvement tient comme de la pierre ! La forêt elle-même devient une forteresse lorsque nos soldats s'installent entre les arbres. Les forces de [enemy_commander.GetTitledFirstName] s'écrasent contre notre formation hérissée et vacillent. Le moment est maintenant venu d’exploiter notre avantage : comment exploiter leur faiblesse ?"
+ tactical_forest_battle.0130.a: "Tenez la ligne et broyez-les. Laissons l’attrition travailler pour nous."
+ tactical_forest_battle.0130.b: "Frappez soudainement en leur centre ! (Apprentissage + Martial 9+, risque modéré)"
+ tactical_forest_battle.0130.b.success: "Cette poussée soudaine brise leur détermination ! La formation ennemie s'effondre !"
+ tactical_forest_battle.0130.b.failure: "La poussée ralentit mais la ligne tient. Ils refusent de rompre."
+ tactical_forest_battle.0130.c: "Que les archers les massacrent sur le champ de bataille. (Nécessite les archers MaA)"
+ tactical_forest_battle.0130.c.success: "Des volées dévastatrices pleuvent ! Le champ de la mort en réclame des centaines !"
+ tactical_forest_battle.0130.c.failure: "Les archers manquent de flèches et perdent leur avantage."
+ tactical_forest_battle.0130.d: "Formez une enclume pour briser leur charge ! (Concentrez-vous sur la ténacité)"
+  
+ # Event 0230 - Levy Scattered FAILURE Follow-up: Formation Broken 
+ tactical_forest_battle.0230.t: "Formation brisée !"
+ tactical_forest_battle.0230.desc: "Les prélèvements se dispersent en panique ! Au lieu de former un mur de lance hérissé, les soldats se sont dispersés entre les arbres, incapables de se coordonner ou de maintenir une ligne. [enemy_commander.GetTitledFirstName] voit la faiblesse et l'exploite. La formation est brisée – je dois agir rapidement pour sauver ce désastre."
+ tactical_forest_battle.0230.a: "Rassemblez-les avec l'exemple personnel ! Menez de face ! (Prouesses 10+, Martiaux 9+)"
+ tactical_forest_battle.0230.a.success: "Ma valeur personnelle rallie les soldats ! Ils se reforment et s'aguerrissent !"
+ tactical_forest_battle.0230.a.failure: "Les soldats restent effrayés et dispersés. Le moral ne se rétablit pas."
+ tactical_forest_battle.0230.b: "Engagez vos chevaliers d’élite pour consolider la ligne. (Nécessite 2+ chevaliers)"
+ tactical_forest_battle.0230.c: "Repositionnez les unités dispersées sur un meilleur terrain. (Intendance 9+)"
+ tactical_forest_battle.0230.c.success: "Les levées dispersées sont rassemblées et repositionnées sur un terrain plus solide !"
+ tactical_forest_battle.0230.c.failure: "La tentative de repositionnement échoue. Les unités deviennent encore plus dispersées !"
+ tactical_forest_battle.0230.d: "Concentrez-vous plutôt sur la réduction du moral de l’ennemi. (Intrigue 8+, guerre psychologique)"
+  
+  
+ # Event 0140 - Knights in Reserve SUCCESS Follow-up: Knights Ready 
+ tactical_forest_battle.0140.t: "Chevaliers prêts !"
+ tactical_forest_battle.0140.desc: "Les chevaliers attendent, parfaitement prêts, à l'abri des regards de l'ennemi. Les forces de [enemy_commander.GetTitledFirstName] sont concentrées sur leurs positions actuelles, ignorant que notre réserve de cavalerie attend pour frapper. Le moment est venu de les libérer : comment allons-nous utiliser leur potentiel dévastateur ?"
+ tactical_forest_battle.0140.a: "Frappe au marteau : charge de cavalerie dévastatrice ! (Prouesses 11+, risque/récompense très élevé)"
+ tactical_forest_battle.0140.a.success: "La charge est parfaitement exécutée ! Nos chevaliers brisent la formation ennemie comme du verre !"
+ tactical_forest_battle.0140.a.failure: "La charge s'étend trop loin et les chevaliers se retrouvent isolés !"
+ tactical_forest_battle.0140.b: "Manœuvre de flanc : contournez l'ennemi ! (Martiaux 10+)"
+ tactical_forest_battle.0140.b.success: "La manœuvre de flanc réussit ! L'ennemi est pris par surprise par derrière !"
+ tactical_forest_battle.0140.b.failure: "La manœuvre est bloquée avant de pouvoir se développer !"
+ tactical_forest_battle.0140.c: "Poursuite : capitalisez sur les unités en retraite ! (Intrigues 9+)"
+ tactical_forest_battle.0140.c.success: "La poursuite met l'ennemi en déroute ! Ils ne peuvent pas se réorganiser !"
+ tactical_forest_battle.0140.c.failure: "La poursuite est bloquée et notre cavalerie subit des pertes."
+ tactical_forest_battle.0140.d: "Retrait discipliné : utilisez des chevaliers pour couvrir la retraite. (Intendance 9+)"
+  
+ martial_positive: "Avantage tactique"
+ martial_negative: "Inconvénient tactique"
+  
+ frontline_commander: "Commandant de première ligne"
+ frontline_commander_desc: "Ce personnage dirige les troupes au cœur de la bataille, les inspirant à de plus grands exploits de bravoure et d’efficacité."
+ tactical_commander: "Commandant tactique"
+  
+ # ============================================ 
+ # EVENT 2010 - Left Flank Tactics 
+ # ============================================ 
+ tactical_forest_battle.2010.t: "Suite à la feinte"
+ tactical_forest_battle.2010.desc: "Notre feinte sur le flanc droit a attiré l'attention de l'ennemi, laissant son flanc gauche vulnérable. Nous devons décider de la meilleure manière d’exploiter cette opportunité avant qu’ils puissent réagir et se renforcer."
+  
+ tactical_forest_battle.2010.a: "Tournez-vous et tuez l'ennemi qui vous poursuit"
+ tactical_forest_battle.2010.a.success: "Le flanc gauche se retourne soudainement contre ses poursuivants"
+ tactical_forest_battle.2010.a.failure: "[enemy_commander.GetFirstNamePossessive] le flanc droit tient bon face à notre assaut soudain"
+  
+ tactical_forest_battle.2010.b: "Attirer vers une embuscade de nos régiments d'élite"
+ tactical_forest_battle.2010.b.success: "Leur flanc droit est entraîné dans un piège !"
+ tactical_forest_battle.2010.b.failure: "Leur droite maintient la discipline et refuse de suivre la feinte"
+  
+ tactical_forest_battle.2010.c: "Faites pivoter les réserves de droite pour tenter d'encercler le flanc droit hors position."
+ tactical_forest_battle.2010.c.success: "Nos forces se détachent et sont en position pour encercler l'ennemi !"
+ tactical_forest_battle.2010.c.failure: "Les forces encerclantes qui arrivent sont rencontrées face à o"
+  
+ tactical_forest_battle.2010.d: "Faites pivoter les réserves centrales pour tenter d'encercler le flanc droit hors position."
+ tactical_forest_battle.2010.d.success: "Nos forces se détachent et sont en position pour encercler l'ennemi !"
+ tactical_forest_battle.2010.d.failure: "Les forces encerclantes qui arrivent se retrouvent face à face."
+  
+ tactical_forest_battle.2010.e: "Appuyez sur l'avantage"
+ tactical_forest_battle.2010.e.success: "On profite de l'ennemi hors de position !"
+ tactical_forest_battle.2010.e.failure: "L'ennemi est renforcé avant que nous puissions exploiter sa position"
+  
+ # ============================================ 
+ # EVENT 2012 - Knights Break Left Flank 
+ # ============================================ 
+ tactical_forest_battle.2012.t: "Les chevaliers déchirent la droite"
+ tactical_forest_battle.2012.desc: "Nos chevaliers ont traversé le flanc droit de [enemy_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] hors de position, le laissant dans le désarroi. Si nous appuyons sur l'attaque maintenant, nous pouvons allumer le centre exposé et l'écraser avant qu'il ne puisse récupérer."
+  
+ tactical_forest_battle.2012.a: "Le flanc gauche inonde la brèche"
+ tactical_forest_battle.2012.a.success: "[left_flank_commander.GetFullNameNicknamedPossessiveOrMy] le flanc inonde la formation ennemie brisée !"
+ tactical_forest_battle.2012.a.failure: "L'ennemi se stabilise rapidement et empêche toute pénétration ultérieure !"
+  
+ tactical_forest_battle.2012.b: "Envoyez nos régiments d'élite briser leur droit"
+ tactical_forest_battle.2012.b.success: "Nos régiments d’élite écrasent l’ennemi, n’est-ce pas !"
+ tactical_forest_battle.2012.b.failure: "Leur droite se mobilise et résiste à l'accusation !"
+  
+ tactical_forest_battle.2012.c: "Le flanc gauche charge avec force pour briser le flanc droit"
+ tactical_forest_battle.2012.c.success: "[left_flank_commander.GetFullNameNicknamedPossessiveOrMy] flanc brise son flanc droit"
+ tactical_forest_battle.2012.c.failure: "Leur droite se mobilise et résiste à l'accusation !"
+  
+ tactical_forest_battle.2012.d: "Appuyez sur l'avantage"
+ tactical_forest_battle.2012.d.success: "[left_flank_commander.GetFullNameNicknamedOrMe] continue d'appuyer sur le flanc droit !"
+ tactical_forest_battle.2012.d.failure: "Le droit est renforcé avant que nous puissions exploiter la brèche !"
+  
+ tactical_forest_battle.2012.f: "Faites pivoter les réserves centrales pour submerger le flanc droit restant"
+ tactical_forest_battle.2012.f.success: "Les réserves centrales tournent et écrasent le flanc droit restant !"
+ tactical_forest_battle.2012.f.failure: "Les réservistes n'arrivent pas à se désengager après une poussée du centre !"
+  
+  
+  
+ # ============================================ 
+ # EVENT 2014 - Right Flank Reserves Flood Left 
+ # ============================================ 
+ tactical_forest_battle.2014.t: "Assaut combiné sur le flanc gauche"
+ tactical_forest_battle.2014.desc: "L'assaut combiné de nos réserves du flanc droit et du [left_flank_commander.GetFullNameNicknamedPossessiveOrMy] gauche poussent l'attaque sur leur flanc droit, si nous pouvons percer ici, nous pouvons nous tourner vers le centre."
+ tactical_forest_battle.2014.a: "Les forces combinées comblent le fossé"
+ tactical_forest_battle.2014.a.success: "Les forces combinées submergent l'ennemi et sombrent dans le désarroi !"
+ tactical_forest_battle.2014.a.failure: "L'ennemi déplace rapidement ses forces pour combler l'écart !"
+  
+ tactical_forest_battle.2014.b: "Envoyez nos régiments d'élite d'élite charger leur flanc désorganisé"
+ tactical_forest_battle.2014.b.success: "Nos unités d'élite font des ravages sur leur flanc droit !"
+ tactical_forest_battle.2014.b.failure: "L'ennemi se regroupe et repousse l'assaut !"
+  
+ tactical_forest_battle.2014.c: "Envoyez des chevaliers charger leur flanc droit"
+ tactical_forest_battle.2014.c.success: "Les chevaliers et les réservistes chargent ensemble, et leur droite sombre dans la panique."
+ tactical_forest_battle.2014.c.failure: "L’assaut combiné se heurte à une contre-attaque féroce !"
+  
+ tactical_forest_battle.2014.d: "Inondez la gauche pour essayer de passer derrière leur centre"
+ tactical_forest_battle.2014.d.success: "Nous parvenons à faire passer quelques forces à travers leur flanc droit"
+ tactical_forest_battle.2014.d.failure: "L’ennemi anticipe le mouvement et affronte le flot de front."
+  
+ tactical_forest_battle.2014.e: "Appuyez sur l'assaut"
+ tactical_forest_battle.2014.e.success: "Notre assaut continue avec un effet dévastateur !"
+ tactical_forest_battle.2014.e.failure: "L'ennemi se stabilise et l'élan ralentit !"
+  
+ # ============================================ 
+ # EVENT 2016 - Center Flank Tactics 
+ # ============================================ 
+ tactical_forest_battle.2016.t: "Assaut combiné à gauche"
+ tactical_forest_battle.2016.desc: "L'assaut combiné de nos réserves centrales et de [left_flank_commander.GetFullNameNicknamedPossessiveOrMy] gauche poussent l'attaque sur leur flanc droit, si nous pouvons percer ici, nous pouvons nous tourner vers le centre."
+  
+ tactical_forest_battle.2016.a: "Les réserves centrales comblent le fossé"
+ tactical_forest_battle.2016.a.success: "Les réserves centrales affluent, brisant complètement l'ennemi !"
+ tactical_forest_battle.2016.a.failure: "L'ennemi stabilise le centre et tient bon !"
+  
+ tactical_forest_battle.2016.b: "Envoyez nos unités d'élite d'élite pour briser le centre"
+ tactical_forest_battle.2016.b.success: "Les unités d'élite défoncent le centre ennemi !"
+ tactical_forest_battle.2016.b.failure: "L'assaut des unités d'élite est repoussé avec de lourdes pertes !"
+  
+ tactical_forest_battle.2016.c: "Envoyez des chevaliers pour soutenir l'assaut"
+ tactical_forest_battle.2016.c.success: "Les chevaliers chargent au centre, dispersant l'ennemi !"
+ tactical_forest_battle.2016.c.failure: "Les chevaliers sont repoussés par les réserves ennemies !"
+  
+ tactical_forest_battle.2016.d: "Les réserves de droits soutiennent le centre"
+ tactical_forest_battle.2016.d.success: "Les réserves de droite encadrent parfaitement la position centrale !"
+ tactical_forest_battle.2016.d.failure: "La manœuvre échoue et le centre reste intact !"
+  
+ tactical_forest_battle.2016.e: "Continuer l'assaut sur le centre"
+ tactical_forest_battle.2016.e.success: "Notre assaut détruit complètement le centre ennemi !"
+ tactical_forest_battle.2016.e.failure: "L'ennemi occupe la position centrale !"
+  
+ # ============================================ 
+ # EVENT 1010 - Left Flank Exposed Center Follow-up 
+ # ============================================ 
+ tactical_forest_battle.1010.t: "Flanqué et confus"
+ tactical_forest_battle.1010.desc: "[left_flank_commander.GetTitledFirstNamePossessiveOrMy] manœuvre de flanc a provoqué le chaos sur le flanc droit de l'ennemi, leurs hommes sont en train de percer, si nous pouvons percer ici, nous pouvons nous tourner vers le centre."
+  
+ tactical_forest_battle.1010.a: "Enroulez-les et flanquez leur centre"
+ tactical_forest_battle.1010.a.success: "Les forces [left_flank_commander.GetFullNameNicknamedPossessiveOrMy] ont réussi à contourner le centre ennemi !"
+ tactical_forest_battle.1010.a.failure: "L'ennemi anticipe la manœuvre et la bloque !"
+  
+ tactical_forest_battle.1010.b: "Envoyez des chevaliers charger leur droite"
+ tactical_forest_battle.1010.b.success: "Les chevaliers chargent et mettent complètement la gauche en déroute !"
+ tactical_forest_battle.1010.b.failure: "Les chevaliers rencontrent une résistance plus forte que prévu !"
+  
+ tactical_forest_battle.1010.c: "Envoyez nos régiments d'élite charger leur droite"
+ tactical_forest_battle.1010.c.success: "Nos régiments d'élite se brisent"
+ tactical_forest_battle.1010.c.failure: "L'ennemi a le temps d'établir une nouvelle ligne défensive !"
+  
+ tactical_forest_battle.1010.d: "Appuyez sur l'avantage de toutes vos forces"
+ tactical_forest_battle.1010.d.success: "La pleine pression brise toutes les défenses ennemies !"
+ tactical_forest_battle.1010.d.failure: "L'ennemi tient malgré la pression !"
+  
+ tactical_forest_battle.1010.e: "Lancez une charge intense pour briser leur flanc droit"
+ tactical_forest_battle.1010.e.success: "Le flanc gauche brise la cohésion ennemie !"
+ tactical_forest_battle.1010.e.failure: "Ils tiennent bon et nous ne pouvons pas percer !"
+  
+  
+ # ============================================ 
+ # EVENT 1014 - Center Pull Back Follow-up 
+ # ============================================ 
+ tactical_forest_battle.1014.t: "Stratégie de retrait central"
+ tactical_forest_battle.1014.desc: "Le centre ennemi se retire pour se regrouper et se coordonner avec d'autres forces. Nous devons décider si nous devons les poursuivre, les attirer dans un piège ou repositionner nos propres unités pour un impact maximal."
+ tactical_forest_battle.1014.a: "Attirez l'ennemi vers notre piège MAA"
+ tactical_forest_battle.1014.a.success: "L'ennemi entre directement dans notre piège et est dévasté !"
+ tactical_forest_battle.1014.a.failure: "L'ennemi reconnaît le piège et l'évite !"
+ tactical_forest_battle.1014.b: "Le flanc gauche charge fort à gauche"
+ tactical_forest_battle.1014.b.success: "Notre charge gauche brise complètement la gauche ennemie !"
+ tactical_forest_battle.1014.b.failure: "La charge de gauche est repoussée par les réserves ennemies !"
+ tactical_forest_battle.1014.c: "Le centre se retourne et massacre l'ennemi"
+ tactical_forest_battle.1014.c.success: "Notre centre roule et détruit le centre ennemi !"
+ tactical_forest_battle.1014.c.failure: "L'ennemi repousse la contre-attaque !"
+ tactical_forest_battle.1014.d: "Attirer le centre ennemi vers les chevaliers"
+ tactical_forest_battle.1014.d.success: "Le centre ennemi est parfaitement attiré et détruit par nos chevaliers !"
+ tactical_forest_battle.1014.d.failure: "L'ennemi échappe au leurre et bat en retraite !"
+ tactical_forest_battle.1014.e: "Appuyez sur l'avantage"
+ tactical_forest_battle.1014.e.success: "Une pression incessante démoralise complètement l’ennemi !"
+ tactical_forest_battle.1014.e.failure: "L’ennemi prend position et tient bon !"
+  
+  # Event 0010 - Left Flank Focus Follow-up 
+ tactical_forest_battle.0010.t: "Engagement du flanc gauche"
+ tactical_forest_battle.0010.desc: "La bataille fait rage et nos forces s’engagent sur le flanc gauche. Commandes [center_flank_commander.GetTitledFirstName] au centre, avec [right_flank_commander.GetFirstName] sur le flanc droit. [left_flank_commander.GetTitledFirstName] commande la gauche, l'utilisation des forces [left_flank_commander.GetHerHis] pourrait s'avérer cruciale pour assurer la victoire."
+ tactical_forest_battle.0010.a: "Exécuter une feinte de retraite sur le flanc gauche"
+ tactical_forest_battle.0010.a.success: "La feinte réussit ! L'ennemi brise sa formation pour poursuivre nos troupes en fuite, créant ainsi une vulnérabilité fatale."
+ tactical_forest_battle.0010.a.failure: "L'ennemi voit clair dans notre tromperie et maintient la discipline, retournant notre feinte contre nous !"
+ tactical_forest_battle.0010.b: "Effectuer une manœuvre de flanc"
+ tactical_forest_battle.0010.b.success: "Nos forces de flanc contournent leur flanc gauche, brisant leur cohésion !"
+ tactical_forest_battle.0010.b.failure: "Ce commandant anticipe notre manœuvre et fait tourner ses forces pour nous rencontrer."
+ tactical_forest_battle.0010.e: "Tactiques de harcèlement par frappe et fuite sur leur flanc droit"
+ tactical_forest_battle.0010.e.success: "Nos tactiques de harcèlement les épuisent ! Leur droite saigne !"
+ tactical_forest_battle.0010.e.failure: "L'ennemi tient bon et maintient sa formation !"
+ tactical_forest_battle.0010.f: "Éliminez une force de flanc cachée et repliez-vous lentement"
+ tactical_forest_battle.0010.f.success: "Notre force de flanc réussit à se désengager et à contourner l’attaque pressante !"
+ tactical_forest_battle.0010.f.failure: "Notre force de flanc est repérée et engagée au combat !"
+ tactical_forest_battle.0010.g: "Créer une fausse brèche leur donnant le droit de se jeter dans un piège"
+ tactical_forest_battle.0010.g.success: "Leur droite commence à charger dans la brèche, tombant dans notre piège !"
+ tactical_forest_battle.0010.g.failure: "Leur droite refuse de mordre à l’hameçon et maintient la discipline !"
+  
+ # Event 0011 - Center Flank Engagement 
+ tactical_forest_battle.0011.t: "Engagement du flanc central"
+ tactical_forest_battle.0011.desc: "La bataille fait rage et nos forces s’engagent sur le flanc central. Commandes [left_flank_commander.GetTitledFirstName] à gauche, avec [right_flank_commander.GetFirstName] sur le flanc droit. [center_flank_commander.GetTitledFirstName] commande le centre, et l'utilisation des forces [center_flank_commander.GetHerHis] pourrait s'avérer essentielle pour assurer la victoire."
+ tactical_forest_battle.0011.a: "Créer un faux vide sur la partie gauche de notre centre"
+ tactical_forest_battle.0011.a.success: "Leur centre charge l'espace, tombant dans notre piège !"
+ tactical_forest_battle.0011.a.failure: "L’ennemi refuse de se laisser entraîner et de tenir bon !"
+ tactical_forest_battle.0011.b: "Créer un faux vide sur la partie droite de notre centre"
+ tactical_forest_battle.0011.b.success: "Leur centre charge l'espace, tombant dans notre piège !"
+ tactical_forest_battle.0011.b.failure: "L’ennemi refuse de se laisser entraîner et de tenir bon !"
+ tactical_forest_battle.0011.c: "Envoyez nos régiments d'élite percer leur centre"
+ tactical_forest_battle.0011.c.success: "L’attaque des élites brise leur cohésion ! Le centre commence à s'effondrer !"
+ tactical_forest_battle.0011.c.failure: "L’ennemi anticipe et nos forces d’élite sont repoussées !"
+ tactical_forest_battle.0011.d: "Engagez nos chevaliers à briser leur centre"
+ tactical_forest_battle.0011.d.success: "Les chevaliers chargent avec une force dévastatrice ! Leur centre s'effondre !"
+ tactical_forest_battle.0011.d.failure: "L'ennemi prépare une contre-charge et nos chevaliers sont repoussés !"
+ tactical_forest_battle.0011.e: "Tirez lentement le centre vers l'arrière pour essayer d'encercler"
+ tactical_forest_battle.0011.e.success: "Leur centre est soudainement exposé sur les deux flancs !"
+ tactical_forest_battle.0011.e.failure: "Ils refusent de se laisser entraîner et tiennent bon !"
+ tactical_forest_battle.0011.f: "Lancez une charge dévastatrice à travers leur centre"
+ tactical_forest_battle.0011.f.success: "Notre charge écrase leur centre ! Leur formation se brise sous l'impact !"
+ tactical_forest_battle.0011.f.failure: "L’ennemi tient bon et notre charge ne parvient pas à percer !"
+  
+ # Event 0012 - Right Flank Engagement 
+ tactical_forest_battle.0012.t: "Engagement du flanc droit"
+ tactical_forest_battle.0012.desc: "Nos forces engagent les ennemis du côté gauche, avec [right_flank_commander.GetTitledFirstNameOrMeRegnal] commandant le flanc droit, nous pouvons inverser le cours de la bataille en notre faveur."
+ tactical_forest_battle.0012.a: "Exécuter une feinte de retraite sur le flanc gauche de l'ennemi"
+ tactical_forest_battle.0012.a.success: "La feinte réussit ! L'ennemi brise sa formation pour poursuivre nos troupes en fuite !"
+ tactical_forest_battle.0012.a.succes.desc: "La feinte réussit ! L'ennemi brise sa formation pour poursuivre nos troupes en fuite !"
+ tactical_forest_battle.0012.a.failure: "[enemy_commander.GetFirstName] voit à travers notre tromperie et bat en retraite pour attaquer notre centre !"
+ tactical_forest_battle.0012.b: "Effectuer une manœuvre de flanc sur son flanc gauche"
+ tactical_forest_battle.0012.b.success: "Nos forces de flanc contournent leur flanc gauche, brisant leur cohésion !"
+ tactical_forest_battle.0012.b.failure: "[enemy_commander.GetFirstName] fait tourner les réserves depuis la gauche pour renforcer !"
+ tactical_forest_battle.0012.c: "Éliminez une force de flanc cachée et repliez-vous lentement"
+ tactical_forest_battle.0012.c.success: "Notre force de flanc réussit à se désengager et à contourner l’attaque pressante !"
+ tactical_forest_battle.0012.c.failure: "Notre force de flanc est repérée et engagée au combat !"
+ tactical_forest_battle.0012.d: "S'engager dans des tactiques de délit de fuite sur leur flanc gauche"
+ tactical_forest_battle.0012.d.success: "Nos tactiques de délit de fuite perturbent leur formation ! Ils ont du mal à se réorganiser !"
+ tactical_forest_battle.0012.d.failure: "L’ennemi tient bon et nos forces ne peuvent pas exploiter l’instant présent !"
+ tactical_forest_battle.0012.e: "Créer un faux écart incitant leur gauche à charger dans un piège"
+ tactical_forest_battle.0012.e.success: "Leur gauche commence à charger dans la brèche, tombant dans notre piège !"
+ tactical_forest_battle.0012.e.failure: "La gauche refuse de mordre à l’hameçon et maintient la discipline !"
+  
+  
+  
+ # Event 8005 - Enemy Left Flank Routing 
+  
+ # Event 5750 - Begin to Fallback Center 
+ tactical_forest_battle.5750.t: "Commencer au centre de repli"
+ tactical_forest_battle.5750.desc: "Notre centre subit une forte pression de la part de l'ennemi et nous devons décider si nous devons tenir, battre en retraite ou contre-attaquer."
+ tactical_forest_battle.5750.a: "Charge d'attaque MAA"
+ tactical_forest_battle.5750.a.success: "La charge MAA interrompt l'assaut ennemi !"
+ tactical_forest_battle.5750.a.failure: "La charge MAA est repoussée !"
+ tactical_forest_battle.5750.b: "Charge sur le flanc gauche"
+ tactical_forest_battle.5750.b.success: "La charge sur le flanc gauche soulage la pression !"
+ tactical_forest_battle.5750.b.failure: "La charge sur le flanc gauche ne parvient pas à se développer !"
+ tactical_forest_battle.5750.c: "Charge de retraite des chevaliers"
+ tactical_forest_battle.5750.c.success: "Les chevaliers chargent tout en battant en retraite, c'est réussi !"
+ tactical_forest_battle.5750.c.failure: "La charge des chevaliers échoue !"
+ tactical_forest_battle.5750.d: "Les chevaliers se retirent en embuscade"
+ tactical_forest_battle.5750.d.success: "L'ennemi poursuit notre embuscade !"
+ tactical_forest_battle.5750.d.failure: "L'ennemi évite l'embuscade !"
+ tactical_forest_battle.5750.e: "Inspirez les troupes"
+ tactical_forest_battle.5750.e.success: "Les troupes sont inspirées et tiennent bon !"
+ tactical_forest_battle.5750.e.failure: "L’inspiration ne parvient pas à prendre le dessus !"
+  
+ # Event 9251 - Enemy Is Retreating 
+  
+ # Event 0656 - Right Flank Reserves Intercepted 
+ tactical_forest_battle.0656.t: "Réserves du flanc droit interceptées"
+ tactical_forest_battle.0656.desc: "[enemy_commander.GetFirstNamePossessive] a intercepté nos réserves du flanc droit ! Nous devons décider comment répondre à cette menace."
+ tactical_forest_battle.0656.a: "Poussée féroce par la gauche"
+ tactical_forest_battle.0656.a.success: "La poussée féroce du flanc gauche réussit !"
+ tactical_forest_battle.0656.a.failure: "La poussée du flanc gauche ne parvient pas à se développer !"
+ tactical_forest_battle.0656.b: "Feindre la retraite"
+ tactical_forest_battle.0656.b.success: "Une retraite feinte attire l'ennemi dans un piège !"
+ tactical_forest_battle.0656.b.failure: "La retraite devient incontrôlée !"
+ tactical_forest_battle.0656.c: "Inspirez les troupes"
+ tactical_forest_battle.0656.c.success: "Les troupes s'inspirent et se mobilisent !"
+ tactical_forest_battle.0656.c.failure: "L’inspiration tombe dans l’oreille d’un sourd !"
+ tactical_forest_battle.0656.d: "Activer les réserves de droits"
+ tactical_forest_battle.0656.d.success: "Les réserves de droite se retournent et contre-attaquent !"
+ tactical_forest_battle.0656.d.failure: "Les réserves de droit ne peuvent pas manœuvrer !"
+ tactical_forest_battle.0656.e: "Tirez en arrière et piège à leurre"
+ tactical_forest_battle.0656.e.success: "L'ennemi poursuit dans notre piège !"
+ tactical_forest_battle.0656.e.failure: "L'ennemi évite le piège !"
+ tactical_forest_battle.0656.f: "Le flanc droit avance"
+ tactical_forest_battle.0656.f.success: "Le flanc droit traverse l'ennemi !"
+ tactical_forest_battle.0656.f.failure: "Le flanc droit est contenu !"
+  
+  
+ # Event 7323 - Left Encircles (Outcomes) 
+ tactical_forest_battle.7323.t: "Le flanc droit est encerclé !"
+ tactical_forest_battle.7323.desc: "[left_flank_commander.GetTitledFirstName] a réussi à encercler le flanc droit de [enemy_commander.GetFirstNamePossessive] ! Des milliers de soldats ennemis sont désormais piégés, privés de retraite ou de renforts. [enemy_commander.GetTitledFirstName] regarde, impuissant, ses forces piégées face à l'anéantissement. Nous devons décider de leur sort : leur montrons-nous la miséricorde d’une reddition honorable, ou les détruisons-nous complètement à titre d’exemple ?"
+ tactical_forest_battle.7323.a: "Commencez le massacre !"
+ tactical_forest_battle.7323.a.success: "[left_flank_commander.GetTitledFirstName] mène l'assaut contre les forces piégées !"
+ tactical_forest_battle.7323.a.failure: "Les forces piégées organisent une évasion désespérée et beaucoup s'échappent !"
+ tactical_forest_battle.7323.b: "Faites des prisonniers !"
+ tactical_forest_battle.7323.b.success: "Les forces piégées se rendent et deviennent prisonniers de guerre !"
+ tactical_forest_battle.7323.b.failure: "De nombreuses forces piégées refusent de se rendre et se battent jusqu’à la mort !"
+  
+  # Event 9466 - Their Center is Shocked 
+ tactical_forest_battle.9466.t: "Flanqué et confus"
+ tactical_forest_battle.9466.desc: "Le centre [enemy_commander.GetTitledFirstNamePossessiveOrMy] est sous le choc ! La panique est une opportunité parfaite ! Si nous pouvons percer ici, nous pouvons nous attaquer au centre."
+ tactical_forest_battle.9466.a: "Feignez une retraite et allumez-vous contre les poursuivants"
+ tactical_forest_battle.9466.a.success: "[center_flank_commander.GetFullNameNicknamedPossessiveOrMy] simule une retraite et s'écrase sur son centre !"
+ tactical_forest_battle.9466.a.failure: "L'ennemi se réorganise et tient bon !"
+ tactical_forest_battle.9466.b: "Coordonner une charge avec nos chevaliers"
+ tactical_forest_battle.9466.b.success: "Notre charge combinée s'écrase sur leur centre"
+ tactical_forest_battle.9466.b.failure: "L'ennemi tient bon face à notre charge !"
+ tactical_forest_battle.9466.c: "Coordonnez-vous avec nos régiments d'élite pour charger leur droit"
+ tactical_forest_battle.9466.c.success: "Notre assaut combiné provoque le chaos dans leur centre !"
+ tactical_forest_battle.9466.c.failure: "L'ennemi a le temps d'établir une nouvelle ligne défensive !"
+ tactical_forest_battle.9466.d: "Appuyez sur l'avantage de toutes vos forces"
+ tactical_forest_battle.9466.d.success: "On pousse l'attaque sur leur centre !"
+ tactical_forest_battle.9466.d.failure: "L'ennemi tient malgré la pression !"
+ tactical_forest_battle.9466.e: "[center_flank_commander.GetTitledFirstNameOrMeRegnal] charges difficiles à écraser leur centre !"
+ tactical_forest_battle.9466.e.success: "Notre charge brise la cohésion ennemie !"
+ tactical_forest_battle.9466.e.failure: "Ils tiennent bon et nous ne pouvons pas percer !"
+  
+ # Event .220 - Left Begins Encircle 
+ tactical_forest_battle.220.t: "Le flanc gauche commence l'encerclement"
+ tactical_forest_battle.220.desc: "La force [left_flank_commander.GetTitledFirstNamePossessiveOrMy] s'est infiltrée derrière les lignes ennemies. Nous devons exploiter cet avantage avant l'arrivée de [enemy_commander.GetFirstNamePossessive] renforts. Les hommes croient que bloquer l’ennemi suffisamment longtemps leur permettra d’encercler notre ennemi."
+ tactical_forest_battle.220.a: "Tenaille avec flanc droit !"
+ tactical_forest_battle.220.a.success: "[left_flank_commander.GetTitledFirstName] et notre flanc droit coordonnent un mouvement de tenaille dévastateur !"
+ tactical_forest_battle.220.a.failure: "La coordination entre les flancs est rompue et l'ennemi échappe à la pince !"
+ tactical_forest_battle.220.b: "Envoyez nos chevaliers pour les occuper !"
+ tactical_forest_battle.220.b.success: "Nos chevaliers sont engagés, les distrayant des ennemis environnants !"
+ tactical_forest_battle.220.b.failure: "L'ennemi voit la force encerclant !"
+ tactical_forest_battle.220.c: "Envoyez nos unités de crack pour les occuper"
+ tactical_forest_battle.220.c.success: "Nos unités d'élite engagent le combat avec l'ennemi, permettant ainsi à l'encerclement de se poursuivre !"
+ tactical_forest_battle.220.c.failure: "L'ennemi se regroupe et repousse nos unités !"
+ tactical_forest_battle.220.d: "Formez une enclume pendant que les forces qui fuient attaquent par derrière"
+ tactical_forest_battle.220.d.success: "[center_flank_commander.GetTitledFirstName] le flanc droit est écrasé entre deux forces !"
+ tactical_forest_battle.220.d.failure: "Leur droite tient bon pour le moment !"
+ tactical_forest_battle.220.e: "Inspirez nos troupes à combattre plus fort jusqu'à ce que l'encerclement soit terminé"
+ tactical_forest_battle.220.e.success: "[center_flank_commander.GetTitledFirstName] le flanc droit est écrasé entre deux forces !"
+ tactical_forest_battle.220.e.failure: "Leur droite tient bon pour le moment !"
+  
+  
+ tactical_forest_battle.221.t: "Le flanc droit commence l'encerclement"
+ tactical_forest_battle.221.desc: "La force [right_flank_commander.GetTitledFirstNamePossessiveOrMy] s'est infiltrée derrière les lignes ennemies. Nous devons exploiter cet avantage avant l'arrivée de [enemy_commander.GetFirstNamePossessive] renforts. Les hommes croient que bloquer l’ennemi suffisamment longtemps leur permettra d’encercler notre ennemi."
+ tactical_forest_battle.221.a: "Pince à gauche !"
+ tactical_forest_battle.221.a.success: "[right_flank_commander.GetTitledFirstName] et notre flanc gauche coordonnent un mouvement de pince dévastateur !"
+ tactical_forest_battle.221.a.failure: "La coordination entre les flancs est rompue et l'ennemi échappe à la pince !"
+ tactical_forest_battle.221.b: "Envoyez nos chevaliers pour les occuper !"
+ tactical_forest_battle.221.b.success: "Nos chevaliers sont engagés, les distrayant des ennemis environnants !"
+ tactical_forest_battle.221.b.failure: "L'ennemi voit la force encerclant !"
+ tactical_forest_battle.221.c: "Envoyez nos unités de crack pour les occuper"
+ tactical_forest_battle.221.c.success: "Nos unités d'élite engagent le combat avec l'ennemi, permettant ainsi à l'encerclement de se poursuivre !"
+ tactical_forest_battle.221.c.failure: "L'ennemi se regroupe et repousse nos unités !"
+ tactical_forest_battle.221.d: "Formez une enclume pendant que les forces qui fuient attaquent par derrière"
+ tactical_forest_battle.221.d.success: "[center_flank_commander.GetTitledFirstName] le flanc gauche est écrasé entre deux forces !"
+ tactical_forest_battle.221.d.failure: "Leur gauche est forte pour le moment !"
+ tactical_forest_battle.221.e: "Inspirez nos troupes à combattre plus fort jusqu'à ce que l'encerclement soit terminé"
+ tactical_forest_battle.221.e.success: "[center_flank_commander.GetTitledFirstName] le flanc gauche est écrasé entre deux forces !"
+ tactical_forest_battle.221.e.failure: "Leur gauche est forte pour le moment !"
+  
+  
+ appoint_left_flank_interaction: "Nommer le commandant du flanc gauche"
+ appoint_center_flank_interaction: "Nommer le commandant de flanc du centre"
+ appoint_right_flank_interaction: "Nommer le commandant du flanc droit"
+ remove_left_flank_interaction: "Supprimer le commandant du flanc gauche"
+ remove_center_flank_interaction: "Supprimer le commandant du flanc central"
+ remove_right_flank_interaction: "Supprimer le commandant du flanc droit"
+ appoint_center_flank_interaction_desc: "Désignez un commandant pour diriger le flanc central lors de la bataille à venir."
+ appoint_left_flank_interaction_desc: "Désignez un commandant pour diriger le flanc gauche lors de la bataille à venir."
+ appoint_right_flank_interaction_desc: "Désignez un commandant pour diriger le flanc droit lors de la bataille à venir."
+ remove_center_flank_interaction_desc: "Soulager l'actuel commandant du flanc central de ses fonctions."
+ remove_left_flank_interaction_desc: "Soulager l'actuel commandant du flanc gauche de ses fonctions."
+ remove_right_flank_interaction_desc: "Soulager l'actuel commandant du flanc droit de ses fonctions."
+  
+ # Flank Commanders Tab 
+ MV_FLANK_COMMANDERS: "Commandants de flanc"
+ LEFT_FLANK_COMMANDER: "Commandant du flanc gauche"
+ CENTER_FLANK_COMMANDER: "Commandant du flanc central"
+ RIGHT_FLANK_COMMANDER: "Commandant du flanc droit"
+ NO_ASSIGNMENT: "Aucune mission"
+  

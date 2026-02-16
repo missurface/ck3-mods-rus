@@ -1,0 +1,10 @@
+﻿l_english:
+appoint_left_flank_interaction:0 "Appoint Left Flank Leader"
+appoint_center_flank_interaction:0 "Appoint Center Flank Leader"
+appoint_right_flank_interaction:0 "Appoint Right Flank Leader"
+left_flank_commander_tooltip:0 "Assign a commander to lead the left flank of your army. A skilled leader can provide tactical advantages to the units under their command."
+center_flank_leader_tooltip:0 "Assign a commander to lead the center flank of your army. A skilled leader can provide tactical advantages to the units under their command."
+right_flank_leader_tooltip:0 "Assign a commander to lead the right flank of your army. A skilled leader can provide tactical advantages to the units under their command." 
+
+remove_nick_or_flavor_from_character_interaction:0 "Remove Nickname or Flavor Text"
+remove_nick_or_flavor_from_character_desc:0 "Remove either the Tactical Battles nickname from or flavor text from this character."

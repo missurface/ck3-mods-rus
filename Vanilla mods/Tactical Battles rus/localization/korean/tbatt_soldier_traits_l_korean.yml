@@ -1,0 +1,286 @@
+﻿l_korean:
+  
+ # Huscarl 
+ trait_tbat_soldier_huscarl: "허스칼 캡틴" #NT!
+ tbat_soldier_huscarl_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 Huscarls의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_huscarl_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Huscarls의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Landsknecht 
+ trait_tbat_soldier_landsknecht: "란츠크네히트 선장" #NT!
+ tbat_soldier_landsknecht_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 란츠크네히트의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_landsknecht_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 란츠크네히트의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Longbowmen 
+ trait_tbat_soldier_longbowmen: "장궁병 선장" #NT!
+ tbat_soldier_longbowmen_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 장궁병의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_longbowmen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 장궁병 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Goedendag 
+ trait_tbat_soldier_goedendag: "괴덴다그 선장" #NT!
+ tbat_soldier_goedendag_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 괴덴다그(Goedendag) 민병대의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_goedendag_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 괴덴다그 민병대의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Gendarme 
+ trait_tbat_soldier_gendarme: "헌병 대장" #NT!
+ tbat_soldier_gendarme_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 헌병의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_gendarme_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Gendarmes의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Chasseur 
+ trait_tbat_soldier_chasseur: "추격대 대장" #NT!
+ tbat_soldier_chasseur_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 추격병의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_chasseur_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 추격병의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Picchieri 
+ trait_tbat_soldier_picchieri: "피치에리 선장" #NT!
+ tbat_soldier_picchieri_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 피치에리의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_picchieri_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Picchieri의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Praetorian 
+ trait_tbat_soldier_praetorian: "근위대 대장" #NT!
+ tbat_soldier_praetorian_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 근위병의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_praetorian_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 근위병의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Caballero 
+ trait_tbat_soldier_caballero: "카발레로 선장" #NT!
+ tbat_soldier_caballero_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 카바예로스의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_caballero_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 카바예로스(Caballeros)의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Cataphract 
+ trait_tbat_soldier_cataphract: "백내장 대장" #NT!
+ tbat_soldier_cataphract_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 정예 캐터프랙트 부대에서 진급했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_cataphract_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 백내장 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Monaspa 
+ trait_tbat_soldier_monaspa: "모나스파 캡틴" #NT!
+ tbat_soldier_monaspa_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 모나스파의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_monaspa_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 모나스파(Monaspa)의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Hobelar 
+ trait_tbat_soldier_hobelar: "호벨라 선장" #NT!
+ tbat_soldier_hobelar_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 정예 호벨라 부대에서 진급했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_hobelar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 호벨라 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Schiltron 
+ trait_tbat_soldier_schiltron: "쉴트론 선장" #NT!
+ tbat_soldier_schiltron_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 쉴트론의 정예 부대에서 진급했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_schiltron_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 쉴트론의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Metsanvartija 
+ trait_tbat_soldier_metsanvartija: "Metsanvartija 선장" #NT!
+ tbat_soldier_metsanvartija_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 Metsanvartija의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_metsanvartija_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Metsanvartija의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Horse Archers 
+ trait_tbat_soldier_horse_archers: "기마궁수 대장" #NT!
+ tbat_soldier_horse_archers_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 정예 기마 궁수 부대에서 진급했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 연대의 전투 성공에 중요한 역할을 한 후 정예 기마 궁수 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Mubarizun 
+ trait_tbat_soldier_mubarizun: "무바리준 선장" #NT!
+ tbat_soldier_mubarizun_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 무바리준의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_mubarizun_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 무바리준의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Ayyar 
+ trait_tbat_soldier_ayyar: "아이야르 선장" #NT!
+ tbat_soldier_ayyar_desc: "이 군인은 전투에서 연대의 성공에 중요한 역할을 한 후 Ayyar의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_ayyar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Ayyar의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Druzhina 
+ trait_tbat_soldier_druzhina: "드루지나 선장" #NT!
+ tbat_soldier_druzhina_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 드루지나의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_druzhina_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 드루지나의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Hussar 
+ trait_tbat_soldier_hussar: "후사르 선장" #NT!
+ tbat_soldier_hussar_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 후사르의 정예 부대에서 진급되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_hussar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 후사르의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Horn Warrior 
+ trait_tbat_soldier_horn_warrior: "뿔 전사 선장" #NT!
+ tbat_soldier_horn_warrior_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 정예 혼 전사 부대에서 진급했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_horn_warrior_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 혼 전사 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Bush Hunter 
+ trait_tbat_soldier_bush_hunter: "부시헌터 선장" #NT!
+ tbat_soldier_bush_hunter_desc: "이 군인은 전투에서 연대의 성공에 중요한 역할을 한 후 부시 헌터의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_bush_hunter_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 부시 헌터(Bush Hunters)의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Shomer 
+ trait_tbat_soldier_shomer: "쇼머 선장" #NT!
+ tbat_soldier_shomer_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 쇼메르의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_shomer_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 쇼메르의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Khandayat 
+ trait_tbat_soldier_khandayat: "칸다얏 선장" #NT!
+ tbat_soldier_khandayat_desc: "이 군인은 전투에서 연대의 성공에 중요한 역할을 한 후 Khandayat의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_khandayat_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Khandayat의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Garudas 
+ trait_tbat_soldier_garudas: "가루다 선장" #NT!
+ tbat_soldier_garudas_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 가루다의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_garudas_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 가루다의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Mountaineer 
+ trait_tbat_soldier_mountaineer: "등산가 선장" #NT!
+ tbat_soldier_mountaineer_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 산악인의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_mountaineer_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 산악인의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Sahel Horsemen 
+ trait_tbat_soldier_sahel_horsemen: "사헬 기병 대장" #NT!
+ tbat_soldier_sahel_horsemen_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 사헬 기병의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_sahel_horsemen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 사헬 기병의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Guinea Warrior 
+ trait_tbat_soldier_guinea_warrior: "기니 전사 선장" #NT!
+ tbat_soldier_guinea_warrior_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 기니 전사의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_guinea_warrior_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 기니 전사의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Sarawit 
+ trait_tbat_soldier_sarawit: "사라위트 선장" #NT!
+ tbat_soldier_sarawit_desc: "이 군인은 전투에서 연대의 성공에 중요한 역할을 한 후 사라위트의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_sarawit_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 사라위트의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Abudrar 
+ trait_tbat_soldier_abudrar: "아부드라르 선장" #NT!
+ tbat_soldier_abudrar_desc: "이 군인은 전투에서 연대의 성공에 중요한 역할을 한 후 Abudrar의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_abudrar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 아부드라르의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Zbrojnosh 
+ trait_tbat_soldier_zbrojnosh: "즈브로이노쉬 선장" #NT!
+ tbat_soldier_zbrojnosh_desc: "이 군인은 전투에서 연대의 성공에 중요한 역할을 한 후 Zbrojnosh의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_zbrojnosh_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Zbrojnosh의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Palace Guards 
+ trait_tbat_soldier_palace_guards: "궁전 경비대 대장" #NT!
+ tbat_soldier_palace_guards_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 궁궐 근위대의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_palace_guards_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 궁궐 근위대의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Shenbigong 
+ trait_tbat_soldier_shenbigong: "신비공 대장" #NT!
+ tbat_soldier_shenbigong_desc: "이 병사는 전투에서 연대의 승리에 중요한 역할을 한 후 Shenbigong의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_shenbigong_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Shenbigong의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Mulaththamun 
+ trait_tbat_soldier_mulaththamun: "물라스타문 대장" #NT!
+ tbat_soldier_mulaththamun_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 Mulaththamun의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_mulaththamun_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Mulaththamun의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Archers of the Nile 
+ trait_tbat_soldier_archers_of_the_nile: "나일강의 궁수대장" #NT!
+ tbat_soldier_archers_of_the_nile_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 나일강 궁수의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_archers_of_the_nile_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 나일강 궁수의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Paiks 
+ trait_tbat_soldier_paiks: "백선장" #NT!
+ tbat_soldier_paiks_desc: "이 병사는 전투에서 연대의 승리에 중요한 역할을 한 후 백남준의 정예부대에서 진급되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_paiks_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 승리에 중요한 역할을 한 후 백남준의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Guanch Vaulter 
+ trait_tbat_soldier_guanch_vaulter: "관치 볼터 대장" #NT!
+ tbat_soldier_guanch_vaulter_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 관치 볼터(Guanch Vaulters)의 정예 부대에서 진급되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_guanch_vaulter_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 관치 볼터 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Ayrudzi 
+ trait_tbat_soldier_ayrudzi: "아이루지 선장" #NT!
+ tbat_soldier_ayrudzi_desc: "이 군인은 전투에서 연대의 성공에 중요한 역할을 한 후 아이루지(Ayrudzi)의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_ayrudzi_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Ayrudzi의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Conrois 
+ trait_tbat_soldier_conrois: "콘로이스 캡틴" #NT!
+ tbat_soldier_conrois_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 콩루아의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_conrois_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Conrois의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Akritai 
+ trait_tbat_soldier_akritai: "아크리타이 선장" #NT!
+ tbat_soldier_akritai_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 Akritai의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_akritai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Akritai의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Ballistrai 
+ trait_tbat_soldier_ballistrai: "발리스트라이 선장" #NT!
+ tbat_soldier_ballistrai_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 발리스트라이의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_ballistrai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Ballistrai의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Skoutatoi 
+ trait_tbat_soldier_skoutatoi: "스쿠타토이 선장" #NT!
+ tbat_soldier_skoutatoi_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 Skoutatoi의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_skoutatoi_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Skoutatoi의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Varangian Guards 
+ trait_tbat_soldier_varangian_guards: "바랑기안 경비대 대장" #NT!
+ tbat_soldier_varangian_guards_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 바랑기안 근위대의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_varangian_guards_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 Varangian Guards의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Handpicked Faithful 
+ trait_tbat_soldier_handpicked_faithful: "엄선된 충실한 선장" #NT!
+ tbat_soldier_handpicked_faithful_desc: "이 군인은 전투에서 연대의 성공에 중요한 역할을 한 후 Handpicked Faithful의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_handpicked_faithful_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Handpicked Faithful의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Fire Lancers 
+ trait_tbat_soldier_fire_lancers: "파이어 랜서 캡틴" #NT!
+ tbat_soldier_fire_lancers_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 정예 파이어 랜서 부대에서 진급했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_fire_lancers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 파이어 랜서 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Gakgung Archers 
+ trait_tbat_soldier_gakgung_archers: "각궁궁수대장" #NT!
+ tbat_soldier_gakgung_archers_desc: "이 병사는 전투에서 연대의 승리에 중요한 역할을 한 후 각궁 궁수의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_gakgung_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 승리에 중요한 역할을 한 후 정예 부대인 각궁 궁수에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Ballista Elephant 
+ trait_tbat_soldier_ballista_elephant: "발리스타 코끼리 선장" #NT!
+ tbat_soldier_ballista_elephant_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 발리스타 코끼리의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_ballista_elephant_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 발리스타 코끼리의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Pesilat Warriors 
+ trait_tbat_soldier_pesilat_warriors: "페실라트 워리어스 캡틴" #NT!
+ tbat_soldier_pesilat_warriors_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 페실라트 전사의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_pesilat_warriors_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Pesilat Warriors의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Samurai 
+ trait_tbat_soldier_samurai: "사무라이 선장" #NT!
+ tbat_soldier_samurai_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 사무라이의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_samurai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 사무라이의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Japanese Horse Archers 
+ trait_tbat_soldier_japanese_horse_archers: "일본 기마 궁수 대장" #NT!
+ tbat_soldier_japanese_horse_archers_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 일본 기마 궁수의 정예 부대에서 진급했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_japanese_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 연대의 전투 성공에 중요한 역할을 한 후 일본 기마 궁수의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Emishi Horse Archers 
+ trait_tbat_soldier_emishi_horse_archers: "에미시 기마 궁수 대장" #NT!
+ tbat_soldier_emishi_horse_archers_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 에미시 기마 궁수의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_emishi_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 에미시 기마 궁수의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Warrior Monks 
+ trait_tbat_soldier_warrior_monks: "전사 승려 선장" #NT!
+ tbat_soldier_warrior_monks_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 정예 워리어 몽크 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_warrior_monks_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 전사 수도사 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Zhanmadao Infantry 
+ trait_tbat_soldier_zhanmadao_infantry: "잔마도 보병 대장" #NT!
+ tbat_soldier_zhanmadao_infantry_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 잔마도 보병의 정예 부대에서 진급했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_zhanmadao_infantry_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 잔마도 보병의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Tiefutu 
+ trait_tbat_soldier_tiefutu: "티에후투 선장" #NT!
+ tbat_soldier_tiefutu_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 티에푸투의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_tiefutu_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Tiefutu의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Black Armor Cavalry 
+ trait_tbat_soldier_black_armor_cavalry: "검은 갑옷 기병 대장" #NT!
+ tbat_soldier_black_armor_cavalry_desc: "이 병사는 전투에서 연대의 승리에 중요한 역할을 한 후 검은 갑옷 기병대의 정예 부대에서 진급했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_black_armor_cavalry_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 연대의 전투 성공에 중요한 역할을 한 후 검은 갑옷 기병대의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Burenjia 
+ trait_tbat_soldier_burenjia: "부렌지아 선장" #NT!
+ tbat_soldier_burenjia_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 부렌지아의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_burenjia_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 부렌지아의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Rocket Carts 
+ trait_tbat_soldier_rocket_carts: "로켓 카트 선장" #NT!
+ tbat_soldier_rocket_carts_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 로켓 카트의 정예 부대에서 진급했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_rocket_carts_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 로켓 카트의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+  
+ # Ordo Riders Horse Archers 
+ trait_tbat_soldier_ordo_riders_horse_archers: "오르도 라이더 기마 궁수 대장" #NT!
+ tbat_soldier_ordo_riders_horse_archers_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 오르도 라이더 기마 궁수(Ordo Riders Horse Archers)의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!
+ trait_tbat_soldier_ordo_riders_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Ordo Riders Horse Archers의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다." #NT!

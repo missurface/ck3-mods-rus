@@ -1,0 +1,149 @@
+﻿l_korean:
+ MILITARY_POSITIONS_TAB: "군사 계급" #NT!
+ TBATT_TITLE_BANE_OF_DEVIL: "[Faith.DevilName]의 파멸" #NT!
+ TBATT_TITLE_VANQUISHER_OF_UNHOLY: "부정한 자의 정복자" #NT!
+ TBATT_TITLE_VANQUISHER_OF_WICKED: "사악한 자의 정복자" #NT!
+ tbatt_title_protector_of_clergy: "[GetPlayer.MakeScope.Char.GetFaith.AltPriestTermPlural|U]의 수호자" #NT!
+ tbatt_title_lords_wrath: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] 분노" #NT!
+ tbatt_title_lords_fury: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] 분노" #NT!
+ tbatt_title_lords_might: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] 어쩌면" #NT!
+ tbatt_title_lords_vengeance: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] 복수" #NT!
+ tbatt_title_lords_blade: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] 블레이드" #NT!
+ tbatt_title_lords_shield: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] 방패" #NT!
+ tbatt_title_lords_justice: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] 정의" #NT!
+ tbatt_title_guardian_of_text: "[GetPlayer.MakeScope.Char.GetFaith.ReligiousText|U]의 수호자" #NT!
+ tbatt_title_protector_of_text: "[GetPlayer.MakeScope.Char.GetFaith.ReligiousText|U]의 수호자" #NT!
+ tbatt_title_blade_of_followers: "[GetPlayer.MakeScope.Char.GetFaith.Custom|U]의 칼날" #NT!
+ tbatt_title_wrath_of_god: "하나님의 진노" #NT!
+ tbatt_title_gods_fury: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNamePossessive|U] 분노" #NT!
+ tbatt_title_gods_wrath: "[GetPlayer.GetFaith.HighGodNamePossessive|U] 분노" #NT!
+ tbatt_title_blade_of_god: "[GetPlayer.GetFaith.HighGodName|U]의 칼날" #NT!
+ tbatt_title_shield_of_god: "[GetPlayer.GetFaith.HighGodName|U]의 방패" #NT!
+ tbatt_title_sword_of_wargod: "[GetPlayer.GetFaith.WarGodName|U]의 검" #NT!
+ tbatt_title_blade_of_wargod: "[GetPlayer.GetFaith.WarGodName|U]의 칼날" #NT!
+ tbatt_title_might_of_wargod: "[GetPlayer.GetFaith.WarGodName|U]의 힘" #NT!
+ tbatt_title_wrath_of_wargod: "[GetPlayer.GetFaith.WarGodName|U]의 분노" #NT!
+ tbatt_title_fury_of_wargod: "[GetPlayer.GetFaith.WarGodName|U]의 분노" #NT!
+ tbatt_title_blade_of_heaven: "[GetPlayer.GetFaith.PositiveAfterLife|U]의 칼날" #NT!
+ tbatt_title_shield_of_heaven: "[GetPlayer.GetFaith.PositiveAfterLife|U]의 방패" #NT!
+ tbatt_title_bearer_of_symbol: "[GetPlayer.GetFaith.ReligiousSymbol|U]의 소유자" #NT!
+ tbatt_title_defender_of_symbol: "[GetPlayer.GetFaith.ReligiousSymbol|U]의 수비수" #NT!
+ tbatt_title_protector_of_symbol: "[GetPlayer.GetFaith.ReligiousSymbol|U]의 수호자" #NT!
+ tbatt_title_vanquisher_of_unholy: "부정한 자의 정복자" #NT!
+ tbatt_title_vanquisher_of_wicked: "사악한 자의 정복자" #NT!
+ tbatt_title_slayer_of_unholy: "부정한 자의 학살자" #NT!
+  
+ tbatt_military_title_fist: "[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]의 주먹" #NT!
+  
+  
+ # Grant Position Tooltips 
+ tbatt_grant_bane_of_devil: "사탄의 파멸 위치 부여" #NT!
+ tbatt_grant_vanquisher_of_unholy: "부정한 정복자 지위 부여" #NT!
+ tbatt_grant_vanquisher_of_wicked: "사악한 정복자 지위 부여" #NT!
+ tbatt_grant_protector_of_clergy: "성직자의 수호자 직위 부여" #NT!
+ tbatt_grant_lords_wrath: "신의 진노 지위 부여" #NT!
+ tbatt_grant_lords_fury: "신들의 분노 위치 부여" #NT!
+ tbatt_grant_lords_might: "신의 힘 위치 부여" #NT!
+ tbatt_grant_lords_vengeance: "신들의 복수 위치 부여" #NT!
+ tbatt_grant_lords_blade: "갓즈블레이드 위치 부여" #NT!
+ tbatt_grant_lords_shield: "신들의 방패 위치 부여" #NT!
+ tbatt_grant_lords_justice: "신의 정의 지위 부여" #NT!
+ tbatt_grant_guardian_of_text: "성경의 수호자에게 지위를 부여하다" #NT!
+ tbatt_grant_protector_of_text: "성경의 수호자 지위를 부여하다" #NT!
+ tbatt_grant_blade_of_followers: "카톨릭의 칼날 지위 부여" #NT!
+ tbatt_grant_wrath_of_god: "신의 분노 지위 부여" #NT!
+ tbatt_grant_gods_fury: "신의 분노 위치 부여" #NT!
+ tbatt_grant_gods_wrath: "신의 진노 지위 부여" #NT!
+ tbatt_grant_blade_of_god: "신의 칼날 위치 부여" #NT!
+ tbatt_grant_shield_of_god: "신의 방패 위치 부여" #NT!
+ tbatt_grant_sword_of_wargod: "Wargod의 검 위치 부여" #NT!
+ tbatt_grant_blade_of_wargod: "전쟁신의 검 위치 부여" #NT!
+ tbatt_grant_might_of_wargod: "Might of Wargod 지위 부여" #NT!
+ tbatt_grant_wrath_of_wargod: "전쟁신의 분노 지위 부여" #NT!
+ tbatt_grant_fury_of_wargod: "전쟁신의 분노 지위 부여" #NT!
+ tbatt_grant_blade_of_heaven: "천상의 검 위치 부여" #NT!
+ tbatt_grant_shield_of_heaven: "천상의 방패 지위 부여" #NT!
+ tbatt_grant_bearer_of_symbol: "십자가를 지는 자에게 지위를 부여하다" #NT!
+ tbatt_grant_defender_of_symbol: "십자가의 수호자 위치 부여" #NT!
+ tbatt_grant_protector_of_symbol: "십자가의 수호자 지위 부여" #NT!
+  
+#  # Remove Position Tooltips 
+#  tbatt_remove_bane_of_devil: "사탄의 베인 제거" #NT!
+#  tbatt_remove_vanquisher_of_unholy: "부정한 자의 제압자 제거" #NT!
+#  tbatt_remove_vanquisher_of_wicked: "사악한 자의 정복자 제거" #NT!
+#  tbatt_remove_protector_of_clergy: "성직자의 수호자 제거" #NT!
+#  tbatt_remove_lords_wrath: "하나님의 진노를 제거하라" #NT!
+#  tbatt_remove_lords_fury: "신의 분노를 제거하라" #NT!
+#  tbatt_remove_lords_might: "하나님의 능력을 제거하라" #NT!
+#  tbatt_remove_lords_vengeance: "하나님의 복수를 제거하라" #NT!
+#  tbatt_remove_lords_blade: "신의 검을 제거하라" #NT!
+#  tbatt_remove_lords_shield: "신의 방패를 제거하라" #NT!
+#  tbatt_remove_lords_justice: "하나님의 정의를 제거하라" #NT!
+#  tbatt_remove_guardian_of_text: "성경의 수호자 제거" #NT!
+#  tbatt_remove_protector_of_text: "성경의 수호자 제거" #NT!
+#  tbatt_remove_blade_of_followers: "카톨릭의 칼날 제거" #NT!
+#  tbatt_remove_wrath_of_god: "하나님의 진노를 제거하라" #NT!
+#  tbatt_remove_gods_fury: "신의 분노를 제거하라" #NT!
+#  tbatt_remove_gods_wrath: "하나님의 진노를 제거하라" #NT!
+#  tbatt_remove_blade_of_god: "신의 칼날 제거" #NT!
+#  tbatt_remove_shield_of_god: "신의 방패를 제거하다" #NT!
+#  tbatt_remove_sword_of_wargod: "전쟁신의 검 제거" #NT!
+#  tbatt_remove_blade_of_wargod: "전쟁신의 검 제거" #NT!
+#  tbatt_remove_might_of_wargod: "전쟁신의 힘 제거" #NT!
+#  tbatt_remove_wrath_of_wargod: "전쟁신의 분노 제거" #NT!
+#  tbatt_remove_fury_of_wargod: "전쟁신의 분노 제거" #NT!
+#  tbatt_remove_blade_of_heaven: "천국의 칼날 제거" #NT!
+#  tbatt_remove_shield_of_heaven: "천국의 방패 제거" #NT!
+#  tbatt_remove_bearer_of_symbol: "십자가를 짊어진 자 제거" #NT!
+#  tbatt_remove_defender_of_symbol: "십자가의 수호자 제거" #NT!
+#  tbatt_remove_protector_of_symbol: "십자가의 수호자 제거" #NT!
+  
+#  # Header Position Tooltips 
+#  tbatt_header_bane_of_devil: "사탄의 베인" #NT!
+#  tbatt_header_vanquisher_of_unholy: "부정한 자의 정복자" #NT!
+#  tbatt_header_vanquisher_of_wicked: "사악한 자의 정복자" #NT!
+#  tbatt_header_protector_of_clergy: "예:\n장로의 수호자\n성직자의 수호자\n승가의 수호자" #NT!
+#  guardian_of_the_clergy_tt: "예:\n장로의 수호자\n성직자의 수호자\n승가의 수호자" #NT!
+#  tbatt_header_custodian_of_clergy: "예:\n장로의 관리인\n성직자의 관리인\n승가의 관리인" #NT!
+#  tbatt_header_lords_wrath: "신앙에 기초한 예:\n주님의 진노\n모든 아버지의 진노\n계몽자의 진노\n구세주의 진노\n하나님 아버지의 진노" #NT!
+#  tbatt_header_lords_fury: "신앙에 기초한 예:\n주님의 분노\n모든 아버지의 분노\n계몽자의 분노\n구세주의 분노\n하나님 아버지의 분노" #NT!
+#  tbatt_header_lords_might: "신앙에 기초한 예:\n주의 권능\n모든 아버지의 권세\n계몽자의 권능\n구세주의 권능\n하나님 아버지의 권세" #NT!
+#  tbatt_header_lords_vengeance: "신앙에 기초한 예:\n주님의 복수\n모든 아버지의 복수\n계몽자의 복수\n구세주의 복수\n하나님 아버지의 복수" #NT!
+#  tbatt_header_lords_blade: "신앙에 기초한 예:\n영주의 검\n모든 아버지의 검\n계몽자의 검\n구세주의 검\n하나님 아버지의 검" #NT!
+#  tbatt_header_lords_shield: "신앙에 기초한 예:\n주님의 방패\n모든 아버지의 방패\n계몽자의 방패\n구원자의 방패\n하나님 아버지의 방패" #NT!
+#  tbatt_header_lords_justice: "신앙에 기초한 예:\n주님의 정의\n모든 아버지의 정의\n계몽자의 정의\n구주의 정의\n하나님 아버지의 정의" #NT!
+#  tbatt_header_guardian_of_text: "신앙에 기초한 예:\n주님의 정의\n모든 아버지의 정의\n계몽자의 정의\n구주의 정의\n하나님 아버지의 정의" #NT!
+#  tbatt_header_protector_of_text: "신앙에 기초한 예:\n성경의 수호자\n영웅 무용담의 수호자\n위대한 전설의 수호자" #NT!
+#  tbatt_header_blade_of_followers: "신앙에 기초한 예:\n기독교인의 칼날\n탱그리스트의 칼날\n아스타루아인의 칼날" #NT!
+#  tbatt_header_wrath_of_god: "신앙에 기초한 예:\n신의 진노\n오딘의 진노\n주님의 진노\n알라의 진노\n로드의 진노" #NT!
+#  tbatt_header_gods_fury: "신앙에 기초한 예:\n신의 분노\n오딘의 분노\n주님의 분노\n알라의 분노\n로드의 분노" #NT!
+#  tbatt_header_gods_wrath: "신앙에 기초한 예:\n신의 진노\n오딘의 진노\n주의 진노\n알라의 진노\n로드의 진노" #NT!
+#  tbatt_header_blade_of_god: "신앙에 기초한 예:\n신의 칼날\n오딘의 칼날\n주님의 칼날\n알라의 칼날\n막대의 칼날" #NT!
+#  tbatt_header_shield_of_god: "신앙에 기초한 예:\n신의 방패\n오딘의 방패\n주님의 방패\n알라의 방패\n막대의 방패" #NT!
+#  tbatt_header_sword_of_wargod: "신앙에 기초한 예:\n성 조지의 검\n티르의 검\n하두르의 검\n알라의 검\n예셰 왈모의 검\n자가나트의 검" #NT!
+#  tbatt_header_blade_of_wargod: "신앙에 기초한 예:\n세인트 조지의 검\n티르의 검\n하두르의 검\n알라의 검\n예셰 왈모의 검\n자가나트의 검" #NT!
+#  tbatt_header_might_of_wargod: "신앙에 기초한 예:\n세인트 조지의 힘\n티르의 힘\n하두르의 힘\n알라의 힘\n예셰 왈모의 힘\n자가나트의 힘" #NT!
+#  tbatt_header_wrath_of_wargod: "신앙에 기초한 예:\n세인트 조지의 분노\n티르의 분노\n하두르의 분노\n알라의 분노\n예세 왈모의 분노\n자가나트의 분노" #NT!
+#  tbatt_header_fury_of_wargod: "신앙에 기초한 예:\n세인트 조지의 분노\n티르의 분노\n하두르의 분노\n알라의 분노\n예셰 ​​왈모의 분노\n자가나트의 분노" #NT!
+#  tbatt_header_blade_of_heaven: "신앙에 기초한 예:\n천국의 검\n발할라의 검\n영원한 푸른 하늘의 검\n스바르가의 검" #NT!
+#  tbatt_header_shield_of_heaven: "신앙에 기초한 예:\n하늘의 방패\n발할라의 방패\n영원한 푸른 하늘의 방패\n스바르가의 방패" #NT!
+#  tbatt_header_bearer_of_symbol: "신앙에 기초한 예:\n십자가의 운반자\nValknut의 운반자\nOm의 운반자\n빛의 십자가의 운반자\nDharmachakra의 운반자\nShahada의 운반자" #NT!
+#  tbatt_header_defender_of_symbol: "신앙에 기초한 예:\n십자가의 수호자\n발크누트의 수호자\n옴의 수호자\n빛의 십자가의 수호자\n다르마차크라의 수호자\n샤하다의 수호자" #NT!
+#  tbatt_header_protector_of_symbol: "신앙에 기초한 예:\n십자가의 수호자\n발크누트의 수호자\n옴의 수호자\n빛의 십자가의 수호자\n다르마차크라의 수호자\n샤하다의 수호자" #NT!
+  
+ bane_of_infidels_tt: "신앙에 기초한 예:\n이교도의 파멸\n외부인의 파멸\n야만인의 파멸\n이교도의 파멸" #NT!
+ vanq_of_infidels_tt: "신앙에 기초한 예:\n이교도의 정복자\n외부인의 정복자\n야만인의 정복자\n이교도의 정복자" #NT!
+ conq_of_infidels_tt: "신앙에 기초한 예:\n이교도의 정복자\n외부인의 정복자\n야만인의 정복자\n이교도의 정복자" #NT!
+ blade_of_catholics_tt: "신앙에 기초한 예:\n가톨릭의 칼날\n마투리디스의 칼날\n텡그리스트의 칼날\n무왈라디스의 칼날" #NT!
+  
+ learn_commander_trait.0005.a: "신앙심 없는 사람" #NT!
+ learn_commander_trait.0005.b: "이교도" #NT!
+ learn_commander_trait.0005.c: "외부인" #NT!
+ learn_commander_trait.0005.d: "야만인" #NT!
+  
+ tactical_training_events.01.t: "색상을 선택하세요" #NT!
+ tactical_training_events.02.t: "당신의 동물을 선택하세요" #NT!
+ tactical_training_events.03.t: "당신의 적은 누구입니까?" #NT!
+ tactical_training_events.1101.desc: "당신은 무슨 색입니까?" #NT!
+ tactical_training_events.1102.desc: "당신은 어떤 동물입니까?" #NT!
+ tactical_training_events.1103.desc: "당신의 적은 누구입니까?" #NT!

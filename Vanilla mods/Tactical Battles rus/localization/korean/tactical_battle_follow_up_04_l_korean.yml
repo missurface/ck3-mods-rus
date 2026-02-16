@@ -1,0 +1,279 @@
+﻿l_korean:
+ tactical_forest_battle.9468.t: "MAA 실행 요금" #NT!
+ tactical_forest_battle.9468.desc: "우리의 Men-at-Arms가 우위를 점할 수 있는 기회를 인식했습니다! 우리의 정예 중무장 부대는 적의 중앙으로 세게 진격하여 적의 진형을 완전히 무너뜨릴 수 있습니다." #NT!
+ tactical_forest_battle.9468.a: "MAA 언론의 장점" #NT!
+ tactical_forest_battle.9468.a.success: "MAA가 적진을 돌파합니다!" #NT!
+ tactical_forest_battle.9468.a.failure: "MAA 혐의가 격퇴되었습니다!" #NT!
+ tactical_forest_battle.9468.b: "깨지기 어려운 또 다른 충전 수행" #NT!
+ tactical_forest_battle.9468.b.success: "두 번째 돌격은 적진을 무너뜨립니다!" #NT!
+ tactical_forest_battle.9468.b.failure: "두 번째 돌격은 돌파에 실패합니다!" #NT!
+ tactical_forest_battle.9468.c: "입지를 굳건히 하고 입지를 굳건히 하라" #NT!
+ tactical_forest_battle.9468.c.success: "MAA는 훌륭한 위치를 확보했습니다!" #NT!
+ tactical_forest_battle.9468.c.failure: "통합으로 인해 우리가 노출되었습니다!" #NT!
+ tactical_forest_battle.9468.d: "측면 기동을 실행" #NT!
+ tactical_forest_battle.9468.d.success: "측면 기동이 훌륭하게 성공합니다!" #NT!
+ tactical_forest_battle.9468.d.failure: "측면 기동이 발전하지 못했습니다!" #NT!
+ tactical_forest_battle.9468.e: "꾸준한 전진 유지" #NT!
+ tactical_forest_battle.9468.e.success: "꾸준한 전진으로 적의 저항을 무너뜨립니다!" #NT!
+ tactical_forest_battle.9468.e.failure: "적의 저항에 맞서 전진이 지연됩니다!" #NT!
+  
+ tactical_forest_battle.9471.t: "미끼를 쫓는 적" #NT!
+ tactical_forest_battle.9471.desc: "우리의 전략은 계획대로 진행됩니다! 우리의 약해진 중앙은 적을 유인해 왔고, [enemy_commander.GetFirstNamePossessive] 중앙은 천천히 제자리에서 벗어나고 있는 반면 우리 중앙의 측면은 굳건히 버티고 있습니다. 그들의 중심에는 사방에 적들이 보입니다! 이제 우리는 그들의 무질서한 병력을 분쇄하기 위해 반격을 시작할 수 있습니다." #NT!
+ tactical_forest_battle.9471.a: "갑작스런 충전 시작" #NT!
+ tactical_forest_battle.9471.a.success: "갑작스러운 공격에 적군은 혼란에 빠진다." #NT!
+ tactical_forest_battle.9471.a.failure: "Theior 센터는 강세를 유지하고 있습니다." #NT!
+ tactical_forest_battle.9471.b: "중앙선 왼쪽 측면에서 세게 밀면 포위가 시작됩니다." #NT!
+ tactical_forest_battle.9471.b.success: "우리가 밀어붙이면 우리 병력이 빠져나와서 우리 병력이 뒤처지게 됩니다!" #NT!
+ tactical_forest_battle.9471.b.failure: "충전이 흡수되었습니다!" #NT!
+ tactical_forest_battle.9471.c: "중앙선의 오른쪽 측면에서 강하게 밀어서 포위를 시작합니다." #NT!
+ tactical_forest_battle.9471.c.success: "우리가 밀어붙이면 우리 병력이 빠져나와서 우리 병력이 뒤처지게 됩니다!" #NT!
+ tactical_forest_battle.9471.c.failure: "충전이 흡수되었습니다!" #NT!
+ tactical_forest_battle.9471.d: "적의 위치를 ​​유지하기 위해 크랙 유닛을 중앙으로 보냅니다." #NT!
+ tactical_forest_battle.9471.d.success: "우리의 중앙은 안정되어 있고 측면은 포위할 수 있는 위치에 있습니다." #NT!
+ tactical_forest_battle.9471.d.failure: "적이 용기를 얻습니다!" #NT!
+ tactical_forest_battle.9471.e: "우리 기사들을 보내 중앙을 강화하고 우리 측면이 위치를 잡는 동안" #NT!
+ tactical_forest_battle.9471.e.success: "적의 공격은 스스로를 소진시킵니다!" #NT!
+ tactical_forest_battle.9471.e.failure: "적이 우리 전선을 뚫고 들어옵니다!" #NT!
+  
+  
+ tactical_forest_battle.9470.t: "나이츠 발사 충전" #NT!
+ tactical_forest_battle.9470.desc: "우리 기사 파견대가 돌격할 기회를 포착했습니다! 적군이 다소 혼란스러운 상태에서 시기 적절한 기병 돌격은 사기를 꺾을 수 있습니다." #NT!
+ tactical_forest_battle.9470.a: "나이츠 프레스 어드밴티지" #NT!
+ tactical_forest_battle.9470.a.success: "기사들의 돌격으로 적을 무너뜨립니다!" #NT!
+ tactical_forest_battle.9470.a.failure: "기사들은 격퇴된다!" #NT!
+ tactical_forest_battle.9470.b: "MAA 지원과 요금 결합" #NT!
+ tactical_forest_battle.9470.b.success: "기병과 MAA의 연합 돌격이 성공했습니다!" #NT!
+ tactical_forest_battle.9470.b.failure: "결합 충전이 실패합니다!" #NT!
+ tactical_forest_battle.9470.c: "넓은 측면 기동을 실행" #NT!
+ tactical_forest_battle.9470.c.success: "기사들이 적의 측면을 포위합니다!" #NT!
+ tactical_forest_battle.9470.c.failure: "측면 기동이 발전하지 않습니다!" #NT!
+ tactical_forest_battle.9470.d: "기사단은 중앙 후퇴를 보호합니다." #NT!
+ tactical_forest_battle.9470.d.success: "기사들이 퇴각을 성공적으로 차단했습니다!" #NT!
+ tactical_forest_battle.9470.d.failure: "기사들은 전선을 지킬 수 없습니다!" #NT!
+ tactical_forest_battle.9470.e: "오르막길에서 적에게 돌진하다" #NT!
+ tactical_forest_battle.9470.e.success: "오르막 돌격은 여전히 ​​​​돌파됩니다!" #NT!
+ tactical_forest_battle.9470.e.failure: "오르막 충전은 불가능합니다!" #NT!
+  
+ tactical_forest_battle.7243.t: "적이 포위를 막기 위해 돌아선다" #NT!
+ tactical_forest_battle.7243.desc: "[enemy_commander.GetFirstNamePossessive]은 그들의 군대를 왼쪽에서 다가오는 우리 군대와 맞서도록 방향을 바꾸고 우리가 그들을 가두기 전에 탈출하려고 시도했습니다. 우리는 이 새로운 위협에 신속하게 대응해야 합니다." #NT!
+ tactical_forest_battle.7243.a: "등을 충전하세요" #NT!
+ tactical_forest_battle.7243.a.success: "노출된 후방을 충전합니다!" #NT!
+ tactical_forest_battle.7243.a.failure: "적의 후위대가 버티고 있다!" #NT!
+ tactical_forest_battle.7243.b: "포스 헤드를 충전하세요" #NT!
+ tactical_forest_battle.7243.b.success: "우리 왼쪽 측면이 무너졌어" #NT!
+ tactical_forest_battle.7243.b.failure: "왼쪽 측면은 제때에 도달할 수 없습니다!" #NT!
+ tactical_forest_battle.7243.c: "후퇴하는 척하고 정면으로 공격을 가하세요." #NT!
+ tactical_forest_battle.7243.c.success: "그들의 반격이 무너졌습니다!" #NT!
+ tactical_forest_battle.7243.c.failure: "페인트는 그들을 끌어들이지 못합니다!" #NT!
+ tactical_forest_battle.7243.d: "뒤쳐져 위치를 잡기 위한 우리의 올바른 책임" #NT!
+ tactical_forest_battle.7243.d.success: "우리의 오른쪽 측면은 출혈을 뚫고 중앙 뒤로 이동합니다." #NT!
+ tactical_forest_battle.7243.d.failure: "왼쪽 측면은 계속해서 어려움을 겪고 있습니다!" #NT!
+ tactical_forest_battle.7243.e: "회전하는 동안 중앙을 공격합니다." #NT!
+ tactical_forest_battle.7243.e.success: "흐트러진 상태에서 중앙공격을 가한다!" #NT!
+ tactical_forest_battle.7243.e.failure: "중앙 공격이 활용되지 않습니다!" #NT!
+  
+ tactical_forest_battle.7244.t: "적이 포위를 막기 위해 돌아선다" #NT!
+ tactical_forest_battle.7244.desc: "[enemy_commander.GetFirstNamePossessive]은 [enemy_commander.GetHerHis] 병력을 오른쪽에서 우리를 둘러싸고 있는 병력과 마주하도록 방향을 바꾸어 우리가 그들을 가두기 전에 돌파하려고 시도했습니다. 우리는 이 새로운 위협에 신속하게 대응해야 합니다." #NT!
+ tactical_forest_battle.7244.a: "등을 충전하세요" #NT!
+ tactical_forest_battle.7244.a.success: "노출된 후방을 충전합니다!" #NT!
+ tactical_forest_battle.7244.a.failure: "적의 후위대가 버티고 있다!" #NT!
+ tactical_forest_battle.7244.b: "포스 헤드를 충전하세요" #NT!
+ tactical_forest_battle.7244.b.success: "우리 오른쪽 측면이 무너졌어" #NT!
+ tactical_forest_battle.7244.b.failure: "오른쪽 측면은 돌파할 수 없습니다!" #NT!
+ tactical_forest_battle.7244.c: "후퇴하는 척하고 정면으로 공격을 가하세요." #NT!
+ tactical_forest_battle.7244.c.success: "그들의 반격이 무너졌습니다!" #NT!
+ tactical_forest_battle.7244.c.failure: "페인트는 그들을 끌어들이지 못합니다!" #NT!
+ tactical_forest_battle.7244.d: "뒤쳐져 위치를 잡는 우리의 왼쪽 돌격" #NT!
+ tactical_forest_battle.7244.d.success: "우리의 왼쪽 측면은 출혈을 뚫고 중앙 뒤로 이동합니다." #NT!
+ tactical_forest_battle.7244.d.failure: "왼쪽 측면은 계속해서 어려움을 겪고 있습니다!" #NT!
+ tactical_forest_battle.7244.e: "회전하는 동안 중앙을 공격합니다." #NT!
+ tactical_forest_battle.7244.e.success: "흐트러진 상태에서 중앙공격을 가한다!" #NT!
+ tactical_forest_battle.7244.e.failure: "중앙 공격이 활용되지 않습니다!" #NT!
+  
+  
+ tactical_forest_battle.2011.t: "노출된 중앙 측면" #NT!
+ tactical_forest_battle.2011.desc: "적군이 우리의 속임수에 넘어가지 않았기 때문에 이제 우리의 중앙 측면이 노출되었습니다! 그들은 우리의 취약한 측면을 강하게 공격할 수 있는 위치에 있습니다. 강화하거나 재배치하려면 신속하게 조치를 취해야 합니다." #NT!
+ tactical_forest_battle.2011.a: "중앙을 강화하기 위해 크랙 유닛을 보내세요" #NT!
+ tactical_forest_battle.2011.a.success: "예비군이 도착하여 중앙을 강화합니다!" #NT!
+ tactical_forest_battle.2011.a.failure: "예비금은 제 시간에 도달할 수 없습니다!" #NT!
+ tactical_forest_battle.2011.b: "중앙 예비군을 돌려 거부 측면을 형성하세요" #NT!
+ tactical_forest_battle.2011.b.success: "측면을 거부하는 센터 휠과 형태!" #NT!
+ tactical_forest_battle.2011.b.failure: "바퀴가 고장나고 우리는 노출됩니다!" #NT!
+ tactical_forest_battle.2011.c: "좌회전하고 등을 돌린다" #NT!
+ tactical_forest_battle.2011.c.success: "우리의 돌격으로 인해 그들의 공격이 혼란스러워졌습니다!" #NT!
+ tactical_forest_battle.2011.c.failure: "그들은 개혁하고 전하를 흡수합니다!" #NT!
+ tactical_forest_battle.2011.d: "압력을 완화하기 위해 오른쪽 측면 충전" #NT!
+ tactical_forest_battle.2011.d.success: "오른쪽 측면 충전으로 압박감이 완화됩니다!" #NT!
+ tactical_forest_battle.2011.d.failure: "오른쪽 측면 돌격은 도달할 수 없습니다!" #NT!
+ tactical_forest_battle.2011.e: "우리 기사들을 보내 측면을 돌격하게 하세요" #NT!
+ tactical_forest_battle.2011.e.success: "기사들의 돌격으로 공격이 중단됩니다!" #NT!
+ tactical_forest_battle.2011.e.failure: "적군이 개혁하고 유지합니다!" #NT!
+  
+  
+ tactical_forest_battle.7330.t: "적군이 중앙 공격을 시작합니다" #NT!
+ tactical_forest_battle.7330.desc: "[enemy_commander.GetFirstNamePossessive]가 저희 센터에서 직접 강력한 추진을 하고 있습니다! 우리 센터는 엄청난 압박을 받고 있으며, 사수할지, 강화할지, 기동할지 결정해야 합니다." #NT!
+ tactical_forest_battle.7330.a: "센터를 집결시키다" #NT!
+ tactical_forest_battle.7330.a.success: "중앙이 공격을 흡수하고 막아냅니다!" #NT!
+ tactical_forest_battle.7330.a.failure: "센터는 압력을 견딜 수 없습니다!" #NT!
+ tactical_forest_battle.7330.b: "중앙을 강화하기 위해 좌익 예비군을 보내라" #NT!
+ tactical_forest_battle.7330.b.success: "좌익 예비군 도착 및 중앙 안정!" #NT!
+ tactical_forest_battle.7330.b.failure: "왼쪽 예비군은 제때에 강화되지 않습니다!" #NT!
+ tactical_forest_battle.7330.c: "중앙 강화를 위해 우익 예비군 파견" #NT!
+ tactical_forest_battle.7330.c.success: "오른쪽 예비군 도착 및 센터 안정!" #NT!
+ tactical_forest_battle.7330.c.failure: "권리 예비군은 제때에 강화되지 않습니다!" #NT!
+ tactical_forest_battle.7330.d: "센터, 필사적으로 돌격 개시" #NT!
+ tactical_forest_battle.7330.d.success: "그들의 센터는 돌격에 깜짝 놀랐습니다!" #NT!
+ tactical_forest_battle.7330.d.failure: "중앙이 굳건히 자리 잡고 공격을 압박하고 있습니다." #NT!
+ tactical_forest_battle.7330.e: "후퇴하는 척하여 적을 유인하고 공격합니다." #NT!
+ tactical_forest_battle.7330.e.success: "적은 우리가 후퇴하고 있다고 생각하고 함정에 빠졌습니다!" #NT!
+ tactical_forest_battle.7330.e.failure: "우리는 헤어질 수 없습니다!" #NT!
+ tactical_forest_battle.7330.f: "센터를 후퇴시켜 그들이 제자리에서 벗어나도록 노력하세요." #NT!
+ tactical_forest_battle.7330.f.success: "성공적으로 분리하고 위치를 변경했습니다!" #NT!
+ tactical_forest_battle.7330.f.failure: "우리는 헤어질 수 없습니다!" #NT!
+  
+  
+ tactical_forest_battle.9475.t: "군대를 집결시키다" #NT!
+ tactical_forest_battle.9475.desc: "전투가 중요한 지점에 도달했습니다. 우리 군대는 흔들리고 있지만 아직 무너지지는 않았습니다. 강력한 리더십과 과감한 행동으로 질서를 회복하고 상황을 반전시킬 수 있습니다!" #NT!
+ tactical_forest_battle.9475.a: "센터가 공격을 가한다" #NT!
+ tactical_forest_battle.9475.a.success: "우리 군대는 부름을 듣고 집결합니다!" #NT!
+ tactical_forest_battle.9475.a.failure: "군대는 계속 흔들리고 있습니다!" #NT!
+ tactical_forest_battle.9475.b: "후퇴하는 척하여 적을 유인하고 반격" #NT!
+ tactical_forest_battle.9475.b.success: "반격이 성공하고 사기가 치솟습니다!" #NT!
+ tactical_forest_battle.9475.b.failure: "반격은 실패하고 사기는 무너진다!" #NT!
+ tactical_forest_battle.9475.c: "압박을 완화하기 위해 왼쪽이 오른쪽 측면을 세게 돌진합니다." #NT!
+ tactical_forest_battle.9475.c.success: "돌격으로 인해 오른쪽 측면이 혼란스러워졌습니다!" #NT!
+ tactical_forest_battle.9475.c.failure: "적은 여전히 ​​굳건합니다!" #NT!
+ tactical_forest_battle.9475.d: "오른쪽 측면은 압박을 완화하기 위해 강하게 돌진합니다." #NT!
+ tactical_forest_battle.9475.d.success: "돌격으로 인해 왼쪽 측면이 혼란스러워졌습니다!" #NT!
+ tactical_forest_battle.9475.d.failure: "적은 여전히 ​​굳건합니다!" #NT!
+ tactical_forest_battle.9475.e: "기사를 보내 강화하세요" #NT!
+ tactical_forest_battle.9475.e.success: "예비군이 도착하여 라인을 강화합니다!" #NT!
+ tactical_forest_battle.9475.e.failure: "예비금이 너무 흩어져 도움이 되지 않습니다!" #NT!
+ tactical_forest_battle.9475.f: "강화를 위해 정예 부대를 보내세요" #NT!
+ tactical_forest_battle.9475.f.success: "우리 크랙 유닛은 적들에게 혼란을 야기합니다!" #NT!
+ tactical_forest_battle.9475.f.failure: "우리 크랙 유닛이 압도당했습니다!" #NT!
+  
+  
+ tactical_forest_battle.6321.desc: "[enemy_commander.GetFirstNamePossessive] 부대가 우리 부대를 추격하고 있습니다! 우리는 기사들을 이용해 추격자들을 공격하여 그들의 전진을 방해할 수 있습니다." #NT!
+ tactical_forest_battle.6321.a: "플러드 갭으로 기사 보내기" #NT!
+ tactical_forest_battle.6321.a.success: "우리 기사들이 틈을 메우고 겟!" #NT!
+ tactical_forest_battle.6321.a.failure: "오른쪽 측면은 오프닝을 이용할 수 없습니다!" #NT!
+ tactical_forest_battle.6321.b: "강화를 위해 MAA 연대를 파견" #NT!
+ tactical_forest_battle.6321.b.success: "MAA가 위치를 성공적으로 강화했습니다!" #NT!
+ tactical_forest_battle.6321.b.failure: "MAA는 제 시간에 도달할 수 없습니다!" #NT!
+ tactical_forest_battle.6321.c: "기사들이 돌아서 돌진한다" #NT!
+ tactical_forest_battle.6321.c.success: "기사들의 돌격으로 추격이 중단됩니다!" #NT!
+ tactical_forest_battle.6321.c.failure: "기사단의 돌진이 너무 느립니다!" #NT!
+ tactical_forest_battle.6321.d: "지지를 위한 중앙집회" #NT!
+ tactical_forest_battle.6321.d.success: "센터랠리는 수비를 강화한다!" #NT!
+ tactical_forest_battle.6321.d.failure: "센터는 제 시간에 집결할 수 없습니다!" #NT!
+ tactical_forest_battle.6321.e: "추격자들을 위해 매복 공격을 가하세요" #NT!
+ tactical_forest_battle.6321.e.success: "매복 공격으로 추격이 중단됩니다!" #NT!
+ tactical_forest_battle.6321.e.failure: "적들은 매복을 피합니다!" #NT!
+ tactical_forest_battle.6321.f: "반격을 위해 군대를 격려" #NT!
+ tactical_forest_battle.6321.f.success: "분노로 반격하는 군대!" #NT!
+ tactical_forest_battle.6321.f.failure: "사기가 떨어지고 패배가 계속됩니다!" #NT!
+  
+ tactical_forest_battle.6322.t: "쫓는 적을 공격하기 위해 왼쪽에서 벗어나십시오." #NT!
+ tactical_forest_battle.6322.desc: "적군이 우리 왼쪽 측면을 추격하고 있습니다! 우리는 유닛을 부수어 방향을 바꾸고 추격자를 공격하여 추격자의 추진력을 깨뜨릴 수 있습니다." #NT!
+ tactical_forest_battle.6322.a: "좌파분리 혐의 추격자들" #NT!
+ tactical_forest_battle.6322.a.success: "분리 혐의가 추격자들에게 충돌합니다!" #NT!
+ tactical_forest_battle.6322.a.failure: "분리가 끊어졌습니다!" #NT!
+ tactical_forest_battle.6322.b: "기사단은 왼쪽 측면을 차단합니다." #NT!
+ tactical_forest_battle.6322.b.success: "기사들이 추격을 막고 있습니다!" #NT!
+ tactical_forest_battle.6322.b.failure: "기사들이 압도당했습니다!" #NT!
+ tactical_forest_battle.6322.c: "좌파를 강화하기 위해 MAA를 보내세요" #NT!
+ tactical_forest_battle.6322.c.success: "MAA 증원군이 왼쪽을 지탱하고 있습니다!" #NT!
+ tactical_forest_battle.6322.c.failure: "MAA는 제 시간에 왼쪽으로 갈 수 없습니다!" #NT!
+ tactical_forest_battle.6322.d: "왼쪽을 돕기 위해 중앙 피벗" #NT!
+ tactical_forest_battle.6322.d.success: "추격자를 상대로 센터 어시스트가 남았습니다!" #NT!
+ tactical_forest_battle.6322.d.failure: "센터는 시간에 맞춰 회전할 수 없습니다!" #NT!
+ tactical_forest_battle.6322.e: "왼쪽 측면 수비수 집결" #NT!
+ tactical_forest_battle.6322.e.success: "왼쪽 측면 집결과 반격!" #NT!
+ tactical_forest_battle.6322.e.failure: "랠리에도 불구하고 왼쪽 측면 패배!" #NT!
+ tactical_forest_battle.6322.f: "함정을 설치하기 위해 후퇴하는 척하기" #NT!
+ tactical_forest_battle.6322.f.success: "추격자들이 우리 함정에 들어왔습니다!" #NT!
+ tactical_forest_battle.6322.f.failure: "적들이 함정을 피한다!" #NT!
+  
+ tactical_forest_battle.6323.t: "중앙을 회전하여 추격하는 적을 공격하세요" #NT!
+ tactical_forest_battle.6323.desc: "[enemy_commander.GetFirstNamePossessive]님이 우리 센터를 쫓고 있어요! 우리는 중앙군을 회전시켜 그들과 정면으로 맞서고 그들의 진격을 저지할 수 있습니다." #NT!
+ tactical_forest_battle.6323.a: "센터가 추격자들을 향해 돌진합니다." #NT!
+ tactical_forest_battle.6323.a.success: "센터는 추격자들과 결사적으로 맞서고 있습니다!" #NT!
+ tactical_forest_battle.6323.a.failure: "센터턴이 조화롭지 않아요!" #NT!
+ tactical_forest_battle.6323.b: "측면은 중앙이 적의 측면을 향하고 있는 동안 적의 측면을 공격합니다." #NT!
+ tactical_forest_battle.6323.b.success: "협공 공격으로 추격이 방해됩니다!" #NT!
+ tactical_forest_battle.6323.b.failure: "측면 공격이 전개되지 않습니다!" #NT!
+ tactical_forest_battle.6323.c: "모든 기사를 보내 반격하게 하세요" #NT!
+ tactical_forest_battle.6323.c.success: "기사의 반격으로 추격자를 무너뜨린다!" #NT!
+ tactical_forest_battle.6323.c.failure: "기사의 반격 실패!" #NT!
+ tactical_forest_battle.6323.d: "랠리 센터 및 전진" #NT!
+ tactical_forest_battle.6323.d.success: "중앙 집결과 반격!" #NT!
+ tactical_forest_battle.6323.d.failure: "센터는 집결할 수 없습니다!" #NT!
+ tactical_forest_battle.6323.e: "MAA 형태의 방어벽" #NT!
+ tactical_forest_battle.6323.e.success: "MAA 벽은 추격을 중지합니다!" #NT!
+ tactical_forest_battle.6323.e.failure: "MAA 벽이 무너졌습니다!" #NT!
+ tactical_forest_battle.6323.f: "함정으로의 추격을 허용" #NT!
+ tactical_forest_battle.6323.f.success: "추격자들이 함정에 빠졌습니다!" #NT!
+ tactical_forest_battle.6323.f.failure: "적들이 함정을 피한다!" #NT!
+  
+ tactical_forest_battle.6324.t:0 "Flanked and Confused 
+ tactical_forest_battle.6324.desc: "우리의 측면 기동 이후 그들의 왼쪽 측면은 방향 감각을 잃었습니다. 우리는 측면이 공격을 압박하는 동안 중앙을 회전하여 공격함으로써 이러한 혼란을 이용할 수 있습니다." #NT!
+ tactical_forest_battle.6324.a: "중앙을 공격하기 위해 측면을 공격하세요" #NT!
+ tactical_forest_battle.6324.a.success: "그들의 센터가 방심하고 있습니다!" #NT!
+ tactical_forest_battle.6324.a.failure: "우리 병력이 수렁에 빠졌습니다!" #NT!
+ tactical_forest_battle.6324.b: "기사를 보내 좌익을 무너뜨리세요" #NT!
+ tactical_forest_battle.6324.b.success: "우리 기사들이 대열에 큰 혼란을 일으키고 있습니다!" #NT!
+ tactical_forest_battle.6324.b.failure: "우리 기사들이 수렁에 빠졌어요!" #NT!
+ tactical_forest_battle.6324.c: "우리의 정예 부대를 보내 그들의 좌익을 무너뜨리세요" #NT!
+ tactical_forest_battle.6324.c.success: "우리 정예 부대가 왼쪽 측면 전체에 혼란을 일으키고 있습니다!" #NT!
+ tactical_forest_battle.6324.c.failure: "우리 부대는 돌파할 수 없습니다!" #NT!
+ tactical_forest_battle.6324.d: "방향 감각을 잃은 라인을 충전하세요" #NT!
+ tactical_forest_battle.6324.d.success: "우리의 오른쪽 측면이 혼란스러운 라인에 부딪칩니다!" #NT!
+ tactical_forest_battle.6324.d.failure: "우리의 혐의는 거부되었습니다!" #NT!
+ tactical_forest_battle.6324.e: "이점을 누르고 집결하세요" #NT!
+ tactical_forest_battle.6324.e.success: "군대가 집결하여 공격을 가합니다!" #NT!
+ tactical_forest_battle.6324.e.failure: "그들의 라인이 재편성됩니다!" #NT!
+ tactical_forest_battle.6324.f: "후퇴하는 척하고 왼쪽 측면을 공격하세요" #NT!
+ tactical_forest_battle.6324.f.success: "그들은 우리의 속임수를 따라가며 우리의 함정에 들어갑니다!" #NT!
+ tactical_forest_battle.6324.f.failure: "그들의 라인이 재편성됩니다!" #NT!
+  
+  
+ tactical_forest_battle.9420.t: "적군이 왼쪽 공격을 시작합니다" #NT!
+ tactical_forest_battle.9420.desc: "[enemy_commander.GetFirstNamePossessive]이(가) 우리 왼쪽에서 직접 강하게 밀고 있습니다! 우리 좌파는 엄청난 압박을 받고 있으며, 우리는 방어할 것인지, 강화할 것인지, 아니면 기동할 것인지를 결정해야 합니다." #NT!
+ tactical_forest_battle.9420.a: "왼쪽 집결" #NT!
+ tactical_forest_battle.9420.a.success: "좌파는 공격을 흡수하고 버틴다!" #NT!
+ tactical_forest_battle.9420.a.failure: "좌파는 압력을 견딜 수 없습니다!" #NT!
+ tactical_forest_battle.9420.b: "좌파를 강화하기 위해 중앙 예비군을 보내라" #NT!
+ tactical_forest_battle.9420.b.success: "중앙 예비군 도착 및 좌회전 안정!" #NT!
+ tactical_forest_battle.9420.b.failure: "권리 예비군은 제때에 강화되지 않습니다!" #NT!
+ tactical_forest_battle.9420.c: "좌파를 강화하기 위해 우파 예비군을 보내라" #NT!
+ tactical_forest_battle.9420.c.success: "오른쪽 예비군이 도착하고 왼쪽을 안정시킵니다!" #NT!
+ tactical_forest_battle.9420.c.failure: "권리 예비군은 제때에 강화되지 않습니다!" #NT!
+ tactical_forest_battle.9420.d: "좌파는 필사적인 돌격을 개시한다" #NT!
+ tactical_forest_battle.9420.d.success: "그들의 왼쪽은 돌격에 깜짝 놀랐습니다!" #NT!
+ tactical_forest_battle.9420.d.failure: "그들의 좌파는 강하게 버티고 공격을 압박합니다." #NT!
+ tactical_forest_battle.9420.e: "측면에서 후퇴하는 척하여 적을 유인하고 공격하세요." #NT!
+ tactical_forest_battle.9420.e.success: "적은 우리가 후퇴하고 있다고 생각하고 함정에 빠졌습니다!" #NT!
+ tactical_forest_battle.9420.e.failure: "우리는 헤어질 수 없습니다!" #NT!
+  
+ tactical_forest_battle.6325.t: "센터가 천천히 후퇴함" #NT!
+ tactical_forest_battle.6325.desc: "우리 센터가 압력을 받고 철수하고 있습니다! 우리는 이 후퇴가 질서를 유지하도록 해야 합니다. 그렇지 않으면 측면 공격을 받아 패배할 위험이 있습니다!" #NT!
+ tactical_forest_battle.6325.a: "센터는 규율을 유지합니다" #NT!
+ tactical_forest_battle.6325.a.success: "센터 퇴각은 순조롭게 진행됩니다!" #NT!
+ tactical_forest_battle.6325.a.failure: "센터가 무너지기 시작합니다!" #NT!
+ tactical_forest_battle.6325.b: "측면이 철수를 커버합니다." #NT!
+ tactical_forest_battle.6325.b.success: "측면을 확보하고 후퇴를 엄호하세요!" #NT!
+ tactical_forest_battle.6325.b.failure: "측면 보호 실패!" #NT!
+ tactical_forest_battle.6325.c: "기사들이 퇴각을 막는다." #NT!
+ tactical_forest_battle.6325.c.success: "중앙이 철수하는 동안 기사들이 라인을 유지합니다!" #NT!
+ tactical_forest_battle.6325.c.failure: "기사는 참을 수 없습니다!" #NT!
+ tactical_forest_battle.6325.d: "퇴각 경로를 따라 매복 공격을 가하세요" #NT!
+ tactical_forest_battle.6325.d.success: "매복 공격으로 적의 추격이 중단됩니다!" #NT!
+ tactical_forest_battle.6325.d.failure: "적들은 매복 공격을 피합니다!" #NT!
+ tactical_forest_battle.6325.e: "집결하여 새로운 위치를 차지하세요" #NT!
+ tactical_forest_battle.6325.e.success: "새로운 직위가 확립되었습니다!" #NT!
+ tactical_forest_battle.6325.e.failure: "강력한 위치를 찾을 수 없습니다!" #NT!
+ tactical_forest_battle.6325.f: "측면이 후퇴 센터를 둘러싸도록 허용" #NT!
+ tactical_forest_battle.6325.f.success: "포위를 허용합니다!" #NT!
+ tactical_forest_battle.6325.f.failure: "포위를 피합니다!" #NT!
+  

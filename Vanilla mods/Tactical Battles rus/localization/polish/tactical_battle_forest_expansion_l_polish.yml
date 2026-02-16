@@ -1,0 +1,752 @@
+﻿l_polish:
+  
+  
+ game_concept_captain_trait_concept: "Kapitan Cecha"
+ game_concept_captain_trait_concept_desc: "Cechy Kapitana to cechy nadawane ludziom rekrutowanym z oddziału zbrojnych. Podczas bitwy, gdy korzystasz z opcji obejmującej zbrojnych, jeśli się powiedzie, istnieje szansa na zrekrutowanie dowódcy ze specjalną cechą Kapitana po bitwie. Te cechy zapewniają twojej armii różne bonusy podczas bitew\n\n Przykładami są: [GetTrait('tbat_soldier_varangian').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_gendarme').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_mulaththamun').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_samurai').GetName(GetNullCharacter)]"
+ game_concept_player_title_concept: "odtwarzacz"
+ game_concept_player_title_concept_desc: "Cechy Kapitana to cechy nadawane ludziom rekrutowanym z oddziału zbrojnych. Podczas bitwy, gdy korzystasz z opcji obejmującej zbrojnych, jeśli się powiedzie, istnieje szansa na zrekrutowanie dowódcy ze specjalną cechą Kapitana po bitwie. Te cechy zapewniają twojej armii różne bonusy podczas bitew\n\n Przykładami są: [GetTrait('tbat_soldier_varangian').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_gendarme').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_mulaththamun').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_samurai').GetName(GetNullCharacter)]"
+  
+ tactical_forest_battle.0498.t: "Wybitny Żołnierz"
+ tactical_forest_battle.0498.desc: "Po otrzymaniu raportu z naszej ostatniej bitwy moi oficerowie poinformowali mnie, że jeden z naszych żołnierzy z elitarnego pułku [chosen_unit.GetName] spisał się znakomicie w samym środku walk. Przyjęcie [commander.GetHerHim] do mojej służby mogłoby zainspirować innych mężczyzn."
+ tactical_forest_battle.0498.a: "Zrekrutuj [commander.GetName] do mojej służby. ([commander.GetFirstName] zyskuje [captain_trait_concept|e])"
+ tactical_forest_battle.0498.b: "Pomyślę o tym."
+  
+ tactical_varangian_soldier_commander: "Varangijscy żołnierze w armii"
+ tactical_varangian_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('varangian_veterans').GetName]. \N"
+ tactical_light_inf_soldier_commander: "Żołnierze lekkiej piechoty w armii"
+ tactical_light_inf_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('light_footmen').GetName]. \N"
+ tactical_landsknecht_soldier_commander: "Żołnierze Landsknechtu w armii"
+ tactical_landsknecht_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('landsknechts').GetName]. \N"
+ tactical_longbow_soldier_commander: "Żołnierze z długimi łukami w armii"
+ tactical_longbow_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('longbowmen').GetName]. \N"
+ tactical_goedendag_soldier_commander: "Goedendag żołnierze w armii"
+ tactical_goedendag_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('goedendag_militia').GetName]. \N"
+ tactical_gendarme_soldier_commander: "Żandarmerii żołnierze w armii"
+ tactical_gendarme_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('gendarmes').GetName]. \N"
+ tactical_chasseur_soldier_commander: "Żołnierze Chasseur w armii"
+ tactical_chasseur_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('chasseurs').GetName]. \N"
+ tactical_picchieri_soldier_commander: "Żołnierze Picchieri w armii"
+ tactical_picchieri_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('picchieri').GetName]. \N"
+ tactical_praetorian_soldier_commander: "Pretoriańscy żołnierze w armii"
+ tactical_praetorian_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('praetorians').GetName]. \N"
+ tactical_caballero_soldier_commander: "Żołnierze Caballero w armii"
+ tactical_caballero_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('caballeros').GetName]. \N"
+ tactical_cataphract_soldier_commander: "Żołnierze katafrakta w armii"
+ tactical_cataphract_soldier_commander_desc: "Z tą armią jeździ płodny żołnierz awansowany z pułku katafraktów. \N"
+ tactical_monsapa_soldier_commander: "Żołnierze Monaspa w armii"
+ tactical_monsapa_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('monaspa').GetName]. \N"
+ tactical_hobelar_soldier_commander: "Hobelarni żołnierze w armii"
+ tactical_hobelar_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('hobelar').GetName]. \N"
+ tactical_schiltron_soldier_commander: "Żołnierze Schiltron w armii"
+ tactical_schiltron_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('schiltron').GetName]. \N"
+ tactical_metsvan_soldier_commander: "Metsänvartija Żołnierze w armii"
+ tactical_metsvan_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('metsanvartija').GetName]. \N"
+ tactical_konni_soldier_commander: "Konni żołnierze w armii"
+ tactical_konni_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('konni').GetName]. \N"
+ tactical_mubarizun_soldier_commander: "Żołnierze Mubarizuna w armii"
+ tactical_mubarizun_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('mubarizun').GetName]. \N"
+ tactical_ayyar_soldier_commander: "Ayyar żołnierze w armii"
+ tactical_ayyar_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('ayyar').GetName]. \N"
+ tactical_druzh_soldier_commander: "Żołnierze Drużyny w armii"
+ tactical_druzh_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('druzhina').GetName]. \N"
+ tactical_horn_warrior_soldier_commander: "Róg wojowników żołnierzy w armii"
+ tactical_horn_warrior_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('horn_warrior').GetName]. \N"
+ tactical_light_inf_soldier_commander: "Żołnierze lekkiej piechoty w armii"
+ tactical_shomer_soldier_commander: "Shomer żołnierze w armii"
+ tactical_shomer_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('shomer').GetName]. \N"
+ tactical_khandayat_soldier_commander: "Żołnierze Khandayat w armii"
+ tactical_khandayat_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('khandayat').GetName]. \N"
+ tactical_garuda_soldier_commander: "Żołnierze Garudy W Armii"
+ tactical_garuda_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('garuda').GetName]. \N"
+ tactical_mountaineer_soldier_commander: "Żołnierze alpiniści w armii"
+ tactical_mountaineer_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('mountaineer').GetName]. \N"
+ tactical_sahel_soldier_commander: "Jeźdźcy Sahelu w armii"
+ tactical_sahel_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('sahel_horsemen').GetName]. \N"
+ tactical_guinea_soldier_commander: "Żołnierze wojowników z Gwinei w armii"
+ tactical_guinea_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('guinea_warriors').GetName]. \N"
+ tactical_sarawit_soldier_commander: "Żołnierze Sarawit w armii"
+ tactical_sarawit_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('sarawit').GetName]. \N"
+ tactical_abudrar_soldier_commander: "Abudrar żołnierze w armii"
+ tactical_abudrar_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('abudrar').GetName]. \N"
+ tactical_zbroj_soldier_commander: "Zbrojnoscy żołnierze w armii"
+ tactical_zbroj_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('zbrojnosh').GetName]. \N"
+ tactical_palace_guards_soldier_commander: "Strażnicy Pałacowi W Armii"
+ tactical_palace_guards_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('palace_guards').GetName]. \N"
+ tactical_shenbig_soldier_commander: "Shenbigong żołnierze w armii"
+ tactical_shenbig_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('shenbigong').GetName]. \N"
+ tactical_muluth_soldier_commander: "Żołnierze Mulaththamon w armii"
+ tactical_muluth_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('muluththamun').GetName]. \N"
+ tactical_nile_archer_soldier_commander: "Łucznicy Nilu W Armii"
+ tactical_nile_archer_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('nile_archers').GetName]. \N"
+ tactical_paiks_soldier_commander: "Paiks żołnierze w armii"
+ tactical_paiks_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('paiks').GetName]. \N"
+ tactical_ayrudzi_soldier_commander: "Ayrudzi żołnierze w armii"
+ tactical_ayrudzi_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('ayrudzi').GetName]. \N"
+ tactical_conroi_soldier_commander: "Conroi żołnierze w armii"
+ tactical_conroi_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('conroi').GetName]. \N"
+ tactical_akritai_soldier_commander: "Akritai żołnierze w armii"
+ tactical_akritai_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('akritai').GetName]. \N"
+ tactical_heavy_archers_soldier_commander: "Ciężcy łucznicy w armii"
+ tactical_heavy_archers_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('heavy_archers').GetName]. \N"
+ tactical_skoutat_soldier_commander: "Żołnierze Skoutatoi W Armii"
+ tactical_skoutat_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('skoutatoi').GetName]. \N"
+ tactical_varangian_guards_soldier_commander: "Varangijscy strażnicy w armii"
+ tactical_varangian_guards_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('varangian_guards').GetName]. \N"
+ tactical_heavy_cav_soldier_commander: "Żołnierze ciężkiej kawalerii w armii"
+ tactical_heavy_cav_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('armored_cavalry').GetName]. \N"
+ tactical_gakgung_soldier_commander: "Łucznicy Gakgung w armii"
+ tactical_gakgung_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('gakgung_archers').GetName]. \N"
+ tactical_elephant_cav_soldier_commander: "Żołnierze kawalerii słoni w armii"
+ tactical_elephant_cav_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('elephant_cavalry').GetName]. \N"
+ tactical_pesilat_soldier_commander: "Pesilat Wojownicy W Armii"
+ tactical_pesilat_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('pesilat_warriors').GetName]. \N"
+ tactical_samurai_soldier_commander: "Samurajscy żołnierze w armii"
+ tactical_samurai_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('samurai').GetName]. \N"
+ tactical_mounted_samurai_soldier_commander: "Konny samuraj w armii"
+ tactical_mounted_samurai_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('japanese_horse_archers').GetName]. \N"
+ tactical_emishi_soldier_commander: "Łucznicy konni Emishi w armii"
+ tactical_emishi_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('emishi').GetName]. \N"
+ tactical_monks_soldier_commander: "Wojowniczy mnisi w armii"
+ tactical_monks_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('warrior_monks').GetName]. \N"
+ tactical_zhanmadao_soldier_commander: "Piechota Zhanmadao w armii"
+ tactical_zhanmadao_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('zhanmadao').GetName]. \N"
+ tactical_tiefutu_soldier_commander: "Kawaleria Tiefutu w armii"
+ tactical_tiefutu_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('tiefutu').GetName]. \N"
+ tactical_black_armor_soldier_commander: "Czarna kawaleria pancerna w armii"
+ tactical_black_armor_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('black_armor_cavalry').GetName]. \N"
+ tactical_burenjia_soldier_commander: "Żołnierze Burenjia w armii"
+ tactical_burenjia_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('burenjia').GetName]. \N"
+ tactical_kheshig_soldier_commander: "Żołnierze Kheshig w armii"
+ tactical_kheshig_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('kheshig').GetName]. \N"
+ tactical_tarkhan_soldier_commander: "Żołnierze Tarkhan w armii"
+ tactical_tarkhan_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('tarkhan').GetName]. \N"
+ tactical_steppe_raiders_soldier_commander: "Żołnierze stepowi w armii"
+ tactical_steppe_raiders_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('steppe_raiders').GetName]. \N"
+ tactical_horde_riders_soldier_commander: "Żołnierze Jeźdźców Hordy W Armii"
+ tactical_horde_riders_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('horde_riders').GetName]. \N"
+ tactical_archer_cavalry_soldier_commander: "Żołnierze kawalerii łuczników w armii"
+ tactical_archer_cavalry_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('archer_cavalry').GetName]. \N"
+ tactical_camel_archer_cavalry_soldier_commander: "Kawaleria łuczników na wielbłądach w armii"
+ tactical_camel_archer_cavalry_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('camel_archer_cavalry').GetName]. \N"
+ tactical_cata_archer_cavalry_soldier_commander: "Kawaleria łuczników katafrakta w armii"
+ tactical_cata_archer_cavalry_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('cataphract_archers').GetName]. \N"
+ tactical_nomad_lancer_soldier_commander: "Żołnierze Nomad Lancer w armii"
+ tactical_nomad_lancer_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('nomad_lancer').GetName]. \N"
+ tactical_vigmen_soldier_commander: "Żołnierze Vigmen w armii"
+ tactical_vigmen_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('vigmen').GetName]. \N"
+ tactical_bondi_soldier_commander: "Żołnierze Bondi w armii"
+ tactical_bondi_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('bondi').GetName]. \N"
+ tactical_asawira_soldier_commander: "Kawaleria Asawira w armii"
+ tactical_asawira_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('asawira').GetName]. \N"
+ tactical_maturkan_soldier_commander: "Maturkańscy wojownicy w armii"
+ tactical_maturkan_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('maturkan').GetName]. \N"
+ tactical_light_cav_soldier_commander: "Żołnierze lekkiej kawalerii w armii"
+ tactical_light_cav_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('light_cavalry').GetName]. \N"
+ tactical_tawashi_soldier_commander: "Kawaleria Tawashi w armii"
+ tactical_tawashi_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('tawashi').GetName]. \N"
+ tactical_zupin_soldier_commander: "Zupin Żołnierze w armii"
+ tactical_zupin_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('zupin_spearmen').GetName]. \N"
+ tactical_armored_inf_soldier_commander: "Kapitan piechoty pancernej w armii"
+ tactical_armored_inf_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('armored_infantry').GetName]. \N"
+  
+  
+ tactical_exploit_skill_success_commander_desc: ""
+  
+ tactical_foreign_lands_fighter_2: "Rozwijanie się w dół"
+ tactical_foreign_lands_fighter_2_desc: "Zdolność tej postaci w walce została udoskonalona poprzez walkę w obcych krajach i zyskała wiedzę na temat obcego terenu."
+  
+ tactical_foreign_lands_fighter_1: "Znajomość obcych krajów"
+ tactical_foreign_lands_fighter_1_desc: "Zdolność tej postaci w walce została udoskonalona poprzez walkę w obcych krajach i zyskała wiedzę na temat obcego terenu."
+  
+ tactical_foreign_lands_fighter: "Znajomość obcych krajów"
+ tactical_foreign_lands_fighter_desc: "Zdolność tej postaci w walce została udoskonalona poprzez walkę w obcych krajach i zyskała wiedzę na temat obcego terenu."
+  
+ tactical_home_lands_fighter_2: "Obrońca Królestwa"
+ tactical_home_lands_fighter_2_desc: "Waleczność tej postaci została udoskonalona poprzez walkę w granicach miejsca, w którym rządzi. Broniąc swoich ziem, zdobyli wiedzę na temat rodzimego terenu."
+  
+ tactical_home_lands_fighter_1: "Obrońca Królestwa"
+ tactical_home_lands_fighter_1_desc: "Waleczność tej postaci została udoskonalona poprzez walkę w granicach miejsca, w którym rządzi. Broniąc swoich ziem, zdobyli wiedzę o rodzimym terenie"
+  
+ tactical_home_lands_fighter: "Obrońca Królestwa"
+ tactical_home_lands_fighter_desc: "Waleczność tej postaci została udoskonalona poprzez walkę w granicach miejsca, w którym rządzi. Broniąc swoich ziem, zdobyli wiedzę o rodzimym terenie"
+  
+ tactical_outnumbered_lands_fighter_2: "Rozwój pod presją"
+ tactical_outnumbered_lands_fighter_2_desc: "Ten dowódca ma doświadczenie w skutecznym dowodzeniu oddziałami w sytuacji przewagi liczebnej i wykorzystuje to na swoją korzyść."
+  
+ tactical_outnumbered_lands_fighter_1: "Rozwój pod presją"
+ tactical_outnumbered_lands_fighter_1_desc: "Ten dowódca ma doświadczenie w skutecznym dowodzeniu oddziałami w sytuacji przewagi liczebnej i wykorzystuje to na swoją korzyść."
+  
+ tactical_outnumbered_lands_fighter: "Rozwój pod presją"
+ tactical_outnumbered_lands_fighter_desc: "Ten dowódca ma doświadczenie w skutecznym dowodzeniu oddziałami w sytuacji przewagi liczebnej i wykorzystuje to na swoją korzyść."
+  
+ tactical_home_lands.tt: "Obrona Ojczyzny"
+ tactical_home_lands.tt.success: "Zapoznałem się z tutejszym terenem podczas obrony ziem wewnątrz granicy!"
+ tactical_foreign_lands.tt: "Walka o obce ziemie"
+ tactical_foreign_lands.tt.success: "Zaznajomiłem się z walką poza naszymi granicami, walcząc poza naszym królestwem!"
+  
+  
+ # Huscarl 
+ trait_tbat_soldier_huscarl: "Kapitan huskarlowy"
+ tbat_soldier_huscarl_desc: "Żołnierz ten awansował z elitarnej jednostki huskarli po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_huscarl_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki huskarli po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Landsknecht 
+ trait_tbat_soldier_landsknecht: "Kapitan Landsknechtu"
+ tbat_soldier_landsknecht_desc: "Żołnierz ten awansował z elitarnej jednostki Landsknechtów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_landsknecht_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Landsknechtów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Longbowmen 
+ trait_tbat_soldier_longbowmen: "Kapitan łuczników"
+ tbat_soldier_longbowmen_desc: "Żołnierz ten awansował z elitarnej jednostki Wybornych Łuczników po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_longbowmen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Długich Łuczników po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Goedendag 
+ trait_tbat_soldier_goedendag: "Kapitan Goedendag"
+ tbat_soldier_goedendag_desc: "Żołnierz ten awansował z elitarnej jednostki milicji Goedendag po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_goedendag_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki milicji Goedendag po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Gendarme 
+ trait_tbat_soldier_gendarme: "Kapitan żandarm"
+ tbat_soldier_gendarme_desc: "Żołnierz ten awansował z elitarnej jednostki żandarmerii po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_gendarme_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki żandarmerii po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Chasseur 
+ trait_tbat_soldier_chasseur: "Kapitan Chasseur"
+ tbat_soldier_chasseur_desc: "Żołnierz ten awansował z elitarnej jednostki Chasseurs po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_chasseur_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Chasseurs po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Picchieri 
+ trait_tbat_soldier_picchieri: "Kapitan Picchieri"
+ tbat_soldier_picchieri_desc: "Żołnierz ten awansował z elitarnej jednostki Picchieri po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_picchieri_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Picchieri po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Praetorian 
+ trait_tbat_soldier_praetorian: "Kapitan Pretorianów"
+ tbat_soldier_praetorian_desc: "Żołnierz ten awansował z elitarnej jednostki pretorianów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_praetorian_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki pretorianów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Caballero 
+ trait_tbat_soldier_caballero: "Kapitan Caballero"
+ tbat_soldier_caballero_desc: "Żołnierz ten awansował z elitarnej jednostki Caballeros po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_caballero_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Caballeros po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Cataphract 
+ trait_tbat_soldier_cataphract: "Kapitan katafrakt"
+ tbat_soldier_cataphract_desc: "Żołnierz ten awansował z elitarnej jednostki katafraktów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_cataphract_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki katafraktów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Monaspa 
+ trait_tbat_soldier_monaspa: "Kapitan Monaspy"
+ tbat_soldier_monaspa_desc: "Żołnierz ten awansował z elitarnej jednostki Monaspy po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_monaspa_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Monaspy po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Hobelar 
+ trait_tbat_soldier_hobelar: "Kapitan Hobelara"
+ tbat_soldier_hobelar_desc: "Żołnierz ten awansował z elitarnej jednostki Hobelars po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_hobelar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Hobelarów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Schiltron 
+ trait_tbat_soldier_schiltron: "Kapitan Schiltrona"
+ tbat_soldier_schiltron_desc: "Ten żołnierz został awansowany z elitarnej jednostki Schiltronów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_schiltron_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Schiltronów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Metsanvartija 
+ trait_tbat_soldier_metsanvartija: "Kapitan Metsanvartija"
+ tbat_soldier_metsanvartija_desc: "Żołnierz ten awansował z elitarnej jednostki Metsanvartija po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_metsanvartija_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Metsanvartija po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Horse Archers 
+ trait_tbat_soldier_horse_archers: "Kapitan łuczników konnych"
+ tbat_soldier_horse_archers_desc: "Żołnierz ten awansował z elitarnej jednostki łuczników konnych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki łuczników konnych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Mubarizun 
+ trait_tbat_soldier_mubarizun: "Kapitan Mubarizun"
+ tbat_soldier_mubarizun_desc: "Żołnierz ten awansował z elitarnej jednostki Mubarizuna po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_mubarizun_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Mubarizuna po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Ayyar 
+ trait_tbat_soldier_ayyar: "Kapitan Ayyar"
+ tbat_soldier_ayyar_desc: "Ten żołnierz został awansowany z elitarnej jednostki Ayyar po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_ayyar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Ayyar po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Druzhina 
+ trait_tbat_soldier_druzhina: "Kapitan Drużyny"
+ tbat_soldier_druzhina_desc: "Żołnierz ten awansował z elitarnej jednostki Drużyny po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_druzhina_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Drużyny po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Hussar 
+ trait_tbat_soldier_hussar: "Kapitan huzarów"
+ tbat_soldier_hussar_desc: "Żołnierz ten awansował z elitarnej jednostki husarii po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_hussar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki huzarów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Horn Warrior 
+ trait_tbat_soldier_horn_warrior: "Kapitan Wojownika Rogu"
+ tbat_soldier_horn_warrior_desc: "Ten żołnierz został awansowany z elitarnej jednostki Wojowników Rogu po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_horn_warrior_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Wojowników Rogu po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Bush Hunter 
+ trait_tbat_soldier_bush_hunter: "Kapitan Bush Huntera"
+ tbat_soldier_bush_hunter_desc: "Żołnierz ten awansował z elitarnej jednostki Łowców Bushów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_bush_hunter_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Łowców Bushów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Shomer 
+ trait_tbat_soldier_shomer: "Kapitan Shomer"
+ tbat_soldier_shomer_desc: "Żołnierz ten awansował z elitarnej jednostki Szomera po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_shomer_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Shomeru po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Khandayat 
+ trait_tbat_soldier_khandayat: "Kapitan Khandayat"
+ tbat_soldier_khandayat_desc: "Żołnierz ten awansował z elitarnej jednostki Khandayat po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_khandayat_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Khandayat po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Garudas 
+ trait_tbat_soldier_garudas: "Kapitan Garudas"
+ tbat_soldier_garudas_desc: "Ten żołnierz został awansowany z elitarnej jednostki Garudas po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_garudas_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Garudów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Mountaineer 
+ trait_tbat_soldier_mountaineer: "Kapitan Góral"
+ tbat_soldier_mountaineer_desc: "Żołnierz ten awansował z elitarnej jednostki alpinistów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_mountaineer_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Alpinistów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Sahel Horsemen 
+ trait_tbat_soldier_sahel_horsemen: "Kapitan Jeźdźców Sahelu"
+ tbat_soldier_sahel_horsemen_desc: "Żołnierz ten awansował z elitarnej jednostki Jeźdźców Sahelu po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_sahel_horsemen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Jeźdźców Sahelu po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Guinea Warrior 
+ trait_tbat_soldier_guinea_warrior: "Kapitan wojownika z Gwinei"
+ tbat_soldier_guinea_warrior_desc: "Ten żołnierz został awansowany z elitarnej jednostki Wojowników Gwinei po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_guinea_warrior_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Wojowników Gwinei po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Sarawit 
+ trait_tbat_soldier_sarawit: "Kapitan Sarawit"
+ tbat_soldier_sarawit_desc: "Żołnierz ten awansował z elitarnej jednostki Sarawit po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_sarawit_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Sarawit po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Abudrar 
+ trait_tbat_soldier_abudrar: "Kapitan Abudrara"
+ tbat_soldier_abudrar_desc: "Żołnierz ten awansował z elitarnej jednostki Abudrara po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_abudrar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Abudrara po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Zbrojnosh 
+ trait_tbat_soldier_zbrojnosh: "Kapitan Zbrojnosh"
+ tbat_soldier_zbrojnosh_desc: "Żołnierz ten awansował z elitarnej jednostki Zbrojnosza po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_zbrojnosh_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Zbrojnosza po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Palace Guards 
+ trait_tbat_soldier_palace_guards: "Kapitan Straży Pałacowej"
+ tbat_soldier_palace_guards_desc: "Żołnierz ten awansował z elitarnej jednostki Straży Pałacowej po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_palace_guards_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Straży Pałacowej po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Shenbigong 
+ trait_tbat_soldier_shenbigong: "Kapitan Shenbigong"
+ tbat_soldier_shenbigong_desc: "Żołnierz ten awansował z elitarnej jednostki Shenbigong po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_shenbigong_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Shenbigong po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Mulaththamun 
+ trait_tbat_soldier_mulaththamun: "Kapitan Mulatthamon"
+ tbat_soldier_mulaththamun_desc: "Żołnierz ten awansował z elitarnej jednostki Mulaththamona po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_mulaththamun_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Mulaththamona po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Archers of the Nile 
+ trait_tbat_soldier_archers_of_the_nile: "Kapitan Łuczników Nilu"
+ tbat_soldier_archers_of_the_nile_desc: "Żołnierz ten awansował z elitarnej jednostki Łuczników Nilu po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_archers_of_the_nile_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Łuczników Nilu po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Paiks 
+ trait_tbat_soldier_paiks: "Kapitan Paika"
+ tbat_soldier_paiks_desc: "Żołnierz ten awansował z elitarnej jednostki Paików po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_paiks_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Paików po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Guanch Vaulter 
+ trait_tbat_soldier_guanch_vaulter: "Kapitan Vaultera Guancha"
+ tbat_soldier_guanch_vaulter_desc: "Żołnierz ten awansował z elitarnej jednostki Guanch Vaulters po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_guanch_vaulter_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Guanch Vaulters po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Ayrudzi 
+ trait_tbat_soldier_ayrudzi: "Kapitan Ayrudzi"
+ tbat_soldier_ayrudzi_desc: "Żołnierz ten awansował z elitarnej jednostki Ayrudzi po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_ayrudzi_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Ayrudzi po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Conrois 
+ trait_tbat_soldier_conrois: "Kapitan Conrois"
+ tbat_soldier_conrois_desc: "Żołnierz ten awansował z elitarnej jednostki Conrois po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_conrois_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Conrois po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Akritai 
+ trait_tbat_soldier_akritai: "Kapitan Akritai"
+ tbat_soldier_akritai_desc: "Ten żołnierz został awansowany z elitarnej jednostki Akritai po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_akritai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Akritai po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Ballistrai 
+ trait_tbat_soldier_ballistrai: "Kapitan Ballistrai"
+ tbat_soldier_ballistrai_desc: "Żołnierz ten awansował z elitarnej jednostki Ballistrai po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_ballistrai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Ballistrai po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Skoutatoi 
+ trait_tbat_soldier_skoutatoi: "Kapitan Skoutatoi"
+ tbat_soldier_skoutatoi_desc: "Ten żołnierz został awansowany z elitarnej jednostki Skoutatoi po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_skoutatoi_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Skoutatoi po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Varangian Guards 
+ trait_tbat_soldier_varangian_guards: "Kapitan Gwardii Varangijskiej"
+ tbat_soldier_varangian_guards_desc: "Żołnierz ten awansował z elitarnej jednostki Gwardii Varangijskiej po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_varangian_guards_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Gwardii Varangijskiej po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Handpicked Faithful 
+ trait_tbat_soldier_handpicked_faithful: "Wyselekcjonowany wierny kapitan"
+ tbat_soldier_handpicked_faithful_desc: "Ten żołnierz został awansowany z elitarnej jednostki Wyselekcjonowanych Wiernych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_handpicked_faithful_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Wybranych Wiernych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Fire Lancers 
+ trait_tbat_soldier_fire_lancers: "Kapitan Ułanów Ognia"
+ tbat_soldier_fire_lancers_desc: "Żołnierz ten awansował z elitarnej jednostki Ułanów Ognia po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_fire_lancers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Ułanów Ognia po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Gakgung Archers 
+ trait_tbat_soldier_gakgung_archers: "Kapitan łuczników Gakgung"
+ tbat_soldier_gakgung_archers_desc: "Żołnierz ten awansował z elitarnej jednostki Łuczników Gakgung po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_gakgung_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Łuczników Gakgung po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Ballista Elephant 
+ trait_tbat_soldier_ballista_elephant: "Kapitan słoni balistycznych"
+ tbat_soldier_ballista_elephant_desc: "Żołnierz ten awansował z elitarnej jednostki Słoni Balistowych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_ballista_elephant_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Słoni Balistowych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Pesilat Warriors 
+ trait_tbat_soldier_pesilat_warriors: "Kapitan wojowników Pesilat"
+ tbat_soldier_pesilat_warriors_desc: "Żołnierz ten awansował z elitarnej jednostki Wojowników Pesilat po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_pesilat_warriors_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Wojowników Pesilat po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Samurai 
+ trait_tbat_soldier_samurai: "Kapitan Samuraj"
+ tbat_soldier_samurai_desc: "Ten żołnierz został awansowany z elitarnej jednostki samurajów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_samurai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki samurajów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Japanese Horse Archers 
+ trait_tbat_soldier_japanese_horse_archers: "Kapitan japońskich łuczników konnych"
+ tbat_soldier_japanese_horse_archers_desc: "Żołnierz ten awansował z elitarnej jednostki japońskich łuczników konnych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_japanese_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki japońskich łuczników konnych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Emishi Horse Archers 
+ trait_tbat_soldier_emishi_horse_archers: "Kapitan łuczników konnych Emishi"
+ tbat_soldier_emishi_horse_archers_desc: "Żołnierz ten awansował z elitarnej jednostki łuczników konnych Emishi po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_emishi_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki łuczników konnych Emishi po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Warrior Monks 
+ trait_tbat_soldier_warrior_monks: "Kapitan Wojowników Mnichów"
+ tbat_soldier_warrior_monks_desc: "Ten żołnierz został awansowany z elitarnej jednostki Wojowniczych Mnichów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_warrior_monks_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Wojowniczych Mnichów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Zhanmadao Infantry 
+ trait_tbat_soldier_zhanmadao_infantry: "Kapitan piechoty Zhanmadao"
+ tbat_soldier_zhanmadao_infantry_desc: "Żołnierz ten awansował z elitarnej jednostki piechoty Zhanmadao po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_zhanmadao_infantry_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki piechoty Zhanmadao po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Tiefutu 
+ trait_tbat_soldier_tiefutu: "Kapitan Tiefutu"
+ tbat_soldier_tiefutu_desc: "Żołnierz ten awansował z elitarnej jednostki Tiefutu po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_tiefutu_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Tiefutu po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Black Armor Cavalry 
+ trait_tbat_soldier_black_armor_cavalry: "Kapitan Kawalerii Czarnej Zbroi"
+ tbat_soldier_black_armor_cavalry_desc: "Żołnierz ten został awansowany z elitarnej jednostki Kawalerii Czarnej Pancernej po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_black_armor_cavalry_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Kawalerii Czarnej Pancernej po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Burenjia 
+ trait_tbat_soldier_burenjia: "Kapitan Burenjii"
+ tbat_soldier_burenjia_desc: "Żołnierz ten awansował z elitarnej jednostki Burenjia po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_burenjia_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Burenjia po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Rocket Carts 
+ trait_tbat_soldier_rocket_carts: "Kapitan wózków rakietowych"
+ tbat_soldier_rocket_carts_desc: "Ten żołnierz został awansowany z elitarnej jednostki Wozów Rakietowych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_rocket_carts_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Wozów Rakietowych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Ordo Riders Horse Archers 
+ trait_tbat_soldier_tawashi: "Kapitan Tawashi"
+ tbat_soldier_tawashi_desc: "Żołnierz ten awansował z elitarnej jednostki Tawashi po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_tawashi_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Tawashi po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Ordo Riders Horse Archers 
+ trait_tbat_soldier_zupin: "Kapitan włóczników Zupin"
+ tbat_soldier_zupin_desc: "Żołnierz ten awansował z elitarnej jednostki Zupin Spearmen po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_zupin_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Zupin Spearmen po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ # Ordo Riders Horse Archers 
+ trait_tbat_soldier_ordo_riders_horse_archers: "Kapitan łuczników konnych Jeźdźców Ordo"
+ tbat_soldier_ordo_riders_horse_archers_desc: "Żołnierz ten awansował z elitarnej jednostki łuczników konnych Jeźdźców Ordo po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_ordo_riders_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Jeźdźców Konnych Łuczników Ordo po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ trait_tbat_soldier_heavy_cav: "Kapitan ciężkiej kawalerii"
+ tbat_soldier_heavy_cav_desc: "Postać ta awansowała z elitarnej jednostki Ciężkiej Kawalerii po tym, jak odegrała kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_heavy_cav_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Vigmenów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ trait_tbat_soldier_pikemen: "Kapitan Pikinierów"
+ tbat_soldier_pikemen_desc: "Postać ta awansowała z elitarnej jednostki Pikinierów po tym, jak odegrała kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_pikemen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Vigmenów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ trait_tbat_soldier_armored_infantry: "Kapitan piechoty pancernej"
+ tbat_soldier_armored_infantry_desc: "Postać ta awansowała z elitarnej jednostki piechoty pancernej po tym, jak odegrała kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_armored_infantry_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Vigmenów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ trait_tbat_soldier_vigmen: "Kapitan Vigmen"
+ tbat_soldier_vigmen_desc: "Postać ta awansowała z elitarnej jednostki Vigmenów po tym, jak odegrała kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_vigmen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Vigmenów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ trait_tbat_soldier_kheshig: "Kapitan Khesziga"
+ tbat_soldier_kheshig_desc: "Postać ta awansowała z elitarnej jednostki Kheshiga po tym, jak odegrała kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_kheshig_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Kheshiga po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ trait_tbat_soldier_tarkhan: "Kapitan Tarkhana"
+ tbat_soldier_tarkhan_desc: "Postać ta awansowała z elitarnej jednostki Tarkhana po tym, jak odegrała kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_tarkhan_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Tarkhana po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ trait_tbat_soldier_steppe_raiders: "Kapitan Jeźdźców Stepowych"
+ tbat_soldier_steppe_raiders_desc: "Postać ta awansowała z elitarnej jednostki Stepowych Najeźdźców po tym, jak odegrała kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_steppe_raiders_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Najeźdźców Stepowych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ trait_tbat_soldier_horde_riders: "Kapitan Jeźdźców Hordy"
+ tbat_soldier_horde_riders_desc: "Postać ta awansowała z elitarnej jednostki Jeźdźców Hordy po tym, jak odegrała kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_horde_riders_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Jeźdźców Hordy po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ trait_tbat_soldier_horde_riders: "Kapitan Jeźdźców Hordy"
+ tbat_soldier_horde_riders_desc: "Postać ta awansowała z elitarnej jednostki Jeźdźców Hordy po tym, jak odegrała kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_horde_riders_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Jeźdźców Hordy po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ trait_tbat_soldier_archer_cav: "Kapitan Kawalerii Łuczników"
+ tbat_soldier_archer_cav_desc: "Postać ta awansowała z elitarnej jednostki Kawalerii Łuczników po tym, jak odegrała kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_archer_cav_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Kawalerii Łuczników po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ trait_tbat_soldier_camel_archer_cav: "Kapitan łuczników na wielbłądach"
+ tbat_soldier_camel_archer_cav_desc: "Postać ta awansowała z elitarnej jednostki Łuczników Wielbłądów po tym, jak odegrała kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_camel_archer_cav_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Łuczników Wielbłądów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ trait_tbat_soldier_cataphract_archers: "Kapitan łuczników katafraktów"
+ tbat_soldier_cataphract_archers_desc: "Postać ta awansowała z elitarnej jednostki Łuczników Katafraktów po tym, jak odegrała kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_cataphract_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Łuczników Katafraktów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ trait_tbat_soldier_nomad_lancers: "Kapitan Ułanów Nomadów"
+ tbat_soldier_nomad_lancers_desc: "Postać ta awansowała z elitarnej jednostki Ułanów Nomadów po tym, jak odegrała kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_nomad_lancers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Ułanów Nomadów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ trait_tbat_soldier_bondi: "Kapitan Bondi"
+ tbat_soldier_bondi_desc: "Postać ta awansowała z elitarnej jednostki Bondi po tym, jak odegrała kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_bondi_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Bondi po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ trait_tbat_soldier_asawira: "Kapitan Asawiry"
+ tbat_soldier_asawira_desc: "Postać ta awansowała z elitarnej jednostki Asawira po tym, jak odegrała kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_asawira_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Asawira po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+ trait_tbat_soldier_maturkan_warriors: "Kapitan Wojowników Maturkan"
+ tbat_soldier_maturkan_warriors_desc: "Postać ta awansowała z elitarnej jednostki Wojowników Maturkan po tym, jak odegrała kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_maturkan_warriors_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Wojowników Maturkan po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+  
+  
+  
+ TRAIT_FLAG_DESC_tbat_outnumbered_troops_flag: "#soft_glow #high[command_modifier_i|E][advantage|E] Gdy wróg ma przewagę liczebną: #P +4#high[command_modifier_i|E][advantage|E]1\n#soft_glow #high Poziom 1#!:\n[command_modifier_i|E][advantage|E] Gdy wróg ma przewagę liczebną: #P +8#high[command_modifier_i|E][advantage|E]1\n#soft_glow #high Poziom 2#!:\n[command_modifier_i|E][advantage|E] Gdy wróg ma przewagę liczebną: #P +12#high[command_modifier_i|E][advantage|E]1"
+ TRAIT_FLAG_DESC_tbat_home_terrain_flag: "#soft_glow #high [command_modifier_i|E][advantage|E]#! na posiadanym terytorium: #P +4#!\n#soft_glow #high Poziom 1#!:\n[command_modifier_i|E][advantage|E] na posiadanym terytorium: #P +8#!\n#soft_glow #high Poziom 2#!:\n[command_modifier_i|E][advantage|E] na posiadanym terytorium: #P +12#!"
+ TRAIT_FLAG_DESC_tbat_foreign_terrain_flag: "#soft_glow #high [command_modifier_i|E][advantage|E]#! na terytorium niekontrolowanym: #P +4#!\n#soft_glow #high Poziom 1#!:\n[command_modifier_i|E][advantage|E] na terytorium niekontrolowanym: #P +8#!\n#soft_glow #high poziom 2#!:\n[command_modifier_i|E][advantage|E] na terytorium niekontrolowanym: #P +12#!"
+ TRAIT_FLAG_DESC_tbat_soldier_varangian:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] Damage: #I 5%#! #! 
+ TRAIT_FLAG_DESC_tbatt_more_enemy_casualties_flag: "#E Armia wroga#!: #P 3%#! [casualties|E]"
+ TRAIT_FLAG_DESC_tbat_soldier_light_infantry:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_neg_heavy_infantry_toughness: "#E Wróg [heavy_infantry|e]#!: #I -3%#! [toughness|E]"
+ TRAIT_FLAG_DESC_tbat_soldier_light_infantry:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_neg_heavy_infantry_toughness: "#E Wróg [heavy_infantry|e]#!: #I -3%#! [toughness|E]"
+ TRAIT_FLAG_DESC_tbat_soldier_bowmen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbatt_neg_skirmishers_damage_flag: "#E Wróg [skirmishers|e]#!: #I -3%#! [damage|E]"
+ TRAIT_FLAG_DESC_tbat_soldier_light_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] Toughness#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbatt_neg_army_damage_flag: "#E Armia wroga#!: #I -3%#! [damage|E]"
+ TRAIT_FLAG_DESC_tbat_soldier_heavy_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] Toughness#!: #I +5#!\n#E Enemy [archers|E] Toughness#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_pikemen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E Army Toughness#!: #I 5%#!\n#E Enemy [heavy_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [camel_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [elephant_cavalry|E] [damage|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_bowmen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_camel_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [camel_cavalry|E] Toughness#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbatt_neg_light_cav_flag: "#E Wróg [light_cavalry|e]#!: #I -3%#! [damage|E]"
+ TRAIT_FLAG_DESC_tbat_soldier_elephant_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [elephant_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbatt_neg_light_cav_flag: "#E Wróg [light_cavalry|e]#!: #I -3%#! [damage|E]"
+ TRAIT_FLAG_DESC_tbat_soldier_huscarl:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_landsknecht:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [spearmen|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_longbowmen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_goedendag:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_gendarme:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_chasseur:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_crossbowmen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_gunpowder:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [gunpowder|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_picchieri:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E Friendly [casualties|E]#!: #I -5%#!\n#E Enemy [light_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [elephant_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [camel_cavalry|E] [damage|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_praetorian:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_caballero:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_cataphract:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!\n#E Enemy Army [toughness|E]#!: #I -5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_monaspa:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [toughness|E]#!: #I -5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_hobelar:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_schiltron:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E Friendly [casualties|E]#!: #I -5%#!\n#E Enemy [light_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [elephant_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [camel_cavalry|E] [damage|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_metsanvartija:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_horse_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [skirmishers|E] [damage|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_mubarizun:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -2%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_ayyar:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_druzhina:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_hussar:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E [light_cavalry|E] Toughness#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_horn_warrior:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I 8#!\n#E Enemy [heavy_infantry|E] Toughness#!: #I -5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_bush_warrior:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_shomer:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 4%#! #!\n#E Army [toughness|E]#!: #I 7%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_khandayat:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_garudas:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E [heavy_infantry|E] [toughness|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_mountaineer:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E [heavy_infantry|E] [toughness|E]#!: #I 5%#!\n#E Army [casualties|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_sahel_horsemen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_guinea_warrior:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I +8#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_sarawit:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_abudrar:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I +9#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -2%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -2%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_zbrojnosh:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_palace_guards:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_shenbigong:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_mulaththamun:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_archers_of_the_nile:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_paiks:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [elephant_cavalry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_ayrudzi:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [archer_cavalry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_conrois:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [light_cavalry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_akritai:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [skirmishers|E] [damage|E]#!: #I +8#!\n#E Enemy Army [heavy_infantry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_skoutatoi:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [spearmen|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_varangian_guards:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_gakgung_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [heavy_cavalry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_pesilat_warriors:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [skirmishers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [heavy_infantry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_samurai:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_japanese_horse_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_emishi_horse_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_warrior_monks:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [spearmen|E] [damage|E]#!: #I 5%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_zhanmadao_infantry:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_tiefutu:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_black_armor_cavalry:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_burenjia:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_ordo_riders_horse_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_kheshig:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [elephant_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_tarkhan:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_steppe_raiders:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_horde_riders:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_archer_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_camel_archer_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [camel_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_cataphract_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_nomad_lancers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [damage|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_vigmen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_bondi:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [spearmen|E] [toughness|E]#!: #I 5%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_asawira:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [toughness|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_maturkan_warriors:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [toughness|E]#!: #I 5%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -10#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_tawashi:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -5%#!\n#E Enemy [archers|E] [damage|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_zupin:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [spearmen|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -5%#!\n#E Enemy [heavy_cavalry|E] [damage|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_armored_infantry:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n\n#E [heavy_infantry|E] [toughness|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+  
+ trait_tbat_soldier_armored_infantry_character_desc : "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Armored Infantry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."  <"[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki piechoty pancernej po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych.">  #NT!
+ trait_tbat_soldier_varangian: "Varangiański żołnierz"
+ tbat_soldier_varangian_desc: "Żołnierz ten awansował z elitarnego oddziału Varangian po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_varangian_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Varangian po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_light_infantry: "Żołnierz lekkiej piechoty"
+ tbat_soldier_light_infantry_desc: "Żołnierz ten awansował z elitarnego oddziału lekkiej piechoty po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_light_infantry_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] awansował z elitarnej jednostki lekkiej piechoty po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_light_cav: "Kapitan lekkiej kawalerii"
+ tbat_soldier_light_cav_desc: "Żołnierz ten awansował z elitarnego oddziału lekkiej kawalerii po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_light_cav_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] awansował z elitarnej jednostki lekkiej kawalerii po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_camel_cav: "Kapitan kawalerii wielbłądów"
+ tbat_soldier_camel_cav_desc: "Żołnierz ten awansował z elitarnego oddziału Kawalerii Słoni po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_camel_cav_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki kawalerii wielbłądów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_elephant_cav: "Kapitan Kawalerii Słoni"
+ tbat_soldier_elephant_cav_desc: "Żołnierz ten awansował z elitarnego oddziału kawalerii wielbłądziej po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_elephant_cav_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki kawalerii słoniowej po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_gunpowder: "Kapitan strzelca"
+ tbat_soldier_gunpowder_desc: "Ten żołnierz został awansowany z elitarnego oddziału używającego eksperymentalnego [gunpowder|E] po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_gunpowder_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki używającej eksperymentalnej jednostki [gunpowder|E] po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_bowmen: "Kapitan łuczników"
+ tbat_soldier_bowmen_desc: "Ten żołnierz został awansowany z elitarnej jednostki łuczników po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_bowmen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki łuczników po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_crossbowmen: "Kapitan Kuszników"
+ tbat_soldier_crossbowmen_desc: "Żołnierz ten awansował z elitarnej jednostki Kuszników po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ trait_tbat_soldier_crossbowmen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki łuczników po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."
+ tactical_light_infantry_soldier_commander: "Kapitan lekkiej piechoty w armii"
+ tactical_light_infantry_soldier_commander_desc: "W tej armii jeździ płodny żołnierz awansowany z pułku liczącego [GetMaA('light_footmen').GetName]. \N"
+  
+  
+ tactical_facing_landsknecht_soldier_commander: "W obliczu żołnierzy Landsknechtu"
+ tactical_facing_landsknecht_soldier_commander_desc: "Wróg zrekrutował dowódcę z pułku [GetMaA('landsknechts').GetName]. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_light_inf_soldier_commander: "W obliczu żołnierzy lekkiej piechoty"
+ tactical_facing_light_inf_soldier_commander_desc: "Wróg zrekrutował dowódcę z pułku [GetMaA('light_footmen').GetName]. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_bowmen_soldier_commander: "W obliczu żołnierzy łuczników"
+ tactical_facing_bowmen_soldier_commander_desc: "Wróg zwerbował dowódcę z pułku łuczników. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_light_cav_soldier_commander: "W obliczu żołnierzy lekkiej kawalerii"
+ tactical_facing_light_cav_soldier_commander_desc: "Wróg zrekrutował dowódcę z pułku [GetMaA('light_cavalry').GetName]. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_heavy_cav_soldier_commander: "W obliczu żołnierzy ciężkiej kawalerii"
+ tactical_facing_heavy_cav_soldier_commander_desc: "Wróg zrekrutował dowódcę z pułku [GetMaA('armored_cavalry').GetName]. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_pikemen_soldier_commander: "W obliczu żołnierzy pikinierów"
+ tactical_facing_pikemen_soldier_commander_desc: "Wróg zwerbował dowódcę z pułku Pikinierów. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_longbow_soldier_commander: "W obliczu żołnierzy z długimi łukami"
+ tactical_facing_longbow_soldier_commander_desc: "Wróg zrekrutował dowódcę z pułku [GetMaA('longbowmen').GetName]. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_goedendag_soldier_commander: "W obliczu żołnierzy Goedendag"
+ tactical_facing_goedendag_soldier_commander_desc: "Wróg zrekrutował dowódcę z pułku [GetMaA('goedendag_militia').GetName]. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_gendarme_soldier_commander: "W obliczu żołnierzy żandarmerii"
+ tactical_facing_gendarme_soldier_commander_desc: "Wróg zrekrutował dowódcę z pułku [GetMaA('gendarmes').GetName]. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_chasseur_soldier_commander: "W obliczu żołnierzy Chasseur"
+ tactical_facing_chasseur_soldier_commander_desc: "Wróg zrekrutował dowódcę z pułku [GetMaA('chasseurs').GetName]. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_picchieri_soldier_commander: "W obliczu żołnierzy Picchieri"
+ tactical_facing_picchieri_soldier_commander_desc: "Wróg zrekrutował dowódcę z pułku [GetMaA('picchieri').GetName]. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_cataphract_soldier_commander: "W obliczu żołnierzy katafraktów"
+ tactical_facing_cataphract_soldier_commander_desc: "Wróg zwerbował dowódcę z pułku katafraktów. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_monsapa_soldier_commander: "W obliczu żołnierzy Monaspa"
+ tactical_facing_monsapa_soldier_commander_desc: "Wróg zrekrutował dowódcę z pułku [GetMaA('monaspa').GetName]. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_hobelar_soldier_commander: "W obliczu żołnierzy Hobelar"
+ tactical_facing_hobelar_soldier_commander_desc: "Wróg zrekrutował dowódcę z pułku [GetMaA('hobelar').GetName]. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_schiltron_soldier_commander: "W obliczu żołnierzy Schiltrona"
+ tactical_facing_schiltron_soldier_commander_desc: "Wróg zrekrutował dowódcę z pułku [GetMaA('schiltron').GetName]. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_heavy_archers_soldier_commander: "W obliczu ciężkich łuczników"
+ tactical_facing_heavy_archers_soldier_commander_desc: "Wróg zrekrutował dowódcę z pułku [GetMaA('heavy_archers').GetName]. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_mubarizun_soldier_commander: "W obliczu żołnierzy Mubarizuna"
+ tactical_facing_mubarizun_soldier_commander_desc: "Wróg zrekrutował dowódcę z pułku [GetMaA('mubarizun').GetName]. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+ tactical_facing_ayyar_soldier_commander: "W obliczu żołnierzy Ayyar"
+ tactical_facing_ayyar_soldier_commander_desc: "Wróg zrekrutował dowódcę z pułku [GetMaA('ayyar').GetName]. Nasze siły muszą stawić czoła swojemu doświadczeniu. \N"
+  
+  
+  
+  
+ learn_commander_trait.7000.a: "Zielony"
+ learn_commander_trait.7000.b: "Pomarańczowy"
+ learn_commander_trait.7000.c: "Żółty"
+ learn_commander_trait.7000.d: "Czerwony"
+ learn_commander_trait.7000.e: "Czarny"
+ learn_commander_trait.7000.f: "Biały"
+ learn_commander_trait.7000.g: "Niebieski"
+ learn_commander_trait.7000.h: "Fioletowy"
+ learn_commander_trait.7000.i: "Różowy"
+ learn_commander_trait.7000.j: "Szary"
+  
+ learn_commander_trait.7001.a: "Niedźwiedź"
+ learn_commander_trait.7001.b: "Lew"
+ learn_commander_trait.7001.c: "Wilk"
+ learn_commander_trait.7001.d: "Jeleń"
+ learn_commander_trait.7001.e: "Ryba"
+ learn_commander_trait.7001.f: "Lis"
+ learn_commander_trait.7001.g: "Smok"
+ learn_commander_trait.7001.h: "Następny"
+  
+ learn_commander_trait.7002.a: "Pająk"
+ learn_commander_trait.7002.b: "Bazyliszek"
+ learn_commander_trait.7002.c: "Żubr"
+ learn_commander_trait.7002.d: "Lampart"
+ learn_commander_trait.7002.e: "Kot"
+ learn_commander_trait.7002.f: "Pies"
+ learn_commander_trait.7002.g: "Wąż"
+ learn_commander_trait.7002.h: "Z powrotem"
+  

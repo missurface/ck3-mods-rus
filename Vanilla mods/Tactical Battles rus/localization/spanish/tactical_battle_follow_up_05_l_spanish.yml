@@ -1,0 +1,280 @@
+﻿l_spanish:
+ tactical_forest_battle.9453.t: "Círculos a la derecha"  #NT!
+ tactical_forest_battle.9453.desc: "¡Hemos rodeado con éxito [enemy_commander.GetFirstNamePossessive] flanco derecho! Están atrapados y enfrentando la destrucción. ¡Debemos asestar el golpe mortal!"  #NT!
+ tactical_forest_battle.9453.a: "Comienza la masacre de las tropas rodeadas."  #NT!
+ tactical_forest_battle.9453.a.success: "¡Las tropas rodeadas son masacradas!"  #NT!
+ tactical_forest_battle.9453.a.failure: "¡Las tropas cercadas estallan!"  #NT!
+ tactical_forest_battle.9453.b: "tomar prisioneros"  #NT!
+ tactical_forest_battle.9453.b.success: "¡Capturamos a muchos prisioneros!"  #NT!
+ tactical_forest_battle.9453.b.failure: "¡Los prisioneros se escapan!"  #NT!
+  
+ tactical_forest_battle.9473.t: "Ejército de reunión"  #NT!
+ tactical_forest_battle.9473.desc: "¡La batalla continúa! ¡Nuestras fuerzas necesitan inspiración para superar la feroz resistencia del enemigo!"  #NT!
+ tactical_forest_battle.9473.a: "Convocatoria de huelga decisiva"  #NT!
+ tactical_forest_battle.9473.a.success: "¡El ejército lanza un ataque decisivo!"  #NT!
+ tactical_forest_battle.9473.a.failure: "¡La huelga no se materializa!"  #NT!
+ tactical_forest_battle.9473.b: "Reposicionar para un mejor terreno"  #NT!
+ tactical_forest_battle.9473.b.success: "¡Las fuerzas se reposicionan a un terreno mejor!"  #NT!
+ tactical_forest_battle.9473.b.failure: "¡El reposicionamiento falla!"  #NT!
+ tactical_forest_battle.9473.c: "Enviar refuerzos de reserva"  #NT!
+ tactical_forest_battle.9473.c.success: "¡Las reservas fortalecen la línea!"  #NT!
+ tactical_forest_battle.9473.c.failure: "¡Las reservas están retrasadas!"  #NT!
+ tactical_forest_battle.9473.d: "Carga principal contra el centro enemigo."  #NT!
+ tactical_forest_battle.9473.d.success: "¡La carga contra el centro tiene éxito!"  #NT!
+ tactical_forest_battle.9473.d.failure: "¡La carga es rechazada!"  #NT!
+  
+ tactical_forest_battle.7220.t: "La izquierda comienza a rodear"  #NT!
+ tactical_forest_battle.7220.desc: "¡Nuestro flanco izquierdo ha iniciado una maniobra envolvente alrededor del enemigo! ¡Si podemos completar este cerco, podremos atraparlos y destruirlos!"  #NT!
+ tactical_forest_battle.7220.a: "Completa el cerco"  #NT!
+ tactical_forest_battle.7220.a.success: "¡Completamos el cerco!"  #NT!
+ tactical_forest_battle.7220.a.failure: "¡El enemigo estalla!"  #NT!
+ tactical_forest_battle.7220.b: "Envía a nuestros caballeros para mantenerlos en posición."  #NT!
+ tactical_forest_battle.7220.b.success: "¡Nuestros caballeros mantienen al enemigo en su lugar!"  #NT!
+ tactical_forest_battle.7220.b.failure: "¡El enemigo se abre paso!"  #NT!
+ tactical_forest_battle.7220.c: "¡Envía nuestras unidades de crack para mantener al enemigo en su lugar!"  #NT!
+ tactical_forest_battle.7220.c.success: "¡El enemigo no puede retirarse!"  #NT!
+ tactical_forest_battle.7220.c.failure: "¡El enemigo escapa del cerco!"  #NT!
+ tactical_forest_battle.7220.d: "Deténgalos con el centro mientras que la izquierda los rodea."  #NT!
+ tactical_forest_battle.7220.d.success: "¡El enemigo no puede retirarse!"  #NT!
+ tactical_forest_battle.7220.d.failure: "¡El enemigo escapa de la trampa!"  #NT!
+ tactical_forest_battle.7220.e: "Reúne a las tropas para mantener la línea mientras las unidades rodean"  #NT!
+ tactical_forest_battle.7220.e.success: "¡El enemigo no puede retirarse!"  #NT!
+ tactical_forest_battle.7220.e.failure: "¡El enemigo escapa de la trampa!"  #NT!
+  
+  
+ tactical_forest_battle.7221.t: "La derecha comienza a rodear"  #NT!
+ tactical_forest_battle.7221.desc: "¡Nuestro flanco derecho ha iniciado una maniobra envolvente alrededor del enemigo! ¡Si podemos completar este cerco, podremos atraparlos y destruirlos!"  #NT!
+ tactical_forest_battle.7221.a: "Completa el cerco"  #NT!
+ tactical_forest_battle.7221.a.success: "¡Completamos el cerco!"  #NT!
+ tactical_forest_battle.7221.a.failure: "¡El enemigo estalla!"  #NT!
+ tactical_forest_battle.7221.b: "Envía a nuestros caballeros para mantenerlos en posición."  #NT!
+ tactical_forest_battle.7221.b.success: "¡Nuestros caballeros mantienen al enemigo en su lugar!"  #NT!
+ tactical_forest_battle.7221.b.failure: "¡El enemigo se abre paso!"  #NT!
+ tactical_forest_battle.7221.c: "¡Envía nuestras unidades de crack para mantener al enemigo en su lugar!"  #NT!
+ tactical_forest_battle.7221.c.success: "¡El enemigo no puede retirarse!"  #NT!
+ tactical_forest_battle.7221.c.failure: "¡El enemigo escapa del cerco!"  #NT!
+ tactical_forest_battle.7221.d: "None"  #NT!
+ tactical_forest_battle.7221.d.success: "¡El enemigo no puede retirarse!"  #NT!
+ tactical_forest_battle.7221.d.failure: "¡El enemigo escapa de la trampa!"  #NT!
+  
+  
+  
+ tactical_forest_battle.6310.t: "¡La trampa ha saltado!"  #NT!
+ tactical_forest_battle.6310.desc: "[right_flank_commander.GetTitledFirstNamePossessive] finta funcionó perfectamente! [enemy_commander.GetFirstNamePossessive] las órdenes de mantener se ahogaron y [enemy_commander.GetHerHis] vanguardia rompieron la formación para morder el anzuelo. El lado izquierdo de su línea ahora está extendido y desorganizado."  #NT!
+ tactical_forest_battle.6310.a: "[right_flank_commander.GetTitledFirstName] lleva al ejército desorganizado a una trampa de nuestras unidades de crack"  #NT!
+ tactical_forest_battle.6310.a.success: "[enemy_commander.GetFirstNamePossessive] el lado derecho sigue a [right_flank_commander.GetFirstNamePossessive] que huyen directamente a una emboscada."  #NT!
+ tactical_forest_battle.6310.a.failure: "¡La derecha no muerde el anzuelo!"  #NT!
+ tactical_forest_battle.6310.b: "Envía caballeros para aplastar su flanco demasiado extendido."  #NT!
+ tactical_forest_battle.6310.b.success: "¡Los caballeros chocan contra el flanco expuesto del enemigo, rompiendo su formación!"  #NT!
+ tactical_forest_battle.6310.b.failure: "El enemigo se reorganiza rápidamente y se vuelve contra nuestros caballeros."  #NT!
+ tactical_forest_battle.6310.c: "Separe las fuerzas del flanco [left_flank_commander.GetTitledFirstNamePossessive] para rodear a sus unidades atraídas."  #NT!
+ tactical_forest_battle.6310.c.success: "[right_flank_commander.GetTitledFirstName] rodea con éxito a las unidades enemigas, cortando su retirada."  #NT!
+ tactical_forest_battle.6310.c.failure: "El enemigo lidera una carga devastadora contra nuestro mermado flanco derecho."  #NT!
+ tactical_forest_battle.6310.d: "Gira [center_flank_commander.GetFirstNamePossessive] reservas para rodear las unidades atraídas."  #NT!
+ tactical_forest_battle.6310.d.success: "Las reservas se mueven rápidamente y están en posición de rodear"  #NT!
+ tactical_forest_battle.6310.d.failure: "[enemy_commander.GetFirstNamePossessive] reconoce nuestro centro agotado!"  #NT!
+ tactical_forest_battle.6310.e: "Gira y mata a las unidades atraídas con una carga completa."  #NT!
+ tactical_forest_battle.6310.e.success: "¡La carga completa toma al enemigo por sorpresa!"  #NT!
+ tactical_forest_battle.6310.e.failure: "¡El enemigo se mantiene firme y rechaza nuestra carga!"  #NT!
+  
+  
+ tactical_forest_battle.7320.t: "El enemigo se mantiene firme detrás de nuestras líneas"  #NT!
+ tactical_forest_battle.7320.desc: "[enemy_commander.GetFirstNamePossessive] fuerzas se han reunido y reorganizado su línea detrás de la nuestra. Ahora están atrincherados más profundamente, de espaldas a nuestras líneas y su formación fortalecida. Debemos decidir si continuar presionándolos o cambiar nuestras tácticas."  #NT!
+ tactical_forest_battle.7320.a: "Envía una carga con nuestras unidades de élite para atacar su flanco."  #NT!
+ tactical_forest_battle.7320.a.success: "¡Nuestras unidades de crack los toman por sorpresa y barren sus líneas!"  #NT!
+ tactical_forest_battle.7320.a.failure: "¡Nuestras unidades de crack no pueden atravesar su sólida defensa!"  #NT!
+ tactical_forest_battle.7320.b: "Envía caballeros para atacar su flanco."  #NT!
+ tactical_forest_battle.7320.b.failure: "¡Los caballeros son interceptados por las reservas enemigas!"  #NT!
+ tactical_forest_battle.7320.c: "Romper las reservas centrales para aplastarles la retaguardia."  #NT!
+ tactical_forest_battle.7320.c.success: "¡Nuestras reservas centrales chocan contra su retaguardia, provocando el caos!"  #NT!
+ tactical_forest_battle.7320.c.failure: "¡Nuestras reservas centrales no pueden retirarse debido a un empujón repentino!"  #NT!
+ tactical_forest_battle.7320.d: "Romper las reservas de derecha para aplastarles el trasero."  #NT!
+ tactical_forest_battle.7320.d.success: "¡Nuestras reservas centrales chocan contra su retaguardia, provocando el caos!"  #NT!
+ tactical_forest_battle.7320.d.failure: "¡Nuestras reservas centrales no pueden retirarse debido a un empujón repentino!"  #NT!
+ tactical_forest_battle.7320.e: "Finge una retirada y ataca a los perseguidores."  #NT!
+ tactical_forest_battle.7320.e.success: "¡El enemigo cae en nuestro engaño y persigue un ataque inesperado!"  #NT!
+ tactical_forest_battle.7320.e.failure: "¡El enemigo se retira a nuestro centro expuesto!"  #NT!
+  
+ tactical_forest_battle.7334.t: "El enemigo se mantiene firme detrás de nuestras líneas"  #NT!
+ tactical_forest_battle.7334.desc: "[enemy_commander.GetFirstNamePossessive] fuerzas se han reunido y reorganizado su línea detrás de la nuestra. Ahora están atrincherados más profundamente, de espaldas a nuestras líneas y su formación fortalecida. Debemos decidir si continuar presionándolos o cambiar nuestras tácticas."  #NT!
+ tactical_forest_battle.7334.a: "Envía una carga con nuestras unidades de élite para atacar su flanco."  #NT!
+ tactical_forest_battle.7334.a.success: "¡Nuestras unidades de crack los toman por sorpresa y barren sus líneas!"  #NT!
+ tactical_forest_battle.7334.a.failure: "¡Nuestras unidades de crack no pueden atravesar su sólida defensa!"  #NT!
+ tactical_forest_battle.7334.b: "Envía caballeros para atacar su flanco."  #NT!
+ tactical_forest_battle.7334.b.success: "¡Nuestros caballeros chocan contra el flanco expuesto del enemigo, rompiendo su formación!"  #NT!
+ tactical_forest_battle.7334.b.failure: "¡Los caballeros son interceptados por las reservas enemigas!"  #NT!
+ tactical_forest_battle.7334.c: "Romper las reservas centrales para aplastarles la retaguardia."  #NT!
+ tactical_forest_battle.7334.c.success: "¡Nuestras reservas centrales chocan contra su retaguardia, provocando el caos!"  #NT!
+ tactical_forest_battle.7334.c.failure: "¡Nuestras reservas centrales no pueden retirarse debido a un empujón repentino!"  #NT!
+ tactical_forest_battle.7334.d: "Romper las reservas izquierdas para aplastarles la retaguardia."  #NT!
+ tactical_forest_battle.7334.d.success: "¡Nuestras reservas izquierdas chocan contra su retaguardia, provocando el caos!"  #NT!
+ tactical_forest_battle.7334.d.failure: "¡Nuestras reservas izquierdas no pueden retirarse debido a un empujón repentino!"  #NT!
+ tactical_forest_battle.7334.e: "Finge una retirada y ataca a los perseguidores."  #NT!
+ tactical_forest_battle.7334.e.success: "¡El enemigo cae en nuestro engaño y persigue un ataque inesperado!"  #NT!
+ tactical_forest_battle.7334.e.failure: "¡El enemigo se retira a nuestro centro expuesto!"  #NT!
+  
+ tactical_forest_battle.0653.t: "Refuerzos a su izquierda"  #NT!
+ tactical_forest_battle.0653.desc: "[enemy_commander.GetFirstNamePossessive] ¡El flanco izquierdo está recibiendo refuerzos! Debemos actuar rápidamente para evitar que consoliden sus fuerzas."  #NT!
+ tactical_forest_battle.0653.a: "Lanzar carga inmediata a su izquierda."  #NT!
+ tactical_forest_battle.0653.a.success: "¡La carga desbarata sus refuerzos!"  #NT!
+ tactical_forest_battle.0653.a.failure: "¡La carga es rechazada!"  #NT!
+ tactical_forest_battle.0653.b:0 "Send knights to charge their left 
+ tactical_forest_battle.0653.b.success: "¡Los caballeros acosan y retrasan los refuerzos!"  #NT!
+ tactical_forest_battle.0653.b.failure: "¡Los caballeros son interceptados!"  #NT!
+ tactical_forest_battle.0653.c: "Romper las fuerzas del centro para atacar su izquierda."  #NT!
+ tactical_forest_battle.0653.c.success: "¡Las fuerzas del centro atacan a su izquierda!"  #NT!
+ tactical_forest_battle.0653.c.failure: "¡Las fuerzas centrales están reprimidas!"  #NT!
+ tactical_forest_battle.0653.d: "Rotar nuevas reservas para atacar su izquierda."  #NT!
+ tactical_forest_battle.0653.d.success: "¡Las reservas fortalecen nuestro asalto!"  #NT!
+ tactical_forest_battle.0653.d.failure: "Nuestros hombres no pueden retirarse."  #NT!
+ tactical_forest_battle.0653.e: "Envía nuestras unidades de élite para romper su izquierda."  #NT!
+ tactical_forest_battle.0653.e.success: "¡Las reservas fortalecen nuestro asalto!"  #NT!
+ tactical_forest_battle.0653.e.failure: "¡Las reservas están retrasadas!"  #NT!
+  
+ tactical_forest_battle.0656.t: "Refuerzos a su centro"  #NT!
+ tactical_forest_battle.0656.desc: "[enemy_commander.GetFirstNamePossessive] ¡El flanco central está recibiendo refuerzos! Debemos actuar rápidamente para evitar que consoliden sus fuerzas."  #NT!
+ tactical_forest_battle.0656.a: "Lanzar carga inmediata en su centro"  #NT!
+ tactical_forest_battle.0656.a.success: "¡La carga desbarata sus refuerzos!"  #NT!
+ tactical_forest_battle.0656.a.failure: "¡La carga es rechazada!"  #NT!
+ tactical_forest_battle.0656.b:0 "Send knights to charge their center 
+ tactical_forest_battle.0656.b.success: "¡Los caballeros acosan y retrasan los refuerzos!"  #NT!
+ tactical_forest_battle.0656.b.failure: "¡Los caballeros son interceptados!"  #NT!
+ tactical_forest_battle.0656.c: "Romper las fuerzas centrales para atacar su centro."  #NT!
+ tactical_forest_battle.0656.c.success: "¡Las fuerzas centrales golpean su centro!"  #NT!
+ tactical_forest_battle.0656.c.failure: "¡Las fuerzas centrales están reprimidas!"  #NT!
+ tactical_forest_battle.0656.d: "Rotar nuevas reservas para atacar su centro."  #NT!
+ tactical_forest_battle.0656.d.success: "¡Las reservas fortalecen nuestro asalto!"  #NT!
+ tactical_forest_battle.0656.d.failure: "Nuestros hombres no pueden retirarse."  #NT!
+ tactical_forest_battle.0656.f: "Envía nuestras unidades de élite para romper su centro."  #NT!
+ tactical_forest_battle.0656.f.success: "¡Las reservas fortalecen nuestro asalto!"  #NT!
+ tactical_forest_battle.0656.f.failure: "¡Las reservas están retrasadas!"  #NT!
+  
+  
+ tactical_forest_battle.8005.desc: "[enemy_commander.GetFirstNamePossessive] ¡El flanco izquierdo está huyendo! ¡Esta es nuestra oportunidad de aprovechar la ventaja y romperlos por completo!"  #NT!
+ tactical_forest_battle.8005.t: "Su izquierda se está desviando"  #NT!
+ tactical_forest_battle.8005.a: "Finge una retirada y gira y mata."  #NT!
+ tactical_forest_battle.8005.a.success: "¡El enemigo cae en la finta y está en desorden!"  #NT!
+ tactical_forest_battle.8005.a.failure: "¡El enemigo ve a través de la finta!"  #NT!
+ tactical_forest_battle.8005.b: "El flanco derecho lanza un fuerte empujón para romper el izquierdo"  #NT!
+ tactical_forest_battle.8005.b.success: "¡Push logra un gran avance!"  #NT!
+ tactical_forest_battle.8005.b.failure: "¡El empuje es rechazado!"  #NT!
+ tactical_forest_battle.8005.c: "Envía caballeros para romper su izquierda."  #NT!
+ tactical_forest_battle.8005.c.success: "Los caballeros cargan hacia su izquierda"  #NT!
+ tactical_forest_battle.8005.c.failure: "¡Nuestra carga es absorbida!"  #NT!
+ tactical_forest_battle.8005.d: "Envía unidades de élite para cargar el flanco de ruta."  #NT!
+ tactical_forest_battle.8005.d.success: "Nuestras unidades de crack causan estragos a su izquierda."  #NT!
+ tactical_forest_battle.8005.d.failure: "¡Nuestra carga es absorbida!"  #NT!
+ tactical_forest_battle.8005.e: "Ventaja de prensa en línea vacilante"  #NT!
+ tactical_forest_battle.8005.e.success: "¡Toda la línea derecha avanza con decisión!"  #NT!
+ tactical_forest_battle.8005.e.failure: "¡La línea no puede avanzar en coordinación!"  #NT!
+  
+ tactical_forest_battle.8020.t: "Su derecho es la ruta"  #NT!
+ tactical_forest_battle.8020.desc: "[enemy_commander.GetFirstNamePossessive] ¡El flanco derecho está huyendo! ¡Esta es nuestra oportunidad de aprovechar la ventaja y romperlos por completo!"  #NT!
+ tactical_forest_battle.8020.a: "Finge una retirada y gira y mata."  #NT!
+ tactical_forest_battle.8020.a.success: "¡El enemigo cae en la finta y está en desorden!"  #NT!
+ tactical_forest_battle.8020.a.failure: "¡El enemigo ve a través de la finta!"  #NT!
+ tactical_forest_battle.8020.b: "El flanco izquierdo lanza un fuerte empujón para romper el derecho"  #NT!
+ tactical_forest_battle.8020.b.success: "¡Push logra un gran avance!"  #NT!
+ tactical_forest_battle.8020.b.failure: "¡El empuje es rechazado!"  #NT!
+ tactical_forest_battle.8020.c: "Envía caballeros para romper su derecho."  #NT!
+ tactical_forest_battle.8020.c.success: "Los caballeros cargan hacia su derecha"  #NT!
+ tactical_forest_battle.8020.c.failure: "¡Nuestra carga es absorbida!"  #NT!
+ tactical_forest_battle.8020.d: "Envía unidades de élite para cargar el flanco de ruta."  #NT!
+ tactical_forest_battle.8020.d.success: "Nuestras unidades de crack causan estragos a su derecha."  #NT!
+ tactical_forest_battle.8020.d.failure: "¡Nuestra carga es absorbida!"  #NT!
+ tactical_forest_battle.8020.e: "Ventaja de prensa en línea vacilante"  #NT!
+ tactical_forest_battle.8020.e.success: "¡Toda la línea derecha avanza con decisión!"  #NT!
+ tactical_forest_battle.8020.e.failure: "¡La línea no puede avanzar en coordinación!"  #NT!
+  
+  
+ tactical_forest_battle.9250.t: "Su centro es la ruta"  #NT!
+ tactical_forest_battle.9250.desc: "[enemy_commander.GetFirstNamePossessive] ¡El centro está enrutando en completo desorden! ¡Este es nuestro momento de atacar y lograr la victoria total!"  #NT!
+ tactical_forest_battle.9250.a: "Rodeo por el flanco izquierdo"  #NT!
+ tactical_forest_battle.9250.a.success: "¡El flanco izquierdo rodea el centro de ruta!"  #NT!
+ tactical_forest_battle.9250.a.failure: "¡El cerco no se completa!"  #NT!
+ tactical_forest_battle.9250.b: "Carga fuerte hacia el centro"  #NT!
+ tactical_forest_battle.9250.b.success: "¡El empujón final destroza el centro!"  #NT!
+ tactical_forest_battle.9250.b.failure: "¡La carga es rechazada!"  #NT!
+ tactical_forest_battle.9250.c: "Envía caballeros para romper el centro."  #NT!
+ tactical_forest_battle.9250.c.success: "¡Los caballeros destrozan el centro de rutas!"  #NT!
+ tactical_forest_battle.9250.c.failure: "¡Los caballeros no pueden llegar al centro!"  #NT!
+ tactical_forest_battle.9250.d: "Envía unidades de élite para terminar el centro."  #NT!
+ tactical_forest_battle.9250.d.success: "¡Nuestras unidades de crack rematan el centro!"  #NT!
+ tactical_forest_battle.9250.d.failure: "¡Nuestras unidades de crack no pueden atravesar!"  #NT!
+ tactical_forest_battle.9250.e: "Ventaja de prensa"  #NT!
+ tactical_forest_battle.9250.e.success: "¡Toda la línea presiona la ventaja decisiva!"  #NT!
+ tactical_forest_battle.9250.e.failure: "¡El ejército no puede aprovechar plenamente la ventaja!"  #NT!
+ tactical_forest_battle.9250.f: "Empuje final del comandante central"  #NT!
+ tactical_forest_battle.9250.f.success: "¡El comandante del centro lidera el empuje destructivo!"  #NT!
+ tactical_forest_battle.9250.f.failure: "¡El empujón del comandante del centro falla!"  #NT!
+  
+ tactical_forest_battle.9250.n: "[center_flank_commander.GetFullNameNicknamed] cargos por [enemy_center_flank_commander.GetFullNameNicknamed]"  #NT!
+ tactical_forest_battle.9250.n.success: "[center_flank_commander.GetFullNameNicknamed] duelos [enemy_center_flank_commander.GetFullNameNicknamed]"  #NT!
+ tactical_forest_battle.9250.n.failure: "Nuestra carga no puede llegar a [enemy_center_flank_commander.GetFirstName]."  #NT!
+ tactical_forest_battle.9250.kc: "¡Victoria del duelo!"  #NT!
+ tactical_forest_battle.9250.kc.success: "[center_flank_commander.GetFullNameNicknamed] ha matado a [enemy_center_flank_commander.GetFullNameNicknamed] en combate singular, ¡desmoralizando a sus tropas!"  #NT!
+ tactical_forest_battle.9250.cc: "¡Victoria del duelo!"  #NT!
+ tactical_forest_battle.9250.cc.success: "[center_flank_commander.GetFullNameNicknamed] ha capturado a [enemy_center_flank_commander.GetFullNameNicknamed] tras derrotar a [enemy_center_flank_commander.GetHerHim] en combate singular, ¡desmoralizando a sus tropas!"  #NT!
+ tactical_forest_battle.9250.ld: "¡Derrotado en duelo!"  #NT!
+ tactical_forest_battle.9250.ld.failure: "¡[center_flank_commander.GetFullNameNicknamed] fue derrotado por [enemy_center_flank_commander.GetFullNameNicknamed] después de rodear a [enemy_center_flank_commander.GetFirstName]! en batalla!"  #NT!
+ tactical_forest_battle.9250.ldk: "¡Muerto en duelo!"  #NT!
+ tactical_forest_battle.9250.ldk.failure: "¡[center_flank_commander.GetFullNameNicknamed] fue asesinado por [enemy_center_flank_commander.GetFullNameNicknamed] después de rodear a [enemy_center_flank_commander.GetFirstName] en la batalla!"  #NT!
+  
+  
+  
+  
+ tactical_forest_battle.9251.desc: "[enemy_commander.GetFirstNamePossessive] ejército se está retirando! ¡Tenemos una oportunidad crítica para perseguirlos y destruirlos antes de que puedan reagruparse!"  #NT!
+ tactical_forest_battle.9251.t: "Su centro en el caos"  #NT!
+ tactical_forest_battle.9251.a: "Girar hacia su flanco derecho."  #NT!
+ tactical_forest_battle.9251.a.success: "¡Giramos y cargamos contra el flanco derecho!"  #NT!
+ tactical_forest_battle.9251.a.failure: "¡El se organiza para cumplir con nuestro cargo!"  #NT!
+ tactical_forest_battle.9251.b: "Capturar prisioneros"  #NT!
+ tactical_forest_battle.9251.b.success: "¡Capturamos a muchos prisioneros!"  #NT!
+ tactical_forest_battle.9251.b.failure: "¡Los prisioneros se escapan!"  #NT!
+ tactical_forest_battle.9251.c: "Envía caballeros para que choquen contra su flanco derecho."  #NT!
+ tactical_forest_battle.9251.c.success: "La carga de los Caballeros está causando estragos"  #NT!
+ tactical_forest_battle.9251.c.failure: "La carga de los caballeros es absorbida."  #NT!
+ tactical_forest_battle.9251.d: "Envía nuestras unidades de élite para que choquen contra su flanco derecho."  #NT!
+ tactical_forest_battle.9251.d.success: "¡Nuestras unidades de crack causan estragos en su flanco derecho!"  #NT!
+ tactical_forest_battle.9251.d.failure: "¡¡El enemigo se mantiene fuerte!!"  #NT!
+  
+  
+ tactical_forest_battle.53.t: "Rodeado a la derecha"  #NT!
+ tactical_forest_battle.53.desc: "¡Hemos rodeado con éxito [enemy_commander.GetFirstNamePossessive] flanco derecho! Están atrapados y enfrentando la destrucción. ¡Debemos asestar el golpe mortal!"  #NT!
+ tactical_forest_battle.53.a: "Comienza la masacre de las tropas rodeadas."  #NT!
+ tactical_forest_battle.53.a.success: "¡Las tropas rodeadas son masacradas!"  #NT!
+ tactical_forest_battle.53.a.failure: "¡Las tropas cercadas estallan!"  #NT!
+ tactical_forest_battle.53.b: "tomar prisioneros"  #NT!
+ tactical_forest_battle.53.b.success: "¡Capturamos a muchos prisioneros!"  #NT!
+ tactical_forest_battle.53.b.failure: "¡Los prisioneros se escapan!"  #NT!
+  
+ tactical_forest_battle.75.t: "Rodeado a la izquierda"  #NT!
+ tactical_forest_battle.75.desc: "¡Hemos rodeado con éxito [enemy_commander.GetFirstNamePossessive] flanco izquierdo! Están atrapados y enfrentando la destrucción. ¡Debemos asestar el golpe mortal!"  #NT!
+ tactical_forest_battle.75.a: "Comienza la masacre de las tropas rodeadas."  #NT!
+ tactical_forest_battle.75.a.success: "¡Las tropas rodeadas son masacradas!"  #NT!
+ tactical_forest_battle.75.a.failure: "¡Las tropas cercadas estallan!"  #NT!
+ tactical_forest_battle.75.b: "tomar prisioneros"  #NT!
+ tactical_forest_battle.75.b.success: "¡Capturamos a muchos prisioneros!"  #NT!
+ tactical_forest_battle.75.b.failure: "¡Los prisioneros se escapan!"  #NT!
+ tactical_forest_battle.75.n: "[right_flank_commander.GetFullNameNicknamed] cargos por [enemy_left_flank_commander.GetFullNameNicknamed]"  #NT!
+ tactical_forest_battle.75.n.success: "[right_flank_commander.GetFullNameNicknamed] duelos [enemy_left_flank_commander.GetFullNameNicknamed]"  #NT!
+ tactical_forest_battle.75.n.failure: "Nuestra carga no puede llegar a [enemy_left_flank_commander.GetFirstName]."  #NT!
+ tactical_forest_battle.75.kc: "¡Victoria del duelo!"  #NT!
+ tactical_forest_battle.75.kc.success: "[right_flank_commander.GetFullNameNicknamed] ha matado a [enemy_left_flank_commander.GetFullNameNicknamed] en combate singular, ¡desmoralizando a sus tropas!"  #NT!
+ tactical_forest_battle.75.cc: "¡Victoria del duelo!"  #NT!
+ tactical_forest_battle.75.cc.success: "[right_flank_commander.GetFullNameNicknamed] ha capturado a [enemy_left_flank_commander.GetFullNameNicknamed] tras derrotar a [enemy_left_flank_commander.GetHerHim] en combate singular, ¡desmoralizando a sus tropas!"  #NT!
+ tactical_forest_battle.75.ld: "¡Derrotado en duelo!"  #NT!
+ tactical_forest_battle.75.ld.failure: "¡[right_flank_commander.GetFullNameNicknamed] fue derrotado por [enemy_left_flank_commander.GetFullNameNicknamed] después de rodear a [enemy_left_flank_commander.GetFirstName]! en batalla!"  #NT!
+ tactical_forest_battle.75.ldk: "¡Muerto en duelo!"  #NT!
+ tactical_forest_battle.75.ldk.failure: "¡[right_flank_commander.GetFullNameNicknamed] fue asesinado por [enemy_left_flank_commander.GetFullNameNicknamed] después de rodear a [enemy_left_flank_commander.GetFirstName] en la batalla!"  #NT!
+  
+  
+ tactical_forest_battle.9450.t: "Centro rodeado"  #NT!
+ tactical_forest_battle.9450.desc: "¡Hemos rodeado con éxito [enemy_commander.GetFirstNamePossessive] centro! Están atrapados y enfrentando la destrucción. ¡Debemos asestar el golpe mortal!"  #NT!
+ tactical_forest_battle.9450.a: "Comienza la masacre de las tropas rodeadas."  #NT!
+ tactical_forest_battle.9450.a.success: "¡Las tropas rodeadas son masacradas!"  #NT!
+ tactical_forest_battle.9450.a.failure: "¡Las tropas cercadas estallan!"  #NT!
+ tactical_forest_battle.9450.b: "tomar prisioneros"  #NT!
+ tactical_forest_battle.9450.b.success: "¡Capturamos a muchos prisioneros!"  #NT!
+ tactical_forest_battle.9450.b.failure: "¡Los prisioneros se escapan!"  #NT!
+  

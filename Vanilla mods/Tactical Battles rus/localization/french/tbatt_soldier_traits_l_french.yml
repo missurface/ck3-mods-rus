@@ -1,0 +1,286 @@
+﻿l_french:
+  
+ # Huscarl 
+ trait_tbat_soldier_huscarl: "Capitaine Huscarl"
+ tbat_soldier_huscarl_desc: "Ce soldat a été promu au sein d'une unité d'élite de Huscarls après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_huscarl_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Huscarls après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Landsknecht 
+ trait_tbat_soldier_landsknecht: "Capitaine de Landsknecht"
+ tbat_soldier_landsknecht_desc: "Ce soldat a été promu d'une unité d'élite de Landsknechts après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_landsknecht_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Landsknechts après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Longbowmen 
+ trait_tbat_soldier_longbowmen: "Capitaine des archers longs"
+ tbat_soldier_longbowmen_desc: "Ce soldat a été promu au sein d'une unité d'élite de Longbowmen après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_longbowmen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite d'archers longs après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Goedendag 
+ trait_tbat_soldier_goedendag: "Capitaine du Goedendag"
+ tbat_soldier_goedendag_desc: "Ce soldat a été promu au sein d'une unité d'élite de la milice Goedendag après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_goedendag_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de la milice Goedendag après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Gendarme 
+ trait_tbat_soldier_gendarme: "Capitaine de gendarmerie"
+ tbat_soldier_gendarme_desc: "Ce soldat a été promu issu d'une unité d'élite de gendarmes après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_gendarme_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu dans une unité d'élite de gendarmes après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Chasseur 
+ trait_tbat_soldier_chasseur: "Capitaine de chasseur"
+ tbat_soldier_chasseur_desc: "Ce soldat a été promu au sein d'une unité d'élite de chasseurs après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_chasseur_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de chasseurs après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Picchieri 
+ trait_tbat_soldier_picchieri: "Capitaine Picchieri"
+ tbat_soldier_picchieri_desc: "Ce soldat a été promu d'une unité d'élite de Picchieri après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_picchieri_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Picchieri après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Praetorian 
+ trait_tbat_soldier_praetorian: "Capitaine prétorien"
+ tbat_soldier_praetorian_desc: "Ce soldat a été promu au sein d'une unité d'élite de prétoriens après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_praetorian_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de prétoriens après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Caballero 
+ trait_tbat_soldier_caballero: "Capitaine Caballero"
+ tbat_soldier_caballero_desc: "Ce soldat a été promu dans une unité d'élite de Caballeros après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_caballero_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Caballeros après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Cataphract 
+ trait_tbat_soldier_cataphract: "Capitaine de la cataphracte"
+ tbat_soldier_cataphract_desc: "Ce soldat a été promu au sein d'une unité d'élite de Cataphractaires après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_cataphract_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Cataphractaires après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Monaspa 
+ trait_tbat_soldier_monaspa: "Capitaine Monaspa"
+ tbat_soldier_monaspa_desc: "Ce soldat a été promu dans une unité d'élite de Monaspa après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_monaspa_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Monaspa après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Hobelar 
+ trait_tbat_soldier_hobelar: "Capitaine Hobelar"
+ tbat_soldier_hobelar_desc: "Ce soldat a été promu au sein d'une unité d'élite de Hobelars après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_hobelar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Hobelars après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Schiltron 
+ trait_tbat_soldier_schiltron: "Capitaine Schiltron"
+ tbat_soldier_schiltron_desc: "Ce soldat a été promu au sein d'une unité d'élite de Schiltrons après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_schiltron_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Schiltrons après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Metsanvartija 
+ trait_tbat_soldier_metsanvartija: "Capitaine de Metsanvartija"
+ tbat_soldier_metsanvartija_desc: "Ce soldat a été promu dans une unité d'élite de Metsanvartija après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_metsanvartija_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Metsanvartija après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Horse Archers 
+ trait_tbat_soldier_horse_archers: "Capitaine des archers à cheval"
+ tbat_soldier_horse_archers_desc: "Ce soldat a été promu au sein d'une unité d'élite d'archers à cheval après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite d'archers à cheval après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Mubarizun 
+ trait_tbat_soldier_mubarizun: "Capitaine Mubarizun"
+ tbat_soldier_mubarizun_desc: "Ce soldat a été promu issu d'une unité d'élite de Mubarizun après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_mubarizun_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Mubarizun après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Ayyar 
+ trait_tbat_soldier_ayyar: "Capitaine Ayyar"
+ tbat_soldier_ayyar_desc: "Ce soldat a été promu dans une unité d'élite d'Ayyar après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_ayyar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite d'Ayyar après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Druzhina 
+ trait_tbat_soldier_druzhina: "Capitaine Druzhina"
+ tbat_soldier_druzhina_desc: "Ce soldat a été promu d'une unité d'élite de Druzhina après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_druzhina_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Druzhina après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Hussar 
+ trait_tbat_soldier_hussar: "Capitaine hussard"
+ tbat_soldier_hussar_desc: "Ce soldat a été promu au sein d'une unité d'élite de hussards après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_hussar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de hussards après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Horn Warrior 
+ trait_tbat_soldier_horn_warrior: "Capitaine Guerrier Corne"
+ tbat_soldier_horn_warrior_desc: "Ce soldat a été promu au sein d'une unité d'élite de Horn Warriors après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_horn_warrior_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Horn Warriors après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Bush Hunter 
+ trait_tbat_soldier_bush_hunter: "Capitaine des chasseurs de brousse"
+ tbat_soldier_bush_hunter_desc: "Ce soldat a été promu au sein d'une unité d'élite de Bush Hunters après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_bush_hunter_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Bush Hunters après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Shomer 
+ trait_tbat_soldier_shomer: "Capitaine Shomer"
+ tbat_soldier_shomer_desc: "Ce soldat a été promu dans une unité d'élite de Shomer après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_shomer_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Shomer après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Khandayat 
+ trait_tbat_soldier_khandayat: "Capitaine Khandayat"
+ tbat_soldier_khandayat_desc: "Ce soldat a été promu dans une unité d'élite de Khandayat après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_khandayat_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Khandayat après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Garudas 
+ trait_tbat_soldier_garudas: "Capitaine de Garuda"
+ tbat_soldier_garudas_desc: "Ce soldat a été promu au sein d'une unité d'élite de Garudas après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_garudas_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Garudas après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Mountaineer 
+ trait_tbat_soldier_mountaineer: "Capitaine alpiniste"
+ tbat_soldier_mountaineer_desc: "Ce soldat a été promu au sein d'une unité d'élite d'alpinistes après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_mountaineer_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite d'alpinistes après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Sahel Horsemen 
+ trait_tbat_soldier_sahel_horsemen: "Capitaine des Cavaliers du Sahel"
+ tbat_soldier_sahel_horsemen_desc: "Ce soldat a été promu au sein d'une unité d'élite de cavaliers du Sahel après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_sahel_horsemen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de cavaliers du Sahel après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Guinea Warrior 
+ trait_tbat_soldier_guinea_warrior: "Capitaine guerrier de Guinée"
+ tbat_soldier_guinea_warrior_desc: "Ce soldat a été promu au sein d'une unité d'élite des Guerriers de Guinée après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_guinea_warrior_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Guerriers de Guinée après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Sarawit 
+ trait_tbat_soldier_sarawit: "Capitaine Sarawit"
+ tbat_soldier_sarawit_desc: "Ce soldat a été promu dans une unité d'élite de Sarawit après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_sarawit_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Sarawit après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Abudrar 
+ trait_tbat_soldier_abudrar: "Capitaine Abudrar"
+ tbat_soldier_abudrar_desc: "Ce soldat a été promu issu d'une unité d'élite d'Aboudrar après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_abudrar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite d'Abudrar après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Zbrojnosh 
+ trait_tbat_soldier_zbrojnosh: "Capitaine de Zbrojnosh"
+ tbat_soldier_zbrojnosh_desc: "Ce soldat a été promu d'une unité d'élite de Zbrojnosh après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_zbrojnosh_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Zbrojnosh après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Palace Guards 
+ trait_tbat_soldier_palace_guards: "Capitaine des gardes du palais"
+ tbat_soldier_palace_guards_desc: "Ce soldat a été promu au sein d'une unité d'élite des gardes du palais après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_palace_guards_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite des gardes du palais après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Shenbigong 
+ trait_tbat_soldier_shenbigong: "Capitaine Shenbigong"
+ tbat_soldier_shenbigong_desc: "Ce soldat a été promu dans une unité d'élite de Shenbigong après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_shenbigong_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Shenbigong après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Mulaththamun 
+ trait_tbat_soldier_mulaththamun: "Capitaine Mulaththamun"
+ tbat_soldier_mulaththamun_desc: "Ce soldat a été promu dans une unité d'élite de Mulaththamun après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_mulaththamun_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Mulaththamun après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Archers of the Nile 
+ trait_tbat_soldier_archers_of_the_nile: "Archers du capitaine du Nil"
+ tbat_soldier_archers_of_the_nile_desc: "Ce soldat a été promu au sein d'une unité d'élite des Archers du Nil après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_archers_of_the_nile_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite d'Archers du Nil après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Paiks 
+ trait_tbat_soldier_paiks: "Capitaine Paiks"
+ tbat_soldier_paiks_desc: "Ce soldat a été promu au sein d'une unité d'élite de Paiks après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_paiks_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Paiks après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Guanch Vaulter 
+ trait_tbat_soldier_guanch_vaulter: "Capitaine des Vaulteurs Guanch"
+ tbat_soldier_guanch_vaulter_desc: "Ce soldat a été promu au sein d'une unité d'élite de Guanch Vaulters après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_guanch_vaulter_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Guanch Vaulters après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Ayrudzi 
+ trait_tbat_soldier_ayrudzi: "Capitaine Ayrudzi"
+ tbat_soldier_ayrudzi_desc: "Ce soldat a été promu d'une unité d'élite d'Ayrudzi après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_ayrudzi_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite d'Ayrudzi après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Conrois 
+ trait_tbat_soldier_conrois: "Capitaine Conrois"
+ tbat_soldier_conrois_desc: "Ce soldat a été promu d'une unité d'élite de Conrois après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_conrois_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu dans une unité d'élite de Conrois après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Akritai 
+ trait_tbat_soldier_akritai: "Capitaine Akritaï"
+ tbat_soldier_akritai_desc: "Ce soldat a été promu dans une unité d'élite d'Akritai après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_akritai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite d'Akritai après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Ballistrai 
+ trait_tbat_soldier_ballistrai: "Capitaine Ballistrai"
+ tbat_soldier_ballistrai_desc: "Ce soldat a été promu au sein d'une unité d'élite de Ballistrai après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_ballistrai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Ballistrai après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Skoutatoi 
+ trait_tbat_soldier_skoutatoi: "Capitaine Skoutatoi"
+ tbat_soldier_skoutatoi_desc: "Ce soldat a été promu dans une unité d'élite de Skoutatoi après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_skoutatoi_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Skoutatoi après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Varangian Guards 
+ trait_tbat_soldier_varangian_guards: "Capitaine des gardes varègues"
+ tbat_soldier_varangian_guards_desc: "Ce soldat a été promu au sein d'une unité d'élite des gardes varègues après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_varangian_guards_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite des gardes varègues après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Handpicked Faithful 
+ trait_tbat_soldier_handpicked_faithful: "Capitaine fidèle trié sur le volet"
+ tbat_soldier_handpicked_faithful_desc: "Ce soldat a été promu au sein d'une unité d'élite de fidèles triés sur le volet après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_handpicked_faithful_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de fidèles triés sur le volet après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Fire Lancers 
+ trait_tbat_soldier_fire_lancers: "Capitaine des Lanciers de Feu"
+ tbat_soldier_fire_lancers_desc: "Ce soldat a été promu au sein d'une unité d'élite de Fire Lancers après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_fire_lancers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Fire Lancers après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Gakgung Archers 
+ trait_tbat_soldier_gakgung_archers: "Capitaine des archers de Gakgung"
+ tbat_soldier_gakgung_archers_desc: "Ce soldat a été promu au sein d'une unité d'élite d'archers Gakgung après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_gakgung_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite d'archers Gakgung après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Ballista Elephant 
+ trait_tbat_soldier_ballista_elephant: "Capitaine d'éléphant baliste"
+ tbat_soldier_ballista_elephant_desc: "Ce soldat a été promu au sein d'une unité d'élite d'éléphants balistes après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_ballista_elephant_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite d'éléphants balistes après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Pesilat Warriors 
+ trait_tbat_soldier_pesilat_warriors: "Capitaine des guerriers Pesilat"
+ tbat_soldier_pesilat_warriors_desc: "Ce soldat a été promu au sein d'une unité d'élite de guerriers Pesilat après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_pesilat_warriors_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de guerriers Pesilat après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Samurai 
+ trait_tbat_soldier_samurai: "Capitaine samouraï"
+ tbat_soldier_samurai_desc: "Ce soldat a été promu dans une unité d'élite de samouraïs après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_samurai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de samouraïs après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Japanese Horse Archers 
+ trait_tbat_soldier_japanese_horse_archers: "Capitaine d'archers à cheval japonais"
+ tbat_soldier_japanese_horse_archers_desc: "Ce soldat a été promu au sein d'une unité d'élite d'archers à cheval japonais après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_japanese_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite d'archers à cheval japonais après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Emishi Horse Archers 
+ trait_tbat_soldier_emishi_horse_archers: "Capitaine des archers à cheval Emishi"
+ tbat_soldier_emishi_horse_archers_desc: "Ce soldat a été promu au sein d'une unité d'élite d'archers à cheval Emishi après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_emishi_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite d'archers à cheval Emishi après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Warrior Monks 
+ trait_tbat_soldier_warrior_monks: "Capitaine des moines guerriers"
+ tbat_soldier_warrior_monks_desc: "Ce soldat a été promu au sein d'une unité d'élite de moines guerriers après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_warrior_monks_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de moines guerriers après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Zhanmadao Infantry 
+ trait_tbat_soldier_zhanmadao_infantry: "Capitaine d'infanterie Zhanmadao"
+ tbat_soldier_zhanmadao_infantry_desc: "Ce soldat a été promu au sein d'une unité d'élite de l'infanterie Zhanmadao après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_zhanmadao_infantry_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de l'infanterie Zhanmadao après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Tiefutu 
+ trait_tbat_soldier_tiefutu: "Capitaine Tiefutu"
+ tbat_soldier_tiefutu_desc: "Ce soldat a été promu dans une unité d'élite de Tiefutu après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_tiefutu_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu d'une unité d'élite de Tiefutu après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Black Armor Cavalry 
+ trait_tbat_soldier_black_armor_cavalry: "Capitaine de cavalerie blindée noire"
+ tbat_soldier_black_armor_cavalry_desc: "Ce soldat a été promu au sein d'une unité d'élite de la cavalerie blindée noire après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_black_armor_cavalry_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de la cavalerie blindée noire après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Burenjia 
+ trait_tbat_soldier_burenjia: "Capitaine Burenjia"
+ tbat_soldier_burenjia_desc: "Ce soldat a été promu dans une unité d'élite de Burenjia après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_burenjia_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Burenjia après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Rocket Carts 
+ trait_tbat_soldier_rocket_carts: "Capitaine des chariots-fusées"
+ tbat_soldier_rocket_carts_desc: "Ce soldat a été promu au sein d'une unité d'élite de Rocket Carts après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_rocket_carts_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite de Rocket Carts après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+  
+ # Ordo Riders Horse Archers 
+ trait_tbat_soldier_ordo_riders_horse_archers: "Capitaine des archers à cheval des cavaliers de l'Ordo"
+ tbat_soldier_ordo_riders_horse_archers_desc: "Ce soldat a été promu au sein d'une unité d'élite d'Archers à cheval des Cavaliers de l'Ordo après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."
+ trait_tbat_soldier_ordo_riders_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] a été promu au sein d'une unité d'élite d'archers à cheval Ordo Riders après avoir joué un rôle déterminant dans le succès d'un régiment au combat. Leur présence au combat incite ceux qui les entourent à de plus grands faits d’armes."

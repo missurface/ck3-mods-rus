@@ -1,0 +1,138 @@
+﻿l_russian:
+ # Event 0001 - Left Flank Envelopment SUCCESS 
+ tactical_flank_battle.0001.t: "Левый фланг рвется вперед!"
+ tactical_flank_battle.0001.desc: "[scope:flank_commander.GetTitledFirstName], командующий нашим левым флангом, нашел лазейку! Право противника раскрыто, и мы имеем возможность окружить его позицию. Войска [enemy_commander.GetTitledFirstName] уязвимы перед разрушительным фланговым маневром!"
+ tactical_flank_battle.0001.a: "Агрессивно используйте преимущество! (Доблесть против [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0001.a.success: "Наш левый фланг яростно атакует, свертывая свою линию!"
+ tactical_flank_battle.0001.a.failure: "Агрессивный толчок сдерживается."
+ tactical_flank_battle.0001.b: "Согласуйте с центром! (Управление против [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0001.b.success: "Идеальная координация усиливает наше преимущество!"
+ tactical_flank_battle.0001.b.failure: "Координация не осуществляется."
+ tactical_flank_battle.0001.c: "Выполните движение клещей! (Боевой против [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0001.c.success: "Мы поймаем их в разрушительные клещи!"
+ tactical_flank_battle.0001.c.failure: "Они уклоняются от клещевого маневра."
+ tactical_flank_battle.0001.d: "Удерживайте позицию и наблюдайте."
+  
+ # Event 0002 - Left Flank Envelopment FAILURE 
+ tactical_flank_battle.0002.t: "Левый фланг под давлением!"
+ tactical_flank_battle.0002.desc: "[scope:flank_commander.GetTitledFirstName], командующий нашим левым флангом, попал в беду! [enemy_commander.GetTitledFirstName] обратил против нас нашу попытку охвата. Наши левые силы теперь уязвимы и отступают. Мы должны действовать быстро, иначе рискуем потерять весь фланг!"
+ tactical_flank_battle.0002.a: "Реформируйте фланг! (Боевой против [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0002.a.success: "Наводим порядок на левом фланге!"
+ tactical_flank_battle.0002.a.failure: "Фланг продолжает рушиться."
+ tactical_flank_battle.0002.b: "Звоните в поддержку из центра! (Дипломатия против [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0002.b.success: "Подкрепление укрепляет наш левый фланг!"
+ tactical_flank_battle.0002.b.failure: "Никакая помощь не приходит вовремя."
+ tactical_flank_battle.0002.c: "Осуществить боевой отход! (Управление против [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0002.c.success: "Отступаем в порядке!"
+ tactical_flank_battle.0002.c.failure: "Отход превращается в бегство."
+ tactical_flank_battle.0002.d: "Примите неудачу."
+  
+ # Event 0003 - Center Hold SUCCESS 
+ tactical_flank_battle.0003.t: "Центр держится!"
+ tactical_flank_battle.0003.desc: "[scope:flank_commander.GetTitledFirstName], командующие нашим центром, доказали свою состоятельность! Пока [enemy_commander.GetTitledFirstName] бросает все на нашу линию, центр стоит как крепость. Наша позиция сильна, и отсюда мы можем диктовать ход битвы!"
+ tactical_flank_battle.0003.a: "Агрессивно продвигайтесь вперед! (Боевой против [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0003.a.success: "Центр гонит их назад!"
+ tactical_flank_battle.0003.a.failure: "Они сопротивляются нашему натиску."
+ tactical_flank_battle.0003.b: "Закрепите всю линию! (Доблесть против [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0003.b.success: "Наш центр становится незыблемым якорем!"
+ tactical_flank_battle.0003.b.failure: "Позиция якоря ослабевает."
+ tactical_flank_battle.0003.c: "Отправьте поддержку на оба фланга! (Управление против [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0003.c.success: "Центр усиливает всю нашу линию!"
+ tactical_flank_battle.0003.c.failure: "Мы слишком распыляемся."
+ tactical_flank_battle.0003.d: "Поддерживайте постоянное давление."
+  
+ # Event 0004 - Center Collapsing FAILURE 
+ tactical_flank_battle.0004.t: "Центр ломается!"
+ tactical_flank_battle.0004.desc: "[scope:flank_commander.GetTitledFirstName] отчаянно пытается удержать центр, но [enemy_commander.GetTitledFirstName] прорывается! Если центр рухнет, оба фланга будут отрезаны и уничтожены. Это критический момент битвы!"
+ tactical_flank_battle.0004.a: "Соберите центр лично! (Боевой против [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0004.a.success: "Моё присутствие стабилизирует центр!"
+ tactical_flank_battle.0004.a.failure: "Даже мое присутствие не сможет остановить крах."
+ tactical_flank_battle.0004.b: "Задействуйте все резервы! (Управление против [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0004.b.success: "Свежие войска заткнут брешь!"
+ tactical_flank_battle.0004.b.failure: "Резервы проглочены."
+ tactical_flank_battle.0004.c: "Откажитесь от центра и укрепите фланги! (Обучение против [enemy_commander.GetShortUINameNoTooltip])"
+ tactical_flank_battle.0004.c.success: "Формируем новую линию обороны!"
+ tactical_flank_battle.0004.c.failure: "Маневр катастрофически проваливается."
+ tactical_flank_battle.0004.d: "Готовьтесь к ударам и надежде."
+  
+  
+ tactical_forest_battle.0251.tt: "[center_flank_commander.GetFirstNameOrMe] опыта в области [battle_location.GetProvince.GetTerrain.GetName]"
+ tactical_forest_battle.0251.tt.success: "Доблесть [center_flank_commander.GetFirstNameOrMe] в [battle_location.GetProvince.GetTerrain.GetNameNoTooltip] и [battle_location.GetProvince.GetName] выделила их среди сверстников."
+  
+ tactical_forest_battle.0250.tt: "[left_flank_commander.GetFirstNameOrMe] опыта в области [battle_location.GetProvince.GetTerrain.GetName]"
+ tactical_forest_battle.0250.tt.success: "Доблесть [left_flank_commander.GetFirstNameOrMe] в [battle_location.GetProvince.GetTerrain.GetNameNoTooltip] и [battle_location.GetProvince.GetName] выделила их среди сверстников."
+  
+ tactical_forest_battle.0252.tt: "[right_flank_commander.GetFirstNameOrMe] опыта в области [battle_location.GetProvince.GetTerrain.GetName]"
+ tactical_forest_battle.0252.tt.success: "Доблесть [right_flank_commander.GetFirstNameOrMe] в [battle_location.GetProvince.GetTerrain.GetNameNoTooltip] и [battle_location.GetProvince.GetName] выделила их среди сверстников."
+  
+ grant_left_interaction_desc: "Назначьте [recipient.GetTitledFirstName] командиром своего центра, предоставив ему тактический авторитет и престиж."
+ grant_center_interaction_desc: "Назначьте [scope:recipient.GetTitledFirstName] командиром своего центра, предоставив ему тактический авторитет и престиж."
+ grant_right_flank_interaction_desc: "Назначьте [scope:recipient.GetTitledFirstName] командиром правого фланга, предоставив ему тактический авторитет и престиж."
+  
+ # Custom Tooltips 
+ grant_left_flank_commander_tt: "[scope:recipient.GetTitledFirstName] назначен командовать левым флангом."
+ grant_center_commander_tt: "[scope:recipient.GetTitledFirstName] назначен командовать центром."
+ grant_right_flank_commander_tt: "[scope:recipient.GetTitledFirstName] назначен командовать правым флангом."
+  
+ tactical_overmatched_enemy_commander: "Превосходящий вражеский командир"
+ tactical_overmatched_enemy_commander_desc: "Опыт и навыки этого персонажа на поле боя значительно превосходят вражеских командиров, с которыми он сталкивается, что дает ему значительное преимущество в бою и тактике."
+ tactical_outmatched_enemy_commander: "Над моей головой"
+ tactical_outmatched_enemy_commander_desc: "Этот персонаж сталкивается с вражеским командиром, чей опыт и навыки на поле боя значительно превосходят его собственные, что ставит его в невыгодное положение в бою и тактике."
+  
+  
+ trait_lifestyle_flank_commander: "Командир фланга"
+ trait_lifestyle_flank_commander_desc: "#soft_glow #difficulty_hard Не назначен \n\n#![ROOT.GetCharacter.GetFirstNameNoTooltip] имеет опыт управления флангом, которому поручено выполнять фланговые маневры и использовать слабости на правом фланге противника."
+ lifestyle_assigned_flank_commander_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] был выбран для командования флангом в армии [ROOT.GetCharacter.GetLiegeEvenWhenDead.GetTitledHouseNameOrFirstNamePossessiveOrMy], которому было поручено выполнять фланговые маневры и использовать слабости на правом фланге противника."
+ trait_lifestyle_flank_commander_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] командует левым флангом в армии [ROOT.GetCharacter.GetLiegeEvenWhenDead.GetTitledHouseNameOrFirstNamePossessiveOrMy], ему поручено выполнять фланговые маневры и использовать слабости на правой стороне противника."
+ trait_track_left: "Командир левого фланга"
+ trait_track_left_desc: "Сражаясь на левом фланге и маневрируя против правого фланга противника, этот персонаж имеет опыт борьбы с самыми грозными войсками противника."
+ trait_track_center: "Командир центрального фланга"
+ trait_track_center_desc: "Сражаясь в центре фланга и маневрируя против основной линии противника, этот персонаж сражается против основных сил противника и имеет опыт борьбы с его наиболее дисциплинированными войсками."
+ trait_track_right: "Командир правого фланга"
+ trait_track_right_desc: "Сражаясь на правом фланге и маневрируя против левого фланга противника, этот персонаж командует самыми благородными и элитными войсками в бою."
+  
+ lifestyle_left_flank_commander_desc: "Этот персонаж возглавляет левый фланг армии, отвечая за фланговые маневры и использование уязвимых мест на правой стороне противника."
+ lifestyle_assigned_left_flank_commander_desc: "#soft_glow #difficulty_easy Неназначенный персонаж\n\n#!This был выбран для командования левым флангом армии, отвечая за проведение фланговых маневров и использование уязвимых мест на правой стороне противника."
+ lifestyle_assigned_center_flank_commander_desc: "#soft_glow #difficulty_easy Неназначенный персонаж\n\n#!This был выбран командующим центром армии, ответственным за поддержание основной боевой линии и координацию стратегии с флангами."
+ lifestyle_assigned_right_flank_commander_desc: "#soft_glow #difficulty_easy Неназначенный персонаж\n\n#!This был выбран для командования правым флангом армии, отвечая за проведение фланговых маневров и использование уязвимых мест на левом фланге противника."
+  
+ trait_lifestyle_war_commander: "Военный командир"
+ trait_lifestyle_war_commander_desc: "Этот персонаж командует армией страны, находящейся в состоянии войны, получая повышенный престиж от военных успехов и бонусов к боевым навыкам во время войны."
+ trait_lifestyle_war_commander_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] командует армией [ROOT.GetCharacter.GetLiegeTitleEvenWhenDead.GetNameNoTier] во время войны. Наблюдая за полем боя, он внушает уважение и вселяет страх в сердца своих врагов."
+  
+ lifestyle_war_commander_desc: "Этот персонаж возглавляет армию во время войны, отвечая за руководство военными операциями и достижение победы своей страны."
+ trait_track_lifestyle_war_commander: "Командующий войной"
+ trait_track_lifestyle_war_commander_desc: "Этот персонаж командует армией в военное время, ему поручено руководить военными действиями и обеспечивать победы своей страны."
+ trait_track_skill: "Опыт в бою"
+ trait_track_skill_desc: "Этот персонаж провел успешные маневры во время боя, продемонстрировав свое мастерство и опыт командования войсками."
+ trait_track_victories: "Виктор в бою"
+ trait_track_victories_desc: "Количество побед этого персонажа в боях во время войны, демонстрирующее его мастерство и успехи на поле боя."
+ trait_track_foreign_fighter: "Боевые действия на чужой земле"
+ trait_track_foreign_fighter_desc: "Опыт этого персонажа в том, чтобы привести людей к победе за пределами своего королевства, продемонстрировать свои навыки навигации по чужой местности и преодоления трудностей, связанных с борьбой вдали от дома."
+ trait_track_local_fighter: "Защищая Родину"
+ trait_track_local_fighter_desc: "Опыт этого персонажа в успешном руководстве людьми для защиты своей родины, демонстрации их умения использовать знакомую местность и местные ресурсы в своих интересах."
+ trait_track_outnumbered: "Вопреки всему"
+ trait_track_outnumbered_desc: "Опыт этого персонажа в успешном руководстве людьми в бою против сил, превосходящих его собственные, демонстрируя его умение использовать превосходную тактику и стратегию для преодоления препятствий."
+  
+  
+ trait_lifestyle_home_terrain_expert: "Защитник Родины"
+ trait_track_lifestyle_home_terrain_expert: "Защитник Родины"
+ trait_track_lifestyle_home_terrain_expert_desc: "Этот персонаж имеет опыт боевых действий в пределах своего королевства, обладая знанием земли и ее преимуществ, он становится грозным противником в бою на знакомой земле."
+ trait_lifestyle_home_terrain_expert_desc: "Этот персонаж имеет опыт боевых действий в пределах своего королевства, обладая знанием земли и ее преимуществ, он становится грозным противником в бою на знакомой земле."
+ trait_lifestyle_home_terrain_expert_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] имеет опыт боевых действий в границах царства [ROOT.GetCharacter.GetHerHis], знает эту землю и ее преимущества, [ROOT.GetCharacter.GetSheHe] становится грозным противником в бою на знакомой земле."
+  
+ trait_lifestyle_foreign_terrain_expert: "Боец чужих земель"
+ trait_track_lifestyle_foreign_terrain_expert: "Боец чужих земель"
+ trait_track_lifestyle_foreign_terrain_expert_desc: "Этот персонаж имеет опыт боевых действий за пределами своего королевства, несмотря на то, что он знаком с этой землей, он умеет управлять армией через чужие земли."
+ trait_lifestyle_foreign_terrain_expert_desc: "Этот персонаж имеет опыт боевых действий за пределами своего королевства, несмотря на то, что он знаком с этой землей, он умеет управлять армией через чужие земли."
+ trait_lifestyle_foreign_terrain_expert_character_desc: "Этот персонаж имеет опыт боевых действий за пределами своего королевства, несмотря на то, что он знаком с этой землей, он умеет управлять армией через чужие земли."
+ lifestyle_foreign_terrain_expert_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] имеет опыт боевых действий за пределами границ своего [ROOT.GetCharacter.GetHerHis], несмотря на то, что он незнаком с этой землей, [ROOT.GetCharacter.GetSheHe] умеет управлять армией через чужие земли."
+  
+ trait_lifestyle_outnumbered_fighter_expert: "Командир превосходящих по численности войск"
+ trait_track_lifestyle_outnumbered_fighter_expert: "Командир превосходящих по численности войск"
+ trait_track_lifestyle_outnumbered_fighter_expert_desc: "Этот персонаж имеет опыт руководства людьми против сил, превосходящих его собственные, демонстрируя свое умение использовать превосходную тактику и стратегию для преодоления препятствий."
+ trait_lifestyle_outnumbered_fighter_expert_desc: "Этот персонаж имеет опыт руководства людьми против сил, превосходящих его собственные, демонстрируя свое умение использовать превосходную тактику и стратегию для преодоления препятствий."
+ trait_lifestyle_outnumbered_fighter_expert_character_desc: "Этот персонаж имеет опыт руководства людьми против сил, превосходящих его собственные, демонстрируя свое умение использовать превосходную тактику и стратегию для преодоления препятствий."
+ lifestyle_outnumbered_fighter_expert_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] имеет опыт руководства людьми против сил, превосходящих [ROOT.GetCharacter.GetHerHis], демонстрируя [ROOT.GetCharacter.GetHerHis] умение использовать превосходную тактику и стратегию для преодоления препятствий."
+  
+  

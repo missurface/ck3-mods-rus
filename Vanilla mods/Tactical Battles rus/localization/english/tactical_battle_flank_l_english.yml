@@ -1,0 +1,138 @@
+﻿l_english:
+# Event 0001 - Left Flank Envelopment SUCCESS
+tactical_flank_battle.0001.t:0 "Left Flank Sweeps Forward!"
+tactical_flank_battle.0001.desc:0 "[scope:flank_commander.GetTitledFirstName], commanding our left flank, has found an opening! The enemy's right is exposed, and we have the opportunity to envelope their position. [enemy_commander.GetTitledFirstName]'s forces are vulnerable to a devastating flanking maneuver!"
+tactical_flank_battle.0001.a:0 "Press the advantage aggressively! (Prowess vs [enemy_commander.GetShortUINameNoTooltip])"
+tactical_flank_battle.0001.a.success:0 "Our left flank charges with fury, rolling up their line!"
+tactical_flank_battle.0001.a.failure:0 "The aggressive push is contained."
+tactical_flank_battle.0001.b:0 "Coordinate with the center! (Stewardship vs [enemy_commander.GetShortUINameNoTooltip])"
+tactical_flank_battle.0001.b.success:0 "Perfect coordination amplifies our advantage!"
+tactical_flank_battle.0001.b.failure:0 "The coordination fails to materialize."
+tactical_flank_battle.0001.c:0 "Execute a pincer movement! (Martial vs [enemy_commander.GetShortUINameNoTooltip])"
+tactical_flank_battle.0001.c.success:0 "We trap them in a devastating pincer!"
+tactical_flank_battle.0001.c.failure:0 "They evade the pincer maneuver."
+tactical_flank_battle.0001.d:0 "Hold position and observe."
+
+# Event 0002 - Left Flank Envelopment FAILURE
+tactical_flank_battle.0002.t:0 "Left Flank Under Pressure!"
+tactical_flank_battle.0002.desc:0 "[scope:flank_commander.GetTitledFirstName], commanding our left flank, is in trouble! [enemy_commander.GetTitledFirstName] has turned our attempted envelopment against us. Our left is now vulnerable and falling back. We must act quickly or risk losing the entire flank!"
+tactical_flank_battle.0002.a:0 "Reform the flank! (Martial vs [enemy_commander.GetShortUINameNoTooltip])"
+tactical_flank_battle.0002.a.success:0 "We restore order to the left flank!"
+tactical_flank_battle.0002.a.failure:0 "The flank continues to crumble."
+tactical_flank_battle.0002.b:0 "Call for support from the center! (Diplomacy vs [enemy_commander.GetShortUINameNoTooltip])"
+tactical_flank_battle.0002.b.success:0 "Reinforcements shore up our left!"
+tactical_flank_battle.0002.b.failure:0 "No help arrives in time."
+tactical_flank_battle.0002.c:0 "Execute a fighting withdrawal! (Stewardship vs [enemy_commander.GetShortUINameNoTooltip])"
+tactical_flank_battle.0002.c.success:0 "We pull back in good order!"
+tactical_flank_battle.0002.c.failure:0 "The withdrawal becomes a rout."
+tactical_flank_battle.0002.d:0 "Accept the setback."
+
+# Event 0003 - Center Hold SUCCESS
+tactical_flank_battle.0003.t:0 "The Center Holds Firm!"
+tactical_flank_battle.0003.desc:0 "[scope:flank_commander.GetTitledFirstName], commanding our center, has proven their worth! While [enemy_commander.GetTitledFirstName] throws everything at our line, the center stands like a fortress. Our position is strong, and we can dictate the flow of battle from here!"
+tactical_flank_battle.0003.a:0 "Push forward aggressively! (Martial vs [enemy_commander.GetShortUINameNoTooltip])"
+tactical_flank_battle.0003.a.success:0 "The center drives them back!"
+tactical_flank_battle.0003.a.failure:0 "They resist our push."
+tactical_flank_battle.0003.b:0 "Anchor the entire line! (Prowess vs [enemy_commander.GetShortUINameNoTooltip])"
+tactical_flank_battle.0003.b.success:0 "Our center becomes an immovable anchor!"
+tactical_flank_battle.0003.b.failure:0 "The anchor position weakens."
+tactical_flank_battle.0003.c:0 "Send support to both flanks! (Stewardship vs [enemy_commander.GetShortUINameNoTooltip])"
+tactical_flank_battle.0003.c.success:0 "The center reinforces our entire line!"
+tactical_flank_battle.0003.c.failure:0 "We spread ourselves too thin."
+tactical_flank_battle.0003.d:0 "Maintain steady pressure."
+
+# Event 0004 - Center Collapsing FAILURE
+tactical_flank_battle.0004.t:0 "The Center is Breaking!"
+tactical_flank_battle.0004.desc:0 "[scope:flank_commander.GetTitledFirstName] desperately tries to hold the center, but [enemy_commander.GetTitledFirstName] is breaking through! If the center collapses, both flanks will be cut off and destroyed. This is the critical moment of the battle!"
+tactical_flank_battle.0004.a:0 "Rally the center personally! (Martial vs [enemy_commander.GetShortUINameNoTooltip])"
+tactical_flank_battle.0004.a.success:0 "My presence steadies the center!"
+tactical_flank_battle.0004.a.failure:0 "Even my presence cannot stop the collapse."
+tactical_flank_battle.0004.b:0 "Commit all reserves! (Stewardship vs [enemy_commander.GetShortUINameNoTooltip])"
+tactical_flank_battle.0004.b.success:0 "Fresh troops plug the gap!"
+tactical_flank_battle.0004.b.failure:0 "The reserves are swallowed up."
+tactical_flank_battle.0004.c:0 "Refuse the center and strengthen flanks! (Learning vs [enemy_commander.GetShortUINameNoTooltip])"
+tactical_flank_battle.0004.c.success:0 "We form a new defensive line!"
+tactical_flank_battle.0004.c.failure:0 "The maneuver fails catastrophically."
+tactical_flank_battle.0004.d:0 "Brace for impact and hope."
+
+
+tactical_forest_battle.0251.tt:0 "[center_flank_commander.GetFirstNameOrMe] expertise in the [battle_location.GetProvince.GetTerrain.GetName]"
+tactical_forest_battle.0251.tt.success:0 "[center_flank_commander.GetFirstNameOrMe] prowess in the [battle_location.GetProvince.GetTerrain.GetNameNoTooltip] at [battle_location.GetProvince.GetName] has distingushed thems among their peers."
+
+tactical_forest_battle.0250.tt:0 "[left_flank_commander.GetFirstNameOrMe] expertise in the [battle_location.GetProvince.GetTerrain.GetName]"
+tactical_forest_battle.0250.tt.success:0 "[left_flank_commander.GetFirstNameOrMe] prowess in the [battle_location.GetProvince.GetTerrain.GetNameNoTooltip] at [battle_location.GetProvince.GetName] has distingushed them among their peers."
+
+tactical_forest_battle.0252.tt:0 "[right_flank_commander.GetFirstNameOrMe] expertise in the [battle_location.GetProvince.GetTerrain.GetName]"
+tactical_forest_battle.0252.tt.success:0 "[right_flank_commander.GetFirstNameOrMe] prowess in the [battle_location.GetProvince.GetTerrain.GetNameNoTooltip] at [battle_location.GetProvince.GetName] has distingushed them among their peers."
+
+grant_left_interaction_desc:0 "Appoint [recipient.GetTitledFirstName] as your center commander, granting them tactical authority and prestige."
+grant_center_interaction_desc:0 "Appoint [recipient.GetTitledFirstName] as your center commander, granting them tactical authority and prestige."
+grant_right_flank_interaction_desc:0 "Appoint [recipient.GetTitledFirstName] as your right flank commander, granting them tactical authority and prestige."
+
+# Custom Tooltips
+grant_left_flank_commander_tt:0 "[recipient.GetTitledFirstName] has been appointed to command the left flank."
+grant_center_commander_tt:0 "[recipient.GetTitledFirstName] has been appointed to command the center."
+grant_right_flank_commander_tt:0 "[recipient.GetTitledFirstName] has been appointed to command the right flank."
+
+tactical_overmatched_enemy_commander:0 "Outmatched Enemy Commander"
+tactical_overmatched_enemy_commander_desc:0 "This character's experience and skill on the battlefield vastly exceeds the enemy commanders they face, giving them a significant advantage in combat and tactics."
+tactical_outmatched_enemy_commander:0 "Over My Head"
+tactical_outmatched_enemy_commander_desc:0 "This character is facing an enemy commander whose experience and skill on the battlefield vastly exceeds their own, putting them at a significant disadvantage in combat and tactics."
+
+
+trait_lifestyle_flank_commander: "Flank Commander"
+trait_lifestyle_flank_commander_desc: "#soft_glow #difficulty_hard Unassigned \n\n#![ROOT.GetCharacter.GetFirstNameNoTooltip] has experience in commanding a flank, tasked with executing flanking maneuvers and exploiting weaknesses on the enemy's right side."
+lifestyle_assigned_flank_commander_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] was chosen to command a flank in [ROOT.GetCharacter.GetLiegeEvenWhenDead.GetTitledHouseNameOrFirstNamePossessiveOrMy] army, tasked with executing flanking maneuvers and exploiting weaknesses on the enemy's right side."
+trait_lifestyle_flank_commander_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] commands the left flank in [ROOT.GetCharacter.GetLiegeEvenWhenDead.GetTitledHouseNameOrFirstNamePossessiveOrMy] army, tasked with executing flanking maneuvers and exploiting weaknesses on the enemy's right side."
+trait_track_left:0 "Left Flank Commander"
+trait_track_left_desc:0 "Fighting on the left side of the flank and maneuvering against the enemies right flank, this character has experience against the enemies most formidable troops."
+trait_track_center:0 "Center Flank Commander"
+trait_track_center_desc:0 "Fighting in the center of the flank and maneuvering against the enemies main line, this character fights against the main force of the enemy and has experience against their most disciplined troops."
+trait_track_right:0 "Right Flank Commander"
+trait_track_right_desc:0 "Fighting in the right of the flank and maneuvering against the enemies left flank, this character commands the armies most noble and elite troops in battle."
+
+lifestyle_left_flank_commander_desc: "This character leads the left flank of an army, responsible for carrying out flanking maneuvers and taking advantage of vulnerabilities on the enemy's right side."
+lifestyle_assigned_left_flank_commander_desc: "#soft_glow #difficulty_easy Leads Left\n\n#!This character commands the left flank of [ROOT.GetCharacter.GetLiegeEvenWhenDead.GetTitledHouseNameOrFirstNamePossessiveOrMy] army, responsible for carrying out flanking maneuvers and taking advantage of vulnerabilities on the enemy's right side."
+lifestyle_assigned_center_flank_commander_desc: "#soft_glow #difficulty_easy Leads Center\n\n#!This character commands the center of [ROOT.GetCharacter.GetLiegeEvenWhenDead.GetTitledHouseNameOrFirstNamePossessiveOrMy] army, responsible for maintaining the main battle line and coordinating strategies with the flanks."
+lifestyle_assigned_right_flank_commander_desc: "#soft_glow #difficulty_easy Leads Right\n\n#!This character commands the right flank of [ROOT.GetCharacter.GetLiegeEvenWhenDead.GetTitledHouseNameOrFirstNamePossessiveOrMy] army, responsible for carrying out flanking maneuvers and taking advantage of vulnerabilities on the enemy's left side."
+
+trait_lifestyle_war_commander: "War Commander"
+trait_lifestyle_war_commander_desc: "This character commands the army for a country at war, receiving increased prestige from military successes and bonuses to martial skill during wartime."
+trait_lifestyle_war_commander_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] commands the army of [ROOT.GetCharacter.GetLiegeTitleEvenWhenDead.GetNameNoTier] during wartime. Overseeing the battlefield, he commands respect and strikes fear into the hearts of his enemies."
+
+lifestyle_war_commander_desc: "This character leads the army during wartime, responsible for directing military operations and achieving victory for their nation."
+trait_track_lifestyle_war_commander: "Commander of War"
+trait_track_lifestyle_war_commander_desc: "This character commands the army in wartime, tasked with leading military efforts and securing victories for their country."
+trait_track_skill:0 "Experience in Battle"
+trait_track_skill_desc:0 "This character has led successful manuevers during battle, demonstrating their skill and experience in commanding troops."
+trait_track_victories:0 "Victor in Battle"
+trait_track_victories_desc:0 "This character's number of victories in battles during wartime, demonstrating their skill and success on the battlefield."
+trait_track_foreign_fighter:0 "Fighting on Foreign Soil"
+trait_track_foreign_fighter_desc:0 "This character's experience in leading men to victory outside the borders of their realm, demonstrating their skill in navigating foreign terrain and overcoming the challenges of fighting away from home."
+trait_track_local_fighter:0 "Defending the Homeland"
+trait_track_local_fighter_desc:0 "This character's experience in successfully leading men to defend their homeland, demonstrating their skill in utilizing familiar terrain and local resources to their advantage."
+trait_track_outnumbered:0 "Against The Odds"
+trait_track_outnumbered_desc:0 "This character's experience in successfully leading men in battle against forces larger than their own, demonstrating their skill in utilizing superior tactics and strategy to overcome the odds."
+
+
+trait_lifestyle_home_terrain_expert: "Defender of the Homeland"
+trait_track_lifestyle_home_terrain_expert: "Defender of the Homeland"
+trait_track_lifestyle_home_terrain_expert_desc: "This character is experienced in fighting within the borders of their realm, with knowledge of the land and its advantages, they make a formidable opponent when fighting on familiar ground."
+trait_lifestyle_home_terrain_expert_desc: "This character is experienced in fighting within the borders of their realm, with knowledge of the land and its advantages, they make a formidable opponent when fighting on familiar ground."
+trait_lifestyle_home_terrain_expert_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is experienced in fighting within the borders of [ROOT.GetCharacter.GetHerHis] realm, with knowledge of the land and its advantages, [ROOT.GetCharacter.GetSheHe] makes a formidable opponent when fighting on familiar ground."
+
+trait_lifestyle_foreign_terrain_expert: "Foreign Lands Fighter"
+trait_track_lifestyle_foreign_terrain_expert: "Foreign Lands Fighter"
+trait_track_lifestyle_foreign_terrain_expert_desc: "This character is experienced in fighting outside the borders of their realm, despite being familiar with the land, they are proficient at manuvering an army through foreign lands."
+trait_lifestyle_foreign_terrain_expert_desc: "This character is experienced in fighting outside the borders of their realm, despite being familiar with the land, they are proficient at manuvering an army through foreign lands."
+trait_lifestyle_foreign_terrain_expert_character_desc: "This character is experienced in fighting outside the borders of their realm, despite being familiar with the land, they are proficient at manuvering an army through foreign lands."
+lifestyle_foreign_terrain_expert_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is experienced in fighting outside the borders of their [ROOT.GetCharacter.GetHerHis], despite being unfamiliar with the land, [ROOT.GetCharacter.GetSheHe] is proficient at manuvering an army through foreign lands."
+
+trait_lifestyle_outnumbered_fighter_expert: "Outnumbered Troops Commander"
+trait_track_lifestyle_outnumbered_fighter_expert: "Outnumbered Troops Commander"
+trait_track_lifestyle_outnumbered_fighter_expert_desc: "This character is experienced in leading men against forces larger than their own, demonstrating their skill in utilizing superior tactics and strategy to overcome the odds."
+trait_lifestyle_outnumbered_fighter_expert_desc: "This character is experienced in leading men against forces larger than their own, demonstrating their skill in utilizing superior tactics and strategy to overcome the odds."
+trait_lifestyle_outnumbered_fighter_expert_character_desc: "This character is experienced in leading men against forces larger than their own, demonstrating their skill in utilizing superior tactics and strategy to overcome the odds."
+lifestyle_outnumbered_fighter_expert_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is experienced in leading men against forces larger than [ROOT.GetCharacter.GetHerHis] own, demonstrating [ROOT.GetCharacter.GetHerHis] skill in utilizing superior tactics and strategy to overcome the odds."
+
+

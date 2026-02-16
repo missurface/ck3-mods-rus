@@ -1,0 +1,444 @@
+﻿l_korean:
+  
+  
+ game_concept_captain_trait_concept: "선장 특성"
+ game_concept_captain_trait_concept_desc: "대장 특성은 중장병 분대에서 모집된 남성에게 부여되는 특성입니다. 전투 중 병사와 관련된 옵션을 사용할 때 성공하면 전투 후 특별한 대장 특성을 가진 사령관을 모집할 수 있는 기회가 있습니다. 이러한 특성은 전투 중 군대에 다양한 보너스를 제공합니다.\n\n 예: [GetTrait('tbat_soldier_varangian').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_gendarme').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_mulaththamun').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_samurai').GetName(GetNullCharacter)]"
+ game_concept_player_title_concept: "플레이어"
+ game_concept_player_title_concept_desc: "대장 특성은 중장병 분대에서 모집된 남성에게 부여되는 특성입니다. 전투 중 병사와 관련된 옵션을 사용할 때 성공하면 전투 후 특별한 대장 특성을 가진 사령관을 모집할 수 있는 기회가 있습니다. 이러한 특성은 전투 중 군대에 다양한 보너스를 제공합니다.\n\n 예: [GetTrait('tbat_soldier_varangian').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_gendarme').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_mulaththamun').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_samurai').GetName(GetNullCharacter)]"
+  
+ tactical_forest_battle.0498.t: "유명한 군인"
+ tactical_forest_battle.0498.desc: "우리의 최근 전투에 대한 보고를 받은 후, 나의 장교들은 [chosen_unit.GetName] 정예 연대 소속의 우리 군인 중 한 명이 치열한 전투 속에서 훌륭하게 수행했다고 나에게 알려주었습니다. [commander.GetHerHim]을 내 서비스에 활용하면 다른 사람들에게 영감을 줄 수 있습니다."
+ tactical_forest_battle.0498.a: "내 서비스에 [commander.GetName]을 모집합니다. ([commander.GetFirstName]이 [captain_trait_concept|e]를 얻습니다)"
+ tactical_forest_battle.0498.b: "생각해 볼게요."
+  
+ tactical_varangian_soldier_commander: "군대의 바랑기아 병사들"
+ tactical_varangian_soldier_commander_desc: "[GetMaA('varangian_veterans').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_light_inf_soldier_commander: "육군의 경보병 병사들"
+ tactical_light_inf_soldier_commander_desc: "[GetMaA('light_footmen').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_landsknecht_soldier_commander: "란츠크네히트 군대의 군인들"
+ tactical_landsknecht_soldier_commander_desc: "[GetMaA('landsknechts').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_longbow_soldier_commander: "군대의 장궁 병사들"
+ tactical_longbow_soldier_commander_desc: "[GetMaA('longbowmen').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_goedendag_soldier_commander: "괴덴다그 군대의 군인들"
+ tactical_goedendag_soldier_commander_desc: "[GetMaA('goedendag_militia').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_gendarme_soldier_commander: "군대의 헌병대"
+ tactical_gendarme_soldier_commander_desc: "[GetMaA('gendarmes').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_chasseur_soldier_commander: "군대의 추격병 병사들"
+ tactical_chasseur_soldier_commander_desc: "[GetMaA('chasseurs').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_picchieri_soldier_commander: "군대의 피치에리 병사들"
+ tactical_picchieri_soldier_commander_desc: "[GetMaA('picchieri').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_praetorian_soldier_commander: "군대의 근위병"
+ tactical_praetorian_soldier_commander_desc: "[GetMaA('praetorians').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_caballero_soldier_commander: "군대의 카바예로 병사들"
+ tactical_caballero_soldier_commander_desc: "[GetMaA('caballeros').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_cataphract_soldier_commander: "군대의 백내장 군인"
+ tactical_cataphract_soldier_commander_desc: "카타프랙트 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_monsapa_soldier_commander: "모나스파 병사들"
+ tactical_monsapa_soldier_commander_desc: "[GetMaA('monaspa').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_hobelar_soldier_commander: "군대의 호벨라 군인"
+ tactical_hobelar_soldier_commander_desc: "[GetMaA('hobelar').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_schiltron_soldier_commander: "쉴트론 병사들"
+ tactical_schiltron_soldier_commander_desc: "[GetMaA('schiltron').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_metsvan_soldier_commander: "Metsänvartija 군대의 군인"
+ tactical_metsvan_soldier_commander_desc: "[GetMaA('metsanvartija').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_konni_soldier_commander: "군대의 Konni 군인"
+ tactical_konni_soldier_commander_desc: "[GetMaA('konni').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_mubarizun_soldier_commander: "무바리준 병사들"
+ tactical_mubarizun_soldier_commander_desc: "[GetMaA('mubarizun').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_ayyar_soldier_commander: "군대의 아이야르 병사들"
+ tactical_ayyar_soldier_commander_desc: "[GetMaA('ayyar').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_druzh_soldier_commander: "군대의 드루지나 군인들"
+ tactical_druzh_soldier_commander_desc: "[GetMaA('druzhina').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_horn_warrior_soldier_commander: "군대의 뿔 전사 군인"
+ tactical_horn_warrior_soldier_commander_desc: "[GetMaA('horn_warrior').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_light_inf_soldier_commander: "육군의 경보병 병사들"
+ tactical_shomer_soldier_commander: "육군의 쇼머 병사들"
+ tactical_shomer_soldier_commander_desc: "[GetMaA('shomer').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_khandayat_soldier_commander: "군대의 칸다야트 병사들"
+ tactical_khandayat_soldier_commander_desc: "[GetMaA('khandayat').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_garuda_soldier_commander: "군대의 가루다 병사들"
+ tactical_garuda_soldier_commander_desc: "[GetMaA('garuda').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_mountaineer_soldier_commander: "육군의 산악인 군인"
+ tactical_mountaineer_soldier_commander_desc: "[GetMaA('mountaineer').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_sahel_soldier_commander: "군대의 사헬 기병"
+ tactical_sahel_soldier_commander_desc: "[GetMaA('sahel_horsemen').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_guinea_soldier_commander: "군대의 기니 전사 군인"
+ tactical_guinea_soldier_commander_desc: "[GetMaA('guinea_warriors').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_sarawit_soldier_commander: "군대의 사라위트 병사들"
+ tactical_sarawit_soldier_commander_desc: "[GetMaA('sarawit').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_abudrar_soldier_commander: "군대의 Abudrar 군인"
+ tactical_abudrar_soldier_commander_desc: "[GetMaA('abudrar').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_zbroj_soldier_commander: "군대의 Zbrojnosh 군인"
+ tactical_zbroj_soldier_commander_desc: "[GetMaA('zbrojnosh').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_palace_guards_soldier_commander: "군대의 궁전 경비대"
+ tactical_palace_guards_soldier_commander_desc: "[GetMaA('palace_guards').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_shenbig_soldier_commander: "군대의 신비공 병사들"
+ tactical_shenbig_soldier_commander_desc: "[GetMaA('shenbigong').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_muluth_soldier_commander: "군대의 물라스타문 병사들"
+ tactical_muluth_soldier_commander_desc: "[GetMaA('muluththamun').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_nile_archer_soldier_commander: "군대의 나일 궁수"
+ tactical_nile_archer_soldier_commander_desc: "[GetMaA('nile_archers').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_paiks_soldier_commander: "백남준의 군대"
+ tactical_paiks_soldier_commander_desc: "[GetMaA('paiks').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_ayrudzi_soldier_commander: "군대의 아이루지 군인"
+ tactical_ayrudzi_soldier_commander_desc: "[GetMaA('ayrudzi').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_conroi_soldier_commander: "군대의 콘로이 병사들"
+ tactical_conroi_soldier_commander_desc: "[GetMaA('conroi').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_akritai_soldier_commander: "육군의 아크리타이 병사들"
+ tactical_akritai_soldier_commander_desc: "[GetMaA('akritai').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_heavy_archers_soldier_commander: "육군의 중궁수"
+ tactical_heavy_archers_soldier_commander_desc: "[GetMaA('heavy_archers').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_skoutat_soldier_commander: "육군의 Skoutatoi 군인"
+ tactical_skoutat_soldier_commander_desc: "[GetMaA('skoutatoi').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_varangian_guards_soldier_commander: "바랑기안 근위대"
+ tactical_varangian_guards_soldier_commander_desc: "[GetMaA('varangian_guards').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_heavy_cav_soldier_commander: "육군의 중기병 병사들"
+ tactical_heavy_cav_soldier_commander_desc: "[GetMaA('armored_cavalry').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_gakgung_soldier_commander: "각궁 궁수"
+ tactical_gakgung_soldier_commander_desc: "[GetMaA('gakgung_archers').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_elephant_cav_soldier_commander: "군대의 코끼리 기병대 군인"
+ tactical_elephant_cav_soldier_commander_desc: "[GetMaA('elephant_cavalry').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_pesilat_soldier_commander: "군대의 페실라트 전사들"
+ tactical_pesilat_soldier_commander_desc: "[GetMaA('pesilat_warriors').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_samurai_soldier_commander: "군대의 사무라이 군인"
+ tactical_samurai_soldier_commander_desc: "[GetMaA('samurai').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_mounted_samurai_soldier_commander: "군대에 기마 사무라이"
+ tactical_mounted_samurai_soldier_commander_desc: "[GetMaA('japanese_horse_archers').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_emishi_soldier_commander: "군대의 에미시 말 궁수"
+ tactical_emishi_soldier_commander_desc: "[GetMaA('emishi').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_monks_soldier_commander: "군대의 전사 승려"
+ tactical_monks_soldier_commander_desc: "[GetMaA('warrior_monks').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_zhanmadao_soldier_commander: "군대의 잔마도 보병"
+ tactical_zhanmadao_soldier_commander_desc: "[GetMaA('zhanmadao').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_tiefutu_soldier_commander: "티에푸투 기병대"
+ tactical_tiefutu_soldier_commander_desc: "[GetMaA('tiefutu').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_black_armor_soldier_commander: "군대의 검은 갑옷 기병"
+ tactical_black_armor_soldier_commander_desc: "[GetMaA('black_armor_cavalry').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_burenjia_soldier_commander: "부렌지아 군인들"
+ tactical_burenjia_soldier_commander_desc: "[GetMaA('burenjia').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_kheshig_soldier_commander: "케식군 병사들"
+ tactical_kheshig_soldier_commander_desc: "[GetMaA('kheshig').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_tarkhan_soldier_commander: "군대의 타르칸 병사들"
+ tactical_tarkhan_soldier_commander_desc: "[GetMaA('tarkhan').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_steppe_raiders_soldier_commander: "군대의 대초원 침입자 군인"
+ tactical_steppe_raiders_soldier_commander_desc: "[GetMaA('steppe_raiders').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_horde_riders_soldier_commander: "군대의 호드 라이더 병사들"
+ tactical_horde_riders_soldier_commander_desc: "[GetMaA('horde_riders').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_archer_cavalry_soldier_commander: "군대의 궁수 기병 병사들"
+ tactical_archer_cavalry_soldier_commander_desc: "[GetMaA('archer_cavalry').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_camel_archer_cavalry_soldier_commander: "군대의 낙타 궁수 기병"
+ tactical_camel_archer_cavalry_soldier_commander_desc: "[GetMaA('camel_archer_cavalry').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_cata_archer_cavalry_soldier_commander: "군대의 백내장 궁수 기병"
+ tactical_cata_archer_cavalry_soldier_commander_desc: "[GetMaA('cataphract_archers').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_nomad_lancer_soldier_commander: "군대의 유목민 랜서 병사들"
+ tactical_nomad_lancer_soldier_commander_desc: "[GetMaA('nomad_lancer').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_vigmen_soldier_commander: "군대의 비그멘 병사들"
+ tactical_vigmen_soldier_commander_desc: "[GetMaA('vigmen').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_bondi_soldier_commander: "본다이 군대의 군인들"
+ tactical_bondi_soldier_commander_desc: "[GetMaA('bondi').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_asawira_soldier_commander: "아사비라 기병대"
+ tactical_asawira_soldier_commander_desc: "[GetMaA('asawira').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_maturkan_soldier_commander: "군대의 마투르칸 전사들"
+ tactical_maturkan_soldier_commander_desc: "[GetMaA('maturkan').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_light_cav_soldier_commander: "육군의 경기병 병사들"
+ tactical_light_cav_soldier_commander_desc: "[GetMaA('light_cavalry').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_tawashi_soldier_commander: "군대의 타와시 기병대"
+ tactical_tawashi_soldier_commander_desc: "[GetMaA('tawashi').GetName] 연대에서 진급한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_zupin_soldier_commander: "군대의 주핀 병사들"
+ tactical_zupin_soldier_commander_desc: "[GetMaA('zupin_spearmen').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ tactical_armored_inf_soldier_commander: "육군의 기갑보병대장"
+ tactical_armored_inf_soldier_commander_desc: "[GetMaA('armored_infantry').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+  
+ tactical_foreign_lands_fighter_2: "외국 땅에 대한 지식이 풍부함"
+ tactical_foreign_lands_fighter_2_desc: "이 캐릭터의 전투 기량은 외국 땅에서의 전투를 통해 연마되어 외국 지형에 대한 지식을 갖게 되었습니다."
+  
+ tactical_foreign_lands_fighter_1: "외국 땅에 대한 지식이 풍부함"
+ tactical_foreign_lands_fighter_1_desc: "이 캐릭터의 전투 기량은 외국 땅에서의 전투를 통해 연마되어 외국 지형에 대한 지식을 갖게 되었습니다."
+  
+ tactical_foreign_lands_fighter: "외국 땅에 대한 지식이 풍부함"
+ tactical_foreign_lands_fighter_desc: "이 캐릭터의 전투 기량은 외국 땅에서의 전투를 통해 연마되어 외국 지형에 대한 지식을 갖게 되었습니다."
+  
+ tactical_foreign_lands_fighter_2: "왕국의 수호자"
+ tactical_foreign_lands_fighter_2_desc: "이 캐릭터의 전투 기량은 그들이 통치하는 국경 내에서 싸우면서 연마되었습니다. 그들의 땅을 방어하기 위해 그들은 지역 지형에 대한 지식을 갖게 되었습니다."
+  
+ tactical_foreign_lands_fighter_1: "왕국의 수호자"
+ tactical_foreign_lands_fighter_1_desc: "이 캐릭터의 전투 기량은 그들이 통치하는 국경 내에서 싸우면서 연마되었습니다. 자신의 땅을 방어하기 위해 그들은 지역 지형에 대해 잘 알고 있습니다."
+  
+ tactical_foreign_lands_fighter: "왕국의 수호자"
+ tactical_foreign_lands_fighter_desc: "이 캐릭터의 전투 기량은 그들이 통치하는 국경 내에서 싸우면서 연마되었습니다. 자신의 땅을 방어하기 위해 그들은 지역 지형에 대해 잘 알고 있습니다."
+  
+ tactical_home_lands.tt: "조국 방어"
+ tactical_home_lands.tt.success: "국경 내부의 땅을 지키면서 지역 지형에 익숙해졌습니다!"
+ tactical_foreign_lands.tt: "외국 땅 싸움"
+ tactical_foreign_lands.tt.success: "우리 영역 밖에서 싸우면서 우리 국경 밖에서 싸우는 방식에 익숙해졌습니다!"
+  
+  
+ TRAIT_FLAG_DESC_tbat_home_terrain_flag: "#soft_glow #high 기본#!:\nWhen 통제 지역에서 [battle|E]과 전투: [advantage|E]: #P +4#high8\n#soft_glow #high 레벨 1#!:\nWhen 통제 지역에서 [battle|E]과 전투: [advantage|E]: #P +8#high8\n#soft_glow #high 레벨 2#!:\nWhen 통제 지역에서 [battle|E]과 싸우는 중: [advantage|E]: #P +12#high8"
+ TRAIT_FLAG_DESC_tbat_foreign_terrain_flag: "#soft_glow #high 기본#!:\nWhen 통제되지 않는 영토에서 [battle|E]과 싸우는 중:\n[advantage|E]: #P +4#high8\n#soft_glow #high 레벨 1#!:\nWhen 통제되지 않는 영토에서 [battle|E]과 싸우는:\n[advantage|E]: #P +8#high8\n#soft_glow #high 레벨 2#!:\nWhen 통제되지 않은 영토에서 [battle|E]과 싸우는 중:\n[advantage|E]: #P +12#high8"
+ TRAIT_FLAG_DESC_tbat_soldier_varangian:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] Damage: #I 5%#! #! 
+ TRAIT_FLAG_DESC_tbatt_more_enemy_casualties_flag: "#E 적군#!: #P 3%#! [casualties|E]"
+ TRAIT_FLAG_DESC_tbat_soldier_light_infantry:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_neg_heavy_infantry_toughness: "#E 적 [heavy_infantry|e]#!: #I -3%#! [toughness|E]"
+ TRAIT_FLAG_DESC_tbat_soldier_light_infantry:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_neg_heavy_infantry_toughness: "#E 적 [heavy_infantry|e]#!: #I -3%#! [toughness|E]"
+ TRAIT_FLAG_DESC_tbat_soldier_bowmen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbatt_neg_skirmishers_damage_flag: "#E 적 [skirmishers|e]#!: #I -3%#! [damage|E]"
+ TRAIT_FLAG_DESC_tbat_soldier_light_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] Toughness#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbatt_neg_army_damage_flag: "#E 적군#!: #I -3%#! [damage|E]"
+ TRAIT_FLAG_DESC_tbat_soldier_heavy_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] Toughness#!: #I +5#!\n#E Enemy [archers|E] Toughness#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_pikemen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E Army Toughness#!: #I 5%#!\n#E Enemy [heavy_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [camel_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [elephant_cavalry|E] [damage|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_bowmen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_camel_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [camel_cavalry|E] Toughness#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbatt_neg_light_cav_flag: "#E 적 [light_cavalry|e]#!: #I -3%#! [damage|E]"
+ TRAIT_FLAG_DESC_tbat_soldier_elephant_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [elephant_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbatt_neg_light_cav_flag: "#E 적 [light_cavalry|e]#!: #I -3%#! [damage|E]"
+ TRAIT_FLAG_DESC_tbat_soldier_huscarl:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_landsknecht:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [spearmen|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_longbowmen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_goedendag:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_gendarme:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_chasseur:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_crossbowmen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_gunpowder:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [gunpowder|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_picchieri:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E Friendly [casualties|E]#!: #I -5%#!\n#E Enemy [light_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [elephant_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [camel_cavalry|E] [damage|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_praetorian:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_caballero:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_cataphract:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!\n#E Enemy Army [toughness|E]#!: #I -5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_monaspa:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [toughness|E]#!: #I -5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_hobelar:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_schiltron:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E Friendly [casualties|E]#!: #I -5%#!\n#E Enemy [light_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [elephant_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [camel_cavalry|E] [damage|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_metsanvartija:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_horse_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [skirmishers|E] [damage|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_mubarizun:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -2%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_ayyar:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_druzhina:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_hussar:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E [light_cavalry|E] Toughness#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_horn_warrior:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I 8#!\n#E Enemy [heavy_infantry|E] Toughness#!: #I -5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_bush_warrior:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_shomer:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 4%#! #!\n#E Army [toughness|E]#!: #I 7%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_khandayat:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_garudas:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E [heavy_infantry|E] [toughness|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_mountaineer:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E [heavy_infantry|E] [toughness|E]#!: #I 5%#!\n#E Army [casualties|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_sahel_horsemen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_guinea_warrior:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I +8#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_sarawit:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_abudrar:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I +9#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -2%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -2%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_zbrojnosh:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_palace_guards:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_shenbigong:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_mulaththamun:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_archers_of_the_nile:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_paiks:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [elephant_cavalry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_ayrudzi:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [archer_cavalry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_conrois:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [light_cavalry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_akritai:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [skirmishers|E] [damage|E]#!: #I +8#!\n#E Enemy Army [heavy_infantry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_skoutatoi:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [spearmen|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_varangian_guards:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_gakgung_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [heavy_cavalry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_pesilat_warriors:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [skirmishers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [heavy_infantry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_samurai:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_japanese_horse_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_emishi_horse_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_warrior_monks:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [spearmen|E] [damage|E]#!: #I 5%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_zhanmadao_infantry:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_tiefutu:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_black_armor_cavalry:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_burenjia:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_ordo_riders_horse_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_kheshig:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [elephant_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_tarkhan:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_steppe_raiders:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_horde_riders:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_archer_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_camel_archer_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [camel_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_cataphract_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_nomad_lancers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [damage|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_vigmen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_bondi:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [spearmen|E] [toughness|E]#!: #I 5%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_asawira:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [toughness|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_maturkan_warriors:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [toughness|E]#!: #I 5%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -10#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_tawashi:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -5%#!\n#E Enemy [archers|E] [damage|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_zupin:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [spearmen|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -5%#!\n#E Enemy [heavy_cavalry|E] [damage|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+ TRAIT_FLAG_DESC_tbat_soldier_armored_infantry:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n\n#E [heavy_infantry|E] [toughness|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#! 
+  
+ trait_tbat_soldier_armored_infantry_character_desc : "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Armored Infantry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."  <"[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 정예 기갑보병 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다.">  #NT!
+ trait_tbat_soldier_armored_infantry_desc : "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Armored Infantry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."  <"[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 정예 기갑보병 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다.">  #NT!
+ trait_tbat_soldier_varangian: "바랑기아 병사"
+ tbat_soldier_varangian_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 Varangians의 정예 분대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_varangian_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Varangians의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_varangian_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Varangians의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_light_infantry: "경보병 병사"
+ tbat_soldier_light_infantry_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 정예 경보병 분대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_light_infantry_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 경보병의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_light_infantry_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 경보병의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_light_cav: "경기병 대장"
+ tbat_soldier_light_cav_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 정예 경기병 분대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_light_cav_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 경기병 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_light_cav_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 경기병 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_camel_cav: "낙타 기병 대장"
+ tbat_soldier_camel_cav_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 코끼리 기병의 정예 분대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_camel_cav_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 낙타 기병의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_camel_cav_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 낙타 기병의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_elephant_cav: "코끼리 기병 대장"
+ tbat_soldier_elephant_cav_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 낙타 기병의 정예 분대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_elephant_cav_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 코끼리 기병 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_elephant_cav_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 코끼리 기병 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_gunpowder: "포수 대장"
+ tbat_soldier_gunpowder_desc: "이 군인은 전투에서 연대의 성공에 중요한 역할을 한 후 실험적인 [gunpowder|E]을 사용하는 정예 분대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_gunpowder_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 연대의 전투 성공에 중요한 역할을 한 후 실험적인 [gunpowder|E]을 사용하여 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_bowmen: "궁수 대장"
+ tbat_soldier_bowmen_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 정예 궁병 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_bowmen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 궁수 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_crossbowmen: "석궁수 대장"
+ tbat_soldier_crossbowmen_desc: "이 병사는 전투에서 연대의 성공에 중요한 역할을 한 후 석궁병의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_crossbowmen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 궁수 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ tactical_light_infantry_soldier_commander: "육군 경보병 대장"
+ tactical_light_infantry_soldier_commander_desc: "[GetMaA('light_footmen').GetName] 연대에서 승진한 다작의 군인이 이 군대와 함께 타고 있습니다. \N"
+ trait_tbat_soldier_pikemen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 장창병의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_pikemen_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 장창병의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ tbat_soldier_pikemen_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 장창병의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_armored_infantry_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 정예 기갑보병 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_armored_infantry: "기갑보병대장"
+  
+ trait_tbat_soldier_vigmen: "비그멘 선장"
+ tbat_soldier_vigmen_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 비그멘의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_vigmen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 비그멘의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+  
+ trait_tbat_soldier_vigmen: "비그멘 선장"
+ tbat_soldier_vigmen_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은(는) 전투에서 연대의 성공에 중요한 역할을 한 후 비그멘(Vigmen)의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_vigmen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 비그멘의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+  
+ trait_tbat_soldier_kheshig: "케식 선장"
+ tbat_soldier_kheshig_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 케식의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_kheshig_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 케식의 정예 부대에서 승진했습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+  
+ trait_tbat_soldier_tarkhan: "타르칸 선장"
+ tbat_soldier_tarkhan_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 타르칸의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_tarkhan_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 타르칸의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+  
+ trait_tbat_soldier_steppe_raiders: "대초원 침입자 선장"
+ tbat_soldier_steppe_raiders_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 대초원 침입자의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_steppe_raiders_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 대초원 침입자의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+  
+ trait_tbat_soldier_horde_riders: "호드 라이더 선장"
+ tbat_soldier_horde_riders_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 호드 라이더의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_horde_riders_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 호드 라이더의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+  
+ trait_tbat_soldier_horde_riders: "호드 라이더 선장"
+ tbat_soldier_horde_riders_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 호드 라이더의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_horde_riders_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 호드 라이더의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+  
+ trait_tbat_soldier_archer_cav: "궁수 기병 대장"
+ tbat_soldier_archer_cav_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 연대의 전투 성공에 중요한 역할을 한 후 궁수 기병의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_archer_cav_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 연대의 전투 성공에 중요한 역할을 한 후 궁수 기병의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+  
+ trait_tbat_soldier_camel_archer_cav: "낙타 궁수 대장"
+ tbat_soldier_camel_archer_cav_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 낙타 궁수라는 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_camel_archer_cav_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 낙타 궁수라는 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+  
+ trait_tbat_soldier_cataphract_archers: "백내장 궁수 대장"
+ tbat_soldier_cataphract_archers_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 백내장 궁수 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_cataphract_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 백내장 궁수 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+  
+ trait_tbat_soldier_nomad_lancers: "노마드 랜서스 선장"
+ tbat_soldier_nomad_lancers_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 창기병 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_nomad_lancers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 정예 창기병 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+  
+ trait_tbat_soldier_bondi: "본다이 캡틴"
+ tbat_soldier_bondi_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 본다이의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_bondi_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 본다이의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+  
+ trait_tbat_soldier_asawira: "아사비라 선장"
+ tbat_soldier_asawira_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 아사비라의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_asawira_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 아사비라의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+  
+ trait_tbat_soldier_maturkan_warriors: "Maturkan 전사 대장"
+ tbat_soldier_maturkan_warriors_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Maturkan Warriors의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+ trait_tbat_soldier_maturkan_warriors_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe]은 전투에서 연대의 성공에 중요한 역할을 한 후 Maturkan Warriors의 정예 부대에서 승격되었습니다. 전투에서 그들의 존재는 주변 사람들에게 더 큰 무기의 위업을 이룰 수 있도록 영감을 줍니다."
+  
+ # Facing Modifiers - Enemy War Leader Bonuses 
+  
+ tactical_facing_landsknecht_soldier_commander: "란츠크네히트 병사들과 마주하다"
+ tactical_facing_landsknecht_soldier_commander_desc: "적군이 [GetMaA('landsknechts').GetName] 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_light_inf_soldier_commander: "경보병 병사들과 맞서기"
+ tactical_facing_light_inf_soldier_commander_desc: "적군이 [GetMaA('light_footmen').GetName] 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_bowmen_soldier_commander: "궁수 병사들과 마주하다"
+ tactical_facing_bowmen_soldier_commander_desc: "적이 궁병 연대에서 지휘관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_light_cav_soldier_commander: "경기병 병사들과 마주하다"
+ tactical_facing_light_cav_soldier_commander_desc: "적군이 [GetMaA('light_cavalry').GetName] 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_heavy_cav_soldier_commander: "중기병 병사들과 맞서기"
+ tactical_facing_heavy_cav_soldier_commander_desc: "적군이 [GetMaA('armored_cavalry').GetName] 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_pikemen_soldier_commander: "파이크맨 병사들과 맞서기"
+ tactical_facing_pikemen_soldier_commander_desc: "적이 장창병 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_longbow_soldier_commander: "장궁 병사들과 마주하다"
+ tactical_facing_longbow_soldier_commander_desc: "적군이 [GetMaA('longbowmen').GetName] 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_goedendag_soldier_commander: "괴덴다그 병사들과 맞서다"
+ tactical_facing_goedendag_soldier_commander_desc: "적군이 [GetMaA('goedendag_militia').GetName] 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_gendarme_soldier_commander: "헌병대와 마주하다"
+ tactical_facing_gendarme_soldier_commander_desc: "적군이 [GetMaA('gendarmes').GetName] 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_chasseur_soldier_commander: "추격병 병사들과 맞서기"
+ tactical_facing_chasseur_soldier_commander_desc: "적군이 [GetMaA('chasseurs').GetName] 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_picchieri_soldier_commander: "피치에리 병사들과 마주하다"
+ tactical_facing_picchieri_soldier_commander_desc: "적군이 [GetMaA('picchieri').GetName] 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_cataphract_soldier_commander: "백내장 병사들과 마주하기"
+ tactical_facing_cataphract_soldier_commander_desc: "적이 백내장 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_monsapa_soldier_commander: "모나스파 병사들과 마주하다"
+ tactical_facing_monsapa_soldier_commander_desc: "적군이 [GetMaA('monaspa').GetName] 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_hobelar_soldier_commander: "하벨라 병사들과 마주하다"
+ tactical_facing_hobelar_soldier_commander_desc: "적군이 [GetMaA('hobelar').GetName] 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_schiltron_soldier_commander: "쉴트론 병사들과 마주하다"
+ tactical_facing_schiltron_soldier_commander_desc: "적군이 [GetMaA('schiltron').GetName] 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_heavy_archers_soldier_commander: "중궁수와 맞서기"
+ tactical_facing_heavy_archers_soldier_commander_desc: "적군이 [GetMaA('heavy_archers').GetName] 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_mubarizun_soldier_commander: "무바리준 병사들과 맞서다"
+ tactical_facing_mubarizun_soldier_commander_desc: "적군이 [GetMaA('mubarizun').GetName] 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+ tactical_facing_ayyar_soldier_commander: "아야르 병사들과 마주하다"
+ tactical_facing_ayyar_soldier_commander_desc: "적군이 [GetMaA('ayyar').GetName] 연대에서 사령관을 모집했습니다. 우리 군대는 그들의 경험과 싸워야 합니다. \N"
+  
+  
+ learn_commander_trait.7000.a: "녹색"
+ learn_commander_trait.7000.b: "주황색"
+ learn_commander_trait.7000.c: "노란색"
+ learn_commander_trait.7000.d: "빨간색"
+ learn_commander_trait.7000.e: "검은색"
+ learn_commander_trait.7000.f: "하얀색"
+ learn_commander_trait.7000.g: "파란색"
+ learn_commander_trait.7000.h: "보라"
+ learn_commander_trait.7000.i: "분홍색"
+ learn_commander_trait.7000.j: "회색"
+  
+ learn_commander_trait.7001.a: "곰"
+ learn_commander_trait.7001.b: "사자"
+ learn_commander_trait.7001.c: "늑대"
+ learn_commander_trait.7001.d: "수사슴"
+ learn_commander_trait.7001.e: "물고기"
+ learn_commander_trait.7001.f: "여우"
+ learn_commander_trait.7001.g: "용"
+ learn_commander_trait.7001.h: "다음"
+  
+ learn_commander_trait.7002.a: "거미"
+ learn_commander_trait.7002.b: "바실리스크"
+ learn_commander_trait.7002.c: "오록스"
+ learn_commander_trait.7002.d: "표범"
+ learn_commander_trait.7002.e: "고양이"
+ learn_commander_trait.7002.f: "개"
+ learn_commander_trait.7002.g: "뱀"
+ learn_commander_trait.7002.h: "뒤쪽에"
+  

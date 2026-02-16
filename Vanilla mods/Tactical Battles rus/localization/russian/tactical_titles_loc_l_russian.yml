@@ -1,0 +1,754 @@
+﻿l_russian:
+  
+ #customLoc 
+ hegemon_female_plural_one: "Гегемона"
+ emperor_female_plural_one: "Императрицы"
+ king_female_plural_one: "Королева"
+ duke_female_plural_one: "Герцогини"
+ count_female_plural_one: "графини"
+  
+ hegemon_male_plural_one: "Гегемона"
+ emperor_male_plural_one: "Императора"
+ king_male_plural_one: "Королевский"
+ duke_male_plural_one: "Герцога"
+ count_male_plural_one: "Граф"
+  
+ #NICKNAMES - GIVEN BECAUSE UNLANDED CANT HAVE FLAVOR 
+  
+ nick_the_bulwark_of_place: "Оплот [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_sword_of_place: "Меч [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_shield_of_place: "Щит [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_defender_of_place: "Защитник [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_protector_of_place: "Защитник [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_iron_fist_of_place: "Железный кулак [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_fist_of_place: "Кулак [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_champion_of_place: "Чемпион [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_first_blade_of_place: "Первый клинок [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_first_shield_of_place: "Первый щит [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_anvil_of_place: "Наковальня [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_hammer_of_place: "Молот [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_fury_of_place: "Ярость [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ nick_the_might_of_place: "Мощь [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+  
+ # The ______ of the King/Queen 
+  
+ nick_the_iron_fist_of_the_male_person: "Железный кулак [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ nick_the_iron_fist_of_the_female_person: "Железный кулак [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ nick_the_blade_of_the_male_person: "Клинок [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ nick_the_blade_of_the_female_person: "Клинок [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ nick_the_first_blade_of_the_male_person: "Первый клинок [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ nick_the_first_blade_of_the_female_person: "Первый клинок [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ nick_the_shield_of_the_male_person: "Щит [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ nick_the_shield_of_the_female_person: "Щит [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ nick_the_might_of_the_male_person: "Мощь [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ nick_the_might_of_the_female_person: "Мощь [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ nick_the_protector_of_male: "Чемпион [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ nick_the_protector_of_female: "Чемпион [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+  
+ # The King's/Queens ___________________ 
+  
+ nick_the_person_shield_male: "Щит [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ nick_the_person_shield_female: "Щит [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')]"
+ nick_the_person_blade_male: "Клинок [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ nick_the_person_blade_female: "Клинок [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')]"
+ nick_the_person_champion_male: "Чемпион [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ nick_the_person_champion_female: "Чемпион [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')]"
+ nick_the_person_fury_male: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] Ярость"
+ nick_the_person_fury_female: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] Ярость"
+ nick_the_person_fist_male: "Кулак [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ nick_the_person_fist_female: "Кулак [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')]"
+ nick_the_person_protector_male: "Защитник [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ nick_the_person_protector_female: "Защитник [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')]"
+ nick_the_person_might_male: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] Могущество"
+ nick_the_person_might_female: "[Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')] Могущество"
+  
+ ### Marches 
+  
+ nick_defender_of_the_realm_marches: "Защитник [Character.GetPrimaryTitle.GetAdjectiveNoTooltip] Маршей"
+ nick_protector_of_the_realm_marches: "Защитник [Character.GetPrimaryTitle.GetAdjectiveNoTooltip] Марков"
+ nick_warden_of_the_realm_marches: "Хранитель [Character.GetPrimaryTitle.GetAdjectiveNoTooltip] маршей"
+  
+  
+  
+ ####################################################### FLAVOR LOCS ############################################################## 
+  
+ # The ________ of Paris (Liege Capital Location) 
+  
+ tbatt_military_title_bulwark: "Оплот [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_bulwark_fem: "Оплот [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_sword: "Меч [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_sword_fem: "Меч [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_shield: "Щит [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_shield_fem: "Щит [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_defender: "Защитник [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_defender_fem: "Защитник [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_protector: "Защитник [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_protector_fem: "Защитник [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_iron_fist: "Железный кулак [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_iron_fist_fem: "Железный кулак [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_champion: "Чемпион [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_champion_fem: "Чемпион [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_anvil: "Наковальня [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_anvil_fem: "Наковальня [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_hammer: "Молот [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_hammer_fem: "Молот [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_fury: "Ярость [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_fury_fem: "Ярость [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_might: "Мощь [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_might_fem: "Мощь [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ # First _______ of Paris (Liege Capital Location) 
+  
+ tbatt_military_title_first_blade: "Первый клинок [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_first_blade_fem: "Первый клинок [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_first_shield: "Первый щит [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_first_shield_fem: "Первый щит [Character.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ # The ______ of the King/Queen 
+ tbatt_military_title_iron_fist_of_male: "Железный кулак [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_iron_fist_of_female: "Железный кулак [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_first_blade_of_male:0 "The First Blade of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_first_blade_of_female:0 "The First Blade of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_shield_of_male:0 "The Shield of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_shield_of_female:0 "The Shield of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_might_of_male:0 "The Might of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_might_of_female:0 "The Might of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+ tbatt_military_title_protector_of_male: "Чемпион [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_protector_of_female:0 "The Champion of the [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] 
+  
+ # The King's/Queens ___________________ 
+  
+ tbatt_military_title_male_shield: "Щит [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_female_shield: "Щит [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_male_blade: "Клинок [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_female_blade: "Клинок [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_male_champion: "Чемпион [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_female_champion: "Чемпион [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_male_fury: "Ярость [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_female_fury: "Ярость [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_male_fist: "Кулак [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_female_fist: "Кулак [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_male_protector: "Защитник [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_female_protector: "Защитник [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_male_might: "Мощь [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_female_might: "Мощь [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleFemalePluralOne')], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+  
+  
+ # ________ of the West Francia Marches 
+  
+ tbatt_military_title_marches_defender: "Защитник [Character.GetPrimaryTitle.GetAdjectiveNoTooltip] Маршей, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_marches_defender_fem: "Защитник [Character.GetPrimaryTitle.GetAdjectiveNoTooltip] Маршей, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_marches_protector: "Защитник [Character.GetPrimaryTitle.GetAdjectiveNoTooltip] Марков, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_marches_protector_fem: "Защитник [Character.GetPrimaryTitle.GetAdjectiveNoTooltip] Марков, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_marches_warden: "Хранитель [Character.GetPrimaryTitle.GetAdjectiveNoTooltip] Марков, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_marches_warden_fem: "Хранитель [Character.GetPrimaryTitle.GetAdjectiveNoTooltip] Марков, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tactical_honorary_military_title: "Почетное воинское звание"
+ tactical_honorary_military_title_desc: "Этот персонаж имеет воинское звание, присвоенное лично его сюзереном, что выделяет его среди своих сверстников.\nПолучает перк: [GetPerk('like_weed_in_a_garden_perk').GetName(Character)]\nПолучает перк: [GetPerk('unshackled_lust_perk').GetName(Character)]\nПолучает перк: [GetPerk('subtle_desire_perk').GetName(Character)]"
+  
+  
+  
+ #### player 
+  
+ tbatt_military_title_state_fist: "Кулак [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_state_fist_fem: "Кулак [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_state_guardian: "Хранитель [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_state_guardian_fem: "Хранитель [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_state_protector: "Защитник [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_state_protector_fem: "Защитник [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_state_blade: "Клинок [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_state_blade_fem: "Клинок [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_state_shield: "Щит [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_state_shield_fem: "Щит [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_state_warden: "Страж [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_state_warden_fem: "Страж [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_culture_savior: "Спаситель [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_culture_savior_fem: "Спаситель [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_culture_protector: "Защитник [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_culture_protector_fem: "Защитник [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_culture_guardian: "Страж [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_culture_guardian_fem: "Страж [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_culture_shield: "Щит [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_culture_shield_fem: "Щит [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_culture_blade: "Клинок [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_culture_blade_fem: "Клинок [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_culture_might: "Мощь [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_culture_might_fem: "Мощь [Character.GetCulture.GetCollectiveNounNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_son_of_father: "Сын [Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_son_of_father_fem: "Дочь [Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_blood_of_father: "Кровь [Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_blood_of_father_fem: "Кровь [Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_scion_of_father: "Потомок [Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_scion_of_father_fem: "Потомок [Character.GetFather.GetFirstNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_hand_of_justice: "Рука правосудия, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_hand_of_justice_fem: "Рука правосудия, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_bane_of_devil: "Проклятие [Character.GetFaith.DevilName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_bane_of_devil_fem: "Проклятие [Character.GetFaith.DevilName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_vanquisher_of_unholy: "Покоритель нечестивости, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_vanquisher_of_unholy_fem: "Покоритель нечестивости, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_vanquisher_of_wicked: "Победитель нечестия, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_vanquisher_of_wicked_fem: "Победитель нечестия, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_vanquisher_of_unbelievers: "Победитель неверующих, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_vanquisher_of_unbelievers_fem: "Победитель неверующих, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_protector_of_clergy: "Защитник [Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_protector_of_clergy_fem: "Защитник [Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_guardian_of_clergy: "Страж [Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_guardian_of_clergy_fem: "Страж [Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_custodian_of_clergy: "Хранитель [Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_custodian_of_clergy_fem: "Хранитель [Character.GetFaith.AltPriestTermPlural|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_the_lords_wrath: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Гнев, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lords_wrath_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Гнев, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lords_fury: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Ярость, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lords_fury_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Ярость, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lords_might: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Могущество, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lords_might_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Могущество, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lords_vengeance: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Месть, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lords_vengeance_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Месть, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lords_shield: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Щит, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lords_shield_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Щит, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lords_justice: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Правосудие, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lords_justice_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Правосудие, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lords_blade: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Клинок, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lords_blade_fem: "[Character.GetFaith.HighGodNameAlternatePossessive|U] Клинок, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_guardian_of_text: "Страж [Character.GetFaith.ReligiousText|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_guardian_of_text_fem: "Страж [Character.GetFaith.ReligiousText|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_protector_of_text: "Защитник [Character.GetFaith.ReligiousText|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_protector_of_text_fem: "Защитник [Character.GetFaith.ReligiousText|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_blade_of_followers: "Клинок [GetPlayer.GetFaith.GetAdherentNamePluralNoTooltip|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_blade_of_followers_fem: "Клинок [GetPlayer.GetFaith.GetAdherentNamePluralNoTooltip|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_bane_of_infidels: "Проклятие [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_bane_of_infidels_fem: "Проклятие [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_vanquisher_of_infidels: "Покоритель [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_vanquisher_of_infidels_fem: "Покоритель [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_conqueror_of_infidels: "Завоеватель [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_conqueror_of_infidels_fem: "Завоеватель [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_blade_of_infidels: "Клинок [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_blade_of_infidels_fem: "Клинок [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_blade_of_infidels: "Клинок [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_blade_of_infidels_fem: "Клинок [Character.MakeScope.Char.Custom('TbattGetDerogatoryNonbelieverPlural')|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_wrath_of_god: "Гнев [Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_wrath_of_god_fem: "Гнев [Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_blade_of_god: "Клинок [Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_blade_of_god_fem: "Клинок [Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_shield_of_god: "Щит [Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_shield_of_god_fem: "Щит [Character.GetFaith.HighGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_gods_fury: "[Character.GetFaith.HighGodNamePossessive|U] Ярость, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_gods_fury_fem: "[Character.GetFaith.HighGodNamePossessive|U] Ярость, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_gods_wrath: "[Character.GetFaith.HighGodNamePossessive|U] Гнев, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_gods_wrath_fem: "[Character.GetFaith.HighGodNamePossessive|U] Гнев, [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_sword_of_wargod: "Меч [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_sword_of_wargod_fem: "Меч [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_blade_of_wargod: "Клинок [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_blade_of_wargod_fem: "Клинок [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_might_of_wargod: "Мощь [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_might_of_wargod_fem: "Мощь [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_wrath_of_wargod: "Гнев [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_wrath_of_wargod_fem: "Гнев [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_fury_of_wargod: "Ярость [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_fury_of_wargod_fem: "Ярость [Character.GetFaith.WarGodName|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_blade_of_heaven: "Клинок [Character.GetFaith.PositiveAfterLife|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_blade_of_heaven_fem: "Клинок [Character.GetFaith.PositiveAfterLife|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_shield_of_heaven: "Щит [Character.GetFaith.PositiveAfterLife|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_shield_of_heaven_fem: "Щит [Character.GetFaith.PositiveAfterLife|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_bearer_of_cross: "Носитель [Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_bearer_of_cross_fem: "Носитель [Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_defender_of_cross: "Защитник [Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_defender_of_cross_fem: "Защитник [Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_protector_of_cross: "Защитник [Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_protector_of_cross_fem: "Защитник [Character.GetFaith.ReligiousSymbol|U], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_military_title_the_black_lion: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_black_lion_fem: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lion_of_realm: "[GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lion_of_realm_fem: "[GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lion_of_capital: "[GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lion_of_capital_fem: "[GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_black_lion_of_realm: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_black_lion_of_realm_fem: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_black_lion_of_capital: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_black_lion_of_capital_fem: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_dynasty_lion: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_dynasty_lion_fem: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lion_of_dynasty: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lion_of_dynasty_fem: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_black_lion_of_dynasty: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_black_lion_of_dynasty_fem: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_lion_of_dynasty: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_lion_of_dynasty_fem: "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_black_king: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')],"
+ tbatt_military_title_the_black_king_fem: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')],"
+ tbatt_military_title_the_black_king_of_realm: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] из [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip],"
+ tbatt_military_title_the_black_king_of_realm_fem: "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')] из [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip],"
+ tbatt_military_title_the_black_blade_of_realm: "Клинок [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_black_blade_of_realm_fem: "Клинок [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+ tbatt_military_title_the_black_blade_of_capital: "Клинок [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ tbatt_military_title_the_black_blade_of_capital_fem: "Клинок [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip], [Character.GetPrimaryTitle.Custom('GetTierBaseTitleFemale')]"
+  
+ tbatt_player_faith_devilname: "[GetPlayer.GetFaith.DevilName|U]"
+ tbatt_player_faith_clergy: "[GetPlayer.GetFaith.AltPriestTermPlural|U]"
+ tbatt_player_faith_the_lords: "[GetPlayer.GetFaith.HighGodNameAlternatePossessive|U]"
+ tbatt_player_faith_scriptures: "[GetPlayer.GetFaith.ReligiousText|U]"
+ tbatt_player_faith_adherents: "[GetPlayer.GetFaith.GetAdherentNamePluralNoTooltip|U]"
+ tbatt_player_faith_of_god: "[GetPlayer.GetFaith.HighGodName|U]"
+ tbatt_player_faith_gods: "[GetPlayer.GetFaith.HighGodNamePossessive|U]"
+ tbatt_player_faith_wargod: "[GetPlayer.GetFaith.WarGodName|U]"
+ tbatt_player_faith_afterlife: "[GetPlayer.GetFaith.PositiveAfterLife|U]"
+ tbatt_player_faith_symbol: "[GetPlayer.GetFaith.ReligiousSymbol|U]"
+  
+ tbatt_title_color_green_flag: "Зеленый"
+ tbatt_title_color_orange_flag: "Апельсин"
+ tbatt_title_color_yellow_flag: "Желтый"
+ tbatt_title_color_red_flag: "Красный"
+ tbatt_title_color_black_flag: "Черный"
+ tbatt_title_color_white_flag: "Белый"
+ tbatt_title_color_blue_flag: "Синий"
+ tbatt_title_color_purple_flag: "Фиолетовый"
+ tbatt_title_color_pink_flag: "Розовый"
+ tbatt_title_color_gray_flag: "Серый"
+  
+ tbatt_title_animal_bear_flag: "Медведь"
+ tbatt_title_animal_wolf_flag: "Волк"
+ tbatt_title_animal_spider_flag: "Паук"
+ tbatt_title_animal_boar_flag: "Кабан"
+ tbatt_title_animal_stag_flag: "Олень"
+ tbatt_title_animal_fish_flag: "Рыба"
+ tbatt_title_animal_fox_flag: "Лиса"
+ tbatt_title_animal_dragon_flag: "Дракон"
+ tbatt_title_animal_basilisk_flag: "Василиск"
+ tbatt_title_animal_aurochs_flag: "зубры"
+ tbatt_title_animal_leopard_flag: "Леопард"
+ tbatt_title_animal_cat_flag: "Кот"
+ tbatt_title_animal_dog_flag: "Собака"
+ tbatt_title_animal_serpent_flag: "Змея"
+ tbatt_title_animal_lion_flag: "Лев"
+  
+ # Tactical Battle Titles - Position Names 
+ tbatt_titlecard_bane_of_devil: "Проклятие [GetPlayer.MakeScope.Var('tbatt_get_player_faith_devilname').GetFlagName]"
+ tbatt_titlecard_vanquisher_of_unholy: "Победитель нечестивости"
+ tbatt_titlecard_vanquisher_of_wicked: "Победитель нечестия"
+  
+ tbatt_titlecard_protector_of_clergy: "Защитник [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"
+ tbatt_titlecard_guardian_of_clergy: "Хранитель [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"
+ tbatt_titlecard_custodian_of_clergy: "Хранитель [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"
+ tbatt_titlecard_lords_wrath: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Гнев"
+ tbatt_titlecard_lords_fury: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Ярость"
+ tbatt_titlecard_lords_might: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Могущество"
+ tbatt_titlecard_lords_vengeance: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Месть"
+ tbatt_titlecard_lords_blade: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Клинок"
+ tbatt_titlecard_lords_shield: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Щит"
+ tbatt_titlecard_lords_justice: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Правосудие"
+ tbatt_titlecard_guardian_of_text: "Хранитель [GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]"
+ tbatt_titlecard_protector_of_text: "Защитник [GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]"
+ tbatt_titlecard_blade_of_followers: "Клинок [GetPlayer.MakeScope.Var('tbatt_get_player_faith_adherents').GetFlagName]"
+ tbatt_titlecard_wrath_of_god: "Гнев [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"
+ tbatt_titlecard_gods_fury: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] Ярость"
+ tbatt_titlecard_gods_wrath: "[GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] Гнев"
+ tbatt_titlecard_blade_of_god: "Клинок [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"
+ tbatt_titlecard_shield_of_god: "Щит [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"
+ tbatt_titlecard_sword_of_wargod: "Меч [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"
+ tbatt_titlecard_blade_of_wargod: "Клинок [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"
+ tbatt_titlecard_might_of_wargod: "Мощь [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"
+ tbatt_titlecard_wrath_of_wargod: "Гнев [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"
+ tbatt_titlecard_fury_of_wargod: "Ярость [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"
+ tbatt_titlecard_blade_of_heaven: "Клинок [GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]"
+ tbatt_titlecard_shield_of_heaven: "Щит [GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]"
+ tbatt_titlecard_bearer_of_symbol: "Носитель [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"
+ tbatt_titlecard_defender_of_symbol: "Защитник [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"
+ tbatt_titlecard_protector_of_symbol: "Защитник [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"
+  
+ tbatt_header_bane_of_devil: "Проклятие сатаны"
+ tbatt_header_vanquisher_of_unholy: "Победитель нечестивости"
+ tbatt_header_vanquisher_of_wicked: "Победитель нечестия"
+ tbatt_header_protector_of_clergy: "Примеры:\nЗащитник старейшин\nЗащитник духовенства\nЗащитник Сангхи."
+ tbatt_header_guardian_of_clergy: "Хранитель [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"
+ tbatt_header_custodian_of_clergy: "Примеры:\nХранитель старейшин\nХранитель духовенства\nХранитель Сангхи."
+ tbatt_header_lords_wrath: "Примеры, основанные на вере:\nГнев Господень\nГнев Всеотца\nГнев Просвещённых\nГнев Спасителей\nГнев Отца Небесного"
+ tbatt_header_lords_fury: "Примеры, основанные на вере:\nЯрость Господа\nЯрость Всеотца\nЯрость Просвещённых\nЯрость Спасителей\nЯрость Небесного Отца"
+ tbatt_header_lords_might: "Примеры, основанные на вере:\nМощь Господа\nМощь Всеотца\nМощь Просветлённых\nМощь Спасителей\nМощь Небесного Отца"
+ tbatt_header_lords_vengeance: "Примеры, основанные на вере:\nМесть Господа\nМесть Всеотца\nМесть Просветлённых\nМесть Спасителей\nМесть Небесного Отца"
+ tbatt_header_lords_blade: "Примеры, основанные на вере:\nКлинок Господа\nКлинок Всеотца\nКлинок Просветлённого\nКлинок Спасителя\nКлинок Небесного Отца"
+ tbatt_header_lords_shield: "Примеры, основанные на вере:\nЩит Господа\nЩит Всеотца\nЩит Просвещённого\nЩит Спасителя\nЩит Небесного Отца"
+ tbatt_header_lords_justice: "Примеры, основанные на вере:\nСправедливость Господа\nСправедливость Всеотца\nСправедливость Просвещённого\nСправедливость Спасителя\nСправедливость Небесного Отца"
+ tbatt_header_guardian_of_text: "Примеры, основанные на вере:\nСправедливость Господа\nСправедливость Всеотца\nСправедливость Просвещённого\nСправедливость Спасителя\nСправедливость Небесного Отца"
+ tbatt_header_protector_of_text: "Примеры, основанные на вере:\nЗащитник Священного Писания\nЗащитник героических саг\nЗащитник великих легенд."
+ tbatt_header_blade_of_followers: "Примеры, основанные на вере:\nКлинок христиан\nКлинок тенгристов\nКлинок астаруанцев"
+ tbatt_header_wrath_of_god: "Примеры, основанные на вере:\nГнев Божий\nГнев Одина\nГнев Господень\nГнев Аллаха\nГнев Рода"
+ tbatt_header_gods_fury: "Примеры, основанные на вере:\nЯрость Бога\nЯрость Одина\nЯрость Господа\nЯрость Аллаха\nЯрость Рода"
+ tbatt_header_gods_wrath: "Примеры, основанные на вере:\nГнев Божий\nГнев Одина\nГнев Господень\nГнев Аллаха\nГнев Рода"
+ tbatt_header_blade_of_god: "Примеры, основанные на вере:\nКлинок Бога\nКлинок Одина\nКлинок Господа\nКлинок Аллаха\nКлинок Рода"
+ tbatt_header_shield_of_god: "Примеры, основанные на вере:\nЩит Бога\nЩит Одина\nЩит Господа\nЩит Аллаха\nЩит Рода"
+ tbatt_header_sword_of_wargod: "Примеры, основанные на вере:\nМеч Святого Георгия\nМеч Тира\nМеч Хадура\nМеч Аллаха\nМеч Еше Валмо\nМеч Джаганатха"
+ tbatt_header_blade_of_wargod: "Примеры, основанные на вере:\nКлинок Святого Георгия\nКлинок Тира\nКлинок Хадура\nКлинок Аллаха\nКлинок Еше Валмо\nКлинок Джагганата"
+ tbatt_header_might_of_wargod: "Примеры, основанные на вере:\nМощь Святого Георгия\nМощь Тира\nМощь Хадура\nМощь Аллаха\nМощь Еше Валмо\nМощь Джаганатха"
+ tbatt_header_wrath_of_wargod: "Примеры, основанные на вере:\nГнев Святого Георгия\nГнев Тира\nГнев Хадура\nГнев Аллаха\nГнев Еше Валмо\nГнев Джаганнатха"
+ tbatt_header_fury_of_wargod: "Примеры, основанные на вере:\nЯрость святого Георгия\nЯрость Тира\nЯрость Хадура\nЯрость Аллаха\nЯрость Еше Валмо\nЯрость Джагганата"
+ tbatt_header_blade_of_heaven: "Примеры, основанные на вере:\nКлинок Небес\nКлинок Валгаллы\nКлинок Вечного Синего Неба\nКлинок Сварги"
+ tbatt_header_shield_of_heaven: "Примеры, основанные на вере:\nЩит Небес\nЩит Валгаллы\nЩит Вечного Синего Неба\nЩит Сварги"
+ tbatt_header_bearer_of_symbol: "Примеры, основанные на вере:\nНоситель креста\nНоситель Валькнута\nНоситель Ом\nНоситель креста света\nНоситель Дхармачакры\nНоситель Шахады"
+ tbatt_header_defender_of_symbol: "Примеры, основанные на вере:\nЗащитник Креста\nЗащитник Валькнута\nЗащитник Ом\nЗащитник Креста света\nЗащитник Дхармачакры\nЗащитник Шахады"
+ tbatt_header_protector_of_symbol: "Примеры, основанные на вере:\nЗащитник Креста\nЗащитник Валькнута\nЗащитник Ом\nЗащитник Креста света\nЗащитник Дхармачакры\nЗащитник Шахады"
+  
+ tbatt_grant_bane_of_devil: "Грант Бэйн из [GetPlayer.MakeScope.Var('tbatt_get_player_faith_devilname').GetFlagName]"
+ tbatt_grant_vanquisher_of_unholy: "Грант «Покоритель нечестивости»"
+ tbatt_grant_vanquisher_of_wicked: "Грант «Покоритель нечестия»"
+ tbatt_grant_protector_of_clergy: "Грант-защитник [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"
+ tbatt_grant_guardian_of_clergy: "Грант Хранителя [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"
+ tbatt_grant_custodian_of_clergy: "Грант Хранитель [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"
+ tbatt_grant_lords_wrath: "Даруйте [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] гнева"
+ tbatt_grant_lords_fury: "Грант [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Ярость"
+ tbatt_grant_lords_might: "Даруй [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Могущество"
+ tbatt_grant_lords_vengeance: "Грант [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Месть"
+ tbatt_grant_lords_blade: "Грант [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Клинок"
+ tbatt_grant_lords_shield: "Грант [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Щит"
+ tbatt_grant_lords_justice: "Даруйте [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] правосудие"
+ tbatt_grant_guardian_of_text: "Грант Хранителя [GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]"
+ tbatt_grant_protector_of_text: "Грант-защитник [GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]"
+ tbatt_grant_blade_of_followers: "Грант Клинок [GetPlayer.MakeScope.Var('tbatt_get_player_faith_adherents').GetFlagName]"
+ tbatt_grant_wrath_of_god: "Даруйте гнев [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"
+ tbatt_grant_gods_fury: "Грант [GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] Ярость"
+ tbatt_grant_gods_wrath: "Даруйте [GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] гнева"
+ tbatt_grant_blade_of_god: "Даруйте Клинок [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"
+ tbatt_grant_shield_of_god: "Даруйте Щит [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"
+ tbatt_grant_sword_of_wargod: "Даруйте Меч [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"
+ tbatt_grant_blade_of_wargod: "Даруйте Клинок [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"
+ tbatt_grant_might_of_wargod: "Даруй мощь [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"
+ tbatt_grant_wrath_of_wargod: "Даруйте гнев [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"
+ tbatt_grant_fury_of_wargod: "Даруйте ярость [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"
+ tbatt_grant_blade_of_heaven: "Даруйте Клинок [GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]"
+ tbatt_grant_shield_of_heaven: "Даруйте Щит [GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]"
+ tbatt_grant_bearer_of_symbol: "Дароносец [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"
+ tbatt_grant_defender_of_symbol: "Грант Защитник [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"
+ tbatt_grant_protector_of_symbol: "Грант-защитник [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"
+  
+ tbatt_remove_bane_of_devil: "Удалить проклятие [GetPlayer.MakeScope.Var('tbatt_get_player_faith_devilname').GetFlagName]"
+ tbatt_remove_vanquisher_of_unholy: "Удалить Покоритель нечестивости"
+ tbatt_remove_vanquisher_of_wicked: "Удалить «Покоритель нечестия»"
+ tbatt_remove_protector_of_clergy: "Удалить Защитника [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"
+ tbatt_remove_guardian_of_clergy: "Удалить Хранителя [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"
+ tbatt_remove_custodian_of_clergy: "Удалить Хранителя [GetPlayer.MakeScope.Var('tbatt_get_player_faith_clergy').GetFlagName]"
+ tbatt_remove_lords_wrath: "Удалить [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] гнева"
+ tbatt_remove_lords_fury: "Удалить [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Ярость"
+ tbatt_remove_lords_might: "Удалить [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Могущество"
+ tbatt_remove_lords_vengeance: "Удалить [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Месть"
+ tbatt_remove_lords_blade: "Удалить клинок [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName]"
+ tbatt_remove_lords_shield: "Убрать [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] щит"
+ tbatt_remove_lords_justice: "Удалить [GetPlayer.MakeScope.Var('tbatt_get_player_faith_the_lords').GetFlagName] Правосудие"
+ tbatt_remove_guardian_of_text: "Удалить Хранителя [GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]"
+ tbatt_remove_protector_of_text: "Удалить Защитника [GetPlayer.MakeScope.Var('tbatt_get_player_faith_scriptures').GetFlagName]"
+ tbatt_remove_blade_of_followers: "Удалить Клинок [GetPlayer.MakeScope.Var('tbatt_get_player_faith_adherents').GetFlagName]"
+ tbatt_remove_wrath_of_god: "Удалить гнев [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"
+ tbatt_remove_gods_fury: "Удалить [GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] Ярость"
+ tbatt_remove_gods_wrath: "Удалить [GetPlayer.MakeScope.Var('tbatt_get_player_faith_gods').GetFlagName] гнева"
+ tbatt_remove_blade_of_god: "Удалить клинок [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"
+ tbatt_remove_shield_of_god: "Удалить щит [GetPlayer.MakeScope.Var('tbatt_get_player_faith_of_god').GetFlagName]"
+ tbatt_remove_sword_of_wargod: "Удалить Меч [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"
+ tbatt_remove_blade_of_wargod: "Удалить клинок [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"
+ tbatt_remove_might_of_wargod: "Удалить мощь [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"
+ tbatt_remove_wrath_of_wargod: "Удалить гнев [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"
+ tbatt_remove_fury_of_wargod: "Удалить ярость [GetPlayer.MakeScope.Var('tbatt_get_player_faith_wargod').GetFlagName]"
+ tbatt_remove_blade_of_heaven: "Удалить клинок [GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]"
+ tbatt_remove_shield_of_heaven: "Удалить щит [GetPlayer.MakeScope.Var('tbatt_get_player_faith_afterlife').GetFlagName]"
+ tbatt_remove_bearer_of_symbol: "Удалить носителя [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"
+ tbatt_remove_defender_of_symbol: "Удалить Защитника [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"
+ tbatt_remove_protector_of_symbol: "Удалить Защитника [GetPlayer.MakeScope.Var('tbatt_get_player_faith_symbol').GetFlagName]"
+  
+ TB_RM_RANDOM_TRAITS:  "Удалить случайные черты"
+ TB_TITLE_FLANK_COMMANDERS:  "Фланговые командиры"
+ TB_TITLE_MILITARY_TITLES:  "Военные звания"
+ TB_TITLE_PLAYER_TITLES:  "Титулы игроков"
+ TB_TITLE_MIL_POS_TITLES:  "Военная позиция"
+ TB_OPEN_WINDOW:  "Откройте просмотр названий тактических боёв."
+ TB_WINDOW_TITLE_HEADER:  "Фланговые командиры и звания"
+  
+  
+ TB_RM_TITLE_PLAYER_TITLES:  "Удалить титул игрока"
+ TB_TITLE_SELECT_PLAYER_COLOR:  "Выберите цвет"
+ TB_TITLE_SELECT_PLAYER_ANIMAL:  "Выберите животное"
+ TB_SELECT_COLOR_ANIMAL_INSTRUCTION:  "#strong_glow #high Выберите цвет и животное, чтобы просмотреть похожие названия."
+ TB_TITLE_SELECT_COLOR_ANIMAL:  "#strong_glow #high Выберите цвет и животное, чтобы просмотреть похожие названия."
+ TB_CHAR_MARTIAL:  "Боевой: [Character.GetSkill( 'martial' )]"
+ TB_CHAR_PROWESS:  "Мастерство: [Character.GetSkill( 'prowess' )]"
+  
+ TB_LANDS_TEXT:  "#high #medium_glow #help_light_background #L [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] из [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_PRIMARY_LANDS_HEADER:  "[Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] из [Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_PLAYER_TITLE_VACANT:  "#help_light_background #difficulty_hard Свободно"
+  
+  
+ TB_TITLE_LEFTFLANK_COMMANDER:  "Командир левого фланга"
+ TB_SELECT_LEFTFLANK_COMMANDER:  "Выберите левый командир"
+ TB_REMOVE_LEFTFLANK_COMMANDER:  "Удалить левый командир"
+  
+ TB_TITLE_CENTERFLANK_COMMANDER:  "Командир центрального фланга"
+ TB_SELECT_CENTERFLANK_COMMANDER:  "Выберите командира центра"
+ TB_REMOVE_CENTERFLANK_COMMANDER:  "Удалить командира центра"
+  
+ TB_TITLE_RIGHTFLANK_COMMANDER:  "Командир правого фланга"
+ TB_SELECT_RIGHTFLANK_COMMANDER:  "Выберите правого командира"
+ TB_REMOVE_RIGHTFLANK_COMMANDER:  "Удалить правого командира"
+  
+ TB_TITLE_BULWARK_OF_STATE:  "Оплот [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_BULWARK_OF_STATE:  "Выберите Оплот [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]."
+ TB_REMOVE_BULWARK_OF_STATE:  "Удалить оплот [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_SWORD_OF_REALM:  "Меч [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_SWORD_OF_REALM:  "Выберите Меч [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]."
+ TB_REMOVE_SWORD_OF_REALM:  "Удалить Меч [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_SHIELD_OF_REALM:  "Щит [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_SHIELD_OF_REALM:  "Выберите Щит [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]."
+ TB_REMOVE_SHIELD_OF_REALM:  "Удалить щит [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_DEFENDER_OF_REALM:  "Защитник [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_DEFENDER_OF_REALM:  "Выберите защитника [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_DEFENDER_OF_REALM:  "Удалить защитника [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_PROTECTOR_OF_REALM:  "Защитник [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_PROTECTOR_OF_REALM:  "Выберите защитника [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_PROTECTOR_OF_REALM:  "Удалить защитника [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_ANVIL_OF_REALM:  "Наковальня [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_ANVIL_OF_REALM:  "Выберите Наковальню [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]."
+ TB_REMOVE_ANVIL_OF_REALM:  "Удалить наковальню [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_ANVIL_OF_REALM:  "Наковальня [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_ANVIL_OF_REALM:  "Выберите Наковальню [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]."
+ TB_REMOVE_ANVIL_OF_REALM:  "Удалить наковальню [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_FIST_OF_REALM:  "Кулак [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_FIST_OF_REALM:  "Выберите кулак [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_FIST_OF_REALM:  "Удалить кулак [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_CHAMPION_OF_REALM:  "Чемпион [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_CHAMPION_OF_REALM:  "Выберите чемпиона [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_CHAMPION_OF_REALM:  "Удалить Чемпиона [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_FIRST_BLADE_OF_REALM:  "Первый клинок [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_FIRST_BLADE_OF_REALM:  "Выберите первый клинок [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]."
+ TB_REMOVE_FIRST_BLADE_OF_REALM:  "Удалить первый клинок [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_FIRST_SHIELD_OF_REALM:  "Первый щит [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_FIRST_SHIELD_OF_REALM:  "Выберите первый щит [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]."
+ TB_REMOVE_FIRST_SHIELD_OF_REALM:  "Удалить первый щит [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_HAMMER_OF_REALM:  "Молот [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_HAMMER_OF_REALM:  "Выберите Молот [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]."
+ TB_REMOVE_HAMMER_OF_REALM:  "Удалить молот [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_FURY_OF_REALM:  "Ярость [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_FURY_OF_REALM:  "Выберите Ярость [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]."
+ TB_REMOVE_FURY_OF_REALM:  "Удалить ярость [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_MIGHT_OF_REALM:  "Мощь [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_MIGHT_OF_REALM:  "Выберите Мощь [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]."
+ TB_REMOVE_MIGHT_OF_REALM:  "Удалить мощь [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_HAMMER_OF_REALM:  "Молот [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_HAMMER_OF_REALM:  "Выберите Молот [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]."
+ TB_REMOVE_HAMMER_OF_REALM:  "Удалить молот [GetPlayer.GetLiege.GetCapitalLocation.GetTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_IRON_FIST_PERSON:  "Железный кулак [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_GRANT_IRON_FIST_PERSON:  "Выберите Железный кулак [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]."
+ TB_REMOVE_IRON_FIST_PERSON:  "Удалить Железный кулак [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+  
+ TB_TITLE_FIRST_BLADE_PERSON:  "Первый клинок [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_GRANT_FIRST_BLADE_PERSON:  "Выберите первый клинок [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]."
+ TB_REMOVE_FIRST_BLADE_PERSON:  "Уберите первый клинок [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]."
+  
+ TB_TITLE_FIRST_SHIELD_PERSON:  "Первый щит [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_GRANT_FIRST_SHIELD_PERSON:  "Выберите Первый щит [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]."
+ TB_REMOVE_FIRST_SHIELD_PERSON:  "Удалить первый щит [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+  
+ TB_TITLE_SHIELD_PERSON:  "Щит [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_GRANT_SHIELD_PERSON:  "Выберите Щит [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]."
+ TB_REMOVE_SHIELD_PERSON:  "Удалить Щит [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+  
+ TB_TITLE_MIGHT_PERSON:  "Мощь [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_GRANT_MIGHT_PERSON:  "Выберите Мощь [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]."
+ TB_REMOVE_MIGHT_PERSON:  "Удалить Мощь [Character.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+  
+ TB_TITLE_PERSON_SHIELD: "The [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] Shield""  <"Щит [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"">  #NT!
+ TB_GRANT_PERSON_SHIELD: "Select The [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] Shield""  <"Выберите Щит [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"">  #NT!
+ TB_REMOVE_PERSON_SHIELD: "Remove The [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] Shield""  <"Уберите щит [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"">  #NT!
+  
+ TB_TITLE_PERSON_BLADE:  "Клинок [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ TB_GRANT_PERSON_BLADE:  "Выберите клинок [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]."
+ TB_REMOVE_PERSON_BLADE:  "Уберите клинок [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+  
+ TB_TITLE_PERSON_CHAMPION:  "Чемпион [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ TB_GRANT_PERSON_CHAMPION:  "Выберите чемпиона [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ TB_REMOVE_PERSON_CHAMPION:  "Удалить чемпиона [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+  
+ TB_TITLE_PERSON_FURY:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] Ярость"
+ TB_GRANT_PERSON_FURY:  "Выберите Ярость [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]."
+ TB_REMOVE_PERSON_FURY:  "Удалить ярость [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+  
+ TB_TITLE_PERSON_FIST:  "Кулак [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ TB_GRANT_PERSON_FIST:  "Выберите кулак [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]."
+ TB_REMOVE_PERSON_FIST:  "Уберите кулак [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+  
+ TB_TITLE_PERSON_MIGHT:  "[GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')] Могущество"
+ TB_GRANT_PERSON_MIGHT:  "Выберите Могущество [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+ TB_REMOVE_PERSON_MIGHT:  "Удалить мощь [GetPlayer.GetLiege.GetPrimaryTitle.Custom('GetTierBaseTitleMalePluralOne')]"
+  
+ TB_TITLE_MARCHES_DEFENDER:  "Защитник [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] Маршей"
+ TB_GRANT_MARCHES_DEFENDER:  "Выберите защитника [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] маршей."
+ TB_REMOVE_MARCHES_DEFENDER:  "Удалить Защитника [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] маршей"
+  
+ TB_TITLE_MARCHES_PROTECTOR:  "Защитник [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] Марков"
+ TB_GRANT_MARCHES_PROTECTOR:  "Выберите защитника [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] маршей"
+ TB_REMOVE_MARCHES_PROTECTOR:  "Удалить Защитника [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] Марков"
+  
+ TB_TITLE_MARCHES_WARDEN:  "Хранитель [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] маршей"
+ TB_GRANT_MARCHES_WARDEN:  "Выберите Хранителя [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] Маршей."
+ TB_REMOVE_MARCHES_WARDEN:  "Удалить Стража [GetPlayer.GetPrimaryTitle.GetAdjectiveNoTooltip] Маршей"
+  
+ TB_TITLE_THE_BLACK_LION:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ TB_GRANT_THE_BLACK_LION:  "Выберите [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ TB_REMOVE_THE_BLACK_LION:  "Удалить [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+  
+  
+ TB_TITLE_THE_LION_OF_REALM:  "[GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_THE_LION_OF_REALM:  "Выберите [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_THE_LION_OF_REALM:  "Удалить [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_THE_LION_OF_CAPITAL:  "[GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+ TB_GRANT_THE_LION_OF_CAPITAL:  "Выберите [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+ TB_REMOVE_THE_LION_OF_CAPITAL:  "Удалить [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+  
+ TB_TITLE_THE_BLACK_LION_OF_CAPITAL:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+ TB_GRANT_THE_BLACK_LION_OF_CAPITAL:  "Выберите [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+ TB_REMOVE_THE_BLACK_LION_OF_CAPITAL:  "Удалить [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+  
+ TB_TITLE_THE_BLACK_LION_OF_REALM:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_THE_BLACK_LION_OF_REALM:  "Выберите [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_THE_BLACK_LION_OF_REALM:  "Удалить [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_THE_LION_OF_DYNASTY:  "[GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip]"
+ TB_GRANT_THE_LION_OF_DYNASTY:  "Выберите [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip]"
+ TB_REMOVE_THE_LION_OF_DYNASTY:  "Удалить [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip]"
+  
+ TB_TITLE_THE_BLACK_LION_OF_DYNASTY:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip]"
+ TB_GRANT_THE_BLACK_LION_OF_DYNASTY:  "Выберите [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip]"
+ TB_REMOVE_THE_BLACK_LION_OF_DYNASTY:  "Удалить [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName] из [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip]"
+  
+ TB_TITLE_THE_DYNASTY_LION:  "[GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ TB_GRANT_THE_DYNASTY_LION:  "Выберите [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+ TB_REMOVE_THE_DYNASTY_LION:  "Удалить [GetPlayer.MakeScope.Char.GetHouse.GetNameNoTooltip] [GetPlayer.MakeScope.Var('tbatt_player_animal').GetFlagName]"
+  
+ TB_TITLE_THE_BLACK_KING:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_GRANT_THE_BLACK_KING:  "Выберите [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+ TB_REMOVE_THE_BLACK_KING:  "Удалить [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]"
+  
+ TB_TITLE_THE_BLACK_KING_OF_REALM:  "[GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] из [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_THE_BLACK_KING_OF_REALM:  "Выберите [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] из [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_THE_BLACK_KING_OF_REALM:  "Удалить [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')] из [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_THE_BLACK_BLADE_OF_REALM:  "Клинок [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_THE_BLACK_BLADE_OF_REALM:  "Выберите Клинок [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]."
+ TB_REMOVE_THE_BLACK_BLADE_OF_REALM:  "Удалить клинок [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Char.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_THE_BLACK_BLADE_OF_CAPITAL:  "Клинок [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+ TB_GRANT_THE_BLACK_BLADE_OF_CAPITAL:  "Выберите Клинок [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]."
+ TB_REMOVE_THE_BLACK_BLADE_OF_CAPITAL:  "Удалить клинок [GetPlayer.MakeScope.Var('tbatt_player_color').GetFlagName] [GetPlayer.MakeScope.Char.GetCapitalLocation.GetBaronyNameExplicitlyNoTooltip]"
+  
+ TB_TITLE_PLAYER_FIST_OF_REALM:  "Кулак [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_PLAYER_FIST_OF_REALM:  "Выберите кулак [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_PLAYER_FIST_OF_REALM:  "Удалить кулак [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_PLAYER_GUARDIAN_OF_REALM:  "Хранитель [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_PLAYER_GUARDIAN_OF_REALM:  "Выберите Стража [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_PLAYER_GUARDIAN_OF_REALM:  "Удалить стража [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_PLAYER_PROTECTOR_OF_REALM:  "Защитник [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_PLAYER_PROTECTOR_OF_REALM:  "Выберите защитника [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_PLAYER_PROTECTOR_OF_REALM:  "Удалить защитника [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+  
+ TB_TITLE_PLAYER_BLADE_OF_REALM:  "Клинок [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_PLAYER_BLADE_OF_REALM:  "Выберите клинок [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]."
+ TB_REMOVE_PLAYER_BLADE_OF_REALM:  "Удалить клинок [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+  
+ TB_TITLE_PLAYER_SHIELD_OF_REALM:  "Щит [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_PLAYER_SHIELD_OF_REALM:  "Выберите Щит [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]."
+ TB_REMOVE_PLAYER_SHIELD_OF_REALM:  "Удалить щит [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_PLAYER_WARDEN_OF_REALM:  "Страж [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_PLAYER_WARDEN_OF_REALM:  "Выберите Стража [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_PLAYER_WARDEN_OF_REALM:  "Удалить Стража [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_PLAYER_SAVIOR_OF_CULTURE:  "Спаситель [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_GRANT_PLAYER_SAVIOR_OF_CULTURE:  "Выберите Спасителя [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_REMOVE_PLAYER_SAVIOR_OF_CULTURE:  "Удалить Спасителя [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+  
+ TB_TITLE_PLAYER_PROTECTOR_OF_CULTURE:  "Защитник [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_GRANT_PLAYER_PROTECTOR_OF_CULTURE:  "Выберите защитника [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_REMOVE_PLAYER_PROTECTOR_OF_CULTURE:  "Удалить Защитника [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+  
+ TB_TITLE_PLAYER_GUARDIAN_OF_CULTURE:  "Хранитель [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_GRANT_PLAYER_GUARDIAN_OF_CULTURE:  "Выберите Стража [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]."
+ TB_REMOVE_PLAYER_GUARDIAN_OF_CULTURE:  "Удалить Хранителя [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+  
+ TB_TITLE_PLAYER_SHIELD_OF_CULTURE:  "Щит [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_GRANT_PLAYER_SHIELD_OF_CULTURE:  "Выберите Щит [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]."
+ TB_REMOVE_PLAYER_SHIELD_OF_CULTURE:  "Удалить Щит [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+  
+ TB_TITLE_PLAYER_BLADE_OF_CULTURE:  "Клинок [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_GRANT_PLAYER_BLADE_OF_CULTURE:  "Выберите Клинок [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]."
+ TB_REMOVE_PLAYER_BLADE_OF_CULTURE:  "Удалить Клинок [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+  
+ TB_TITLE_PLAYER_MIGHT_OF_CULTURE:  "Мощь [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+ TB_GRANT_PLAYER_MIGHT_OF_CULTURE:  "Выберите Мощь [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]."
+ TB_REMOVE_PLAYER_MIGHT_OF_CULTURE:  "Удалить Могущество [GetPlayer.GetCulture.GetCollectiveNounNoTooltip]"
+  
+ TB_TITLE_PLAYER_SON_OF_FATHER:  "Сын [GetPlayer.GetFather.GetFirstNameNoTooltip]"
+ TB_GRANT_PLAYER_SON_OF_FATHER:  "Выберите Сына [GetPlayer.GetFather.GetFirstNameNoTooltip]."
+ TB_REMOVE_PLAYER_SON_OF_FATHER:  "Удалить Сына [GetPlayer.GetFather.GetFirstNameNoTooltip]"
+  
+ TB_TITLE_PLAYER_BLOOD_OF_FATHER:  "Кровь [GetPlayer.GetFather.GetFirstNameNoTooltip]"
+ TB_GRANT_PLAYER_BLOOD_OF_FATHER:  "Выберите Кровь [GetPlayer.GetFather.GetFirstNameNoTooltip]."
+ TB_REMOVE_PLAYER_BLOOD_OF_FATHER:  "Удалить кровь [GetPlayer.GetFather.GetFirstNameNoTooltip]"
+  
+ TB_TITLE_PLAYER_SCION_OF_FATHER:  "Потомок [GetPlayer.GetFather.GetFirstNameNoTooltip]"
+ TB_GRANT_PLAYER_SCION_OF_FATHER:  "Выберите Отпрыска [GetPlayer.GetFather.GetFirstNameNoTooltip]."
+ TB_REMOVE_PLAYER_SCION_OF_FATHER:  "Удалить Отпрыска [GetPlayer.GetFather.GetFirstNameNoTooltip]"
+  
+ TB_TITLE_PLAYER_HAND_OF_JUSTICE:  "Рука правосудия"
+ TB_GRANT_PLAYER_HAND_OF_JUSTICE:  "Выберите «Рука правосудия»."
+ TB_REMOVE_PLAYER_HAND_OF_JUSTICE:  "Удалить «Руку правосудия»"
+  
+ TB_TITLE_PLAYER_WARDEN_OF_REALM:  "Страж [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_GRANT_PLAYER_WARDEN_OF_REALM:  "Выберите Стража [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+ TB_REMOVE_PLAYER_WARDEN_OF_REALM:  "Удалить Стража [GetPlayer.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]"
+  
+ TB_TITLE_PLAYER_VANQ_OF_UNB:  "Победитель неверующих"
+ TB_GRANT_PLAYER_VANQ_OF_UNB:  "Выберите победителя неверующих"
+ TB_REMOVE_PLAYER_VANQ_OF_UNB:  "Удалить «Покоритель неверующих»"
+  
+ TB_TITLE_PLAYER_BANE_OF_INFIDELS:  "Бич неверных"
+ TB_GRANT_PLAYER_BANE_OF_INFIDELS:  "Выберите «Проклятие неверных»."
+ TB_REMOVE_PLAYER_BANE_OF_INFIDELS:  "Удалить Проклятие неверных"
+  
+ TB_TITLE_PLAYER_CONQ_OF_INFIDELS:  "Победитель неверных"
+ TB_GRANT_PLAYER_CONQ_OF_INFIDELS:  "Выберите победителя неверных"
+ TB_REMOVE_PLAYER_CONQ_OF_INFIDELS:  "Удалить Победитель неверных"
+  
+ TB_TITLE_PLAYER_VANQ_OF_INFIDELS:  "Победитель неверных"
+ TB_GRANT_PLAYER_VANQ_OF_INFIDELS:  "Выберите победителя неверных"
+ TB_REMOVE_PLAYER_VANQ_OF_INFIDELS:  "Удалить «Победитель неверных»"

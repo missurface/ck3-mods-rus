@@ -1,0 +1,10 @@
+﻿l_korean:
+ appoint_left_flank_interaction: "왼쪽 측면 지도자 임명" #NT!
+ appoint_center_flank_interaction: "중앙 측면 리더 임명" #NT!
+ appoint_right_flank_interaction: "오른쪽 측면 리더 임명" #NT!
+ left_flank_commander_tooltip: "군대의 왼쪽 측면을 이끌 지휘관을 지정하세요. 숙련된 리더는 자신이 지휘하는 부대에 전술적 이점을 제공할 수 있습니다." #NT!
+ center_flank_leader_tooltip: "군대의 중앙 측면을 이끌 지휘관을 지정하세요. 숙련된 리더는 자신이 지휘하는 부대에 전술적 이점을 제공할 수 있습니다." #NT!
+ right_flank_leader_tooltip: "군대의 오른쪽 측면을 이끌 지휘관을 지정하세요. 숙련된 리더는 자신이 지휘하는 부대에 전술적 이점을 제공할 수 있습니다." #NT!
+  
+ remove_nick_or_flavor_from_character_interaction: "닉네임 또는 플레이버 텍스트 제거" #NT!
+ remove_nick_or_flavor_from_character_desc: "이 캐릭터에서 Tactical Battles 닉네임이나 플레이버 텍스트를 제거하세요." #NT!

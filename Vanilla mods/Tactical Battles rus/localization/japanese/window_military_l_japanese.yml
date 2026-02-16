@@ -1,0 +1,149 @@
+﻿l_japanese:
+ MILITARY_POSITIONS_TAB: "軍の階級"  #NT!
+ TBATT_TITLE_BANE_OF_DEVIL: "[Faith.DevilName] の悩み"  #NT!
+ TBATT_TITLE_VANQUISHER_OF_UNHOLY: "不浄の征服者"  #NT!
+ TBATT_TITLE_VANQUISHER_OF_WICKED: "邪悪の征服者"  #NT!
+ tbatt_title_protector_of_clergy: "[GetPlayer.MakeScope.Char.GetFaith.AltPriestTermPlural|U]のプロテクター"  #NT!
+ tbatt_title_lords_wrath: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] 怒り"  #NT!
+ tbatt_title_lords_fury: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] 怒り"  #NT!
+ tbatt_title_lords_might: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] かもしれない"  #NT!
+ tbatt_title_lords_vengeance: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] 復讐"  #NT!
+ tbatt_title_lords_blade: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] ブレード"  #NT!
+ tbatt_title_lords_shield: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] シールド"  #NT!
+ tbatt_title_lords_justice: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNameAlternatePossessive|U] 正義"  #NT!
+ tbatt_title_guardian_of_text: "[GetPlayer.MakeScope.Char.GetFaith.ReligiousText|U] の守護者"  #NT!
+ tbatt_title_protector_of_text: "[GetPlayer.MakeScope.Char.GetFaith.ReligiousText|U]のプロテクター"  #NT!
+ tbatt_title_blade_of_followers: "[GetPlayer.MakeScope.Char.GetFaith.Custom|U]のブレード"  #NT!
+ tbatt_title_wrath_of_god: "神の怒り"  #NT!
+ tbatt_title_gods_fury: "[GetPlayer.MakeScope.Char.GetFaith.HighGodNamePossessive|U] 怒り"  #NT!
+ tbatt_title_gods_wrath: "[GetPlayer.GetFaith.HighGodNamePossessive|U] 怒り"  #NT!
+ tbatt_title_blade_of_god: "[GetPlayer.GetFaith.HighGodName|U]のブレード"  #NT!
+ tbatt_title_shield_of_god: "[GetPlayer.GetFaith.HighGodName|U]の盾"  #NT!
+ tbatt_title_sword_of_wargod: "[GetPlayer.GetFaith.WarGodName|U]の剣"  #NT!
+ tbatt_title_blade_of_wargod: "[GetPlayer.GetFaith.WarGodName|U]のブレード"  #NT!
+ tbatt_title_might_of_wargod: "[GetPlayer.GetFaith.WarGodName|U]の力"  #NT!
+ tbatt_title_wrath_of_wargod: "[GetPlayer.GetFaith.WarGodName|U] の怒り"  #NT!
+ tbatt_title_fury_of_wargod: "[GetPlayer.GetFaith.WarGodName|U]の怒り"  #NT!
+ tbatt_title_blade_of_heaven: "[GetPlayer.GetFaith.PositiveAfterLife|U]のブレード"  #NT!
+ tbatt_title_shield_of_heaven: "[GetPlayer.GetFaith.PositiveAfterLife|U]の盾"  #NT!
+ tbatt_title_bearer_of_symbol: "[GetPlayer.GetFaith.ReligiousSymbol|U] の持ち主"  #NT!
+ tbatt_title_defender_of_symbol: "[GetPlayer.GetFaith.ReligiousSymbol|U] の擁護者"  #NT!
+ tbatt_title_protector_of_symbol: "[GetPlayer.GetFaith.ReligiousSymbol|U]のプロテクター"  #NT!
+ tbatt_title_vanquisher_of_unholy: "不浄の征服者"  #NT!
+ tbatt_title_vanquisher_of_wicked: "邪悪の征服者"  #NT!
+ tbatt_title_slayer_of_unholy: "不浄の殺し屋"  #NT!
+  
+ tbatt_military_title_fist: "[Character.GetPrimaryTitle.GetBaseNameNoTierNoTooltip]、[Character.GetPrimaryTitle.Custom('GetTierBaseTitleMale')]の拳"  #NT!
+  
+  
+#  # Grant Position Tooltips 
+#  tbatt_grant_bane_of_devil: "Bane of Satanの地位を付与する"  #NT!
+#  tbatt_grant_vanquisher_of_unholy: "不浄の征服者に地位を与える"  #NT!
+#  tbatt_grant_vanquisher_of_wicked: "邪悪の征服者に地位を与える"  #NT!
+#  tbatt_grant_protector_of_clergy: "聖職者の守護者の地位を付与する"  #NT!
+#  tbatt_grant_lords_wrath: "神の怒りの地位を与える"  #NT!
+#  tbatt_grant_lords_fury: "神の怒りの地位を与える"  #NT!
+#  tbatt_grant_lords_might: "神の力の位置を付与する"  #NT!
+#  tbatt_grant_lords_vengeance: "神の復讐の地位を与える"  #NT!
+#  tbatt_grant_lords_blade: "神の刃の地位を与える"  #NT!
+#  tbatt_grant_lords_shield: "神の盾の地位を与える"  #NT!
+#  tbatt_grant_lords_justice: "神の正義の地位を与える"  #NT!
+#  tbatt_grant_guardian_of_text: "聖書の守護者の地位を与える"  #NT!
+#  tbatt_grant_protector_of_text: "聖書の守護者の地位を与える"  #NT!
+#  tbatt_grant_blade_of_followers: "カトリック教徒の刃の地位を与える"  #NT!
+#  tbatt_grant_wrath_of_god: "神の怒りの地位を与える"  #NT!
+#  tbatt_grant_gods_fury: "神の怒りの地位を与える"  #NT!
+#  tbatt_grant_gods_wrath: "神の怒りの地位を与える"  #NT!
+#  tbatt_grant_blade_of_god: "神の刃の地位を与える"  #NT!
+#  tbatt_grant_shield_of_god: "神の盾の地位を与える"  #NT!
+#  tbatt_grant_sword_of_wargod: "戦神の剣の地位を与える"  #NT!
+#  tbatt_grant_blade_of_wargod: "Blade of Wargod の地位を付与する"  #NT!
+#  tbatt_grant_might_of_wargod: "ウォーゴッドの力を付与する"  #NT!
+#  tbatt_grant_wrath_of_wargod: "戦神の怒りの地位を付与"  #NT!
+#  tbatt_grant_fury_of_wargod: "戦神の怒りの地位を付与する"  #NT!
+#  tbatt_grant_blade_of_heaven: "Blade of Heavenの地位を付与"  #NT!
+#  tbatt_grant_shield_of_heaven: "天の盾の地位を与える"  #NT!
+#  tbatt_grant_bearer_of_symbol: "十字架の担ぎ手の地位を与える"  #NT!
+#  tbatt_grant_defender_of_symbol: "ディフェンダー・オブ・ザ・クロスの地位を与える"  #NT!
+#  tbatt_grant_protector_of_symbol: "プロテクター・オブ・ザ・クロスの地位を付与"  #NT!
+  
+#  # Remove Position Tooltips 
+#  tbatt_remove_bane_of_devil: "悪魔の災いを取り除く"  #NT!
+#  tbatt_remove_vanquisher_of_unholy: "不浄の征服者を削除する"  #NT!
+#  tbatt_remove_vanquisher_of_wicked: "邪悪の征服者を削除"  #NT!
+#  tbatt_remove_protector_of_clergy: "聖職者の守護者を外す"  #NT!
+#  tbatt_remove_lords_wrath: "神の怒りを取り除く"  #NT!
+#  tbatt_remove_lords_fury: "神の怒りを取り除く"  #NT!
+#  tbatt_remove_lords_might: "神の力を取り除く"  #NT!
+#  tbatt_remove_lords_vengeance: "神の復讐を取り除く"  #NT!
+#  tbatt_remove_lords_blade: "神の刃を外す"  #NT!
+#  tbatt_remove_lords_shield: "神の盾を外す"  #NT!
+#  tbatt_remove_lords_justice: "神の正義を取り除く"  #NT!
+#  tbatt_remove_guardian_of_text: "聖典の守護者を削除する"  #NT!
+#  tbatt_remove_protector_of_text: "経典の守護者を取り除く"  #NT!
+#  tbatt_remove_blade_of_followers: "カトリック教徒の刃を取り除く"  #NT!
+#  tbatt_remove_wrath_of_god: "神の怒りを取り除く"  #NT!
+#  tbatt_remove_gods_fury: "神の怒りを取り除く"  #NT!
+#  tbatt_remove_gods_wrath: "神の怒りを取り除く"  #NT!
+#  tbatt_remove_blade_of_god: "神の刃を外す"  #NT!
+#  tbatt_remove_shield_of_god: "神の盾を外す"  #NT!
+#  tbatt_remove_sword_of_wargod: "戦神の剣を外す"  #NT!
+#  tbatt_remove_blade_of_wargod: "戦神のブレードを削除する"  #NT!
+#  tbatt_remove_might_of_wargod: "戦神の力を取り除く"  #NT!
+#  tbatt_remove_wrath_of_wargod: "戦神の怒りを取り除く"  #NT!
+#  tbatt_remove_fury_of_wargod: "戦神の怒りを取り除く"  #NT!
+#  tbatt_remove_blade_of_heaven: "ブレイド・オブ・ヘブンを削除する"  #NT!
+#  tbatt_remove_shield_of_heaven: "天の盾を外す"  #NT!
+#  tbatt_remove_bearer_of_symbol: "十字架の担い手を削除する"  #NT!
+#  tbatt_remove_defender_of_symbol: "十字架の擁護者を削除する"  #NT!
+#  tbatt_remove_protector_of_symbol: "十字架のプロテクターを外す"  #NT!
+  
+ # Header Position Tooltips 
+ tbatt_header_bane_of_devil: "サタンの災い"  #NT!
+ tbatt_header_vanquisher_of_unholy: "不浄の征服者"  #NT!
+ tbatt_header_vanquisher_of_wicked: "邪悪の征服者"  #NT!
+ tbatt_header_protector_of_clergy: "例:\n長老の守護者\n聖職者の守護者\nサンガの守護者"  #NT!
+ guardian_of_the_clergy_tt: "例:\n長老の守護者\n聖職者の守護者\nサンガの守護者"  #NT!
+ tbatt_header_custodian_of_clergy: "例:\n長老の管理者\n聖職者の管理者\nサンガの管理者"  #NT!
+ tbatt_header_lords_wrath: "信仰に基づく例:\n主の怒り\n全父の怒り\n啓蒙者の怒り\n救世主の怒り\n天の父の怒り"  #NT!
+ tbatt_header_lords_fury: "信仰に基づく例:\n主の怒り\n全父の怒り\n啓蒙者の怒り\n救世主の怒り\n天の父の怒り"  #NT!
+ tbatt_header_lords_might: "信仰に基づく例:\n主の力\n全父の力\n啓蒙者の力\n救世主の力\n天の父の力"  #NT!
+ tbatt_header_lords_vengeance: "信仰に基づく例:\n主の復讐\n全父の復讐\n啓蒙者の復讐\​​n救世主の復讐\n天の父の復讐"  #NT!
+ tbatt_header_lords_blade: "信仰に基づく例:\nThe Lord's Blade\nThe Allfather's Blade\nThe Elightened's Blade\nThe Saviors's Blade\nHeavenly Father's Blade"  #NT!
+ tbatt_header_lords_shield: "信仰に基づく例:\n主の盾\nオールファーザーの盾\n啓蒙者の盾\n救世主の盾\n天の父の盾"  #NT!
+ tbatt_header_lords_justice: "信仰に基づく例:\n主の正義\n父なる者の正義\n啓蒙者の正義\n救世主の正義\n天の父の正義"  #NT!
+ tbatt_header_guardian_of_text: "信仰に基づく例:\n主の正義\n父なる者の正義\n啓蒙者の正義\n救世主の正義\n天の父の正義"  #NT!
+ tbatt_header_protector_of_text: "信仰に基づく例:\n聖書の守護者\n英雄物語の守護者\n偉大な伝説の守護者"  #NT!
+ tbatt_header_blade_of_followers: "信仰に基づく例:\nBlade of the Christians\nBlade of the Tengriists\nBlade of the Astarans"  #NT!
+ tbatt_header_wrath_of_god: "信仰に基づく例:\n神の怒り\nオーディンの怒り\n主の怒り\nアッラーの怒り\nロッドの怒り"  #NT!
+ tbatt_header_gods_fury: "信仰に基づく例:\n神の激怒\nオーディンの激怒\n主の激怒\nアッラーの激怒\nロッドの激怒"  #NT!
+ tbatt_header_gods_wrath: "信仰に基づく例:\n神の怒り\nオーディンの怒り\n主の怒り\nアッラーの怒り\nロッドの怒り"  #NT!
+ tbatt_header_blade_of_god: "信仰に基づく例:\n神の剣\nオーディンの剣\n主の剣\nアッラーの剣\nロッドの剣"  #NT!
+ tbatt_header_shield_of_god: "信仰に基づく例:\n神の盾\nオーディンの盾\n主の盾\nアッラーの盾\nロッドの盾"  #NT!
+ tbatt_header_sword_of_wargod: "信仰に基づく例:\n聖ジョージの剣\nティールの剣\nハドゥルの剣\nアッラーの剣\nイェシェ・ワルモの剣\nジャガナートの剣"  #NT!
+ tbatt_header_blade_of_wargod: "信仰に基づく例:\n聖ジョージの剣\nティールの剣\nハドゥルの剣\nアッラーの剣\nイェシェ・ワルモの剣\nジャガナートの剣"  #NT!
+ tbatt_header_might_of_wargod: "信仰に基づく例:\n聖ジョージの力\nティールの力\nハドゥルの力\nアッラーの力\nイェーシェ・ウォルモの力\nジャガナートの力"  #NT!
+ tbatt_header_wrath_of_wargod: "信仰に基づく例:\n聖ジョージの怒り\nティールの怒り\nハドゥルの怒り\nアッラーの怒り\nイェーシェ・ワルモの怒り\nジャガナートの怒り"  #NT!
+ tbatt_header_fury_of_wargod: "信仰に基づく例:\n聖ジョージの怒り\nティールの怒り\nハドゥルの怒り\nアッラーの怒り\nイェーシェ・ウォルモの怒り\nジャガナートの怒り"  #NT!
+ tbatt_header_blade_of_heaven: "信仰に基づく例:\n天の刃\nヴァルハラの刃\n永遠の蒼天の刃\nスヴァルガの刃"  #NT!
+ tbatt_header_shield_of_heaven: "信仰に基づく例:\n天の盾\nヴァルハラの盾\n永遠の蒼空の盾\nスヴァルガの盾"  #NT!
+ tbatt_header_bearer_of_symbol: "信仰に基づく例:\n十字架の担い手\nヴァルクナットの担い手\nオームの担い手\n光の十字架の担い手\nダルマチャクラの担い手\nシャハーダの担い手"  #NT!
+ tbatt_header_defender_of_symbol: "信仰に基づく例:\n十字架の擁護者\nヴァルクナットの擁護者\nオームの擁護者\n光の十字架の擁護者\nダルマチャクラの擁護者\nシャハーダの擁護者"  #NT!
+ tbatt_header_protector_of_symbol: "信仰に基づく例:\n十字架の守護者\nヴァルクナットの守護者\nオームの守護者\n光の十字架の守護者\nダルマチャクラの守護者\nシャハーダの守護者"  #NT!
+  
+ bane_of_infidels_tt: "信仰に基づく例:\n異教徒の災難\n部外者の災難\n野蛮人の災難\n異教徒の災難"  #NT!
+ vanq_of_infidels_tt: "信仰に基づく例:\n異教徒の征服者\n部外者の征服者\n野蛮人の征服者\n異教徒の征服者"  #NT!
+ conq_of_infidels_tt: "信仰に基づく例:\n異教徒の征服者\n部外者の征服者\n野蛮人の征服者\n異教徒の征服者"  #NT!
+ blade_of_catholics_tt: "信仰に基づく例:\nカトリック教徒のブレード\nマトゥリディスのブレード\nテングリストのブレード\nムワラディー教徒のブレード"  #NT!
+  
+ learn_commander_trait.0005.a: "異教徒"  #NT!
+ learn_commander_trait.0005.b: "異教徒"  #NT!
+ learn_commander_trait.0005.c: "部外者"  #NT!
+ learn_commander_trait.0005.d: "野蛮人"  #NT!
+  
+ tactical_training_events.01.t: "色をお選びください"  #NT!
+ tactical_training_events.02.t: "動物を選んでください"  #NT!
+ tactical_training_events.03.t: "あなたの敵は誰ですか？"  #NT!
+ tactical_training_events.1101.desc: "あなたは何色ですか？"  #NT!
+ tactical_training_events.1102.desc: "あなたは何の動物ですか？"  #NT!
+ tactical_training_events.1103.desc: "あなたの敵は誰ですか？"  #NT!

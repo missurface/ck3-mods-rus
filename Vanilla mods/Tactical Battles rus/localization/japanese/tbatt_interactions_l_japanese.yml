@@ -1,0 +1,10 @@
+﻿l_japanese:
+ appoint_left_flank_interaction: "左翼リーダーを任命する"  #NT!
+ appoint_center_flank_interaction: "センターフランクリーダーを任命する"  #NT!
+ appoint_right_flank_interaction: "右翼リーダーを任命する"  #NT!
+ left_flank_commander_tooltip: "軍の左翼を率いる指揮官を任命します。熟練したリーダーは、指揮下の部隊に戦術的な利点をもたらすことができます。"  #NT!
+ center_flank_leader_tooltip: "軍の中央側面を率いる指揮官を任命します。熟練したリーダーは、指揮下の部隊に戦術的な利点をもたらすことができます。"  #NT!
+ right_flank_leader_tooltip: "自軍の右翼を率いる指揮官を任命します。熟練したリーダーは、指揮下の部隊に戦術的な利点をもたらすことができます。"  #NT!
+  
+ remove_nick_or_flavor_from_character_interaction: "ニックネームまたはフレーバーテキストを削除する"  #NT!
+ remove_nick_or_flavor_from_character_desc: "このキャラクターからタクティカル バトルのニックネームまたはフレーバー テキストを削除します。"  #NT!

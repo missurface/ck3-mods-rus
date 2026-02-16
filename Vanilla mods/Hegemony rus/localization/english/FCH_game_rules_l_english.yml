@@ -1,0 +1,25 @@
+﻿# Game rule English localization by Guildar_
+
+l_english:
+ # These are the rules for the culture and religion laws:
+ rule_FCH_culture_religion:0 "Culture and Faith Title Laws"
+ setting_enabled_for_all:0 "Enabled for all tiers"
+ setting_enabled_for_all_desc:0 "Allows all tiers, kingdom or higher, to add unique culture and relegion only title laws."
+ setting_enabled_for_hegemonies:0 "Enabled for Hegemonies"
+ setting_enabled_for_hegemonies_desc:0 "Allows only hegemonies to add unique culture and relegion only title laws."
+ setting_disabled:0 "Disabled"
+ setting_disabled_desc:0 "Religion and culture only title laws are disabled."
+ # These are the rules for vassalization opinion:
+ rule_FCH_Vassalization_Opionion:0 "Vassalization Opinion"
+ setting_vassalization_opinion_normal:0 "Normal"
+ setting_vassalization_opinion_normal_desc:0 "Vassalization opinion for the potential vassal being a king or emperor is -200."
+ setting_vassalization_opinion_hegemony:0 "Hegemony"
+ setting_vassalization_opinion_hegemony_desc:0 "Vassalization opinion for the potential vassal being a king or emperor is 0 only for hegemonies."
+ setting_vassalization_opinion_no_opinion:0 "No Opinion"
+ setting_vassalization_opinion_no_opinion_desc:0 "Vassalization opinion for the potential vassal being a king or emperor is 0."
+ # These are the rules for who can form hegemonies:
+ rule_FCH_player_only:0 "Player Only Hegemonies"
+ setting_ai_allowed:0 "AI Allowed"
+ setting_ai_allowed_desc:0 "AI can form hegemonies."
+ setting_ai_not_allowed:0 "Player Only"
+ setting_ai_not_allowed_desc:0 "Only the player can form hegemonies."

@@ -1,0 +1,535 @@
+﻿l_polish:
+  
+ FLANK_COMMANDERS_TAB: "Dowódcy flanki"  #NT!
+ tactical_turn_and_kill_success_commander: "Odwróć się i zabij"  #NT!
+ tactical_turn_and_kill_success_commander_desc: "Armia tej postaci skutecznie zwabiła wroga i nagle zwróciła się przeciwko niemu, powodując ogromny szok na ich linii."  #NT!
+ tactical_turn_and_kill_success_troops: "Zabójczy szał"  #NT!
+ tactical_turn_and_kill_success_troops_desc: "Armia tej postaci wykorzystuje zszokowaną linię, przecinając zrozpaczoną linię wroga jak masło."  #NT!
+ tactical_turn_and_kill_success_enemy_commander: "Przynęta"  #NT!
+ tactical_turn_and_kill_success_enemy_commander_desc: "Dowódca ten dał się nabrać na zwód i ponosi ciężkie straty po tym, jak został zaskoczony nagłym odwróceniem sił."  #NT!
+ tactical_turn_and_kill_success_enemy_troops: "Zwabiony"  #NT!
+ tactical_turn_and_kill_success_enemy_troops_desc: "Oddziały tej postaci podążyły za przynętą i przeprowadziły niszczycielski kontratak, ponosząc ciężkie straty."  #NT!
+ tactical_turn_and_kill_failure_commander: "Wstrzymane"  #NT!
+ tactical_turn_and_kill_failure_commander_desc: "Próba zwodu tej postaci zakończyła się niepowodzeniem, gdyż wróg utrzymał pozycję i oparł się kontratakowi."  #NT!
+ tactical_turn_and_kill_failure_troops: "Stanowisko obronne"  #NT!
+ tactical_turn_and_kill_failure_troops_desc: "Nasi żołnierze ustawili silną linię obronną, ale nie udało im się wykorzystać manewru zwodu."  #NT!
+ tactical_turn_and_kill_failure_enemy_commander: "Solidna obrona"  #NT!
+ tactical_turn_and_kill_failure_enemy_commander_desc: "Dowódca ten przejrzał zwody i utrzymał zdyscyplinowaną kontrolę nad swoimi siłami."  #NT!
+ tactical_turn_and_kill_failure_enemy_troops: "Odstraszacze"  #NT!
+ tactical_turn_and_kill_failure_enemy_troops_desc: "Oddziały wroga odparły kontratak, utrzymując swój szyk przed nagłym odwróceniem."  #NT!
+  
+ tactical_maa_ambush_success_commander: "Czatownik"  #NT!
+ tactical_maa_ambush_success_commander_desc: "Dowódca ten skutecznie zaatakował wroga, zaskakując go."  #NT!
+ tactical_maa_ambush_success_troops: "Widząc Reda"  #NT!
+ tactical_maa_ambush_success_troops_desc: "Po udanej zasadzce nasi żołnierze są wściekli i atakują z zaciekłością."  #NT!
+ tactical_maa_ambush_success_enemy_commander: "Przyczajony"  #NT!
+ tactical_maa_ambush_success_enemy_commander_desc: "Dowódca został zaskoczony zasadzką i stara się zareagować."  #NT!
+ tactical_maa_ambush_success_enemy_troops: "Branie strat"  #NT!
+ tactical_maa_ambush_success_enemy_troops_desc: "Wrogie oddziały ponoszą ciężkie straty w wyniku zasadzki."  #NT!
+ tactical_maa_ambush_failure_commander: "Obrócony"  #NT!
+ tactical_maa_ambush_failure_commander_desc: "Dowódca ten skutecznie zmienił swoje siły, aby uniknąć zasadzki."  #NT!
+ tactical_maa_ambush_failure_troops: "Na moich piętach"  #NT!
+ tactical_maa_ambush_failure_troops_desc: "Nasi żołnierze usilnie starają się dotrzymać kroku po nieudanej zasadzce."  #NT!
+ tactical_maa_ambush_failure_enemy_commander: "Inteligentne instynkty"  #NT!
+ tactical_maa_ambush_failure_enemy_commander_desc: "Dowódca ten wykazał się szybkim myśleniem i uniknął zasadzki."  #NT!
+ tactical_maa_ambush_failure_enemy_troops: "W ataku"  #NT!
+  
+  
+ tactical_flank_breakoff_success_commander: "Rotacja armii"  #NT!
+ tactical_flank_breakoff_success_commander_desc: "Flanka pomyślnie obróciła się, aby zaatakować nowych wrogów lub zmienić pozycję w celu uzyskania przewagi."  #NT!
+ tactical_flank_breakoff_success_troops: "Gotowy do walki"  #NT!
+ tactical_flank_breakoff_success_troops_desc: "Żołnierze są zmotywowani i gotowi do walki na nowych pozycjach."  #NT!
+ tactical_flank_breakoff_success_enemy_commander: "Uleganie presji"  #NT!
+ tactical_flank_breakoff_success_enemy_commander_desc: "Wróg odczuwa presję, gdy nasza flanka zmienia pozycję przeciwko niemu."  #NT!
+ tactical_flank_breakoff_success_enemy_troops: "Wrogowie wzmocnieni"  #NT!
+ tactical_flank_breakoff_success_enemy_troops_desc: "Siły wroga są wzmacniane w obliczu manewru flankującego."  #NT!
+ tactical_flank_breakoff_failure_commander: "Ugrzęźnięty"  #NT!
+ tactical_flank_breakoff_failure_commander_desc: "Flanka ugrzęzła i nie była w stanie wykonać rotacji."  #NT!
+ tactical_flank_breakoff_failure_troops: "Nie można się rozłączyć"  #NT!
+ tactical_flank_breakoff_failure_troops_desc: "Żołnierze nie są w stanie odłączyć się od wroga i zmienić pozycji."  #NT!
+ tactical_flank_breakoff_failure_enemy_commander: "Utrzymuj ciśnienie"  #NT!
+ tactical_flank_breakoff_failure_enemy_commander_desc: "Wróg utrzymuje presję i uniemożliwia wycofanie się naszej flanki."  #NT!
+ tactical_flank_breakoff_failure_enemy_troops: "Miecze gotowe"  #NT!
+ tactical_flank_breakoff_failure_enemy_troops_desc: "Siły wroga są gotowe i zdeterminowane, aby utrzymać swoją pozycję."  #NT!
+  
+ tactical_center_breakoff_success_commander: "Rotacja armii"  #NT!
+ tactical_center_breakoff_success_commander_desc: "Centrum pomyślnie się obróciło, aby zaatakować nowych wrogów lub zmienić pozycję w celu uzyskania przewagi."  #NT!
+ tactical_center_breakoff_success_troops: "Gotowy do walki"  #NT!
+ tactical_center_breakoff_success_troops_desc: "Oddziały środkowe są zmotywowane i gotowe do walki na nowych pozycjach."  #NT!
+ tactical_center_breakoff_success_enemy_commander: "Uleganie presji"  #NT!
+ tactical_center_breakoff_success_enemy_commander_desc: "Wróg odczuwa presję, gdy nasze centrum ustawia się przeciwko niemu."  #NT!
+ tactical_center_breakoff_success_enemy_troops: "Wrogowie wzmocnieni"  #NT!
+ tactical_center_breakoff_success_enemy_troops_desc: "Siły wroga są wzmacniane w obliczu manewru środkowego."  #NT!
+ tactical_center_breakoff_failure_commander: "Ugrzęźnięty"  #NT!
+ tactical_center_breakoff_failure_commander_desc: "Centrum ugrzęzło i nie było w stanie wykonać obrotu."  #NT!
+ tactical_center_breakoff_failure_troops: "Nie można się rozłączyć"  #NT!
+ tactical_center_breakoff_failure_troops_desc: "Oddziały środkowe nie są w stanie odłączyć się od wroga i zmienić jego pozycji."  #NT!
+ tactical_center_breakoff_failure_enemy_commander: "Utrzymuj ciśnienie"  #NT!
+ tactical_center_breakoff_failure_enemy_commander_desc: "Wróg utrzymuje presję i uniemożliwia wycofanie się naszego centrum."  #NT!
+ tactical_center_breakoff_failure_enemy_troops: "Miecze gotowe"  #NT!
+ tactical_center_breakoff_failure_enemy_troops_desc: "Siły wroga są gotowe i zdeterminowane, aby utrzymać się na środku."  #NT!
+  
+ tactical_crashing_knights_success_commander: "Rozbijający się Rycerze"  #NT!
+ tactical_crashing_knights_success_commander_desc: "Szarża rycerzy skutecznie miażdży linię wroga niszczycielską siłą kawalerii."  #NT!
+ tactical_crashing_knights_success_troops: "Szarża Rycerska"  #NT!
+ tactical_crashing_knights_success_troops_desc: "Oddziały wraz z rycerzami ruszają naprzód, przedzierając się przez obronę wroga."  #NT!
+ tactical_crashing_knights_success_enemy_commander: "Rycerski atak"  #NT!
+ tactical_crashing_knights_success_enemy_commander_desc: "Dowódca jest przytłoczony niszczycielską szarżą rycerza."  #NT!
+ tactical_crashing_knights_success_enemy_troops: "Pod opieką Rycerza"  #NT!
+ tactical_crashing_knights_success_enemy_troops_desc: "Siły wroga zostają stratowane i rozgromione przez szarżujących rycerzy."  #NT!
+ tactical_crashing_knights_failure_commander: "Rycerze odparci"  #NT!
+ tactical_crashing_knights_failure_commander_desc: "Szarża rycerza została odparta przez silną obronę wroga."  #NT!
+ tactical_crashing_knights_failure_troops: "Rycerze powstrzymywani"  #NT!
+ tactical_crashing_knights_failure_troops_desc: "Oddziały wspierające nie mogą przebić się przez trzymanych na dystans rycerzy."  #NT!
+ tactical_crashing_knights_failure_enemy_commander: "Rycerze odparci"  #NT!
+ tactical_crashing_knights_failure_enemy_commander_desc: "Dowódca ten skutecznie odeprzeł szarżę rycerza."  #NT!
+ tactical_crashing_knights_failure_enemy_troops: "Rycerze powstrzymywani"  #NT!
+ tactical_crashing_knights_failure_enemy_troops_desc: "Siły wroga skutecznie powstrzymały szarżujących rycerzy."  #NT!
+ tactical_harrying_success_commander: "Błotniak"  #NT!
+ tactical_harrying_success_commander_desc: "Dowódca skutecznie nęka wroga szybkimi atakami i taktycznymi odwrotami."  #NT!
+ tactical_harrying_success_troops: "Uderz i uciekaj"  #NT!
+ tactical_harrying_success_troops_desc: "Żołnierze stosują szybką taktykę „uderz i uciekaj”, niszcząc wroga."  #NT!
+ tactical_harrying_success_enemy_commander: "Udaremniony"  #NT!
+ tactical_harrying_success_enemy_commander_desc: "Dowódca ten jest sfrustrowany ciągłymi szykanami i nie może zadać zdecydowanego ciosu."  #NT!
+ tactical_harrying_success_enemy_troops: "Ścigany"  #NT!
+ tactical_harrying_success_enemy_troops_desc: "Siły wroga są ścigane i nękane, niezdolne do stworzenia solidnej obrony."  #NT!
+ tactical_harrying_failure_commander: "Przypięty"  #NT!
+ tactical_harrying_failure_commander_desc: "Dręcząca taktyka dowódcy zawiodła i siły zostały teraz unieruchomione."  #NT!
+ tactical_harrying_failure_troops: "Pod presją"  #NT!
+ tactical_harrying_failure_troops_desc: "Żołnierze nie są w stanie utrzymać taktyki „uderz i uciekaj” i znajdują się obecnie pod dużą presją."  #NT!
+ tactical_harrying_failure_enemy_commander: "Nieustępliwy"  #NT!
+ tactical_harrying_failure_enemy_commander_desc: "Nieustanny pościg tego dowódcy dogonił nasze siły."  #NT!
+ tactical_harrying_failure_enemy_troops: "Żadnej ucieczki"  #NT!
+ tactical_harrying_failure_enemy_troops_desc: "Siły wroga naciskają mocno, a nasi żołnierze nie mają dokąd uciec."  #NT!
+  
+ tactical_maa_reinforce_success_commander: "Wzmocnione"  #NT!
+ tactical_maa_reinforce_success_troops: "Świeża Krew"  #NT!
+ tactical_maa_reinforce_success_enemy_commander: "Walka z świeżymi siłami"  #NT!
+ tactical_maa_reinforce_success_enemy_troops: "W obliczu ponownego ataku"  #NT!
+ tactical_maa_reinforce_failure_commander: "Ugrzęźnięty"  #NT!
+ tactical_maa_reinforce_failure_troops: "Przechwycony"  #NT!
+ tactical_maa_reinforce_failure_enemy_commander: "Szybkie myślenie"  #NT!
+ tactical_maa_reinforce_failure_enemy_troops: "Nie ma dla nas meczu"  #NT!
+  
+ tactical_knights_reinforce_success_commander: "Wzmocnione"  #NT!
+ tactical_knights_reinforce_success_commander_desc: "Posiłki rycerskie skutecznie wzmacniają główną linię bojową."  #NT!
+ tactical_knights_reinforce_success_troops: "Świeża Krew"  #NT!
+ tactical_knights_reinforce_success_troops_desc: "Przybywają świeże posiłki rycerzy i zwiększają morale."  #NT!
+ tactical_knights_reinforce_success_enemy_commander: "Walka z świeżymi siłami"  #NT!
+ tactical_knights_reinforce_success_enemy_commander_desc: "Dowódca ten musi stawić czoła dodatkowym rycerskim wzmocnieniom."  #NT!
+ tactical_knights_reinforce_success_enemy_troops: "W obliczu ponownego ataku"  #NT!
+ tactical_knights_reinforce_success_enemy_troops_desc: "Siły wroga zostają zaatakowane przez świeże posiłki rycerskie."  #NT!
+ tactical_knights_reinforce_failure_commander: "Ugrzęźnięty"  #NT!
+ tactical_knights_reinforce_failure_commander_desc: "Posiłki rycerskie ugrzęzły i nie dotarły na front."  #NT!
+ tactical_knights_reinforce_failure_troops: "Przechwycony"  #NT!
+ tactical_knights_reinforce_failure_troops_desc: "Posiłki rycerskie zostały przechwycone i odcięte od głównych sił."  #NT!
+ tactical_knights_reinforce_failure_enemy_commander: "Szybkie decyzje"  #NT!
+ tactical_knights_reinforce_failure_enemy_commander_desc: "Dowódca ten podjął szybkie decyzje o przechwyceniu posiłków naszych rycerzy."  #NT!
+ tactical_knights_reinforce_failure_enemy_troops: "Naciśnij Atak"  #NT!
+ tactical_knights_reinforce_failure_enemy_troops_desc: "Siły wroga kontynuują atak, podczas gdy nasi rycerze zostają przechwyceni."  #NT!
+  
+  
+ tactical_ferocious_charge_success_commander: "Okrutna Szarża"  #NT!
+ tactical_ferocious_charge_success_commander_desc: "Dowódca prowadzi zaciekłą szarżę, która przytłacza obronę wroga."  #NT!
+ tactical_ferocious_charge_success_troops: "Nie do zatrzymania"  #NT!
+ tactical_ferocious_charge_success_troops_desc: "Żołnierze szarżują naprzód z niepowstrzymanym impetem i zaciekłością."  #NT!
+ tactical_ferocious_charge_success_enemy_commander: "Przytłoczony"  #NT!
+ tactical_ferocious_charge_success_enemy_commander_desc: "Dowódca jest przytłoczony brutalnym atakiem."  #NT!
+ tactical_ferocious_charge_success_enemy_troops: "Zgnieciony"  #NT!
+ tactical_ferocious_charge_success_enemy_troops_desc: "Siły wroga zostają zmiażdżone przez przeważającą szarżę."  #NT!
+ tactical_ferocious_charge_failure_commander: "Szarża odparta"  #NT!
+ tactical_ferocious_charge_failure_commander_desc: "Zaciekła szarża została odparta przez zdecydowany opór wroga."  #NT!
+ tactical_ferocious_charge_failure_troops: "Wstrzymywany"  #NT!
+ tactical_ferocious_charge_failure_troops_desc: "Szarżujące oddziały zostały powstrzymane przez silną linię wroga."  #NT!
+ tactical_ferocious_charge_failure_enemy_commander: "Niezłomny"  #NT!
+ tactical_ferocious_charge_failure_enemy_commander_desc: "Dowódca ten pozostał nieugięty i utrzymywał linię obrony."  #NT!
+ tactical_ferocious_charge_failure_enemy_troops: "Stała firma"  #NT!
+ tactical_ferocious_charge_failure_enemy_troops_desc: "Siły wroga niewzruszenie stawiały czoła zaciekłemu szarżom."  #NT!
+  
+ tactical_diversion_success_commander: "Mistrz odwracania uwagi"  #NT!
+ tactical_diversion_success_commander_desc: "Taktyka dywersyjna dowódcy skutecznie dezorientuje wroga."  #NT!
+ tactical_diversion_success_troops: "Zdezorientowani wrogowie"  #NT!
+ tactical_diversion_success_troops_desc: "Wróg jest zdezorientowany i zdezorganizowany przez taktykę dywersyjną."  #NT!
+ tactical_diversion_success_enemy_commander: "Rozproszony"  #NT!
+ tactical_diversion_success_enemy_commander_desc: "Dowódca jest rozproszony przez zwód i traci koncentrację."  #NT!
+ tactical_diversion_success_enemy_troops: "Wrzucony w chaos"  #NT!
+ tactical_diversion_success_enemy_troops_desc: "Taktyczna dywersja powoduje chaos w siłach wroga."  #NT!
+ tactical_diversion_failure_commander: "Nieudane przekierowanie"  #NT!
+ tactical_diversion_failure_commander_desc: "Taktyka dywersyjna nie zmyliła wroga."  #NT!
+ tactical_diversion_failure_troops: "Nieporuszeni wrogowie"  #NT!
+ tactical_diversion_failure_troops_desc: "Wróg pozostał nieporuszony i skupiony pomimo próby dywersji."  #NT!
+  
+ tactical_hidden_flank_success_commander: "Ukryta flanka"  #NT!
+ tactical_hidden_flank_success_commander_desc: "Ukryty ruch na flance całkowicie zaskakuje wroga."  #NT!
+ tactical_hidden_flank_success_troops: "Atak z zaskoczenia"  #NT!
+ tactical_hidden_flank_success_troops_desc: "Nasi żołnierze przeprowadzają niszczycielski atak z zaskoczenia z ukrytej flanki."  #NT!
+ tactical_hidden_flank_success_enemy_commander: "flankowane"  #NT!
+ tactical_hidden_flank_success_enemy_commander_desc: "Dowódca zostaje zaskoczony, gdy pojawia się ukryta flanka."  #NT!
+ tactical_hidden_flank_success_enemy_troops: "Przyczajony"  #NT!
+ tactical_hidden_flank_success_enemy_troops_desc: "Siły wroga wpadają w zasadzkę z nieoczekiwanego kierunku."  #NT!
+ tactical_hidden_flank_failure_commander: "Flanka chybiła"  #NT!
+ tactical_hidden_flank_failure_commander_desc: "Ukryty manewr flanki nie zaskoczył wroga."  #NT!
+ tactical_hidden_flank_failure_troops: "Bez niespodzianki"  #NT!
+ tactical_hidden_flank_failure_troops_desc: "Ruch flankowy nie osiągnął wartości zaskoczenia i szoku."  #NT!
+ tactical_hidden_flank_failure_enemy_commander: "Zaalarmowany"  #NT!
+ tactical_hidden_flank_failure_enemy_commander_desc: "Dowódca ten został zaalarmowany o próbie flanki."  #NT!
+ tactical_hidden_flank_failure_enemy_troops: "Przygotowany"  #NT!
+ tactical_hidden_flank_failure_enemy_troops_desc: "Siły wroga były przygotowane i gotowe do ataku z flanki."  #NT!
+  
+ tactical_hidden_flank_encircle_failure_commander: "Okrążenie nie powiodło się"  #NT!
+ tactical_hidden_flank_encircle_failure_commander_desc: "Próba okrążenia nie powiodła się."  #NT!
+ tactical_hidden_flank_encircle_failure_troops: "Uwięziony"  #NT!
+ tactical_hidden_flank_encircle_failure_troops_desc: "Nasi żołnierze są uwięzieni i grozi im okrążenie."  #NT!
+ tactical_hidden_flank_encircle_failure_enemy_commander: "Wąska ucieczka"  #NT!
+ tactical_hidden_flank_encircle_failure_enemy_commander_desc: "Dowódca ten ledwo uniknął próby okrążenia."  #NT!
+ tactical_hidden_flank_encircle_failure_enemy_troops: "Uwolnienie się"  #NT!
+ tactical_hidden_flank_encircle_failure_enemy_troops_desc: "Siły wroga wyrywają się z próby okrążenia."  #NT!
+ tactical_hidden_flank_encircle_success_commander: "Okrążenie zakończone"  #NT!
+ tactical_hidden_flank_encircle_success_commander_desc: "Manewr okrążenia został zakończony – wróg został otoczony."  #NT!
+ tactical_hidden_flank_encircle_success_troops: "Otoczony"  #NT!
+ tactical_hidden_flank_encircle_success_troops_desc: "Nasze oddziały całkowicie otoczyły siły wroga."  #NT!
+ tactical_hidden_flank_encircle_success_enemy_commander: "Uwięziony"  #NT!
+ tactical_hidden_flank_encircle_success_enemy_commander_desc: "Dowódca zostaje uwięziony bez drogi ucieczki."  #NT!
+ tactical_hidden_flank_encircle_success_enemy_troops: "Żadnej ucieczki"  #NT!
+ tactical_hidden_flank_encircle_success_enemy_troops_desc: "Siły wroga są otoczone i nie ma wyjścia."  #NT!
+  
+ tactical_maa_charge_success_commander: "Elitarna Szarża"  #NT!
+ tactical_maa_charge_success_commander_desc: "Elitarne ciężkie jednostki szarżują pomyślnie, przedzierając się przez linie wroga."  #NT!
+ tactical_maa_charge_success_troops: "Jednostki pęknięć"  #NT!
+ tactical_maa_charge_success_troops_desc: "Elitarne jednostki Crack szarżują do przodu z niszczycielskim skutkiem."  #NT!
+ tactical_maa_charge_success_enemy_commander: "Rozbicie"  #NT!
+ tactical_maa_charge_success_enemy_commander_desc: "Dowódca ten doświadcza represji ze strony elitarnej szarży."  #NT!
+ tactical_maa_charge_success_enemy_troops: "Przełamanie linii"  #NT!
+ tactical_maa_charge_success_enemy_troops_desc: "Linie wroga łamią się pod naporem elitarnych jednostek."  #NT!
+ tactical_maa_charge_failure_commander: "Szarża odparta"  #NT!
+ tactical_maa_charge_failure_commander_desc: "Elitarna szarża została odparta przed przebiciem się."  #NT!
+ tactical_maa_charge_failure_troops: "Wstrzymywany"  #NT!
+ tactical_maa_charge_failure_troops_desc: "Elitarne jednostki zostały powstrzymane przez opór wroga."  #NT!
+ tactical_maa_charge_failure_enemy_commander: "Niezłomny"  #NT!
+ tactical_maa_charge_failure_enemy_commander_desc: "Dowódca ten pozostał niezłomny wobec szarży elity."  #NT!
+ tactical_maa_charge_failure_enemy_troops: "Stała firma"  #NT!
+ tactical_maa_charge_failure_enemy_troops_desc: "Siły wroga stanowczo sprzeciwiły się szarży elity."  #NT!
+  
+ tactical_knights_charge_success_commander: "Szarża Rycerzy"  #NT!
+ tactical_knights_charge_success_commander_desc: "Szarża rycerzy okazuje się zdecydowana i przebija się przez linie wroga."  #NT!
+ tactical_knights_charge_success_troops: "Lśniący ładunek"  #NT!
+ tactical_knights_charge_success_troops_desc: "Oddziały ruszają naprzód wraz z rycerzami w niszczycielskiej szarży."  #NT!
+ tactical_knights_charge_success_enemy_commander: "Pod naporem rycerza"  #NT!
+ tactical_knights_charge_success_enemy_commander_desc: "Dowódca ten cofa się pod naporem szarżujących rycerzy."  #NT!
+ tactical_knights_charge_success_enemy_troops: "Zmiażdżony przez Rycerzy"  #NT!
+ tactical_knights_charge_success_enemy_troops_desc: "Siły wroga zostają zmiażdżone przez szarżę ciężkich rycerzy."  #NT!
+ tactical_knights_charge_failure_commander: "Rycerze odparci"  #NT!
+ tactical_knights_charge_failure_commander_desc: "Szarża rycerzy została odparta i nie udało się jej przebić."  #NT!
+ tactical_knights_charge_failure_troops: "Rycerze powstrzymywani"  #NT!
+ tactical_knights_charge_failure_troops_desc: "Rycerzy powstrzymywała silna obrona wroga."  #NT!
+ tactical_knights_charge_failure_enemy_commander: "Rycerze odparci"  #NT!
+ tactical_knights_charge_failure_enemy_commander_desc: "Dowódca ten skutecznie odeprzeł rycerzy."  #NT!
+ tactical_knights_charge_failure_enemy_troops: "Rycerze powstrzymywani"  #NT!
+ tactical_knights_charge_failure_enemy_troops_desc: "Siły wroga nie ustępowały szarżującym rycerzom."  #NT!
+  
+ tactical_center_pullpack_success_commander: "Wyciągnięcie środka"  #NT!
+ tactical_center_pullpack_success_commander_desc: "Centrum wycofuje się i przyciąga wroga do przodu, wystawiając go na kontratak."  #NT!
+ tactical_center_pullpack_success_troops: "Przynęta"  #NT!
+ tactical_center_pullpack_success_troops_desc: "Nasze oddziały umiejętnie namawiają wroga do nadmiernego wysiłku."  #NT!
+ tactical_center_pullpack_success_enemy_commander: "Przeciążony"  #NT!
+ tactical_center_pullpack_success_enemy_commander_desc: "Ten dowódca przerósł swoje siły, podejmując wycofywanie się."  #NT!
+ tactical_center_pullpack_success_enemy_troops: "Utrata gruntu"  #NT!
+ tactical_center_pullpack_success_enemy_troops_desc: "Siły wroga tracą spójność, dążąc do wycofania się z przynętą."  #NT!
+ tactical_center_pullpack_failure_commander: "Wycofanie nie powiodło się"  #NT!
+ tactical_center_pullpack_failure_commander_desc: "Manewr wycofania nie zwabił wroga."  #NT!
+ tactical_center_pullpack_failure_troops: "Zablokowany"  #NT!
+ tactical_center_pullpack_failure_troops_desc: "Nasi żołnierze utknęli podczas próby wycofania."  #NT!
+ tactical_center_pullpack_failure_enemy_commander: "Utrzymanie ciśnienia"  #NT!
+ tactical_center_pullpack_failure_enemy_commander_desc: "Dowódca ten utrzymywał presję i zapobiegał wycofaniu."  #NT!
+ tactical_center_pullpack_failure_enemy_troops: "Trzymanie mocno"  #NT!
+ tactical_center_pullpack_failure_enemy_troops_desc: "Siły wroga nie puściły się i nie dały się nabrać na przynętę."  #NT!
+  
+ tactical_flank_pullpack_success_commander: "Wycofanie flanki"  #NT!
+ tactical_flank_pullpack_success_commander_desc: "Flanka skutecznie wycofuje się, aby zwabić wroga do nadmiernego rozciągnięcia."  #NT!
+ tactical_flank_pullpack_success_troops: "Przynęta"  #NT!
+ tactical_flank_pullpack_success_troops_desc: "Oddziały flankowe skutecznie popychają wroga do przodu."  #NT!
+ tactical_flank_pullpack_success_enemy_commander: "Przeciążony"  #NT!
+ tactical_flank_pullpack_success_enemy_commander_desc: "Wróg nadmiernie się rozciągnął, próbując wycofać się z flanki."  #NT!
+ tactical_flank_pullpack_success_enemy_troops: "Utrata gruntu"  #NT!
+ tactical_flank_pullpack_success_enemy_troops_desc: "Siły flanki wroga tracą spójność w wyniku pościgu z przynętą."  #NT!
+ tactical_flank_pullpack_failure_commander: "Wycofanie nie powiodło się"  #NT!
+ tactical_flank_pullpack_failure_commander_desc: "Wycofanie się z flanki nie zwabiło wroga."  #NT!
+ tactical_flank_pullpack_failure_troops: "Zablokowany"  #NT!
+ tactical_flank_pullpack_failure_troops_desc: "Flanka utknęła i nie mogła się wycofać."  #NT!
+ tactical_flank_pullpack_failure_enemy_commander: "Utrzymanie ciśnienia"  #NT!
+ tactical_flank_pullpack_failure_enemy_commander_desc: "Dowódca ten wywierał nieustanną presję."  #NT!
+ tactical_flank_pullpack_failure_enemy_troops: "Trzymanie mocno"  #NT!
+ tactical_flank_pullpack_failure_enemy_troops_desc: "Siły flanki wroga nie poddawały się próbie wycofania."  #NT!
+  
+ tactical_feint_success_commander: "Mistrz oszustwa"  #NT!
+ tactical_feint_success_commander_desc: "Zwód dowódcy skutecznie oszukuje wroga i rozbija jego szyk."  #NT!
+ tactical_feint_success_troops: "Zwodzenie wrogów"  #NT!
+ tactical_feint_success_troops_desc: "Nasi żołnierze wykonują doskonały zwód, pozostawiając wroga zdezorientowanego."  #NT!
+ tactical_feint_success_enemy_commander: "Oszukany"  #NT!
+ tactical_feint_success_enemy_commander_desc: "Dowódca daje się zwieść manewrowi zwodu."  #NT!
+ tactical_feint_success_enemy_troops: "Wrzucony w chaos"  #NT!
+ tactical_feint_success_enemy_troops_desc: "W wyniku oszustwa siły wroga popadają w chaos."  #NT!
+ tactical_feint_failure_commander: "Nieudany zwód"  #NT!
+ tactical_feint_failure_commander_desc: "Zwód nie zdołał oszukać wroga."  #NT!
+ tactical_feint_failure_troops: "Nieporuszeni wrogowie"  #NT!
+ tactical_feint_failure_troops_desc: "Wróg pozostał niewzruszony i czujny na zwód."  #NT!
+ tactical_feint_failure_enemy_commander: "Niezrażony"  #NT!
+ tactical_feint_failure_enemy_commander_desc: "Dowódca ten przejrzał zwód i pozostał nieustraszony."  #NT!
+ tactical_feint_failure_enemy_troops: "Stała firma"  #NT!
+ tactical_feint_failure_enemy_troops_desc: "Siły wroga nie ustępowały pomimo próby zwodu."  #NT!
+  
+ tactical_flanking_success_commander: "Manewr flankujący"  #NT!
+ tactical_flanking_success_commander_desc: "Udany manewr flankujący stawia wroga w niekorzystnej sytuacji."  #NT!
+ tactical_flanking_success_troops: "Atak z zaskoczenia"  #NT!
+ tactical_flanking_success_troops_desc: "Nasze wojska przeprowadzają niespodziewany atak z flanki."  #NT!
+ tactical_flanking_success_enemy_commander: "flankowane"  #NT!
+ tactical_flanking_success_enemy_commander_desc: "Dowódca ten został złapany na pozycji flankującej."  #NT!
+ tactical_flanking_success_enemy_troops: "Przyczajony"  #NT!
+ tactical_flanking_success_enemy_troops_desc: "Siły wroga wpadają w zasadzkę w wyniku manewru flankującego."  #NT!
+ tactical_flanking_failure_commander: "Flanka chybiła"  #NT!
+ tactical_flanking_failure_commander_desc: "Manewr flankujący nie zaskoczył wroga."  #NT!
+ tactical_flanking_failure_troops: "Bez niespodzianki"  #NT!
+ tactical_flanking_failure_troops_desc: "Atak z flanki nie przyniósł zaskoczenia."  #NT!
+ tactical_flanking_failure_enemy_commander: "Zaalarmowany"  #NT!
+ tactical_flanking_failure_enemy_commander_desc: "Dowódca ten został zaalarmowany o próbie flanki."  #NT!
+ tactical_flanking_failure_enemy_troops: "Przygotowany"  #NT!
+ tactical_flanking_failure_enemy_troops_desc: "Siły wroga były przygotowane na atak z flanki."  #NT!
+  
+ tactical_hit_and_run_success_commander: "Uderz i uciekaj"  #NT!
+ tactical_hit_and_run_success_commander_desc: "Szybka taktyka „uderz i uciekaj” skutecznie nęka wroga."  #NT!
+ tactical_hit_and_run_success_troops: "Szybkie Uderzenia"  #NT!
+ tactical_hit_and_run_success_troops_desc: "Żołnierze wykonują szybkie ataki i taktyczne odwroty."  #NT!
+ tactical_hit_and_run_success_enemy_commander: "Udaremniony"  #NT!
+ tactical_hit_and_run_success_enemy_commander_desc: "Dowódca jest sfrustrowany ciągłym nękaniem."  #NT!
+ tactical_hit_and_run_success_enemy_troops: "Ścigany"  #NT!
+ tactical_hit_and_run_success_enemy_troops_desc: "Siły wroga są ścigane i nękane."  #NT!
+ tactical_hit_and_run_failure_commander: "Przypięty"  #NT!
+ tactical_hit_and_run_failure_commander_desc: "Taktyka „uderz i uciekaj” zawiodła i siły zostały unieruchomione."  #NT!
+ tactical_hit_and_run_failure_troops: "Pod presją"  #NT!
+ tactical_hit_and_run_failure_troops_desc: "Żołnierze znajdują się pod silną presją i nie mogą się wycofać."  #NT!
+ tactical_hit_and_run_failure_enemy_commander: "Nieustępliwy"  #NT!
+ tactical_hit_and_run_failure_enemy_commander_desc: "Dowódca ten nieustannie goni."  #NT!
+ tactical_hit_and_run_failure_enemy_troops: "Żadnej ucieczki"  #NT!
+ tactical_hit_and_run_failure_enemy_troops_desc: "Siły wroga naciskają mocno i nie ma możliwości ucieczki."  #NT!
+  
+ tactical_false_gap_success_commander: "Fałszywa luka"  #NT!
+ tactical_false_gap_success_commander_desc: "Fałszywa przerwa w liniach skutecznie wabi wroga w pułapkę."  #NT!
+ tactical_false_gap_success_troops: "Zwabiony"  #NT!
+ tactical_false_gap_success_troops_desc: "Wróg zostaje zwabiony w fałszywą lukę i nasze wojska uderzają."  #NT!
+ tactical_false_gap_success_enemy_commander: "Uwięziony"  #NT!
+ tactical_false_gap_success_enemy_commander_desc: "Ten dowódca został uwięziony w fałszywej luce."  #NT!
+ tactical_false_gap_success_enemy_troops: "Przyczajony"  #NT!
+ tactical_false_gap_success_enemy_troops_desc: "Siły wroga wpadają w zasadzkę po upadku w fałszywą lukę."  #NT!
+ tactical_false_gap_failure_commander: "Uniknięto luki"  #NT!
+ tactical_false_gap_failure_commander_desc: "Wróg przejrzał fałszywą lukę i ominął ją."  #NT!
+ tactical_false_gap_failure_troops: "Żadnej zasadzki"  #NT!
+ tactical_false_gap_failure_troops_desc: "Fałszywa luka nie zwabiła wroga w zasadzkę."  #NT!
+ tactical_false_gap_failure_enemy_commander: "Ostrożny"  #NT!
+ tactical_false_gap_failure_enemy_commander_desc: "Dowódca ten zachował ostrożność i uniknął pułapki."  #NT!
+ tactical_false_gap_failure_enemy_troops: "Na straży"  #NT!
+ tactical_false_gap_failure_enemy_troops_desc: "Siły wroga pozostały na straży i ominęły fałszywą lukę."  #NT!
+  
+  
+ tactical_encircle_breakoff_success_commander: "Wrogowie otoczeni"  #NT!
+ tactical_encircle_breakoff_success_commander_desc: "Armia wroga zostaje skutecznie otoczona bez możliwości ucieczki."  #NT!
+ tactical_encircle_breakoff_success_troops: "Żadnej ucieczki"  #NT!
+ tactical_encircle_breakoff_success_troops_desc: "Nasze wojska otoczyły wroga - nie ma dla nich ucieczki."  #NT!
+ tactical_encircle_breakoff_success_enemy_commander: "Otoczony"  #NT!
+ tactical_encircle_breakoff_success_enemy_commander_desc: "Dowódca zastaje swoje siły całkowicie otoczone."  #NT!
+ tactical_encircle_breakoff_success_enemy_troops: "Uwięziony"  #NT!
+ tactical_encircle_breakoff_success_enemy_troops_desc: "Siły wroga są uwięzione i otoczone bez wyjścia."  #NT!
+ tactical_encircle_breakoff_failure_commander: "Okrążenie nie powiodło się"  #NT!
+ tactical_encircle_breakoff_failure_commander_desc: "Próba okrążenia nie powiodła się."  #NT!
+ tactical_encircle_breakoff_failure_troops: "Uwolnienie się"  #NT!
+ tactical_encircle_breakoff_failure_troops_desc: "Nasze oddziały wyrywają się z próby okrążenia."  #NT!
+ tactical_encircle_breakoff_failure_enemy_commander: "Wąska ucieczka"  #NT!
+ tactical_encircle_breakoff_failure_enemy_commander_desc: "Dowódca ten ledwo uniknął próby okrążenia."  #NT!
+ tactical_encircle_breakoff_failure_enemy_troops: "Ucieczka"  #NT!
+ tactical_encircle_breakoff_failure_enemy_troops_desc: "Siły wroga uciekają przed próbą okrążenia."  #NT!
+  
+ tactical_flank_breakoff_success_commander: "Rotacja flanki"  #NT!
+ tactical_flank_breakoff_success_commander_desc: "Flanka pomyślnie obraca się i wycofuje, aby zaatakować nowe pozycje."  #NT!
+ tactical_flank_breakoff_success_troops: "Gotowy do walki"  #NT!
+ tactical_flank_breakoff_success_troops_desc: "Oddziały flankowe są gotowe i chętne do zaatakowania nowych celów."  #NT!
+ tactical_flank_breakoff_success_enemy_commander: "Uleganie presji"  #NT!
+ tactical_flank_breakoff_success_enemy_commander_desc: "Dowódca ten odczuwa nacisk obracającej się flanki."  #NT!
+ tactical_flank_breakoff_success_enemy_troops: "Wrogowie wzmocnieni"  #NT!
+ tactical_flank_breakoff_success_enemy_troops_desc: "Oddziały flanki wroga są wzmacniane, aby stawić czoła rotacyjnemu atakowi."  #NT!
+ tactical_flank_breakoff_failure_commander: "Ugrzęźnięty"  #NT!
+ tactical_flank_breakoff_failure_commander_desc: "Flanka ugrzęzła i nie mogła się obracać."  #NT!
+ tactical_flank_breakoff_failure_troops: "Nie można się rozłączyć"  #NT!
+ tactical_flank_breakoff_failure_troops_desc: "Oddziały flankowe nie mogą wycofać się z walki."  #NT!
+ tactical_flank_breakoff_failure_enemy_commander: "Utrzymuj ciśnienie"  #NT!
+ tactical_flank_breakoff_failure_enemy_commander_desc: "Dowódca ten utrzymuje nacisk na naszą flankę, aby zapobiec rotacji."  #NT!
+ tactical_flank_breakoff_failure_enemy_troops: "Miecze gotowe"  #NT!
+ tactical_flank_breakoff_failure_enemy_troops_desc: "Siły flanki wroga są gotowe i uniemożliwiają nam wycofanie się."  #NT!
+  
+ tactical_press_advantage_success_commander: "Naciśnięcie Przewagi"  #NT!
+ tactical_press_advantage_success_commander_desc: "Dowódca skutecznie wykorzystuje ich przewagę i przebija się."  #NT!
+ tactical_press_advantage_success_troops: "Pęd"  #NT!
+ tactical_press_advantage_success_troops_desc: "Nasze wojska mają rozmach i zdecydowanie nacierają naprzód."  #NT!
+ tactical_press_advantage_success_enemy_commander: "Utrata gruntu"  #NT!
+ tactical_press_advantage_success_enemy_commander_desc: "Ten dowódca traci pozycję, gdy wykorzystujemy naszą przewagę."  #NT!
+ tactical_press_advantage_success_enemy_troops: "Na tylnej stopie"  #NT!
+ tactical_press_advantage_success_enemy_troops_desc: "Gdy idziemy do przodu, siły wroga są w tyle."  #NT!
+ tactical_press_advantage_failure_commander: "Utracony pęd"  #NT!
+ tactical_press_advantage_failure_commander_desc: "Próba wykorzystania przewagi straciła impet."  #NT!
+ tactical_press_advantage_failure_troops: "Zablokowany"  #NT!
+ tactical_press_advantage_failure_troops_desc: "Nasz postęp zatrzymał się i stracił dynamikę."  #NT!
+ tactical_press_advantage_failure_enemy_commander: "Przegrupowano"  #NT!
+ tactical_press_advantage_failure_enemy_commander_desc: "Dowódca ten przegrupował i ustabilizował linię."  #NT!
+ tactical_press_advantage_failure_enemy_troops: "Trzymanie mocno"  #NT!
+ tactical_press_advantage_failure_enemy_troops_desc: "Siły wroga niewzruszenie opierają się naszemu natarciu."  #NT!
+  
+ tactical_flooding_success_troops: "Przytłaczające liczby"  #NT!
+ tactical_flooding_success_troops_desc: "Nasza przeważająca liczebność zalewa pozycję wroga."  #NT!
+ tactical_flooding_success_commander: "Przytłoczony"  #NT!
+ tactical_flooding_success_commander_desc: "Dowódca jest przytłoczony ogromną liczbą."  #NT!
+ tactical_flooding_success_enemy_troops: "Zgnieciony"  #NT!
+ tactical_flooding_success_enemy_troops_desc: "Siły wroga zostają zmiażdżone pod ciężarem przeważającej liczby."  #NT!
+ tactical_flooding_success_enemy_commander: "Brak dopasowania"  #NT!
+ tactical_flooding_success_enemy_commander_desc: "Wróg nie może się równać z naszą przeważającą siłą."  #NT!
+ tactical_flooding_failure_troops: "Wstrzymywany"  #NT!
+ tactical_flooding_failure_troops_desc: "Nasza ofensywa zostaje wstrzymana pomimo przewagi liczebnej."  #NT!
+ tactical_flooding_failure_commander: "Odparty"  #NT!
+ tactical_flooding_failure_commander_desc: "Ofensywa dowódcy zostaje odparta."  #NT!
+ tactical_flooding_failure_enemy_troops: "Stała firma"  #NT!
+ tactical_flooding_failure_enemy_troops_desc: "Siły wroga stanowczo stawiają czoła przeważającej liczebności."  #NT!
+ tactical_flooding_failure_enemy_commander: "Niezłomny"  #NT!
+ tactical_flooding_failure_enemy_commander_desc: "Ten dowódca stoi niezachwianie w obliczu powodzi."  #NT!
+  
+ tactical_reserve_breakoff_success_commander: "Rezerwy zaangażowane"  #NT!
+ tactical_reserve_breakoff_success_commander_desc: "Dowódca z powodzeniem przydziela rezerwy, aby zmienić przebieg bitwy."  #NT!
+ tactical_reserve_breakoff_success_troops: "Świeże Siły"  #NT!
+ tactical_reserve_breakoff_success_troops_desc: "Świeże siły rezerwowe są zaangażowane i zwiększają naszą siłę bojową."  #NT!
+ tactical_reserve_breakoff_success_enemy_commander: "Zaangażowane rezerwy"  #NT!
+ tactical_reserve_breakoff_success_enemy_commander_desc: "Wróg musi zaangażować swoje rezerwy, aby stawić czoła naszemu atakowi."  #NT!
+ tactical_reserve_breakoff_success_enemy_troops: "W obliczu ponownego ataku"  #NT!
+ tactical_reserve_breakoff_success_enemy_troops_desc: "Siły wroga stoją w obliczu ponownego ataku z naszych rezerw."  #NT!
+ tactical_reserve_breakoff_failure_commander: "Rezerwy utrzymywane"  #NT!
+ tactical_reserve_breakoff_failure_commander_desc: "Zaangażowanie dowódcy w rezerwę nie powiodło się."  #NT!
+ tactical_reserve_breakoff_failure_troops: "Przechwycony"  #NT!
+ tactical_reserve_breakoff_failure_troops_desc: "Nasze rezerwy zostały przechwycone i uniemożliwiono im przedostanie się na front."  #NT!
+ tactical_reserve_breakoff_failure_enemy_commander: "Szybkie myślenie"  #NT!
+ tactical_reserve_breakoff_failure_enemy_commander_desc: "Wróg wykazał się szybkością myślenia i przechwycił nasze rezerwy."  #NT!
+ tactical_reserve_breakoff_failure_enemy_troops: "Nie ma dla nas meczu"  #NT!
+ tactical_reserve_breakoff_failure_enemy_troops_desc: "Siły wroga nie ustępowały naszym zobowiązaniom dotyczącym rezerw."  #NT!
+  
+ tactical_hold_strong_success_commander: "Trzymanie się mocno"  #NT!
+ tactical_hold_strong_success_commander_desc: "Dowódca utrzymuje ich linię silną przeciwko wszelkim atakom."  #NT!
+ tactical_hold_strong_success_troops: "Niezłomny"  #NT!
+ tactical_hold_strong_success_troops_desc: "Nasi żołnierze trzymają się niewzruszenie i nie chcą się złamać."  #NT!
+ tactical_hold_strong_success_enemy_commander: "Udaremniony"  #NT!
+ tactical_hold_strong_success_enemy_commander_desc: "Ten dowódca jest sfrustrowany naszą niezniszczalną obroną."  #NT!
+ tactical_hold_strong_success_enemy_troops: "Nie można się złamać"  #NT!
+ tactical_hold_strong_success_enemy_troops_desc: "Siły wroga nie są w stanie przebić się przez naszą linię."  #NT!
+ tactical_hold_strong_failure_commander: "Linie zerwane"  #NT!
+ tactical_hold_strong_failure_commander_desc: "Linie dowódcy zostały przerwane przez atak wroga."  #NT!
+ tactical_hold_strong_failure_troops: "Naruszony"  #NT!
+ tactical_hold_strong_failure_troops_desc: "Nasze linie zostały przełamane przez wroga."  #NT!
+ tactical_hold_strong_failure_enemy_commander: "Wyłom"  #NT!
+ tactical_hold_strong_failure_enemy_commander_desc: "Wróg dokonał przełomu w naszej obronie."  #NT!
+ tactical_hold_strong_failure_enemy_troops: "Miażdżący postęp"  #NT!
+ tactical_hold_strong_failure_enemy_troops_desc: "Siły wroga nacierają z miażdżącym impetem."  #NT!
+  
+ tactical_organized_retreat_success_commander: "Zorganizowane rekolekcje"  #NT!
+ tactical_organized_retreat_success_commander_desc: "Dowódca organizuje zorganizowany odwrót, aby zachować siły."  #NT!
+ tactical_organized_retreat_success_troops: "Uporządkowane wycofanie"  #NT!
+ tactical_organized_retreat_success_troops_desc: "Nasze wojska przeprowadzają uporządkowane wycofywanie się, minimalizując straty."  #NT!
+ tactical_organized_retreat_success_enemy_commander: "Wycofujący się wrogowie"  #NT!
+ tactical_organized_retreat_success_enemy_commander_desc: "Wróg wycofuje się w dobrym stanie - może się przegrupować."  #NT!
+ tactical_organized_retreat_success_enemy_troops: "Dążenie"  #NT!
+ tactical_organized_retreat_success_enemy_troops_desc: "Siły wroga ścigają, ale odwrót pozostaje nienaruszony."  #NT!
+ tactical_organized_retreat_failure_commander: "Kierowane"  #NT!
+ tactical_organized_retreat_failure_commander_desc: "Odwrót przerodził się w pogrom z ciężkimi stratami."  #NT!
+ tactical_organized_retreat_failure_troops: "Zdezorganizowany"  #NT!
+ tactical_organized_retreat_failure_troops_desc: "Odwrót stał się zdezorganizowany i chaotyczny."  #NT!
+ tactical_organized_retreat_failure_enemy_commander: "Trasa osiągnięta"  #NT!
+ tactical_organized_retreat_failure_enemy_commander_desc: "Dowódca ten dokonał całkowitej porażki."  #NT!
+ tactical_organized_retreat_failure_enemy_troops: "Pościg"  #NT!
+ tactical_organized_retreat_failure_enemy_troops_desc: "Siły wroga ścigają nasze uciekające oddziały."  #NT!
+  
+ tactical_screen_retreat_success_commander: "Ekranowane odosobnienie"  #NT!
+ tactical_screen_retreat_success_commander_desc: "Siły osłonowe osłaniają odwrót, pozwalając większości sił na ucieczkę."  #NT!
+ tactical_screen_retreat_success_troops: "Obejmuje wycofanie"  #NT!
+ tactical_screen_retreat_success_troops_desc: "Nasze siły przeprowadzają osłonowy odwrót z osłoną."  #NT!
+ tactical_screen_retreat_success_enemy_commander: "Wycofujący się wrogowie"  #NT!
+ tactical_screen_retreat_success_enemy_commander_desc: "Wróg wycofuje się za zasłoną obronną."  #NT!
+ tactical_screen_retreat_success_enemy_troops: "Dążenie"  #NT!
+ tactical_screen_retreat_success_enemy_troops_desc: "Siły wroga ścigają, ale napotykają silną osłonę obronną."  #NT!
+ tactical_screen_retreat_failure_commander: "Odwrót odsłonięty"  #NT!
+ tactical_screen_retreat_failure_commander_desc: "Siły osłonowe zawiodły i odwrót został odsłonięty."  #NT!
+ tactical_screen_retreat_failure_troops: "Brak osłony"  #NT!
+ tactical_screen_retreat_failure_troops_desc: "Nasz odwrót nie ma osłony i jest bezbronny."  #NT!
+ tactical_screen_retreat_failure_enemy_commander: "Nieustępliwy"  #NT!
+ tactical_screen_retreat_failure_enemy_commander_desc: "Wróg bezlitośnie ściga odsłonięty odwrót."  #NT!
+ tactical_screen_retreat_failure_enemy_troops: "Pościg"  #NT!
+ tactical_screen_retreat_failure_enemy_troops_desc: "Siły wroga ścigają nasze odsłonięte oddziały."  #NT!
+  
+ tactical_encircled_slaughter_success_commander: "Otoczony i wymordowany"  #NT!
+ tactical_encircled_slaughter_success_commander_desc: "Otoczeni wrogowie są zabijani bez litości i ucieczki."  #NT!
+ tactical_encircled_slaughter_success_troops: "Żadnej ucieczki"  #NT!
+ tactical_encircled_slaughter_success_troops_desc: "Wróg nie ma dokąd uciec – całkowita zagłada."  #NT!
+ tactical_encircled_slaughter_success_enemy_commander: "Uwięziony"  #NT!
+ tactical_encircled_slaughter_success_enemy_commander_desc: "Ten dowódca jest uwięziony i nie ma dokąd się wycofać."  #NT!
+ tactical_encircled_slaughter_success_enemy_troops: "Otoczony"  #NT!
+ tactical_encircled_slaughter_success_enemy_troops_desc: "Siły wroga są otoczone i zabijane."  #NT!
+ tactical_encircled_slaughter_failure_commander: "Okrążenie przerwane"  #NT!
+ tactical_encircled_slaughter_failure_commander_desc: "Nieprzyjaciel przedarł się przez okrążenie i uciekł."  #NT!
+ tactical_encircled_slaughter_failure_troops: "Uwolnienie się"  #NT!
+ tactical_encircled_slaughter_failure_troops_desc: "Naszym oddziałom nie udało się powstrzymać wroga, gdy się uwolnił."  #NT!
+ tactical_encircled_slaughter_failure_enemy_commander: "Wąska ucieczka"  #NT!
+ tactical_encircled_slaughter_failure_enemy_commander_desc: "Dowódca ten ledwo uniknął pułapki okrążającej."  #NT!
+ tactical_encircled_slaughter_failure_enemy_troops: "Ucieczka"  #NT!
+ tactical_encircled_slaughter_failure_enemy_troops_desc: "Siły wroga uciekają z okrążenia."  #NT!
+  
+ tactical_taking_prisoners_success_commander: "Branie więźniów"  #NT!
+ tactical_taking_prisoners_success_commander_desc: "Dowódca z powodzeniem porywa żołnierzy wroga dla okupu i informacji wywiadowczych."  #NT!
+ tactical_taking_prisoners_success_troops: "Przechwytywanie wrogów"  #NT!
+ tactical_taking_prisoners_success_troops_desc: "Nasi żołnierze porywają żołnierzy wroga i biorą ich do niewoli."  #NT!
+ tactical_taking_prisoners_success_enemy_commander: "Złapany"  #NT!
+ tactical_taking_prisoners_success_enemy_commander_desc: "Ten dowódca traci żołnierzy do schwytania."  #NT!
+ tactical_taking_prisoners_success_enemy_troops: "Wzięci jeńcy"  #NT!
+ tactical_taking_prisoners_success_enemy_troops_desc: "Żołnierze wroga są brani jako jeńcy wojenni."  #NT!
+ tactical_taking_prisoners_failure_commander: "Więźniowie uciekli"  #NT!
+ tactical_taking_prisoners_failure_commander_desc: "Więźniowie uciekli lub zostali uratowani przez siły wroga."  #NT!
+ tactical_taking_prisoners_failure_troops: "Nieudane przechwytywanie"  #NT!
+ tactical_taking_prisoners_failure_troops_desc: "Naszym oddziałom nie udało się schwytać żołnierzy wroga."  #NT!
+ tactical_taking_prisoners_failure_enemy_commander: "Uniknął schwytania"  #NT!
+ tactical_taking_prisoners_failure_enemy_commander_desc: "Wróg uniknął schwytania i utrzymał swoje siły."  #NT!
+ tactical_taking_prisoners_failure_enemy_troops: "Wymknął się"  #NT!
+ tactical_taking_prisoners_failure_enemy_troops_desc:0 "Enemy soldiers slipped away and avoided capture. 
+  
+  
+ tactical_submitted_in_duel_commander: "W rękach wrogów"  #NT!
+ tactical_submitted_in_duel_commander_desc: "Ten dowódca został schwytany po pokonaniu go w pojedynczej walce i jest teraz więźniem."  #NT!
+  
+ tactical_center_router_commander: "Router Centrum"  #NT!
+ tactical_center_router_commander_desc: "Dowódca ten pomyślnie rozgromił centrum sił wroga."  #NT!
+ tactical_left_router_commander: "Router lewicy"  #NT!
+ tactical_left_router_commander_desc: "Dowódca ten pomyślnie rozbił lewą flankę sił wroga."  #NT!
+ tactical_right_router_commander: "Router prawicy"  #NT!
+ tactical_right_router_commander_desc: "Dowódca ten pomyślnie rozgromił prawą flankę sił wroga."  #NT!
+  
+ tactical_commander_switched_commander: "Nowy dowódca"  #NT!
+ tactical_commander_switched_commander_desc: "Nowy dowódca przejął kontrolę nad siłami."  #NT!
+  
+ tactical_commander_switched_troops: "Zmiana dowódcy"  #NT!
+ tactical_commander_switched_troops_desc: "Żołnierze oswajają się z nowym dowódcą."  #NT!
+  
+ tactical_enemy_taking_captives: "Polowanie na okup"  #NT!
+ tactical_enemy_taking_captives_desc: "Armia wroga aktywnie stara się pojmać przywódców wroga dla okupu, zmniejszając ich waleczność w walce."  #NT!
+  
+ tactical_encircled_army_commander: "Uwięziona flanka"  #NT!
+ tactical_encircled_army_commander_desc: "Armia tego dowódcy uwięziła flankę wroga i pozostawiła go bez drogi ucieczki."  #NT!
+  
+ tactical_knight_commander_killer_commander: "Komendant Zabójca"  #NT!
+  
+ tactical_knight_defeated_commander_commander: "Pokonano dowódcę flanki"  #NT!
+ tactical_knight_defeated_commander_troops: "Inspirujący Lider"  #NT!
+ tactical_knight_defeated_commander_enemy_commander: "Zdemoralizowany"  #NT!
+ tactical_knight_defeated_commander_enemy_troops: "Utrata Serca"  #NT!
+  
+ tactical_player_military_title: "Przydomek"  #NT!
+ tactical_player_military_title_desc: "Postać ta posiada przydomek, czyli przydomek odróżniający ją od rówieśników."  #NT!
+ tactical_successful_maa_move: "Skuteczne jednostki crackujące"  #NT!

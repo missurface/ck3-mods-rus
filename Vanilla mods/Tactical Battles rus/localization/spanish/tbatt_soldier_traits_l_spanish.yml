@@ -1,0 +1,286 @@
+﻿l_spanish:
+  
+ # Huscarl 
+ trait_tbat_soldier_huscarl: "Capitán Huscarl"  #NT!
+ tbat_soldier_huscarl_desc: "Este soldado fue ascendido de una unidad de élite de Huscarls después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_huscarl_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Huscarls después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Landsknecht 
+ trait_tbat_soldier_landsknecht: "Capitán Landsknecht"  #NT!
+ tbat_soldier_landsknecht_desc: "Este soldado fue ascendido de una unidad de élite de Landsknechts después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_landsknecht_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Landsknechts después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Longbowmen 
+ trait_tbat_soldier_longbowmen: "Capitán de arqueros largos"  #NT!
+ tbat_soldier_longbowmen_desc: "Este soldado fue ascendido de una unidad de élite de arqueros después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_longbowmen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Longbowmen después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Goedendag 
+ trait_tbat_soldier_goedendag: "Capitán Goedendag"  #NT!
+ tbat_soldier_goedendag_desc: "Este soldado fue ascendido de una unidad de élite de la milicia de Goedendag después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_goedendag_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de la milicia de Goedendag después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Gendarme 
+ trait_tbat_soldier_gendarme: "Capitán de gendarme"  #NT!
+ tbat_soldier_gendarme_desc: "Este soldado fue ascendido de una unidad de élite de gendarmes después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_gendarme_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de gendarmes después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Chasseur 
+ trait_tbat_soldier_chasseur: "Capitán cazador"  #NT!
+ tbat_soldier_chasseur_desc: "Este soldado fue ascendido de una unidad de élite de Cazadores después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_chasseur_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Cazadores después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Picchieri 
+ trait_tbat_soldier_picchieri: "Capitán Picchieri"  #NT!
+ tbat_soldier_picchieri_desc: "Este soldado fue ascendido de una unidad de élite de Picchieri después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_picchieri_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Picchieri después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Praetorian 
+ trait_tbat_soldier_praetorian: "Capitán pretoriano"  #NT!
+ tbat_soldier_praetorian_desc: "Este soldado fue ascendido de una unidad de élite de pretorianos después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_praetorian_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de pretorianos después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Caballero 
+ trait_tbat_soldier_caballero: "Capitán Caballero"  #NT!
+ tbat_soldier_caballero_desc: "Este soldado fue ascendido de una unidad de élite de Caballeros después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_caballero_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Caballeros después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Cataphract 
+ trait_tbat_soldier_cataphract: "Capitán Catafracta"  #NT!
+ tbat_soldier_cataphract_desc: "Este soldado fue ascendido de una unidad de élite de Catafractos después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_cataphract_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Cataphracts después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Monaspa 
+ trait_tbat_soldier_monaspa: "Capitán Monaspa"  #NT!
+ tbat_soldier_monaspa_desc: "Este soldado fue ascendido de una unidad de élite de Monaspa después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_monaspa_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Monaspa después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Hobelar 
+ trait_tbat_soldier_hobelar: "Capitán Hobelar"  #NT!
+ tbat_soldier_hobelar_desc: "Este soldado fue ascendido de una unidad de élite de Hobelars después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_hobelar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Hobelars después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Schiltron 
+ trait_tbat_soldier_schiltron: "Capitán Schiltrón"  #NT!
+ tbat_soldier_schiltron_desc: "Este soldado fue ascendido de una unidad de élite de Schiltrons después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_schiltron_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Schiltrons después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Metsanvartija 
+ trait_tbat_soldier_metsanvartija: "Capitán Metsanvartija"  #NT!
+ tbat_soldier_metsanvartija_desc: "Este soldado fue ascendido de una unidad de élite de Metsanvartija después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_metsanvartija_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Metsanvartija después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Horse Archers 
+ trait_tbat_soldier_horse_archers: "Capitán de arqueros a caballo"  #NT!
+ tbat_soldier_horse_archers_desc: "Este soldado fue ascendido de una unidad de élite de Arqueros a Caballo después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de arqueros a caballo después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Mubarizun 
+ trait_tbat_soldier_mubarizun: "Capitán Mubarizún"  #NT!
+ tbat_soldier_mubarizun_desc: "Este soldado fue ascendido de una unidad de élite de Mubarizun después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_mubarizun_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Mubarizun después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Ayyar 
+ trait_tbat_soldier_ayyar: "Capitán Ayyar"  #NT!
+ tbat_soldier_ayyar_desc: "Este soldado fue ascendido de una unidad de élite de Ayyar después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_ayyar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Ayyar después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Druzhina 
+ trait_tbat_soldier_druzhina: "Capitán Druzhina"  #NT!
+ tbat_soldier_druzhina_desc: "Este soldado fue ascendido de una unidad de élite de Druzhina después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_druzhina_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Druzhina después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Hussar 
+ trait_tbat_soldier_hussar: "Capitán húsar"  #NT!
+ tbat_soldier_hussar_desc: "Este soldado fue ascendido de una unidad de élite de Húsares después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_hussar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Húsares después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Horn Warrior 
+ trait_tbat_soldier_horn_warrior: "Capitán Guerrero Cuerno"  #NT!
+ tbat_soldier_horn_warrior_desc: "Este soldado fue ascendido de una unidad de élite de Horn Warriors después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_horn_warrior_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Horn Warriors después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Bush Hunter 
+ trait_tbat_soldier_bush_hunter: "Capitán cazador de arbustos"  #NT!
+ tbat_soldier_bush_hunter_desc: "Este soldado fue ascendido de una unidad de élite de Bush Hunters después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_bush_hunter_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Bush Hunters después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Shomer 
+ trait_tbat_soldier_shomer: "Capitán Shomer"  #NT!
+ tbat_soldier_shomer_desc: "Este soldado fue ascendido de una unidad de élite de Shomer después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_shomer_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Shomer después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Khandayat 
+ trait_tbat_soldier_khandayat: "Capitán Khandayat"  #NT!
+ tbat_soldier_khandayat_desc: "Este soldado fue ascendido de una unidad de élite de Khandayat después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_khandayat_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Khandayat después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Garudas 
+ trait_tbat_soldier_garudas: "Capitán Garudas"  #NT!
+ tbat_soldier_garudas_desc: "Este soldado fue ascendido de una unidad de élite de Garudas después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_garudas_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Garudas después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Mountaineer 
+ trait_tbat_soldier_mountaineer: "Capitán montañero"  #NT!
+ tbat_soldier_mountaineer_desc: "Este soldado fue ascendido de una unidad de élite de montañeros después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_mountaineer_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de montañeros después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Sahel Horsemen 
+ trait_tbat_soldier_sahel_horsemen: "Capitán de Jinetes del Sahel"  #NT!
+ tbat_soldier_sahel_horsemen_desc: "Este soldado fue ascendido de una unidad de élite de los Jinetes del Sahel después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_sahel_horsemen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Jinetes del Sahel después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Guinea Warrior 
+ trait_tbat_soldier_guinea_warrior: "Capitán guerrero de Guinea"  #NT!
+ tbat_soldier_guinea_warrior_desc: "Este soldado fue ascendido de una unidad de élite de Guerreros de Guinea después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_guinea_warrior_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Guerreros de Guinea después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Sarawit 
+ trait_tbat_soldier_sarawit: "Capitán Sarawit"  #NT!
+ tbat_soldier_sarawit_desc: "Este soldado fue ascendido de una unidad de élite de Sarawit después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_sarawit_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Sarawit después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Abudrar 
+ trait_tbat_soldier_abudrar: "Capitán Abudrar"  #NT!
+ tbat_soldier_abudrar_desc: "Este soldado fue ascendido de una unidad de élite de Abudrar después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_abudrar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Abudrar después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Zbrojnosh 
+ trait_tbat_soldier_zbrojnosh: "Capitán Zbrojnosh"  #NT!
+ tbat_soldier_zbrojnosh_desc: "Este soldado fue ascendido de una unidad de élite de Zbrojnosh después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_zbrojnosh_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Zbrojnosh después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Palace Guards 
+ trait_tbat_soldier_palace_guards: "Capitán de la Guardia de Palacio"  #NT!
+ tbat_soldier_palace_guards_desc: "Este soldado fue ascendido de una unidad de élite de la Guardia de Palacio después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_palace_guards_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Guardias de Palacio después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Shenbigong 
+ trait_tbat_soldier_shenbigong: "Capitán Shenbigong"  #NT!
+ tbat_soldier_shenbigong_desc: "Este soldado fue ascendido de una unidad de élite de Shenbigong después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_shenbigong_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Shenbigong después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Mulaththamun 
+ trait_tbat_soldier_mulaththamun: "Capitán Mulaththamun"  #NT!
+ tbat_soldier_mulaththamun_desc: "Este soldado fue ascendido de una unidad de élite de Mulaththamun después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_mulaththamun_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Mulaththamun después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Archers of the Nile 
+ trait_tbat_soldier_archers_of_the_nile: "Capitán Arqueros del Nilo"  #NT!
+ tbat_soldier_archers_of_the_nile_desc: "Este soldado fue ascendido de una unidad de élite de Arqueros del Nilo después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_archers_of_the_nile_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Arqueros del Nilo después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Paiks 
+ trait_tbat_soldier_paiks: "Capitán Paiks"  #NT!
+ tbat_soldier_paiks_desc: "Este soldado fue ascendido de una unidad de élite de Paiks después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_paiks_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Paiks después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Guanch Vaulter 
+ trait_tbat_soldier_guanch_vaulter: "Capitán de saltador guanch"  #NT!
+ tbat_soldier_guanch_vaulter_desc: "Este soldado fue ascendido de una unidad de élite de Guanch Vaulters después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_guanch_vaulter_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Guanch Vaulters después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Ayrudzi 
+ trait_tbat_soldier_ayrudzi: "Capitán Ayrudzi"  #NT!
+ tbat_soldier_ayrudzi_desc: "Este soldado fue ascendido de una unidad de élite de Ayrudzi después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_ayrudzi_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Ayrudzi después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Conrois 
+ trait_tbat_soldier_conrois: "Capitán Conrois"  #NT!
+ tbat_soldier_conrois_desc: "Este soldado fue ascendido de una unidad de élite de Conrois después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_conrois_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Conrois después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Akritai 
+ trait_tbat_soldier_akritai: "Capitán Akritai"  #NT!
+ tbat_soldier_akritai_desc: "Este soldado fue ascendido de una unidad de élite de Akritai después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_akritai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Akritai después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Ballistrai 
+ trait_tbat_soldier_ballistrai: "Capitán Ballistrai"  #NT!
+ tbat_soldier_ballistrai_desc: "Este soldado fue ascendido de una unidad de élite de Ballistrai después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_ballistrai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Ballistrai después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Skoutatoi 
+ trait_tbat_soldier_skoutatoi: "Capitán Skoutatoi"  #NT!
+ tbat_soldier_skoutatoi_desc: "Este soldado fue ascendido de una unidad de élite de Skoutatoi después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_skoutatoi_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Skoutatoi después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Varangian Guards 
+ trait_tbat_soldier_varangian_guards: "Capitán de la Guardia Varega"  #NT!
+ tbat_soldier_varangian_guards_desc: "Este soldado fue ascendido de una unidad de élite de la Guardia Varega después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_varangian_guards_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Guardias Varangianos después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Handpicked Faithful 
+ trait_tbat_soldier_handpicked_faithful: "Capitán fiel cuidadosamente elegido"  #NT!
+ tbat_soldier_handpicked_faithful_desc: "Este soldado fue ascendido de una unidad de élite de Handpicked Faithful después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_handpicked_faithful_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Handpicked Faithful después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Fire Lancers 
+ trait_tbat_soldier_fire_lancers: "Capitán de lanceros de fuego"  #NT!
+ tbat_soldier_fire_lancers_desc: "Este soldado fue ascendido de una unidad de élite de Fire Lancers después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_fire_lancers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Fire Lancers después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Gakgung Archers 
+ trait_tbat_soldier_gakgung_archers: "Capitán de arqueros Gakgung"  #NT!
+ tbat_soldier_gakgung_archers_desc: "Este soldado fue ascendido de una unidad de élite de Arqueros Gakgung después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_gakgung_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Arqueros Gakgung después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Ballista Elephant 
+ trait_tbat_soldier_ballista_elephant: "Capitán Elefante Balista"  #NT!
+ tbat_soldier_ballista_elephant_desc: "Este soldado fue ascendido de una unidad de élite de Elefantes Balistas después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_ballista_elephant_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Ballista Elephants después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Pesilat Warriors 
+ trait_tbat_soldier_pesilat_warriors: "Capitán de los Guerreros Pesilat"  #NT!
+ tbat_soldier_pesilat_warriors_desc: "Este soldado fue ascendido de una unidad de élite de Guerreros Pesilat después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_pesilat_warriors_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Pesilat Warriors después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Samurai 
+ trait_tbat_soldier_samurai: "Capitán samurái"  #NT!
+ tbat_soldier_samurai_desc: "Este soldado fue ascendido de una unidad de élite de samuráis después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_samurai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Samurai después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Japanese Horse Archers 
+ trait_tbat_soldier_japanese_horse_archers: "Capitán de arqueros a caballo japoneses"  #NT!
+ tbat_soldier_japanese_horse_archers_desc: "Este soldado fue ascendido de una unidad de élite de arqueros a caballo japoneses después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_japanese_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de arqueros a caballo japoneses después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Emishi Horse Archers 
+ trait_tbat_soldier_emishi_horse_archers: "Capitán de arqueros a caballo Emishi"  #NT!
+ tbat_soldier_emishi_horse_archers_desc: "Este soldado fue ascendido de una unidad de élite de Emishi Horse Archers después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_emishi_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Emishi Horse Archers después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Warrior Monks 
+ trait_tbat_soldier_warrior_monks: "Capitán de los monjes guerreros"  #NT!
+ tbat_soldier_warrior_monks_desc: "Este soldado fue ascendido de una unidad de élite de Monjes Guerreros después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_warrior_monks_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Monjes Guerreros después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Zhanmadao Infantry 
+ trait_tbat_soldier_zhanmadao_infantry: "Capitán de infantería Zhanmadao"  #NT!
+ tbat_soldier_zhanmadao_infantry_desc: "Este soldado fue ascendido de una unidad de élite de la Infantería Zhanmadao después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_zhanmadao_infantry_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de la Infantería Zhanmadao después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Tiefutu 
+ trait_tbat_soldier_tiefutu: "Capitán Tiefutu"  #NT!
+ tbat_soldier_tiefutu_desc: "Este soldado fue ascendido de una unidad de élite de Tiefutu después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_tiefutu_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Tiefutu después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Black Armor Cavalry 
+ trait_tbat_soldier_black_armor_cavalry: "Capitán de Caballería con Armadura Negra"  #NT!
+ tbat_soldier_black_armor_cavalry_desc: "Este soldado fue ascendido de una unidad de élite de Caballería con Armadura Negra después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_black_armor_cavalry_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Caballería con Armadura Negra después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Burenjia 
+ trait_tbat_soldier_burenjia: "Capitán Burenjia"  #NT!
+ tbat_soldier_burenjia_desc: "Este soldado fue ascendido de una unidad de élite de Burenjia después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_burenjia_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Burenjia después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Rocket Carts 
+ trait_tbat_soldier_rocket_carts: "Capitán de carros de cohetes"  #NT!
+ tbat_soldier_rocket_carts_desc: "Este soldado fue ascendido de una unidad de élite de Rocket Carts después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_rocket_carts_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Rocket Carts después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+  
+ # Ordo Riders Horse Archers 
+ trait_tbat_soldier_ordo_riders_horse_archers: "Capitán de los arqueros a caballo de los jinetes del Ordo"  #NT!
+ tbat_soldier_ordo_riders_horse_archers_desc: "Este soldado fue ascendido de una unidad de élite de Ordo Riders Horse Archers después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!
+ trait_tbat_soldier_ordo_riders_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] fue ascendido de una unidad de élite de Ordo Riders Horse Archers después de haber demostrado ser fundamental para el éxito de un regimiento en la batalla. Su presencia en la batalla inspira a quienes los rodean a realizar mayores hazañas con las armas."  #NT!

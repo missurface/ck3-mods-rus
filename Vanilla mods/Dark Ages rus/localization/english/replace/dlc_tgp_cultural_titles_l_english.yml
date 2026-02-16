@@ -1,0 +1,213 @@
+﻿l_english: 
+ ##################################################
+ # Cultural Titles
+ estate_holder_male_japanese: "Tōshu" # 当主
+ estate_holder_female_japanese: "Lady"
+ 
+
+ baron_administrative_male_japanese: "#tier0 Gunji#!" # 郡司
+ baron_administrative_female_japanese: "#tier0 $baron_administrative_male_japanese$#!"
+ barony_administrative_japanese: "Kōri"	# 郡
+ barony_theocracy_japanese_buddhism_religion: "Jisharyō" # 寺社領
+ barony_theocracy_shintoism_religion: "Jinja" # 神社
+
+ # Ritsuryō
+ spouse_administrative_female_japanese: "Lady"
+ count_administrative_male_japanese: "#tier1 Kokushi#!" # 国司
+ count_administrative_female_japanese: "#tier1 $count_administrative_male_japanese$#!"
+ spouse_administrative_female: "Lady"
+ county_administrative_japanese: "Kuni" # 国
+ duke_administrative_male_japanese: "#tier2 $count_administrative_male_japanese$#!"
+ duke_administrative_female_japanese: "#tier2 $count_administrative_female_japanese$#!"
+ duchy_administrative_japanese: "Chihō" # 地方
+ king_administrative_male_japanese: "#tier3 Sochi#!" # 帥
+ king_administraiive_female_japanese: "#tier3 $king_administrative_male_japanese$#!"
+ kingdom_administrative_japanese: "Fu" # 府
+
+ # Sōryō
+ count_feudal_male_japanese: "#tier1 Sōryō#!" # 惣領
+ count_feudal_female_japanese: "#tier1 Lady#!"
+ county_feudal_japanese: "Bushidan" # 武士団
+ duke_feudal_male_japanese: "#tier2 Tōryo#!"	# 棟梁
+ duke_feudal_female_japanese: "#tier2 $duke_feudal_male_japanese$#!"
+ duchy_feudal_japanese: "Ichizoku" # 一族
+ king_feudal_male_japanese: "#tier3 Tandai#!" # 探題
+ king_feudal_female_japanese: "#tier3 $king_feudal_male_japanese$#!"
+ kingdom_feudal_japanese: "Fu" # 府
+
+ # Chrysanthemum
+ king_tenno_male_japanese: "#tier3 Ten'nō#!" # 天皇
+ king_tenno_female_japanese: "#tier3 $king_tenno_male_japanese$#!"
+ queen_kogo_female_japanese: "#tier3 Kōgō#!" # 皇后
+ prince_tenno_male_japanese: "Shin'nō" # 親王
+ princess_tenno_female_japanese: "Naishin'nō" # 内親王
+ tenno_empress_dowager: "Kōtaigō" # 皇太后
+ 
+ # Japan
+ emperor_administrative_male_japanese: "#tier4 Kampaku#!" # 関白
+ emperor_administrative_female_japanese: "#tier4 $emperor_administrative_male_japanese$#!"
+ emperor_shogun_male_japanese: "#tier4 Shōgun#!" # 将軍
+ emperor_shogun_female_japanese: "#tier4 $emperor_shogun_male_japanese$#!"
+ emperor_shogun_male_japanese_feudal: "#tier4 $emperor_shogun_male_japanese$#!"
+ emperor_shogun_female_japanese_feudal: "#tier4 $emperor_shogun_female_japanese$#!"
+ emperor_daijo_daijin_male_japanese_feudal: "#tier4 Daijō-daijin#!" # 太政大臣
+ emperor_daijo_daijin_female_japanese_feudal: "#tier4 $emperor_daijo_daijin_male_japanese_feudal$#!"
+ empire_administration_japanese: "Administration" # 政権
+ empire_shogunate_japanese: "Shōgunate" # 幕府
+ emperor_joko_male_japanese: "#tier4 Jōkō#!" # 上皇
+ emperor_joko_female_japanese: "#tier4 $emperor_joko_male_japanese$#!"
+ estate_holder_joko_male_japanese: "$emperor_joko_male_japanese$"
+ estate_holder_joko_female_japanese: "$estate_holder_joko_male_japanese$"
+ emperor_tenno_male_japanese: "#tier4 $king_tenno_male_japanese$#!"
+ emperor_tenno_female_japanese: "#tier4 $king_tenno_female_japanese$#!"
+ emperor_tenno_male_japanese_flag: "#tier4 $king_tenno_male_japanese$#!"
+ emperor_tenno_female_japanese_flag: "#tier4 $king_tenno_female_japanese$#!"
+ empire_tenno_japanese: "Empire"
+ councillor_court_chaplain_japanese_buddhism_religion: "Oshō" # 和尚
+ 
+ # Fallback
+ count_male_japanese: "#tier1 Daimyō#!" # 大名
+ count_female_japanese: "#tier1 $count_male_japanese$#!"
+ duke_male_japanese: "#tier2 Grand Daimyō#!" # 大大名
+ duke_female_japanese: "#tier2 $duke_male_japanese$#!"
+ king_male_japanese: "#tier3 Tandai#!" # 探題
+ king_female_japanese: "#tier3 $king_male_japanese$#!"
+
+ # EMISHI
+ baron_male_emishi: "#tier0 Osa#!" # 長
+ baron_female_emishi: "#tier0 $baron_male_emishi$#!"
+ barony_emishi: "Mura" # 村
+ count_male_emishi: "#tier1 Kimi#!" # 公
+ count_female_emishi: "#tier1 $count_male_emishi$#!"
+ county_emishi: "Kuni" # 国
+
+ # AINU
+ baron_male_ainu: "#tier0 Nispa#!" # ニシパ
+ baron_female_ainu: "#tier0 $baron_male_ainu$#!"
+ barony_ainu: "Ponkotan" # ポンコタン
+ count_male_ainu: "#tier1 Kotankorkur#!" # コタンコロクル
+ count_female_ainu: "#tier1 $count_male_ainu$#!"
+ county_ainu: "Kotan" # コタン
+ duke_male_ainu: "#tier2 Utarpa#!" # ウタラパ
+ duke_female_ainu: "#tier2 $duke_male_ainu$#!"
+ duchy_ainu: "Sir" # シリ
+ king_male_ainu: "#tier3 Sapanekur#!" # サパネクル
+ king_female_ainu: "#tier3 $king_male_ainu$#!"
+ kingdom_ainu: "Mosir" # モシリ
+
+ # KOREA
+
+ king_yongson_throne_male_korean: "#tier3 Gugwang#!" # 國王 (국왕)
+ king_yongson_throne_female_korean: "#tier3 Yeowang#!" # 女王 (여왕)
+ spouse_king_yongson_throne_male_korean: "$spouse_king_male_korean$"
+ spouse_king_yongson_throne_female_korean: "$spouse_king_female_korean$" 
+
+ king_male_korean: "#tier3 $king_yongson_throne_male_korean$#!"
+ king_female_korean: "#tier3 $king_yongson_throne_female_korean$#!"
+ spouse_king_male_korean: "Gukseo" # 國壻 (국서)
+ spouse_king_female_korean: "Wanghu" # 王后 (왕후) 
+
+ empire_unified_goryeo: "Unified Kingdom"
+
+ emperor_male_korean: "#tier4 Hwangje#!" # 皇帝 (황제)
+ emperor_female_korean: "#tier4 Hwanghu#!" # 皇后 (황후)
+ spouse_emperor_male_korean: "$spouse_hegemon_male_korean$"
+ spouse_emperor_female_korean: "$spouse_hegemon_female_korean$"
+ 
+ emperor_goryeo_male_korean: "#tier4 $king_male_korean$#!"
+ emperor_goryeo_female_korean: "#tier4 $king_female_korean$#!"
+ spouse_goryeo_emperor_male_korean: "$spouse_king_male_korean$"
+ spouse_goryeo_emperor_female_korean: "$spouse_king_female_korean$" 
+
+ hegemon_male_korean: "#tier5 Hwangje#!" # 皇帝 (황제)
+ hegemon_female_korean: "#tier5 Hwanghu#!" # 皇后 (황후)
+ spouse_hegemon_male_korean: "$spouse_king_male_korean$"
+ spouse_hegemon_female_korean: "Hwanghu" # 皇后 (황후) 
+
+ emperor_dictator_male_korean: "#tier4 Jipjeong#!" # 집정
+ emperor_dictator_female_korean: "#tier4 $emperor_dictator_male_korean$#!"
+
+ emperor_prime_minister_male: "#tier4 Prime Minister#!"
+ emperor_prime_minister_female: "#tier4 $emperor_prime_minister_male$#!"
+
+ estate_holder_male_korean: "Hojang" # 戶長 (호장)
+ estate_holder_female_korean: "Lady"
+
+ spouse_administrative_female_korean: "Lady"
+
+ count_administrative_male_korean: "#tier1 Moksa#!" # 牧使 (목사)
+ count_administrative_female_korean: "#tier1 $count_administrative_male_korean$#!" # 牧使 (목사)
+ county_administrative_korean: "Mok" # 牧 (목)
+
+ count_feudal_male_korean: "#tier1 Baek#!" # 伯 (백)
+ count_feudal_female_korean: "#tier1 $count_feudal_male_korean$#!" # 伯 (백)
+ county_feudal_korean: "Baekguk" # 伯國 (백국)
+
+ duke_feudal_male_korean: "#tier2 Gong#!" # 公 (공)
+ duke_feudal_female_korean: "#tier2 $duke_feudal_male_korean$#!" # 公 (공)
+ duchy_feudal_korean: "Gongguk" # 公國 (공국)
+
+ duke_administrative_male_korean: "#tier2 Anchalsa#!" # 按察使 (안찰사)
+ duke_administrative_female_korean: "#tier2 $duke_administrative_male_korean$#!" # 按察使 (안찰사)
+ duchy_administrative_korean: "Do" # 道 (도)
+
+ duke_administrative_male_korean_military_governor: "#tier2 Byeongmasa#!" # 兵馬使 (병마사)
+ duke_administrative_female_korean_military_governor: "#tier2 $duke_administrative_male_korean_military_governor$#!" # 兵馬使 (병마사)
+
+ baron_administrative_male_korean: "#tier0 Hyeonryeong#!" # 縣令 (현령)
+ baron_administrative_female_korean: "#tier0 $baron_administrative_male_korean$#!" # 縣令 (현령)
+ barony_administrative_korean: "Hyeon" # 縣 (현)
+
+ barony_theocracy_korean_buddhism_religion: "Saryeong" # 寺領  (사령)
+ barony_theocracy_china_buddhism_religion: "Sì"
+
+ # BALHAE
+ baron_administrative_male_balhae: "#tier0 Hyeonseung#!" # 縣丞 (현승)
+ baron_administrative_female_balhae: "#tier0 $baron_administrative_male_balhae$#!" # 縣丞 (현승)
+ count_administrative_male_balhae: "#tier1 Jasa#!" # 刺史 (목사)
+ count_administrative_female_balhae: "#tier1 $count_administrative_male_balhae$#!" # 刺史 (목사)
+ county_administrative_balhae: "Ju" # 州 (주)
+ duke_administrative_male_balhae_silla: "#tier2 Dodok#!" # 都督 (도독)
+ duke_administrative_female_balhae_silla: "#tier2 $duke_administrative_male_balhae_silla$#!" # 都督 (도독)
+ duchy_administrative_balhae: "Bu" # 府 (부)
+ king_male_balhae: "#tier3 Gadokbu#!" # 可毒夫 (가독부)
+ king_female_balhae: "#tier3 Gwibi#!" # 貴妃 (귀비)
+ 
+ # VIET
+ king_male_viet: "#tier3 Vuong#!" # 王 (Vương)
+ king_female_viet: "#tier3 $king_male_viet$#!"
+ spouse_king_male_viet: "Vuong Phu" # 王夫 (Vương Phu)
+ spouse_king_female_viet: "Vuong Hau" # 王后 (Vương Hậu)
+ emperor_male_viet: "#tier4 De#!" # 帝 (Đế)
+ emperor_female_viet: "#tier4 Nu#!" # 后 (Nữ)
+ spouse_emperor_male_viet: "Hoang Phu" # 皇夫 (Hoàng Phu)
+ spouse_emperor_female_viet: "Hoang Hau" # 皇后 (Hoàng Hậu)
+ emperor_male_viet_ceremonial: "#tier4 $emperor_male_viet$#!"
+ emperor_female_vietceremonial: "#tier4 $emperor_female_viet$#!"
+ spouse_emperor_male_viet_ceremonial: "$spouse_emperor_male_viet$"
+ spouse_emperor_female_viet_ceremonial: "$spouse_emperor_female_viet$"
+ 
+ # TANGUT
+ king_male_tangut: "#tier3 Nínglìng#!" # 寧令
+ king_female_tangut: "#tier3 Queen#!"
+ prince_male_tangut: "Níng" # 寧
+ prince_female_tangut: "Princess"
+
+ # HAN
+ king_male_chinese: "#tier3 Wáng#!" # 王
+ king_female_chinese: "#tier3 Nuwáng#!" # 女王 (Nǚwáng)
+ spouse_king_male_chinese: "Wángfū" # 王夫
+ spouse_king_female_chinese: "Wánghòu" # 王后 
+
+ # KOREAN CHAPLAINS
+ councillor_court_chaplain_buddhist_korean_county: "Daesa" # 大師
+ councillor_court_chaplain_buddhist_korean_duchy: "Jungdaesa" # 重大師
+ councillor_court_chaplain_buddhist_korean_kingdom: "Sujwa" # 首座
+ councillor_court_chaplain_buddhist_korean_empire: "Seungtong" # 僧統
+ councillor_court_chaplain_seon_korean_kingdom: "Seonsa" # 禪師
+ councillor_court_chaplain_seon_korean_empire: "Daeseonsa" # 大禪師
+
+ hegemon_male_japanese: "#tier5 Kōtei#!" # 黄帝
+ hegemon_female_japanese: "#tier5 Kōtei#!" # 黄帝
+ 
+ councillor_court_chaplain_buddhist_viet: "Hoa Thuong" # 和尚

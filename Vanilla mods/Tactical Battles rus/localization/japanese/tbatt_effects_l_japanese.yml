@@ -1,0 +1,347 @@
+﻿l_japanese:
+  
+  
+ rule_tactical_modifier_duration: "#bold #difficulty_hard • 戦術バトル • #!\nDuration の成功した動きから得られるバフ/デバフ"  #NT!
+ setting_tbatt_mod_length_8: "8日間"  #NT!
+ setting_tbatt_mod_length_8_desc: "#high 技によるバフ/デバフの持続時間は8日間に設定されています。"  #NT!
+ setting_tbatt_mod_length_10: "10日間"  #NT!
+ setting_tbatt_mod_length_10_desc: "#high 技によるバフ/デバフの持続時間は10日間に設定されています。"  #NT!
+ setting_tbatt_mod_length_12: "12日間"  #NT!
+ setting_tbatt_mod_length_12_desc: "#high 技によるバフ/デバフの持続時間は12日間に設定されています。"  #NT!
+ setting_tbatt_mod_length_15: "15日"  #NT!
+ setting_tbatt_mod_length_15_desc: "#high 技によるバフ/デバフの持続時間は15日間に設定されています。"  #NT!
+ setting_tbatt_mod_length_18: "18日"  #NT!
+ setting_tbatt_mod_length_18_desc: "#high 技によるバフ/デバフの持続時間は18日間に設定されています。"  #NT!
+ setting_tbatt_mod_length_20: "20日"  #NT!
+ setting_tbatt_mod_length_20_desc: "#high 技によるバフ/デバフの持続時間は20日に設定されています。"  #NT!
+ setting_tbatt_mod_length_22: "22日"  #NT!
+ setting_tbatt_mod_length_22_desc: "#high 技によるバフ/デバフの持続時間は22日に設定されています。"  #NT!
+ setting_tbatt_mod_length_25: "25日"  #NT!
+ setting_tbatt_mod_length_25_desc: "#high 技によるバフ/デバフの持続時間は25日に設定されています。"  #NT!
+ setting_tbatt_mod_length_30: "30日"  #NT!
+ setting_tbatt_mod_length_30_desc: "#high 技によるバフ/デバフの持続時間は30日に設定されています。"  #NT!
+ setting_tbatt_default_mod_length: "20日(デフォルト)"  #NT!
+ setting_tbatt_default_mod_length_desc: "#high 移動によるバフ/デバフの持続時間はデフォルトの 20 日に設定されています。"  #NT!
+  
+ # Router Modifier Duration Rule 
+ rule_tactical_router_modifier_duration: "#bold #difficulty_hard • 戦術戦闘 • #!\nDuration 敗走した軍隊の修正"  #NT!
+ setting_tbatt_router_mod_length_8: "8日間"  #NT!
+ setting_tbatt_router_mod_length_8_desc: "#high 敗走軍のデバフは 8 日間持続します。"  #NT!
+ setting_tbatt_router_mod_length_10: "10日間"  #NT!
+ setting_tbatt_router_mod_length_10_desc: "#high 敗走軍のデバフは 10 日間持続します。"  #NT!
+ setting_tbatt_router_mod_length_12: "12日間"  #NT!
+ setting_tbatt_router_mod_length_12_desc: "#high 敗走軍のデバフは 12 日間持続します。"  #NT!
+ setting_tbatt_router_mod_length_18: "18日"  #NT!
+ setting_tbatt_router_mod_length_18_desc: "#high 敗走軍のデバフは 18 日間持続します。"  #NT!
+ setting_tbatt_router_mod_length_20: "20日"  #NT!
+ setting_tbatt_router_mod_length_20_desc: "#high 敗走軍のデバフは 20 日間持続します。"  #NT!
+ setting_tbatt_router_mod_length_22: "22日"  #NT!
+ setting_tbatt_router_mod_length_22_desc: "#high 敗走軍のデバフは 22 日間持続します。"  #NT!
+ setting_tbatt_router_mod_length_25: "25日"  #NT!
+ setting_tbatt_router_mod_length_25_desc: "#high 敗走軍のデバフは 25 日間持続します。"  #NT!
+ setting_tbatt_router_mod_length_30: "30日"  #NT!
+ setting_tbatt_router_mod_length_30_desc: "#high 敗走軍のデバフは 30 日間持続します。"  #NT!
+ setting_tbatt_router_default_mod_length: "15 日 (デフォルト)"  #NT!
+ setting_tbatt_router_default_mod_length_desc: "#high 敗走軍のデバフはデフォルトで 15 日間持続します。"  #NT!
+  
+ # Reserve Modifier Duration Rule 
+ rule_tactical_reserve_modifier_duration: "#bold #difficulty_hard • 戦術戦闘 • 予備戦闘修正値の #!\nDuration"  #NT!
+ setting_tbatt_reserve_mod_length_8: "8日間"  #NT!
+ setting_tbatt_reserve_mod_length_8_desc: "#high リザーブエンゲージメントバフは 8 日間持続します。"  #NT!
+ setting_tbatt_reserve_mod_length_12: "12日間"  #NT!
+ setting_tbatt_reserve_mod_length_12_desc: "#high リザーブエンゲージメントバフは 12 日間持続します。"  #NT!
+ setting_tbatt_reserve_mod_length_15: "15日"  #NT!
+ setting_tbatt_reserve_mod_length_15_desc: "#high リザーブエンゲージメントバフは 15 日間持続します。"  #NT!
+ setting_tbatt_reserve_mod_length_18: "18日"  #NT!
+ setting_tbatt_reserve_mod_length_18_desc: "#high リザーブエンゲージメントバフは 18 日間持続します。"  #NT!
+ setting_tbatt_reserve_mod_length_20: "20日"  #NT!
+ setting_tbatt_reserve_mod_length_20_desc: "#high リザーブエンゲージメントバフは 20 日間持続します。"  #NT!
+ setting_tbatt_reserve_mod_length_22: "22日"  #NT!
+ setting_tbatt_reserve_mod_length_22_desc: "#high リザーブエンゲージメントバフは 22 日間持続します。"  #NT!
+ setting_tbatt_reserve_mod_length_25: "25日"  #NT!
+ setting_tbatt_reserve_mod_length_25_desc: "#high リザーブエンゲージメントバフは 25 日間持続します。"  #NT!
+ setting_tbatt_reserve_mod_length_30: "30日"  #NT!
+ setting_tbatt_reserve_mod_length_30_desc: "#high リザーブエンゲージメントバフは 30 日間持続します。"  #NT!
+ setting_tbatt_reserve_default_mod_length: "デフォルト（10日）"  #NT!
+ setting_tbatt_reserve_default_mod_length_desc: "#high 予約エンゲージメント バフはデフォルトで 10 日間持続します。"  #NT!
+  
+ # Encircled Modifier Duration Rule 
+ rule_tactical_encircled_modifier_duration: "#bold #difficulty_hard • 戦術戦闘 • #!\nDuration の包囲された軍隊の修正"  #NT!
+ setting_tbatt_encircled_mod_length_8: "8日間"  #NT!
+ setting_tbatt_encircled_mod_length_8_desc: "#high 包囲軍のデバフは 8 日間持続します。"  #NT!
+ setting_tbatt_encircled_mod_length_10: "10日間"  #NT!
+ setting_tbatt_encircled_mod_length_10_desc: "#high 包囲軍のデバフは 10 日間持続します。"  #NT!
+ setting_tbatt_encircled_mod_length_12: "12日間"  #NT!
+ setting_tbatt_encircled_mod_length_12_desc: "#high 包囲軍のデバフは 12 日間持続します。"  #NT!
+ setting_tbatt_encircled_mod_length_15: "15 日 (デフォルト)"  #NT!
+ setting_tbatt_encircled_mod_length_15_desc: "#high 包囲軍のデバフは 15 日間持続します。"  #NT!
+ setting_tbatt_encircled_mod_length_18: "18日"  #NT!
+ setting_tbatt_encircled_mod_length_18_desc: "#high 包囲軍のデバフは 18 日間持続します。"  #NT!
+ setting_tbatt_encircled_mod_length_20: "20日"  #NT!
+ setting_tbatt_encircled_mod_length_20_desc: "#high 包囲軍のデバフは 20 日間持続します。"  #NT!
+ setting_tbatt_encircled_mod_length_22: "22日"  #NT!
+ setting_tbatt_encircled_mod_length_22_desc: "#high 包囲軍のデバフは 22 日間持続します。"  #NT!
+ setting_tbatt_encircled_mod_length_25: "25日"  #NT!
+ setting_tbatt_encircled_mod_length_25_desc: "#high 包囲軍のデバフは 25 日間持続します。"  #NT!
+ setting_tbatt_encircled_mod_length_30: "30日"  #NT!
+ setting_tbatt_encircled_mod_length_30_desc: "#high 包囲軍のデバフは 30 日間持続します。"  #NT!
+ setting_tbatt_encircled_default_mod_length: "デフォルト (15 日)"  #NT!
+ setting_tbatt_encircled_default_mod_length_desc: "#high 包囲軍のデバフはデフォルトで 15 日間持続します。"  #NT!
+  
+ # Commander Switched Modifier Duration Rule 
+ rule_tactical_commander_switched_modifier_duration: "#bold #difficulty_hard • 戦術戦闘 • #!\nDuration の指揮官切り替えデバフ"  #NT!
+ setting_tbatt_commander_switched_mod_length_5: "5日間"  #NT!
+ setting_tbatt_commander_switched_mod_length_5_desc: "#high コマンダースイッチのデバフは 5 日間持続します。"  #NT!
+ setting_tbatt_commander_switched_mod_length_6: "6日間"  #NT!
+ setting_tbatt_commander_switched_mod_length_6_desc: "#high コマンダースイッチのデバフは 6 日間持続します。"  #NT!
+ setting_tbatt_commander_switched_mod_length_7: "7日間"  #NT!
+ setting_tbatt_commander_switched_mod_length_7_desc: "#high コマンダースイッチのデバフは 7 日間持続します。"  #NT!
+ setting_tbatt_commander_switched_mod_length_8: "8日間"  #NT!
+ setting_tbatt_commander_switched_mod_length_8_desc: "#high コマンダースイッチのデバフは 8 日間持続します。"  #NT!
+ setting_tbatt_commander_switched_mod_length_9: "9日間"  #NT!
+ setting_tbatt_commander_switched_mod_length_9_desc: "#high コマンダースイッチのデバフは 9 日間持続します。"  #NT!
+ setting_tbatt_commander_switched_mod_length_12: "12日間"  #NT!
+ setting_tbatt_commander_switched_mod_length_12_desc: "#high コマンダースイッチのデバフは 12 日間持続します。"  #NT!
+ setting_tbatt_commander_switched_mod_length_15: "15日"  #NT!
+ setting_tbatt_commander_switched_mod_length_15_desc: "#high コマンダースイッチのデバフは 15 日間持続します。"  #NT!
+ setting_tbatt_commander_switched_default_mod_length: "デフォルト（10日）"  #NT!
+ setting_tbatt_commander_switched_default_mod_length_desc: "#high コマンダースイッチのデバフはデフォルトの 10 日間持続します"  #NT!
+  
+ # Counterattack Modifier Duration Rule 
+ rule_tactical_counterattack_modifier_duration: "#bold #difficulty_hard • 戦術戦闘 • #!\nDuration の反撃修正"  #NT!
+ setting_tbatt_counterattack_mod_length_8: "8日間"  #NT!
+ setting_tbatt_counterattack_mod_length_8_desc: "#high 反撃バフは 8 日間持続します。"  #NT!
+ setting_tbatt_counterattack_mod_length_12: "12日間"  #NT!
+ setting_tbatt_counterattack_mod_length_12_desc: "#high 反撃バフは 10 日間持続します。"  #NT!
+ setting_tbatt_counterattack_mod_length_10: "10日間"  #NT!
+ setting_tbatt_counterattack_mod_length_10_desc: "#high 反撃バフは 15 日間持続します。"  #NT!
+ setting_tbatt_counterattack_mod_length_15: "15日"  #NT!
+ setting_tbatt_counterattack_mod_length_15_desc: "#high 反撃バフは 15 日間持続します。"  #NT!
+ setting_tbatt_counterattack_mod_length_18: "18日"  #NT!
+ setting_tbatt_counterattack_mod_length_18_desc: "#high 反撃バフは 18 日間持続します。"  #NT!
+ setting_tbatt_counterattack_mod_length_20: "20日"  #NT!
+ setting_tbatt_counterattack_mod_length_20_desc: "#high 反撃バフは 20 日間持続します。"  #NT!
+ setting_tbatt_counterattack_mod_length_22: "22日"  #NT!
+ setting_tbatt_counterattack_mod_length_22_desc: "#high 反撃バフは 22 日間持続します。"  #NT!
+ setting_tbatt_counterattack_mod_length_25: "25日"  #NT!
+ setting_tbatt_counterattack_mod_length_25_desc: "#high 反撃バフは 25 日間持続します。"  #NT!
+ setting_tbatt_counterattack_mod_length_30: "30日"  #NT!
+ setting_tbatt_counterattack_mod_length_30_desc: "#high 反撃バフは 30 日間持続します。"  #NT!
+ setting_tbatt_counterattack_default_mod_length: "デフォルト（10日）"  #NT!
+ setting_tbatt_counterattack_default_mod_length_desc: "#high 反撃バフはデフォルトで 10 日間持続します。"  #NT!
+  
+ # Martial Skill Increase Value Rule 
+ rule_tactical_martial_increase_skill_value: "#bold #difficulty_hard • 戦術バトル • #!\nMax 武術スキルの増加"  #NT!
+ setting_tbatt_martial_skill_increase_default_value: "3 マーシャル (デフォルト)"  #NT!
+ setting_tbatt_martial_skill_increase_default_value_desc: "#high 指揮官は、より熟練した指揮官の側面を敗走させることで、(「スキル増加のチャンス」に基づいて) 最大 3 [martial|E] スキル ポイントを獲得するチャンスがあります。"  #NT!
+ setting_tbatt_martial_skill_increase_value_1: "1 武道"  #NT!
+ setting_tbatt_martial_skill_increase_value_1_desc: "#high 指揮官には、「スキル増加のチャンス」に基づいて、より熟練した指揮官の側面を敗走させることで 1 [martial|E] スキル ポイントを獲得するチャンスがあります。"  #NT!
+ setting_tbatt_martial_skill_increase_value_2: "2 武道"  #NT!
+ setting_tbatt_martial_skill_increase_value_2_desc: "#high 指揮官には、「スキル増加のチャンス」に基づいて、より熟練した指揮官の側面を敗走させて最大 2 [martial|E] スキル ポイントを獲得するチャンスがあります。"  #NT!
+ setting_tbatt_martial_skill_increase_value_3: "3 マーシャル (デフォルト)"  #NT!
+ setting_tbatt_martial_skill_increase_value_3_desc: "#high 指揮官には、「スキル増加のチャンス」に基づいて、より熟練した指揮官の側面を敗走させることで最大 3 [martial|E] スキル ポイントを獲得するチャンスがあります。"  #NT!
+ setting_tbatt_martial_skill_increase_value_4: "4 武道"  #NT!
+ setting_tbatt_martial_skill_increase_value_4_desc: "#high 指揮官には、「スキル増加のチャンス」に基づいて、より熟練した指揮官の側面を敗走させることで最大 4 [martial|E] スキル ポイントを獲得するチャンスがあります。"  #NT!
+ setting_tbatt_martial_skill_increase_value_5: "5 武道"  #NT!
+ setting_tbatt_martial_skill_increase_value_5_desc: "#high 指揮官には、「スキル増加のチャンス」に基づいて、より熟練した指揮官の側面を敗走させて最大 5 [martial|E] スキル ポイントを獲得するチャンスがあります。"  #NT!
+ setting_tbatt_martial_skill_increase_value_6: "6 武道"  #NT!
+ setting_tbatt_martial_skill_increase_value_6_desc: "#high 指揮官は戦術的勝利により 6 武道スキル ポイントを獲得します。"  #NT!
+  
+ # Commander Martial Difference Value Rule 
+ rule_tactical_martial_increase_diff_value: "#bold #difficulty_hard • 戦術的な戦い • #!\nCommander 武力の差"  #NT!
+ setting_tbatt_commander_martial_diff_default_value: "4 スキル差（デフォルト）"  #NT!
+ setting_tbatt_commander_martial_diff_default_value_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 4 以上 [martial|E] 優れている場合、より熟練した指揮官を敗走させるときに敵の側面指揮官のスキル [martial|E] を増加させるチャンスがあります。"  #NT!
+ setting_tbatt_commander_martial_diff_value_1: "1 スキル差"  #NT!
+ setting_tbatt_commander_martial_diff_value_1_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 1 以上 [martial|E] 優れている場合、より熟練した指揮官を敗走させるときに敵の側面指揮官のスキル [martial|E] を増加させるチャンスがあります。"  #NT!
+ setting_tbatt_commander_martial_diff_value_3: "3 スキル差"  #NT!
+ setting_tbatt_commander_martial_diff_value_3_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキル [martial|E] 3 以上優れている場合、より熟練した指揮官を敗走させるときに敵の側面指揮官のスキル [martial|E] を増加させるチャンスがあります。"  #NT!
+ setting_tbatt_commander_martial_diff_value_4: "4 スキル差（デフォルト）"  #NT!
+ setting_tbatt_commander_martial_diff_value_4_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 4 以上 [martial|E] 優れている場合、より熟練した指揮官を敗走させるときに敵の側面指揮官のスキル [martial|E] を増加させるチャンスがあります。"  #NT!
+ setting_tbatt_commander_martial_diff_value_5: "5 スキル差"  #NT!
+ setting_tbatt_commander_martial_diff_value_5_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 5 以上 [martial|E] 上回っている場合、より熟練した指揮官を敗走させるときに敵の側面指揮官のスキル [martial|E] を高めるチャンスがあります。"  #NT!
+ setting_tbatt_commander_martial_diff_value_6: "6 スキル差"  #NT!
+ setting_tbatt_commander_martial_diff_value_6_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 6 以上 [martial|E] 上回っている場合、より熟練した指揮官を敗走させるときに敵の側面指揮官の [martial|E] スキルを向上させるチャンスがあります。"  #NT!
+ setting_tbatt_commander_martial_diff_value_7: "7 スキル差"  #NT!
+ setting_tbatt_commander_martial_diff_value_7_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 7 以上 [martial|E] 優れている場合、より熟練した指揮官を敗走させるときに敵の側面指揮官の [martial|E] スキルを向上させるチャンスがあります。"  #NT!
+ setting_tbatt_commander_martial_diff_value_10: "10 スキル差"  #NT!
+ setting_tbatt_commander_martial_diff_value_10_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 10 以上 [martial|E] 優れている場合、より熟練した指揮官を敗走させる際に、敵の側面指揮官の [martial|E] スキルを向上させるチャンスがあります。"  #NT!
+ setting_tbatt_commander_martial_diff_value_12: "12 スキル差"  #NT!
+ setting_tbatt_commander_martial_diff_value_12_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 12 以上 [martial|E] 上回っている場合、より熟練した指揮官を敗走させるときに敵の側面指揮官のスキル [martial|E] を高めるチャンスがあります。"  #NT!
+ setting_tbatt_commander_martial_diff_value_15: "15 スキル差"  #NT!
+ setting_tbatt_commander_martial_diff_value_15_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 15 以上 [martial|E] 上回っている場合、より熟練した指揮官を敗走させるときに、敵の側面指揮官のスキル [martial|E] を高めるチャンスがあります。"  #NT!
+  
+ # Skill Increase Chance Value Rule 
+ rule_tactical_skill_increase_chance_value: "#bold #difficulty_hard • 戦術バトル • #!\nChance 武術スキル向上用"  #NT!
+ setting_tbatt_skill_increase_chance_default_value: "75% (デフォルト)"  #NT!
+ setting_tbatt_skill_increase_chance_default_value_desc: "[martial|E] スキル獲得の上限に達していない #high 指揮官は、より熟練した指揮官の側面を敗走させることで、75% の確率で [martial|E] スキルを獲得します。"  #NT!
+ setting_tbatt_skill_increase_chance_value_0: "0"  #NT!
+ setting_tbatt_skill_increase_chance_value_0_desc: "「武術スキル獲得の上限」設定にある#high の指揮官は、より熟練した指揮官の側面を敗走させても [martial|E] のスキルを獲得しません。"  #NT!
+ setting_tbatt_skill_increase_chance_value_25: "25%"  #NT!
+ setting_tbatt_skill_increase_chance_value_25_desc: "「武力スキル獲得の上限」設定にある#high の指揮官は、より熟練した指揮官の側面を敗走させることで、25% の確率で[martial|E] スキルを獲得します。"  #NT!
+ setting_tbatt_skill_increase_chance_value_33: "33%"  #NT!
+ setting_tbatt_skill_increase_chance_value_33_desc: "「武力スキル獲得の上限」設定にある#high の指揮官は、より熟練した指揮官の側面を敗走させることで 33% の確率で [martial|E] スキルを獲得します。"  #NT!
+ setting_tbatt_skill_increase_chance_value_50: "50%"  #NT!
+ setting_tbatt_skill_increase_chance_value_50_desc: "「武力スキル獲得の上限」設定にある#high の指揮官は、より熟練した指揮官の側面を敗走させることで、50% の確率で[martial|E] スキルを獲得します。"  #NT!
+ setting_tbatt_skill_increase_chance_value_60: "60%"  #NT!
+ setting_tbatt_skill_increase_chance_value_60_desc: "「武力スキル獲得の上限」設定にある#high の指揮官は、より熟練した指揮官の側面を敗走させることで、60% の確率で[martial|E] スキルを獲得します。"  #NT!
+ setting_tbatt_skill_increase_chance_value_85: "85%"  #NT!
+ setting_tbatt_skill_increase_chance_value_85_desc: "「武力スキル獲得の上限」設定にある#high の指揮官は、より熟練した指揮官の側面を敗走させることで、85% の確率で[martial|E] のスキルを獲得します。"  #NT!
+ setting_tbatt_skill_increase_chance_value_100: "100%"  #NT!
+ setting_tbatt_skill_increase_chance_value_100_desc: "「武術スキル獲得の上限」設定にある#high の指揮官は、より熟練した指揮官の側面を敗走させることで、100% の確率で [martial|E] のスキルを獲得します。"  #NT!
+  
+ rule_tactical_skill_cap_value: "#bold #difficulty_hard • 戦術的な戦闘 • #!\nCap 武術スキルの獲得について"  #NT!
+ setting_tbatt_martial_skill_cap_default_value: "24 武術スキル (デフォルト)"  #NT!
+ setting_tbatt_martial_skill_cap_default_value_desc: "#high あなたの側面指揮官の 1 人が 24 [martial|E] 未満の場合、より熟練した指揮官の側面を敗走させることで [martial|E] のスキルを獲得できます。 (指揮官兵力差ルールにより決定)"  #NT!
+ setting_tbatt_martial_skill_cap_value_21: "21 武術"  #NT!
+ setting_tbatt_martial_skill_cap_value_21_desc: "#high あなたの側面指揮官の 1 人が 21 [martial|E] 未満の場合、より熟練した指揮官の側面を敗走させることで [martial|E] のスキルを獲得できます。 (指揮官兵力差ルールにより決定)"  #NT!
+ setting_tbatt_martial_skill_cap_value_24: "24 武術スキル (デフォルト)"  #NT!
+ setting_tbatt_martial_skill_cap_value_24_desc: "#high あなたの側面指揮官の 1 人が 24 [martial|E] 未満の場合、より熟練した指揮官の側面を敗走させることで [martial|E] のスキルを獲得できます。 (指揮官兵力差ルールにより決定)"  #NT!
+ setting_tbatt_martial_skill_cap_value_27: "27 武術のスキル"  #NT!
+ setting_tbatt_martial_skill_cap_value_27_desc: "#high 側面指揮官の 1 人が 27 [martial|E] 未満の場合、より熟練した指揮官の側面を敗走させることで [martial|E] のスキルを獲得できます。 (指揮官兵力差ルールにより決定)"  #NT!
+ setting_tbatt_martial_skill_cap_value_30: "30 武術スキル"  #NT!
+ setting_tbatt_martial_skill_cap_value_30_desc: "#high あなたの側面指揮官の 1 人が 30 [martial|E] 未満の場合、より熟練した指揮官の側面を敗走させることで [martial|E] のスキルを獲得できます。 (指揮官兵力差ルールにより決定)"  #NT!
+ setting_tbatt_martial_skill_cap_value_35: "35 武術スキル"  #NT!
+ setting_tbatt_martial_skill_cap_value_35_desc: "#high 側面指揮官の 1 人が 35 [martial|E] 未満の場合、より熟練した指揮官の側面を敗走させることで [martial|E] のスキルを獲得できます。 (指揮官兵力差ルールにより決定)"  #NT!
+ setting_tbatt_martial_skill_cap_value_100: "武術スキル100"  #NT!
+ setting_tbatt_martial_skill_cap_value_100_desc: "#high あなたの側面指揮官の 1 人が 100 [martial|E] 未満の場合、より熟練した指揮官の側面を敗走させることで [martial|E] のスキルを獲得できます。 (指揮官兵力差ルールにより決定)"  #NT!
+  
+ # Martial Skill Increase Value Rule 
+ rule_tactical_prowess_increase_skill_value: "#bold #difficulty_hard • 戦術バトル • #!\nMax 勇気スキルの増加"  #NT!
+ setting_tbatt_prowess_skill_increase_default_value: "3 勇気 (デフォルト)"  #NT!
+ setting_tbatt_prowess_skill_increase_default_value_desc: "#high 指揮官は、より熟練した指揮官を倒すことで、(「スキル増加のチャンス」に基づいて) 最大 3 [prowess|E] スキル ポイントを獲得するチャンスがあります。"  #NT!
+ setting_tbatt_prowess_skill_increase_value_1: "1 勇気"  #NT!
+ setting_tbatt_prowess_skill_increase_value_1_desc: "#high 指揮官には、「スキル増加のチャンス」に基づいて、より熟練した指揮官を倒すことで 1 [prowess|E] スキル ポイントを獲得するチャンスがあります。"  #NT!
+ setting_tbatt_prowess_skill_increase_value_2: "2 勇気"  #NT!
+ setting_tbatt_prowess_skill_increase_value_2_desc: "#high 指揮官には、「スキル増加のチャンス」に基づいて、より熟練した指揮官を倒すことで最大 2 [prowess|E] スキル ポイントを獲得するチャンスがあります。"  #NT!
+ setting_tbatt_prowess_skill_increase_value_3: "3 勇気 (デフォルト)"  #NT!
+ setting_tbatt_prowess_skill_increase_value_3_desc: "#high 指揮官には、「スキル増加のチャンス」に基づいて、より熟練した指揮官を倒すことで最大 3 [prowess|E] スキル ポイントを獲得するチャンスがあります。"  #NT!
+ setting_tbatt_prowess_skill_increase_value_4: "4 勇気"  #NT!
+ setting_tbatt_prowess_skill_increase_value_4_desc: "#high 指揮官には、「スキル増加のチャンス」に基づいて、より熟練した指揮官を倒すことで最大 4 [prowess|E] スキル ポイントを獲得するチャンスがあります。"  #NT!
+ setting_tbatt_prowess_skill_increase_value_5: "5 勇気"  #NT!
+ setting_tbatt_prowess_skill_increase_value_5_desc: "#high 指揮官には、「スキル増加のチャンス」に基づいて、より熟練した指揮官を倒すことで最大 5 [prowess|E] スキル ポイントを獲得するチャンスがあります。"  #NT!
+ setting_tbatt_prowess_skill_increase_value_6: "6 勇気"  #NT!
+ setting_tbatt_prowess_skill_increase_value_6_desc: "#high 指揮官は戦術的勝利により 6 の勇気スキル ポイントを獲得します。"  #NT!
+  
+ # Commander Martial Difference Value Rule 
+ rule_tactical_prowess_increase_diff_value: "#bold #difficulty_hard • 戦術戦 • #!\nCommander 実力差"  #NT!
+ setting_tbatt_commander_prowess_diff_default_value: "4 スキル差（デフォルト）"  #NT!
+ setting_tbatt_commander_prowess_diff_default_value_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 4 [prowess|E] 以上優れている場合、熟練した指揮官を倒すとそのスキル [prowess|E] が増加するチャンスがあります。"  #NT!
+ setting_tbatt_commander_prowess_diff_value_0: "スキル差0"  #NT!
+ setting_tbatt_commander_prowess_diff_value_0_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 1 以上 [prowess|E] 上回っている場合、熟練した指揮官を倒すときに敵の側面指揮官のスキル [prowess|E] が増加するチャンスがあります。"  #NT!
+ setting_tbatt_commander_prowess_diff_value_1: "1 スキル差"  #NT!
+ setting_tbatt_commander_prowess_diff_value_1_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 1 以上 [prowess|E] 上回っている場合、熟練した指揮官を倒すときに敵の側面指揮官のスキル [prowess|E] が増加するチャンスがあります。"  #NT!
+ setting_tbatt_commander_prowess_diff_value_3: "3 スキル差"  #NT!
+ setting_tbatt_commander_prowess_diff_value_3_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキル 3 以上 [prowess|E] 上回っている場合、熟練した指揮官を倒すとそのスキル [prowess|E] が増加するチャンスがあります。"  #NT!
+ setting_tbatt_commander_prowess_diff_value_4: "4 スキル差（デフォルト）"  #NT!
+ setting_tbatt_commander_prowess_diff_value_4_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 4 [prowess|E] 以上優れている場合、熟練した指揮官を倒すとそのスキル [prowess|E] が増加するチャンスがあります。"  #NT!
+ setting_tbatt_commander_prowess_diff_value_5: "5 スキル差"  #NT!
+ setting_tbatt_commander_prowess_diff_value_5_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 5 以上 [prowess|E] 上回っている場合、熟練した指揮官を倒すとそのスキル [prowess|E] が増加するチャンスがあります。"  #NT!
+ setting_tbatt_commander_prowess_diff_value_6: "6 スキル差"  #NT!
+ setting_tbatt_commander_prowess_diff_value_6_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 6 以上 [prowess|E] 上回っている場合、熟練した指揮官を倒すとそのスキル [prowess|E] が増加するチャンスがあります。"  #NT!
+ setting_tbatt_commander_prowess_diff_value_7: "7 スキル差"  #NT!
+ setting_tbatt_commander_prowess_diff_value_7_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 7 以上 [prowess|E] 高い場合、熟練した指揮官を倒すとそのスキル [prowess|E] が増加するチャンスがあります。"  #NT!
+ setting_tbatt_commander_prowess_diff_value_10: "10 スキル差"  #NT!
+ setting_tbatt_commander_prowess_diff_value_10_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 10 以上 [prowess|E] 上回っている場合、熟練した指揮官を倒すとそのスキル [prowess|E] が増加するチャンスがあります。"  #NT!
+ setting_tbatt_commander_prowess_diff_value_12: "12 スキル差"  #NT!
+ setting_tbatt_commander_prowess_diff_value_12_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 12 以上 [prowess|E] 上回っている場合、熟練した指揮官を倒すとそのスキル [prowess|E] が増加するチャンスがあります。"  #NT!
+ setting_tbatt_commander_prowess_diff_value_15: "15 スキル差"  #NT!
+ setting_tbatt_commander_prowess_diff_value_15_desc: "#high あなたの側面指揮官の 1 人が敵の側面指揮官よりスキルが 15 以上 [prowess|E] 上回っている場合、熟練した指揮官を倒すとそのスキル [prowess|E] が増加するチャンスがあります。"  #NT!
+  
+ # Skill Increase Chance Value Rule 
+ rule_tactical_prowess_skill_increase_chance_value: "#bold #difficulty_hard • 戦術バトル • #!\nChance 勇気スキル向上用"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_default_value: "75% (デフォルト)"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_default_value_desc: "[prowess|E] スキル獲得の上限に達していない #high 指揮官は、より熟練した指揮官を倒すと 75% の確率で [prowess|E] スキルを獲得します。"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_0: "0"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_0_desc: "「勇気スキル獲得の上限」設定にある#high の指揮官は、より熟練した指揮官を克服しても [prowess|E] のスキルを獲得しません。"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_25: "25%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_25_desc: "「勇気スキル獲得の上限」設定にある#high の指揮官は、より熟練した指揮官を倒すことで [prowess|E] スキルを獲得する確率が 25% あります。"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_33: "33%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_33_desc: "「勇気スキル獲得の上限」設定にある#high の指揮官は、より熟練した指揮官を倒すと 33% の確率で [prowess|E] スキルを獲得します。"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_50: "50%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_50_desc: "「勇気スキル獲得の上限」設定にある#high の指揮官は、より熟練した指揮官を克服することで [prowess|E] スキルを獲得する確率が 50% あります。"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_60: "60%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_60_desc: "「勇気スキル獲得の上限」設定にある#high の指揮官は、より熟練した指揮官を克服することで [prowess|E] スキルを獲得する確率が 60% あります。"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_85: "85%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_85_desc: "「勇気スキル獲得の上限」設定にある#high の指揮官は、より熟練した指揮官を倒すと 85% の確率で [prowess|E] スキルを獲得します。"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_100: "100%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_100_desc: "「勇気スキル獲得の上限」設定にある#high の指揮官は、より熟練した指揮官を倒すと、100% の確率で[prowess|E] スキルを獲得します。"  #NT!
+  
+ rule_tactical_prowess_skill_cap_value: "#bold #difficulty_hard • 戦術バトル • #!\nCap 勇気スキルの獲得について"  #NT!
+ setting_tbatt_prowess_skill_cap_default_value: "31 果敢スキル (デフォルト)"  #NT!
+ setting_tbatt_prowess_skill_cap_default_value_desc: "#high 側面指揮官の 1 人が 31 [prowess|E] 未満の場合、より熟練した指揮官を倒すことで [prowess|E] のスキルを獲得できます。 (指揮官実力差ルールにより決定)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_27: "27 果敢スキル"  #NT!
+ setting_tbatt_prowess_skill_cap_value_27_desc: "#high 側面指揮官の 1 人が 27 [prowess|E] 未満の場合、より熟練した指揮官を倒すことで [prowess|E] のスキルを獲得できます。 (指揮官実力差ルールにより決定)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_34: "34 勇気スキル (デフォルト)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_34_desc: "#high 側面指揮官の 1 人が 34 [prowess|E] 未満の場合、より熟練した指揮官を倒すことで [prowess|E] のスキルを獲得できます。 (指揮官実力差ルールにより決定)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_37: "37 果敢スキル"  #NT!
+ setting_tbatt_prowess_skill_cap_value_37_desc: "#high 側面指揮官の 1 人が 37 [prowess|E] 未満の場合、より熟練した指揮官を倒すことで [prowess|E] のスキルを獲得できます。 (指揮官実力差ルールにより決定)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_40: "40 果敢スキル"  #NT!
+ setting_tbatt_prowess_skill_cap_value_40_desc: "#high 側面指揮官の 1 人が 40 [prowess|E] 未満の場合、より熟練した指揮官を倒すことで [prowess|E] のスキルを獲得できます。 (指揮官実力差ルールにより決定)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_100: "勇気スキル100"  #NT!
+ setting_tbatt_prowess_skill_cap_value_100_desc: "#high 側面指揮官の 1 人が 100 [prowess|E] 未満の場合、より熟練した指揮官を倒すことで [prowess|E] スキルを獲得できます。 (指揮官実力差ルールにより決定)"  #NT!
+  
+ rule_tactical_recruit_soldier_month_value: "#bold #difficulty_hard • 戦術戦闘 • #!\Cooldown 兵士を募集するには"  #NT!
+ setting_tbatt_recruit_soldier_month_default_value: "3 年 (デフォルト)"  #NT!
+ setting_tbatt_recruit_soldier_month_default_value_desc: "#high デフォルトでは、武装勢力から船長を採用するには 3 年間のクールダウンがあります"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_6: "6ヶ月"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_6_desc:0 "#high There is a 6 month cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_12: "1年"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_12_desc:0 "#high There is a 1 year cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_24: "2年"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_24_desc:0 "#high There is a 2 year cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_48: "4年"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_48_desc:0 "#high There is a 4 year cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_60: "5年"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_60_desc:0 "#high There is a 5 year cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_84: "7年"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_84_desc:0 "#high There is a 7 year cooldown to recruit captains 
+  
+ tact_left_commander_wounded_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] が負傷しました [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_wounded_enemy_duel_toast_desc: "[left_flank_commander.GetHerHis] 人の軍隊を率いて戦闘中、[left_flank_commander.GetFirstNameNicknamed] 人が負傷 [enemy_knight_for_duel.GetFullNameNicknamed] 人！"  #NT!
+ tact_left_commander_onelegged_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] は障害があります [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_onelegged_enemy_duel_toast_desc: "[left_flank_commander.GetFirstNameNicknamed] は[left_flank_commander.GetHerHis] の部隊を率いて戦闘中に [enemy_knight_for_duel.GetFullNameNicknamed] の足を奪いました!"  #NT!
+ tact_left_commander_oneeyed_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] は障害があります [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_oneeyed_enemy_duel_toast_desc: "[left_flank_commander.GetFirstNameNicknamed] が [left_flank_commander.GetHerHis] の部隊を率いて戦闘中に [enemy_knight_for_duel.GetFullNameNicknamed] の目を奪いました!"  #NT!
+ tact_left_commander_disfigured_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] 変形しました [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_disfigured_enemy_duel_toast_desc: "[left_flank_commander.GetFirstNameNicknamed] が [left_flank_commander.GetHerHis] の軍隊を率いて戦闘中に [enemy_knight_for_duel.GetFullNameNicknamed] を傷付けました!"  #NT!
+ tact_left_commander_maimed_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] は障害があります [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_maimed_enemy_duel_toast_desc: "[left_flank_commander.GetHerHis] の軍隊を率いて戦闘中に、[left_flank_commander.GetFirstNameNicknamed] が [enemy_knight_for_duel.GetFullNameNicknamed] を負傷しました!"  #NT!
+ tact_left_commander_killed_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] 人が殺されました [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_killed_enemy_duel_toast_desc: "[left_flank_commander.GetHerHis] 人の軍隊を率いて戦闘中に、[left_flank_commander.GetFirstNameNicknamed] 人が [enemy_knight_for_duel.GetFullNameNicknamed] を殺害しました!"  #NT!
+ tact_give_left_commander_prowess_toast: "[left_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal]の能力が向上しました！"  #NT!
+ tact_give_left_commander_prowess_toast_desc: "戦闘中の[left_flank_commander.GetHerHis] アクションにより、[left_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] の能力が向上し、[left_flank_commander.GetHerHis] の名声が高まります。"  #NT!
+  
+ tact_right_commander_wounded_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] が負傷しました [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_wounded_enemy_duel_toast_desc: "[right_flank_commander.GetHerHis] 人の軍隊を率いて戦闘中、[right_flank_commander.GetFirstNameNicknamed] 人が負傷 [enemy_knight_for_duel.GetFullNameNicknamed] 人！"  #NT!
+ tact_right_commander_onelegged_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] は障害があります [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_onelegged_enemy_duel_toast_desc: "[right_flank_commander.GetFirstNameNicknamed] は[right_flank_commander.GetHerHis] の部隊を率いて戦闘中に [enemy_knight_for_duel.GetFullNameNicknamed] の足を奪いました!"  #NT!
+ tact_right_commander_oneeyed_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] は障害があります [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_oneeyed_enemy_duel_toast_desc: "[right_flank_commander.GetFirstNameNicknamed] が [right_flank_commander.GetHerHis] の部隊を率いて戦闘中に [enemy_knight_for_duel.GetFullNameNicknamed] の目を奪いました!"  #NT!
+ tact_right_commander_disfigured_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] 変形しました [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_disfigured_enemy_duel_toast_desc: "[right_flank_commander.GetFirstNameNicknamed] が [right_flank_commander.GetHerHis] の軍隊を率いて戦闘中に [enemy_knight_for_duel.GetFullNameNicknamed] を傷付けました!"  #NT!
+ tact_right_commander_maimed_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] は障害があります [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_maimed_enemy_duel_toast_desc: "[right_flank_commander.GetHerHis] の軍隊を率いて戦闘中に、[right_flank_commander.GetFirstNameNicknamed] が [enemy_knight_for_duel.GetFullNameNicknamed] を負傷しました!"  #NT!
+ tact_right_commander_killed_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] 人が殺されました [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_killed_enemy_duel_toast_desc: "[right_flank_commander.GetHerHis] 人の軍隊を率いて戦闘中に、[right_flank_commander.GetFirstNameNicknamed] 人が [enemy_knight_for_duel.GetFullNameNicknamed] を殺害しました!"  #NT!
+ tact_give_right_commander_prowess_toast: "[right_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal]の能力が向上しました！"  #NT!
+ tact_give_right_commander_prowess_toast_desc: "戦闘中の[right_flank_commander.GetHerHis] アクションにより、[right_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] の能力が向上し、[right_flank_commander.GetHerHis] の名声が高まります。"  #NT!
+  
+ tact_center_commander_wounded_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] が負傷しました [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_wounded_enemy_duel_toast_desc: "[center_flank_commander.GetHerHis] 人の軍隊を率いて戦闘中、[center_flank_commander.GetFirstNameNicknamed] 人が負傷 [enemy_knight_for_duel.GetFullNameNicknamed] 人！"  #NT!
+ tact_center_commander_onelegged_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] は障害があります [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_onelegged_enemy_duel_toast_desc: "[center_flank_commander.GetFirstNameNicknamed] は[center_flank_commander.GetHerHis] の部隊を率いて戦闘中に [enemy_knight_for_duel.GetFullNameNicknamed] の足を奪いました!"  #NT!
+ tact_center_commander_oneeyed_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] は障害があります [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_oneeyed_enemy_duel_toast_desc: "[center_flank_commander.GetFirstNameNicknamed] が [center_flank_commander.GetHerHis] の部隊を率いて戦闘中に [enemy_knight_for_duel.GetFullNameNicknamed] の目を奪いました!"  #NT!
+ tact_center_commander_disfigured_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] 変形しました [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_disfigured_enemy_duel_toast_desc: "[center_flank_commander.GetFirstNameNicknamed] が [center_flank_commander.GetHerHis] の軍隊を率いて戦闘中に [enemy_knight_for_duel.GetFullNameNicknamed] を傷付けました!"  #NT!
+ tact_center_commander_maimed_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] は障害があります [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_maimed_enemy_duel_toast_desc: "[center_flank_commander.GetHerHis] の軍隊を率いて戦闘中に、[center_flank_commander.GetFirstNameNicknamed] が [enemy_knight_for_duel.GetFullNameNicknamed] を負傷しました!"  #NT!
+ tact_center_commander_killed_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] 人が殺されました [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_killed_enemy_duel_toast_desc: "[center_flank_commander.GetHerHis] 人の軍隊を率いて戦闘中に、[center_flank_commander.GetFirstNameNicknamed] 人が [enemy_knight_for_duel.GetFullNameNicknamed] を殺害しました!"  #NT!
+ tact_give_center_commander_prowess_toast: "[center_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal]の能力が向上しました！"  #NT!
+ tact_give_center_commander_prowess_toast_desc: "戦闘中の[center_flank_commander.GetHerHis] アクションにより、[center_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] の能力が向上し、[center_flank_commander.GetHerHis] の名声が高まります。"  #NT!
+  
+  
+ tact_give_victor_commander_prowess_toast: "[sc_victor.GetFirstNameNicknamedPossessiveOrMyRegnal]の能力が向上しました！"  #NT!
+ tact_give_victor_commander_prowess_toast_desc: "撃破後、一騎打ちで[sc_loser.GetFirstNameNicknamed][sc_victor.GetFirstNameNicknamedPossessiveOrMyRegnal]能力が向上しました！"  #NT!
+  

@@ -1,0 +1,347 @@
+﻿l_spanish:
+  
+  
+ rule_tactical_modifier_duration: "#bold #difficulty_hard • Batallas tácticas • #!\nDuration de ventajas/desventajas obtenidas por movimientos exitosos"  #NT!
+ setting_tbatt_mod_length_8: "8 dias"  #NT!
+ setting_tbatt_mod_length_8_desc: "#high La duración de las ventajas/desventajas de los movimientos está establecida en 8 días."  #NT!
+ setting_tbatt_mod_length_10: "10 dias"  #NT!
+ setting_tbatt_mod_length_10_desc: "#high La duración de las ventajas/desventajas de los movimientos está establecida en 10 días."  #NT!
+ setting_tbatt_mod_length_12: "12 dias"  #NT!
+ setting_tbatt_mod_length_12_desc: "#high La duración de las ventajas/desventajas de los movimientos está establecida en 12 días."  #NT!
+ setting_tbatt_mod_length_15: "15 dias"  #NT!
+ setting_tbatt_mod_length_15_desc: "#high La duración de las ventajas/desventajas de los movimientos está establecida en 15 días."  #NT!
+ setting_tbatt_mod_length_18: "18 dias"  #NT!
+ setting_tbatt_mod_length_18_desc: "#high La duración de las ventajas/desventajas de los movimientos está establecida en 18 días."  #NT!
+ setting_tbatt_mod_length_20: "20 dias"  #NT!
+ setting_tbatt_mod_length_20_desc: "#high La duración de las ventajas/desventajas de los movimientos está establecida en 20 días."  #NT!
+ setting_tbatt_mod_length_22: "22 dias"  #NT!
+ setting_tbatt_mod_length_22_desc: "#high La duración de las ventajas/desventajas de los movimientos está establecida en 22 días."  #NT!
+ setting_tbatt_mod_length_25: "25 dias"  #NT!
+ setting_tbatt_mod_length_25_desc: "#high La duración de las ventajas/desventajas de los movimientos está establecida en 25 días."  #NT!
+ setting_tbatt_mod_length_30: "30 dias"  #NT!
+ setting_tbatt_mod_length_30_desc: "#high La duración de las ventajas/desventajas de los movimientos está establecida en 30 días."  #NT!
+ setting_tbatt_default_mod_length: "20 días (predeterminado)"  #NT!
+ setting_tbatt_default_mod_length_desc: "#high La duración de las ventajas/desventajas de los movimientos está establecida por defecto en 20 días."  #NT!
+  
+ # Router Modifier Duration Rule 
+ rule_tactical_router_modifier_duration: "#bold #difficulty_hard • Batallas tácticas • #!\nDuration de modificadores de ejército derrotado"  #NT!
+ setting_tbatt_router_mod_length_8: "8 dias"  #NT!
+ setting_tbatt_router_mod_length_8_desc: "#high Las desventajas del ejército derrotado duran 8 días."  #NT!
+ setting_tbatt_router_mod_length_10: "10 dias"  #NT!
+ setting_tbatt_router_mod_length_10_desc: "#high Las desventajas del ejército derrotado duran 10 días."  #NT!
+ setting_tbatt_router_mod_length_12: "12 dias"  #NT!
+ setting_tbatt_router_mod_length_12_desc: "#high Las desventajas del ejército derrotado duran 12 días."  #NT!
+ setting_tbatt_router_mod_length_18: "18 dias"  #NT!
+ setting_tbatt_router_mod_length_18_desc: "#high Las desventajas del ejército derrotado duran 18 días."  #NT!
+ setting_tbatt_router_mod_length_20: "20 dias"  #NT!
+ setting_tbatt_router_mod_length_20_desc: "#high Las desventajas del ejército derrotado duran 20 días."  #NT!
+ setting_tbatt_router_mod_length_22: "22 dias"  #NT!
+ setting_tbatt_router_mod_length_22_desc: "#high Las desventajas del ejército derrotado duran 22 días."  #NT!
+ setting_tbatt_router_mod_length_25: "25 dias"  #NT!
+ setting_tbatt_router_mod_length_25_desc: "#high Las desventajas del ejército derrotado duran 25 días."  #NT!
+ setting_tbatt_router_mod_length_30: "30 dias"  #NT!
+ setting_tbatt_router_mod_length_30_desc: "#high Las desventajas del ejército derrotado duran 30 días."  #NT!
+ setting_tbatt_router_default_mod_length: "15 días (predeterminado)"  #NT!
+ setting_tbatt_router_default_mod_length_desc: "#high Las desventajas del ejército derrotado duran por defecto 15 días."  #NT!
+  
+ # Reserve Modifier Duration Rule 
+ rule_tactical_reserve_modifier_duration: "#bold #difficulty_hard • Batallas tácticas • #!\nDuration de modificadores de compromiso de reserva"  #NT!
+ setting_tbatt_reserve_mod_length_8: "8 dias"  #NT!
+ setting_tbatt_reserve_mod_length_8_desc: "#high Las mejoras de participación de reserva duran 8 días."  #NT!
+ setting_tbatt_reserve_mod_length_12: "12 dias"  #NT!
+ setting_tbatt_reserve_mod_length_12_desc: "#high Las mejoras de participación de reserva duran 12 días."  #NT!
+ setting_tbatt_reserve_mod_length_15: "15 dias"  #NT!
+ setting_tbatt_reserve_mod_length_15_desc: "#high Las mejoras de participación de reserva duran 15 días."  #NT!
+ setting_tbatt_reserve_mod_length_18: "18 dias"  #NT!
+ setting_tbatt_reserve_mod_length_18_desc: "#high Las mejoras de participación de reserva duran 18 días."  #NT!
+ setting_tbatt_reserve_mod_length_20: "20 dias"  #NT!
+ setting_tbatt_reserve_mod_length_20_desc: "#high Las mejoras de participación de reserva duran 20 días."  #NT!
+ setting_tbatt_reserve_mod_length_22: "22 dias"  #NT!
+ setting_tbatt_reserve_mod_length_22_desc: "#high Las mejoras de participación de reserva duran 22 días."  #NT!
+ setting_tbatt_reserve_mod_length_25: "25 dias"  #NT!
+ setting_tbatt_reserve_mod_length_25_desc: "#high Las mejoras de participación de reserva duran 25 días."  #NT!
+ setting_tbatt_reserve_mod_length_30: "30 dias"  #NT!
+ setting_tbatt_reserve_mod_length_30_desc: "#high Las mejoras de participación de reserva duran 30 días."  #NT!
+ setting_tbatt_reserve_default_mod_length: "Predeterminado (10 días)"  #NT!
+ setting_tbatt_reserve_default_mod_length_desc: "#high Las mejoras de participación en la reserva tienen una duración predeterminada de 10 días."  #NT!
+  
+ # Encircled Modifier Duration Rule 
+ rule_tactical_encircled_modifier_duration: "#bold #difficulty_hard • Batallas tácticas • #!\nDuration de modificadores de ejército cercado"  #NT!
+ setting_tbatt_encircled_mod_length_8: "8 dias"  #NT!
+ setting_tbatt_encircled_mod_length_8_desc: "#high Las desventajas del ejército rodeado duran 8 días."  #NT!
+ setting_tbatt_encircled_mod_length_10: "10 dias"  #NT!
+ setting_tbatt_encircled_mod_length_10_desc: "#high Las desventajas del ejército rodeado duran 10 días."  #NT!
+ setting_tbatt_encircled_mod_length_12: "12 dias"  #NT!
+ setting_tbatt_encircled_mod_length_12_desc: "#high Las desventajas del ejército rodeado duran 12 días."  #NT!
+ setting_tbatt_encircled_mod_length_15: "15 días (predeterminado)"  #NT!
+ setting_tbatt_encircled_mod_length_15_desc: "#high Las desventajas del ejército rodeado duran 15 días."  #NT!
+ setting_tbatt_encircled_mod_length_18: "18 dias"  #NT!
+ setting_tbatt_encircled_mod_length_18_desc: "#high Las desventajas del ejército rodeado duran 18 días."  #NT!
+ setting_tbatt_encircled_mod_length_20: "20 dias"  #NT!
+ setting_tbatt_encircled_mod_length_20_desc: "#high Las desventajas del ejército rodeado duran 20 días."  #NT!
+ setting_tbatt_encircled_mod_length_22: "22 dias"  #NT!
+ setting_tbatt_encircled_mod_length_22_desc: "#high Las desventajas del ejército rodeado duran 22 días."  #NT!
+ setting_tbatt_encircled_mod_length_25: "25 dias"  #NT!
+ setting_tbatt_encircled_mod_length_25_desc: "#high Las desventajas del ejército rodeado duran 25 días."  #NT!
+ setting_tbatt_encircled_mod_length_30: "30 dias"  #NT!
+ setting_tbatt_encircled_mod_length_30_desc: "#high Las desventajas del ejército rodeado duran 30 días."  #NT!
+ setting_tbatt_encircled_default_mod_length: "Predeterminado (15 días)"  #NT!
+ setting_tbatt_encircled_default_mod_length_desc: "#high Las desventajas del ejército rodeado duran por defecto 15 días."  #NT!
+  
+ # Commander Switched Modifier Duration Rule 
+ rule_tactical_commander_switched_modifier_duration: "#bold #difficulty_hard • Batallas tácticas • #!\nDuration de desventajas cambiadas de comandante"  #NT!
+ setting_tbatt_commander_switched_mod_length_5: "5 dias"  #NT!
+ setting_tbatt_commander_switched_mod_length_5_desc: "#high Las desventajas del cambio de Commander duran 5 días."  #NT!
+ setting_tbatt_commander_switched_mod_length_6: "6 dias"  #NT!
+ setting_tbatt_commander_switched_mod_length_6_desc: "#high Las desventajas del cambio de Commander duran 6 días."  #NT!
+ setting_tbatt_commander_switched_mod_length_7: "7 dias"  #NT!
+ setting_tbatt_commander_switched_mod_length_7_desc: "#high Las desventajas del cambio de Commander duran 7 días."  #NT!
+ setting_tbatt_commander_switched_mod_length_8: "8 dias"  #NT!
+ setting_tbatt_commander_switched_mod_length_8_desc: "#high Las desventajas del cambio de Commander duran 8 días."  #NT!
+ setting_tbatt_commander_switched_mod_length_9: "9 dias"  #NT!
+ setting_tbatt_commander_switched_mod_length_9_desc: "#high Las desventajas del cambio de Commander duran 9 días."  #NT!
+ setting_tbatt_commander_switched_mod_length_12: "12 dias"  #NT!
+ setting_tbatt_commander_switched_mod_length_12_desc: "#high Las desventajas del cambio de Commander duran 12 días."  #NT!
+ setting_tbatt_commander_switched_mod_length_15: "15 dias"  #NT!
+ setting_tbatt_commander_switched_mod_length_15_desc: "#high Las desventajas del cambio de Commander duran 15 días."  #NT!
+ setting_tbatt_commander_switched_default_mod_length: "Predeterminado (10 días)"  #NT!
+ setting_tbatt_commander_switched_default_mod_length_desc: "#high Las desventajas del cambio de Commander duran por defecto 10 días."  #NT!
+  
+ # Counterattack Modifier Duration Rule 
+ rule_tactical_counterattack_modifier_duration: "#bold #difficulty_hard • Batallas tácticas • #!\nDuration de modificadores de contraataque"  #NT!
+ setting_tbatt_counterattack_mod_length_8: "8 dias"  #NT!
+ setting_tbatt_counterattack_mod_length_8_desc: "#high Las mejoras de contraataque duran 8 días."  #NT!
+ setting_tbatt_counterattack_mod_length_12: "12 dias"  #NT!
+ setting_tbatt_counterattack_mod_length_12_desc: "#high Las mejoras de contraataque duran 10 días."  #NT!
+ setting_tbatt_counterattack_mod_length_10: "10 dias"  #NT!
+ setting_tbatt_counterattack_mod_length_10_desc: "#high Las mejoras de contraataque duran 15 días."  #NT!
+ setting_tbatt_counterattack_mod_length_15: "15 dias"  #NT!
+ setting_tbatt_counterattack_mod_length_15_desc: "#high Las mejoras de contraataque duran 15 días."  #NT!
+ setting_tbatt_counterattack_mod_length_18: "18 dias"  #NT!
+ setting_tbatt_counterattack_mod_length_18_desc: "#high Las mejoras de contraataque duran 18 días."  #NT!
+ setting_tbatt_counterattack_mod_length_20: "20 dias"  #NT!
+ setting_tbatt_counterattack_mod_length_20_desc: "#high Las mejoras de contraataque duran 20 días."  #NT!
+ setting_tbatt_counterattack_mod_length_22: "22 dias"  #NT!
+ setting_tbatt_counterattack_mod_length_22_desc: "#high Las mejoras de contraataque duran 22 días."  #NT!
+ setting_tbatt_counterattack_mod_length_25: "25 dias"  #NT!
+ setting_tbatt_counterattack_mod_length_25_desc: "#high Las mejoras de contraataque duran 25 días."  #NT!
+ setting_tbatt_counterattack_mod_length_30: "30 dias"  #NT!
+ setting_tbatt_counterattack_mod_length_30_desc: "#high Las mejoras de contraataque duran 30 días."  #NT!
+ setting_tbatt_counterattack_default_mod_length: "Predeterminado (10 días)"  #NT!
+ setting_tbatt_counterattack_default_mod_length_desc: "#high Las mejoras de contraataque duran por defecto 10 días."  #NT!
+  
+ # Martial Skill Increase Value Rule 
+ rule_tactical_martial_increase_skill_value: "#bold #difficulty_hard • Batallas tácticas • #!\nMax Aumento de habilidad marcial"  #NT!
+ setting_tbatt_martial_skill_increase_default_value: "3 marcial (predeterminado)"  #NT!
+ setting_tbatt_martial_skill_increase_default_value_desc: "#high Los comandantes tienen una probabilidad (según la 'Probabilidad de aumento de habilidad') de obtener un máximo de 3 [martial|E] puntos de habilidad al derrotar el flanco de un comandante más hábil."  #NT!
+ setting_tbatt_martial_skill_increase_value_1: "1 marcial"  #NT!
+ setting_tbatt_martial_skill_increase_value_1_desc: "#high Los comandantes tienen una probabilidad basada en la 'Probabilidad de aumento de habilidad' de ganar 1 [martial|E] puntos de habilidad al derrotar el flanco de un comandante más hábil."  #NT!
+ setting_tbatt_martial_skill_increase_value_2: "2 marcial"  #NT!
+ setting_tbatt_martial_skill_increase_value_2_desc: "#high Los comandantes tienen una probabilidad basada en la 'Probabilidad de aumento de habilidad' de obtener un máximo de 2 [martial|E] puntos de habilidad al derrotar el flanco de un comandante más hábil."  #NT!
+ setting_tbatt_martial_skill_increase_value_3: "3 marcial (predeterminado)"  #NT!
+ setting_tbatt_martial_skill_increase_value_3_desc: "#high Los comandantes tienen una probabilidad basada en la 'Probabilidad de aumento de habilidad' de obtener un máximo de 3 [martial|E] puntos de habilidad al derrotar el flanco de un comandante más hábil."  #NT!
+ setting_tbatt_martial_skill_increase_value_4: "4 marcial"  #NT!
+ setting_tbatt_martial_skill_increase_value_4_desc: "#high Los comandantes tienen una probabilidad basada en la 'Probabilidad de aumento de habilidad' de obtener un máximo de 4 [martial|E] puntos de habilidad al derrotar el flanco de un comandante más hábil."  #NT!
+ setting_tbatt_martial_skill_increase_value_5: "5 marcial"  #NT!
+ setting_tbatt_martial_skill_increase_value_5_desc: "#high Los comandantes tienen una probabilidad basada en la 'Probabilidad de aumento de habilidad' de obtener un máximo de 5 [martial|E] puntos de habilidad al derrotar el flanco de un comandante más hábil."  #NT!
+ setting_tbatt_martial_skill_increase_value_6: "6 marcial"  #NT!
+ setting_tbatt_martial_skill_increase_value_6_desc: "#high Los comandantes obtienen 6 puntos de habilidad marcial por victorias tácticas."  #NT!
+  
+ # Commander Martial Difference Value Rule 
+ rule_tactical_martial_increase_diff_value: "#bold #difficulty_hard • Batallas tácticas • #!\nCommander Diferencia marcial"  #NT!
+ setting_tbatt_commander_martial_diff_default_value: "4 Diferencia de habilidades (predeterminado)"  #NT!
+ setting_tbatt_commander_martial_diff_default_value_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 4 o más [martial|E], existe la posibilidad de aumentar su habilidad [martial|E] al derrotar al comandante más hábil."  #NT!
+ setting_tbatt_commander_martial_diff_value_1: "1 diferencia de habilidad"  #NT!
+ setting_tbatt_commander_martial_diff_value_1_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 1 o más [martial|E], existe la posibilidad de aumentar su habilidad [martial|E] al derrotar al comandante más hábil."  #NT!
+ setting_tbatt_commander_martial_diff_value_3: "3 diferencia de habilidades"  #NT!
+ setting_tbatt_commander_martial_diff_value_3_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 3 o más [martial|E], existe la posibilidad de aumentar su habilidad [martial|E] al derrotar al comandante más hábil."  #NT!
+ setting_tbatt_commander_martial_diff_value_4: "4 Diferencia de habilidades (predeterminado)"  #NT!
+ setting_tbatt_commander_martial_diff_value_4_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 4 o más [martial|E], existe la posibilidad de aumentar su habilidad [martial|E] al derrotar al comandante más hábil."  #NT!
+ setting_tbatt_commander_martial_diff_value_5: "5 diferencia de habilidades"  #NT!
+ setting_tbatt_commander_martial_diff_value_5_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 5 o más [martial|E], existe la posibilidad de aumentar su habilidad [martial|E] al derrotar al comandante más hábil."  #NT!
+ setting_tbatt_commander_martial_diff_value_6: "6 diferencia de habilidades"  #NT!
+ setting_tbatt_commander_martial_diff_value_6_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 6 o más [martial|E], existe la posibilidad de aumentar su habilidad [martial|E] al derrotar al comandante más hábil."  #NT!
+ setting_tbatt_commander_martial_diff_value_7: "7 diferencia de habilidades"  #NT!
+ setting_tbatt_commander_martial_diff_value_7_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 7 o más [martial|E], existe la posibilidad de aumentar su habilidad [martial|E] al derrotar al comandante más hábil."  #NT!
+ setting_tbatt_commander_martial_diff_value_10: "10 diferencias de habilidades"  #NT!
+ setting_tbatt_commander_martial_diff_value_10_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 10 o más [martial|E], existe la posibilidad de aumentar su habilidad [martial|E] al derrotar al comandante más hábil."  #NT!
+ setting_tbatt_commander_martial_diff_value_12: "12 diferencia de habilidades"  #NT!
+ setting_tbatt_commander_martial_diff_value_12_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 12 o más [martial|E], existe la posibilidad de aumentar su habilidad [martial|E] al derrotar al comandante más hábil."  #NT!
+ setting_tbatt_commander_martial_diff_value_15: "15 diferencia de habilidades"  #NT!
+ setting_tbatt_commander_martial_diff_value_15_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 15 o más [martial|E], existe la posibilidad de aumentar su habilidad [martial|E] al derrotar al comandante más hábil."  #NT!
+  
+ # Skill Increase Chance Value Rule 
+ rule_tactical_skill_increase_chance_value: "#bold #difficulty_hard • Batallas tácticas • #!\nChance Para aumentar la habilidad marcial"  #NT!
+ setting_tbatt_skill_increase_chance_default_value: "75% (predeterminado)"  #NT!
+ setting_tbatt_skill_increase_chance_default_value_desc: "#high Los comandantes por debajo del límite de [martial|E] ganancia de habilidad tienen un 75 % de posibilidades de obtener [martial|E] habilidad al derrotar el flanco de un comandante más hábil."  #NT!
+ setting_tbatt_skill_increase_chance_value_0: "0"  #NT!
+ setting_tbatt_skill_increase_chance_value_0_desc: "#high Los comandantes bajo la configuración 'Límite de ganancia de habilidades marciales' no obtendrán [martial|E] habilidad al derrotar el flanco de un comandante más hábil."  #NT!
+ setting_tbatt_skill_increase_chance_value_25: "25%"  #NT!
+ setting_tbatt_skill_increase_chance_value_25_desc: "#high Los comandantes bajo la configuración 'Límite de ganancia de habilidades marciales' tienen un 25 % de posibilidades de obtener [martial|E] habilidad al derrotar el flanco de un comandante más hábil."  #NT!
+ setting_tbatt_skill_increase_chance_value_33: "33%"  #NT!
+ setting_tbatt_skill_increase_chance_value_33_desc: "#high Los comandantes bajo la configuración 'Límite de ganancia de habilidades marciales' tienen un 33 % de posibilidades de obtener [martial|E] habilidad al derrotar el flanco de un comandante más hábil."  #NT!
+ setting_tbatt_skill_increase_chance_value_50: "50%"  #NT!
+ setting_tbatt_skill_increase_chance_value_50_desc: "#high Los comandantes bajo la configuración 'Límite de ganancia de habilidades marciales' tienen un 50 % de posibilidades de obtener [martial|E] habilidad al derrotar el flanco de un comandante más hábil."  #NT!
+ setting_tbatt_skill_increase_chance_value_60: "60%"  #NT!
+ setting_tbatt_skill_increase_chance_value_60_desc: "#high Los comandantes bajo la configuración 'Límite de ganancia de habilidades marciales' tienen un 60 % de posibilidades de obtener [martial|E] habilidad al derrotar el flanco de un comandante más hábil."  #NT!
+ setting_tbatt_skill_increase_chance_value_85: "85%"  #NT!
+ setting_tbatt_skill_increase_chance_value_85_desc: "#high Los comandantes bajo la configuración 'Límite de ganancia de habilidades marciales' tienen un 85% de posibilidades de obtener [martial|E] habilidad al derrotar el flanco de un comandante más hábil."  #NT!
+ setting_tbatt_skill_increase_chance_value_100: "100%"  #NT!
+ setting_tbatt_skill_increase_chance_value_100_desc: "#high Los comandantes bajo la configuración 'Límite de ganancia de habilidades marciales' tienen un 100 % de posibilidades de obtener [martial|E] habilidad al derrotar el flanco de un comandante más hábil."  #NT!
+  
+ rule_tactical_skill_cap_value: "#bold #difficulty_hard • Batallas tácticas • #!\nCap Sobre ganancia de habilidades marciales"  #NT!
+ setting_tbatt_martial_skill_cap_default_value: "24 Habilidad marcial (predeterminada)"  #NT!
+ setting_tbatt_martial_skill_cap_default_value_desc: "#high Cuando uno de tus comandantes de flanco tiene menos de 24 [martial|E], puede ganar [martial|E] habilidad al derrotar el flanco de un comandante más hábil. (Determinado por la Regla de Diferencia Marcial del Comandante)"  #NT!
+ setting_tbatt_martial_skill_cap_value_21: "21 habilidad marcial"  #NT!
+ setting_tbatt_martial_skill_cap_value_21_desc: "#high Cuando uno de tus comandantes de flanco tiene menos de 21 [martial|E], puede ganar [martial|E] habilidad al derrotar el flanco de un comandante más hábil. (Determinado por la Regla de Diferencia Marcial del Comandante)"  #NT!
+ setting_tbatt_martial_skill_cap_value_24: "24 Habilidad marcial (predeterminada)"  #NT!
+ setting_tbatt_martial_skill_cap_value_24_desc: "#high Cuando uno de tus comandantes de flanco tiene menos de 24 [martial|E], puede ganar [martial|E] habilidad al derrotar el flanco de un comandante más hábil. (Determinado por la Regla de Diferencia Marcial del Comandante)"  #NT!
+ setting_tbatt_martial_skill_cap_value_27: "27 habilidad marcial"  #NT!
+ setting_tbatt_martial_skill_cap_value_27_desc: "#high Cuando uno de tus comandantes de flanco tiene menos de 27 [martial|E], puede ganar [martial|E] habilidad al derrotar el flanco de un comandante más hábil. (Determinado por la Regla de Diferencia Marcial del Comandante)"  #NT!
+ setting_tbatt_martial_skill_cap_value_30: "30 habilidad marcial"  #NT!
+ setting_tbatt_martial_skill_cap_value_30_desc: "#high Cuando uno de tus comandantes de flanco tiene menos de 30 [martial|E], puede ganar [martial|E] habilidad al derrotar el flanco de un comandante más hábil. (Determinado por la Regla de Diferencia Marcial del Comandante)"  #NT!
+ setting_tbatt_martial_skill_cap_value_35: "35 habilidad marcial"  #NT!
+ setting_tbatt_martial_skill_cap_value_35_desc: "#high Cuando uno de tus comandantes de flanco tiene menos de 35 [martial|E], puede ganar [martial|E] habilidad al derrotar el flanco de un comandante más hábil. (Determinado por la Regla de Diferencia Marcial del Comandante)"  #NT!
+ setting_tbatt_martial_skill_cap_value_100: "100 Habilidad Marcial"  #NT!
+ setting_tbatt_martial_skill_cap_value_100_desc: "#high Cuando uno de tus comandantes de flanco tiene menos de 100 [martial|E], puede ganar [martial|E] habilidad al derrotar el flanco de un comandante más hábil. (Determinado por la Regla de Diferencia Marcial del Comandante)"  #NT!
+  
+ # Martial Skill Increase Value Rule 
+ rule_tactical_prowess_increase_skill_value: "#bold #difficulty_hard • Batallas tácticas • #!\nMax Aumento de habilidad de destreza"  #NT!
+ setting_tbatt_prowess_skill_increase_default_value: "3 destreza (predeterminado)"  #NT!
+ setting_tbatt_prowess_skill_increase_default_value_desc: "#high Los comandantes tienen una probabilidad (según la 'Probabilidad de aumento de habilidad') de obtener un máximo de 3 [prowess|E] puntos de habilidad al superar a un comandante más hábil."  #NT!
+ setting_tbatt_prowess_skill_increase_value_1: "1 destreza"  #NT!
+ setting_tbatt_prowess_skill_increase_value_1_desc: "#high Los comandantes tienen una probabilidad basada en la 'Probabilidad de aumento de habilidad' de ganar 1 [prowess|E] puntos de habilidad al superar a un comandante más hábil."  #NT!
+ setting_tbatt_prowess_skill_increase_value_2: "2 destreza"  #NT!
+ setting_tbatt_prowess_skill_increase_value_2_desc: "#high Los comandantes tienen una probabilidad basada en la 'Probabilidad de aumento de habilidad' de obtener un máximo de 2 [prowess|E] puntos de habilidad al superar a un comandante más hábil."  #NT!
+ setting_tbatt_prowess_skill_increase_value_3: "3 destreza (predeterminado)"  #NT!
+ setting_tbatt_prowess_skill_increase_value_3_desc: "#high Los comandantes tienen una probabilidad basada en la 'Probabilidad de aumento de habilidad' de obtener un máximo de 3 [prowess|E] puntos de habilidad al superar a un comandante más hábil."  #NT!
+ setting_tbatt_prowess_skill_increase_value_4: "4 destreza"  #NT!
+ setting_tbatt_prowess_skill_increase_value_4_desc: "#high Los comandantes tienen una probabilidad basada en la 'Probabilidad de aumento de habilidad' de obtener un máximo de 4 [prowess|E] puntos de habilidad al superar a un comandante más hábil."  #NT!
+ setting_tbatt_prowess_skill_increase_value_5: "5 destreza"  #NT!
+ setting_tbatt_prowess_skill_increase_value_5_desc: "#high Los comandantes tienen una probabilidad basada en la 'Probabilidad de aumento de habilidad' de obtener un máximo de 5 [prowess|E] puntos de habilidad al superar a un comandante más hábil."  #NT!
+ setting_tbatt_prowess_skill_increase_value_6: "6 destreza"  #NT!
+ setting_tbatt_prowess_skill_increase_value_6_desc: "#high Los comandantes obtienen 6 puntos de habilidad por victorias tácticas."  #NT!
+  
+ # Commander Martial Difference Value Rule 
+ rule_tactical_prowess_increase_diff_value: "#bold #difficulty_hard • Batallas tácticas • #!\nCommander Diferencia de destreza"  #NT!
+ setting_tbatt_commander_prowess_diff_default_value: "4 Diferencia de habilidades (predeterminado)"  #NT!
+ setting_tbatt_commander_prowess_diff_default_value_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 4 o más [prowess|E], existe la posibilidad de aumentar su habilidad [prowess|E] al vencer a un comandante hábil."  #NT!
+ setting_tbatt_commander_prowess_diff_value_0: "0 diferencia de habilidad"  #NT!
+ setting_tbatt_commander_prowess_diff_value_0_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 1 o más [prowess|E], existe la posibilidad de aumentar su habilidad [prowess|E] al vencer a un comandante hábil."  #NT!
+ setting_tbatt_commander_prowess_diff_value_1: "1 diferencia de habilidad"  #NT!
+ setting_tbatt_commander_prowess_diff_value_1_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 1 o más [prowess|E], existe la posibilidad de aumentar su habilidad [prowess|E] al vencer a un comandante hábil."  #NT!
+ setting_tbatt_commander_prowess_diff_value_3: "3 diferencia de habilidades"  #NT!
+ setting_tbatt_commander_prowess_diff_value_3_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 3 o más [prowess|E], existe la posibilidad de aumentar su habilidad [prowess|E] al vencer a un comandante hábil."  #NT!
+ setting_tbatt_commander_prowess_diff_value_4: "4 Diferencia de habilidades (predeterminado)"  #NT!
+ setting_tbatt_commander_prowess_diff_value_4_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 4 o más [prowess|E], existe la posibilidad de aumentar su habilidad [prowess|E] al vencer a un comandante hábil."  #NT!
+ setting_tbatt_commander_prowess_diff_value_5: "5 diferencia de habilidades"  #NT!
+ setting_tbatt_commander_prowess_diff_value_5_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 5 o más [prowess|E], existe la posibilidad de aumentar su habilidad [prowess|E] al vencer a un comandante hábil."  #NT!
+ setting_tbatt_commander_prowess_diff_value_6: "6 diferencia de habilidades"  #NT!
+ setting_tbatt_commander_prowess_diff_value_6_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 6 o más [prowess|E], existe la posibilidad de aumentar su habilidad [prowess|E] al vencer a un comandante hábil."  #NT!
+ setting_tbatt_commander_prowess_diff_value_7: "7 diferencia de habilidades"  #NT!
+ setting_tbatt_commander_prowess_diff_value_7_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 7 o más [prowess|E], existe la posibilidad de aumentar su habilidad [prowess|E] al vencer a un comandante hábil."  #NT!
+ setting_tbatt_commander_prowess_diff_value_10: "10 diferencias de habilidades"  #NT!
+ setting_tbatt_commander_prowess_diff_value_10_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 10 o más [prowess|E], existe la posibilidad de aumentar su habilidad [prowess|E] al vencer a un comandante hábil."  #NT!
+ setting_tbatt_commander_prowess_diff_value_12: "12 diferencia de habilidades"  #NT!
+ setting_tbatt_commander_prowess_diff_value_12_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 12 o más [prowess|E], existe la posibilidad de aumentar su habilidad [prowess|E] al vencer a un comandante hábil."  #NT!
+ setting_tbatt_commander_prowess_diff_value_15: "15 diferencia de habilidades"  #NT!
+ setting_tbatt_commander_prowess_diff_value_15_desc: "#high Cuando uno de tus comandantes de flanco es superado en habilidades por el comandante de flanco enemigo en 15 o más [prowess|E], existe la posibilidad de aumentar su habilidad [prowess|E] al vencer a un comandante hábil."  #NT!
+  
+ # Skill Increase Chance Value Rule 
+ rule_tactical_prowess_skill_increase_chance_value: "#bold #difficulty_hard • Batallas tácticas • #!\nChance Para aumentar la habilidad de destreza"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_default_value: "75% (predeterminado)"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_default_value_desc: "#high Comandantes bajo el límite de [prowess|E] ganancia de habilidad tienen un 75 % de posibilidades de obtener [prowess|E] habilidad al superar a un comandante más hábil."  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_0: "0"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_0_desc: "#high Los comandantes bajo la configuración 'Límite de ganancia de habilidad de destreza' no obtendrán [prowess|E] habilidad al vencer a un comandante más hábil."  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_25: "25%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_25_desc: "#high Los comandantes bajo la configuración 'Límite de ganancia de habilidades de destreza' tienen un 25% de posibilidades de obtener [prowess|E] habilidad al vencer a un comandante más hábil."  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_33: "33%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_33_desc: "#high Los comandantes bajo la configuración 'Límite de ganancia de habilidades de destreza' tienen un 33 % de probabilidad de obtener [prowess|E] habilidad al vencer a un comandante más hábil."  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_50: "50%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_50_desc: "#high Los comandantes bajo la configuración 'Límite de ganancia de habilidades de destreza' tienen un 50% de posibilidades de obtener [prowess|E] habilidad al vencer a un comandante más hábil."  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_60: "60%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_60_desc: "#high Los comandantes bajo la configuración 'Límite de ganancia de habilidades de destreza' tienen un 60% de posibilidades de obtener [prowess|E] habilidad al vencer a un comandante más hábil."  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_85: "85%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_85_desc: "#high Los comandantes bajo la configuración 'Límite de ganancia de habilidades de destreza' tienen un 85% de posibilidades de obtener [prowess|E] habilidad al vencer a un comandante más hábil."  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_100: "100%"  #NT!
+ setting_tbatt_prowess_skill_increase_chance_value_100_desc: "#high Los comandantes bajo la configuración 'Límite de ganancia de habilidades de destreza' tienen un 100% de posibilidades de obtener [prowess|E] habilidad al vencer a un comandante más hábil."  #NT!
+  
+ rule_tactical_prowess_skill_cap_value: "#bold #difficulty_hard • Batallas tácticas • #!\nCap En ganancia de habilidad"  #NT!
+ setting_tbatt_prowess_skill_cap_default_value: "31 Habilidad de destreza (predeterminada)"  #NT!
+ setting_tbatt_prowess_skill_cap_default_value_desc: "#high Cuando uno de tus comandantes de flanco tiene menos de 31 [prowess|E], puede obtener [prowess|E] habilidad al vencer a un comandante más hábil. (Determinado por la regla de diferencia de destreza del comandante)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_27: "27 Habilidad de destreza"  #NT!
+ setting_tbatt_prowess_skill_cap_value_27_desc: "#high Cuando uno de tus comandantes de flanco tiene menos de 27 [prowess|E], puede ganar [prowess|E] habilidad al vencer a un comandante más hábil. (Determinado por la regla de diferencia de destreza del comandante)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_34: "34 Habilidad de destreza (predeterminada)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_34_desc: "#high Cuando uno de tus comandantes de flanco tiene menos de 34 [prowess|E], puede obtener [prowess|E] habilidad al superar a un comandante más hábil. (Determinado por la regla de diferencia de destreza del comandante)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_37: "37 Habilidad de destreza"  #NT!
+ setting_tbatt_prowess_skill_cap_value_37_desc: "#high Cuando uno de tus comandantes de flanco tiene menos de 37 [prowess|E], puede ganar [prowess|E] habilidad al vencer a un comandante más hábil. (Determinado por la regla de diferencia de destreza del comandante)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_40: "40 Habilidad de destreza"  #NT!
+ setting_tbatt_prowess_skill_cap_value_40_desc: "#high Cuando uno de tus comandantes de flanco tiene menos de 40 [prowess|E], puede obtener [prowess|E] habilidad al superar a un comandante más hábil. (Determinado por la regla de diferencia de destreza del comandante)"  #NT!
+ setting_tbatt_prowess_skill_cap_value_100: "100 Habilidad de destreza"  #NT!
+ setting_tbatt_prowess_skill_cap_value_100_desc: "#high Cuando uno de tus comandantes de flanco tiene menos de 100 [prowess|E], puede obtener [prowess|E] habilidad al superar a un comandante más hábil. (Determinado por la regla de diferencia de destreza del comandante)"  #NT!
+  
+ rule_tactical_recruit_soldier_month_value: "#bold #difficulty_hard • Batallas tácticas • #!\Cooldown Para reclutar soldados"  #NT!
+ setting_tbatt_recruit_soldier_month_default_value: "3 años (predeterminado)"  #NT!
+ setting_tbatt_recruit_soldier_month_default_value_desc: "#high Hay un tiempo de reutilización de 3 años para reclutar capitanes entre hombres de armas de forma predeterminada."  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_6: "6 meses"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_6_desc:0 "#high There is a 6 month cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_12: "1 año"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_12_desc:0 "#high There is a 1 year cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_24: "2 años"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_24_desc:0 "#high There is a 2 year cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_48: "4 años"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_48_desc:0 "#high There is a 4 year cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_60: "5 años"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_60_desc:0 "#high There is a 5 year cooldown to recruit captains 
+ setting_tbatt_recruit_soldier_event_value_value_84: "7 años"  #NT!
+ setting_tbatt_recruit_soldier_event_value_value_84_desc:0 "#high There is a 7 year cooldown to recruit captains 
+  
+ tact_left_commander_wounded_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] heridos [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_wounded_enemy_duel_toast_desc: "[left_flank_commander.GetFirstNameNicknamed] heridos [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba [left_flank_commander.GetHerHis] tropas en batalla!"  #NT!
+ tact_left_commander_onelegged_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] mutilado [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_onelegged_enemy_duel_toast_desc: "¡[left_flank_commander.GetFirstNameNicknamed] tomó la pierna de [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba a [left_flank_commander.GetHerHis] tropas en la batalla!"  #NT!
+ tact_left_commander_oneeyed_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] mutilado [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_oneeyed_enemy_duel_toast_desc: "¡[left_flank_commander.GetFirstNameNicknamed] tomó el ojo de [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba a [left_flank_commander.GetHerHis] tropas en la batalla!"  #NT!
+ tact_left_commander_disfigured_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] desfigurado [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_disfigured_enemy_duel_toast_desc: "¡[left_flank_commander.GetFirstNameNicknamed] desfiguró a [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba a [left_flank_commander.GetHerHis] tropas en la batalla!"  #NT!
+ tact_left_commander_maimed_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] mutilado [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_maimed_enemy_duel_toast_desc: "¡[left_flank_commander.GetFirstNameNicknamed] mutiló a [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba a [left_flank_commander.GetHerHis] tropas en la batalla!"  #NT!
+ tact_left_commander_killed_enemy_duel_toast: "[left_flank_commander.GetFirstNameNicknamed] asesinado [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_left_commander_killed_enemy_duel_toast_desc: "¡[left_flank_commander.GetFirstNameNicknamed] mató a [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba [left_flank_commander.GetHerHis] tropas en la batalla!"  #NT!
+ tact_give_left_commander_prowess_toast: "☻ ¡La habilidad _0 ha mejorado!"  #NT!
+ tact_give_left_commander_prowess_toast_desc: "¡A través de [left_flank_commander.GetHerHis] acciones en batalla, [left_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] habilidad ha mejorado y [left_flank_commander.GetHerHis] reputación crece!"  #NT!
+  
+ tact_right_commander_wounded_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] heridos [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_wounded_enemy_duel_toast_desc: "[right_flank_commander.GetFirstNameNicknamed] heridos [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba [right_flank_commander.GetHerHis] tropas en batalla!"  #NT!
+ tact_right_commander_onelegged_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] mutilado [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_onelegged_enemy_duel_toast_desc: "¡[right_flank_commander.GetFirstNameNicknamed] tomó la pierna de [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba a [right_flank_commander.GetHerHis] tropas en la batalla!"  #NT!
+ tact_right_commander_oneeyed_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] mutilado [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_oneeyed_enemy_duel_toast_desc: "¡[right_flank_commander.GetFirstNameNicknamed] tomó el ojo de [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba a [right_flank_commander.GetHerHis] tropas en la batalla!"  #NT!
+ tact_right_commander_disfigured_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] desfigurado [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_disfigured_enemy_duel_toast_desc: "¡[right_flank_commander.GetFirstNameNicknamed] desfiguró a [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba a [right_flank_commander.GetHerHis] tropas en la batalla!"  #NT!
+ tact_right_commander_maimed_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] mutilado [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_maimed_enemy_duel_toast_desc: "¡[right_flank_commander.GetFirstNameNicknamed] mutiló a [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba a [right_flank_commander.GetHerHis] tropas en la batalla!"  #NT!
+ tact_right_commander_killed_enemy_duel_toast: "[right_flank_commander.GetFirstNameNicknamed] asesinado [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_right_commander_killed_enemy_duel_toast_desc: "¡[right_flank_commander.GetFirstNameNicknamed] mató a [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba [right_flank_commander.GetHerHis] tropas en la batalla!"  #NT!
+ tact_give_right_commander_prowess_toast: "☻ ¡La habilidad _0 ha mejorado!"  #NT!
+ tact_give_right_commander_prowess_toast_desc: "¡A través de [right_flank_commander.GetHerHis] acciones en batalla, [right_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] habilidad ha mejorado y [right_flank_commander.GetHerHis] reputación crece!"  #NT!
+  
+ tact_center_commander_wounded_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] heridos [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_wounded_enemy_duel_toast_desc: "[center_flank_commander.GetFirstNameNicknamed] heridos [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba [center_flank_commander.GetHerHis] tropas en batalla!"  #NT!
+ tact_center_commander_onelegged_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] mutilado [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_onelegged_enemy_duel_toast_desc: "¡[center_flank_commander.GetFirstNameNicknamed] tomó la pierna de [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba a [center_flank_commander.GetHerHis] tropas en la batalla!"  #NT!
+ tact_center_commander_oneeyed_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] mutilado [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_oneeyed_enemy_duel_toast_desc: "¡[center_flank_commander.GetFirstNameNicknamed] tomó el ojo de [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba a [center_flank_commander.GetHerHis] tropas en la batalla!"  #NT!
+ tact_center_commander_disfigured_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] desfigurado [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_disfigured_enemy_duel_toast_desc: "¡[center_flank_commander.GetFirstNameNicknamed] desfiguró a [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba a [center_flank_commander.GetHerHis] tropas en la batalla!"  #NT!
+ tact_center_commander_maimed_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] mutilado [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_maimed_enemy_duel_toast_desc: "¡[center_flank_commander.GetFirstNameNicknamed] mutiló a [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba a [center_flank_commander.GetHerHis] tropas en la batalla!"  #NT!
+ tact_center_commander_killed_enemy_duel_toast: "[center_flank_commander.GetFirstNameNicknamed] asesinado [enemy_knight_for_duel.GetFullNameNicknamed]!"  #NT!
+ tact_center_commander_killed_enemy_duel_toast_desc: "¡[center_flank_commander.GetFirstNameNicknamed] mató a [enemy_knight_for_duel.GetFullNameNicknamed] mientras lideraba [center_flank_commander.GetHerHis] tropas en la batalla!"  #NT!
+ tact_give_center_commander_prowess_toast: "☻ ¡La habilidad _0 ha mejorado!"  #NT!
+ tact_give_center_commander_prowess_toast_desc: "¡A través de [center_flank_commander.GetHerHis] acciones en batalla, [center_flank_commander.GetFirstNameNicknamedPossessiveOrMyRegnal] habilidad ha mejorado y [center_flank_commander.GetHerHis] reputación crece!"  #NT!
+  
+  
+ tact_give_victor_commander_prowess_toast: "☻ ¡La habilidad _0 ha mejorado!"  #NT!
+ tact_give_victor_commander_prowess_toast_desc: "¡Después de derrotar, la habilidad [sc_loser.GetFirstNameNicknamed] en combate singular [sc_victor.GetFirstNameNicknamedPossessiveOrMyRegnal] ha mejorado!"  #NT!
+  

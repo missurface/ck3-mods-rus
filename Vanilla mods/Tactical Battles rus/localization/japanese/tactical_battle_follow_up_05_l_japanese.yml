@@ -1,0 +1,280 @@
+﻿l_japanese:
+ tactical_forest_battle.9453.t: "右の円"  #NT!
+ tactical_forest_battle.9453.desc: "[enemy_commander.GetFirstNamePossessive]右翼を包囲することに成功しました！彼らは閉じ込められ、破滅に直面しています。必殺の一撃を与えなければなりません！"  #NT!
+ tactical_forest_battle.9453.a: "包囲された軍隊の虐殺を開始する"  #NT!
+ tactical_forest_battle.9453.a.success: "包囲された部隊は皆殺しにされる！"  #NT!
+ tactical_forest_battle.9453.a.failure: "包囲された部隊が脱出する！"  #NT!
+ tactical_forest_battle.9453.b: "捕虜を取る"  #NT!
+ tactical_forest_battle.9453.b.success: "多くの捕虜を捕らえます！"  #NT!
+ tactical_forest_battle.9453.b.failure: "捕虜が逃げ出す！"  #NT!
+  
+ tactical_forest_battle.9473.t: "ラリー・アーミー"  #NT!
+ tactical_forest_battle.9473.desc: "戦いはさらに激化！私たちの軍隊には、敵の激しい抵抗を押し切るためのインスピレーションが必要です!"  #NT!
+ tactical_forest_battle.9473.a: "決定的な攻撃を呼びかける"  #NT!
+ tactical_forest_battle.9473.a.success: "陸軍は決定的な攻撃を開始します！"  #NT!
+ tactical_forest_battle.9473.a.failure: "ストライキは実現しない！"  #NT!
+ tactical_forest_battle.9473.b: "より良い地面のために位置を変更する"  #NT!
+ tactical_forest_battle.9473.b.success: "より良い地面に強制的に位置を変更します!"  #NT!
+ tactical_forest_battle.9473.b.failure: "再配置に失敗します。"  #NT!
+ tactical_forest_battle.9473.c: "予備の援軍を送る"  #NT!
+ tactical_forest_battle.9473.c.success: "リザーブでラインを強化！"  #NT!
+ tactical_forest_battle.9473.c.failure: "予約が遅れています！"  #NT!
+ tactical_forest_battle.9473.d: "敵中央への突撃を先導する"  #NT!
+ tactical_forest_battle.9473.d.success: "センターへのチャージ成功！"  #NT!
+ tactical_forest_battle.9473.d.failure: "チャージは弾かれる！"  #NT!
+  
+ tactical_forest_battle.7220.t: "左が囲み始めます"  #NT!
+ tactical_forest_battle.7220.desc: "我が左翼は敵を包囲する作戦を開始した！この包囲を完了できれば、彼らを罠にはめて破壊することができます!"  #NT!
+ tactical_forest_battle.7220.a: "包囲を完了する"  #NT!
+ tactical_forest_battle.7220.a.success: "包囲網を完成させます！"  #NT!
+ tactical_forest_battle.7220.a.failure: "敵が暴れ出す！"  #NT!
+ tactical_forest_battle.7220.b: "騎士たちを送って彼らを定位置に留めてください"  #NT!
+ tactical_forest_battle.7220.b.success: "我らの騎士が敵を阻止する！"  #NT!
+ tactical_forest_battle.7220.b.failure: "敵が突破してきました！"  #NT!
+ tactical_forest_battle.7220.c: "敵をその場に留めるために私たちの優秀なユニットを送ってください！"  #NT!
+ tactical_forest_battle.7220.c.success: "敵は撤退できません！"  #NT!
+ tactical_forest_battle.7220.c.failure: "敵が包囲を突破！"  #NT!
+ tactical_forest_battle.7220.d: "左が囲みながら中央で失速させる"  #NT!
+ tactical_forest_battle.7220.d.success: "敵は撤退できません！"  #NT!
+ tactical_forest_battle.7220.d.failure: "敵は罠から逃れる！"  #NT!
+ tactical_forest_battle.7220.e: "部隊が包囲している間、部隊を結集させて前線を維持する"  #NT!
+ tactical_forest_battle.7220.e.success: "敵は撤退できません！"  #NT!
+ tactical_forest_battle.7220.e.failure: "敵は罠から逃れる！"  #NT!
+  
+  
+ tactical_forest_battle.7221.t: "右からの包囲開始"  #NT!
+ tactical_forest_battle.7221.desc: "我が右翼は敵を包囲する作戦を開始した！この包囲を完了できれば、彼らを罠にはめて破壊することができます!"  #NT!
+ tactical_forest_battle.7221.a: "包囲を完了する"  #NT!
+ tactical_forest_battle.7221.a.success: "包囲網を完成させます！"  #NT!
+ tactical_forest_battle.7221.a.failure: "敵が暴れ出す！"  #NT!
+ tactical_forest_battle.7221.b: "騎士たちを送って彼らを定位置に留めてください"  #NT!
+ tactical_forest_battle.7221.b.success: "我らの騎士が敵を阻止する！"  #NT!
+ tactical_forest_battle.7221.b.failure: "敵が突破してきました！"  #NT!
+ tactical_forest_battle.7221.c: "敵をその場に留めるために私たちの優秀なユニットを送ってください！"  #NT!
+ tactical_forest_battle.7221.c.success: "敵は撤退できません！"  #NT!
+ tactical_forest_battle.7221.c.failure: "敵が包囲を突破！"  #NT!
+ tactical_forest_battle.7221.d: "右が囲みながら中央で失速させる"  #NT!
+ tactical_forest_battle.7221.d.success: "敵は撤退できません！"  #NT!
+ tactical_forest_battle.7221.d.failure: "敵は罠から逃れる！"  #NT!
+  
+  
+  
+ tactical_forest_battle.6310.t: "罠が仕掛けられた！"  #NT!
+ tactical_forest_battle.6310.desc: "[right_flank_commander.GetTitledFirstNamePossessive]フェイントが完璧に効きました！ [enemy_commander.GetFirstNamePossessive] の保留命令はかき消され、[enemy_commander.GetHerHis] 前衛が陣形を崩して餌を取りました。彼らの戦列の左側は今や薄く伸びており、組織化されていない。"  #NT!
+ tactical_forest_battle.6310.a: "[right_flank_commander.GetTitledFirstName] が混乱した軍隊を私たちの優秀な部隊の罠に導きます"  #NT!
+ tactical_forest_battle.6310.a.success: "[enemy_commander.GetFirstNamePossessive] の右側が[right_flank_commander.GetFirstNamePossessive] の逃走部隊に続き、待ち伏せに突入します!"  #NT!
+ tactical_forest_battle.6310.a.failure: "右派は餌には応じない！"  #NT!
+ tactical_forest_battle.6310.b: "騎士を派遣して、彼らの伸びすぎた側面を粉砕しましょう"  #NT!
+ tactical_forest_battle.6310.b.success: "騎士たちは敵のむき出しの側面に激突し、陣形を崩す！"  #NT!
+ tactical_forest_battle.6310.b.failure: "敵はすぐに組織を再編成し、私たちの騎士に攻撃を仕掛けます"  #NT!
+ tactical_forest_battle.6310.c: "[left_flank_commander.GetTitledFirstNamePossessive] の側面から部隊を打ち破り、おびき寄せられたユニットを包囲します"  #NT!
+ tactical_forest_battle.6310.c.success: "[right_flank_commander.GetTitledFirstName] は敵部隊を包囲し、退路を断ち切ることに成功しました!"  #NT!
+ tactical_forest_battle.6310.c.failure: "敵は消耗した我が国の右翼に壊滅的な突撃を仕掛ける"  #NT!
+ tactical_forest_battle.6310.d: "[center_flank_commander.GetFirstNamePossessive] リザーブを回転させて、おびき寄せられたユニットを取り囲みます"  #NT!
+ tactical_forest_battle.6310.d.success: "予備軍は素早く移動し、包囲できる位置にある"  #NT!
+ tactical_forest_battle.6310.d.failure: "[enemy_commander.GetFirstNamePossessive] は私たちの消耗した中心を認識します!"  #NT!
+ tactical_forest_battle.6310.e: "フルチャージで誘惑されたユニットを方向転換して倒す"  #NT!
+ tactical_forest_battle.6310.e.success: "フルチャージで敵の意表を突く！"  #NT!
+ tactical_forest_battle.6310.e.failure: "敵は毅然とした態度を保ち、我々の突撃を撃退します！"  #NT!
+  
+  
+ tactical_forest_battle.7320.t: "敵は我々の前線の背後に強力に立つ"  #NT!
+ tactical_forest_battle.7320.desc: "[enemy_commander.GetFirstNamePossessive] 部隊が結集し、我々の後方で戦列を再編成しました。彼らは今、より深く掘り下げられ、我々の前線に背を向け、その陣形を強化している。私たちは彼らにプレスを続けるか、それとも戦術を変更するかを決断しなければなりません。"  #NT!
+ tactical_forest_battle.7320.a: "精鋭部隊を率いて突撃を送り、側面を攻撃しましょう"  #NT!
+ tactical_forest_battle.7320.a.success: "私たちの特殊部隊は彼らに気づかれずに彼らの戦線を一掃します!"  #NT!
+ tactical_forest_battle.7320.a.failure: "我が精鋭部隊は堅守を突破できない！"  #NT!
+ tactical_forest_battle.7320.b: "側面を攻撃するために騎士を送ります"  #NT!
+ tactical_forest_battle.7320.b.failure: "騎士団が敵の予備軍に迎撃される！"  #NT!
+ tactical_forest_battle.7320.c: "中央の予備を打ち破って後方を粉砕する"  #NT!
+ tactical_forest_battle.7320.c.success: "我がセンターの予備兵が彼らの後方に激突し、大混乱を引き起こした！"  #NT!
+ tactical_forest_battle.7320.c.failure: "突然のプッシュにより、センターの予備軍が離脱できなくなりました。"  #NT!
+ tactical_forest_battle.7320.d: "右のリザーブを振り切って後方を粉砕する"  #NT!
+ tactical_forest_battle.7320.d.success: "我がセンターの予備兵が彼らの後方に激突し、大混乱を引き起こした！"  #NT!
+ tactical_forest_battle.7320.d.failure: "突然のプッシュにより、センターの予備軍が離脱できなくなりました。"  #NT!
+ tactical_forest_battle.7320.e: "退却したふりをして追手を迎え撃つ"  #NT!
+ tactical_forest_battle.7320.e.success: "敵は私たちの欺瞞に陥り、予期せぬ攻撃を仕掛けてきます!"  #NT!
+ tactical_forest_battle.7320.e.failure: "敵は露出した中心部に後退します！"  #NT!
+  
+ tactical_forest_battle.7334.t: "敵は我々の前線の背後に強力に立つ"  #NT!
+ tactical_forest_battle.7334.desc: "[enemy_commander.GetFirstNamePossessive] 部隊が結集し、我々の後方で戦列を再編成しました。彼らは今、より深く掘り下げられ、我々の前線に背を向け、その陣形を強化している。私たちは彼らにプレスを続けるか、それとも戦術を変更するかを決断しなければなりません。"  #NT!
+ tactical_forest_battle.7334.a: "精鋭部隊を率いて突撃を送り、側面を攻撃しましょう"  #NT!
+ tactical_forest_battle.7334.a.success: "私たちの特殊部隊は彼らに気づかれずに彼らの戦線を一掃します!"  #NT!
+ tactical_forest_battle.7334.a.failure: "我が精鋭部隊は堅守を突破できない！"  #NT!
+ tactical_forest_battle.7334.b: "側面を攻撃するために騎士を送ります"  #NT!
+ tactical_forest_battle.7334.b.success: "我が騎士は敵の露出した側面に激突し、陣形を崩します！"  #NT!
+ tactical_forest_battle.7334.b.failure: "騎士団が敵の予備軍に迎撃される！"  #NT!
+ tactical_forest_battle.7334.c: "中央の予備を打ち破って後方を粉砕する"  #NT!
+ tactical_forest_battle.7334.c.success: "我がセンターの予備兵が彼らの後方に激突し、大混乱を引き起こした！"  #NT!
+ tactical_forest_battle.7334.c.failure: "突然のプッシュにより、センターの予備軍が離脱できなくなりました。"  #NT!
+ tactical_forest_battle.7334.d: "左の予備を打ち破って後方を粉砕する"  #NT!
+ tactical_forest_battle.7334.d.success: "我々の左翼予備軍が彼らの後方に激突し、大混乱を引き起こした！"  #NT!
+ tactical_forest_battle.7334.d.failure: "左側の予備部隊が突然のプッシュにより離脱できなくなりました。"  #NT!
+ tactical_forest_battle.7334.e: "退却したふりをして追手を迎え撃つ"  #NT!
+ tactical_forest_battle.7334.e.success: "敵は私たちの欺瞞に陥り、予期せぬ攻撃を仕掛けてきます!"  #NT!
+ tactical_forest_battle.7334.e.failure: "敵は露出した中心部に後退します！"  #NT!
+  
+ tactical_forest_battle.0653.t: "左側の増援"  #NT!
+ tactical_forest_battle.0653.desc: "[enemy_commander.GetFirstNamePossessive] 左翼が増援を受けています!彼らの力が強化されるのを防ぐために、私たちは迅速に行動しなければなりません。"  #NT!
+ tactical_forest_battle.0653.a: "左側から即時突撃を開始する"  #NT!
+ tactical_forest_battle.0653.a.success: "突撃により援軍が混乱します!"  #NT!
+ tactical_forest_battle.0653.a.failure: "突撃は撃退されました！"  #NT!
+ tactical_forest_battle.0653.b:0 "Send knights to charge their left 
+ tactical_forest_battle.0653.b.success: "騎士団が嫌がらせをして増援を遅らせます！"  #NT!
+ tactical_forest_battle.0653.b.failure: "騎士団が迎撃される！"  #NT!
+ tactical_forest_battle.0653.c: "中央軍を打ち破って左軍を攻撃する"  #NT!
+ tactical_forest_battle.0653.c.success: "中央軍が左翼を攻撃する！"  #NT!
+ tactical_forest_battle.0653.c.failure: "中央軍は阻止される！"  #NT!
+ tactical_forest_battle.0653.d: "新しいリザーブをローテーションして左翼を攻撃する"  #NT!
+ tactical_forest_battle.0653.d.success: "予備軍が攻撃を強化します！"  #NT!
+ tactical_forest_battle.0653.d.failure: "私たちの部下は離脱できません"  #NT!
+ tactical_forest_battle.0653.e: "我々の精鋭部隊を派遣して彼らの左翼を突破せよ"  #NT!
+ tactical_forest_battle.0653.e.success: "予備軍が攻撃を強化します！"  #NT!
+ tactical_forest_battle.0653.e.failure: "予約が遅れています！"  #NT!
+  
+ tactical_forest_battle.0656.t: "中心への増援"  #NT!
+ tactical_forest_battle.0656.desc: "[enemy_commander.GetFirstNamePossessive] 中央側面が増援を受けています!彼らの力が強化されるのを防ぐために、私たちは迅速に行動しなければなりません。"  #NT!
+ tactical_forest_battle.0656.a: "センターで即時充電を開始する"  #NT!
+ tactical_forest_battle.0656.a.success: "突撃により援軍が混乱します!"  #NT!
+ tactical_forest_battle.0656.a.failure: "突撃は撃退されました！"  #NT!
+ tactical_forest_battle.0656.b:0 "Send knights to charge their center 
+ tactical_forest_battle.0656.b.success: "騎士団が嫌がらせをして増援を遅らせます！"  #NT!
+ tactical_forest_battle.0656.b.failure: "騎士団が迎撃される！"  #NT!
+ tactical_forest_battle.0656.c: "中央部隊を打ち破って中央を攻撃する"  #NT!
+ tactical_forest_battle.0656.c.success: "中央軍が中央を攻撃します！"  #NT!
+ tactical_forest_battle.0656.c.failure: "中央軍は阻止される！"  #NT!
+ tactical_forest_battle.0656.d: "新しいリザーブをローテーションして中心部を攻撃する"  #NT!
+ tactical_forest_battle.0656.d.success: "予備軍が攻撃を強化します！"  #NT!
+ tactical_forest_battle.0656.d.failure: "私たちの部下は離脱できません"  #NT!
+ tactical_forest_battle.0656.f: "精鋭のクラック部隊を派遣して彼らの中心部を破壊する"  #NT!
+ tactical_forest_battle.0656.f.success: "予備軍が攻撃を強化します！"  #NT!
+ tactical_forest_battle.0656.f.failure: "予約が遅れています！"  #NT!
+  
+  
+ tactical_forest_battle.8005.desc: "[enemy_commander.GetFirstNamePossessive] 左翼がルーティング中です!これはアドバンテージを押し上げて完全に打ち破るチャンスです！"  #NT!
+ tactical_forest_battle.8005.t: "彼らの左はルーティングです"  #NT!
+ tactical_forest_battle.8005.a: "退却したふりをして向きを変えて殺す"  #NT!
+ tactical_forest_battle.8005.a.success: "敵はフェイントにかかり大混乱！"  #NT!
+ tactical_forest_battle.8005.a.failure: "敵はフェイントを見破る！"  #NT!
+ tactical_forest_battle.8005.b: "右サイドが左サイドを崩すために激しいプッシュを開始する"  #NT!
+ tactical_forest_battle.8005.b.success: "プッシュでブレークスルーを達成！"  #NT!
+ tactical_forest_battle.8005.b.failure: "押しはね返される！"  #NT!
+ tactical_forest_battle.8005.c: "騎士を派遣して左翼を破壊する"  #NT!
+ tactical_forest_battle.8005.c.success: "騎士は左から突撃する"  #NT!
+ tactical_forest_battle.8005.c.failure: "私たちのチャージは吸収されます！"  #NT!
+ tactical_forest_battle.8005.d: "精鋭のクラックユニットを派遣して敗走側面を突撃させよう"  #NT!
+ tactical_forest_battle.8005.d.success: "私たちのクラックユニットは左側に大混乱を引き起こします"  #NT!
+ tactical_forest_battle.8005.d.failure: "私たちのチャージは吸収されます！"  #NT!
+ tactical_forest_battle.8005.e: "揺れるラインでプレスアドバンテージを得る"  #NT!
+ tactical_forest_battle.8005.e.success: "右ライン全体が果敢に前へ突き進む！"  #NT!
+ tactical_forest_battle.8005.e.failure: "LINEの連携が進まない！"  #NT!
+  
+ tactical_forest_battle.8020.t: "彼らの権利はルーティングです"  #NT!
+ tactical_forest_battle.8020.desc: "[enemy_commander.GetFirstNamePossessive] 右翼がルーティング中です!これはアドバンテージを押し上げて完全に打ち破るチャンスです！"  #NT!
+ tactical_forest_battle.8020.a: "退却したふりをして向きを変えて殺す"  #NT!
+ tactical_forest_battle.8020.a.success: "敵はフェイントにかかり大混乱！"  #NT!
+ tactical_forest_battle.8020.a.failure: "敵はフェイントを見破る！"  #NT!
+ tactical_forest_battle.8020.b: "左サイドが右サイドを崩すために激しいプッシュを開始する"  #NT!
+ tactical_forest_battle.8020.b.success: "プッシュでブレークスルーを達成！"  #NT!
+ tactical_forest_battle.8020.b.failure: "押しはね返される！"  #NT!
+ tactical_forest_battle.8020.c: "彼らの権利を打ち破るために騎士を派遣する"  #NT!
+ tactical_forest_battle.8020.c.success: "騎士たちは右側から突進する"  #NT!
+ tactical_forest_battle.8020.c.failure: "私たちのチャージは吸収されます！"  #NT!
+ tactical_forest_battle.8020.d: "精鋭のクラックユニットを派遣して敗走側面を突撃させよう"  #NT!
+ tactical_forest_battle.8020.d.success: "私たちのクラックユニットは右側に大混乱を引き起こします"  #NT!
+ tactical_forest_battle.8020.d.failure: "私たちのチャージは吸収されます！"  #NT!
+ tactical_forest_battle.8020.e: "揺れるラインでプレスアドバンテージを得る"  #NT!
+ tactical_forest_battle.8020.e.success: "右ライン全体が果敢に前へ突き進む！"  #NT!
+ tactical_forest_battle.8020.e.failure: "LINEの連携が進まない！"  #NT!
+  
+  
+ tactical_forest_battle.9250.t: "彼らの中心はルーティングです"  #NT!
+ tactical_forest_battle.9250.desc: "[enemy_commander.GetFirstNamePossessive] センターの配線は完全に混乱しています!今こそ私たちが攻撃し、完全な勝利を達成する瞬間です!"  #NT!
+ tactical_forest_battle.9250.a: "左サイド包囲"  #NT!
+ tactical_forest_battle.9250.a.success: "左側面がルーティングセンターを取り囲んでいます!"  #NT!
+ tactical_forest_battle.9250.a.failure: "包囲は完了しません!"  #NT!
+ tactical_forest_battle.9250.b: "中央に猛チャージ"  #NT!
+ tactical_forest_battle.9250.b.success: "最後の一押しが中央粉砕！"  #NT!
+ tactical_forest_battle.9250.b.failure: "チャージは弾かれる！"  #NT!
+ tactical_forest_battle.9250.c: "中央を突破するために騎士を派遣する"  #NT!
+ tactical_forest_battle.9250.c.success: "ナイツはルーティングセンターを粉砕せよ！"  #NT!
+ tactical_forest_battle.9250.c.failure: "ナイツは中央に到達できません!"  #NT!
+ tactical_forest_battle.9250.d: "精鋭のクラックユニットを送り込んでセンターを完成させる"  #NT!
+ tactical_forest_battle.9250.d.success: "私たちのクラックユニットは中央でフィニッシュします！"  #NT!
+ tactical_forest_battle.9250.d.failure: "私たちのクラックユニットは突破できません!"  #NT!
+ tactical_forest_battle.9250.e: "プレスの利点"  #NT!
+ tactical_forest_battle.9250.e.success: "ライン全体が決定的なアドバンテージを迫ります！"  #NT!
+ tactical_forest_battle.9250.e.failure: "陸軍は利点を最大限に活用できません!"  #NT!
+ tactical_forest_battle.9250.f: "センター司令官最後の追い込み"  #NT!
+ tactical_forest_battle.9250.f.success: "センター司令官が破壊力を発揮！"  #NT!
+ tactical_forest_battle.9250.f.failure: "センター司令官の押しが失敗！"  #NT!
+  
+ tactical_forest_battle.9250.n: "[center_flank_commander.GetFullNameNicknamed] で [enemy_center_flank_commander.GetFullNameNicknamed] の料金がかかります"  #NT!
+ tactical_forest_battle.9250.n.success: "[center_flank_commander.GetFullNameNicknamed] デュエル [enemy_center_flank_commander.GetFullNameNicknamed]"  #NT!
+ tactical_forest_battle.9250.n.failure: "私たちのチャージは[enemy_center_flank_commander.GetFirstName]まで突破できません。"  #NT!
+ tactical_forest_battle.9250.kc: "デュエル勝利！"  #NT!
+ tactical_forest_battle.9250.kc.success: "[center_flank_commander.GetFullNameNicknamed] は一騎打ちで [enemy_center_flank_commander.GetFullNameNicknamed] を殺害し、軍隊の士気を低下させました。"  #NT!
+ tactical_forest_battle.9250.cc: "デュエル勝利！"  #NT!
+ tactical_forest_battle.9250.cc.success: "[center_flank_commander.GetFullNameNicknamed] は一騎打ちで [enemy_center_flank_commander.GetHerHim] を破り、軍隊の士気を下げた後、[enemy_center_flank_commander.GetFullNameNicknamed] を占領しました。"  #NT!
+ tactical_forest_battle.9250.ld: "デュエルで負けた！"  #NT!
+ tactical_forest_battle.9250.ld.failure: "[enemy_center_flank_commander.GetFirstName]を囲んで[center_flank_commander.GetFullNameNicknamed]が[enemy_center_flank_commander.GetFullNameNicknamed]に倒された！戦闘中！"  #NT!
+ tactical_forest_battle.9250.ldk: "デュエルで殺された！"  #NT!
+ tactical_forest_battle.9250.ldk.failure: "[center_flank_commander.GetFullNameNicknamed] は、[enemy_center_flank_commander.GetFirstName] を囲んで戦闘した後、[enemy_center_flank_commander.GetFullNameNicknamed] によって殺されました。"  #NT!
+  
+  
+  
+  
+ tactical_forest_battle.9251.desc: "[enemy_commander.GetFirstNamePossessive]軍が撤退中！彼らが再集結する前に、我々は彼らを追跡し、破壊する重要な機会を持っています!"  #NT!
+ tactical_forest_battle.9251.t: "混乱の中の彼らの中心"  #NT!
+ tactical_forest_battle.9251.a: "右翼をオンにする"  #NT!
+ tactical_forest_battle.9251.a.success: "我々は向きを変えて彼らの右翼に突撃する！"  #NT!
+ tactical_forest_battle.9251.a.failure: "私たちの任務に応えられるよう組織していきます！"  #NT!
+ tactical_forest_battle.9251.b: "捕虜を捕まえる"  #NT!
+ tactical_forest_battle.9251.b.success: "多くの捕虜を捕らえます！"  #NT!
+ tactical_forest_battle.9251.b.failure: "捕虜が逃げ出す！"  #NT!
+ tactical_forest_battle.9251.c: "騎士を派遣して右翼に突撃させます"  #NT!
+ tactical_forest_battle.9251.c.success: "騎士団の突撃が大混乱を引き起こしている"  #NT!
+ tactical_forest_battle.9251.c.failure: "ナイツチャージが吸収される"  #NT!
+ tactical_forest_battle.9251.d: "精鋭の精鋭部隊を彼らの右翼に突入させよう"  #NT!
+ tactical_forest_battle.9251.d.success: "私たちの優秀な部隊が右翼に大混乱を引き起こします!"  #NT!
+ tactical_forest_battle.9251.d.failure: "敵は強い!!"  #NT!
+  
+  
+ tactical_forest_battle.53.t: "右丸囲み"  #NT!
+ tactical_forest_battle.53.desc: "[enemy_commander.GetFirstNamePossessive]右翼を包囲することに成功しました！彼らは閉じ込められ、破滅に直面しています。必殺の一撃を与えなければなりません！"  #NT!
+ tactical_forest_battle.53.a: "包囲された軍隊の虐殺を開始する"  #NT!
+ tactical_forest_battle.53.a.success: "包囲された部隊は皆殺しにされる！"  #NT!
+ tactical_forest_battle.53.a.failure: "包囲された部隊が脱出する！"  #NT!
+ tactical_forest_battle.53.b: "捕虜を取る"  #NT!
+ tactical_forest_battle.53.b.success: "多くの捕虜を捕らえます！"  #NT!
+ tactical_forest_battle.53.b.failure: "捕虜が逃げ出す！"  #NT!
+  
+ tactical_forest_battle.75.t: "左囲み"  #NT!
+ tactical_forest_battle.75.desc: "[enemy_commander.GetFirstNamePossessive]左翼を包囲することに成功しました！彼らは閉じ込められ、破滅に直面しています。必殺の一撃を与えなければなりません！"  #NT!
+ tactical_forest_battle.75.a: "包囲された軍隊の虐殺を開始する"  #NT!
+ tactical_forest_battle.75.a.success: "包囲された部隊は皆殺しにされる！"  #NT!
+ tactical_forest_battle.75.a.failure: "包囲された部隊が脱出する！"  #NT!
+ tactical_forest_battle.75.b: "捕虜を取る"  #NT!
+ tactical_forest_battle.75.b.success: "多くの捕虜を捕らえます！"  #NT!
+ tactical_forest_battle.75.b.failure: "捕虜が逃げ出す！"  #NT!
+ tactical_forest_battle.75.n: "[right_flank_commander.GetFullNameNicknamed] で [enemy_left_flank_commander.GetFullNameNicknamed] の料金がかかります"  #NT!
+ tactical_forest_battle.75.n.success: "[right_flank_commander.GetFullNameNicknamed] デュエル [enemy_left_flank_commander.GetFullNameNicknamed]"  #NT!
+ tactical_forest_battle.75.n.failure: "私たちのチャージは[enemy_left_flank_commander.GetFirstName]まで突破できません。"  #NT!
+ tactical_forest_battle.75.kc: "デュエル勝利！"  #NT!
+ tactical_forest_battle.75.kc.success: "[right_flank_commander.GetFullNameNicknamed] は一騎打ちで [enemy_left_flank_commander.GetFullNameNicknamed] を殺害し、軍隊の士気を低下させました。"  #NT!
+ tactical_forest_battle.75.cc: "デュエル勝利！"  #NT!
+ tactical_forest_battle.75.cc.success: "[right_flank_commander.GetFullNameNicknamed] は一騎打ちで [enemy_left_flank_commander.GetHerHim] を破り、軍隊の士気を下げた後、[enemy_left_flank_commander.GetFullNameNicknamed] を占領しました。"  #NT!
+ tactical_forest_battle.75.ld: "デュエルで負けた！"  #NT!
+ tactical_forest_battle.75.ld.failure: "[enemy_left_flank_commander.GetFirstName]を囲んで[right_flank_commander.GetFullNameNicknamed]が[enemy_left_flank_commander.GetFullNameNicknamed]に倒された！戦闘中！"  #NT!
+ tactical_forest_battle.75.ldk: "デュエルで殺された！"  #NT!
+ tactical_forest_battle.75.ldk.failure: "[right_flank_commander.GetFullNameNicknamed] は、[enemy_left_flank_commander.GetFirstName] を囲んで戦闘した後、[enemy_left_flank_commander.GetFullNameNicknamed] によって殺されました。"  #NT!
+  
+  
+ tactical_forest_battle.9450.t: "丸で囲んだ中心"  #NT!
+ tactical_forest_battle.9450.desc: "[enemy_commander.GetFirstNamePossessive]中心を包囲することに成功しました！彼らは閉じ込められ、破滅に直面しています。必殺の一撃を与えなければなりません！"  #NT!
+ tactical_forest_battle.9450.a: "包囲された軍隊の虐殺を開始する"  #NT!
+ tactical_forest_battle.9450.a.success: "包囲された部隊は皆殺しにされる！"  #NT!
+ tactical_forest_battle.9450.a.failure: "包囲された部隊が脱出する！"  #NT!
+ tactical_forest_battle.9450.b: "捕虜を取る"  #NT!
+ tactical_forest_battle.9450.b.success: "多くの捕虜を捕らえます！"  #NT!
+ tactical_forest_battle.9450.b.failure: "捕虜が逃げ出す！"  #NT!
+  

@@ -1,0 +1,124 @@
+﻿l_korean:
+  
+ right_commander_feign_broke: "왼쪽을 부러뜨렸다" #NT!
+ right_commander_feign_broke_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과의 [ROOT.Var('fighting_war').War.GetName]전투 과정에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투' 당시 우측 측면을 이끌었습니다. 전술적으로 위장한 후퇴 후 기습 공격을 시작하여 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 돌파했습니다." #NT!
+ right_commander_feign_broke_01_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과의 [ROOT.Var('fighting_war').War.GetName]전에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 우측 측면을 지휘했습니다. 전략적으로 위장한 후퇴 후 기습 공격을 가해 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 박살냈습니다." #NT!
+ right_commander_feign_broke_02_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]을 상대로 [ROOT.Var('fighting_war').War.GetName]전투를 벌이던 중, '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 오른쪽 측면을 지휘했습니다. 계산된 척 후퇴한 후 기습 공격을 가해 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 파괴했습니다." #NT!
+ right_commander_feign_broke_second: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 [fighting_war.GetName] 전쟁에서 당신은 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 패주시키는 가짜 후퇴를 이끌었습니다." #NT!
+ right_commander_feign_broke_third: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 싸우는 동안 [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetNameNoTooltip] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 패주시키는 가짜 후퇴를 이끌었습니다." #NT!
+  
+  
+ right_commander_charge_broke: "맹렬한 돌진" #NT!
+ right_commander_charge_broke_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과의 [ROOT.Var('fighting_war').War.GetName]전에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 우측 측면을 지휘했습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 박살내는 맹렬한 돌격을 이끌었습니다." #NT!
+ right_commander_charge_broke_nk_first: "'[ROOT.Var('battle_location').GetProvince.GetBaronyNameExplicitly] 전투'에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 박살내는 맹렬한 돌격을 이끌었습니다." #NT!
+ right_commander_charge_broke_01_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]을 상대로 [ROOT.Var('fighting_war').War.GetName]전투를 벌이던 중, '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 오른쪽 측면을 지휘했습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 파괴하는 강력한 돌격을 이끌었습니다." #NT!
+ right_commander_charge_broke_nk1_first: "'[ROOT.Var('battle_location').GetProvince.GetBaronyNameExplicitly] 전투'에서 오른쪽 측면을 지휘하면서, [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 궤멸시키는 강력한 돌격을 이끌었습니다." #NT!
+ right_commander_charge_broke_02_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과의 [ROOT.Var('fighting_war').War.GetName]전투 과정에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투' 당시 우측 측면을 이끌었습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 압도하는 무자비한 돌격을 주도했습니다." #NT!
+ right_commander_charge_broke_nk2_first: "'[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] 전투'에서 싸우면서 오른쪽 측면을 이끌고 [enemy_commander.GetFullNameNicknamedOrMeRegnal] 왼쪽 측면을 압도하는 무자비한 돌격을 주도했습니다." #NT!
+ right_commander_charge_broke_second: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 싸우는 동안 당신은 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 무너뜨린 파괴적인 돌격을 이끌었습니다." #NT!
+ right_commander_charge_broke_third: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 싸우는 동안 [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 패주시키는 파괴적인 돌격을 이끌었습니다." #NT!
+  
+ right_commander_knights_broke: "기사단장" #NT!
+ right_commander_knights_broke_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과의 [ROOT.Var('fighting_war').War.GetName]전에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 우측 측면을 지휘했습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 박살낸 기사의 돌격을 이끌었습니다." #NT!
+ right_commander_knights_broke_01_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과의 [ROOT.Var('fighting_war').War.GetName]전투 과정에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투' 당시 우측 측면을 맡았습니다. [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 돌파한 기사들의 돌격을 지휘했습니다." #NT!
+ right_commander_knights_broke_02_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과 [ROOT.Var('fighting_war').War.GetName]전에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 오른쪽 측면을 담당했습니다. [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 압도하는 기사의 돌격을 지휘했습니다" #NT!
+ right_commander_knights_broke_second: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 [fighting_war.GetName] 전쟁에서 당신은 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 패주시킨 우리 기사들에게 돌격을 지휘했습니다." #NT!
+ right_commander_knights_broke_third: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 싸우는 동안 [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 패주시킨 우리 기사들의 돌격을 지휘했습니다." #NT!
+  
+ right_commander_maa_broke: "크랙 커맨더" #NT!
+ right_commander_maa_broke_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과의 [ROOT.Var('fighting_war').War.GetName]전에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 우측 측면을 지휘했습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 박살낸 정예 부대의 돌격을 이끌었습니다." #NT!
+ right_commander_maa_broke_01_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과의 [ROOT.Var('fighting_war').War.GetName]전투 과정에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투' 당시 우측 측면을 지휘했습니다. [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 돌파한 정예 부대로 공격을 주도했습니다." #NT!
+ right_commander_maa_broke_02_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과 [ROOT.Var('fighting_war').War.GetName]전투를 벌이던 중, '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 우익을 이끌었습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 학살하는 정예 부대의 돌격을 지휘했습니다." #NT!
+ right_commander_maa_broke_second: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 [fighting_war.GetName] 전쟁에서 당신은 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 패주시킨 우리 정예 부대의 돌격을 지휘했습니다." #NT!
+ right_commander_maa_broke_third: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 싸우는 동안 [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 왼쪽 측면을 패주시킨 우리 정예 부대의 돌격을 지휘했습니다." #NT!
+  
+  
+ left_commander_feign_broke: "권리를 침해했습니다" #NT!
+ left_commander_feign_broke_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과의 [ROOT.Var('fighting_war').War.GetName]전투 과정에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투' 당시 좌측 측면을 이끌었습니다. 전술적으로 가장한 후퇴 후 기습 공격을 시작하여 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 돌파했습니다." #NT!
+ left_commander_feign_broke_01_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과 [ROOT.Var('fighting_war').War.GetName]전에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 좌측 측면을 지휘했습니다. 전략적으로 위장한 후퇴 후 기습 공격을 가해 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 박살냈습니다." #NT!
+ left_commander_feign_broke_02_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]을 상대로 [ROOT.Var('fighting_war').War.GetName]전투를 벌이던 중, '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 좌익을 지휘했습니다. 계산된 척 후퇴한 후 기습 공격을 가해 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 파괴했습니다." #NT!
+ left_commander_feign_broke_second: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 [fighting_war.GetName] 전쟁에서 당신은 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 패주시키는 가짜 후퇴를 이끌었습니다." #NT!
+ left_commander_feign_broke_third: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 [fighting_war.GetName] 전쟁에서 [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetNameNoTooltip] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 패주시키는 가짜 후퇴를 이끌었습니다." #NT!
+  
+  
+ left_commander_charge_broke: "맹렬한 돌진" #NT!
+ left_commander_charge_broke_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과 [ROOT.Var('fighting_war').War.GetName]전에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 좌측 측면을 지휘했습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 박살내는 맹렬한 돌격을 이끌었습니다." #NT!
+ left_commander_charge_broke_01_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]을 상대로 [ROOT.Var('fighting_war').War.GetName]전투를 벌이던 중, '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 좌익을 지휘했습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 파괴하는 강력한 돌격을 이끌었습니다." #NT!
+ left_commander_charge_broke_02_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과의 [ROOT.Var('fighting_war').War.GetName]전투 과정에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투' 당시 좌측 측면을 이끌었습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 압도하는 무자비한 돌격을 주도했습니다." #NT!
+ left_commander_charge_broke_second: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 [fighting_war.GetName] 전쟁에서 당신은 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 무너뜨린 파괴적인 돌격을 이끌었습니다." #NT!
+ left_commander_charge_broke_third: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 싸우는 동안 [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 무너뜨리는 파괴적인 돌격을 이끌었습니다." #NT!
+  
+ left_commander_knights_broke: "기사단장" #NT!
+ left_commander_knights_broke_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과 [ROOT.Var('fighting_war').War.GetName]전에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 좌측 측면을 지휘했습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 박살낸 기사의 돌격을 이끌었습니다." #NT!
+ left_commander_knights_broke_01_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과의 [ROOT.Var('fighting_war').War.GetName]전투 과정에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투' 당시 좌측 측면을 맡았다. [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 돌파한 기사들의 돌격을 지휘했어요" #NT!
+ left_commander_knights_broke_02_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과 [ROOT.Var('fighting_war').War.GetName]전에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 왼쪽 측면을 담당했습니다. [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 압도하는 기사의 돌격을 지휘했습니다" #NT!
+ left_commander_knights_broke_second: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 [fighting_war.GetName] 전쟁에서 당신은 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 패주시킨 우리 기사들에게 돌격을 지휘했습니다." #NT!
+ left_commander_knights_broke_third: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 [fighting_war.GetName] 전쟁에서 [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 패주시킨 우리 기사들의 돌격을 지휘했습니다." #NT!
+  
+ left_commander_maa_broke: "크랙 커맨더" #NT!
+ left_commander_maa_broke_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과 [ROOT.Var('fighting_war').War.GetName]전에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 좌측 측면을 지휘했습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 박살낸 정예 부대의 돌격을 이끌었습니다." #NT!
+ left_commander_maa_broke_01_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과의 [ROOT.Var('fighting_war').War.GetName]전투 과정에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투' 당시 좌측 측면을 지휘했다. [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 돌파한 정예 부대로 공격을 주도했습니다." #NT!
+ left_commander_maa_broke_02_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과의 [ROOT.Var('fighting_war').War.GetName]전투를 벌이면서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 좌익을 이끌었습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 학살하는 정예 부대의 돌격을 지휘했습니다." #NT!
+ left_commander_maa_broke_second: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 [fighting_war.GetName] 전쟁에서 당신은 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 패주시킨 우리 정예 부대의 돌격을 지휘했습니다." #NT!
+ left_commander_maa_broke_third: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 싸우는 동안 [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 패주시킨 우리 정예 부대의 돌격을 지휘했습니다." #NT!
+  
+ center_commander_feign_broke: "권리를 침해했습니다" #NT!
+ center_commander_feign_broke_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과의 [ROOT.Var('fighting_war').War.GetName]전투 과정에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투' 당시 좌측 측면을 이끌었습니다. 전술적으로 가장한 후퇴 후 기습 공격을 시작하여 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 돌파했습니다." #NT!
+ center_commander_feign_broke_01_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과 [ROOT.Var('fighting_war').War.GetName]전에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 좌측 측면을 지휘했습니다. 전략적으로 위장한 후퇴 후 기습 공격을 가해 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 박살냈습니다." #NT!
+ center_commander_feign_broke_02_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]을 상대로 [ROOT.Var('fighting_war').War.GetName]전투를 벌이던 중, '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서는 좌익을 지휘했습니다. 계산된 척 후퇴한 후 기습 공격을 가해 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 파괴했습니다." #NT!
+ center_commander_feign_broke_second: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 [fighting_war.GetName] 전쟁에서 당신은 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 패주시키는 가짜 후퇴를 이끌었습니다." #NT!
+ center_commander_feign_broke_third: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 [fighting_war.GetName] 전쟁에서 [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetNameNoTooltip] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 오른쪽 측면을 패주시키는 가짜 후퇴를 이끌었습니다." #NT!
+  
+  
+ center_commander_charge_broke: "맹렬한 돌진" #NT!
+ center_commander_charge_broke_first: "[ROOT.Var('fighting_war').War.GetName]과 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal] 동안 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] 전투'에서 중앙을 지휘했습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중심을 무너뜨린 맹렬한 돌격을 이끌었습니다" #NT!
+ center_commander_charge_broke_01_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과 [ROOT.Var('fighting_war').War.GetName]이 교전하던 중, '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] 전투'에서는 중앙을 지휘했습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중심을 파괴하는 강력한 돌격을 이끌었습니다." #NT!
+ center_commander_charge_broke_02_first: "[ROOT.Var('fighting_war').War.GetName]과 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]의 전투 과정에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] 전투' 당시 중앙을 이끌었습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중심을 압도하는 무자비한 돌격을 주도했습니다." #NT!
+ center_commander_charge_broke_second: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 [fighting_war.GetName] 전쟁에서 당신은 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 무너뜨린 파괴적인 돌격을 이끌었습니다." #NT!
+ center_commander_charge_broke_third: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 싸우는 동안 [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 무너뜨리는 파괴적인 돌격을 이끌었습니다." #NT!
+  
+ center_commander_knights_broke: "기사단장" #NT!
+ center_commander_knights_broke_first: "[ROOT.Var('fighting_war').War.GetName]과 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal] 동안 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] 전투'에서 중앙을 지휘했습니다. [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중심을 박살낸 기사의 돌격을 이끌었습니다" #NT!
+ center_commander_knights_broke_01_first: "[ROOT.Var('fighting_war').War.GetName]과 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]의 전투 과정에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] 전투' 당시 센터를 맡았습니다. [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 돌파한 기사들의 돌격을 지휘했어요" #NT!
+ center_commander_knights_broke_02_first: "[ROOT.Var('fighting_war').War.GetName]과 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal] 동안 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] 전투'에서는 센터를 맡았습니다. [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중심을 압도하는 기사의 돌격을 지휘했습니다" #NT!
+ center_commander_knights_broke_second: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과 [fighting_war.GetName]의 전쟁에서 당신은 [battle_location.GetProvince.GetName]의 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 패주시킨 우리 기사들에게 돌격을 지휘했습니다." #NT!
+ center_commander_knights_broke_third: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 싸우는 동안 [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 패주시킨 우리 기사들의 돌격을 지휘했습니다." #NT!
+  
+ center_commander_maa_broke: "크랙 커맨더" #NT!
+ center_commander_maa_broke_first: "[ROOT.Var('fighting_war').War.GetName]과 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal] 동안 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] 전투'에서 중앙을 지휘했습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중심을 박살낸 엘리트 크랙 부대의 돌격을 이끌었습니다." #NT!
+ center_commander_maa_broke_01_first: "[ROOT.Var('fighting_war').War.GetName]과 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]의 전투 과정에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] 전투' 당시 중앙을 지휘하게 되었습니다. [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 돌파한 정예 부대로 공격을 주도했습니다." #NT!
+ center_commander_maa_broke_02_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과의 [ROOT.Var('fighting_war').War.GetName]전투에 참여하면서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip]전투'에서 센터를 이끌었습니다. 나는 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 말살하는 정예 부대의 돌격을 지휘했습니다." #NT!
+ center_commander_maa_broke_second: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 당신은 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 패주시킨 우리 정예 부대의 돌격을 지휘했습니다." #NT!
+ center_commander_maa_broke_third: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 싸우는 동안 [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 패주시킨 우리 정예 부대의 돌격을 지휘했습니다." #NT!
+  
+  
+ center_commander_feign_broke: "권리를 침해했습니다" #NT!
+ center_commander_feign_broke_first: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 [fighting_war.GetName] 전쟁에서 나는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 패주시키는 위장 후퇴를 이끌었습니다." #NT!
+ center_commander_feign_broke_second: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 싸우는 동안 당신은 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 패주시키는 가짜 후퇴를 이끌었습니다." #NT!
+ center_commander_feign_broke_third: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 싸우는 동안 [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 패주시키는 위장 후퇴를 이끌었습니다." #NT!
+  
+ center_commander_charge_broke: "맹렬한 돌진" #NT!
+ center_commander_charge_broke_first: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 [fighting_war.GetName] 전쟁에서 나는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 무너뜨리는 파괴적인 돌격을 이끌었습니다." #NT!
+ center_commander_charge_broke_second: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 [fighting_war.GetName] 전쟁에서 당신은 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 무너뜨린 파괴적인 돌격을 이끌었습니다." #NT!
+ center_commander_charge_broke_third: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 싸우는 동안 [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 무너뜨리는 파괴적인 돌격을 이끌었습니다." #NT!
+  
+ center_commander_knights_broke: "기사단장" #NT!
+ center_commander_knights_broke_first: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 [fighting_war.GetName] 전쟁에서 나는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 패주시킨 우리 기사들에게 돌격을 지휘했습니다." #NT!
+ center_commander_knights_broke_second: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과 [fighting_war.GetName]의 전쟁에서 당신은 [battle_location.GetProvince.GetName]의 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 패주시킨 우리 기사들에게 돌격을 지휘했습니다." #NT!
+ center_commander_knights_broke_third: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 싸우는 동안 [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 패주시킨 우리 기사들의 돌격을 지휘했습니다." #NT!
+  
+ center_commander_maa_broke: "크랙 커맨더" #NT!
+ center_commander_maa_broke_first: "[fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과 [ROOT.Var('fighting_war').War.GetName]의 전쟁에서 나는 [battle_location.GetProvince.GetName]의 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 패주시킨 우리 정예 부대의 돌격을 지휘했습니다." #NT!
+ center_commander_maa_broke_second: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 당신은 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 패주시킨 우리 정예 부대의 돌격을 지휘했습니다." #NT!
+ center_commander_maa_broke_third: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁에서 싸우는 동안 [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 중앙을 패주시킨 우리 정예 부대의 돌격을 지휘했습니다." #NT!
+  
+  
+ commander_encircled_army: "군대를 포위했다" #NT!
+ commander_encircled_army_first: "[ROOT.Var('fighting_war').War.GetName]과 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]의 전투에서 나는 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] 전투'에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal] 군대의 포위를 주도했습니다. 보급선과 탈출로를 차단함으로써" #NT!
+ commander_encircled_army_01_first: "[ROOT.Var('fighting_war').War.GetName]과 [enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]의 전투 과정에서 '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] 전투'에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]군을 포위하는 작전을 지휘했습니다. 이 전략적 기동으로 그들의 병력이 갇혔습니다." #NT!
+ commander_encircled_army_02_first: "[enemy_commander.GetLiegeEvenWhenDead.GetFirstNameNicknamedRegnal]과 [ROOT.Var('fighting_war').War.GetName] 전투를 벌이던 중, '[ROOT.Var('battle_location').GetProvince.GetNameNoTooltip] 전투'에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal] 부대를 눈부시게 포위했습니다." #NT!
+ commander_encircled_army_second: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁을 벌이는 동안, 당신은 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 군대를 포위하여 항복하도록 주도했습니다." #NT!
+ commander_encircled_army_third: "[fighting_war.GetName]을 위해 [fighting_war.GetPrimaryPlayerEnemy.GetFullNameNicknamedOrMeRegnal]과의 전쟁을 벌이던 중, [ROOT.GetTitledFirstName]는 [battle_location.GetProvince.GetName] 전투에서 [enemy_commander.GetFullNameNicknamedOrMeRegnal]의 군대를 포위하여 항복을 강요했습니다." #NT!
+  
+  
+  

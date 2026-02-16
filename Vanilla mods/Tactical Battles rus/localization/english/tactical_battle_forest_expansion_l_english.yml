@@ -1,0 +1,752 @@
+﻿l_english:
+
+
+game_concept_captain_trait_concept:0 "Captain Trait"
+game_concept_captain_trait_concept_desc:0 "Captain Traits are traits given to men recruited from a squad of men-at-arms. During battle when using an option that involves men-at-arms, if successful, there is a chance to recruit a commander with a special Captain Trait after battle. These traits provide various bonuses to your army during battles\n\n Examples are: [GetTrait('tbat_soldier_varangian').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_gendarme').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_mulaththamun').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_samurai').GetName(GetNullCharacter)]"
+game_concept_player_title_concept:0 " player"
+game_concept_player_title_concept_desc:0 "Captain Traits are traits given to men recruited from a squad of men-at-arms. During battle when using an option that involves men-at-arms, if successful, there is a chance to recruit a commander with a special Captain Trait after battle. These traits provide various bonuses to your army during battles\n\n Examples are: [GetTrait('tbat_soldier_varangian').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_gendarme').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_mulaththamun').GetName(GetNullCharacter)], [GetTrait('tbat_soldier_samurai').GetName(GetNullCharacter)]"
+
+tactical_forest_battle.0498.t:0 "A Celebrated Soldier"
+tactical_forest_battle.0498.desc:0 "After getting a report on our recent battle, my officers informed me that one of our soldiers from an elite regiment of [chosen_unit.GetName] had performed admirably in the thick of the fighting. Taking [commander.GetHerHim] into my service could inspire the other men."
+tactical_forest_battle.0498.a:0 "Recruit [commander.GetName] into my service. ([commander.GetFirstName] gains a [captain_trait_concept|e])"
+tactical_forest_battle.0498.b:0 "I'll think on it."
+
+tactical_varangian_soldier_commander:0 "Varangian Soldiers In Army"
+tactical_varangian_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('varangian_veterans').GetName] rides with this army. \n"
+tactical_light_inf_soldier_commander:0 "Light Infantry Soldiers In Army"
+tactical_light_inf_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('light_footmen').GetName] rides with this army. \n"
+tactical_landsknecht_soldier_commander:0 "Landsknecht Soldiers In Army"
+tactical_landsknecht_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('landsknechts').GetName] rides with this army. \n"
+tactical_longbow_soldier_commander:0 "Longbow Soldiers In Army"
+tactical_longbow_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('longbowmen').GetName] rides with this army. \n"
+tactical_goedendag_soldier_commander:0 "Goedendag Soldiers In Army"
+tactical_goedendag_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('goedendag_militia').GetName] rides with this army. \n"
+tactical_gendarme_soldier_commander:0 "Gendarme Soldiers In Army"
+tactical_gendarme_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('gendarmes').GetName] rides with this army. \n"
+tactical_chasseur_soldier_commander:0 "Chasseur Soldiers In Army"
+tactical_chasseur_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('chasseurs').GetName] rides with this army. \n"
+tactical_picchieri_soldier_commander:0 "Picchieri Soldiers In Army"
+tactical_picchieri_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('picchieri').GetName] rides with this army. \n"
+tactical_praetorian_soldier_commander:0 "Praetorian Soldiers In Army"
+tactical_praetorian_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('praetorians').GetName] rides with this army. \n"
+tactical_caballero_soldier_commander:0 "Caballero Soldiers In Army"
+tactical_caballero_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('caballeros').GetName] rides with this army. \n"
+tactical_cataphract_soldier_commander:0 "Cataphract Soldiers In Army"
+tactical_cataphract_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of Cataphracts rides with this army. \n"
+tactical_monsapa_soldier_commander:0 "Monaspa Soldiers In Army"
+tactical_monsapa_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('monaspa').GetName] rides with this army. \n"
+tactical_hobelar_soldier_commander:0 "Hobelar Soldiers In Army"
+tactical_hobelar_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('hobelar').GetName] rides with this army. \n"
+tactical_schiltron_soldier_commander:0 "Schiltron Soldiers In Army"
+tactical_schiltron_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('schiltron').GetName] rides with this army. \n"
+tactical_metsvan_soldier_commander:0 "Metsänvartija Soldiers In Army"
+tactical_metsvan_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('metsanvartija').GetName] rides with this army. \n"
+tactical_konni_soldier_commander:0 "Konni Soldiers In Army"
+tactical_konni_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('konni').GetName] rides with this army. \n"
+tactical_mubarizun_soldier_commander:0 "Mubarizun Soldiers In Army"
+tactical_mubarizun_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('mubarizun').GetName] rides with this army. \n"
+tactical_ayyar_soldier_commander:0 "Ayyar Soldiers In Army"
+tactical_ayyar_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('ayyar').GetName] rides with this army. \n"
+tactical_druzh_soldier_commander:0 "Druzhina Soldiers In Army"
+tactical_druzh_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('druzhina').GetName] rides with this army. \n"
+tactical_horn_warrior_soldier_commander:0 "Horn Warrior Soldiers In Army"
+tactical_horn_warrior_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('horn_warrior').GetName] rides with this army. \n"
+tactical_light_inf_soldier_commander:0 "Light Infantry Soldiers In Army"
+tactical_shomer_soldier_commander:0 "Shomer Soldiers In Army"
+tactical_shomer_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('shomer').GetName] rides with this army. \n"
+tactical_khandayat_soldier_commander:0 "Khandayat Soldiers In Army"
+tactical_khandayat_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('khandayat').GetName] rides with this army. \n"
+tactical_garuda_soldier_commander:0 "Garuda Soldiers In Army"
+tactical_garuda_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('garuda').GetName] rides with this army. \n"
+tactical_mountaineer_soldier_commander:0 "Mountaineer Soldiers In Army"
+tactical_mountaineer_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('mountaineer').GetName] rides with this army. \n"
+tactical_sahel_soldier_commander:0 "Sahel Horsemen In Army"
+tactical_sahel_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('sahel_horsemen').GetName] rides with this army. \n"
+tactical_guinea_soldier_commander:0 "Guinea Warrior Soldiers In Army"
+tactical_guinea_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('guinea_warriors').GetName] rides with this army. \n"
+tactical_sarawit_soldier_commander:0 "Sarawit Soldiers In Army"
+tactical_sarawit_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('sarawit').GetName] rides with this army. \n"
+tactical_abudrar_soldier_commander:0 "Abudrar Soldiers In Army"
+tactical_abudrar_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('abudrar').GetName] rides with this army. \n"
+tactical_zbroj_soldier_commander:0 "Zbrojnosh Soldiers In Army"
+tactical_zbroj_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('zbrojnosh').GetName] rides with this army. \n"
+tactical_palace_guards_soldier_commander:0 "Palace Guards In Army"
+tactical_palace_guards_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('palace_guards').GetName] rides with this army. \n"
+tactical_shenbig_soldier_commander:0 "Shenbigong Soldiers In Army"
+tactical_shenbig_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('shenbigong').GetName] rides with this army. \n"
+tactical_muluth_soldier_commander:0 "Mulaththamun Soldiers In Army"
+tactical_muluth_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('muluththamun').GetName] rides with this army. \n"
+tactical_nile_archer_soldier_commander:0 "Nile Archers In Army"
+tactical_nile_archer_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('nile_archers').GetName] rides with this army. \n"
+tactical_paiks_soldier_commander:0 "Paiks Soldiers In Army"
+tactical_paiks_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('paiks').GetName] rides with this army. \n"
+tactical_ayrudzi_soldier_commander:0 "Ayrudzi Soldiers In Army"
+tactical_ayrudzi_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('ayrudzi').GetName] rides with this army. \n"
+tactical_conroi_soldier_commander:0 "Conroi Soldiers In Army"
+tactical_conroi_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('conroi').GetName] rides with this army. \n"
+tactical_akritai_soldier_commander:0 "Akritai Soldiers In Army"
+tactical_akritai_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('akritai').GetName] rides with this army. \n"
+tactical_heavy_archers_soldier_commander:0 "Heavy Archers In Army"
+tactical_heavy_archers_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('heavy_archers').GetName] rides with this army. \n"
+tactical_skoutat_soldier_commander:0 "Skoutatoi Soldiers In Army"
+tactical_skoutat_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('skoutatoi').GetName] rides with this army. \n"
+tactical_varangian_guards_soldier_commander:0 "Varangian Guards In Army"
+tactical_varangian_guards_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('varangian_guards').GetName] rides with this army. \n"
+tactical_heavy_cav_soldier_commander:0 "Heavy Cavalry Soldiers In Army"
+tactical_heavy_cav_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('armored_cavalry').GetName] rides with this army. \n"
+tactical_gakgung_soldier_commander:0 "Gakgung Archers In Army"
+tactical_gakgung_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('gakgung_archers').GetName] rides with this army. \n"
+tactical_elephant_cav_soldier_commander:0 "Elephant Cavalry Soldiers In Army"
+tactical_elephant_cav_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('elephant_cavalry').GetName] rides with this army. \n"
+tactical_pesilat_soldier_commander:0 "Pesilat Warriors In Army"
+tactical_pesilat_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('pesilat_warriors').GetName] rides with this army. \n"
+tactical_samurai_soldier_commander:0 "Samurai Soldiers In Army"
+tactical_samurai_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('samurai').GetName] rides with this army. \n"
+tactical_mounted_samurai_soldier_commander:0 "Mounted Samurai In Army"
+tactical_mounted_samurai_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('japanese_horse_archers').GetName] rides with this army. \n"
+tactical_emishi_soldier_commander:0 "Emishi Horse Archers In Army"
+tactical_emishi_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('emishi').GetName] rides with this army. \n"
+tactical_monks_soldier_commander:0 "Warrior Monks In Army"
+tactical_monks_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('warrior_monks').GetName] rides with this army. \n"
+tactical_zhanmadao_soldier_commander:0 "Zhanmadao Infantry In Army"
+tactical_zhanmadao_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('zhanmadao').GetName] rides with this army. \n"
+tactical_tiefutu_soldier_commander:0 "Tiefutu Cavalry In Army"
+tactical_tiefutu_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('tiefutu').GetName] rides with this army. \n"
+tactical_black_armor_soldier_commander:0 "Black Armor Cavalry In Army"
+tactical_black_armor_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('black_armor_cavalry').GetName] rides with this army. \n"
+tactical_burenjia_soldier_commander:0 "Burenjia Soldiers In Army"
+tactical_burenjia_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('burenjia').GetName] rides with this army. \n"
+tactical_kheshig_soldier_commander:0 "Kheshig Soldiers In Army"
+tactical_kheshig_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('kheshig').GetName] rides with this army. \n"
+tactical_tarkhan_soldier_commander:0 "Tarkhan Soldiers In Army"
+tactical_tarkhan_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('tarkhan').GetName] rides with this army. \n"
+tactical_steppe_raiders_soldier_commander:0 "Steppe Raider Soldiers In Army"
+tactical_steppe_raiders_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('steppe_raiders').GetName] rides with this army. \n"
+tactical_horde_riders_soldier_commander:0 "Horde Rider Soldiers In Army"
+tactical_horde_riders_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('horde_riders').GetName] rides with this army. \n"
+tactical_archer_cavalry_soldier_commander:0 "Archer Cavalry Soldiers In Army"
+tactical_archer_cavalry_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('archer_cavalry').GetName] rides with this army. \n"
+tactical_camel_archer_cavalry_soldier_commander:0 "Camel Archer Cavalry In Army"
+tactical_camel_archer_cavalry_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('camel_archer_cavalry').GetName] rides with this army. \n"
+tactical_cata_archer_cavalry_soldier_commander:0 "Cataphract Archer Cavalry In Army"
+tactical_cata_archer_cavalry_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('cataphract_archers').GetName] rides with this army. \n"
+tactical_nomad_lancer_soldier_commander:0 "Nomad Lancer Soldiers In Army"
+tactical_nomad_lancer_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('nomad_lancer').GetName] rides with this army. \n"
+tactical_vigmen_soldier_commander:0 "Vigmen Soldiers In Army"
+tactical_vigmen_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('vigmen').GetName] rides with this army. \n"
+tactical_bondi_soldier_commander:0 "Bondi Soldiers In Army"
+tactical_bondi_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('bondi').GetName] rides with this army. \n"
+tactical_asawira_soldier_commander:0 "Asawira Cavalry In Army"
+tactical_asawira_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('asawira').GetName] rides with this army. \n"
+tactical_maturkan_soldier_commander:0 "Maturkan Warriors In Army"
+tactical_maturkan_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('maturkan').GetName] rides with this army. \n"
+tactical_light_cav_soldier_commander:0 "Light Cavalry Soldiers In Army"
+tactical_light_cav_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('light_cavalry').GetName] rides with this army. \n"
+tactical_tawashi_soldier_commander:0 "Tawashi Cavalry In Army"
+tactical_tawashi_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('tawashi').GetName] rides with this army. \n"
+tactical_zupin_soldier_commander:0 "Zupin Soldiers In Army"
+tactical_zupin_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('zupin_spearmen').GetName] rides with this army. \n"
+tactical_armored_inf_soldier_commander:0 "Armored Infantry Captain In Army"
+tactical_armored_inf_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('armored_infantry').GetName] rides with this army. \n"
+
+
+tactical_exploit_skill_success_commander_desc:0 ""
+
+tactical_foreign_lands_fighter_2:0 "Thriving While Down"
+tactical_foreign_lands_fighter_2_desc:0 "This character's prowess in battle has been honed by fighting in foreign lands and has become knowledgeable of foreign terrain."
+
+tactical_foreign_lands_fighter_1:0 "Knowledgeable of Foreign Lands"
+tactical_foreign_lands_fighter_1_desc:0 "This character's prowess in battle has been honed by fighting in foreign lands and has become knowledgeable of foreign terrain."
+
+tactical_foreign_lands_fighter:0 "Knowledgeable of Foreign Lands"
+tactical_foreign_lands_fighter_desc:0 "This character's prowess in battle has been honed by fighting in foreign lands and has become knowledgeable of foreign terrain."
+
+tactical_home_lands_fighter_2:0 "Defender of The Realm"
+tactical_home_lands_fighter_2_desc:0 "This character's prowess in battle has been honed by fighting within the borders of where they rule. Defending their lands they have become knowledgeable of the home terrain."
+
+tactical_home_lands_fighter_1:0 "Defender of The Realm"
+tactical_home_lands_fighter_1_desc:0 "This character's prowess in battle has been honed by fighting within the borders of where they rule. Defending their lands they have become knowledgeable of the home terrain"
+
+tactical_home_lands_fighter:0 "Defender of The Realm"
+tactical_home_lands_fighter_desc:0 "This character's prowess in battle has been honed by fighting within the borders of where they rule. Defending their lands they have become knowledgeable of the home terrain"
+
+tactical_outnumbered_lands_fighter_2:0 "Thriving Under Pressure"
+tactical_outnumbered_lands_fighter_2_desc:0 "This commander has experience successfully leading troops while outnumbered and is using it to their advantage."
+
+tactical_outnumbered_lands_fighter_1:0 "Thriving Under Pressure"
+tactical_outnumbered_lands_fighter_1_desc:0 "This commander has experience successfully leading troops while outnumbered and is using it to their advantage."
+
+tactical_outnumbered_lands_fighter:0 "Thriving Under Pressure"
+tactical_outnumbered_lands_fighter_desc:0 "This commander has experience successfully leading troops while outnumbered and is using it to their advantage."
+
+tactical_home_lands.tt: "Defending the Homelands"
+tactical_home_lands.tt.success:0 "Became familiar with the local terrain while defending lands inside the border!"
+tactical_foreign_lands.tt: "Foreign Lands Fighting"
+tactical_foreign_lands.tt.success:0 "Became familiar with fighting outside our borders while battling outside our realm!"
+
+
+# Huscarl
+trait_tbat_soldier_huscarl:0 "Huscarl Captain"
+tbat_soldier_huscarl_desc:0 "This soldier was promoted from an elite unit of Huscarls after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_huscarl_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Huscarls after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Landsknecht
+trait_tbat_soldier_landsknecht:0 "Landsknecht Captain"
+tbat_soldier_landsknecht_desc:0 "This soldier was promoted from an elite unit of Landsknechts after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_landsknecht_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Landsknechts after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Longbowmen
+trait_tbat_soldier_longbowmen:0 "Longbowmen Captain"
+tbat_soldier_longbowmen_desc:0 "This soldier was promoted from an elite unit of Longbowmen after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_longbowmen_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Longbowmen after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Goedendag
+trait_tbat_soldier_goedendag:0 "Goedendag Captain"
+tbat_soldier_goedendag_desc:0 "This soldier was promoted from an elite unit of Goedendag militia after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_goedendag_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Goedendag militia after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Gendarme
+trait_tbat_soldier_gendarme:0 "Gendarme Captain"
+tbat_soldier_gendarme_desc:0 "This soldier was promoted from an elite unit of Gendarmes after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_gendarme_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Gendarmes after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Chasseur
+trait_tbat_soldier_chasseur:0 "Chasseur Captain"
+tbat_soldier_chasseur_desc:0 "This soldier was promoted from an elite unit of Chasseurs after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_chasseur_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Chasseurs after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Picchieri
+trait_tbat_soldier_picchieri:0 "Picchieri Captain"
+tbat_soldier_picchieri_desc:0 "This soldier was promoted from an elite unit of Picchieri after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_picchieri_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Picchieri after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Praetorian
+trait_tbat_soldier_praetorian:0 "Praetorian Captain"
+tbat_soldier_praetorian_desc:0 "This soldier was promoted from an elite unit of Praetorians after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_praetorian_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Praetorians after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Caballero
+trait_tbat_soldier_caballero:0 "Caballero Captain"
+tbat_soldier_caballero_desc:0 "This soldier was promoted from an elite unit of Caballeros after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_caballero_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Caballeros after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Cataphract
+trait_tbat_soldier_cataphract:0 "Cataphract Captain"
+tbat_soldier_cataphract_desc:0 "This soldier was promoted from an elite unit of Cataphracts after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_cataphract_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Cataphracts after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Monaspa
+trait_tbat_soldier_monaspa:0 "Monaspa Captain"
+tbat_soldier_monaspa_desc:0 "This soldier was promoted from an elite unit of Monaspa after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_monaspa_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Monaspa after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Hobelar
+trait_tbat_soldier_hobelar:0 "Hobelar Captain"
+tbat_soldier_hobelar_desc:0 "This soldier was promoted from an elite unit of Hobelars after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_hobelar_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Hobelars after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Schiltron
+trait_tbat_soldier_schiltron:0 "Schiltron Captain"
+tbat_soldier_schiltron_desc:0 "This soldier was promoted from an elite unit of Schiltrons after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_schiltron_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Schiltrons after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Metsanvartija
+trait_tbat_soldier_metsanvartija:0 "Metsanvartija Captain"
+tbat_soldier_metsanvartija_desc:0 "This soldier was promoted from an elite unit of Metsanvartija after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_metsanvartija_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Metsanvartija after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Horse Archers
+trait_tbat_soldier_horse_archers:0 "Horse Archers Captain"
+tbat_soldier_horse_archers_desc:0 "This soldier was promoted from an elite unit of Horse Archers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_horse_archers_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Horse Archers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Mubarizun
+trait_tbat_soldier_mubarizun:0 "Mubarizun Captain"
+tbat_soldier_mubarizun_desc:0 "This soldier was promoted from an elite unit of Mubarizun after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_mubarizun_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Mubarizun after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Ayyar
+trait_tbat_soldier_ayyar:0 "Ayyar Captain"
+tbat_soldier_ayyar_desc:0 "This soldier was promoted from an elite unit of Ayyar after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_ayyar_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Ayyar after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Druzhina
+trait_tbat_soldier_druzhina:0 "Druzhina Captain"
+tbat_soldier_druzhina_desc:0 "This soldier was promoted from an elite unit of Druzhina after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_druzhina_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Druzhina after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Hussar
+trait_tbat_soldier_hussar:0 "Hussar Captain"
+tbat_soldier_hussar_desc:0 "This soldier was promoted from an elite unit of Hussars after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_hussar_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Hussars after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Horn Warrior
+trait_tbat_soldier_horn_warrior:0 "Horn Warrior Captain"
+tbat_soldier_horn_warrior_desc:0 "This soldier was promoted from an elite unit of Horn Warriors after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_horn_warrior_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Horn Warriors after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Bush Hunter
+trait_tbat_soldier_bush_hunter:0 "Bush Hunter Captain"
+tbat_soldier_bush_hunter_desc:0 "This soldier was promoted from an elite unit of Bush Hunters after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_bush_hunter_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Bush Hunters after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Shomer
+trait_tbat_soldier_shomer:0 "Shomer Captain"
+tbat_soldier_shomer_desc:0 "This soldier was promoted from an elite unit of Shomer after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_shomer_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Shomer after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Khandayat
+trait_tbat_soldier_khandayat:0 "Khandayat Captain"
+tbat_soldier_khandayat_desc:0 "This soldier was promoted from an elite unit of Khandayat after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_khandayat_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Khandayat after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Garudas
+trait_tbat_soldier_garudas:0 "Garudas Captain"
+tbat_soldier_garudas_desc:0 "This soldier was promoted from an elite unit of Garudas after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_garudas_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Garudas after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Mountaineer
+trait_tbat_soldier_mountaineer:0 "Mountaineer Captain"
+tbat_soldier_mountaineer_desc:0 "This soldier was promoted from an elite unit of Mountaineers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_mountaineer_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Mountaineers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Sahel Horsemen
+trait_tbat_soldier_sahel_horsemen:0 "Sahel Horsemen Captain"
+tbat_soldier_sahel_horsemen_desc:0 "This soldier was promoted from an elite unit of Sahel Horsemen after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_sahel_horsemen_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Sahel Horsemen after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Guinea Warrior
+trait_tbat_soldier_guinea_warrior:0 "Guinea Warrior Captain"
+tbat_soldier_guinea_warrior_desc:0 "This soldier was promoted from an elite unit of Guinea Warriors after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_guinea_warrior_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Guinea Warriors after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Sarawit
+trait_tbat_soldier_sarawit:0 "Sarawit Captain"
+tbat_soldier_sarawit_desc:0 "This soldier was promoted from an elite unit of Sarawit after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_sarawit_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Sarawit after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Abudrar
+trait_tbat_soldier_abudrar:0 "Abudrar Captain"
+tbat_soldier_abudrar_desc:0 "This soldier was promoted from an elite unit of Abudrar after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_abudrar_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Abudrar after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Zbrojnosh
+trait_tbat_soldier_zbrojnosh:0 "Zbrojnosh Captain"
+tbat_soldier_zbrojnosh_desc:0 "This soldier was promoted from an elite unit of Zbrojnosh after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_zbrojnosh_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Zbrojnosh after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Palace Guards
+trait_tbat_soldier_palace_guards:0 "Palace Guards Captain"
+tbat_soldier_palace_guards_desc:0 "This soldier was promoted from an elite unit of Palace Guards after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_palace_guards_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Palace Guards after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Shenbigong
+trait_tbat_soldier_shenbigong:0 "Shenbigong Captain"
+tbat_soldier_shenbigong_desc:0 "This soldier was promoted from an elite unit of Shenbigong after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_shenbigong_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Shenbigong after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Mulaththamun
+trait_tbat_soldier_mulaththamun:0 "Mulaththamun Captain"
+tbat_soldier_mulaththamun_desc:0 "This soldier was promoted from an elite unit of Mulaththamun after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_mulaththamun_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Mulaththamun after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Archers of the Nile
+trait_tbat_soldier_archers_of_the_nile:0 "Archers of the Nile Captain"
+tbat_soldier_archers_of_the_nile_desc:0 "This soldier was promoted from an elite unit of Archers of the Nile after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_archers_of_the_nile_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Archers of the Nile after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Paiks
+trait_tbat_soldier_paiks:0 "Paiks Captain"
+tbat_soldier_paiks_desc:0 "This soldier was promoted from an elite unit of Paiks after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_paiks_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Paiks after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Guanch Vaulter
+trait_tbat_soldier_guanch_vaulter:0 "Guanch Vaulter Captain"
+tbat_soldier_guanch_vaulter_desc:0 "This soldier was promoted from an elite unit of Guanch Vaulters after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_guanch_vaulter_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Guanch Vaulters after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Ayrudzi
+trait_tbat_soldier_ayrudzi:0 "Ayrudzi Captain"
+tbat_soldier_ayrudzi_desc:0 "This soldier was promoted from an elite unit of Ayrudzi after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_ayrudzi_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Ayrudzi after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Conrois
+trait_tbat_soldier_conrois:0 "Conrois Captain"
+tbat_soldier_conrois_desc:0 "This soldier was promoted from an elite unit of Conrois after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_conrois_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Conrois after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Akritai
+trait_tbat_soldier_akritai:0 "Akritai Captain"
+tbat_soldier_akritai_desc:0 "This soldier was promoted from an elite unit of Akritai after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_akritai_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Akritai after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Ballistrai
+trait_tbat_soldier_ballistrai:0 "Ballistrai Captain"
+tbat_soldier_ballistrai_desc:0 "This soldier was promoted from an elite unit of Ballistrai after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_ballistrai_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Ballistrai after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Skoutatoi
+trait_tbat_soldier_skoutatoi:0 "Skoutatoi Captain"
+tbat_soldier_skoutatoi_desc:0 "This soldier was promoted from an elite unit of Skoutatoi after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_skoutatoi_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Skoutatoi after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Varangian Guards
+trait_tbat_soldier_varangian_guards:0 "Varangian Guards Captain"
+tbat_soldier_varangian_guards_desc:0 "This soldier was promoted from an elite unit of Varangian Guards after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_varangian_guards_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Varangian Guards after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Handpicked Faithful
+trait_tbat_soldier_handpicked_faithful:0 "Handpicked Faithful Captain"
+tbat_soldier_handpicked_faithful_desc:0 "This soldier was promoted from an elite unit of Handpicked Faithful after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_handpicked_faithful_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Handpicked Faithful after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Fire Lancers
+trait_tbat_soldier_fire_lancers:0 "Fire Lancers Captain"
+tbat_soldier_fire_lancers_desc:0 "This soldier was promoted from an elite unit of Fire Lancers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_fire_lancers_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Fire Lancers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Gakgung Archers
+trait_tbat_soldier_gakgung_archers:0 "Gakgung Archers Captain"
+tbat_soldier_gakgung_archers_desc:0 "This soldier was promoted from an elite unit of Gakgung Archers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_gakgung_archers_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Gakgung Archers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Ballista Elephant
+trait_tbat_soldier_ballista_elephant:0 "Ballista Elephant Captain"
+tbat_soldier_ballista_elephant_desc:0 "This soldier was promoted from an elite unit of Ballista Elephants after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_ballista_elephant_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Ballista Elephants after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Pesilat Warriors
+trait_tbat_soldier_pesilat_warriors:0 "Pesilat Warriors Captain"
+tbat_soldier_pesilat_warriors_desc:0 "This soldier was promoted from an elite unit of Pesilat Warriors after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_pesilat_warriors_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Pesilat Warriors after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Samurai
+trait_tbat_soldier_samurai:0 "Samurai Captain"
+tbat_soldier_samurai_desc:0 "This soldier was promoted from an elite unit of Samurai after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_samurai_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Samurai after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Japanese Horse Archers
+trait_tbat_soldier_japanese_horse_archers:0 "Japanese Horse Archers Captain"
+tbat_soldier_japanese_horse_archers_desc:0 "This soldier was promoted from an elite unit of Japanese Horse Archers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_japanese_horse_archers_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Japanese Horse Archers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Emishi Horse Archers
+trait_tbat_soldier_emishi_horse_archers:0 "Emishi Horse Archers Captain"
+tbat_soldier_emishi_horse_archers_desc:0 "This soldier was promoted from an elite unit of Emishi Horse Archers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_emishi_horse_archers_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Emishi Horse Archers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Warrior Monks
+trait_tbat_soldier_warrior_monks:0 "Warrior Monks Captain"
+tbat_soldier_warrior_monks_desc:0 "This soldier was promoted from an elite unit of Warrior Monks after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_warrior_monks_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Warrior Monks after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Zhanmadao Infantry
+trait_tbat_soldier_zhanmadao_infantry:0 "Zhanmadao Infantry Captain"
+tbat_soldier_zhanmadao_infantry_desc:0 "This soldier was promoted from an elite unit of Zhanmadao Infantry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_zhanmadao_infantry_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Zhanmadao Infantry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Tiefutu
+trait_tbat_soldier_tiefutu:0 "Tiefutu Captain"
+tbat_soldier_tiefutu_desc:0 "This soldier was promoted from an elite unit of Tiefutu after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_tiefutu_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Tiefutu after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Black Armor Cavalry
+trait_tbat_soldier_black_armor_cavalry:0 "Black Armor Cavalry Captain"
+tbat_soldier_black_armor_cavalry_desc:0 "This soldier was promoted from an elite unit of Black Armor Cavalry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_black_armor_cavalry_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Black Armor Cavalry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Burenjia
+trait_tbat_soldier_burenjia:0 "Burenjia Captain"
+tbat_soldier_burenjia_desc:0 "This soldier was promoted from an elite unit of Burenjia after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_burenjia_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Burenjia after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Rocket Carts
+trait_tbat_soldier_rocket_carts:0 "Rocket Carts Captain"
+tbat_soldier_rocket_carts_desc:0 "This soldier was promoted from an elite unit of Rocket Carts after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_rocket_carts_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Rocket Carts after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Ordo Riders Horse Archers
+trait_tbat_soldier_tawashi:0 "Tawashi Captain"
+tbat_soldier_tawashi_desc:0 "This soldier was promoted from an elite unit of Tawashi after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_tawashi_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Tawashi after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Ordo Riders Horse Archers
+trait_tbat_soldier_zupin:0 "Zupin Spearmen Captain"
+tbat_soldier_zupin_desc:0 "This soldier was promoted from an elite unit of Zupin Spearmen after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_zupin_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Zupin Spearmen after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+# Ordo Riders Horse Archers
+trait_tbat_soldier_ordo_riders_horse_archers:0 "Ordo Riders Horse Archers Captain"
+tbat_soldier_ordo_riders_horse_archers_desc:0 "This soldier was promoted from an elite unit of Ordo Riders Horse Archers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_ordo_riders_horse_archers_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Ordo Riders Horse Archers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+trait_tbat_soldier_heavy_cav:0 "Heavy Cavalry Captain"
+tbat_soldier_heavy_cav_desc:0 "This character was promoted from an elite unit of Heavy Cavalry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_heavy_cav_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Vigmen after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+trait_tbat_soldier_pikemen:0 "Pikemen Captain"
+tbat_soldier_pikemen_desc:0 "This character was promoted from an elite unit of Pikemen after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_pikemen_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Vigmen after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+trait_tbat_soldier_armored_infantry:0 "Armored Infantry Captain"
+tbat_soldier_armored_infantry_desc:0 "This character  was promoted from an elite unit of Armored Infantry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_armored_infantry_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Vigmen after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+trait_tbat_soldier_vigmen:0 "Vigmen Captain"
+tbat_soldier_vigmen_desc:0 "This character  was promoted from an elite unit of Vigmen after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_vigmen_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Vigmen after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+trait_tbat_soldier_kheshig:0 "Kheshig Captain"
+tbat_soldier_kheshig_desc:0 "This characte  was promoted from an elite unit of Kheshig after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_kheshig_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Kheshig after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+trait_tbat_soldier_tarkhan:0 "Tarkhan Captain"
+tbat_soldier_tarkhan_desc:0 "This character was promoted from an elite unit of Tarkhan after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_tarkhan_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Tarkhan after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+trait_tbat_soldier_steppe_raiders:0 "Steppe Raiders Captain"
+tbat_soldier_steppe_raiders_desc:0 "This character was promoted from an elite unit of Steppe Raiders after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_steppe_raiders_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Steppe Raiders after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+trait_tbat_soldier_horde_riders:0 "Horde Riders Captain"
+tbat_soldier_horde_riders_desc:0 "This character was promoted from an elite unit of Horde Riders after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_horde_riders_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Horde Riders after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+trait_tbat_soldier_horde_riders:0 "Horde Riders Captain"
+tbat_soldier_horde_riders_desc:0 "This character was promoted from an elite unit of Horde Riders after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_horde_riders_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Horde Riders after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+trait_tbat_soldier_archer_cav:0 "Archer Cavalry Captain"
+tbat_soldier_archer_cav_desc:0 "This character was promoted from an elite unit of Archer Cavalry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_archer_cav_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Archer Cavalry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+trait_tbat_soldier_camel_archer_cav:0 "Camel Archers Captain"
+tbat_soldier_camel_archer_cav_desc:0 "This character was promoted from an elite unit of Camel Archers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_camel_archer_cav_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Camel Archers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+trait_tbat_soldier_cataphract_archers:0 "Cataphract Archers Captain"
+tbat_soldier_cataphract_archers_desc:0 "This character was promoted from an elite unit of Cataphract Archers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_cataphract_archers_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Cataphract Archers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+trait_tbat_soldier_nomad_lancers:0 "Nomad Lancers Captain"
+tbat_soldier_nomad_lancers_desc:0 "This character was promoted from an elite unit of Nomad Lancers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_nomad_lancers_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Nomad Lancers after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+trait_tbat_soldier_bondi:0 "Bondi Captain"
+tbat_soldier_bondi_desc:0 "This character  was promoted from an elite unit of Bondi after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_bondi_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Bondi after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+trait_tbat_soldier_asawira:0 "Asawira Captain"
+tbat_soldier_asawira_desc:0 "This character was promoted from an elite unit of Asawira after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_asawira_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Asawira after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+trait_tbat_soldier_maturkan_warriors:0 "Maturkan Warriors Captain"
+tbat_soldier_maturkan_warriors_desc:0 "This character was promoted from an elite unit of Maturkan Warriors after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_maturkan_warriors_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Maturkan Warriors after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+
+
+
+TRAIT_FLAG_DESC_tbat_outnumbered_troops_flag:0 "#soft_glow #high[command_modifier_i|E][advantage|E] When Enemy Outnumbers: #P +4#!\n#soft_glow #high Level 1#!:\n[command_modifier_i|E][advantage|E] When Enemy Outnumbers: #P +8#!\n#soft_glow #high Level 2#!:\n[command_modifier_i|E][advantage|E] When Enemy Outnumbers: #P +12#!"
+TRAIT_FLAG_DESC_tbat_home_terrain_flag:0 "#soft_glow #high [command_modifier_i|E][advantage|E]#! in Owned Territory: #P +4#!\n#soft_glow #high Level 1#!:\n[command_modifier_i|E][advantage|E] in Owned Territory: #P +8#!\n#soft_glow #high Level 2#!:\n[command_modifier_i|E][advantage|E] in Owned Territory: #P +12#!"
+TRAIT_FLAG_DESC_tbat_foreign_terrain_flag:0 "#soft_glow #high [command_modifier_i|E][advantage|E]#! in Uncontrolled Territory: #P +4#!\n#soft_glow #high Level 1#!:\n[command_modifier_i|E][advantage|E] in Uncontrolled Territory: #P +8#!\n#soft_glow #high Level 2#!:\n[command_modifier_i|E][advantage|E] in Uncontrolled Territory: #P +12#!"
+TRAIT_FLAG_DESC_tbat_soldier_varangian:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] Damage: #I 5%#! #!
+TRAIT_FLAG_DESC_tbatt_more_enemy_casualties_flag:0 "#E Enemy Army#!: #P 3%#! [casualties|E]"
+TRAIT_FLAG_DESC_tbat_soldier_light_infantry:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_neg_heavy_infantry_toughness:0 "#E Enemy [heavy_infantry|e]#!: #I -3%#! [toughness|E]"
+TRAIT_FLAG_DESC_tbat_soldier_light_infantry:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_neg_heavy_infantry_toughness:0 "#E Enemy [heavy_infantry|e]#!: #I -3%#! [toughness|E]"
+TRAIT_FLAG_DESC_tbat_soldier_bowmen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbatt_neg_skirmishers_damage_flag:0 "#E Enemy [skirmishers|e]#!: #I -3%#! [damage|E]"
+TRAIT_FLAG_DESC_tbat_soldier_light_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] Toughness#!: #I 5%#!
+TRAIT_FLAG_DESC_tbatt_neg_army_damage_flag:0 "#E Enemy Army#!: #I -3%#! [damage|E]"
+TRAIT_FLAG_DESC_tbat_soldier_heavy_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] Toughness#!: #I +5#!\n#E Enemy [archers|E] Toughness#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_pikemen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E Army Toughness#!: #I 5%#!\n#E Enemy [heavy_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [camel_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [elephant_cavalry|E] [damage|E]#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_bowmen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_soldier_camel_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [camel_cavalry|E] Toughness#!: #I 5%#!
+TRAIT_FLAG_DESC_tbatt_neg_light_cav_flag:0 "#E Enemy [light_cavalry|e]#!: #I -3%#! [damage|E]"
+TRAIT_FLAG_DESC_tbat_soldier_elephant_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [elephant_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbatt_neg_light_cav_flag:0 "#E Enemy [light_cavalry|e]#!: #I -3%#! [damage|E]"
+TRAIT_FLAG_DESC_tbat_soldier_huscarl:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 3%#!
+TRAIT_FLAG_DESC_tbat_soldier_landsknecht:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [spearmen|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_longbowmen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_goedendag:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_gendarme:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_chasseur:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_crossbowmen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_gunpowder:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [gunpowder|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_picchieri:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E Friendly [casualties|E]#!: #I -5%#!\n#E Enemy [light_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [elephant_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [camel_cavalry|E] [damage|E]#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_praetorian:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 3%#!
+TRAIT_FLAG_DESC_tbat_soldier_caballero:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_soldier_cataphract:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!\n#E Enemy Army [toughness|E]#!: #I -5%#!
+TRAIT_FLAG_DESC_tbat_soldier_monaspa:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [toughness|E]#!: #I -5%#!
+TRAIT_FLAG_DESC_tbat_soldier_hobelar:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#!
+TRAIT_FLAG_DESC_tbat_soldier_schiltron:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E Friendly [casualties|E]#!: #I -5%#!\n#E Enemy [light_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [elephant_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy [camel_cavalry|E] [damage|E]#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_metsanvartija:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_horse_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [skirmishers|E] [damage|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_mubarizun:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -2%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_ayyar:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_druzhina:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_hussar:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E [light_cavalry|E] Toughness#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_horn_warrior:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I 8#!\n#E Enemy [heavy_infantry|E] Toughness#!: #I -5%#!
+TRAIT_FLAG_DESC_tbat_soldier_bush_warrior:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_soldier_shomer:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 4%#! #!\n#E Army [toughness|E]#!: #I 7%#!
+TRAIT_FLAG_DESC_tbat_soldier_khandayat:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_garudas:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E [heavy_infantry|E] [toughness|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_soldier_mountaineer:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E [heavy_infantry|E] [toughness|E]#!: #I 5%#!\n#E Army [casualties|E]#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_sahel_horsemen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_guinea_warrior:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I +8#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_sarawit:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_abudrar:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [skirmishers|E] [damage|E]#!: #I +9#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -2%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -2%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_zbrojnosh:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_palace_guards:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_shenbigong:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_soldier_mulaththamun:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#!
+TRAIT_FLAG_DESC_tbat_soldier_archers_of_the_nile:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_soldier_paiks:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [elephant_cavalry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_ayrudzi:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [archer_cavalry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_conrois:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [light_cavalry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_akritai:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [skirmishers|E] [damage|E]#!: #I +8#!\n#E Enemy Army [heavy_infantry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 3%#!
+TRAIT_FLAG_DESC_tbat_soldier_skoutatoi:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [spearmen|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_varangian_guards:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_soldier_gakgung_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [heavy_cavalry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 3%#!
+TRAIT_FLAG_DESC_tbat_soldier_pesilat_warriors:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [skirmishers|E] [damage|E]#!: #I 5%#!\n#E Enemy Army [heavy_infantry|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_soldier_samurai:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_soldier_japanese_horse_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 2%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_soldier_emishi_horse_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_soldier_warrior_monks:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [spearmen|E] [damage|E]#!: #I 5%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_zhanmadao_infantry:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#!
+TRAIT_FLAG_DESC_tbat_soldier_tiefutu:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_black_armor_cavalry:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_burenjia:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_ordo_riders_horse_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_kheshig:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [elephant_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_tarkhan:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#!
+TRAIT_FLAG_DESC_tbat_soldier_steppe_raiders:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_horde_riders:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [archers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 2%#!
+TRAIT_FLAG_DESC_tbat_soldier_archer_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#!
+TRAIT_FLAG_DESC_tbat_soldier_camel_archer_cav:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [camel_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [toughness|E]#!: #I -3%#!
+TRAIT_FLAG_DESC_tbat_soldier_cataphract_archers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [damage|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#!
+TRAIT_FLAG_DESC_tbat_soldier_nomad_lancers:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy [archers|E] [damage|E]#!: #I -3%#!\n#E Enemy [light_cavalry|E] [damage|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 3%#!
+TRAIT_FLAG_DESC_tbat_soldier_vigmen:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [damage|E]#!: #I 5%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#!
+TRAIT_FLAG_DESC_tbat_soldier_bondi:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [spearmen|E] [toughness|E]#!: #I 5%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 3%#!
+TRAIT_FLAG_DESC_tbat_soldier_asawira:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archer_cavalry|E] [toughness|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -3%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_soldier_maturkan_warriors:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [archers|E] [toughness|E]#!: #I 5%#!\n#E Enemy [skirmishers|E] [toughness|E]#!: #I -10#!\n#E Enemy Army [casualties|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_soldier_tawashi:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [light_cavalry|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -5%#!\n#E Enemy [archers|E] [damage|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_soldier_zupin:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [spearmen|E] [damage|E]#!: #I 5%#!\n#E Enemy [heavy_infantry|E] [toughness|E]#!: #I -5%#!\n#E Enemy [heavy_cavalry|E] [damage|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!
+TRAIT_FLAG_DESC_tbat_soldier_armored_infantry:0 "When this $knight_culture_player$ is in your army during [battle|E]:\n[men_at_arms_counter|E]: #P 1%#! #!\n#E [heavy_infantry|E] [damage|E]#!: #I 5%#!\n\n#E [heavy_infantry|E] [toughness|E]#!: #I 5%#!\n#E Enemy [spearmen|E] [toughness|E]#!: #I -5%#!\n#E Enemy Army [casualties|E]#!: #I 5%#!
+
+trait_tbat_soldier_armored_infantry_character_desc :0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Armored Infantry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_varangian:0 "Varangian Soldier"
+tbat_soldier_varangian_desc:0 "This soldier was promoted from an elite squad of Varangians after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."`
+trait_tbat_soldier_varangian_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite units of Varangians after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_light_infantry:0 "Light Infantry Soldier"
+tbat_soldier_light_infantry_desc:0 "This soldier was promoted from an elite squad of light infantry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_light_infantry_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite units of light infantry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_light_cav:0 "Light Cavalry Captain"
+tbat_soldier_light_cav_desc:0 "This soldier was promoted from an elite squad of light cavalry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_light_cav_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite units of light cavalry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_camel_cav:0 "Camel Cavalry Captain"
+tbat_soldier_camel_cav_desc:0 "This soldier was promoted from an elite squad of Elephant Cavalry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_camel_cav_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite units of camel cavalry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_elephant_cav:0 "Elephant Cavalry Captain"
+tbat_soldier_elephant_cav_desc:0 "This soldier was promoted from an elite squad of Camel Cavalry after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_elephant_cav_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite units of elephant cav after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_gunpowder:0 "Gunner Captain"
+tbat_soldier_gunpowder_desc:0 "This soldier was promoted from an elite squad of using experimental [gunpowder|E] after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_gunpowder_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite units of using experimental [gunpowder|E] after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_bowmen:0 "Bowmen Captain"
+tbat_soldier_bowmen_desc:0 "This soldier was promoted from an elite unit of Bowmen after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_bowmen_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Bowmen after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_crossbowmen:0 "Crossbowmen Captain"
+tbat_soldier_crossbowmen_desc:0 "This soldier was promoted from an elite unit of Crossbowmen after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+trait_tbat_soldier_crossbowmen_character_desc:0 "[ROOT.Char.GetFullNameNicknamedOrMe] was promoted from an elite unit of Bowmen after proving instrumental of a regiment's success in battle. Their presence in battle inspires those around them to greater feats of arms."
+tactical_light_infantry_soldier_commander:0 "Light Infantry Captain In Army"
+tactical_light_infantry_soldier_commander_desc:0 "A prolific soldier promoted from a regiment of [GetMaA('light_footmen').GetName] rides with this army. \n"
+
+
+tactical_facing_landsknecht_soldier_commander:0 "Facing Landsknecht Soldiers"
+tactical_facing_landsknecht_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of [GetMaA('landsknechts').GetName]. Our forces must contend with their experience. \n"
+
+tactical_facing_light_inf_soldier_commander:0 "Facing Light Infantry Soldiers"
+tactical_facing_light_inf_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of [GetMaA('light_footmen').GetName]. Our forces must contend with their experience. \n"
+
+tactical_facing_bowmen_soldier_commander:0 "Facing Bowmen Soldiers"
+tactical_facing_bowmen_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of Bowmen. Our forces must contend with their experience. \n"
+
+tactical_facing_light_cav_soldier_commander:0 "Facing Light Cavalry Soldiers"
+tactical_facing_light_cav_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of [GetMaA('light_cavalry').GetName]. Our forces must contend with their experience. \n"
+
+tactical_facing_heavy_cav_soldier_commander:0 "Facing Heavy Cavalry Soldiers"
+tactical_facing_heavy_cav_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of [GetMaA('armored_cavalry').GetName]. Our forces must contend with their experience. \n"
+
+tactical_facing_pikemen_soldier_commander:0 "Facing Pikemen Soldiers"
+tactical_facing_pikemen_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of Pikemen. Our forces must contend with their experience. \n"
+
+tactical_facing_longbow_soldier_commander:0 "Facing Longbow Soldiers"
+tactical_facing_longbow_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of [GetMaA('longbowmen').GetName]. Our forces must contend with their experience. \n"
+
+tactical_facing_goedendag_soldier_commander:0 "Facing Goedendag Soldiers"
+tactical_facing_goedendag_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of [GetMaA('goedendag_militia').GetName]. Our forces must contend with their experience. \n"
+
+tactical_facing_gendarme_soldier_commander:0 "Facing Gendarme Soldiers"
+tactical_facing_gendarme_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of [GetMaA('gendarmes').GetName]. Our forces must contend with their experience. \n"
+
+tactical_facing_chasseur_soldier_commander:0 "Facing Chasseur Soldiers"
+tactical_facing_chasseur_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of [GetMaA('chasseurs').GetName]. Our forces must contend with their experience. \n"
+
+tactical_facing_picchieri_soldier_commander:0 "Facing Picchieri Soldiers"
+tactical_facing_picchieri_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of [GetMaA('picchieri').GetName]. Our forces must contend with their experience. \n"
+
+tactical_facing_cataphract_soldier_commander:0 "Facing Cataphract Soldiers"
+tactical_facing_cataphract_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of Cataphracts. Our forces must contend with their experience. \n"
+
+tactical_facing_monsapa_soldier_commander:0 "Facing Monaspa Soldiers"
+tactical_facing_monsapa_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of [GetMaA('monaspa').GetName]. Our forces must contend with their experience. \n"
+
+tactical_facing_hobelar_soldier_commander:0 "Facing Hobelar Soldiers"
+tactical_facing_hobelar_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of [GetMaA('hobelar').GetName]. Our forces must contend with their experience. \n"
+
+tactical_facing_schiltron_soldier_commander:0 "Facing Schiltron Soldiers"
+tactical_facing_schiltron_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of [GetMaA('schiltron').GetName]. Our forces must contend with their experience. \n"
+
+tactical_facing_heavy_archers_soldier_commander:0 "Facing Heavy Archers"
+tactical_facing_heavy_archers_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of [GetMaA('heavy_archers').GetName]. Our forces must contend with their experience. \n"
+
+tactical_facing_mubarizun_soldier_commander:0 "Facing Mubarizun Soldiers"
+tactical_facing_mubarizun_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of [GetMaA('mubarizun').GetName]. Our forces must contend with their experience. \n"
+
+tactical_facing_ayyar_soldier_commander:0 "Facing Ayyar Soldiers"
+tactical_facing_ayyar_soldier_commander_desc:0 "Enemy has recruited a commander from a regiment of [GetMaA('ayyar').GetName]. Our forces must contend with their experience. \n"
+
+
+
+
+learn_commander_trait.7000.a:0 "Green"
+learn_commander_trait.7000.b:0 "Orange"
+learn_commander_trait.7000.c:0 "Yellow"
+learn_commander_trait.7000.d:0 "Red"
+learn_commander_trait.7000.e:0 "Black"
+learn_commander_trait.7000.f:0 "White"
+learn_commander_trait.7000.g:0 "Blue"
+learn_commander_trait.7000.h:0 "Purple"
+learn_commander_trait.7000.i:0 "Pink"
+learn_commander_trait.7000.j:0 "Gray"
+
+learn_commander_trait.7001.a:0 "Bear"
+learn_commander_trait.7001.b:0 "Lion"
+learn_commander_trait.7001.c:0 "Wolf"
+learn_commander_trait.7001.d:0 "Stag"
+learn_commander_trait.7001.e:0 "Fish"
+learn_commander_trait.7001.f:0 "Fox"
+learn_commander_trait.7001.g:0 "Dragon"
+learn_commander_trait.7001.h:0 "Next"
+
+learn_commander_trait.7002.a:0 "Spider"
+learn_commander_trait.7002.b:0 "Basilisk"
+learn_commander_trait.7002.c:0 "Aurochs"
+learn_commander_trait.7002.d:0 "Leopard"
+learn_commander_trait.7002.e:0 "Cat"
+learn_commander_trait.7002.f:0 "Dog"
+learn_commander_trait.7002.g:0 "Serpent"
+learn_commander_trait.7002.h:0 "Back"
+

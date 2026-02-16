@@ -1,0 +1,10 @@
+﻿l_french:
+ appoint_left_flank_interaction: "Nommer un chef du flanc gauche"
+ appoint_center_flank_interaction: "Nommer le chef de flanc du centre"
+ appoint_right_flank_interaction: "Nommer un chef du flanc droit"
+ left_flank_commander_tooltip: "Désignez un commandant pour diriger le flanc gauche de votre armée. Un leader compétent peut offrir des avantages tactiques aux unités sous son commandement."
+ center_flank_leader_tooltip: "Désignez un commandant pour diriger le flanc central de votre armée. Un leader compétent peut offrir des avantages tactiques aux unités sous son commandement."
+ right_flank_leader_tooltip: "Désignez un commandant pour diriger le flanc droit de votre armée. Un leader compétent peut offrir des avantages tactiques aux unités sous son commandement."
+  
+ remove_nick_or_flavor_from_character_interaction: "Supprimer le surnom ou le texte de saveur"
+ remove_nick_or_flavor_from_character_desc: "Supprimez le surnom des batailles tactiques ou le texte d'ambiance de ce personnage."

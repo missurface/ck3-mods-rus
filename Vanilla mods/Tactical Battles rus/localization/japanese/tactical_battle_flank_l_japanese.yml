@@ -1,0 +1,138 @@
+﻿l_japanese:
+ # Event 0001 - Left Flank Envelopment SUCCESS 
+ tactical_flank_battle.0001.t: "Left Flank Sweeps Forward!"  <"左サイドが前進！">  #NT!
+ tactical_flank_battle.0001.desc: "[scope:flank_commander.GetTitledFirstName], commanding our left flank, has found an opening! The enemy's right is exposed, and we have the opportunity to envelope their position. [enemy_commander.GetTitledFirstName]'s forces are vulnerable to a devastating flanking maneuver!"  <"我らの左翼を指揮する[scope:flank_commander.GetTitledFirstName]が隙を見つけた！敵の権利が暴露され、我々は敵の陣地を包囲する機会を得た。 [enemy_commander.GetTitledFirstName] の部隊は壊滅的な側面作戦に対して脆弱です!">  #NT!
+ tactical_flank_battle.0001.a: "Press the advantage aggressively! (Prowess vs [enemy_commander.GetShortUINameNoTooltip])"  <"積極的にアドバンテージを攻めましょう！ (勇気 vs [enemy_commander.GetShortUINameNoTooltip])">  #NT!
+ tactical_flank_battle.0001.a.success: "Our left flank charges with fury, rolling up their line!"  <"我らの左翼が激怒して突撃し、前線を巻き上げる！">  #NT!
+ tactical_flank_battle.0001.a.failure: "The aggressive push is contained."  <"攻撃的なプッシュは封じ込められます。">  #NT!
+ tactical_flank_battle.0001.b: "Coordinate with the center! (Stewardship vs [enemy_commander.GetShortUINameNoTooltip])"  <"センターでコーディネート！ (スチュワードシップ vs [enemy_commander.GetShortUINameNoTooltip])">  #NT!
+ tactical_flank_battle.0001.b.success: "Perfect coordination amplifies our advantage!"  <"完璧な連携が我々のアドバンテージを増幅させます！">  #NT!
+ tactical_flank_battle.0001.b.failure: "The coordination fails to materialize."  <"調整は実現しません。">  #NT!
+ tactical_flank_battle.0001.c: "Execute a pincer movement! (Martial vs [enemy_commander.GetShortUINameNoTooltip])"  <"挟み撃ち運動を実行せよ！ (マルシャル vs [enemy_commander.GetShortUINameNoTooltip])">  #NT!
+ tactical_flank_battle.0001.c.success: "We trap them in a devastating pincer!"  <"我々は彼らを破壊的な挟み込みで捕らえます！">  #NT!
+ tactical_flank_battle.0001.c.failure: "They evade the pincer maneuver."  <"彼らは挟撃作戦を回避します。">  #NT!
+ tactical_flank_battle.0001.d: "Hold position and observe."  <"位置を保持して観察します。">  #NT!
+  
+ # Event 0002 - Left Flank Envelopment FAILURE 
+ tactical_flank_battle.0002.t: "Left Flank Under Pressure!"  <"プレッシャーを受ける左サイド！">  #NT!
+ tactical_flank_battle.0002.desc: "[scope:flank_commander.GetTitledFirstName], commanding our left flank, is in trouble! [enemy_commander.GetTitledFirstName] has turned our attempted envelopment against us. Our left is now vulnerable and falling back. We must act quickly or risk losing the entire flank!"  <"我らの左翼を指揮する[scope:flank_commander.GetTitledFirstName]が窮地に陥っている！ [enemy_commander.GetTitledFirstName] は私たちの包囲の試みを私たちに敵対させました。私たちの左翼は今や脆弱になり、後退しています。迅速に行動しなければ、側面全体を失う危険があります。">  #NT!
+ tactical_flank_battle.0002.a: "Reform the flank! (Martial vs [enemy_commander.GetShortUINameNoTooltip])"  <"サイドを改革せよ！ (マルシャル vs [enemy_commander.GetShortUINameNoTooltip])">  #NT!
+ tactical_flank_battle.0002.a.success: "We restore order to the left flank!"  <"左翼の秩序を取り戻します！">  #NT!
+ tactical_flank_battle.0002.a.failure: "The flank continues to crumble."  <"側面は崩れ続けます。">  #NT!
+ tactical_flank_battle.0002.b: "Call for support from the center! (Diplomacy vs [enemy_commander.GetShortUINameNoTooltip])"  <"センターに応援を呼び掛けてください！ (外交 vs [enemy_commander.GetShortUINameNoTooltip])">  #NT!
+ tactical_flank_battle.0002.b.success: "Reinforcements shore up our left!"  <"増援が我々の左翼を援護してくれる！">  #NT!
+ tactical_flank_battle.0002.b.failure: "No help arrives in time."  <"助けが間に合わない。">  #NT!
+ tactical_flank_battle.0002.c: "Execute a fighting withdrawal! (Stewardship vs [enemy_commander.GetShortUINameNoTooltip])"  <"戦闘撤退を実行せよ！ (スチュワードシップ vs [enemy_commander.GetShortUINameNoTooltip])">  #NT!
+ tactical_flank_battle.0002.c.success: "We pull back in good order!"  <"順番よく撤退していきます！">  #NT!
+ tactical_flank_battle.0002.c.failure: "The withdrawal becomes a rout."  <"撤退は敗走となる。">  #NT!
+ tactical_flank_battle.0002.d: "Accept the setback."  <"挫折を受け入れてください。">  #NT!
+  
+ # Event 0003 - Center Hold SUCCESS 
+ tactical_flank_battle.0003.t: "The Center Holds Firm!"  <"センターがしっかりホールド！">  #NT!
+ tactical_flank_battle.0003.desc: "[scope:flank_commander.GetTitledFirstName], commanding our center, has proven their worth! While [enemy_commander.GetTitledFirstName] throws everything at our line, the center stands like a fortress. Our position is strong, and we can dictate the flow of battle from here!"  <"私たちのセンターを指揮する[scope:flank_commander.GetTitledFirstName]は、その価値を証明しました! [enemy_commander.GetTitledFirstName] が全力を投げかける中、中央は要塞のようにそびえ立っています。私たちの立場は強力で、ここからの戦いの流れを左右することができます!">  #NT!
+ tactical_flank_battle.0003.a: "Push forward aggressively! (Martial vs [enemy_commander.GetShortUINameNoTooltip])"  <"積極的に突き進んでください！ (マルシャル vs [enemy_commander.GetShortUINameNoTooltip])">  #NT!
+ tactical_flank_battle.0003.a.success: "The center drives them back!"  <"センターが彼らを追い返します！">  #NT!
+ tactical_flank_battle.0003.a.failure: "They resist our push."  <"彼らは私たちの圧力に抵抗します。">  #NT!
+ tactical_flank_battle.0003.b: "Anchor the entire line! (Prowess vs [enemy_commander.GetShortUINameNoTooltip])"  <"全線をアンカーで固定せよ！ (勇気 vs [enemy_commander.GetShortUINameNoTooltip])">  #NT!
+ tactical_flank_battle.0003.b.success: "Our center becomes an immovable anchor!"  <"私たちの中心が不動の錨となる！">  #NT!
+ tactical_flank_battle.0003.b.failure: "The anchor position weakens."  <"アンカーの位置が弱くなる。">  #NT!
+ tactical_flank_battle.0003.c: "Send support to both flanks! (Stewardship vs [enemy_commander.GetShortUINameNoTooltip])"  <"両翼に支援を送りましょう！ (スチュワードシップ vs [enemy_commander.GetShortUINameNoTooltip])">  #NT!
+ tactical_flank_battle.0003.c.success: "The center reinforces our entire line!"  <"センターはライン全体を強化します!">  #NT!
+ tactical_flank_battle.0003.c.failure: "We spread ourselves too thin."  <"私たちは自分自身を薄く広げすぎています。">  #NT!
+ tactical_flank_battle.0003.d: "Maintain steady pressure."  <"安定した圧力を維持します。">  #NT!
+  
+ # Event 0004 - Center Collapsing FAILURE 
+ tactical_flank_battle.0004.t: "The Center is Breaking!"  <"センターが壊れる！">  #NT!
+ tactical_flank_battle.0004.desc: "[scope:flank_commander.GetTitledFirstName] desperately tries to hold the center, but [enemy_commander.GetTitledFirstName] is breaking through! If the center collapses, both flanks will be cut off and destroyed. This is the critical moment of the battle!"  <"[scope:flank_commander.GetTitledFirstName]が必死に中央を押さえようとするが、[enemy_commander.GetTitledFirstName]が突破！中央が崩れれば両翼は切り取られ破壊される。ここが戦いの正念場だ！">  #NT!
+ tactical_flank_battle.0004.a: "Rally the center personally! (Martial vs [enemy_commander.GetShortUINameNoTooltip])"  <"個人的にセンターに結集してください！ (マルシャル vs [enemy_commander.GetShortUINameNoTooltip])">  #NT!
+ tactical_flank_battle.0004.a.success: "My presence steadies the center!"  <"私の存在が中心を揺るがす！">  #NT!
+ tactical_flank_battle.0004.a.failure: "Even my presence cannot stop the collapse."  <"私の存在すら崩壊を止めることはできない。">  #NT!
+ tactical_flank_battle.0004.b: "Commit all reserves! (Stewardship vs [enemy_commander.GetShortUINameNoTooltip])"  <"全てのリザーブをコミットしてください！ (スチュワードシップ vs [enemy_commander.GetShortUINameNoTooltip])">  #NT!
+ tactical_flank_battle.0004.b.success: "Fresh troops plug the gap!"  <"新鮮な軍隊がギャップを埋めます!">  #NT!
+ tactical_flank_battle.0004.b.failure: "The reserves are swallowed up."  <"埋蔵量は飲み込まれます。">  #NT!
+ tactical_flank_battle.0004.c: "Refuse the center and strengthen flanks! (Learning vs [enemy_commander.GetShortUINameNoTooltip])"  <"中央を拒否してサイドを強化！ (学習 vs [enemy_commander.GetShortUINameNoTooltip])">  #NT!
+ tactical_flank_battle.0004.c.success: "We form a new defensive line!"  <"新たな防衛線を構築します！">  #NT!
+ tactical_flank_battle.0004.c.failure: "The maneuver fails catastrophically."  <"作戦は壊滅的に失敗する。">  #NT!
+ tactical_flank_battle.0004.d: "Brace for impact and hope."  <"衝撃と希望に備えてください。">  #NT!
+  
+  
+ tactical_forest_battle.0251.tt: "[center_flank_commander.GetFirstNameOrMe] expertise in the [battle_location.GetProvince.GetTerrain.GetName]"  <"[battle_location.GetProvince.GetTerrain.GetName] における [center_flank_commander.GetFirstNameOrMe] の専門知識">  #NT!
+ tactical_forest_battle.0251.tt.success: "[center_flank_commander.GetFirstNameOrMe] prowess in the [battle_location.GetProvince.GetTerrain.GetNameNoTooltip] at [battle_location.GetProvince.GetName] has distingushed thems among their peers."  <"[battle_location.GetProvince.GetName] での [battle_location.GetProvince.GetTerrain.GetNameNoTooltip] における [center_flank_commander.GetFirstNameOrMe] の実力は、同業者の中でも際立っています。">  #NT!
+  
+ tactical_forest_battle.0250.tt: "[left_flank_commander.GetFirstNameOrMe] expertise in the [battle_location.GetProvince.GetTerrain.GetName]"  <"[battle_location.GetProvince.GetTerrain.GetName] における [left_flank_commander.GetFirstNameOrMe] の専門知識">  #NT!
+ tactical_forest_battle.0250.tt.success: "[left_flank_commander.GetFirstNameOrMe] prowess in the [battle_location.GetProvince.GetTerrain.GetNameNoTooltip] at [battle_location.GetProvince.GetName] has distingushed them among their peers."  <"[battle_location.GetProvince.GetName] での ☻1 における [left_flank_commander.GetFirstNameOrMe] の優れた能力は、彼らを同業者の中で際立たせました。">  #NT!
+  
+ tactical_forest_battle.0252.tt: "[right_flank_commander.GetFirstNameOrMe] expertise in the [battle_location.GetProvince.GetTerrain.GetName]"  <"[battle_location.GetProvince.GetTerrain.GetName] における [right_flank_commander.GetFirstNameOrMe] の専門知識">  #NT!
+ tactical_forest_battle.0252.tt.success: "[right_flank_commander.GetFirstNameOrMe] prowess in the [battle_location.GetProvince.GetTerrain.GetNameNoTooltip] at [battle_location.GetProvince.GetName] has distingushed them among their peers."  <"[battle_location.GetProvince.GetName] での ☻1 における [right_flank_commander.GetFirstNameOrMe] の優れた能力は、彼らを同業者の中で際立たせました。">  #NT!
+  
+ grant_left_interaction_desc: "Appoint [recipient.GetTitledFirstName] as your center commander, granting them tactical authority and prestige."  <"[recipient.GetTitledFirstName] を中央司令官に任命し、彼らに戦術的権限と名声を与えます。">  #NT!
+ grant_center_interaction_desc: "Appoint [recipient.GetTitledFirstName] as your center commander, granting them tactical authority and prestige."  <"[recipient.GetTitledFirstName] を中央司令官に任命し、彼らに戦術的権限と名声を与えます。">  #NT!
+ grant_right_flank_interaction_desc: "Appoint [recipient.GetTitledFirstName] as your right flank commander, granting them tactical authority and prestige."  <"[recipient.GetTitledFirstName] を右翼司令官に任命し、戦術的権限と威信を与えます。">  #NT!
+  
+ # Custom Tooltips 
+ grant_left_flank_commander_tt: "[recipient.GetTitledFirstName] has been appointed to command the left flank."  <"[recipient.GetTitledFirstName]は左サイドの指揮官に任命された。">  #NT!
+ grant_center_commander_tt: "[recipient.GetTitledFirstName] has been appointed to command the center."  <"[recipient.GetTitledFirstName] がセンターの指揮官に任命されました。">  #NT!
+ grant_right_flank_commander_tt: "[recipient.GetTitledFirstName] has been appointed to command the right flank."  <"[recipient.GetTitledFirstName]は右サイドの指揮官に任命された。">  #NT!
+  
+ tactical_overmatched_enemy_commander: "Outmatched Enemy Commander"  <"敵の指揮官に負ける">  #NT!
+ tactical_overmatched_enemy_commander_desc: "This character's experience and skill on the battlefield vastly exceeds the enemy commanders they face, giving them a significant advantage in combat and tactics."  <"このキャラクターの戦場での経験とスキルは、直面する敵の指揮官をはるかに上回り、戦闘と戦術において大きな優位性をもたらします。">  #NT!
+ tactical_outmatched_enemy_commander: "Over My Head"  <"オーバー・マイ・ヘッド">  #NT!
+ tactical_outmatched_enemy_commander_desc: "This character is facing an enemy commander whose experience and skill on the battlefield vastly exceeds their own, putting them at a significant disadvantage in combat and tactics."  <"このキャラクターは、戦場での経験とスキルが自分たちをはるかに上回り、戦闘と戦術において著しく不利な立場にある敵の指揮官と対峙しています。">  #NT!
+  
+  
+ trait_lifestyle_flank_commander: "Flank Commander"  <"側面指揮官">  #NT!
+ trait_lifestyle_flank_commander_desc: "#soft_glow #difficulty_hard Unassigned \n\n#![ROOT.GetCharacter.GetFirstNameNoTooltip] has experience in commanding a flank, tasked with executing flanking maneuvers and exploiting weaknesses on the enemy's right side."  <"#soft_glow #difficulty_hard 未割り当て \n\n#![ROOT.GetCharacter.GetFirstNameNoTooltip] は側面を指揮した経験があり、側面機動を実行し、敵の右側の弱点を突く任務を負っていました。">  #NT!
+ lifestyle_assigned_flank_commander_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] was chosen to command a flank in [ROOT.GetCharacter.GetLiegeEvenWhenDead.GetTitledHouseNameOrFirstNamePossessiveOrMy] army, tasked with executing flanking maneuvers and exploiting weaknesses on the enemy's right side."  <"[ROOT.GetCharacter.GetFirstNameNoTooltip] は [ROOT.GetCharacter.GetLiegeEvenWhenDead.GetTitledHouseNameOrFirstNamePossessiveOrMy] 軍の側面指揮官に選ばれ、側面機動を実行し、敵の右側の弱点を突く任務を負った。">  #NT!
+ trait_lifestyle_flank_commander_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] commands the left flank in [ROOT.GetCharacter.GetLiegeEvenWhenDead.GetTitledHouseNameOrFirstNamePossessiveOrMy] army, tasked with executing flanking maneuvers and exploiting weaknesses on the enemy's right side."  <"[ROOT.GetCharacter.GetFirstNameNoTooltip] は [ROOT.GetCharacter.GetLiegeEvenWhenDead.GetTitledHouseNameOrFirstNamePossessiveOrMy] 軍の左翼を指揮し、側面機動を実行し、敵の右側の弱点を突く任務を負っています。">  #NT!
+ trait_track_left: "Left Flank Commander"  <"左翼司令官">  #NT!
+ trait_track_left_desc: "Fighting on the left side of the flank and maneuvering against the enemies right flank, this character has experience against the enemies most formidable troops."  <"左側の側面で戦い、敵の右側面に対して機動するこのキャラクターは、敵の最も手ごわい軍隊に対して経験を積んでいます。">  #NT!
+ trait_track_center: "Center Flank Commander"  <"中央翼司令官">  #NT!
+ trait_track_center_desc: "Fighting in the center of the flank and maneuvering against the enemies main line, this character fights against the main force of the enemy and has experience against their most disciplined troops."  <"側面の中央で戦い、敵の主力線に対して機動するこのキャラクターは、敵の主力と戦い、最も規律ある軍隊と対戦した経験があります。">  #NT!
+ trait_track_right: "Right Flank Commander"  <"右翼司令官">  #NT!
+ trait_track_right_desc: "Fighting in the right of the flank and maneuvering against the enemies left flank, this character commands the armies most noble and elite troops in battle."  <"右翼で戦い、敵の左翼に対して機動するこのキャラクターは、戦闘において最も高貴で精鋭な軍隊を指揮します。">  #NT!
+  
+ lifestyle_left_flank_commander_desc: "This character leads the left flank of an army, responsible for carrying out flanking maneuvers and taking advantage of vulnerabilities on the enemy's right side."  <"このキャラクターは軍の左翼を指揮し、側面機動を実行し、敵の右側の脆弱性を利用する責任を負います。">  #NT!
+ lifestyle_assigned_left_flank_commander_desc: "#soft_glow #difficulty_easy Unassigned\n\n#!This character was chosen to command the left flank of an army, responsible for carrying out flanking maneuvers and taking advantage of vulnerabilities on the enemy's right side."  <"#soft_glow #difficulty_easy 未割り当て\n\n#!This キャラクターは、側面作戦を実行し、敵の右側の脆弱性を利用する責任を負い、軍の左側面を指揮するために選ばれました。">  #NT!
+ lifestyle_assigned_center_flank_commander_desc: "#soft_glow #difficulty_easy Unassigned\n\n#!This character was chosen to command the center of an army, responsible for maintaining the main battle line and coordinating strategies with the flanks."  <"#soft_glow #difficulty_easy 未割り当て\n\n#!This キャラクターは軍の中央を指揮するために選ばれ、主戦線の維持と側面との戦略の調整を担当します。">  #NT!
+ lifestyle_assigned_right_flank_commander_desc: "#soft_glow #difficulty_easy Unassigned\n\n#!This character was chosen to command the right flank of an army, responsible for carrying out flanking maneuvers and taking advantage of vulnerabilities on the enemy's left side."  <"#soft_glow #difficulty_easy 未割り当て\n\n#!This キャラクターは軍の右翼を指揮するために選ばれ、側面作戦を実行し、敵の左側の脆弱性を利用する責任を負います。">  #NT!
+  
+ trait_lifestyle_war_commander: "War Commander"  <"戦争司令官">  #NT!
+ trait_lifestyle_war_commander_desc: "This character commands the army for a country at war, receiving increased prestige from military successes and bonuses to martial skill during wartime."  <"このキャラクターは戦争中の国の軍隊を指揮し、戦時中の軍事的成功と武術のボーナスによって名声が高まります。">  #NT!
+ trait_lifestyle_war_commander_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] commands the army of [ROOT.GetCharacter.GetLiegeTitleEvenWhenDead.GetNameNoTier] during wartime. Overseeing the battlefield, he commands respect and strikes fear into the hearts of his enemies."  <"[ROOT.GetCharacter.GetFirstNameNoTooltip] は戦時中、[ROOT.GetCharacter.GetLiegeTitleEvenWhenDead.GetNameNoTier] の軍隊を指揮します。戦場を監督する彼は、敵の心に敬意を払い、恐怖を植え付けます。">  #NT!
+  
+ lifestyle_war_commander_desc: "This character leads the army during wartime, responsible for directing military operations and achieving victory for their nation."  <"このキャラクターは戦時中に軍隊を率い、軍事作戦を指揮し、国家の勝利を達成する責任を負います。">  #NT!
+ trait_track_lifestyle_war_commander: "Commander of War"  <"戦争司令官">  #NT!
+ trait_track_lifestyle_war_commander_desc: "This character commands the army in wartime, tasked with leading military efforts and securing victories for their country."  <"このキャラクターは戦時中に軍隊を指揮し、軍事活動を主導し、祖国の勝利を確保する任務を負っています。">  #NT!
+ trait_track_skill: "Experience in Battle"  <"戦闘経験">  #NT!
+ trait_track_skill_desc: "This character has led successful manuevers during battle, demonstrating their skill and experience in commanding troops."  <"このキャラクターは戦闘中に作戦を成功させ、軍隊を指揮するスキルと経験を示しました。">  #NT!
+ trait_track_victories: "Victor in Battle"  <"戦いの勝利者">  #NT!
+ trait_track_victories_desc: "This character's number of victories in battles during wartime, demonstrating their skill and success on the battlefield."  <"このキャラクターが戦時中に戦闘に勝利した回数。戦場でのスキルと成功を示します。">  #NT!
+ trait_track_foreign_fighter: "Fighting on Foreign Soil"  <"異国の地での戦い">  #NT!
+ trait_track_foreign_fighter_desc: "This character's experience in leading men to victory outside the borders of their realm, demonstrating their skill in navigating foreign terrain and overcoming the challenges of fighting away from home."  <"このキャラクターは、領土の外で人々を勝利に導き、外国の地形をナビゲートし、故郷から離れて戦うという課題を克服するスキルを実証しました。">  #NT!
+ trait_track_local_fighter: "Defending the Homeland"  <"祖国を守る">  #NT!
+ trait_track_local_fighter_desc: "This character's experience in successfully leading men to defend their homeland, demonstrating their skill in utilizing familiar terrain and local resources to their advantage."  <"このキャラクターは、祖国を守るために人々をうまく導いた経験を持ち、馴染みのある地形や地元の資源を有利に活用するスキルを示しています。">  #NT!
+ trait_track_outnumbered: "Against The Odds"  <"アゲインスト・ザ・オッズ">  #NT!
+ trait_track_outnumbered_desc: "This character's experience in successfully leading men in battle against forces larger than their own, demonstrating their skill in utilizing superior tactics and strategy to overcome the odds."  <"このキャラクターは、自分たちよりも大きな勢力との戦いで人々をうまく導き、困難を克服するために優れた戦術と戦略を利用するスキルを実証しました。">  #NT!
+  
+  
+ trait_lifestyle_home_terrain_expert: "Defender of the Homeland"  <"祖国の擁護者">  #NT!
+ trait_track_lifestyle_home_terrain_expert: "Defender of the Homeland"  <"祖国の擁護者">  #NT!
+ trait_track_lifestyle_home_terrain_expert_desc: "This character is experienced in fighting within the borders of their realm, with knowledge of the land and its advantages, they make a formidable opponent when fighting on familiar ground."  <"このキャラクターは自分たちの領域の境界内での戦いに経験があり、その土地とその利点についての知識があり、慣れ親しんだ土地で戦うときは手ごわい相手になります。">  #NT!
+ trait_lifestyle_home_terrain_expert_desc: "This character is experienced in fighting within the borders of their realm, with knowledge of the land and its advantages, they make a formidable opponent when fighting on familiar ground."  <"このキャラクターは自分たちの領域の境界内での戦いに経験があり、その土地とその利点についての知識があり、慣れ親しんだ土地で戦うときは手ごわい相手になります。">  #NT!
+ trait_lifestyle_home_terrain_expert_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is experienced in fighting within the borders of [ROOT.GetCharacter.GetHerHis] realm, with knowledge of the land and its advantages, [ROOT.GetCharacter.GetSheHe] makes a formidable opponent when fighting on familiar ground."  <"[ROOT.GetCharacter.GetFirstNameNoTooltip] は [ROOT.GetCharacter.GetHerHis] 領域の境界内での戦いに経験があり、その土地とその利点についての知識を持っていますが、[ROOT.GetCharacter.GetSheHe] は慣れた土地で戦うと手ごわい相手になります。">  #NT!
+  
+ trait_lifestyle_foreign_terrain_expert: "Foreign Lands Fighter"  <"異国の戦闘機">  #NT!
+ trait_track_lifestyle_foreign_terrain_expert: "Foreign Lands Fighter"  <"異国の戦闘機">  #NT!
+ trait_track_lifestyle_foreign_terrain_expert_desc: "This character is experienced in fighting outside the borders of their realm, despite being familiar with the land, they are proficient at manuvering an army through foreign lands."  <"このキャラクターは、その土地に精通しているにもかかわらず、領土の外での戦いの経験があり、異国の地で軍隊を操縦することに熟練しています。">  #NT!
+ trait_lifestyle_foreign_terrain_expert_desc: "This character is experienced in fighting outside the borders of their realm, despite being familiar with the land, they are proficient at manuvering an army through foreign lands."  <"このキャラクターは、その土地に精通しているにもかかわらず、領土の外での戦いの経験があり、異国の地で軍隊を操縦することに熟練しています。">  #NT!
+ trait_lifestyle_foreign_terrain_expert_character_desc: "This character is experienced in fighting outside the borders of their realm, despite being familiar with the land, they are proficient at manuvering an army through foreign lands."  <"このキャラクターは、その土地に精通しているにもかかわらず、領土の外での戦いの経験があり、異国の地で軍隊を操縦することに熟練しています。">  #NT!
+ lifestyle_foreign_terrain_expert_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is experienced in fighting outside the borders of their [ROOT.GetCharacter.GetHerHis], despite being unfamiliar with the land, [ROOT.GetCharacter.GetSheHe] is proficient at manuvering an army through foreign lands."  <"[ROOT.GetCharacter.GetFirstNameNoTooltip] は土地に不慣れにもかかわらず、[ROOT.GetCharacter.GetHerHis] の国境の外での戦いに経験があり、[ROOT.GetCharacter.GetSheHe] は異国の地で軍隊を操縦することに熟練しています。">  #NT!
+  
+ trait_lifestyle_outnumbered_fighter_expert: "Outnumbered Troops Commander"  <"多勢に無勢の軍司令官">  #NT!
+ trait_track_lifestyle_outnumbered_fighter_expert: "Outnumbered Troops Commander"  <"多勢に無勢の軍司令官">  #NT!
+ trait_track_lifestyle_outnumbered_fighter_expert_desc: "This character is experienced in leading men against forces larger than their own, demonstrating their skill in utilizing superior tactics and strategy to overcome the odds."  <"この人物は、自分たちよりも大きな軍隊に対して兵士を率いてきた経験があり、困難を克服するために優れた戦術と戦略を利用するスキルを示しています。">  #NT!
+ trait_lifestyle_outnumbered_fighter_expert_desc: "This character is experienced in leading men against forces larger than their own, demonstrating their skill in utilizing superior tactics and strategy to overcome the odds."  <"この人物は、自分たちよりも大きな軍隊に対して兵士を率いてきた経験があり、困難を克服するために優れた戦術と戦略を利用するスキルを示しています。">  #NT!
+ trait_lifestyle_outnumbered_fighter_expert_character_desc: "This character is experienced in leading men against forces larger than their own, demonstrating their skill in utilizing superior tactics and strategy to overcome the odds."  <"この人物は、自分たちよりも大きな軍隊に対して兵士を率いてきた経験があり、困難を克服するために優れた戦術と戦略を利用するスキルを示しています。">  #NT!
+ lifestyle_outnumbered_fighter_expert_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is experienced in leading men against forces larger than [ROOT.GetCharacter.GetHerHis] own, demonstrating [ROOT.GetCharacter.GetHerHis] skill in utilizing superior tactics and strategy to overcome the odds."  <"[ROOT.GetCharacter.GetFirstNameNoTooltip] は、[ROOT.GetCharacter.GetHerHis] 自身よりも大きな軍隊に対して兵士を率いてきた経験があり、劣勢を克服するために優れた戦術と戦略を利用する際に [ROOT.GetCharacter.GetHerHis] のスキルを示しています。">  #NT!
+  
+  

@@ -1,0 +1,286 @@
+﻿l_polish:
+  
+ # Huscarl 
+ trait_tbat_soldier_huscarl: "Kapitan huskarlowy"  #NT!
+ tbat_soldier_huscarl_desc: "Żołnierz ten awansował z elitarnej jednostki huskarli po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_huscarl_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki huskarli po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Landsknecht 
+ trait_tbat_soldier_landsknecht: "Kapitan Landsknechtu"  #NT!
+ tbat_soldier_landsknecht_desc: "Żołnierz ten awansował z elitarnej jednostki Landsknechtów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_landsknecht_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Landsknechtów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Longbowmen 
+ trait_tbat_soldier_longbowmen: "Kapitan łuczników"  #NT!
+ tbat_soldier_longbowmen_desc: "Żołnierz ten awansował z elitarnej jednostki Wybornych Łuczników po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_longbowmen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Wybornych Łuczników po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Goedendag 
+ trait_tbat_soldier_goedendag: "Kapitan Goedendag"  #NT!
+ tbat_soldier_goedendag_desc: "Żołnierz ten awansował z elitarnej jednostki milicji Goedendag po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_goedendag_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki milicji Goedendag po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Gendarme 
+ trait_tbat_soldier_gendarme: "Kapitan żandarm"  #NT!
+ tbat_soldier_gendarme_desc: "Żołnierz ten awansował z elitarnej jednostki żandarmerii po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_gendarme_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki żandarmerii po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Chasseur 
+ trait_tbat_soldier_chasseur: "Kapitan Chasseur"  #NT!
+ tbat_soldier_chasseur_desc: "Żołnierz ten awansował z elitarnej jednostki Chasseurs po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_chasseur_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Chasseurs po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Picchieri 
+ trait_tbat_soldier_picchieri: "Kapitan Picchieri"  #NT!
+ tbat_soldier_picchieri_desc: "Żołnierz ten awansował z elitarnej jednostki Picchieri po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_picchieri_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Picchieri po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Praetorian 
+ trait_tbat_soldier_praetorian: "Kapitan Pretorianów"  #NT!
+ tbat_soldier_praetorian_desc: "Żołnierz ten awansował z elitarnej jednostki pretorianów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_praetorian_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki pretorianów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Caballero 
+ trait_tbat_soldier_caballero: "Kapitan Caballero"  #NT!
+ tbat_soldier_caballero_desc: "Żołnierz ten awansował z elitarnej jednostki Caballeros po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_caballero_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Caballeros po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Cataphract 
+ trait_tbat_soldier_cataphract: "Kapitan katafrakt"  #NT!
+ tbat_soldier_cataphract_desc: "Żołnierz ten awansował z elitarnej jednostki katafraktów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_cataphract_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki katafraktów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Monaspa 
+ trait_tbat_soldier_monaspa: "Kapitan Monaspy"  #NT!
+ tbat_soldier_monaspa_desc: "Żołnierz ten awansował z elitarnej jednostki Monaspy po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_monaspa_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Monaspy po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Hobelar 
+ trait_tbat_soldier_hobelar: "Kapitan Hobelara"  #NT!
+ tbat_soldier_hobelar_desc: "Żołnierz ten awansował z elitarnej jednostki Hobelars po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_hobelar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Hobelarów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Schiltron 
+ trait_tbat_soldier_schiltron: "Kapitan Schiltron"  #NT!
+ tbat_soldier_schiltron_desc: "Ten żołnierz został awansowany z elitarnej jednostki Schiltronów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_schiltron_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Schiltronów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Metsanvartija 
+ trait_tbat_soldier_metsanvartija: "Kapitan Metsanvartija"  #NT!
+ tbat_soldier_metsanvartija_desc: "Żołnierz ten awansował z elitarnej jednostki Metsanvartija po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_metsanvartija_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Metsanvartija po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Horse Archers 
+ trait_tbat_soldier_horse_archers: "Kapitan łuczników konnych"  #NT!
+ tbat_soldier_horse_archers_desc: "Żołnierz ten awansował z elitarnej jednostki łuczników konnych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki łuczników konnych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Mubarizun 
+ trait_tbat_soldier_mubarizun: "Kapitan Mubarizun"  #NT!
+ tbat_soldier_mubarizun_desc: "Żołnierz ten awansował z elitarnej jednostki Mubarizuna po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_mubarizun_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Mubarizuna po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Ayyar 
+ trait_tbat_soldier_ayyar: "Kapitan Ayyar"  #NT!
+ tbat_soldier_ayyar_desc: "Ten żołnierz został awansowany z elitarnej jednostki Ayyar po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_ayyar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Ayyar po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Druzhina 
+ trait_tbat_soldier_druzhina: "Kapitan Drużyny"  #NT!
+ tbat_soldier_druzhina_desc: "Żołnierz ten awansował z elitarnej jednostki Drużyny po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_druzhina_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Drużyny po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Hussar 
+ trait_tbat_soldier_hussar: "Kapitan huzarów"  #NT!
+ tbat_soldier_hussar_desc: "Żołnierz ten awansował z elitarnej jednostki husarii po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_hussar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki huzarów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Horn Warrior 
+ trait_tbat_soldier_horn_warrior: "Kapitan Wojownika Rogu"  #NT!
+ tbat_soldier_horn_warrior_desc: "Ten żołnierz został awansowany z elitarnej jednostki Wojowników Rogu po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_horn_warrior_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Wojowników Rogu po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Bush Hunter 
+ trait_tbat_soldier_bush_hunter: "Kapitan Bush Huntera"  #NT!
+ tbat_soldier_bush_hunter_desc: "Żołnierz ten awansował z elitarnej jednostki Łowców Bushów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_bush_hunter_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Łowców Bushów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Shomer 
+ trait_tbat_soldier_shomer: "Kapitan Shomer"  #NT!
+ tbat_soldier_shomer_desc: "Żołnierz ten awansował z elitarnej jednostki Szomera po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_shomer_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Shomeru po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Khandayat 
+ trait_tbat_soldier_khandayat: "Kapitan Khandayat"  #NT!
+ tbat_soldier_khandayat_desc: "Żołnierz ten awansował z elitarnej jednostki Khandayat po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_khandayat_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Khandayat po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Garudas 
+ trait_tbat_soldier_garudas: "Kapitan Garudas"  #NT!
+ tbat_soldier_garudas_desc: "Ten żołnierz został awansowany z elitarnej jednostki Garudas po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_garudas_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Garudów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Mountaineer 
+ trait_tbat_soldier_mountaineer: "Kapitan Góral"  #NT!
+ tbat_soldier_mountaineer_desc: "Żołnierz ten awansował z elitarnej jednostki alpinistów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_mountaineer_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Alpinistów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Sahel Horsemen 
+ trait_tbat_soldier_sahel_horsemen: "Kapitan Jeźdźców Sahelu"  #NT!
+ tbat_soldier_sahel_horsemen_desc: "Żołnierz ten awansował z elitarnej jednostki Jeźdźców Sahelu po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_sahel_horsemen_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Jeźdźców Sahelu po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Guinea Warrior 
+ trait_tbat_soldier_guinea_warrior: "Kapitan wojownika z Gwinei"  #NT!
+ tbat_soldier_guinea_warrior_desc: "Ten żołnierz został awansowany z elitarnej jednostki Wojowników Gwinei po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_guinea_warrior_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Wojowników Gwinei po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Sarawit 
+ trait_tbat_soldier_sarawit: "Kapitan Sarawit"  #NT!
+ tbat_soldier_sarawit_desc: "Żołnierz ten awansował z elitarnej jednostki Sarawit po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_sarawit_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Sarawit po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Abudrar 
+ trait_tbat_soldier_abudrar: "Kapitan Abudrara"  #NT!
+ tbat_soldier_abudrar_desc: "Żołnierz ten awansował z elitarnej jednostki Abudrara po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_abudrar_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Abudrara po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Zbrojnosh 
+ trait_tbat_soldier_zbrojnosh: "Kapitan Zbrojnosh"  #NT!
+ tbat_soldier_zbrojnosh_desc: "Żołnierz ten awansował z elitarnej jednostki Zbrojnosza po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_zbrojnosh_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Zbrojnosza po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Palace Guards 
+ trait_tbat_soldier_palace_guards: "Kapitan Straży Pałacowej"  #NT!
+ tbat_soldier_palace_guards_desc: "Żołnierz ten awansował z elitarnej jednostki Straży Pałacowej po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_palace_guards_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Straży Pałacowej po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Shenbigong 
+ trait_tbat_soldier_shenbigong: "Kapitan Shenbigong"  #NT!
+ tbat_soldier_shenbigong_desc: "Żołnierz ten awansował z elitarnej jednostki Shenbigong po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_shenbigong_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Shenbigong po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Mulaththamun 
+ trait_tbat_soldier_mulaththamun: "Kapitan Mulatthamon"  #NT!
+ tbat_soldier_mulaththamun_desc: "Żołnierz ten awansował z elitarnej jednostki Mulaththamona po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_mulaththamun_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Mulaththamona po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Archers of the Nile 
+ trait_tbat_soldier_archers_of_the_nile: "Kapitan Łuczników Nilu"  #NT!
+ tbat_soldier_archers_of_the_nile_desc: "Żołnierz ten awansował z elitarnej jednostki Łuczników Nilu po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_archers_of_the_nile_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Łuczników Nilu po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Paiks 
+ trait_tbat_soldier_paiks: "Kapitan Paika"  #NT!
+ tbat_soldier_paiks_desc: "Żołnierz ten awansował z elitarnej jednostki Paików po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_paiks_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Paików po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Guanch Vaulter 
+ trait_tbat_soldier_guanch_vaulter: "Kapitan Vaultera Guancha"  #NT!
+ tbat_soldier_guanch_vaulter_desc: "Żołnierz ten awansował z elitarnej jednostki Guanch Vaulters po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_guanch_vaulter_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Guanch Vaulters po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Ayrudzi 
+ trait_tbat_soldier_ayrudzi: "Kapitan Ayrudzi"  #NT!
+ tbat_soldier_ayrudzi_desc: "Żołnierz ten awansował z elitarnej jednostki Ayrudzi po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_ayrudzi_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Ayrudzi po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Conrois 
+ trait_tbat_soldier_conrois: "Kapitan Conrois"  #NT!
+ tbat_soldier_conrois_desc: "Żołnierz ten awansował z elitarnej jednostki Conrois po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_conrois_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Conrois po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Akritai 
+ trait_tbat_soldier_akritai: "Kapitan Akritai"  #NT!
+ tbat_soldier_akritai_desc: "Ten żołnierz został awansowany z elitarnej jednostki Akritai po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_akritai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Akritai po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Ballistrai 
+ trait_tbat_soldier_ballistrai: "Kapitan Ballistrai"  #NT!
+ tbat_soldier_ballistrai_desc: "Żołnierz ten awansował z elitarnej jednostki Ballistrai po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_ballistrai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Ballistrai po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Skoutatoi 
+ trait_tbat_soldier_skoutatoi: "Kapitan Skoutatoi"  #NT!
+ tbat_soldier_skoutatoi_desc: "Ten żołnierz został awansowany z elitarnej jednostki Skoutatoi po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_skoutatoi_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Skoutatoi po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Varangian Guards 
+ trait_tbat_soldier_varangian_guards: "Kapitan Gwardii Varangijskiej"  #NT!
+ tbat_soldier_varangian_guards_desc: "Żołnierz ten awansował z elitarnej jednostki Gwardii Varangijskiej po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_varangian_guards_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Gwardii Varangijskiej po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Handpicked Faithful 
+ trait_tbat_soldier_handpicked_faithful: "Wyselekcjonowany wierny kapitan"  #NT!
+ tbat_soldier_handpicked_faithful_desc: "Ten żołnierz został awansowany z elitarnej jednostki Wyselekcjonowanych Wiernych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_handpicked_faithful_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Wybranych Wiernych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Fire Lancers 
+ trait_tbat_soldier_fire_lancers: "Kapitan Ułanów Ognia"  #NT!
+ tbat_soldier_fire_lancers_desc: "Żołnierz ten awansował z elitarnej jednostki Ułanów Ognia po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_fire_lancers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Ułanów Ognia po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Gakgung Archers 
+ trait_tbat_soldier_gakgung_archers: "Kapitan łuczników Gakgung"  #NT!
+ tbat_soldier_gakgung_archers_desc: "Żołnierz ten awansował z elitarnej jednostki Łuczników Gakgung po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_gakgung_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Łuczników Gakgung po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Ballista Elephant 
+ trait_tbat_soldier_ballista_elephant: "Kapitan słoni balistycznych"  #NT!
+ tbat_soldier_ballista_elephant_desc: "Żołnierz ten awansował z elitarnej jednostki Słoni Balistowych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_ballista_elephant_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Słoni Balistowych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Pesilat Warriors 
+ trait_tbat_soldier_pesilat_warriors: "Kapitan wojowników Pesilat"  #NT!
+ tbat_soldier_pesilat_warriors_desc: "Żołnierz ten awansował z elitarnej jednostki Wojowników Pesilat po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_pesilat_warriors_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Wojowników Pesilat po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Samurai 
+ trait_tbat_soldier_samurai: "Kapitan Samuraj"  #NT!
+ tbat_soldier_samurai_desc: "Ten żołnierz został awansowany z elitarnej jednostki samurajów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_samurai_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki samurajów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Japanese Horse Archers 
+ trait_tbat_soldier_japanese_horse_archers: "Kapitan japońskich łuczników konnych"  #NT!
+ tbat_soldier_japanese_horse_archers_desc: "Żołnierz ten awansował z elitarnej jednostki japońskich łuczników konnych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_japanese_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki japońskich łuczników konnych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Emishi Horse Archers 
+ trait_tbat_soldier_emishi_horse_archers: "Kapitan łuczników konnych Emishi"  #NT!
+ tbat_soldier_emishi_horse_archers_desc: "Żołnierz ten awansował z elitarnej jednostki łuczników konnych Emishi po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_emishi_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki łuczników konnych Emishi po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Warrior Monks 
+ trait_tbat_soldier_warrior_monks: "Kapitan Wojowników Mnichów"  #NT!
+ tbat_soldier_warrior_monks_desc: "Ten żołnierz został awansowany z elitarnej jednostki Wojowniczych Mnichów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_warrior_monks_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Wojowniczych Mnichów po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Zhanmadao Infantry 
+ trait_tbat_soldier_zhanmadao_infantry: "Kapitan piechoty Zhanmadao"  #NT!
+ tbat_soldier_zhanmadao_infantry_desc: "Żołnierz ten awansował z elitarnej jednostki piechoty Zhanmadao po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_zhanmadao_infantry_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki piechoty Zhanmadao po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Tiefutu 
+ trait_tbat_soldier_tiefutu: "Kapitan Tiefutu"  #NT!
+ tbat_soldier_tiefutu_desc: "Żołnierz ten awansował z elitarnej jednostki Tiefutu po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_tiefutu_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Tiefutu po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Black Armor Cavalry 
+ trait_tbat_soldier_black_armor_cavalry: "Kapitan Kawalerii Czarnej Zbroi"  #NT!
+ tbat_soldier_black_armor_cavalry_desc: "Żołnierz ten awansował z elitarnej jednostki kawalerii Czarnej Pancernej po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_black_armor_cavalry_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Kawalerii Czarnej Pancerza po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Burenjia 
+ trait_tbat_soldier_burenjia: "Kapitan Burenjii"  #NT!
+ tbat_soldier_burenjia_desc: "Żołnierz ten awansował z elitarnej jednostki Burenjia po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_burenjia_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Burenjia po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Rocket Carts 
+ trait_tbat_soldier_rocket_carts: "Kapitan wózków rakietowych"  #NT!
+ tbat_soldier_rocket_carts_desc: "Ten żołnierz został awansowany z elitarnej jednostki Wozów Rakietowych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_rocket_carts_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Wozów Rakietowych po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+  
+ # Ordo Riders Horse Archers 
+ trait_tbat_soldier_ordo_riders_horse_archers: "Kapitan łuczników konnych Jeźdźców Ordo"  #NT!
+ tbat_soldier_ordo_riders_horse_archers_desc: "Żołnierz ten awansował z elitarnej jednostki Łuczników Konnych Jeźdźców Ordo po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!
+ trait_tbat_soldier_ordo_riders_horse_archers_character_desc: "[ROOT.Char.GetFullNameNicknamedOrMe] został awansowany z elitarnej jednostki Jeźdźców Konnych Łuczników Ordo po tym, jak odegrał kluczową rolę w sukcesie pułku w bitwie. Ich obecność w bitwie inspiruje otaczających ich ludzi do większych wyczynów zbrojnych."  #NT!

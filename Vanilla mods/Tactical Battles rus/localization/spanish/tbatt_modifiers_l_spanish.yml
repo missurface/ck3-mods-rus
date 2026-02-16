@@ -1,0 +1,535 @@
+﻿l_spanish:
+  
+ FLANK_COMMANDERS_TAB: "Comandantes de flanco"  #NT!
+ tactical_turn_and_kill_success_commander: "Girar y matar"  #NT!
+ tactical_turn_and_kill_success_commander_desc: "El ejército de este personaje atrajo con éxito al enemigo y de repente se volvió contra él, provocando un impacto masivo en su línea."  #NT!
+ tactical_turn_and_kill_success_troops: "Frenesí asesino"  #NT!
+ tactical_turn_and_kill_success_troops_desc: "El ejército de este personaje se está aprovechando de una línea conmocionada, cortando la línea enemiga angustiada como si fuera mantequilla."  #NT!
+ tactical_turn_and_kill_success_enemy_commander: "Cebado"  #NT!
+ tactical_turn_and_kill_success_enemy_commander_desc: "Este comandante cayó en una finta y está sufriendo grandes pérdidas después de haber sido tomado por sorpresa por el repentino cambio de fuerzas."  #NT!
+ tactical_turn_and_kill_success_enemy_troops: "atraído"  #NT!
+ tactical_turn_and_kill_success_enemy_troops_desc: "Las tropas de este personaje siguieron el anzuelo y lanzaron un devastador contraataque, sufriendo grandes pérdidas."  #NT!
+ tactical_turn_and_kill_failure_commander: "Retenido"  #NT!
+ tactical_turn_and_kill_failure_commander_desc: "El intento de finta de este personaje no tuvo éxito ya que el enemigo se mantuvo firme y resistió el contraataque."  #NT!
+ tactical_turn_and_kill_failure_troops: "Posición defensiva"  #NT!
+ tactical_turn_and_kill_failure_troops_desc: "Nuestras tropas montaron una fuerte línea defensiva pero no lograron aprovechar la maniobra finta."  #NT!
+ tactical_turn_and_kill_failure_enemy_commander: "Defensa incondicional"  #NT!
+ tactical_turn_and_kill_failure_enemy_commander_desc: "Este comandante vio a través de la finta y mantuvo un control disciplinado de sus fuerzas."  #NT!
+ tactical_turn_and_kill_failure_enemy_troops: "Repelentes"  #NT!
+ tactical_turn_and_kill_failure_enemy_troops_desc: "Las tropas enemigas repelieron el contraataque, manteniendo su formación contra el repentino retroceso."  #NT!
+  
+ tactical_maa_ambush_success_commander: "Emboscado"  #NT!
+ tactical_maa_ambush_success_commander_desc: "Este comandante tendió con éxito una emboscada al enemigo, tomándolos con la guardia baja."  #NT!
+ tactical_maa_ambush_success_troops: "Ver rojo"  #NT!
+ tactical_maa_ambush_success_troops_desc: "Nuestras tropas están enfurecidas y atacan con ferocidad tras la exitosa emboscada."  #NT!
+ tactical_maa_ambush_success_enemy_commander: "emboscado"  #NT!
+ tactical_maa_ambush_success_enemy_commander_desc: "Este comandante fue tomado por sorpresa por una emboscada y está luchando por responder."  #NT!
+ tactical_maa_ambush_success_enemy_troops: "Tomar pérdidas"  #NT!
+ tactical_maa_ambush_success_enemy_troops_desc: "Las tropas enemigas están sufriendo grandes pérdidas debido a una emboscada."  #NT!
+ tactical_maa_ambush_failure_commander: "Girado lejos"  #NT!
+ tactical_maa_ambush_failure_commander_desc: "Este comandante rotó con éxito sus fuerzas para evitar una emboscada."  #NT!
+ tactical_maa_ambush_failure_troops: "En mis talones"  #NT!
+ tactical_maa_ambush_failure_troops_desc: "Nuestras tropas luchan por mantener el ritmo después de una emboscada fallida."  #NT!
+ tactical_maa_ambush_failure_enemy_commander: "Instintos inteligentes"  #NT!
+ tactical_maa_ambush_failure_enemy_commander_desc: "Este comandante mostró rapidez de pensamiento y evitó una emboscada."  #NT!
+ tactical_maa_ambush_failure_enemy_troops: "Al ataque"  #NT!
+  
+  
+ tactical_flank_breakoff_success_commander: "Rotación del ejército"  #NT!
+ tactical_flank_breakoff_success_commander_desc: "El flanco rotó con éxito para enfrentarse a nuevos enemigos o reposicionarse para obtener ventaja."  #NT!
+ tactical_flank_breakoff_success_troops: "Listo para luchar"  #NT!
+ tactical_flank_breakoff_success_troops_desc: "Las tropas están llenas de energía y listas para luchar en sus nuevas posiciones."  #NT!
+ tactical_flank_breakoff_success_enemy_commander: "Ser presionado"  #NT!
+ tactical_flank_breakoff_success_enemy_commander_desc: "El enemigo está sintiendo la presión a medida que nuestro flanco se reposiciona contra ellos."  #NT!
+ tactical_flank_breakoff_success_enemy_troops: "Enemigos reforzados"  #NT!
+ tactical_flank_breakoff_success_enemy_troops_desc: "Las fuerzas enemigas están siendo reforzadas mientras afrontan la maniobra de flanqueo."  #NT!
+ tactical_flank_breakoff_failure_commander: "Estancado"  #NT!
+ tactical_flank_breakoff_failure_commander_desc: "El flanco se estancó y no pudo ejecutar la rotación."  #NT!
+ tactical_flank_breakoff_failure_troops: "No puedo desconectarme"  #NT!
+ tactical_flank_breakoff_failure_troops_desc: "Las tropas no pueden separarse del enemigo para reposicionarse."  #NT!
+ tactical_flank_breakoff_failure_enemy_commander: "Mantenga la presión"  #NT!
+ tactical_flank_breakoff_failure_enemy_commander_desc: "El enemigo mantiene la presión e impide que nuestro flanco se retire."  #NT!
+ tactical_flank_breakoff_failure_enemy_troops: "Espadas listas"  #NT!
+ tactical_flank_breakoff_failure_enemy_troops_desc: "Las fuerzas enemigas están listas y decididas a mantener su posición."  #NT!
+  
+ tactical_center_breakoff_success_commander: "Rotación del ejército"  #NT!
+ tactical_center_breakoff_success_commander_desc: "El centro giró con éxito para enfrentarse a nuevos enemigos o reposicionarse para obtener ventaja."  #NT!
+ tactical_center_breakoff_success_troops: "Listo para luchar"  #NT!
+ tactical_center_breakoff_success_troops_desc: "Las tropas del centro están llenas de energía y listas para luchar en sus nuevas posiciones."  #NT!
+ tactical_center_breakoff_success_enemy_commander: "Ser presionado"  #NT!
+ tactical_center_breakoff_success_enemy_commander_desc: "El enemigo está sintiendo la presión a medida que nuestro centro se reposiciona contra ellos."  #NT!
+ tactical_center_breakoff_success_enemy_troops: "Enemigos reforzados"  #NT!
+ tactical_center_breakoff_success_enemy_troops_desc: "Las fuerzas enemigas están siendo reforzadas mientras se enfrentan a la maniobra central."  #NT!
+ tactical_center_breakoff_failure_commander: "Estancado"  #NT!
+ tactical_center_breakoff_failure_commander_desc: "El central se estancó y no pudo ejecutar la rotación."  #NT!
+ tactical_center_breakoff_failure_troops: "No puedo desconectarme"  #NT!
+ tactical_center_breakoff_failure_troops_desc: "Las tropas del centro no pueden separarse del enemigo para reposicionarse."  #NT!
+ tactical_center_breakoff_failure_enemy_commander: "Mantenga la presión"  #NT!
+ tactical_center_breakoff_failure_enemy_commander_desc: "El enemigo mantiene la presión e impide que nuestro centro se retire."  #NT!
+ tactical_center_breakoff_failure_enemy_troops: "Espadas listas"  #NT!
+ tactical_center_breakoff_failure_enemy_troops_desc: "Las fuerzas enemigas están listas y decididas a resistir el centro."  #NT!
+  
+ tactical_crashing_knights_success_commander: "Caballeros estrellados"  #NT!
+ tactical_crashing_knights_success_commander_desc: "La carga de los caballeros aplasta con éxito la línea enemiga con un poder de caballería devastador."  #NT!
+ tactical_crashing_knights_success_troops: "Carga del caballero"  #NT!
+ tactical_crashing_knights_success_troops_desc: "Las tropas avanzan con los caballeros, rompiendo las defensas enemigas."  #NT!
+ tactical_crashing_knights_success_enemy_commander: "El ataque del caballero"  #NT!
+ tactical_crashing_knights_success_enemy_commander_desc: "Este comandante está abrumado por la devastadora carga del caballero."  #NT!
+ tactical_crashing_knights_success_enemy_troops: "Bajo la carga del caballero"  #NT!
+ tactical_crashing_knights_success_enemy_troops_desc: "Las fuerzas enemigas son pisoteadas y derrotadas por los caballeros que cargan."  #NT!
+ tactical_crashing_knights_failure_commander: "Caballeros rechazados"  #NT!
+ tactical_crashing_knights_failure_commander_desc: "La carga del caballero fue rechazada por una fuerte defensa enemiga."  #NT!
+ tactical_crashing_knights_failure_troops: "Caballeros retenidos"  #NT!
+ tactical_crashing_knights_failure_troops_desc: "Las tropas de apoyo no pueden abrirse paso si los caballeros están a raya."  #NT!
+ tactical_crashing_knights_failure_enemy_commander: "Caballeros rechazados"  #NT!
+ tactical_crashing_knights_failure_enemy_commander_desc: "Este comandante repelió con éxito la carga del caballero."  #NT!
+ tactical_crashing_knights_failure_enemy_troops: "Caballeros retenidos"  #NT!
+ tactical_crashing_knights_failure_enemy_troops_desc: "Las fuerzas enemigas han logrado contener a los caballeros que cargaban."  #NT!
+ tactical_harrying_success_commander: "Aguilucho"  #NT!
+ tactical_harrying_success_commander_desc: "El comandante acosa con éxito al enemigo con ataques rápidos y retiradas tácticas."  #NT!
+ tactical_harrying_success_troops: "Golpea y corre"  #NT!
+ tactical_harrying_success_troops_desc: "Las tropas ejecutan rápidas tácticas de atacar y huir, desgastando al enemigo."  #NT!
+ tactical_harrying_success_enemy_commander: "Frustrado"  #NT!
+ tactical_harrying_success_enemy_commander_desc: "Este comandante está frustrado por el acoso constante y no puede asestar un golpe decisivo."  #NT!
+ tactical_harrying_success_enemy_troops: "perseguido"  #NT!
+ tactical_harrying_success_enemy_troops_desc: "Las fuerzas enemigas están siendo perseguidas y acosadas, incapaces de formar una defensa sólida."  #NT!
+ tactical_harrying_failure_commander: "Fijado"  #NT!
+ tactical_harrying_failure_commander_desc: "Las tácticas de acoso del comandante fracasaron y las fuerzas ahora están inmovilizadas."  #NT!
+ tactical_harrying_failure_troops: "Bajo presión"  #NT!
+ tactical_harrying_failure_troops_desc: "Las tropas no pueden mantener la táctica de atacar y huir y ahora están bajo una fuerte presión."  #NT!
+ tactical_harrying_failure_enemy_commander: "Implacable"  #NT!
+ tactical_harrying_failure_enemy_commander_desc: "La incesante persecución de este comandante ha alcanzado a nuestras fuerzas."  #NT!
+ tactical_harrying_failure_enemy_troops: "Sin escapatoria"  #NT!
+ tactical_harrying_failure_enemy_troops_desc: "Las fuerzas enemigas están presionando con fuerza y ​​nuestras tropas no tienen a dónde huir."  #NT!
+  
+ tactical_maa_reinforce_success_commander: "Reforzado"  #NT!
+ tactical_maa_reinforce_success_troops: "sangre fresca"  #NT!
+ tactical_maa_reinforce_success_enemy_commander: "Luchando contra nuevas fuerzas"  #NT!
+ tactical_maa_reinforce_success_enemy_troops: "Frente a un nuevo asalto"  #NT!
+ tactical_maa_reinforce_failure_commander: "Estancado"  #NT!
+ tactical_maa_reinforce_failure_troops: "Interceptado"  #NT!
+ tactical_maa_reinforce_failure_enemy_commander: "Pensamiento rápido"  #NT!
+ tactical_maa_reinforce_failure_enemy_troops: "No hay rival para nosotros"  #NT!
+  
+ tactical_knights_reinforce_success_commander: "Reforzado"  #NT!
+ tactical_knights_reinforce_success_commander_desc: "Los refuerzos de caballeros refuerzan con éxito la línea de batalla principal."  #NT!
+ tactical_knights_reinforce_success_troops: "sangre fresca"  #NT!
+ tactical_knights_reinforce_success_troops_desc: "Llegan nuevos refuerzos de caballeros que aumentan la moral."  #NT!
+ tactical_knights_reinforce_success_enemy_commander: "Luchando contra nuevas fuerzas"  #NT!
+ tactical_knights_reinforce_success_enemy_commander_desc: "Este comandante debe enfrentar refuerzos de caballeros adicionales."  #NT!
+ tactical_knights_reinforce_success_enemy_troops: "Frente a un nuevo asalto"  #NT!
+ tactical_knights_reinforce_success_enemy_troops_desc: "Las fuerzas enemigas son atacadas por nuevos refuerzos de caballeros."  #NT!
+ tactical_knights_reinforce_failure_commander: "Estancado"  #NT!
+ tactical_knights_reinforce_failure_commander_desc: "Los refuerzos de los caballeros se atascaron y no lograron llegar al frente."  #NT!
+ tactical_knights_reinforce_failure_troops: "Interceptado"  #NT!
+ tactical_knights_reinforce_failure_troops_desc: "Los refuerzos de los caballeros fueron interceptados y aislados de la fuerza principal."  #NT!
+ tactical_knights_reinforce_failure_enemy_commander: "Decisiones rápidas"  #NT!
+ tactical_knights_reinforce_failure_enemy_commander_desc: "Este comandante tomó decisiones rápidas para interceptar nuestros refuerzos de caballeros."  #NT!
+ tactical_knights_reinforce_failure_enemy_troops: "Presione el ataque"  #NT!
+ tactical_knights_reinforce_failure_enemy_troops_desc: "Las fuerzas enemigas están presionando su ataque mientras nuestros caballeros son interceptados."  #NT!
+  
+  
+ tactical_ferocious_charge_success_commander: "Carga feroz"  #NT!
+ tactical_ferocious_charge_success_commander_desc: "El comandante lidera una carga feroz que arrasa las defensas enemigas."  #NT!
+ tactical_ferocious_charge_success_troops: "imparable"  #NT!
+ tactical_ferocious_charge_success_troops_desc: "Las tropas avanzan con ímpetu y ferocidad imparables."  #NT!
+ tactical_ferocious_charge_success_enemy_commander: "Abrumado"  #NT!
+ tactical_ferocious_charge_success_enemy_commander_desc: "Este comandante está abrumado por el feroz asalto."  #NT!
+ tactical_ferocious_charge_success_enemy_troops: "aplastado"  #NT!
+ tactical_ferocious_charge_success_enemy_troops_desc: "Las fuerzas enemigas son aplastadas por la abrumadora carga."  #NT!
+ tactical_ferocious_charge_failure_commander: "Carga rechazada"  #NT!
+ tactical_ferocious_charge_failure_commander_desc: "La feroz carga fue rechazada por una decidida resistencia enemiga."  #NT!
+ tactical_ferocious_charge_failure_troops: "retenido"  #NT!
+ tactical_ferocious_charge_failure_troops_desc: "Las tropas que cargaban fueron retenidas por una fuerte línea enemiga."  #NT!
+ tactical_ferocious_charge_failure_enemy_commander: "Firme"  #NT!
+ tactical_ferocious_charge_failure_enemy_commander_desc: "Este comandante se mantuvo firme y mantuvo la línea contra la carga."  #NT!
+ tactical_ferocious_charge_failure_enemy_troops: "De pie firme"  #NT!
+ tactical_ferocious_charge_failure_enemy_troops_desc: "Las fuerzas enemigas se mantuvieron firmes ante la feroz carga."  #NT!
+  
+ tactical_diversion_success_commander: "Maestro de la distracción"  #NT!
+ tactical_diversion_success_commander_desc: "Las tácticas de distracción del comandante logran confundir al enemigo."  #NT!
+ tactical_diversion_success_troops: "Enemigos confundidos"  #NT!
+ tactical_diversion_success_troops_desc: "El enemigo está confundido y desorganizado por la táctica de distracción."  #NT!
+ tactical_diversion_success_enemy_commander: "Distraído"  #NT!
+ tactical_diversion_success_enemy_commander_desc: "Este comandante se distrae con la finta y pierde la concentración."  #NT!
+ tactical_diversion_success_enemy_troops: "Lanzado al desorden"  #NT!
+ tactical_diversion_success_enemy_troops_desc: "Las fuerzas enemigas quedan desorganizadas por la desviación táctica."  #NT!
+ tactical_diversion_failure_commander: "Desvío fallido"  #NT!
+ tactical_diversion_failure_commander_desc: "La táctica de distracción no logró confundir al enemigo."  #NT!
+ tactical_diversion_failure_troops: "Enemigos inmóviles"  #NT!
+ tactical_diversion_failure_troops_desc: "El enemigo permaneció inmóvil y concentrado a pesar del intento de desvío."  #NT!
+  
+ tactical_hidden_flank_success_commander: "Flanco oculto"  #NT!
+ tactical_hidden_flank_success_commander_desc: "Un movimiento de flanco oculto pilla al enemigo completamente desprevenido."  #NT!
+ tactical_hidden_flank_success_troops: "Ataque sorpresa"  #NT!
+ tactical_hidden_flank_success_troops_desc: "Nuestras tropas lanzan un devastador ataque sorpresa desde el flanco oculto."  #NT!
+ tactical_hidden_flank_success_enemy_commander: "Flanqueado"  #NT!
+ tactical_hidden_flank_success_enemy_commander_desc: "Este comandante es tomado por sorpresa cuando emerge un flanco oculto."  #NT!
+ tactical_hidden_flank_success_enemy_troops: "emboscado"  #NT!
+ tactical_hidden_flank_success_enemy_troops_desc: "Las fuerzas enemigas sufren una emboscada desde una dirección inesperada."  #NT!
+ tactical_hidden_flank_failure_commander: "Flanco perdido"  #NT!
+ tactical_hidden_flank_failure_commander_desc: "La maniobra del flanco oculto no logró sorprender al enemigo."  #NT!
+ tactical_hidden_flank_failure_troops: "Sin sorpresa"  #NT!
+ tactical_hidden_flank_failure_troops_desc: "El movimiento de flanco no logró lograr sorpresa ni valor de shock."  #NT!
+ tactical_hidden_flank_failure_enemy_commander: "Alertado"  #NT!
+ tactical_hidden_flank_failure_enemy_commander_desc: "Este comandante fue alertado del intento de flanqueo."  #NT!
+ tactical_hidden_flank_failure_enemy_troops: "Preparado"  #NT!
+ tactical_hidden_flank_failure_enemy_troops_desc: "Las fuerzas enemigas estaban preparadas y listas para el ataque por el flanco."  #NT!
+  
+ tactical_hidden_flank_encircle_failure_commander: "Cerco fallido"  #NT!
+ tactical_hidden_flank_encircle_failure_commander_desc: "El intento de maniobra de cerco no se completó."  #NT!
+ tactical_hidden_flank_encircle_failure_troops: "atrapado"  #NT!
+ tactical_hidden_flank_encircle_failure_troops_desc: "Nuestras tropas están atrapadas y corren el riesgo de ser rodeadas."  #NT!
+ tactical_hidden_flank_encircle_failure_enemy_commander: "Escape estrecho"  #NT!
+ tactical_hidden_flank_encircle_failure_enemy_commander_desc: "Este comandante escapó por poco del intento de cerco."  #NT!
+ tactical_hidden_flank_encircle_failure_enemy_troops: "Liberarse"  #NT!
+ tactical_hidden_flank_encircle_failure_enemy_troops_desc: "Las fuerzas enemigas se están liberando del intento de cerco."  #NT!
+ tactical_hidden_flank_encircle_success_commander: "Cerco completo"  #NT!
+ tactical_hidden_flank_encircle_success_commander_desc: "La maniobra de cerco está completa: el enemigo está rodeado."  #NT!
+ tactical_hidden_flank_encircle_success_troops: "Rodeado"  #NT!
+ tactical_hidden_flank_encircle_success_troops_desc: "Nuestras tropas han rodeado completamente a las fuerzas enemigas."  #NT!
+ tactical_hidden_flank_encircle_success_enemy_commander: "atrapado"  #NT!
+ tactical_hidden_flank_encircle_success_enemy_commander_desc: "Este comandante se encuentra atrapado sin ruta de escape."  #NT!
+ tactical_hidden_flank_encircle_success_enemy_troops: "Sin escapatoria"  #NT!
+ tactical_hidden_flank_encircle_success_enemy_troops_desc: "Las fuerzas enemigas están rodeadas sin salida."  #NT!
+  
+ tactical_maa_charge_success_commander: "Carga de élite"  #NT!
+ tactical_maa_charge_success_commander_desc: "Las unidades pesadas de élite cargan con éxito y atraviesan las líneas enemigas."  #NT!
+ tactical_maa_charge_success_troops: "Unidades de crack"  #NT!
+ tactical_maa_charge_success_troops_desc: "Las unidades de élite avanzan con un efecto devastador."  #NT!
+ tactical_maa_charge_success_enemy_commander: "Campaña"  #NT!
+ tactical_maa_charge_success_enemy_commander_desc: "Este comandante sufre una represión por parte de la carga de élite."  #NT!
+ tactical_maa_charge_success_enemy_troops: "Rompiendo líneas"  #NT!
+ tactical_maa_charge_success_enemy_troops_desc: "Las líneas enemigas se están rompiendo bajo el ataque de las unidades de élite."  #NT!
+ tactical_maa_charge_failure_commander: "Carga rechazada"  #NT!
+ tactical_maa_charge_failure_commander_desc: "La carga de élite fue rechazada antes de abrirse paso."  #NT!
+ tactical_maa_charge_failure_troops: "retenido"  #NT!
+ tactical_maa_charge_failure_troops_desc: "Las unidades de élite fueron retenidas por la resistencia enemiga."  #NT!
+ tactical_maa_charge_failure_enemy_commander: "Firme"  #NT!
+ tactical_maa_charge_failure_enemy_commander_desc: "Este comandante se mantuvo firme contra la carga de la élite."  #NT!
+ tactical_maa_charge_failure_enemy_troops: "De pie firme"  #NT!
+ tactical_maa_charge_failure_enemy_troops_desc: "Las fuerzas enemigas se mantuvieron firmes contra la carga de élite."  #NT!
+  
+ tactical_knights_charge_success_commander: "Carga de los caballeros"  #NT!
+ tactical_knights_charge_success_commander_desc: "Una carga de caballeros resulta decisiva y rompe las líneas enemigas."  #NT!
+ tactical_knights_charge_success_troops: "Carga brillante"  #NT!
+ tactical_knights_charge_success_troops_desc: "Las tropas avanzan con los caballeros en una carga devastadora."  #NT!
+ tactical_knights_charge_success_enemy_commander: "Bajo el ataque del caballero"  #NT!
+ tactical_knights_charge_success_enemy_commander_desc: "Este comandante cae bajo el ataque de los caballeros que atacan."  #NT!
+ tactical_knights_charge_success_enemy_troops: "Aplastado por los caballeros"  #NT!
+ tactical_knights_charge_success_enemy_troops_desc: "Las fuerzas enemigas son aplastadas por la carga de los caballeros pesados."  #NT!
+ tactical_knights_charge_failure_commander: "Caballeros rechazados"  #NT!
+ tactical_knights_charge_failure_commander_desc: "La carga del caballero fue rechazada y no logró abrirse paso."  #NT!
+ tactical_knights_charge_failure_troops: "Caballeros retenidos"  #NT!
+ tactical_knights_charge_failure_troops_desc: "Los caballeros se vieron frenados por una fuerte defensa enemiga."  #NT!
+ tactical_knights_charge_failure_enemy_commander: "Caballeros rechazados"  #NT!
+ tactical_knights_charge_failure_enemy_commander_desc: "Este comandante repelió con éxito a los caballeros."  #NT!
+ tactical_knights_charge_failure_enemy_troops: "Caballeros retenidos"  #NT!
+ tactical_knights_charge_failure_enemy_troops_desc: "Las fuerzas enemigas se mantuvieron firmes contra los caballeros que cargaban."  #NT!
+  
+ tactical_center_pullpack_success_commander: "Retroceso central"  #NT!
+ tactical_center_pullpack_success_commander_desc: "El centro retrocede y atrae al enemigo hacia adelante, exponiéndolo a un contraataque."  #NT!
+ tactical_center_pullpack_success_troops: "cebo"  #NT!
+ tactical_center_pullpack_success_troops_desc: "Nuestras tropas están provocando hábilmente al enemigo para que se extienda demasiado."  #NT!
+ tactical_center_pullpack_success_enemy_commander: "Extendido demasiado"  #NT!
+ tactical_center_pullpack_success_enemy_commander_desc: "Este comandante ha extendido demasiado sus fuerzas al impulsar la retirada."  #NT!
+ tactical_center_pullpack_success_enemy_troops: "Perdiendo terreno"  #NT!
+ tactical_center_pullpack_success_enemy_troops_desc: "Las fuerzas enemigas están perdiendo cohesión a medida que persiguen la retirada."  #NT!
+ tactical_center_pullpack_failure_commander: "Error de retroceso"  #NT!
+ tactical_center_pullpack_failure_commander_desc: "La maniobra de retirada no logró atraer al enemigo."  #NT!
+ tactical_center_pullpack_failure_troops: "Atascado"  #NT!
+ tactical_center_pullpack_failure_troops_desc: "Nuestras tropas quedaron atrapadas durante el intento de retirada."  #NT!
+ tactical_center_pullpack_failure_enemy_commander: "Mantener la presión"  #NT!
+ tactical_center_pullpack_failure_enemy_commander_desc: "Este comandante mantuvo la presión e impidió el retroceso."  #NT!
+ tactical_center_pullpack_failure_enemy_troops: "Firma holding"  #NT!
+ tactical_center_pullpack_failure_enemy_troops_desc: "Las fuerzas enemigas se mantuvieron firmes y no cayeron en el anzuelo."  #NT!
+  
+ tactical_flank_pullpack_success_commander: "Retroceso de flanco"  #NT!
+ tactical_flank_pullpack_success_commander_desc: "El flanco retrocede con éxito para provocar que el enemigo se extienda demasiado."  #NT!
+ tactical_flank_pullpack_success_troops: "cebo"  #NT!
+ tactical_flank_pullpack_success_troops_desc: "Las tropas del flanco lograron atraer al enemigo hacia adelante."  #NT!
+ tactical_flank_pullpack_success_enemy_commander: "Extendido demasiado"  #NT!
+ tactical_flank_pullpack_success_enemy_commander_desc: "El enemigo se ha extendido demasiado mientras intentaba retroceder el flanco."  #NT!
+ tactical_flank_pullpack_success_enemy_troops: "Perdiendo terreno"  #NT!
+ tactical_flank_pullpack_success_enemy_troops_desc: "Las fuerzas enemigas del flanco están perdiendo cohesión debido a la persecución."  #NT!
+ tactical_flank_pullpack_failure_commander: "Error de retroceso"  #NT!
+ tactical_flank_pullpack_failure_commander_desc: "El retroceso del flanco no logró atraer al enemigo."  #NT!
+ tactical_flank_pullpack_failure_troops: "Atascado"  #NT!
+ tactical_flank_pullpack_failure_troops_desc: "El flanco quedó atascado y no pudo retroceder."  #NT!
+ tactical_flank_pullpack_failure_enemy_commander: "Mantener la presión"  #NT!
+ tactical_flank_pullpack_failure_enemy_commander_desc: "Este comandante mantuvo una presión implacable."  #NT!
+ tactical_flank_pullpack_failure_enemy_troops: "Firma holding"  #NT!
+ tactical_flank_pullpack_failure_enemy_troops_desc: "Las fuerzas enemigas del flanco se mantuvieron firmes contra el intento de retirada."  #NT!
+  
+ tactical_feint_success_commander: "Maestro del engaño"  #NT!
+ tactical_feint_success_commander_desc: "La finta del comandante engaña con éxito al enemigo y rompe su formación."  #NT!
+ tactical_feint_success_troops: "Enemigos fingidos"  #NT!
+ tactical_feint_success_troops_desc: "Nuestras tropas ejecutan una finta perfecta, dejando al enemigo confundido."  #NT!
+ tactical_feint_success_enemy_commander: "engañado"  #NT!
+ tactical_feint_success_enemy_commander_desc: "Este comandante es engañado por la maniobra finta."  #NT!
+ tactical_feint_success_enemy_troops: "Lanzado al desorden"  #NT!
+ tactical_feint_success_enemy_troops_desc: "Las fuerzas enemigas quedan desorganizadas por el engaño."  #NT!
+ tactical_feint_failure_commander: "Finta fallida"  #NT!
+ tactical_feint_failure_commander_desc: "La finta maniobra no logró engañar al enemigo."  #NT!
+ tactical_feint_failure_troops: "Enemigos inmóviles"  #NT!
+ tactical_feint_failure_troops_desc: "El enemigo permaneció inmóvil y alerta ante la finta."  #NT!
+ tactical_feint_failure_enemy_commander: "Sin inmutarse"  #NT!
+ tactical_feint_failure_enemy_commander_desc: "Este comandante vio a través de la finta y no se inmutó."  #NT!
+ tactical_feint_failure_enemy_troops: "De pie firme"  #NT!
+ tactical_feint_failure_enemy_troops_desc: "Las fuerzas enemigas se mantuvieron firmes a pesar del intento fingido."  #NT!
+  
+ tactical_flanking_success_commander: "Maniobra de flanqueo"  #NT!
+ tactical_flanking_success_commander_desc: "Una maniobra de flanqueo exitosa deja al enemigo en desventaja."  #NT!
+ tactical_flanking_success_troops: "Ataque sorpresa"  #NT!
+ tactical_flanking_success_troops_desc: "Nuestras tropas lanzan un ataque sorpresa por los flancos."  #NT!
+ tactical_flanking_success_enemy_commander: "Flanqueado"  #NT!
+ tactical_flanking_success_enemy_commander_desc: "Este comandante ha sido atrapado en una posición de flanqueo."  #NT!
+ tactical_flanking_success_enemy_troops: "emboscado"  #NT!
+ tactical_flanking_success_enemy_troops_desc: "Las fuerzas enemigas son emboscadas mediante la maniobra de flanqueo."  #NT!
+ tactical_flanking_failure_commander: "Flanco perdido"  #NT!
+ tactical_flanking_failure_commander_desc: "La maniobra de flanqueo no logró coger al enemigo con la guardia baja."  #NT!
+ tactical_flanking_failure_troops: "Sin sorpresa"  #NT!
+ tactical_flanking_failure_troops_desc: "El ataque por el flanco no logró lograr la sorpresa."  #NT!
+ tactical_flanking_failure_enemy_commander: "Alertado"  #NT!
+ tactical_flanking_failure_enemy_commander_desc: "Este comandante fue alertado del intento de flanqueo."  #NT!
+ tactical_flanking_failure_enemy_troops: "Preparado"  #NT!
+ tactical_flanking_failure_enemy_troops_desc: "Las fuerzas enemigas estaban preparadas para el ataque por los flancos."  #NT!
+  
+ tactical_hit_and_run_success_commander: "Golpea y corre"  #NT!
+ tactical_hit_and_run_success_commander_desc: "Las tácticas rápidas de golpear y huir acosan con éxito al enemigo."  #NT!
+ tactical_hit_and_run_success_troops: "Golpes rápidos"  #NT!
+ tactical_hit_and_run_success_troops_desc: "Las tropas ejecutan ataques rápidos y retiradas tácticas."  #NT!
+ tactical_hit_and_run_success_enemy_commander: "Frustrado"  #NT!
+ tactical_hit_and_run_success_enemy_commander_desc: "Este comandante está frustrado por el constante acoso."  #NT!
+ tactical_hit_and_run_success_enemy_troops: "perseguido"  #NT!
+ tactical_hit_and_run_success_enemy_troops_desc: "Las fuerzas enemigas están siendo perseguidas y acosadas."  #NT!
+ tactical_hit_and_run_failure_commander: "Fijado"  #NT!
+ tactical_hit_and_run_failure_commander_desc: "Las tácticas de atropello y fuga fracasaron y las fuerzas quedaron inmovilizadas."  #NT!
+ tactical_hit_and_run_failure_troops: "Bajo presión"  #NT!
+ tactical_hit_and_run_failure_troops_desc: "Las tropas están bajo una fuerte presión y no pueden retirarse."  #NT!
+ tactical_hit_and_run_failure_enemy_commander: "Implacable"  #NT!
+ tactical_hit_and_run_failure_enemy_commander_desc: "Este comandante está siendo implacable en su persecución."  #NT!
+ tactical_hit_and_run_failure_enemy_troops: "Sin escapatoria"  #NT!
+ tactical_hit_and_run_failure_enemy_troops_desc: "Las fuerzas enemigas están presionando con fuerza y ​​no hay escapatoria disponible."  #NT!
+  
+ tactical_false_gap_success_commander: "Falsa brecha"  #NT!
+ tactical_false_gap_success_commander_desc: "Una falsa brecha en las líneas atrae con éxito al enemigo hacia una trampa."  #NT!
+ tactical_false_gap_success_troops: "Atraído"  #NT!
+ tactical_false_gap_success_troops_desc: "El enemigo es atraído hacia la brecha falsa y nuestras tropas atacan."  #NT!
+ tactical_false_gap_success_enemy_commander: "atrapado"  #NT!
+ tactical_false_gap_success_enemy_commander_desc: "Este comandante ha quedado atrapado por la brecha falsa."  #NT!
+ tactical_false_gap_success_enemy_troops: "emboscado"  #NT!
+ tactical_false_gap_success_enemy_troops_desc: "Las fuerzas enemigas son emboscadas después de caer en la brecha falsa."  #NT!
+ tactical_false_gap_failure_commander: "Brecha evitada"  #NT!
+ tactical_false_gap_failure_commander_desc: "El enemigo vio a través de la falsa brecha y la evitó."  #NT!
+ tactical_false_gap_failure_troops: "Sin emboscada"  #NT!
+ tactical_false_gap_failure_troops_desc: "La falsa brecha no logró atraer al enemigo a la emboscada."  #NT!
+ tactical_false_gap_failure_enemy_commander: "Precavido"  #NT!
+ tactical_false_gap_failure_enemy_commander_desc: "Este comandante fue cauteloso y evitó la trampa."  #NT!
+ tactical_false_gap_failure_enemy_troops: "En guardia"  #NT!
+ tactical_false_gap_failure_enemy_troops_desc: "Las fuerzas enemigas permanecieron en guardia y evitaron la falsa brecha."  #NT!
+  
+  
+ tactical_encircle_breakoff_success_commander: "Enemigos rodeados"  #NT!
+ tactical_encircle_breakoff_success_commander_desc: "El ejército enemigo es rodeado con éxito y sin posibilidad de escapar."  #NT!
+ tactical_encircle_breakoff_success_troops: "Sin escapatoria"  #NT!
+ tactical_encircle_breakoff_success_troops_desc: "Nuestras tropas han rodeado al enemigo y no tienen escapatoria."  #NT!
+ tactical_encircle_breakoff_success_enemy_commander: "rodeado"  #NT!
+ tactical_encircle_breakoff_success_enemy_commander_desc: "Este comandante encuentra sus fuerzas completamente rodeadas."  #NT!
+ tactical_encircle_breakoff_success_enemy_troops: "atrapado"  #NT!
+ tactical_encircle_breakoff_success_enemy_troops_desc: "Las fuerzas enemigas están atrapadas y rodeadas sin salida."  #NT!
+ tactical_encircle_breakoff_failure_commander: "Cerco fallido"  #NT!
+ tactical_encircle_breakoff_failure_commander_desc: "El intento de cerco no se completó."  #NT!
+ tactical_encircle_breakoff_failure_troops: "Liberarse"  #NT!
+ tactical_encircle_breakoff_failure_troops_desc: "Nuestras tropas se están liberando del intento de cerco."  #NT!
+ tactical_encircle_breakoff_failure_enemy_commander: "Escape estrecho"  #NT!
+ tactical_encircle_breakoff_failure_enemy_commander_desc: "Este comandante escapó por poco del intento de cerco."  #NT!
+ tactical_encircle_breakoff_failure_enemy_troops: "Escapando"  #NT!
+ tactical_encircle_breakoff_failure_enemy_troops_desc: "Las fuerzas enemigas están escapando del intento de cerco."  #NT!
+  
+ tactical_flank_breakoff_success_commander: "Rotación de flanco"  #NT!
+ tactical_flank_breakoff_success_commander_desc: "El flanco gira y se retira con éxito para atacar nuevas posiciones."  #NT!
+ tactical_flank_breakoff_success_troops: "Listo para luchar"  #NT!
+ tactical_flank_breakoff_success_troops_desc: "Las tropas del flanco están listas y ansiosas por atacar nuevos objetivos."  #NT!
+ tactical_flank_breakoff_success_enemy_commander: "Ser presionado"  #NT!
+ tactical_flank_breakoff_success_enemy_commander_desc: "Este comandante siente la presión del flanco giratorio."  #NT!
+ tactical_flank_breakoff_success_enemy_troops: "Enemigos reforzados"  #NT!
+ tactical_flank_breakoff_success_enemy_troops_desc: "Las tropas del flanco enemigo están siendo reforzadas para afrontar el ataque rotado."  #NT!
+ tactical_flank_breakoff_failure_commander: "Estancado"  #NT!
+ tactical_flank_breakoff_failure_commander_desc: "El flanco quedó atascado y no pudo girar."  #NT!
+ tactical_flank_breakoff_failure_troops: "No puedo desconectarme"  #NT!
+ tactical_flank_breakoff_failure_troops_desc: "Las tropas de flanco no pueden retirarse del combate."  #NT!
+ tactical_flank_breakoff_failure_enemy_commander: "Mantenga la presión"  #NT!
+ tactical_flank_breakoff_failure_enemy_commander_desc: "Este comandante mantiene presión sobre nuestro flanco para evitar la rotación."  #NT!
+ tactical_flank_breakoff_failure_enemy_troops: "Espadas listas"  #NT!
+ tactical_flank_breakoff_failure_enemy_troops_desc: "Las fuerzas enemigas del flanco están listas e impiden nuestra retirada."  #NT!
+  
+ tactical_press_advantage_success_commander: "Aprovechando la ventaja"  #NT!
+ tactical_press_advantage_success_commander_desc: "El comandante aprovecha con éxito su ventaja y se abre paso."  #NT!
+ tactical_press_advantage_success_troops: "Impulso"  #NT!
+ tactical_press_advantage_success_troops_desc: "Nuestras tropas tienen impulso y avanzan con decisión."  #NT!
+ tactical_press_advantage_success_enemy_commander: "Perdiendo terreno"  #NT!
+ tactical_press_advantage_success_enemy_commander_desc: "Este comandante está perdiendo terreno a medida que aprovechamos nuestra ventaja."  #NT!
+ tactical_press_advantage_success_enemy_troops: "En el pie trasero"  #NT!
+ tactical_press_advantage_success_enemy_troops_desc: "Las fuerzas enemigas están a la defensiva mientras avanzamos."  #NT!
+ tactical_press_advantage_failure_commander: "Impulso perdido"  #NT!
+ tactical_press_advantage_failure_commander_desc: "El intento de aprovechar la ventaja perdió impulso."  #NT!
+ tactical_press_advantage_failure_troops: "estancado"  #NT!
+ tactical_press_advantage_failure_troops_desc: "Nuestro avance se ha estancado y se ha perdido impulso."  #NT!
+ tactical_press_advantage_failure_enemy_commander: "Reagrupados"  #NT!
+ tactical_press_advantage_failure_enemy_commander_desc: "Este comandante ha reagrupado y estabilizado la línea."  #NT!
+ tactical_press_advantage_failure_enemy_troops: "Firma holding"  #NT!
+ tactical_press_advantage_failure_enemy_troops_desc: "Las fuerzas enemigas se mantienen firmes contra nuestro avance."  #NT!
+  
+ tactical_flooding_success_troops: "Números abrumadores"  #NT!
+ tactical_flooding_success_troops_desc: "Nuestra abrumadora cantidad inunda la posición enemiga."  #NT!
+ tactical_flooding_success_commander: "Abrumado"  #NT!
+ tactical_flooding_success_commander_desc: "Este comandante está abrumado por los números."  #NT!
+ tactical_flooding_success_enemy_troops: "aplastado"  #NT!
+ tactical_flooding_success_enemy_troops_desc: "Las fuerzas enemigas son aplastadas bajo el peso de un número abrumador."  #NT!
+ tactical_flooding_success_enemy_commander: "No hay coincidencia"  #NT!
+ tactical_flooding_success_enemy_commander_desc: "El enemigo no tiene rival para nuestra fuerza abrumadora."  #NT!
+ tactical_flooding_failure_troops: "retenido"  #NT!
+ tactical_flooding_failure_troops_desc: "Nuestra ofensiva se ve frenada a pesar de la superioridad numérica."  #NT!
+ tactical_flooding_failure_commander: "Rechazado"  #NT!
+ tactical_flooding_failure_commander_desc: "La ofensiva del comandante es rechazada."  #NT!
+ tactical_flooding_failure_enemy_troops: "De pie firme"  #NT!
+ tactical_flooding_failure_enemy_troops_desc: "Las fuerzas enemigas se mantienen firmes contra números abrumadores."  #NT!
+ tactical_flooding_failure_enemy_commander: "Firme"  #NT!
+ tactical_flooding_failure_enemy_commander_desc: "Este comandante se mantiene firme contra la inundación."  #NT!
+  
+ tactical_reserve_breakoff_success_commander: "Reservas comprometidas"  #NT!
+ tactical_reserve_breakoff_success_commander_desc: "El comandante compromete con éxito reservas para hacer avanzar la batalla."  #NT!
+ tactical_reserve_breakoff_success_troops: "Fuerzas frescas"  #NT!
+ tactical_reserve_breakoff_success_troops_desc: "Nuevas fuerzas de reserva están comprometidas y aumentan nuestra fuerza de combate."  #NT!
+ tactical_reserve_breakoff_success_enemy_commander: "Reservas comprometidas"  #NT!
+ tactical_reserve_breakoff_success_enemy_commander_desc: "El enemigo debe comprometer sus reservas para afrontar nuestro asalto."  #NT!
+ tactical_reserve_breakoff_success_enemy_troops: "Frente a un nuevo asalto"  #NT!
+ tactical_reserve_breakoff_success_enemy_troops_desc: "Las fuerzas enemigas enfrentan un nuevo ataque de nuestras reservas."  #NT!
+ tactical_reserve_breakoff_failure_commander: "Reservas mantenidas"  #NT!
+ tactical_reserve_breakoff_failure_commander_desc: "El compromiso de reserva del comandante fracasó."  #NT!
+ tactical_reserve_breakoff_failure_troops: "Interceptado"  #NT!
+ tactical_reserve_breakoff_failure_troops_desc: "Nuestras reservas fueron interceptadas y se les impidió llegar al frente."  #NT!
+ tactical_reserve_breakoff_failure_enemy_commander: "Pensamiento rápido"  #NT!
+ tactical_reserve_breakoff_failure_enemy_commander_desc: "El enemigo demostró rapidez de pensamiento e interceptó nuestras reservas."  #NT!
+ tactical_reserve_breakoff_failure_enemy_troops: "No hay rival para nosotros"  #NT!
+ tactical_reserve_breakoff_failure_enemy_troops_desc: "Las fuerzas enemigas se mantuvieron firmes contra nuestro compromiso de reserva."  #NT!
+  
+ tactical_hold_strong_success_commander: "Manteniéndose fuerte"  #NT!
+ tactical_hold_strong_success_commander_desc: "El comandante mantiene fuerte su línea contra todo asalto."  #NT!
+ tactical_hold_strong_success_troops: "Firme"  #NT!
+ tactical_hold_strong_success_troops_desc: "Nuestras tropas se mantienen firmes y se niegan a romperse."  #NT!
+ tactical_hold_strong_success_enemy_commander: "Frustrado"  #NT!
+ tactical_hold_strong_success_enemy_commander_desc: "Este comandante está frustrado por nuestra defensa inquebrantable."  #NT!
+ tactical_hold_strong_success_enemy_troops: "incapaz de romper"  #NT!
+ tactical_hold_strong_success_enemy_troops_desc: "Las fuerzas enemigas no pueden atravesar nuestra línea."  #NT!
+ tactical_hold_strong_failure_commander: "Líneas rotas"  #NT!
+ tactical_hold_strong_failure_commander_desc: "Las líneas del comandante fueron rotas por el asalto enemigo."  #NT!
+ tactical_hold_strong_failure_troops: "violado"  #NT!
+ tactical_hold_strong_failure_troops_desc: "Nuestras líneas han sido traspasadas por el enemigo."  #NT!
+ tactical_hold_strong_failure_enemy_commander: "Descubrimiento"  #NT!
+ tactical_hold_strong_failure_enemy_commander_desc: "El enemigo ha logrado un gran avance en nuestras defensas."  #NT!
+ tactical_hold_strong_failure_enemy_troops: "Avance aplastante"  #NT!
+ tactical_hold_strong_failure_enemy_troops_desc: "Las fuerzas enemigas avanzan con un impulso aplastante."  #NT!
+  
+ tactical_organized_retreat_success_commander: "Retiro Organizado"  #NT!
+ tactical_organized_retreat_success_commander_desc: "El comandante organiza una retirada organizada para preservar las fuerzas."  #NT!
+ tactical_organized_retreat_success_troops: "Retiro ordenado"  #NT!
+ tactical_organized_retreat_success_troops_desc: "Nuestras tropas realizan una retirada ordenada minimizando las pérdidas."  #NT!
+ tactical_organized_retreat_success_enemy_commander: "Enemigos en retirada"  #NT!
+ tactical_organized_retreat_success_enemy_commander_desc: "El enemigo se está retirando en buen orden; es posible que se reagrupe."  #NT!
+ tactical_organized_retreat_success_enemy_troops: "persiguiendo"  #NT!
+ tactical_organized_retreat_success_enemy_troops_desc: "Las fuerzas enemigas los persiguen pero la retirada permanece intacta."  #NT!
+ tactical_organized_retreat_failure_commander: "Enrutado"  #NT!
+ tactical_organized_retreat_failure_commander_desc: "La retirada se convirtió en una derrota con grandes pérdidas."  #NT!
+ tactical_organized_retreat_failure_troops: "Desestructurado"  #NT!
+ tactical_organized_retreat_failure_troops_desc: "La retirada se volvió desorganizada y caótica."  #NT!
+ tactical_organized_retreat_failure_enemy_commander: "Derrota lograda"  #NT!
+ tactical_organized_retreat_failure_enemy_commander_desc: "Este comandante ha logrado una derrota completa."  #NT!
+ tactical_organized_retreat_failure_enemy_troops: "persiguiendo"  #NT!
+ tactical_organized_retreat_failure_enemy_troops_desc: "Las fuerzas enemigas están persiguiendo a nuestras tropas que huyen."  #NT!
+  
+ tactical_screen_retreat_success_commander: "Retiro proyectado"  #NT!
+ tactical_screen_retreat_success_commander_desc: "Una fuerza de protección cubre la retirada, permitiendo que la mayoría de las fuerzas escapen."  #NT!
+ tactical_screen_retreat_success_troops: "Retiro de cobertura"  #NT!
+ tactical_screen_retreat_success_troops_desc: "Nuestras fuerzas realizan una retirada de cobertura con una retirada protegida."  #NT!
+ tactical_screen_retreat_success_enemy_commander: "Enemigos en retirada"  #NT!
+ tactical_screen_retreat_success_enemy_commander_desc: "El enemigo se retira detrás de una pantalla defensiva."  #NT!
+ tactical_screen_retreat_success_enemy_troops: "persiguiendo"  #NT!
+ tactical_screen_retreat_success_enemy_troops_desc: "Las fuerzas enemigas están persiguiendo pero se topan con una fuerte protección defensiva."  #NT!
+ tactical_screen_retreat_failure_commander: "Retiro expuesto"  #NT!
+ tactical_screen_retreat_failure_commander_desc: "La fuerza de control fracasó y la retirada queda al descubierto."  #NT!
+ tactical_screen_retreat_failure_troops: "Sin cobertura"  #NT!
+ tactical_screen_retreat_failure_troops_desc: "Nuestra retirada no tiene cobertura y es vulnerable."  #NT!
+ tactical_screen_retreat_failure_enemy_commander: "Implacable"  #NT!
+ tactical_screen_retreat_failure_enemy_commander_desc: "El enemigo es implacable al perseguir la retirada expuesta."  #NT!
+ tactical_screen_retreat_failure_enemy_troops: "persiguiendo"  #NT!
+ tactical_screen_retreat_failure_enemy_troops_desc: "Las fuerzas enemigas están persiguiendo a nuestras tropas expuestas."  #NT!
+  
+ tactical_encircled_slaughter_success_commander: "Rodeado y masacrado"  #NT!
+ tactical_encircled_slaughter_success_commander_desc: "Los enemigos rodeados son masacrados sin piedad ni escapatoria."  #NT!
+ tactical_encircled_slaughter_success_troops: "Sin escapatoria"  #NT!
+ tactical_encircled_slaughter_success_troops_desc: "El enemigo no tiene a dónde huir: aniquilación total."  #NT!
+ tactical_encircled_slaughter_success_enemy_commander: "atrapado"  #NT!
+ tactical_encircled_slaughter_success_enemy_commander_desc: "Este comandante está atrapado y no tiene dónde retirarse."  #NT!
+ tactical_encircled_slaughter_success_enemy_troops: "Rodeado"  #NT!
+ tactical_encircled_slaughter_success_enemy_troops_desc: "Las fuerzas enemigas están rodeadas y masacradas."  #NT!
+ tactical_encircled_slaughter_failure_commander: "Cerco roto"  #NT!
+ tactical_encircled_slaughter_failure_commander_desc: "El enemigo rompió el cerco y escapó."  #NT!
+ tactical_encircled_slaughter_failure_troops: "Liberarse"  #NT!
+ tactical_encircled_slaughter_failure_troops_desc: "Nuestras tropas no lograron contener al enemigo cuando se liberaron."  #NT!
+ tactical_encircled_slaughter_failure_enemy_commander: "Escape estrecho"  #NT!
+ tactical_encircled_slaughter_failure_enemy_commander_desc: "Este comandante apenas escapó de la trampa del cerco."  #NT!
+ tactical_encircled_slaughter_failure_enemy_troops: "Escapando"  #NT!
+ tactical_encircled_slaughter_failure_enemy_troops_desc: "Las fuerzas enemigas están escapando del cerco."  #NT!
+  
+ tactical_taking_prisoners_success_commander: "tomando prisioneros"  #NT!
+ tactical_taking_prisoners_success_commander_desc: "El comandante captura con éxito a los soldados enemigos para pedir rescate e inteligencia."  #NT!
+ tactical_taking_prisoners_success_troops: "Capturar enemigos"  #NT!
+ tactical_taking_prisoners_success_troops_desc: "Nuestras tropas están capturando soldados enemigos y haciéndolos prisioneros."  #NT!
+ tactical_taking_prisoners_success_enemy_commander: "capturado"  #NT!
+ tactical_taking_prisoners_success_enemy_commander_desc: "Este comandante está perdiendo soldados para capturar."  #NT!
+ tactical_taking_prisoners_success_enemy_troops: "Prisioneros tomados"  #NT!
+ tactical_taking_prisoners_success_enemy_troops_desc: "Los soldados enemigos están siendo hechos prisioneros de guerra."  #NT!
+ tactical_taking_prisoners_failure_commander: "Los prisioneros escaparon"  #NT!
+ tactical_taking_prisoners_failure_commander_desc: "Los prisioneros escaparon o fueron rescatados por fuerzas enemigas."  #NT!
+ tactical_taking_prisoners_failure_troops: "Captura fallida"  #NT!
+ tactical_taking_prisoners_failure_troops_desc: "Nuestras tropas no lograron capturar a los soldados enemigos."  #NT!
+ tactical_taking_prisoners_failure_enemy_commander: "Captura evadida"  #NT!
+ tactical_taking_prisoners_failure_enemy_commander_desc: "El enemigo evadió la captura y mantuvo sus fuerzas."  #NT!
+ tactical_taking_prisoners_failure_enemy_troops: "Se escapó"  #NT!
+ tactical_taking_prisoners_failure_enemy_troops_desc:0 "Enemy soldiers slipped away and avoided capture. 
+  
+  
+ tactical_submitted_in_duel_commander: "En manos de los enemigos"  #NT!
+ tactical_submitted_in_duel_commander_desc: "Este comandante ha sido capturado tras ser derrotado en combate singular y ahora es prisionero."  #NT!
+  
+ tactical_center_router_commander: "Enrutador del Centro"  #NT!
+ tactical_center_router_commander_desc: "Este comandante ha derrotado con éxito el centro de las fuerzas enemigas."  #NT!
+ tactical_left_router_commander: "Enrutador de la izquierda"  #NT!
+ tactical_left_router_commander_desc: "Este comandante ha derrotado con éxito el flanco izquierdo de las fuerzas enemigas."  #NT!
+ tactical_right_router_commander: "Enrutador de la derecha"  #NT!
+ tactical_right_router_commander_desc: "Este comandante ha derrotado con éxito el flanco derecho de las fuerzas enemigas."  #NT!
+  
+ tactical_commander_switched_commander: "Nuevo comandante"  #NT!
+ tactical_commander_switched_commander_desc: "Un nuevo comandante ha tomado el control de las fuerzas."  #NT!
+  
+ tactical_commander_switched_troops: "Comandante cambiado"  #NT!
+ tactical_commander_switched_troops_desc: "Las tropas se están adaptando a su nuevo comandante."  #NT!
+  
+ tactical_enemy_taking_captives: "Caza de rescate"  #NT!
+ tactical_enemy_taking_captives_desc: "El ejército enemigo busca activamente capturar a los líderes enemigos para pedir un rescate, lo que reduce su destreza en la batalla."  #NT!
+  
+ tactical_encircled_army_commander: "Flanco atrapado"  #NT!
+ tactical_encircled_army_commander_desc: "El ejército de este comandante atrapó el flanco de un enemigo y lo dejó sin ruta de escape."  #NT!
+  
+ tactical_knight_commander_killer_commander: "Comandante Asesino"  #NT!
+  
+ tactical_knight_defeated_commander_commander: "Comandante de flanco derrotado"  #NT!
+ tactical_knight_defeated_commander_troops: "Líder inspirador"  #NT!
+ tactical_knight_defeated_commander_enemy_commander: "Desmoralizado"  #NT!
+ tactical_knight_defeated_commander_enemy_troops: "Perdiendo el corazón"  #NT!
+  
+ tactical_player_military_title: "Sobrenombre"  #NT!
+ tactical_player_military_title_desc: "Este personaje tiene un sobrenombre, un apodo que lo distingue de sus compañeros."  #NT!
+ tactical_successful_maa_move: "Unidades de crack exitosas"  #NT!

@@ -1,13 +1,7 @@
-﻿l_russian:
-  
- #  mde_longbridge.0010.t: "The Cheese Merchant" #NT!
- #  mde_longbridge.0010.desc: "Stall after stall, cry after cry, merchants try to lure customers in.\n\nI do my best to ignore them, urging my retinue forward so we can reach the end of the bridge.\n\nBut when I glance to the side, I see a preposterously large man seated behind a booth, counting a pouch heavy with coins. In front of him stands a barker, shouting in a jumble of tongues. One cuts through clearly: “italic “Fine cheese! Pentoshi cheese!”\n\nAnd he’s not wrong. Crates upon crates, loose cheese and cheese rolls stand like sentries all around them.\n\nSo why do I linger?" #NT!
- #  mde_longbridge.0010.a: "Let’s buy some." #NT!
- #  mde_longbridge.0010.b: "horrendous smell." #NT!
- #  mde_longbridge.0010.c: "He’s bigger than an Ibbenese whale!" #NT!
-  
-  
-  
-  
-  
-  
+﻿# l_russian:
+
+#  mde_longbridge.0010.t: "Торговец сыром"
+#  mde_longbridge.0010.desc: "Прилавок за прилавком, крик за криком, торговцы пытаются заманить покупателей.\n\nЯ изо всех сил стараюсь не обращать на них внимания, подгоняя свою свиту вперед, чтобы мы могли добраться до конца моста.\n\nНо когда я смотрю в сторону, я вижу нелепо огромного человека, сидящего за будкой и считающего мешок, тяжелый от монет. Перед ним стоит зазывала, кричащий на смеси языков. Одна фраза прорезается четко: #italic «Отличный сыр! Пентошийский сыр!»#!\n\nИ он не ошибается. Ящики за ящиками, рассыпной сыр и сырные головы стоят вокруг них, как часовые.\n\nТак почему я задерживаюсь?"
+#  mde_longbridge.0010.a: "Давай купим немного."
+#  mde_longbridge.0010.b: "Ужасный запах."
+#  mde_longbridge.0010.c: "он больше, чем иббенийский кит!"

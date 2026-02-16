@@ -1,0 +1,7 @@
+﻿l_russian:
+ 
+ rule_mde_modcanon_travel: "#color_red Travel Expanded #! - Путевые локации из мода."
+ setting_enable_modcanon_travel: "Включить"  
+ setting_enable_modcanon_travel_desc: "Будет добавлено несколько небольших локаций, основанных на сериале или малоизвестных событиях лора."  
+ setting_disable_modcanon_travel: "Отключить"
+ setting_disable_modcanon_travel_desc: "Локации из мода появляться не будут, останутся только локации, связанные с книжным лором."

@@ -1,0 +1,141 @@
+﻿l_russian:
+ 
+  # mde travel
+ 
+  TRAVEL_POINT_OF_INTEREST_TT_mde_poi_new: "[PROVINCE.Custom('MdeCastleName')]"
+ 
+ 
+  mde_poi_new_tt: "Вызовет событие осмотра достопримечательностей"
+  TRAVEL_POINT_OF_INTEREST_TT_mde_poi_dragonspots: "Место драконьей значимости"
+  mde_poi_dragonspots_tt: "Вызовет событие драконьих знаний"
+ 
+  TRAVEL_POINT_OF_INTEREST_TT_mde_poi_dragonspots_minor: "[PROVINCE.Custom('MdeHistoricalDragons')]"
+ 
+  TRAVEL_POINT_OF_INTEREST_TT_mde_poi_historical_battle: "Место [PROVINCE.Custom('MdeHistoricalBattle')]"
+  mde_poi_historical_battle.visit: "[Select_CString(ROOT.Char.IsFemale, 'Посетила', 'Посетил')] место [province.Custom('MdeHistoricalBattle')]"
+  mde_poi_historical_battle.visit.tt: "[province.Custom('MdeHistoricalBattleDesc')]"
+  
+  mde_poi_dragonspots_minor.visit: "[Select_CString(ROOT.Char.IsFemale, 'Посетила', 'Посетил')] место [province.Custom('MdeHistoricalDragons')]"
+  mde_poi_dragonspots_minor.visit.tt: "[province.Custom('MdeHistoricalDragonsDesc')]"
+ 
+  TRAVEL_POINT_OF_INTEREST_TT_agot_poi_wonders_of_man: "[PROVINCE.Custom('MdeCastleName')]"
+  agot_poi_wonders_of_man: "Вызовет событие осмотра достопримечательностей для этого Чуда"
+ 
+  #battles
+ 
+  historical_battle_of_the_gullet: "Битва в Глотке"
+  historical_battle_of_the_gullet_desc: "Во время [Concept( 'dance_of_the_dragons', 'Танца Драконов' )|E] Триархию убедили поддержать [Concept( 'the_greens', 'Зеленых' )|E]. Результатом стала самая кровавая морская битва между [Concept( 'house_velaryon', 'Веларионами' )|E] и [Concept( 'free_cities', 'Вольными Городами' )|E]."
+ 
+  historical_battle_at_rooks_rest: "Битва у Грачиного Приюта"
+  historical_battle_at_rooks_rest_desc: "Если вы поговорите с простолюдинами, то услышите историю о трех демонах в небе и горящей земле. Другие назовут это Битвой у Грачиного Приюта, где кроваво-красный дракон [Concept( 'meleys', 'Мелеис' )|E] упал с небес."
+ 
+  historical_battle_at_long_lake: "Битва у Длинного Озера"
+  historical_battle_at_long_lake_desc: "Хитрый одичалый [Concept( 'raymun_redbeard', 'Реймунд Рыжебородый' )|E] сумел ускользнуть от [Concept( 'nights_watch', 'Ночного Дозора' )|E] и повел войско за [Concept( 'the_wall', 'Стену' )|E]. [Concept( 'house_stark', 'Старкам' )|E] пришлось перехватить и убить этого так называемого «[Concept( 'king_beyond_the_wall', 'Короля-за-Стеной' )|E]»."
+ 
+  historical_battle_ninepenny_stepstones: "Чудовищный Конец"
+  historical_battle_ninepenny_stepstones_desc: "Пятое и, надеемся, последнее восстание [Concept( 'house_blackfyre', 'Блэкфайра' )|E] встретило свой конец на этих берегах, когда [Concept( 'house_targaryen', 'Таргариены' )|E] высадились здесь. Молодой [Concept( 'barristan_selmy', 'Барристан Селми' )|E] убил Мейлиса Чудовищного, который был последним мужчиной [Concept( 'house_blackfyre', 'Блэкфайром' )|E]."
+ 
+  historical_battle_of_six_kings: "Битва Шести Королей"
+  historical_battle_of_six_kings_desc: "Легенда гласит, что Штормовые Короли обрушились в реки и убили пятерых королей, пытавшихся править грязью. Все это произошло между этой прекрасной парой холмов."
+ 
+  historical_battle_at_the_great_fork: "Битва у Большой Развилки"
+  historical_battle_at_the_great_fork_desc: "Битва ознаменовала медленное падение [Concept( 'faith_militant', 'Воинства Веры' )|E]: после того как [Concept( 'balerion', 'Балерион' )|E] обрушился на войско Веры, Вера больше никогда не выставляла большую армию и в конечном итоге была распущена Миротворцем."
+ 
+  historical_battle_storming_of_seagard: "Штурм Сигарда"
+  historical_battle_storming_of_seagard_desc: "После победы в Ланниспорте мятежные [Concept( 'house_greyjoy', 'Грейджои' )|E] атаковали Сигард. С молодым сыном короля Бейлона, Родриком, возглавлявшим атаку. Но Кракен не смог свалить Орла, и с мертвым сыном отступил."
+ 
+  historical_battle_at_lordsport: "Битва у Лордспорта"
+  historical_battle_at_lordsport_desc: "Битва у Лордспорта ознаменовала начало конца [Concept( 'greyjoy_rebellion', 'Восстания Грейджоя' )|E], [Concept( 'robert_baratheon', 'Олень' )|E] вымылся на берег с яростью. Последствия оставили множество кораблей, разрушенных на пляжах, и порт в руинах."
+ 
+ #  historical_battle_meraxes_fall: "Meraxes’s Fall"
+ #  historical_battle_meraxes_fall_desc: "Aegon the Conqueror's first real taste of rule was hearing the news of the death of Rhaenys and Meraxes. An iron bolt went through Meraxes’s eye, and the dragon fell from the skies. Some even suggest the beast's bones can still be found."
+ 
+  #rhoyne
+ #  historical_battle_valyrian_chase: "Valyria’s Chase"
+ #  historical_battle_valyrian_chase_desc: "When the Valyrian Dragon’s first descended on the Rhoynish, the river folk was caught unaware, and chased all the way to Choyan Drohe. The dragon’s would burn the great city to ruins. Yet the Rhoynish managed to hold the line."
+ 
+ #  historical_battle_qarlon_wish: "Qarlon’s Final Wish"
+ #  historical_battle_qarlon_wish_desc: "When Qarlon the Great marched south from Lorath, and attempted to expand his domain. The Free City of Norvos appealed to Valyria for aid. Caught unaware, the Andel king and his host were set afire, those lucky enough to survive was enslaved."
+ 
+ #  historical_battle_scouring_of_lorath: "Scouring of Lorath"
+ #  historical_battle_scouring_of_lorath_desc: "Before the Valyrian Free City of Lorath, the Andels ruled the islands. In an attempt to expand his rule, he angered the wrath of the Dragon Lords. After his fall, the Dragons turned to the islands, where no Andel was left alive."
+ 
+ 
+ 
+  #lairs
+  historical_battle_arrax_corpse: "Падение Арракса"
+  historical_battle_arrax_corpse_desc: "Простолюдины в близлежащих городах воздвигли алтарь на ближайшем берегу, сделанный из плавника, костей и жженых камней; алтарь посвящен принцу и его дракону."
+ 
+  historical_battle_balerions_lair: "Гнев [Concept( 'rhllor', 'Р\'глора' )|E]"
+  historical_battle_balerions_lair_desc: "Во время изгнания [Concept( 'maegor_the_cruel', 'Мейгора Жестокого' )|E] в [Concept( 'pentos', 'Пентос' )|E] он позволил [Concept( 'balerion', 'Балериону' )|E] свободно бродить по Эссосу. Позволяя дракону есть и играть со всем, что он хотел. Теперь некоторые в Эссосе называют этот период Гневом [Concept( 'rhllor', 'Р\'глора' )|E], так как черный «демон» мог однажды сжечь ваш город и никогда не вернуться."
+ 
+  historical_battle_caraxes_lair: "Отдых [Concept( 'caraxes', 'Караксеса' )|E]"
+  historical_battle_caraxes_lair_desc: "Не будучи занятым сжиганием и поеданием целых островов на [Concept( 'stepstones', 'Ступенях' )|E], [Concept( 'caraxes', 'Караксес' )|E] создал большое логово. Все еще заметное сегодня своими бесконечными костями и ржавыми сокровищами."
+  
+  historical_battle_dreamfyre_lair: "Светлый визит [Concept( 'dreamfyre', 'Пламенной Мечты' )|E]"
+  historical_battle_dreamfyre_lair_desc: "В течение короткого времени, не раз, а дважды, простолюдины [Concept( 'fair_isle', 'Светлого Острова' )|E] принимали [Concept( 'dreamfyre', 'Пламенную Мечту' )|E] и ее принцессу. Дракон славился тем, что откладывал бесконечное количество яиц, и местные легенды говорят об обмене скота на [Concept( 'dragon_egg', 'яйцо дракона' )|E]."
+  
+  historical_battle_morning_lair: "Логово [Concept( 'morning', 'Утра' )|E]"
+  historical_battle_morning_lair_desc: "[Concept( 'giants_lance', 'Копье Гиганта' )|E] — самая высокая горная вершина в [Concept( 'the_vale', 'Долине' )|E]. Простолюдины рассказывают сказку о драконе, живущем глубоко в его забытых пещерах. Но можно с уверенностью предположить, что он мертв."
+  
+  historical_battle_tessarion_lair: "Малое логово [Concept( 'tessarion', 'Тессарион' )|E]"
+  historical_battle_tessarion_lair_desc: "Хотя великолепный синий дракон [Concept( 'tessarion', 'Тессарион' )|E] жил недалеко от [Concept( 'oldtown', 'Староместа' )|E] лишь короткое время, дракон оставил свой след, построив небольшое логово на вершине холма."
+  
+  historical_battle_urrax_lair: "Забытое логово Урракса"
+  historical_battle_urrax_lair_desc: "Лорды и простолюдины рассказывают сказки о смерти Урракса от руки [Concept( 'serwyn_mirror_shield', 'Сервина Зеркальный Щит' )|E], а некоторые даже рассказывают о большой горной пещере, усеянной костями."
+  
+  
+  
+  #castles
+  
+  TRAVEL_POINT_OF_INTEREST_TT_mde_poi_castle_martial: "[PROVINCE.Custom('MdeCastleName')]"
+  TRAVEL_POINT_OF_INTEREST_TT_mde_poi_castle_stewardship: "[PROVINCE.Custom('MdeCastleName')]"
+  TRAVEL_POINT_OF_INTEREST_TT_mde_poi_castle_learning: "[PROVINCE.Custom('MdeCastleName')]"
+  
+  mde_poi_notable_castle_visit: "[Select_CString(ROOT.Char.IsFemale, 'Посетила', 'Посетил')] [province.Custom('MdeCastleName')]"
+  mde_poi_notable_castle_visit.tt: "[province.Custom('MdeCastleDesc')]"
+  
+   
+  
+  lakehaven_name: "Лейкхейвен — небольшой замок, расположенный у берегов «[Concept( 'gods_eye', 'Божьего Ока' )|E]», он служит идеальным местом для исследования озера."
+  quiet_isle_name: "[Concept( 'quiet_isle', 'Тихий Остров' )|E] — остров в устье [Concept( 'the_trident', 'Трезубца' )|E], обитатели острова — кающиеся мужчины, ищущие искупления."
+  
+  ten_towers_name: "Десять Башен"
+  ten_towers_desc: "Хотя каждая башня в Десяти Башнях имеет разную форму и вид, все же можно заблудиться в бесконечных лестницах, залах, стенах и мостах. Тем не менее, это прекрасная возможность поразмышлять о строительстве."
+  glimmering_tower_name: "Башня Глиммеринга"
+  glimmering_tower_desc: "В то время как другие острова и жители материка нуждаются в маяках, Башня Глиммеринга сама по себе является маяком и башней, маслянистый черный камень башни отражает как лунный, так и солнечный свет в огромном радиусе."
+  wolfswood_name: "Сердце [Concept( 'wolfswood', 'Волчьего Леса' )|E]"
+  wolfswood_desc: "В центре [Concept( 'wolfswood', 'Волчьего Леса' )|E] нельзя уснуть, каждая ночь звенит бесконечным воем. Леса известны тем, что в них обитает большое количество животных, включая медведей, кабанов, древесных котов, лосей и так далее."
+  orkmont_tt_name: "Дом Грейайронов и Хоаров."
+  orkmont_tt_desc: "Оркмонт — не самый густонаселенный и не самый богатый из [Concept( 'iron_islands', 'Железных островов' )|E], но он богат лором и рудниками. Каждый житель будет хвастаться тем, что он бастард короля Грейайрона или Хоара."
+  queenscrown_tt_name: "Корона Королевы"
+  queenscrown_tt_desc: "Башня Корона Королевы расположена на острове в центре озера, известная тем, что когда-то принимала королеву, теперь она принимает пыль и пауков."
+  harrenhal_tourney_name: "Турнир в [Concept( 'harrenhal', 'Харренхолле' )|E]"
+  harrenhal_tourney_desc: "Великий турнир лорда Уэнта проводился в 281 году во времена «ложной весны», названный величайшим турниром своего времени. Большинству домов Вестероса есть что рассказать о нем."
+  jeyne_burning_name: "Сожжение Джейн Пур"
+  jeyne_burning_desc: "Во время бесконечной охоты [Concept( 'maegor_the_cruel', 'Мейгора Жестокого' )|E] на верующих молодой капитан [Concept( 'poor_fellows', 'Честных Бедняков' )|E] годами ускользала от Мейгора, но в конце концов была поймана и объявлена ведьмой."
+  viserys_birth_name: "Рождение Визериса"
+  viserys_birth_desc: "Также известный как Турнир в честь рождения Визериса, грандиозный турнир в честь рождения последнего принца-дракона в Вестеросе. Теперь его помнят за громовые аплодисменты, разрушенную дружбу и ведьм в лесах."
+  golden_wedding_name: "Золотая Свадьба"
+  golden_wedding_desc: "На седьмой день седьмой луны вдовствующая королева Морского Конька вышла замуж за [Concept( 'robert_baratheon', 'Оленя' )|E]. Празднование известно как Золотая Свадьба как простолюдинам, так и мейстерам, и его помнят за грандиозный турнир и бесконечных драконов в небе."
+  pentos_dragon_road_name: "Конец Драконьей Дороги"
+  pentos_dragon_road_desc: "Самая западная точка Драконьей дороги заканчивается у ворот [Concept( 'pentos', 'Пентоса' )|E]. Здесь можно начать свой путь по длинной, широкой и бесконечной черной маслянистой дороге на восток."
+  
+  mde_the_wall: "[Concept( 'the_wall', 'Стена' )|E]"
+  mde_the_titan: "[Concept( 'titan_of_braavos', 'Титан Браавоса' )|E]"
+  
+  #rhoyne 
+ #  explusion_hairy_men_name: "Изгнание Волосатых Людей"
+ #  explusion_hairy_men_desc: "До времен Вольных Городов Ройной правили ройнары. Чтобы укрепить свое правление, ройнарский принц «Гаррис Серый» изгнал Волосатых Людей дальше на восток."
+ 
+ #  crab_king_name: "Дом Крабьего Короля"
+ #  crab_king_desc: "Краб-король — меньший бог ройнаров, считающийся противником Стариков Реки. Они ведут бесконечную борьбу за господство над рекой. И все же детей Крабьего Короля можно найти только в низовьях Ройны."
+ 
+ #  birth_of_rhoyne_name: "Рождение Матери-Ройны"
+ #  birth_of_rhoyne_desc: "На этих высоких горах и холмах вода питает Ройну и дает бесконечную воду самой большой реке в Эссосе. Некоторые до сих пор совершают паломничества туда, где берет начало река."
+ 
+ #  old_men_of_rhoyne_name: "Старики Реки"
+ #  old_men_of_rhoyne_desc: "Священные для ройнаров Старики Реки — это вид гигантских черепах, живущих и размножающихся в верховьях реки. Это место служит идеальным местом для их поиска и изучения."
+ 
+ #  garin_curse_name: "Проклятие Гарина"
+ #  garin_curse_desc: "После поражения Гарина во Второй Пряной войне валирийцы повесили Гарина Великого в золотой клетке высоко над Крояном. Однажды ночью Гарин воззвал к Матери-Ройне, и его молитва была услышана, обрушив врага и затерянный город."

@@ -31,6 +31,35 @@
  mde_dragonstone.0013.desc: "Прогулка по темным камерам ничего не дает. Каждая так же убога и безжизненна, как и следующая...\n\nЧто я [Select_CString(ROOT.Char.IsFemale, 'думала', 'думал')] найти здесь? #bold [Concept( 'dragon_egg', 'Драконье яйцо' )|E]?#! В #italic тюремной камере?#! Глупо. У меня есть дела! И все же я здесь, расхаживаю по недрам забытого подземелья.\n\nВнезапный шорох нарушает тишину, крыса метнулась по полу. Я вздрагиваю, спотыкаясь и упираясь в стену. Но камень поддается. Он расшатывается под моим прикосновением и падает, с глухим стуком ударяясь о мою ногу.\n\nТам, где когда-то был кирпич, свет факела пляшет на чем-то, спрятанном глубже в стене... холодном, фигурном и безошибочно металлическом."
  mde_dragonstone.0013.a: "#italic «Не может быть...»#!"
 
+ mde_dragonstone.0101.desc: "I walk along the row of dark cells, each one briefly illuminated by the light of my torch. I am unsure what I expect to find.\n\nThese dungeons look untouched for decades; no sunlight has reached them in all that time. My steps slow as I peer into each passing cell.\n\nCell after cell holds scattered human bones; dead, forgotten prisoners lining these halls.\n\nA wave of heaviness washes over me. No one should have to witness this much death and decay."
+ mde_dragonstone.0101.a: "Run back and upstairs."
+ mde_dragonstone.0101.b: "There has to be a meaning to this."
+ mde_dragonstone.0101.c: "Sink down and curl up in a sad crying ball."
+ mde_dragonstone.0101.d: "This is nothing."
+
+ mde_dragonstone.0102.desc: "#color_red Death and decay#!; that is all I find in these halls. Each cell is briefly illuminated by the light of my torch, and I dread it every time.\n\nUntil I peer into one cell and see a pile of small bones and a torn rag. A small cranium rests against the wall at the end of them.\n\nA child…? Who in their right mind would imprison a child and let them rot like this?\n\nThen I notice it. Beneath the rags, a small stuffed dragon sticks out, no bigger than my hand."
+ mde_dragonstone.0102.a: "Dig it out from the bones."
+ mde_dragonstone.0102.b: "Let it rest and move on."
+
+ mde_dragonstone.0103.desc: "Just as I enter the lower dungeons, a voice rings out, shouting utter nonsense.\n\nWith only my torch for light, I stand before an endless row of cells. Behind me, the stairs upward vanish into cramped black rock. The stench of death and filth assaults my senses as I try to focus on whatever is ahead of me."
+ mde_dragonstone.0103.desc_high: "\n\nA creature? A human? Something I have never seen before, and it refuses to be quiet. Endless gibberish pours from its mouth, sharp and meaningless.\n\nWhat am I even meant to do with this?"
+ mde_dragonstone.0103.desc_low: "\n\nA creature? A human? No… I have read of these before. One of the Hairy Men of Essos, figures half legend, half warning, spoken of in old texts.\n\nBut why is it here; chained in the dungeons of Dragonstone?"
+ mde_dragonstone.0103.a: "Free it and add it to your court."
+ mde_dragonstone.0103.b: "Put it out of its misery."
+ mde_dragonstone.0103.c: "Leave it be."
+
+ mde_dragonstone.0104.desc: "I wasn’t sure what to expect when I descended into the lower dungeons; but this was not it.\n\nWith only my torch for light, I stand before an endless row of cells. Behind me, the stairs upward are swallowed by cramped black rock. The stench of death and filth claws at my senses as I force myself to focus on the figure ahead.\n\nA red priest of R’hllor stands motionless at the center of a cell, calm, composed, and very much alive.\n\nBefore I can speak, [redpriest.GetSheHe] does.\n\n#italic “I knew you would come,”#! the priest says softly. #italic “R’hllor does not forget his servants. Some [porter.GetTitledFirstName] forced me into this place.”#!\n\n[redpriest.GetHerHis] gaze shifts from the flickering torch to my eyes, unblinking.\n\n#italic “So tell me,”#! [redpriest.GetSheHe] continues, #italic “will you accept your destiny… or doom yourself, and these cursed lands, with it?”#!"
+ mde_dragonstone.0104.a: "Accept the plan."
+ mde_dragonstone.0104.b: "Add [redpriest.GetHerHim] to your court."
+ mde_dragonstone.0104.c: "End this heresy."
+ mde_dragonstone.0104.d: "Leave [redpriest.GetHerHim]."
+ mde_dragonstone.0104.e: "Leave [redpriest.GetHerHim]."
+
+ mde_dragonstone.0105.desc: "I wasn’t sure what to expect when I entered the lower dungeons, but this wasn’t it.\n\nWith only my torch for light, I stand before an endless row of cells. Behind me, the stairs upward are swallowed by cramped black rock. The stench of death and filth assaults my senses as I force myself to focus on the figure ahead.\n\nBefore I can speak, he does. #italic “You! Please! help me,”#! he gasps. #italic “You don’t understand. I have proof. The Citadel found me. I tried to flee, but the [maester.Custom('GetCouncilOrCourtPosition')] caught me and locked me away. I had proof! they are behind it all!”#!\n\nThe disgraced maester struggles to draw breath before continuing; #italic “Yes, I’m certain! They took it from me, but it was all there; undeniable proof. The Maesters orchestrated it. Planned it. Executed it. The killing of the dragons; all of it.”#!\n\nHe grips the bars, eyes wild. #italic “Please,” he whispers, “get me out.”#!"
+ mde_dragonstone.0105.a: "Take him seriously."
+ mde_dragonstone.0105.b: "#italic “You’re mad”#!"
+ mde_dragonstone.0105.c: "Just leave."
+
  #garden
 
  mde_dragonstone.0021.t: "Сад Эйгона"
@@ -51,6 +80,17 @@
  mde_dragonstone.0025.desc: "В садах я нахожу скамью, сделанную из чистого, черного, маслянистого камня. Он кажется прочнее всего, к чему я когда-либо [Select_CString(ROOT.Char.IsFemale, 'прикасалась', 'прикасался')], и он незыблем, не тронут временем. Ни трещин, ни износа. Только медленно ползущие лозы у его основания и птичий помет на его поверхности.\n\nКогда я оглядываюсь вокруг, я замечаю черный камень, выступающий за каждым кустом и деревом, словно жестокая оспа на маленьком ребенке. И все же именно тогда неожиданный блеск привлекает мой взгляд с другой стороны тропы.\n\nЛюбопытствуя, я подхожу ближе, чтобы исследовать источник..."
  mde_dragonstone.0025.a: "Взять это."
  mde_dragonstone.0025.b: "Вернуться на корабль."
+
+ mde_dragonstone.0201.t: "A dream on a Trunk"
+ mde_dragonstone.0201.desc: "As I emerge from the staircase, the scent of pine and damp grass strikes me at once. Sunlight spills between branches and leaves, flaring against my eyes as I struggle to gather my senses.\n\nI stumble forward, then steady myself. Beneath my feet runs a half-hidden path of oily black stone, smooth with age. Each step feels steeped in ancient history, the garden quiet in a way only old places ever are.\n\nThat is when I notice it; a tree trunk resting alone amid the tangled flora, set apart as if the garden itself had chosen the spot.\n\nA perfect place to rest."
+ mde_dragonstone.0201.a: "Go sit down"
+ mde_dragonstone.0201.b: "Continue on your walk"
+
+ mde_dragonstone.0202.desc: "I sit down and close my eyes, if only for a moment. Somewhere above me, an owl hoots and suddenly, darkness presses in from all sides.\n\nWhen I open my eyes again, it is night.\n\nA single light flickers in the distance. Drawn to it, I rise and walk closer, until the shape becomes clear, the staircase, waiting as it was before.\n\nI blink, unsettled.\n\nWhat a strange experience."
+ mde_dragonstone.0202.a: "What happened?"
+
+ mde_dragonstone.0203.desc: "#high The moment my hand touches the tree trunk, darkness swallows everything. I stand in emptiness, until a faint cry reaches me. #bold Then it strikes all at once.#!\n\nA dragon appears before me, crying out as endless #color_red blood#! pours from its eyes. I sense three heads: two female, one male, bound together in shared agony.\n\nOnly then do I look down.\n\nI am standing upon countless dragon corpses, stacked and crushed together into a single obscene monument of flesh, scale, and bone.\n\nA screeching voice tears through the void: #XB THEY WILL NEVER RETURN.#!\n\nAnd just as suddenly, I am back in the grove. Sunlight filters through the leaves. The sky is clear. The air is warm. Not a moment has passed.#!"
+ mde_dragonstone.0203.a: "What’s wrong with me?"
 
  #dragonmont
 
@@ -82,3 +122,20 @@
 
  mde_dragonstone.0037.desc: "#high Своими огромными ногами я вытаптываюсь из пещеры, и просто так я взмываю. Мои руки несут меня вниз с горы, через небеса и над водой.\n\n[Concept( 'fire', 'Огонь' )|E] правит мной, и моя [Concept( 'blood', 'кровь' )|E] густеет от жара. Всего за несколько взмахов я пересекаю Узкое море. Я вижу старые валирийские дороги внизу, прямые, как моя цель.\n\nВетер проносится мимо моей чешуи, когда облака начинают темнеть. И тут меня поражает: рок, конец, падение истинной цивилизации.\n\nГоры #italic извергаются#!, изрыгая лаву, пепел и камни во все стороны. Драконы падают с неба, и весь прогресс потерян.\n\n#italic Валирия...#!#!"
  mde_dragonstone.0037.a: "Мои сны, что они означают?"
+
+ mde_dragonstone.0038.desc: "I find myself wandering through endless tunnels, my only companion a dimming lantern.\n\nI am a [ROOT.Char.GetDynastyHouseName]. I have the right to be here. I #italic should#! be here.\n\nAnd yet, there are no dragons anymore. Our blood has thinned through generations. How could I ever compare myself to the legends of old?\n\n"
+ mde_dragonstone.0038.a: "Reflect on the past"
+ mde_dragonstone.0038.b: "I will begin a new era for [ROOT.Char.GetDynastyHouseName]’s"
+ mde_dragonstone.0038.c: "Let's just return"
+
+ mde_dragonstone.0039.desc: "My blood pounds in my ears. My vision narrows, then fractures, and I sink to the ground. Darkness claims me.\n\nWhen sight returns, I find myself at the center of a great circle. Figures stand around me; silent, unmoving; each crowned, each unmistakably royal. Kings.\n\nOne by one, they extend their hands toward me, offering aid, judgment, or command. Every hand promises something different.\n\nYet I can only choose one. Which hand do I take?"
+ mde_dragonstone.0039.a: "Aegon I Targaryen  "The Conqueror""
+ mde_dragonstone.0039.b: "Maegor I Targaryen “The Cruel""
+ mde_dragonstone.0039.c: "Jaehaerys I Targaryen "The Old King""
+ mde_dragonstone.0039.d: "Viserys I Targaryen "The Peaceful" "
+ mde_dragonstone.0039.e: "Aegon III Targaryen "The Dragonbane""
+ mde_dragonstone.0039.f: "Baelor I Targaryen "The Blessed""
+ mde_dragonstone.0039.g: "Aegon IV Targaryen "The Unworthy" "
+
+ mde_dragonstone.0040.desc: "Endless warfare, dragon dreams, intrigue, incest, and plotting. That is all my House has ever been.\n\nGenerations upon decades on the throne and what did it bring us? We are still a dying House, shackled to ghosts and glories long turned to ash.\n\n#bold No more.#!\n\nA new era begins now, and I will see it brought to fruition; by my will, or by fire."
+ mde_dragonstone.0040.a: "Let's begin"

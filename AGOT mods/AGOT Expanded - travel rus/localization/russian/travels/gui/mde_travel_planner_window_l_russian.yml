@@ -26,8 +26,8 @@
   historical_battle_of_the_gullet: "Битва в Глотке"
   historical_battle_of_the_gullet_desc: "Во время [Concept( 'dance_of_the_dragons', 'Танца Драконов' )|E] Триархию убедили поддержать [Concept( 'the_greens', 'Зеленых' )|E]. Результатом стала самая кровавая морская битва между [Concept( 'house_velaryon', 'Веларионами' )|E] и [Concept( 'free_cities', 'Вольными Городами' )|E]."
  
-  historical_battle_at_rooks_rest: "Битва у Грачиного Приюта"
-  historical_battle_at_rooks_rest_desc: "Если вы поговорите с простолюдинами, то услышите историю о трех демонах в небе и горящей земле. Другие назовут это Битвой у Грачиного Приюта, где кроваво-красный дракон [Concept( 'meleys', 'Мелеис' )|E] упал с небес."
+  #historical_battle_at_rooks_rest: "Битва у Грачиного Приюта"
+  #historical_battle_at_rooks_rest_desc: "Если вы поговорите с простолюдинами, то услышите историю о трех демонах в небе и горящей земле. Другие назовут это Битвой у Грачиного Приюта, где кроваво-красный дракон [Concept( 'meleys', 'Мелеис' )|E] упал с небес."
  
   historical_battle_at_long_lake: "Битва у Длинного Озера"
   historical_battle_at_long_lake_desc: "Хитрый одичалый [Concept( 'raymun_redbeard', 'Реймунд Рыжебородый' )|E] сумел ускользнуть от [Concept( 'nights_watch', 'Ночного Дозора' )|E] и повел войско за [Concept( 'the_wall', 'Стену' )|E]. [Concept( 'house_stark', 'Старкам' )|E] пришлось перехватить и убить этого так называемого «[Concept( 'king_beyond_the_wall', 'Короля-за-Стеной' )|E]»."

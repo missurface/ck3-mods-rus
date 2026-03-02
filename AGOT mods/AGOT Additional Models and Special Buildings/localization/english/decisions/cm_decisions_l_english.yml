@@ -45,9 +45,9 @@
 
  #Kingsguard
  decision_cm_form_kingsguard:0 "Form The Kingsguard"
- decision_cm_form_kingsguard_desc:0 "The time has come to form a Kingsguard to protect myself from any threats that lurk within the shadows now that I have united [GetTitleByKey('e_the_iron_throne').GetNameNoTier]"
+ decision_cm_form_kingsguard_desc:0 "The time has come to form a Kingsguard to protect myself from any threats that lurk within the shadows now that I have united [GetTitleByKey('h_the_iron_throne').GetNameNoTier]"
  decision_cm_form_kingsguard_confirm:0 "Form the Kingsguard"
- decision_cm_form_kingsguard_tooltip:0 "Form a Kingsguard of seven knights who will dedicate their lives to protecting the King of [GetTitleByKey('e_the_iron_throne').GetNameNoTier]"
+ decision_cm_form_kingsguard_tooltip:0 "Form a Kingsguard of seven knights who will dedicate their lives to protecting the King of [GetTitleByKey('h_the_iron_throne').GetNameNoTier]"
 
  #Harrenhal Construction
  cm_build_harrenhal_decision:0 "Construct The Mighty Harrenhal"

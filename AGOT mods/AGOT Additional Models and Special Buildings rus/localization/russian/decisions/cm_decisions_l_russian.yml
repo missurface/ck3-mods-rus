@@ -45,9 +45,9 @@
   
   # Королевская Гвардия 
  decision_cm_form_kingsguard: "Создать Королевскую Гвардию" #NT!
- decision_cm_form_kingsguard_desc: "Пришло время создать Королевскую Гвардию для защиты от угроз, таящихся во тьме, теперь, когда я объединил [GetTitleByKey('e_the_iron_throne').GetNameNoTier]" #NT!
+ decision_cm_form_kingsguard_desc: "Пришло время создать Королевскую Гвардию для защиты от угроз, таящихся во тьме, теперь, когда я объединил [GetTitleByKey('h_the_iron_throne').GetNameNoTier]" #NT!
  decision_cm_form_kingsguard_confirm: "Создать Королевскую Гвардию" #NT!
- decision_cm_form_kingsguard_tooltip: "Сформировать Королевскую Гвардию из семи рыцарей, которые посвятят жизни защите Короля [GetTitleByKey('e_the_iron_throne').GetNameNoTier]" #NT!
+ decision_cm_form_kingsguard_tooltip: "Сформировать Королевскую Гвардию из семи рыцарей, которые посвятят жизни защите Короля [GetTitleByKey('h_the_iron_throne').GetNameNoTier]" #NT!
   
   # Строительство Харренхола 
  cm_build_harrenhal_decision: "Возвести Могучий Харренхол" #NT!

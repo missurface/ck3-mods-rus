@@ -91,7 +91,7 @@
  #size
 
  trait_dragon_physique_good_4: "Небывалый исполин"
- trait_dragon_physique_good_4_desc: "Легенды часто приукрашивают, но время от времени… рождается подлинная легенда."
+ trait_dragon_physique_good_4_desc: "Легенды часто приукрашивают, но время от времени... рождается подлинная легенда."
  trait_dragon_physique_good_4_character_desc: "[ROOT.Char.GetFirstNameNoTooltip] растёт сверх всякого воображения. Его величественные размеры обречены прогреметь в веках."
  
  trait_dragon_physique_bad_4: "Искалеченный вылупыш"

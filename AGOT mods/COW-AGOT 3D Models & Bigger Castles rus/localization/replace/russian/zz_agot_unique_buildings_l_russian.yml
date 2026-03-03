@@ -2,7 +2,7 @@
   
  rule_use_rebuilt_crag: "#V #bold COW-AGOT#!#!: Краг"
  setting_yes_use_rebuilt_crag: "Полностью восстановлен"
- setting_yes_use_rebuilt_crag_desc: "The Crag starts as a fully built and functional castle. 
+ setting_yes_use_rebuilt_crag_desc: "Краг начинает как полностью отстроенный и функциональный замок."
  setting_no_use_rebuilt_crag: "Начинать с руин"
  setting_no_use_rebuilt_crag_desc: "#P По умолчанию#!: Краг начинается как разрушенный и сильно повреждённый замок, который необходимо восстановить."
   
@@ -186,7 +186,7 @@
   
  REBUILD_CASTAMERE_FIRST: "Сначала вы должны улучшить [GetBuilding('agot_castamere_ruins_01').GetName] до [GetBuilding('agot_castamere_ruins_02').GetName]."
   
- REBUILD_CASTAMERE_SECOND: "Сначала вы должны улучшить [GetBuilding('medium_ruin_03').GetName] to the [GetBuilding('medium_ruin_04').GetName] before you can upgrade the [GetBuilding('agot_castamere_ruins_01').GetName] до [GetBuilding('agot_castamere_ruins_02').GetName]."
+ REBUILD_CASTAMERE_SECOND: "Сначала вы должны улучшить [GetBuilding('medium_ruin_03').GetName] до [GetBuilding('medium_ruin_04').GetName], прежде чем вы сможете улучшить [GetBuilding('agot_castamere_ruins_01').GetName] до [GetBuilding('agot_castamere_ruins_02').GetName]."
   
   
   
@@ -234,24 +234,24 @@
  building_cow_runestone_01_desc: "Крепость бывших Бронзовых Королей охраняется великими вратами с бронзовыми украшениями и древними рунами, высеченными на камнях воротной башни."
 
  building_type_flint_tower_01: "Башня Флинт"
- building_type_flint_tower_01_desc: "Старая, выветренная каменная крепость — башня Флинт, или «Унылфорт»,, как её часто насмешливо зовут, — родовое гнездо малого дома Бейлиш. Этот форт настолько крошечный, что в нём нет даже окон — лишь несколько бойниц для обороны."
+ building_type_flint_tower_01_desc: "Старая, выветренная каменная крепость — башня Флинт, или «Унылфорт», как её часто насмешливо зовут, — родовое гнездо малого дома Бейлиш. Этот форт настолько крошечный, что в нём нет даже окон — лишь несколько бойниц для обороны."
  building_flint_tower_01: "Башня Флинт"
  building_flint_tower_01_desc: "Старая, выветренная каменная крепость — Флинтова башня, или «Унылфорт», как её часто насмешливо зовут, — родовое гнездо малого дома Бейлиш. Этот форт настолько крошечный, что в нём нет даже окон — лишь несколько бойниц для обороны."
 
- building_type_agot_lonely_light_01:0 "The Last Light"
- building_type_agot_lonely_light_01_desc:0 "Furthest west in the known world, Lonely Light stands as the last beacon before the dark unknown beyond the Sunset Sea. While maesters and other scholars of the world believe it to be round, no recorded trip has made the voyage."
- building_agot_lonely_light_01:0 "The Farthest Beacon"
+ building_type_agot_lonely_light_01:0 "Последний Свет"
+ building_type_agot_lonely_light_01_desc:0 "Самый западный в известном мире, Одинокий Свет стоит как последний маяк перед темной неизвестностью за Закатным морем. Хотя мейстеры и другие ученые мира считают его круглым, ни одно документально подтвержденное путешествие не совершило такого плавания."
+ building_agot_lonely_light_01:0 "Самый дальний маяк"
  building_agot_lonely_light_01_desc:0 "$building_type_agot_lonely_light_01_desc$"
- building_agot_lonely_light_02:0 "Stormward Outpost"
- building_agot_lonely_light_02_desc:0 "A second tower rises upon a nearby rock outcropping, lashed together by rope bridges and stubborn will. The men of Lonely Light have begun to tame the stone and surf to expand the remote outpost."
- building_agot_lonely_light_03:0 "The Sunset Watch"
- building_agot_lonely_light_03_desc:0 "Three towers now stand against the Sunset Sea, their signal fires burning in definance of the deadly expanse before them. The Lonely Light has become more than a beacon. It is a watch over the world’s edge."
- building_agot_lonely_light_04:0 "Bastion of the Sunset Sea"
- building_agot_lonely_light_04_desc:0 "Where once stood a lonely tower now rises a sea-bound bastion. The rock has been carved, the surf broken, and Lonely Light stands armed against storm and sail alike."
- building_agot_lonely_light_05:0 "The Fortress at the End of the World"
- building_agot_lonely_light_05_desc:0 "No longer merely a light in the darkness, Lonely Light has become a fortress at the edge of the world. Its towers rise from broken stone like the ribs of some drowned leviathan, defying the endless Sunset Sea and those who would stand against its Lord."
+ building_agot_lonely_light_02:0 "Штормовой аванпост"
+ building_agot_lonely_light_02_desc:0 "Вторая башня возвышается на соседнем скальном выступе, связанная веревочными мостами и упрямой волей. Люди Одинокого Света начали укрощать камень и прибой, чтобы расширить отдаленный аванпост."
+ building_agot_lonely_light_03:0 "Закатный дозор"
+ building_agot_lonely_light_03_desc:0 "Теперь три башни стоят против Закатного моря, их сигнальные огни горят, бросая вызов смертоносному простору перед ними. Одинокий Свет стал больше, чем просто маяком. Это дозор на краю света."
+ building_agot_lonely_light_04:0 "Бастион Закатного моря"
+ building_agot_lonely_light_04_desc:0 "Там, где когда-то стояла одинокая башня, теперь возвышается морской бастион. Камень высечен, прибой сломлен, и Одинокий Свет стоит вооруженным как против шторма, так и против паруса."
+ building_agot_lonely_light_05:0 "Крепость на краю света"
+ building_agot_lonely_light_05_desc:0 "Больше не просто свет во тьме, Одинокий Свет стал крепостью на краю света. Его башни поднимаются из разбитого камня, как ребра какого-то утонувшего левиафана, бросая вызов бесконечному Закатному морю и тем, кто посмеет выступить против его Лорда."
  
- cow_show_cities_decision: "Show all COW-AGOT Models"
- cow_show_cities_decision_desc: "Show all the provinces on the map with a custom COW-AGOT 3D model"
- cow_show_cities_decision_confirm: "Show Now"
- cow_show_cities_decision_tooltip: "See the location of all the COW-AGOT 3D models"
+ cow_show_cities_decision: "Показать все модели COW-AGOT"
+ cow_show_cities_decision_desc: "Показать все провинции на карте с пользовательской 3D-моделью COW-AGOT"
+ cow_show_cities_decision_confirm: "Показать сейчас"
+ cow_show_cities_decision_tooltip: "Увидеть местоположение всех 3D-моделей COW-AGOT"

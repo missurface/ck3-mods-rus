@@ -12,10 +12,10 @@
   TRAVEL_POINT_OF_INTEREST_TT_mde_poi_dragonspots_minor: "[PROVINCE.Custom('MdeHistoricalDragons')]"
  
   TRAVEL_POINT_OF_INTEREST_TT_mde_poi_historical_battle: "Место [PROVINCE.Custom('MdeHistoricalBattle')]"
-  mde_poi_historical_battle.visit: "[Select_CString(ROOT.Char.IsFemale, 'Посетила', 'Посетил')] место [province.Custom('MdeHistoricalBattle')]"
+  mde_poi_historical_battle.visit: "Я [Select_CString(ROOT.Char.IsFemale, 'посетила', 'посетил' )] место [province.Custom('MdeHistoricalBattle')]"
   mde_poi_historical_battle.visit.tt: "[province.Custom('MdeHistoricalBattleDesc')]"
   
-  mde_poi_dragonspots_minor.visit: "[Select_CString(ROOT.Char.IsFemale, 'Посетила', 'Посетил')] место [province.Custom('MdeHistoricalDragons')]"
+  mde_poi_dragonspots_minor.visit: "Я [Select_CString(ROOT.Char.IsFemale, 'посетила', 'посетил' )] место [province.Custom('MdeHistoricalDragons')]"
   mde_poi_dragonspots_minor.visit.tt: "[province.Custom('MdeHistoricalDragonsDesc')]"
  
   TRAVEL_POINT_OF_INTEREST_TT_agot_poi_wonders_of_man: "[PROVINCE.Custom('MdeCastleName')]"
@@ -92,7 +92,7 @@
   TRAVEL_POINT_OF_INTEREST_TT_mde_poi_castle_stewardship: "[PROVINCE.Custom('MdeCastleName')]"
   TRAVEL_POINT_OF_INTEREST_TT_mde_poi_castle_learning: "[PROVINCE.Custom('MdeCastleName')]"
   
-  mde_poi_notable_castle_visit: "[Select_CString(ROOT.Char.IsFemale, 'Посетила', 'Посетил')] [province.Custom('MdeCastleName')]"
+  mde_poi_notable_castle_visit: "Я [Select_CString(ROOT.Char.IsFemale, 'посетила', 'посетил' )] [province.Custom('MdeCastleName')]"
   mde_poi_notable_castle_visit.tt: "[province.Custom('MdeCastleDesc')]"
   
    

@@ -201,12 +201,12 @@
   
  agot_ninepenny.0034.c: "Для него будет вырезано новое королевство."
  agot_ninepenny.0035.b: "$agot_ninepenny.0031.a$ Оно получит более подходящее имя."
- agot_ninepenny.0035.b.tt: "#italic Королевство Тарт будет переименовано в Сапфировые Острова!"
+ agot_ninepenny.0035.b.tt: "#italic Королевство Тарт будет переименовано в Сапфировые Острова!#!"
   
  a_crown_for_a_king_decision: "Корона для короля"
  a_crown_for_a_king_decision_desc: "Визерис недостоин быть королем Семи Королевств, но есть тот, кто достоин..."
  a_crown_for_a_king_decision_confirm: "Короновать его!"
- a_crown_for_a_king_decision_tooltip: "@warning_icon!#X Это сместит Визериса как главу Таргариенов в изгнании!#"
+ a_crown_for_a_king_decision_tooltip: "@warning_icon!#X Это сместит Визериса как главу Таргариенов в изгнании!#!"
   
  agot_targaryen_exile_invasion.9999.t: "Корона для короля"
  agot_targaryen_exile_invasion.9999.desc: "Теперь, когда я возглавляю Изгнанников и несу на своих плечах всю династию Таргариенов, я должен решить, что делать с моим высокомерным и жестоким братом."

@@ -45,7 +45,7 @@
  mde_demand_egg_events.0006.t: "Требования отклонены!"
  mde_demand_egg_events.0006.desc: "[egg_victim.GetName] отказался отдать нам принадлежащее нам драконье яйцо! Они также не предложили ничего равноценного взамен. Теперь мы должны взвесить наши варианты.\n\nМы можем собрать войска и начать войну (если это позволяет закон), арестовать их (если позволяет закон), претендовать на яйцо и использовать другие методы возврата или полностью и навсегда отказаться от этого дела."
  mde_demand_egg_events.0006.a: "[egg_target.GetNameNoTooltip] по праву наше! К оружию!"
- mde_demand_egg_events.0006.a.tt: "@warning_icon!#X Мы не можем воевать с [egg_victim.GetFullName]!#!" "@warning_icon!#X Мы не можем воевать с [egg_victim.GetFullName]!#!"
+  mde_demand_egg_events.0006.a.tt: "@warning_icon!#X Мы не можем воевать с [egg_victim.GetFullName]!#!"
  mde_demand_egg_events.0006.b: "Их владение [egg_target.GetNameNoTooltip] незаконно!"
  mde_demand_egg_events.0006.b.tt: "Мы получим претензию на [egg_target.GetName] и все связанные с этим возможности!"
  mde_demand_egg_events.0006.c: "Пусть яйца останутся у них..."
@@ -59,7 +59,7 @@
  demand_egg: "Требовать яйцо"
  demand_egg_desc: "[recipient.GetName] незаконно владеет драконьим яйцом!"
  demanded_egg_interaction.desc: "[actor.GetName] потребовал(а) яйцо дракона!"
- mde_start_demand_egg_event_chain: "@warning_icon!#X Это выдвинет требование к [recipient.GetFullName] о передаче яйца!#"
+  mde_start_demand_egg_event_chain: "@warning_icon!#X Это выдвинет требование к [recipient.GetFullName] о передаче яйца!#!"
  mde_egg_access_gained: "Разрешено владение яйцом дракона."
  mde_egg_access_removed: "Запрещено владение яйцом дракона."
   
@@ -94,7 +94,7 @@
   
  agot_dragon_hatching.0401.opt.b: "Мои дети!"
  mde_include_egg: "Включить"
- mde_this_dragon_will_hatch_this: "#color_dark_gray [Artifact.Custom('mde_this_dragon_will_hatch')] #"
+  mde_this_dragon_will_hatch_this: "#color_dark_gray [Artifact.Custom('mde_this_dragon_will_hatch')] #!"
 
 
  mde_decisions_events.1000.t:0 "$dragon_egg_blue$"

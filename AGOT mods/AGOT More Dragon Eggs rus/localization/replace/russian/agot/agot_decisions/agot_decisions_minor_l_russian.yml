@@ -70,10 +70,10 @@
  agot_weirwood_events.0002.desc: "Богороща — тихое убежище от тягот правления, а чардрево — древний советник, с которым я делюсь бедами. \n\nЯ готовлюсь к общению с древом, как внезапный шорох прерывает меня. Среди листвы, едва заметный, клубочком свернулся котёнок, нежно мурлыкая."
  agot_weirwood_events.0002.a: "Мне нужен питомец!"
  agot_weirwood_events.0002.b: "Садовник должен убрать это существо..."
-  
+
  recruit_forder_specialist_decision: "Нанять специалиста-фордера"
  recruit_forder_specialist_decision_desc: "Нанять командира, который не только умеет форсировать реки, но и искусен в бою."
- recruit_forder_specialist_decision_tooltip: "Командир с чертой "Фордер" присоединится к вашему двору."
+ recruit_forder_specialist_decision_tooltip: "Командир с чертой «Фордер» присоединится к вашему двору."
  recruit_forder_specialist_decision_confirm: "Надеюсь, найду подходящего"
   
  stress_loss_uncouth_decision: "Запустить себя"

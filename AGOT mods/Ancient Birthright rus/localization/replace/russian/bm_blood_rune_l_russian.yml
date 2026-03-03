@@ -9,7 +9,7 @@
  superior_crimson_rune_modifier: "Верховная Багровая Руна" #NT!
  superior_crimson_rune_modifier_desc: "Эти совершенные кровавые руны часто притягивают [GetModifier('lifeforce_modifier_minor').GetNameWithTooltip] без вашей воли. Они регулярно захватывают [GetModifier('lifeforce_modifier_major').GetNameWithTooltip], а порой проявляют оба вида силы одновременно.\n\nИскусные кровавые руны покрывают ваши жизненно важные области, временами двигаясь под кожей собственной волей. Ваше тело стало постоянным проводником жизненной силы, черпающим мощь из самого воздуха, что вы вдыхаете." #NT!
   
- crimson_runes_effects_list.effects_list: "Получите всё более могущественные Кровавые Руны (каждый уровень заменяет предыдущий):\n#indent_newline: $EFFECT_LIST_BULLET$ [GetModifier('minor_crimson_rune_modifier').GetNameWithTooltip]\n#indent_newline: $EFFECT_LIST_BULLET$ [GetModifier('major_crimson_rune_modifier').GetNameWithTooltip]\n#indent_newline: $EFFECT_LIST_BULLET$ [GetModifier('superior_crimson_rune_modifier').GetNameWithTooltip]" #NT!
+ crimson_runes_effects_list.effects_list: "Получите всё более могущественные Кровавые Руны (каждый уровень заменяет предыдущий):\n#indent_newline: $EFFECT_LIST_BULLET$ [GetModifier('minor_crimson_rune_modifier').GetNameWithTooltip]#!\n#indent_newline: $EFFECT_LIST_BULLET$ [GetModifier('major_crimson_rune_modifier').GetNameWithTooltip]#!\n#indent_newline: $EFFECT_LIST_BULLET$ [GetModifier('superior_crimson_rune_modifier').GetNameWithTooltip]#!" #NT!
   
   
    # Crimson Rune Event 

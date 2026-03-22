@@ -495,7 +495,7 @@
  asoiaf_Lannister_2_modifier_desc:0 "#bold Kevan Lannister#! was a reliable and serious man, yet not prideful or ruthless. He was a competent administrator with an eye for the practical, preferring peaceful solutions rather than risking total ruin with bold gambits. A wise and perceptive adviser, he was well aware of the game of thrones being played around him, yet often refused to engage until absolutely necessary.\n\n#help Kevan must have children with a wife of the #bold Swyft dynasty#! to continue his line.#!"
 
  asoiaf_Lannister_3_modifier:0 "[asoiaf_canon_children_concept|E]: #bold Genna Lannister#!"
- asoiaf_Lannister_3_modifier_desc:0 "#bold Genna Lannister#! was shrewd and clever woman with an authoritative presence, more than willing to boss-around men she considered inept."
+ asoiaf_Lannister_3_modifier_desc:0 "#bold Genna Lannister#! was a shrewd and clever woman with an authoritative presence, more than willing to boss-around men she considered inept."
 
  asoiaf_Lannister_4_modifier:0 "[asoiaf_canon_children_concept|E]: #bold Tygett Lannister#!"
  asoiaf_Lannister_4_modifier_desc:0 "#bold Tygett Lannister#! was courageous swordsman of bold spirit. All his life he tried to be his own man and find his place in the sun, yet he was always swallowed by the shadow of his elder brother, against whom he often chafed.\n\n#help Tygett must have children with a wife of the #bold Marbrand dynasty#! to continue his line.#!\n\n@warning_icon! #X Tygett's [asoiaf_canon_children_concept|E] will be available at a later time.#!"

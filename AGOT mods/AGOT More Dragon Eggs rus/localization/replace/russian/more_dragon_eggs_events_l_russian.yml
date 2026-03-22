@@ -45,7 +45,7 @@
   
  more_dragon_eggs_events.0012.a: ""
   
- more_dragon_eggs_events.0014.t: "Все живые [dragons_plural|E]"
+ more_dragon_eggs_events.0014.t: "Все живые драконы"
  more_dragon_eggs_events.0014.desc: ""
  more_dragon_eggs_events.0014.a: "Посмотреть своих [dragons_plural|E]"
  more_dragon_eggs_events.0014.b: "Посмотреть чужих [dragons_plural|E]"
@@ -227,3 +227,7 @@
   
  agot_ninepenny.1014.c: "Ночь жива музыкой драконов! Этот ребёнок — [Select_CString(ROOT.Char.IsFemale, '«Драконорождённая»', '«Драконорождённый»' )]!"
  agot_ninepenny.1014.d: "Несмотря на трагедию, с этим ребёнком есть надежда — [Select_CString(ROOT.Char.IsFemale, '«Драконорождённая»', '«Драконорождённый»' )]."
+
+ mde_events.0001.t:0 "Меню управления кнопками"
+ mde_events.0001.a:0 "Закрыть"
+ mde_events.0001.desc:0 ""

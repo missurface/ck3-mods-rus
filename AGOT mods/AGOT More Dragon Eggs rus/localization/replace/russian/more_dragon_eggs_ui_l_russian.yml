@@ -1,0 +1,8 @@
+﻿l_russian:
+ egg_button_manager_text:0 "Показать/скрыть кнопку яйца"
+ dragonpit_button_manager_text:0 "Показать/скрыть кнопку драконьей ямы"
+ dragon_button_manager_text:0 "Показать/скрыть кнопку дракона"
+
+ NO_DRAGONS_TOOLTIP:0 "@warning_icon! #X В мире нет живых драконов!#!"
+ NO_EGG_TOOLTIP:0 "@warning_icon! #X В мире не известно ни одного драконьего яйца!#!"
+ NO_DRAGONPITS_TOOLTIP:0 "@warning_icon! #X У вас нет доступа ни к одной действующей драконьей яме!#!"

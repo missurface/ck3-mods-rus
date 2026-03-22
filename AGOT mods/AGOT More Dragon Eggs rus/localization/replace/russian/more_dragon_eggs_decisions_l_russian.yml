@@ -93,6 +93,10 @@
  hide_dragon_portrait_decision_tooltip:0 "Will hide the dragon potrait."
  hide_dragon_portrait_decision_desc:0 "Hides your dragon's portrait in the bottom left corner of the screen. (Note: Portraits won't appear until the dragon is at least size 3, if you're not seeing them this may be why.)"
  hide_dragon_portrait_decision_confirm:0 "Hide Portrait"
- 
- 
-  #Domiciles 
+
+ manage_buttons_decision:0 "Управление кнопками"
+ manage_buttons_decision_desc:0 "Открывает меню управления видимостью кнопок на интерфейсе"
+ manage_buttons_decision_tooltip:0 "Открыть меню управления видимостью кнопок"
+ manage_buttons_decision_confirm:0 "Открыть меню"
+
+ #Domiciles 

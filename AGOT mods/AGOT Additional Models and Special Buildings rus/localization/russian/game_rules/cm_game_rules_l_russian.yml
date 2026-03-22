@@ -36,6 +36,14 @@
  setting_cm_dragonstone_throne_room_yes: "#P Включено#!"
  setting_cm_dragonstone_throne_room_yes_desc: "Драконий Камень будет использовать тронный зал из сериала"
   
+ # KL building Rules
+ rule_cm_dragonpit_choice:0 "#D AM&SB:#! Стиль Драконьей ямы/Септы Поминовения#!"
+ rule_cm_dragonpit_choice_desc:0 "Определяет, будут ли Септа Поминовения и Драконья яма использовать на карте стиль AGOT или HOTD"
+ setting_cm_dragonpit_choice_hotd:0 "#R Драконья яма HOTD#!"
+ setting_cm_dragonpit_choice_hotd_desc:0 "Септа и Драконья яма будут в стиле HOTD"
+ setting_cm_dragonpit_choice_agot:0 "#P Драконья яма AGOT#!"
+ setting_cm_dragonpit_choice_agot_desc:0 "Септа и Драконья яма будут использовать модели AGOT"
+
  # Категория игровых правил 
  game_rule_category_cm_game_rules: "#D Правила AM&SB#!"
  game_rule_category_cm_game_rules_desc: "#D Все игровые правила, связанные с Additional Mechanics & Special Buildings#!"

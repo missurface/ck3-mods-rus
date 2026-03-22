@@ -36,6 +36,14 @@
   setting_cm_dragonstone_throne_room_yes:0 "#P Enabled#!"
   setting_cm_dragonstone_throne_room_yes_desc:0 "Dragonstone will use the TV Show Throne Room"
 
+  # KL building Rules
+  rule_cm_dragonpit_choice:0 "#D AM&SB:#! Dragonpit/Sept of Remembrance Style#!"
+  rule_cm_dragonpit_choice_desc:0 "Determines if the Sept of Remembrance and Dragonpit will be in the AGOT or HOTD style on the map"
+  setting_cm_dragonpit_choice_hotd:0 "#R HOTD Dragonpit#!"
+  setting_cm_dragonpit_choice_hotd_desc:0 "Sept and Dragonpit will be in HOTD Style"
+  setting_cm_dragonpit_choice_agot:0 "#P AGOT Dragonpit#!"
+  setting_cm_dragonpit_choice_agot_desc:0 "Sept and Dragonpit will use AGOT models"
+
   # Game Rule Category
   game_rule_category_cm_game_rules:0 "#D AM&SB Rules#!"
   game_rule_category_cm_game_rules_desc:0 "#D All game rules related to Additional Mechanics & Special Buildings#!"

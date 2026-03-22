@@ -9,16 +9,22 @@
  building_river_gate_01:0 "$building_type_river_gate_01$"
  building_river_gate_01_desc:0 "$building_type_river_gate_01_desc$"
 
- building_type_hellgate_hall_01:0 "Hellgate Hall"
- building_type_hellgate_hall_01_desc:0 "The ancestral seat of House Dryland, it is from this fearsome castle that they ruled as Kings of the Brimstone."
- building_hellgate_hall_ruin_01:0 "Lucifer's Folly"
- building_hellgate_hall_ruin_01_desc:0 "Old, broken ruins are all that remains of Hellgate Hall, once the mightiest of the castles that called the deep dunes of Dorne home, Hellgate Hall and House Dryland were laid low in the Dornish Unification Wars under Nymeria and House Martell. Today the ruins stand as a testament to those who defy the Sun and Spear as the last King of the Brimstone did."
- building_hellgate_hall_ruin_02:0 "A City Restored"
- building_hellgate_hall_ruin_02_desc:0 "Too long has the ancient seat of Brimstone stood silent.\n\nThough the peaks above still speak to the horrors visited to these lands by the Martells long ago, the long journey of restoring this once magnificient achievement of manking has begun."
- building_hellgate_hall_ruin_03:0 "Grandeur and Grace"
- building_hellgate_hall_ruin_03_desc:0 "Though slow moving, Hellgate Hall mountain is being reclaimed.\n\nTowering over the city below, the upper slopes of Hellgate Hall now boast pleasure palaces, Temples, and other high society must haves.\n\nThough built in the footprints of the ruins already carved into the mountain, these new designs are modeled after the Rhoynish architecture of Sunspear."
- building_hellgate_hall_ruin_04:0 "The Golden Tower"
- building_hellgate_hall_ruin_04_desc:0 "Though terribly expensive, you have completed restoring the peak of Hellgate Hall.\n\nYour new Keep rivals any in the land and Hellgate Hall once more stands strong high above all the lands of Dorne."
+ building_type_cm_hellgate_hall_01:0 "Hellgate Hall"
+ building_type_cm_hellgate_hall_01_desc:0 "The ancestral seat of House Dryland, it is from this fearsome castle that they ruled as Kings of the Brimstone."
+
+ building_type_cm_ruins_hellgate_hall_01:0 "$building_type_agot_hellgate_hall_01$"
+ building_type_cm_ruins_hellgate_hall_01_desc:0 "$building_type_agot_hellgate_hall_01_desc$"
+ building_cm_ruins_hellgate_hall_01:0 "Lucifer's Folly"
+ building_cm_ruins_hellgate_hall_01_desc:0 "Old, broken ruins are all that remains of Hellgate Hall, once the mightiest of the castles that called the deep dunes of Dorne home, Hellgate Hall and House Dryland were laid low in the Dornish Unification Wars under Nymeria and House Martell. Today the ruins stand as a testament to those who defy the Sun and Spear as the last King of the Brimstone did."
+
+ building_cm_ruins_hellgate_hall_02:0 "A City Restored"
+ building_cm_ruins_hellgate_hall_02_desc:0 "Too long has the ancient seat of Brimstone stood silent.\n\nThough the peaks above still speak to the horrors visited to these lands by the Martells long ago, the long journey of restoring this once magnificient achievement of manking has begun."
+
+ building_cm_ruins_hellgate_hall_03:0 "Grandeur and Grace"
+ building_cm_ruins_hellgate_hall_03_desc:0 "Though slow moving, Hellgate Hall mountain is being reclaimed.\n\nTowering over the city below, the upper slopes of Hellgate Hall now boast pleasure palaces, Temples, and other high society must haves.\n\nThough built in the footprints of the ruins already carved into the mountain, these new designs are modeled after the Rhoynish architecture of Sunspear."
+
+ building_cm_ruins_hellgate_hall_04:0 "The Golden Tower"
+ building_cm_ruins_hellgate_hall_04_desc:0 "Though terribly expensive, you have completed restoring the peak of Hellgate Hall.\n\nYour new Keep rivals any in the land and Hellgate Hall once more stands strong high above all the lands of Dorne."
 
  building_type_bloodstone_special_01:0 "Bloodstone Keep"
  building_type_bloodstone_special_01_desc:0 "Bloodstone Keep"

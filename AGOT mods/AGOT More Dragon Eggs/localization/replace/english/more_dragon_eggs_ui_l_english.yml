@@ -1,0 +1,8 @@
+﻿l_english:
+ egg_button_manager_text:0 "Toggle Egg Button"
+ dragonpit_button_manager_text:0 "Toggle Dragonpit Button"
+ dragon_button_manager_text:0 "Toggle Dragon Button"
+
+ NO_DRAGONS_TOOLTIP:0 "@warning_icon! #X There are no living dragons!#"
+ NO_EGG_TOOLTIP:0 "@warning_icon! #X There are no eggs known in the world!#"
+ NO_DRAGONPITS_TOOLTIP:0 "@warning_icon! #X You have no access to any active dragonpits!#"

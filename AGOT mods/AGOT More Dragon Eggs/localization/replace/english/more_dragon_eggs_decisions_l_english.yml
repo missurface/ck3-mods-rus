@@ -94,5 +94,9 @@
  hide_dragon_portrait_decision_desc:0 "Hides your dragon's portrait in the bottom left corner of the screen. (Note: Portraits won't appear until the dragon is at least size 3, if you're not seeing them this may be why.)"
  hide_dragon_portrait_decision_confirm:0 "Hide Portrait"
 
+ manage_buttons_decision:0 "Manage Buttons"
+ manage_buttons_decision_desc:0 "Open the Menu for Mananging Button Visibiltiy on the HUD"
+ manage_buttons_decision_tooltip:0 "Open the Menu for Mananging Button Visibiltiy"
+ manage_buttons_decision_confirm:0 "Open Menu"
 
  #Domiciles

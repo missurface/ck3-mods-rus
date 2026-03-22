@@ -45,7 +45,7 @@
 
  more_dragon_eggs_events.0012.a:0 ""
 
- more_dragon_eggs_events.0014.t:0 "All Living [dragons_plural|E]"
+ more_dragon_eggs_events.0014.t:0 "All Living Dragons"
  more_dragon_eggs_events.0014.desc:0 ""
  more_dragon_eggs_events.0014.a:0 "View your [dragons_plural|E]"
  more_dragon_eggs_events.0014.b:0 "View other [dragons_plural|E]"
@@ -227,5 +227,9 @@
 
  agot_ninepenny.1014.c:0 "The night is alive with the music of dragons! This child is the the 'Dragonborn'!"
  agot_ninepenny.1014.d:0 "Despite the tragedy, there is hope with this child, the 'Dragonborn'."
+
+ mde_events.0001.t:0 "Manage Buttons Menu"
+ mde_events.0001.a:0 "Dismiss"
+ mde_events.0001.desc:0 ""
 
  

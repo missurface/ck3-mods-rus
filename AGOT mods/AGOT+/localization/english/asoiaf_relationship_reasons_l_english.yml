@@ -1,4 +1,6 @@
 ﻿l_english:
+ asoiaf_dismissed_from_kingsguard_desc:0 "[CHARACTER.GetFirstName|U] resents [TARGET_CHARACTER.GetTitledFirstName] for dismissing [CHARACTER.GetHerHim] from the [kingsguard|E], a highly taboo action which brought great shame."
+
  asoiaf_alicent_rhaenyra_grudge_2_desc:0 "[CHARACTER.GetFirstName|U] despises [TARGET_CHARACTER.GetFirstName] after [TARGET_CHARACTER.GetSheHe] slaughtered [CHARACTER.GetFirstNamePossessiveNoTooltip] children."
 
  asoiaf_gerold_daemon_grudge_desc:0 "[CHARACTER.GetFirstName|U] strongly suspects [TARGET_CHARACTER.GetFirstName] of being involved in the death of [CHARACTER.GetHerHis] cousin."

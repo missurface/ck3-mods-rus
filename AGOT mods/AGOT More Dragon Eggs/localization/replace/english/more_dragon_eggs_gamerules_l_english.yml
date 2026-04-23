@@ -304,7 +304,7 @@
  setting_ride_dragon_decision_cooldown_two_years:0 "2 Years"
  setting_ride_dragon_decision_cooldown_default:0 "3 Years"
  setting_ride_dragon_decision_cooldown_four_years:0 "4 Years"
- setting_ride_dragon_decision_cooldown_five_years:0 "5 Years"
+ setting_ride_dragon_decision_cooldown_five_years_hash_avoid:0 "5 Years"
 
  setting_ride_dragon_decision_cooldown_three_months_desc:0 "The length of time of the cooldown for the 'Ride Dragon' decision"
  setting_ride_dragon_decision_cooldown_six_months_desc:0 "The length of time of the cooldown for the 'Ride Dragon' decision"
@@ -313,7 +313,10 @@
  setting_ride_dragon_decision_cooldown_two_years_desc:0 "The length of time of the cooldown for the 'Ride Dragon' decision"
  setting_ride_dragon_decision_cooldown_default_desc:0 "The length of time of the cooldown for the 'Ride Dragon' decision"
  setting_ride_dragon_decision_cooldown_four_years_desc:0 "The length of time of the cooldown for the 'Ride Dragon' decision"
- setting_ride_dragon_decision_cooldown_five_years_desc:0 "The length of time of the cooldown for the 'Ride Dragon' decision"
+
+
+
+ setting_ride_dragon_decision_cooldown_five_years_hash_avoid_desc:0 "The length of time of the cooldown for the 'Ride Dragon' decision"
 
  rule_capture_dragon_time_limit:0 "@mde_icon!@dragon_icon!Capture Dragon Time Limit"
  setting_capture_dragon_time_limit_none:0 "No Time Limit"
@@ -364,14 +367,6 @@
  setting_maelys_will_desc:0 "Maelys will sacrifice his son in an attempt to hatch his dragon egg. It may or may not be successful"
  setting_maelys_might_desc:0 "Maelys might sacrifice his son in an attempt to hatch his dragon egg. It may or may not be successful"
  setting_maelys_wont_desc:0 "Maelys won't sacrifice his son in an attempt to hatch his dragon egg."
-
- rule_will_ebon_prince_form_sapphire_islands:0 "@mde_icon!Will The Ebon Prince Form The Sapphire Islands"
- setting_ebon_will:0 "The Sapphire Islands"
- setting_ebon_wont:0 "The Kingdom of Tarth"
-
- setting_ebon_will_desc:0 "Xhobar 'The Ebon Prince' Qhoqua will form The Sapphire Islands when prompted."
- setting_ebon_wont_desc:0 "Xhobar 'The Ebon Prince' Qhoqua will keep Tarth when prompted."
-
 
  rule_targaryen_exile_success_chance:0 "@mde_icon!Targaryen Exile Hatching Success Chance@drogon_dragon_egg_icon!@tan_dragon_egg_icon!@vhagar_dragon_egg_icon!"
  setting_targaryen_exile_guaranteed:0 "Guaranteed"

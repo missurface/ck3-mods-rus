@@ -54,3 +54,5 @@ rehilt_blackfyre.0002_desc:0 "I stand before the skilled blacksmith with an air 
 rehilt_blackfyre.0001_desc:0 "I present Blackfyre to the skilled blacksmith, a blade forged  and adorned with the ominous beauty of black steel and rubies. However, it is time for a new look.\n\nI instruct the blacksmith to plate the dark and fiery hilt, replacing it with a layer of fine golden metal. This time, the intricate design shall be an ode to the Seven, featuring a seven pointed star in place of the ruby on the pommel.\n\nThe once ominous and fearsome blade shall now carry the grace and symbolism of the Faith."
 
 rehilt_blackfyre_decision_tooltip:0 "Change the visual design of Blackfyre"
+
+eyereplace.0001.t:0 "New style"

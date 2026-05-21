@@ -94,7 +94,7 @@
  asoiaf_henry_hans_lover_desc:0 "[CHARACTER.GetFirstName] и [TARGET_CHARACTER.GetFirstName] постепенно полюбили друг друга, выдержав множество испытаний бок о бок."
  asoiaf_henry_hans_lover_desc_corresponding:0 "[TARGET_CHARACTER.GetFirstName] и [CHARACTER.GetFirstName] постепенно полюбили друг друга, выдержав множество испытаний бок о бок."
  
- asoiaf_istvan_robert_grudge_desc:0 "[CHARACTER.GetFirstName] винит [TARGET_CHARACTER.GetFirstName] в гибели родителей [CHARACTER.GetHerHis] во время осады Галлтауна."
+ asoiaf_istvan_robert_grudge_desc:0 "[CHARACTER.GetFirstName] винит [TARGET_CHARACTER.GetFirstName] в гибели своих родителей во время взятия Чаячьего города в 282 году от З.Э."
  
  asoiaf_istvan_erik_lover_desc:0 "[CHARACTER.GetFirstName] и [TARGET_CHARACTER.GetFirstName] сблизились благодаря общему опыту сиротства на войне."
  asoiaf_istvan_erik_lover_desc_corresponding:0 "[TARGET_CHARACTER.GetFirstName] и [CHARACTER.GetFirstName] сблизились благодаря общему опыту сиротства на войне."

@@ -1,0 +1,6 @@
+﻿l_english:
+cce_agot_ninepenny_intervention_cb:0 "Intervention War"
+cce_agot_dragon_subjugation_cb:0 "War of Conquest"
+CCE_AGOT_DRAGON_SUBJUGATION_CB_NAME:0 "Conquer [DEFENDER.GetShortUIName]"
+CCE_AGOT_DRAGON_SUBJUGATION_WAR_NAME:0 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetPrefix]-[DEFENDER.GetPrimaryTitle.GetAdjective] Conquest War"
+CCE_AGOT_DRAGON_SUBJUGATION_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"

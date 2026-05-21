@@ -1,41 +1,41 @@
 ﻿l_russian:
- ###Extra Valyrian Houses### 
- dynn_Bittersteel_motto: "Под золотом"
- dynn_Bloodraven_motto: "Поступки остаются неизменными"
- dynn_Brightflame_motto: "Бессмертный"
- dynn_VLtruefyre_motto: "Огонь истины"
- dynn_Truedrake_motto: "Лазурь в пламени"
- dynn_Redwyrm_motto: "Незапятнанная кровь"
- dynn_Fyreblood_motto: "Наша кровь - это Огонь"
- dynn_VLbelaerys_motto: "Восстань из пепла"
- dynn_Doomfyre_motto: "Холодная Правда и Холодная сталь"
- dynn_TargMereen_motto: "В конце концов, он сгорает"
- dynn_Goldfyre_motto: "Мы Ярко горим"
- dynn_VLvarezys_motto: "Пепел к пеплу, Пыль к пыли"
- dynn_VLrogare_motto: "Истина превыше всего"
- dynn_Drace_motto: "Мимолетный, но вечный"
- dynn_Seastar_motto: "Огонь и Сталь"
- dynn_Winterfyre_motto: "Медведь носит Меч"
- dynn_Saerys_motto: "Чистый, как огонь"
- dynn_Palehair_motto: "Мы несем свет"
- dynn_Hammer_motto: "Горящий в ночи"
- dynn_Plumm_motto: "Все должны заплатить"
- dynn_White_motto: "Закаленный Огнем"
- dynn_Farseed_motto: "Гори Горячо, Гори ярко"
- dynn_Aerion_motto: "Пламя поднимается"
- dynn_Darkstar_motto: "Люди называют меня Темной Звездой, и я из ночи"
- dynn_Sunfyre_motto: "Слава в огне"
- dynn_Brightfyre_motto: "Наследники дракона"
- dynn_Viserand_motto: "Звезды блуждают по ночам, а солнце правит днем"
- dynn_Qoherys_motto: "Кровь за Кровь"
- dynn_Pyraeris_motto: "Сквозь Огонь Мы Парим"
- dynn_Wildfyre_motto: "Кровь за Кровь"
- dynn_VLOtherys_motto: "С помощью Меча я Добиваюсь Правды"
- dynn_Dragonfyre_motto: "Драконий огонь смертоносен"
- dynn_Wildborn_motto: "Дикие и свободные"
- dynn_Atreides_motto: "Мы - Дом Атрейдесов. Нет такого зова, на который мы бы не ответили. Нет такой веры, которую мы бы предали"
- dynn_Severus_motto: "Семья, Вера, Страна"
- dynn_Lyria_motto: "Мы поднимаемся выше небес"
- dynn_Lokiria_motto: "Терпеть и преодолевать"
- dynn_Uruzarys_motto: "Кровь диких, сила зверя"
- dynn_VLMataeryon_motto: "Возрождение в огне"
+###Extra Valyrian Houses###
+ dynn_Bittersteel_motto:0 "Под золотом" #non-official
+ dynn_Bloodraven_motto:0 "Деяния неизменны" #non-official
+ dynn_Brightflame_motto:0 "Неугасимые" #non-official
+ dynn_VLtruefyre_motto:0 "Огонь истины" #non-official
+ dynn_Truedrake_motto:0 "Лазурь в пламени" #non-official
+ dynn_Redwyrm_motto:0 "Кровь незапятнанна" #non-official
+ dynn_Fyreblood_motto:0 "Наша кровь — огонь" #non-official
+ dynn_VLbelaerys_motto:0 "Восстанем из пепла" #non-official
+ dynn_Doomfyre_motto:0 "Холодные истины и холодная сталь" #non-official
+ dynn_TargMereen_motto:0 "В конце всё горит" #non-official 
+ dynn_Goldfyre_motto:0 "Мы горим ярко" #non-official
+ dynn_VLvarezys_motto:0 "Пепел к пеплу, прах к праху" #non-official
+ dynn_VLrogare_motto:0 "Истина превыше всего" #non-official
+ dynn_Drace_motto:0 "Мимолётны, но вечны" #non-official
+ dynn_Seastar_motto:0 "Огонь и сталь" #non-official
+ dynn_Winterfyre_motto:0 "Мы несём меч" #non-official
+ dynn_Saerys_motto:0 "Чисты, как огонь" #non-official
+ dynn_Palehair_motto:0 "Мы несём свет" #non-official
+ dynn_Hammer_motto:0 "Горим в ночи" #non-official
+ dynn_Plumm_motto:0 "Все должны заплатить" #non-official
+ dynn_White_motto:0 "Закалены огнём" #non-official
+ dynn_Farseed_motto:0 "Пылай жарко, пылай ярко" #non-official
+ dynn_Aerion_motto:0 "Пламя восстаёт" #non-official
+ dynn_Darkstar_motto:0 "Люди зовут меня Тёмной Звездой, и я от ночи" #non-official
+ dynn_Sunfyre_motto:0 "Слава в огне" #non-official
+ dynn_Brightfyre_motto:0 "Наследники дракона" #non-official
+ dynn_Viserand_motto:0 "Звёзды странствуют в ночи, а солнце скачет днём" #non-official
+ dynn_Qoherys_motto:0 "Кровь за кровь" #non-official
+ dynn_Pyraeris_motto:0 "Сквозь огонь мы взмываем" #non-official
+ dynn_Wildfyre_motto:0 "Кровь за кровь" #non-official
+ dynn_VLOtherys_motto:0 "С мечом я ищу правды"
+ dynn_Dragonfyre_motto:0 "Драконье пламя смертоносно"
+ dynn_Wildborn_motto:0 "Дикие и свободные"
+ dynn_Atreides_motto:0 "Мы — дом Атрейдес. Нет зова, на который мы не ответим. Нет веры, которую мы предадим"
+ dynn_Severus_motto:0 "Семья, верность, отечество"
+ dynn_Lyria_motto:0 "За небеса мы восходим"
+ dynn_Lokiria_motto:0 "Выстоять и преодолеть"
+ dynn_Uruzarys_motto:0 "Кровь дикости, сила зверя"
+ dynn_VLMataeryon_motto:0 "Возрождены в пламени"

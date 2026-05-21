@@ -72,7 +72,7 @@
  asoiaf_margaery_sansa_friend_desc_corresponding:0 "Common circumstance has brought [TARGET_CHARACTER.GetShortUIName|U] and [CHARACTER.GetShortUIName] together in friendship."
 
  asoiaf_cersei_margaery_rival_desc:0 "Vying for power at court, [CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUINamePossessive] relationship is mired by constant tension and hatred."
- asoiaf_cersei_margaery_rival_desc_corresponding:0 Vying for power at court, [TARGET_CHARACTER.GetShortUIName|U] and [CHARACTER.GetShortUINamePossessive] relationship is mired by constant tension and hatred."
+ asoiaf_cersei_margaery_rival_desc_corresponding:0 "Vying for power at court, [TARGET_CHARACTER.GetShortUIName|U] and [CHARACTER.GetShortUINamePossessive] relationship is mired by constant tension and hatred."
 
  asoiaf_areo_doran_friend_desc:0 "[CHARACTER.GetFirstName|U] devoted [CHARACTER.GetHerselfHimself] to [TARGET_CHARACTER.GetFirstNamePossessive] service after joining [TARGET_CHARACTER.GetHerHis] court, quickly becoming a close confidant and loyal sword."
  asoiaf_areo_doran_friend_desc_corresponding:0 "[TARGET_CHARACTER.GetFirstName|U] devoted [TARGET_CHARACTER.GetHerselfHimself] to [CHARACTER.GetFirstNamePossessive] service after joining [CHARACTER.GetHerHis] court, quickly becoming a close confidant and loyal sword."
@@ -94,7 +94,7 @@
  asoiaf_henry_hans_lover_desc:0 "[CHARACTER.GetFirstName] and [TARGET_CHARACTER.GetFirstName] slowly fell in love after enduring much hardship by each other's sides."
  asoiaf_henry_hans_lover_desc_corresponding:0 "[TARGET_CHARACTER.GetFirstName] and [CHARACTER.GetFirstName] slowly fell in love after enduring much hardship by each other's sides."
 
- asoiaf_istvan_robert_grudge_desc:0 "[CHARACTER.GetFirstName] blames [TARGET_CHARACTER.GetFirstName] for [CHARACTER.GetHerHis] parents' death during the Siege of Gulltown."
+ asoiaf_istvan_robert_grudge_desc:0 "[CHARACTER.GetFirstName] blames [TARGET_CHARACTER.GetFirstName] for [CHARACTER.GetHerHis] parents' death during the Taking of Gulltown in 282 AC."
 
  asoiaf_istvan_erik_lover_desc:0 "[CHARACTER.GetFirstName] and [TARGET_CHARACTER.GetFirstName] closely bonded over shared experiences being orphaned by war."
  asoiaf_istvan_erik_lover_desc_corresponding:0 "[TARGET_CHARACTER.GetFirstName] and [CHARACTER.GetFirstName] closely bonded over shared experiences being orphaned by war."

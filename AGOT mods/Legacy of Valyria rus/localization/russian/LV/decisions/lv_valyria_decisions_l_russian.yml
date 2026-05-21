@@ -1,34 +1,34 @@
 ﻿l_russian:
-   # Decision group 
- decision_group_type_valyria: "Решения Валирии"
- 
- lv_restore_valyrian_freehold_decision: "Восстановить Валирийский Фригольд"
- lv_restore_valyrian_freehold_decision_desc: "В своём расцвете Валирийский Фригольд стоял непревзойдённым, будучи величайшей и господствующей цивилизацией своего времени, более всего известной своей способностью подчинять бесчисленных драконов во имя своих владык в годы войны. Настолько великой была эта военная и культурная мощь, что лишь катаклизм, известный как Рок Валирии, смог положить конец его пятитысячелетнему владычеству над Эссосом. Всё, что осталось от этой великой цивилизации, — дымящиеся шпили великих драконьих владык и мрачные, покрытые пеплом земли, частично пожранные Дымным морем.\n\nЕсли сердцевина Валирии вместе со значительной частью её прежних владений будет возвращена, никто не сможет оспорить мои права и власть как истинного и законного правителя Валирийского Фригольда."
- lv_restore_valyrian_freehold_decision_tooltip: "[GetTitleByKey('h_valyrian_freehold').GetName] будет восстановлён."
- lv_restore_valyrian_freehold_decision_confirm: "Наш час настал"
- lv_restore_valyrian_freehold_decision_effect_tooltip: "[GetTitleByKey('h_valyrian_freehold').GetName] будет восстановлён и получит [Concept('de_jure', 'де-юре права')|E] на все удерживаемые сейчас [empires|E] в Эссосе."
+  # Decision group
+  decision_group_type_valyria:0 "Валирийские решения"
 
- lv_restore_valyrian_freehold_valyria_requirement_tooltip: "Вы должны [Concept('completely_control', 'полностью контролировать')|E] Валирийский полуостров."
- lv_restore_valyrian_freehold_former_colonies_requirement_tooltip: "Вы должны [Concept('completely_control', 'полностью контролировать')|E] как минимум три владения уровня [Concept('empire', 'империи')|E], которые ранее были колониями Валирийского Фригольда."
-  
- decision_study_dragonlore.t: "Изучить Драконьи Легенды"
- decision_study_dragonlore_desc: "Прочитайте старинный том о драконьих легендах, который был найден в Древней Валирии."
- decision_study_dragonlore_tooltip: "Вы будете изучать драконьи мифы."
- decision_study_dragonlore_confirm: "Время изучить драконов"
- has_dragonlore_book: "Имеет книгу о драконьих легендах"
- has_not_read_dragonlore_book: "Не читал книгу о драконьих легендах"
-  
- unite_valyria_empire_decision: "Объединить Королевство"
- unite_valyria_empire_decision_desc: "Восстановите сердце некогда могущественного Вальрийского Свободного Царства."
- unite_valyria_empire_decision_effect_tooltip: "Объедините раздробленные земли Валирии, а также все другие земли, которые вы завоевали."
+  lv_restore_valyrian_freehold_decision:0 "Восстановить Валирийский Фригольд"
+  lv_restore_valyrian_freehold_decision_desc:0 "На вершине своего могущества Валирийский Фригольд был непревзойдённой, величайшей и господствующей цивилизацией своего времени, более всего известной способностью повелевать бесчисленными драконами во время войны. Его военная и культурная мощь была столь велика, что лишь катаклизм Рока смог положить конец его пятитысячелетнему владычеству над Эссосом. Всё, что осталось от этой великой цивилизации, — дымящиеся шпили великих драконьих лордов и призрачные, покрытые пеплом земли, частично поглощённые Дымным морем.\n\nЕсли сердце Валирии удастся вернуть вместе со значительной частью её бывших владений, никто не сможет оспорить мои притязания и мою власть как истинного и законного правителя Валирийского Фригольда."
+  lv_restore_valyrian_freehold_decision_tooltip:0 "[GetTitleByKey('h_valyrian_freehold').GetName] будет восстановлен."
+  lv_restore_valyrian_freehold_decision_confirm:0 "Наше время настало"
+  lv_restore_valyrian_freehold_decision_effect_tooltip:0 "[GetTitleByKey('h_valyrian_freehold').GetName] будет восстановлен и получит [Concept('de_jure', 'де-юре права')|E] на все удерживаемые сейчас [Concept('empire', 'империи')|E] в Эссосе."
 
- lv_find_the_dragonblood_decision: "Найти династии драконьей крови"
- lv_find_the_dragonblood_decision_desc: "Созови придворных и прикажи им составить список всех живущих в мире семей с Кровью Дракона."
- lv_find_the_dragonblood_decision_tooltip: "Найдите мне Кровь Дракона."
- lv_find_the_dragonblood_decision_confirm: "Найдите мне Кровь Дракона."
- lv_find_the_dragonblood_decision_effect: "Будет представлен список всех возможных семей драконьей крови."
- lv_find_the_dragonblood_decision_effect_tooltip: "Будет представлен список всех возможных семей драконьей крови."
+  lv_restore_valyrian_freehold_valyria_requirement_tooltip:0 "Вы должны [Concept('completely_control', 'полностью контролировать')|E] Валирийский полуостров."
+  lv_restore_valyrian_freehold_former_colonies_requirement_tooltip:0 "Вы должны [Concept('completely_control', 'полностью контролировать')|E] не менее трёх территорий [Concept('empire', 'имперского')|E] уровня, бывших колониями Валирийского Фригольда."
 
- choose_lv_find_the_dragonblood_name: "Список домов Крови Древней Валирии"
- choose_lv_find_the_dragonriders_name: "Список домов — всадников драконов"
- choose_lv_find_the_current_dragonriders_name: "Список нынешних всадников драконов"
+  decision_study_dragonlore.t:0 "Изучить драконоведение"
+  decision_study_dragonlore_desc:0 "Прочитать старый том о драконах, найденный в [Concept('old_valyria', 'Старой Валирии')|E]"
+  decision_study_dragonlore_tooltip:0 "Вы изучите драконоведение"
+  decision_study_dragonlore_confirm:0 "Пора изучать драконов"
+  has_dragonlore_book:0 "Есть книга о драконоведении"
+  has_not_read_dragonlore_book:0 "Книга о драконоведении не прочитана"
+
+  unite_valyria_empire_decision:0 "Объединить державу"
+  unite_valyria_empire_decision_desc:0 "Восстановить сердце некогда могущественного [Concept('valyrian_freehold', 'Валирийского Фригольда')|E]."
+  unite_valyria_empire_decision_effect_tooltip:0 "Объединить раздробленные земли [Concept('valyria', 'Валирии')|E], а также любые другие земли, которые вы завоевали."
+
+  lv_find_the_dragonblood_decision:0 "Найти династии драконьей крови"
+  lv_find_the_dragonblood_decision_desc:0 "Призвать ваших придворных, чтобы они принесли список всех ныне живущих в мире семей с кровью дракона."
+  lv_find_the_dragonblood_decision_tooltip:0 "Найдите мне кровь дракона."
+  lv_find_the_dragonblood_decision_confirm:0 "Найдите мне кровь дракона."
+  lv_find_the_dragonblood_decision_effect:0 "Будет принесён список всех возможных семей драконьей крови."
+  lv_find_the_dragonblood_decision_effect_tooltip:0 "Будет принесён список всех возможных семей драконьей крови."
+
+  choose_lv_find_the_dragonblood_name:0 "Показать дома крови Старой Валирии"
+  choose_lv_find_the_dragonriders_name:0 "Показать дома драконьих всадников"
+  choose_lv_find_the_current_dragonriders_name:0 "Показать нынешних драконьих всадников"

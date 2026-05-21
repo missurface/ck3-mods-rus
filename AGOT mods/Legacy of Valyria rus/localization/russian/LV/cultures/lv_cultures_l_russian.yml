@@ -1,14 +1,14 @@
 ﻿l_russian:
- # Valyria 
- orosi: "Ороси"
- orosi_collective_noun: "Ороси"
- orosi_prefix: "Ороси"
+  # Valyria
+  orosi:0 "Ороси"
+  orosi_collective_noun:0 "Оросийск"
+  orosi_prefix:0 "Оросо"
+
+  # Asshai
+  asshaii_history_loc:0 "Сформирована группой древних неизвестных чародеев, возможно [CULTURE.GetName], в [DATE.GetYear] году после Вторжения"
+  asshaii_clothing_gfx:0 "Асшайские одеяния"
   
- # Asshai 
- asshaii_history_loc: "Образована группой древних неизвестных [GetTrait('zz_magister').GetName( GetNullCharacter )], возможно, [CULTURE.GetName] в [DATE.GetYear] A.I"
- language_asshaii_name: "Асшайский"
+  shadowman_history_loc:0 "Отделилась от [CULTURE.GetName] в [DATE.GetYear] году после Вторжения"
   
- shadowmen_history_loc: "Отделились от [CULTURE.GetName] в [DATE.GetYear] A.I"
-  
- # Special/Mythical Cultures 
- others_history_loc: "Созданный в результате магического изменения Первого Человека Детьми Леса."
+  # Special/Mythical Cultures
+  others_history_loc:0 "Сформирована магическим изменением Первого человека Детьми Леса."

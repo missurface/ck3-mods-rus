@@ -1,9 +1,4 @@
 ﻿l_russian:
- trait_knight_desc:0 "Этого персонажа посвятили в рыцари: он поклялся быть отважным и справедливым и защищать невинных, как бы опасно это ни было."
- trait_knight_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] [Select_CString(ROOT.GetCharacter.IsFemale, 'была посвящена', 'был посвящён')] в рыцари: [Select_CString(ROOT.GetCharacter.IsFemale, 'поклялась', 'поклялся')] быть [Select_CString(ROOT.GetCharacter.IsFemale, 'отважной и справедливой', 'отважным и справедливым')] и защищать невинных, как бы опасно это ни было."
- trait_knight_unique_desc:0 "$trait_knight_character_desc$"
- 
- trait_honorable:0 "Честность"
- 
- trait_ruthless_desc:0 "Будь это во благо или во зло, этот персонаж пойдёт на всё, чтобы добиться своих целей."
- trait_ruthless_character_desc:0 "Будь это во благо или во зло, [ROOT.GetCharacter.GetFirstNameNoTooltip] пойдёт на всё, чтобы добиться своих целей."
+ trait_knight_desc:0 "Этот персонаж был посвящён в рыцари, дав клятву проявлять отвагу, поступать справедливо и защищать невинных, невзирая на опасность."
+ trait_knight_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] [Select_CString(ROOT.GetCharacter.IsFemale, 'была посвящена', 'был посвящён' )] в рыцари, дав клятву проявлять отвагу, поступать справедливо и защищать невинных, невзирая на опасность."
+ trait_knight_unique_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] [Select_CString(ROOT.GetCharacter.IsFemale, 'была посвящена', 'был посвящён' )] в рыцари, дав клятву проявлять отвагу, поступать справедливо и защищать невинных, невзирая на опасность."

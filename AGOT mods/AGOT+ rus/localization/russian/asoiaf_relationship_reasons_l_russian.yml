@@ -1,4 +1,6 @@
 ﻿l_russian:
+ asoiaf_dismissed_from_kingsguard_desc:0 "[CHARACTER.GetFirstName|U] [Select_CString(CHARACTER.IsFemale, 'затаила', 'затаил' )] обиду на [TARGET_CHARACTER.GetTitledFirstName] за то, что [TARGET_CHARACTER.GetSheHe] [Select_CString(TARGET_CHARACTER.IsFemale, 'исключила', 'исключил' )] [CHARACTER.GetHerHim] из [Concept('kingsguard', 'Королевской гвардии')|E], совершив крайне запретный поступок, принёсший великий позор."
+
  asoiaf_alicent_rhaenyra_grudge_2_desc:0 "[CHARACTER.GetFirstName|U] ненавидит [TARGET_CHARACTER.GetFirstName] после резни детей [CHARACTER.GetFirstNamePossessiveNoTooltip], устроенной [TARGET_CHARACTER.GetFirstName]."
  
  asoiaf_gerold_daemon_grudge_desc:0 "[CHARACTER.GetFirstName|U] твёрдо подозревает [TARGET_CHARACTER.GetFirstName] в причастности к смерти [CHARACTER.GetHerHis] кузена."

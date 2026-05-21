@@ -1,0 +1,46 @@
+﻿l_russian:
+
+ decision_group_type_zz_valyria_colonisation:0 "Решения Legacy of Valyria"
+
+ agot_restore_ilvonys_dragonkeepers:0 "Назначить драконьих стражей Гейлитокса"
+ agot_restore_ilvonys_dragonkeepers_desc:0 "Вы выяснили, что условия на горе Гейлитокс подходят для драконьей ямы, и хотите основать там орден драконьих стражей."
+ agot_restore_ilvonys_dragonkeepers_effect_tooltip:0 "Новый [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и орден драконьих стражей будут учреждены в [GetTitleByKey('c_ilvonys').GetNameNoTier]."
+
+
+ agot_restore_dragonfields_dragonkeepers:0 "Назначить драконьих стражей Рейзалхара"
+ agot_restore_dragonfields_dragonkeepers_desc:0 "Вы выяснили, что условия на горе Рейзалхар подходят для драконьей ямы, и хотите основать там орден драконьих стражей."
+ agot_restore_dragonfields_dragonkeepers_effect_tooltip:0 "Новый [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и орден драконьих стражей будут учреждены в [GetTitleByKey('c_dragonfields').GetNameNoTier]."
+
+
+ agot_restore_valyria_dragonkeepers:0 "Назначить драконьих стражей Тартараса"
+ agot_restore_valyria_dragonkeepers_desc:0 "Вы выяснили, что условия на горе Тартарас подходят для драконьей ямы, и хотите основать там орден драконьих стражей."
+ agot_restore_valyria_dragonkeepers_effect_tooltip:0 "Новый [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и орден драконьих стражей будут учреждены в [GetTitleByKey('c_valyria').GetNameNoTier]."
+
+ agot_restore_kastaryia_dragonkeepers:0 "Назначить драконьих стражей Эпейкроса"
+ agot_restore_kastaryia_dragonkeepers_desc:0 "Вы выяснили, что условия на горе Эпейкрос подходят для драконьей ямы, и хотите основать там орден драконьих стражей."
+ agot_restore_kastaryia_dragonkeepers_effect_tooltip:0 "Новый [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и орден драконьих стражей будут учреждены в [GetTitleByKey('c_kastaryia').GetNameNoTier]."
+
+
+ agot_restore_jarqanor_dragonkeepers:0 "Назначить драконьих стражей Йонтариоса"
+ agot_restore_jarqanor_dragonkeepers_desc:0 "Вы выяснили, что условия на горе Йонтариос подходят для драконьей ямы, и хотите основать там орден драконьих стражей."
+ agot_restore_jarqanor_dragonkeepers_effect_tooltip:0 "Новый [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и орден драконьих стражей будут учреждены в [GetTitleByKey('c_jarqanor').GetNameNoTier]."
+
+ agot_restore_yovesh_dragonkeepers:0 "Назначить драконьих стражей Йовеша"
+ agot_restore_yovesh_dragonkeepers_desc:0 "Вы выяснили, что условия на горе Йовеш подходят для драконьей ямы, и хотите основать там орден драконьих стражей."
+ agot_restore_yovesh_dragonkeepers_effect_tooltip:0 "Новый [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и орден драконьих стражей будут учреждены в [GetTitleByKey('c_yovesh').GetNameNoTier]."
+
+ agot_restore_zanpur_dragonkeepers:0 "Назначить драконьих стражей Занпура"
+ agot_restore_zanpur_dragonkeepers_desc:0 "Вы выяснили, что условия на горе Занпур подходят для драконьей ямы, и хотите основать там орден драконьих стражей."
+ agot_restore_zanpur_dragonkeepers_effect_tooltip:0 "Новый [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и орден драконьих стражей будут учреждены в [GetTitleByKey('c_zanpur').GetNameNoTier]."
+
+ agot_restore_gogossos_dragonkeepers:0 "Назначить драконьих стражей Драконьей башни"
+ agot_restore_gogossos_dragonkeepers_desc:0 "Вы выяснили, что Драконья башня подходит для драконьей ямы, и хотите основать там орден драконьих стражей."
+ agot_restore_gogossos_dragonkeepers_effect_tooltip:0 "Новый [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и орден драконьих стражей будут учреждены в [GetTitleByKey('c_gogossos').GetNameNoTier]."
+
+ agot_restore_oreos_dragonkeepers:0 "Назначить драконьих стражей Мартивии"
+ agot_restore_oreos_dragonkeepers_desc:0 "Вы выяснили, что Мартивия подходит для драконьей ямы, и хотите основать там орден драконьих стражей."
+ agot_restore_oreos_dragonkeepers_effect_tooltip:0 "Новый [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и орден драконьих стражей будут учреждены в [GetTitleByKey('c_oreos').GetNameNoTier]."
+
+ agot_restore_ruklonos_dragonkeepers:0 "Назначить драконьих стражей Руклоноса"
+ agot_restore_ruklonos_dragonkeepers_desc:0 "Вы выяснили, что условия на горе Руклонос подходят для драконьей ямы, и хотите основать там орден драконьих стражей."
+ agot_restore_ruklonos_dragonkeepers_effect_tooltip:0 "Новый [GetCourtPositionType('head_dragonkeeper_court_position').GetName()] и орден драконьих стражей будут учреждены в [GetTitleByKey('c_ruklonos').GetNameNoTier]."

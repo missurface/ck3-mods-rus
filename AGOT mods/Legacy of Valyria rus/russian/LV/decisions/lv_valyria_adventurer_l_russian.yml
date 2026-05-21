@@ -1,0 +1,20 @@
+﻿l_russian:
+colonize_county_or_duchy_decision: "Основать новый дом"
+colonize_county_or_duchy_decision_desc: "Пришло время пустить корни. Мы больше не будем простыми скитальцами — мы вырубим себе дом, подчинив дикую землю перед нами.\n\nКогда наши военные отряды готовы, а поселенцы полны решимости, мы заявим права на эти земли — сталью, золотом или одной лишь несгибаемой волей. Когда дело будет сделано, мы перестанем быть простыми искателями приключений. Мы станем лордами."
+colonize_county_or_duchy_decision_tooltip: "Заселить местный регион, став земельным [Concept('ruler', 'правителем')|E]"
+colonize_county_or_duchy_decision_confirm: "Пришло время осесть"
+
+need_settler_camp_3_or_higher: "Требуется «Аванпост первопроходцев» или его аналог более высокого уровня"
+need_settler_camp_6: "Требуется «Расширенный колониальный сборный пункт»"
+
+colonize_one_county: "Колонизировать [county|E]"
+colonize_one_county_desc: ""
+colonize_one_county_tooltip: "$colonize_one_county$"
+
+colonize_a_duchy: "Колонизировать всё [Concept('duchy', 'герцогство')|E]"
+colonize_a_duchy_desc: ""
+colonize_a_duchy_tooltip: "$colonize_a_duchy$"
+
+gain_trait: "Вы получаете [trait|E] «[GetTrait('adventurer').GetName( GetNullCharacter )]»"
+courtier_gain_trait: "Каждый придворный получает [trait|E] «[GetTrait('adventurer_follower').GetName( GetNullCharacter )]»"
+settle_location: "Вы колонизируете выбранное [county|E] или [duchy|E]"

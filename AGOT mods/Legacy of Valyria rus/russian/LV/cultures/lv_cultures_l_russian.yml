@@ -1,0 +1,14 @@
+﻿l_russian:
+  # Valyria
+  orosi:0 "Ороси"
+  orosi_collective_noun:0 "Оросийск"
+  orosi_prefix:0 "Оросо"
+
+  # Asshai
+  asshaii_history_loc:0 "Сформирована группой древних неизвестных чародеев, возможно [CULTURE.GetName], в [DATE.GetYear] году после Вторжения"
+  asshaii_clothing_gfx:0 "Асшайские одеяния"
+  
+  shadowman_history_loc:0 "Отделилась от [CULTURE.GetName] в [DATE.GetYear] году после Вторжения"
+  
+  # Special/Mythical Cultures
+  others_history_loc:0 "Сформирована магическим изменением Первого человека Детьми Леса."

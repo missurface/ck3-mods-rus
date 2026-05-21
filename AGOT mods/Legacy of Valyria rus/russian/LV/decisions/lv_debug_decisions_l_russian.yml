@@ -1,0 +1,5 @@
+﻿l_russian:
+  lv_debug_lobotomize_dummy_decision:0 "Отладка LoV — лоботомировать дикую природу"
+  lv_debug_lobotomize_dummy_decision_desc:0 "Иногда дикая природа обретает разум и свободную волю. Это плохо. Лоботомируйте её."
+  lv_debug_lobotomize_dummy_decision_tooltip:0 "Лоботомировать дикую природу."
+  lv_debug_lobotomize_dummy_decision_confirm:0 "Сделать природу безмозглой"

@@ -1,0 +1,44 @@
+﻿l_russian:
+  # Northern Valyria
+  lv_tradition_north_valyrian_1_name:0 "Отголоски [Concept('valyrian_freehold_short', 'Валирийского фригольда')|E]"
+  lv_tradition_north_valyrian_1_desc:0 "Рок забрал Валирию в огне и руинах, но её отголосок всё ещё живёт в этих городах — тускнеющий, искажённый и полузабытый. Здесь древним традициям следуют, уже не понимая их смысла, а легенды о славном прошлом преследуют тени. Эта культура — наследие утраченной державы, полотно, сотканное из остатков силы, некогда касавшейся небес, а теперь лежащей в прахе, не способной ни полностью исчезнуть, ни вернуться."
+
+  lv_tradition_north_valyrian_2_name:0 "Возрождение [Concept('valyrian_freehold_short', 'Валирийского фригольда')|E]"
+  lv_tradition_north_valyrian_2_desc:0 "[valyrian_freehold_short|E] никогда не был по-настоящему утрачен — лишь дремал, ожидая, пока остынет пепел и угли вновь вспыхнут. Теперь, после веков сна, кровь старой Валирии пробуждается, и огонь, некогда высекший её наследие в камне и стали, поднимается вновь. Это возрождение — не смутное эхо, а возвращение грубой силы и честолюбия, ведомых древней мудростью и закалённых ошибками расколотого прошлого. Традиции, которым прежде слепо следовали, теперь обновлены с ясной целью, а легенды оживают — уже не как мифы, а как чертежи для восстановленной державы."
+
+  lv_tradition_mantaryan_name:0 "Мантарийские чудовища"
+  lv_tradition_mantaryan_desc:0 "Мантарийцы происходят из загадочного города Мантариса на разрушенном Валирийском полуострове и известны своей замкнутостью и странными обычаями. По слухам, они отличаются заметными физическими уродствами и практикуют тёмную магию — вероятно, это остатки влияния Валирии. Мантарийцы нелюдимы и внушают страх, а их город редко посещают из-за его опасной славы и зловещих существ, которые, как говорят, рыщут поблизости."
+  culture_parameter_mantaryan_mutation_trait_bonuses:0 "Линейка признаков мантарийской мутации, включающая [GetTrait('doomsurvivors').GetName( GetNullCharacter )], [GetTrait('scaly').GetName( GetNullCharacter )], [GetTrait('scarred').GetName( GetNullCharacter )], [GetTrait('burned').GetName( GetNullCharacter )], [GetTrait('hunchbacked').GetName( GetNullCharacter )], [GetTrait('clubfooted').GetName( GetNullCharacter )], [GetTrait('stuttering').GetName( GetNullCharacter )], [GetTrait('lisping').GetName( GetNullCharacter )], [GetTrait('wheezing').GetName( GetNullCharacter )], [GetTrait('spindly').GetName( GetNullCharacter )], [GetTrait('beauty_bad_1').GetName( GetNullCharacter )], [GetTrait('beauty_bad_2').GetName( GetNullCharacter )] и [GetTrait('beauty_bad_3').GetName( GetNullCharacter )], получает дополнительные бонусы"
+  culture_parameter_mantaryan_mutation_trait_more_common:0 "Линейка признаков мантарийской мутации, включающая [GetTrait('doomsurvivors').GetName( GetNullCharacter )], [GetTrait('scaly').GetName( GetNullCharacter )], [GetTrait('scarred').GetName( GetNullCharacter )], [GetTrait('burned').GetName( GetNullCharacter )], [GetTrait('hunchbacked').GetName( GetNullCharacter )], [GetTrait('clubfooted').GetName( GetNullCharacter )], [GetTrait('stuttering').GetName( GetNullCharacter )], [GetTrait('lisping').GetName( GetNullCharacter )], [GetTrait('wheezing').GetName( GetNullCharacter )], [GetTrait('spindly').GetName( GetNullCharacter )], [GetTrait('beauty_bad_1').GetName( GetNullCharacter )], [GetTrait('beauty_bad_2').GetName( GetNullCharacter )] и [GetTrait('beauty_bad_3').GetName( GetNullCharacter )], встречается чаще"
+  culture_parameter_unlock_maa_mantaryan_monsters:0 "Доступны [men_at_arms|El] — [GetMaA('mantaryan_monsters').GetName]"
+
+  lv_tradition_tolosi_name:0 "Мучительные соблазны"
+  lv_tradition_tolosi_desc:0 "Толосийцы — закалённый и грозный народ, печально известный по всему Эссосу жестоким обращением с пленниками и неумолимым преследованием людей в работорговле. Они смертоносно точно владеют свинцовыми пращами, предпочитая этот способ войны за его способность калечить и вселять ужас на расстоянии. Невозмутимые перед чужими страданиями, толосийцы считают бессердечие силой, формируя общество, где беспощадность стала такой же частью их самобытности, как и прославленное мастерство пращников."
+  culture_parameter_unlock_maa_tolosi_slingers:0 "Доступны [men_at_arms|El] — [GetMaA('tolosi_slingers').GetName]"
+
+  lv_tradition_elyrian_name:0 "Основополагающий путь"
+  lv_tradition_elyrian_desc:0 "Этот путь формирует элирийский народ, соединяя духовную мудрость с развитой бюрократией и процветающей торговой экономикой, включающей и спорную практику работорговли. Хотя их общество сосредоточено на торговле и власти, элирийцы также известны своим гостеприимством и гордятся элитными лучниками, чьё исключительное мастерство стрельбы считается знаком силы и точности."
+  culture_parameter_unlock_maa_elyrian_longbowmen:0 "Доступны [men_at_arms|El] — [GetMaA('elyrian_longbowmen').GetName]"
+
+  # Dothraki
+  culture_parameter_unlock_maa_dothraki_riders:0 "Доступны [men_at_arms|El] — [GetMaA('dothraki_riders').GetName]."
+  culture_parameter_physique_good_3_trait_more_common:0 "[traits|E] «[GetTrait('physique_good_3').GetName( GetNullCharacter )]», «[GetTrait('physique_good_2').GetName( GetNullCharacter )]» и «[GetTrait('physique_good_1').GetName( GetNullCharacter )]» встречаются чаще."
+  culture_parameter_lifestyle_voyager_trait_more_common:0 "[trait|E] «[GetTrait('lifestyle_voyager').GetName( GetNullCharacter )]» встречается чаще."
+  culture_parameter_lifestyle_wayfarer_trait_more_common:0 "[trait|E] «[GetTrait('lifestyle_wayfarer').GetName( GetNullCharacter )]» встречается чаще."
+  
+  # Gogossos
+  lv_tradition_blood_cultists_name:0 "Культисты крови"
+  lv_tradition_blood_cultists_desc:0 "Эта культура гордится своим увлечением магией крови и способностью управлять ею. Хотя после падения Валирии их силы сильно ослабли, они всё ещё остаются одним из последних народов на земле, способных творить нечто подобное мистическим искусствам, что даёт им огромное влияние — к явному неудовольствию всех остальных..."
+  culture_parameter_unlock_maa_berserkers:0 "Доступны [men_at_arms|El] — [GetMaA('gogossi_berserkers').GetName]"
+  culture_parameter_unlock_maa_blood_mutants:0 "Доступны [men_at_arms|El] — [GetMaA('blood_mutants').GetName]."
+  culture_parameter_sadistic_trait_more_common:0 "[trait|E] «[GetTrait('sadistic').GetName( GetNullCharacter )]» встречается чаще."
+
+  # Asshai
+  lv_tradition_sorcerers_name:0 "Чародеи"
+  lv_tradition_sorcerers_desc:0 "Представители этой культуры известны своим увлечением тайными искусствами, их изучением и практикой. Тёмные и мистические силы, известные как магия, делают их невероятно могущественными."
+  culture_parameter_witch_trait_more_common:0 "[trait|E] «[GetTrait('witch').GetName( GetNullCharacter )]» встречается чаще."
+  culture_parameter_unlock_maa_esoteric_grenadiers:0 "Доступны [men_at_arms|El] — [GetMaA('esoteric_grenadiers').GetName]."
+
+  lv_tradition_mountain_diviners_name:0 "Горные прорицатели"
+  lv_tradition_mountain_diviners_desc:0 "Эта культура постепенно утратила свои чародейские черты из-за переселения в горы и последующего отделения от основного общества чародеев, став горными прорицателями и лишившись почти всех сил и преимуществ, связанных с прежним наследием. Вместе с тем они обрели способность раскрывать тайны с помощью хитростей и испытаний и могут передавать или использовать сведения ради правого дела — либо за подходящую цену."
+  culture_parameter_unlock_maa_shadow_raiders:0 "Доступны [men_at_arms|El] — [GetMaA('shadow_raiders').GetName]."

@@ -1,0 +1,26 @@
+﻿l_russian:
+  #dynnp_zo:0 "zo "
+  #dynnp_mo:0 "zo "
+  dynn_Dynion:0 "Динион"
+
+  dynn_Temmi:0 "Темми"
+  dynn_Onqu:0 "Онку"
+  dynn_Sarnath:0 "Сарнат"
+  dynn_Roggo:0 "Рогго"
+  dynn_Jommo:0 "Джоммо"
+  dynn_Rowo:0 "Рово"
+  dynn_Remesso:0 "Ремессо"
+  dynn_Droghis:0 "Дрогис"
+
+  # Ghiscari Dynasties
+  dynn_Marlaq:0 "Марлак"
+  dynn_Sumbhaz:0 "Сумбхаз"
+
+  # Meereenese Dynasties
+  dynn_Taazraq:0 "Таазрак"
+
+  #ghiscari dynasties from name_lists
+
+  dynn_zo_Kraznak:0 "зо Кразнак"
+  dynn_zo_Buzra:0 "зо Бузра"
+  dynn_na_Zahik:0 "на Захик"

@@ -171,9 +171,7 @@
  DRAGON_PITTED_WITH_GUI:0 "$DRAGON_RELATION_IS_PITTED$ • [Character.Custom('DPGetDragonTypeGuiTooltip')]"
  DRAGON_WANDERING_WITH_GUI:0 "$DRAGON_RELATION_IS_WANDERING$ • [Character.Custom('DPGetDragonTypeGuiTooltip')]"
  DRAGON_CANT_GO_OUTSIDE:0 "Moving this dragon outside would cause you to lose possession of it!"
- SHOW_DRAGONPITS:1 "#T Show Dragonpits\n#!Shows active [dragonpits|E] and their corresponding menus."
- SHOW_DRAGONS:1 "#T Show Dragons\n#!Shows living [dragons_plural|E] and their corresponding menus."
- SHOW_EGGS:1 "#T Show Dragons' Eggs\n#!Shows exising [dragon|E] eggs and their corresponding menus."
+
  can_move_a_dragon_tooltip:0 "You are eligible to move a dragon."
  TRAVEL_POINT_OF_INTEREST_TT_more_dragon_eggs_poi_dragonlore:0 "Site of Draconic Significance"
 
@@ -228,8 +226,5 @@
  agot_ninepenny.1014.c:0 "The night is alive with the music of dragons! This child is the the 'Dragonborn'!"
  agot_ninepenny.1014.d:0 "Despite the tragedy, there is hope with this child, the 'Dragonborn'."
 
- mde_events.0001.t:0 "Manage Buttons Menu"
- mde_events.0001.a:0 "Dismiss"
- mde_events.0001.desc:0 ""
 
  

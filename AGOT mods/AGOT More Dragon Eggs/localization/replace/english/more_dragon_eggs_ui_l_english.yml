@@ -2,7 +2,36 @@
  egg_button_manager_text:0 "Toggle Egg Button"
  dragonpit_button_manager_text:0 "Toggle Dragonpit Button"
  dragon_button_manager_text:0 "Toggle Dragon Button"
+ kingsguard_button_manager_text:0 "Toggle Kingsguard Button"
+ valyrian_steel_button_manager_text:0 "Toggle Valyrian Steel Button"
+
+ mde_is_lord_commander:0 "Lord Commander of the [Character.Custom('KingsguardName')]"
+ mde_is_kingsguard:0 "[Character.Custom('KingsguardName')]"
 
  NO_DRAGONS_TOOLTIP:0 "@warning_icon! #X There are no living dragons!#"
  NO_EGG_TOOLTIP:0 "@warning_icon! #X There are no eggs known in the world!#"
  NO_DRAGONPITS_TOOLTIP:0 "@warning_icon! #X You have no access to any active dragonpits!#"
+ NO_KINGSGUARD_TOOLTIP:0 "@warning_icon! #X The Kingsguard does not exist!#"
+ NO_VALYRIAN_STEEL_TOOLTIP:0 "@warning_icon! #X There is no Valyrian Steel known in the world!#"
+
+ SHOW_DRAGONPITS:1 "#T Show Dragonpits\n#!Shows active [dragonpits|E] and their corresponding menus."
+ SHOW_DRAGONS:1 "#T Show Dragons\n#!Shows living [dragons_plural|E] and their corresponding menus."
+ SHOW_EGGS:1 "#T Show Dragons' Eggs\n#!Shows exising [dragon|E] eggs and their corresponding menus."
+ SHOW_KINGSGUARD:1 "#T Show Kingsguard\n#!Shows current kingsguard members and shows potential recruits to their liege."
+ SHOW_VALYRIAN_STEEL:1 "#T Show Valyrian Steel\n#!Shows existing Valyrian Steel blades and objects, and their respective wielders and owners."
+ 
+ INVITE_TO_KINGSGUARD_TT:0 "@icon_kingsguard!#clickable $invite_to_kingsguard_interaction$"
+
+ mde_menu_events.0001.t:0 "Manage Buttons Menu"
+ mde_menu_events.0001.a:0 "Dismiss"
+ mde_menu_events.0001.desc:0 ""
+
+ mde_menu_events.0002.t:0 "The [GetPlayer.Custom('mde_temp_kingsguard_gender_title_switch')]"
+ mde_menu_events.0002.desc:0 ""
+
+ mde_menu_events.0003.t:0 "Valyrian Steel"
+ mde_menu_events.0003.desc:0 ""
+
+ mde_menu_events.0004.t:0 "Manage Buttons Menu"
+ mde_menu_events.0004.a:0 "Dismiss"
+ mde_menu_events.0004.desc:0 ""

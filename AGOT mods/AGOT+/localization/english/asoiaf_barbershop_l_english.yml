@@ -10,6 +10,10 @@
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_asoiaf_crown_baratheon_tyrell:1 "@asoiaf_icon! Baratheon-Tyrell Crown"
  PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_crown_joffrey_I:1 "@asoiaf_icon! Crown of the Lion and Stag"
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_asoiaf_crown_joffrey_I:1 "@asoiaf_icon! Crown of the Lion and Stag"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_crown_of_winter:1 "@asoiaf_icon! Crown of Winter"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_crown_of_winter:1 "@asoiaf_icon! Crown of Winter"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_sansa_crown:1 "@asoiaf_icon! Sansa's Crown"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_sansa_crown:1 "@asoiaf_icon! Sansa's Crown"
  
  #HELMETS
  PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_gold_cloak_helm:1 "@asoiaf_icon! Gold Cloak Helm"
@@ -58,6 +62,8 @@
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_ironborn_helm_high_coa:1 "@asoiaf_icon! Dynastic Ironborn Helm #weak – High#!"
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_septa_wimple:1 "@asoiaf_icon! Septa Wimple"
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_silent_sister_hood:1 "@asoiaf_icon! Silent Sister Hood"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_executioner_cowl:1 "@asoiaf_icon! Executioner's Cowl"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_executioner_cowl:1 "@asoiaf_icon! Executioner's Cowl"
  
  #CHEST ARMOUR
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_gold_cloak_armour:1 "@asoiaf_icon! Gold Cloak Armour"
@@ -113,6 +119,8 @@
  PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_north_dress_1_catelyn_ceremonial:1 "@asoiaf_icon! Catelyn's Ceremonial Dress"
  PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_north_dress_1_sansa:1 "@asoiaf_icon! Sansa's Northern Dress"
  PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_north_dress_2:1 "@asoiaf_icon! Simple Northern Dress"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_lannister_armour_dynast:0 "@asoiaf_icon! Lannister Armour #weak – Ornate#!"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_lannister_armour_dynast:0 "@asoiaf_icon! Lannister Armour #weak – Ornate#!"
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_lannister_war_plate_2:1 "@asoiaf_icon! Lannister Officer Armour"
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_lannister_war_plate_2_sash:1 "@asoiaf_icon! Lannister Dynasty Head Armour"
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_asoiaf_lannister_war_plate_2_sash_ceremonial:1 "@asoiaf_icon! Lannister Ceremonial Armour"
@@ -189,6 +197,8 @@
  PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_blacksmith_apron:1 "@asoiaf_icon! Blacksmith's Apron"
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_huntsman_jerkin:1 "@asoiaf_icon! Huntsman's Jerkin & Equipment"
  PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_huntsman_jerkin:1 "@asoiaf_icon! Huntsman's Jerkin & Equipment"
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_executioner_jerkin:1 "@asoiaf_icon! Executioner's Jerkin & Sword"
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_asoiaf_executioner_jerkin:1 "@asoiaf_icon! Executioner's Jerkin & Sword"
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_knights_jerkin_high:1 "@asoiaf_icon! Knight's Jerkin #weak – High#!"
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_knights_jerkin_low:1 "@asoiaf_icon! Knight's Jerkin #weak – Low#!"
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_asoiaf_knights_jerkin_coa:1 "@asoiaf_icon! Dynastic Knight's Jerkin"
@@ -229,6 +239,8 @@
  PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_stark_legs:1 "@asoiaf_icon! Stark Legwear"
  PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_manderly_legs:1 "@asoiaf_icon! Manderly Legwear"
  PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_manderly_legs:1 "@asoiaf_icon! Manderly Legwear"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_lannister_legs_dynast:1 "@asoiaf_icon! Lannister Legwear #weak – Ornate#!"
+ PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_lannister_legs_dynast:1 "@asoiaf_icon! Lannister Legwear #weak – Ornate#!"
  PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_asoiaf_lannister_war_plate_2_legs:1 "@asoiaf_icon! Lannister Officer Boots"
  PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_hound_legs:1 "@asoiaf_icon! The Hound's Greaves"
  PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_hound_legs:1 "@asoiaf_icon! The Hound's Greaves"
@@ -252,6 +264,8 @@
  PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_blacksmith_legs:1 "@asoiaf_icon! Blacksmith's Boots"
  PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_huntsman_legs:1 "@asoiaf_icon! Huntsman's Hose"
  PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_huntsman_legs:1 "@asoiaf_icon! Huntsman's Hose"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_asoiaf_executioner_legs:1 "@asoiaf_icon! Executioner's Boots"
+ PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_executioner_legs:1 "@asoiaf_icon! Executioner's Boots"
  PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_leather_boots_1:1 "@asoiaf_icon! Short Leather Boots"
  PORTRAIT_MODIFIER_custom_legwear_female_legwear_asoiaf_shoes_1:1 "@asoiaf_icon! Black Shoes"
 

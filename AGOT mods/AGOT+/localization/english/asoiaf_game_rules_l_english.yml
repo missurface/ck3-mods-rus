@@ -1,4 +1,8 @@
 ﻿l_english:
+
+ #Categories
+ game_rule_category_asoiaf:0 "@asoiaf_icon! AGOT+"
+
  #Westerosi Culture Fix
  rule_asoiaf_westeros_culture_fix_rule:0 "@asoiaf_icon! Westerosi Culture Fix"
  setting_asoiaf_westeros_culture_fix_rule_off:0 "Default"

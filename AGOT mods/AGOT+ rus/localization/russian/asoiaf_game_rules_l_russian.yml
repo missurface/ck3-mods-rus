@@ -1,4 +1,8 @@
 ﻿l_russian:
+
+ #Categories
+ game_rule_category_asoiaf:0 "@asoiaf_icon! AGOT+"
+
  #Исправление культур Вестероса
  rule_asoiaf_westeros_culture_fix_rule:0 "@asoiaf_icon! Исправление культур Вестероса"
  setting_asoiaf_westeros_culture_fix_rule_off:0 "По умолчанию"

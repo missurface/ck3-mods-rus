@@ -10,7 +10,11 @@
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_asoiaf_crown_baratheon_tyrell:1 "@asoiaf_icon! Корона Баратеонов-Тиреллов"
  PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_asoiaf_crown_joffrey_I:1 "@asoiaf_icon! Корона Льва и Оленя"
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_asoiaf_crown_joffrey_I:1 "@asoiaf_icon! Корона Льва и Оленя"
- 
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_crown_of_winter:1 "@asoiaf_icon! Корона Зимы"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_crown_of_winter:1 "@asoiaf_icon! Корона Зимы"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_sansa_crown:1 "@asoiaf_icon! Корона Сансы"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_sansa_crown:1 "@asoiaf_icon! Корона Сансы"
+
  #HELMETS
  PORTRAIT_MODIFIER_custom_headgear_male_headgear_asoiaf_gold_cloak_helm:1 "@asoiaf_icon! Шлем золотых плащей"
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_asoiaf_gold_cloak_helm:1 "@asoiaf_icon! Шлем золотых плащей"

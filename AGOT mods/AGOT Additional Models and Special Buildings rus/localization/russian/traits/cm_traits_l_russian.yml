@@ -1,6 +1,0 @@
-﻿l_russian:
-  #Traits 
- trait_cm_abdicated: "Отрекшийся" #NT!
- trait_cm_abdicated_desc: "Этот персонаж добровольно отказался от своей власти, утратив право владеть титулами." #NT!
- trait_cm_abdicated_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] добровольно отказался от своей власти, утратив право владеть титулами." #NT!
-

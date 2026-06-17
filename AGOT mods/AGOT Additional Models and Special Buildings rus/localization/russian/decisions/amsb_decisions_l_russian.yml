@@ -1,0 +1,62 @@
+﻿l_russian:
+ decision_group_type_royal_court_change:0 "#D AM&SB#! Решения королевского двора"
+
+ #От пиратского строя к феодальному
+ amsb_pirate_to_feudal_king_decision:0 "Перейти от пиратского строя к феодальному"
+ amsb_pirate_to_feudal_king_decision_confirm:0 "Принять феодальный уклад"
+ amsb_pirate_to_feudal_king_decision_tooltip:0 "Выбрать одну из форм правления: «[GetGovernment( 'lp_feudal_government' ).GetName]» или «[GetGovernment( 'feudal_government' ).GetName]»"
+
+ #Смена королевского двора
+ ##Драконий чертог
+ high_valyrian_dragon_court_decision:0 "Превратить королевский двор в Драконий чертог"
+ high_valyrian_dragon_court_decision_desc:0 "В глубине библиотеки столицы ([ROOT.Char.GetCapitalLocation.GetName]) вам попадаются покрытые пылью чертежи королевского приёмного зала в высше-валирийском стиле. Теперь предстоит решить, потратить ли золото на строительство такого двора или вернуть планы на полку до лучших времён..."
+ high_valyrian_dragon_court_decision_confirm:0 "Начать строительство Драконьего чертога"
+ high_valyrian_dragon_court_decision_tooltip:0 "Изменить двор в столице ([ROOT.Char.GetCapitalLocation.GetName]), придав ему облик приёмного зала драконьих владык Древней Валирии"
+
+ high_valyrian_dragon_court_removal_decision:0 "Убрать Драконий чертог"
+ high_valyrian_dragon_court_removal_desc:0 "Вы хотите вернуть приёмному залу прежний великолепный облик"
+ high_valyrian_dragon_court_removal_decision_confirm:0 "Вернуть прежний королевский двор"
+ high_valyrian_dragon_court_removal_decision_tooltip:0 "Вернуть королевскому тронному залу первоначальный облик"
+
+ #Отречение
+ amsb_abdicate_throne:0 "Отречься от престола"
+ amsb_abdicate_throne_tooltip:0 "Пришла пора передать престол державы «[ROOT.Char.GetPrimaryTitle.GetNameNoTier]» наследнику"
+ amsb_abdicate_throne_desc:0 "Моё правление подходит к концу. Держава: [ROOT.Char.GetPrimaryTitle.GetNameNoTier]. Корона стала слишком тяжела для моей головы..."
+ amsb_abdicate_decision_effect_tooltip:0 "Вы передадите корону и всё, что она олицетворяет, своему наследнику игрока"
+ amsb_abdicate_throne_confirm:0 "Отказаться от короны"
+
+ amsb_step_down_from_power:0 "Уйти в отставку"
+ amsb_step_down_from_power_tooltip:0 "Пришла пора оставить пост правителя державы «[ROOT.Char.GetPrimaryTitle.GetNameNoTier]»"
+ amsb_step_down_from_power_desc:0 "Я [Select_CString(ROOT.Char.IsFemale, 'решила', 'решил')], что пришло время оставить государственную службу и отказаться от руководства державой «[ROOT.Char.GetPrimaryTitle.GetNameNoTier]»."
+ amsb_step_down_from_power_effect_tooltip:0 "Вы передадите должность следующей администрации"
+ amsb_step_down_from_power_confirm:0 "Уйти с должности"
+
+ #Преклонение колена
+ amsb_summon_realm_bend_knees:0 "Призвать вассалов преклонить колено"
+ amsb_summon_realm_bend_knees_tooltip:0 "Моим вассалам пора прибыть и засвидетельствовать почтение"
+ amsb_summon_realm_bend_knees_desc:0 "Я [Select_CString(ROOT.Char.IsFemale, 'решила', 'решил')] отправить воронов вассалам державы «[ROOT.Char.GetPrimaryTitle.GetNameNoTier]» и потребовать, чтобы они прибыли в столицу ([ROOT.Char.GetCapitalLocation.GetName]) и вновь присягнули дому [ROOT.Char.GetHouse.GetBaseName]. В случае отказа у меня будет достаточно оснований заключить их в темницу ради блага державы."
+ amsb_summon_realm_bend_knees_confirm:0 "Разослать воронов"
+
+ #Принятие чёрного
+ amsb_take_the_black:0 "Вступить в Ночной Дозор"
+ amsb_take_the_black_tooltip:0 "Я принимаю чёрное"
+ amsb_take_the_black_desc:0 "Пришло время принести обеты, стать [Select_CString(ROOT.Char.IsFemale, 'чёрной сестрой', 'чёрным братом')] и служить державе на Стене ([GetTitleByKey('k_the_wall').GetNameNoTier])"
+ amsb_take_the_black_confirm:0 "Принять чёрное"
+
+ #Королевская гвардия
+ decision_amsb_form_kingsguard:0 "Учредить Королевскую гвардию"
+ decision_amsb_form_kingsguard_desc:0 "Объединение земель под титулом «[GetTitleByKey('h_the_iron_throne').GetNameNoTier]» завершено. Пришло время учредить Королевскую гвардию, которая защитит меня от угроз, таящихся в тени"
+ decision_amsb_form_kingsguard_confirm:0 "Учредить Королевскую гвардию"
+ decision_amsb_form_kingsguard_tooltip:0 "Собрать Королевскую гвардию из семи рыцарей, которые посвятят жизнь защите [Select_CString(ROOT.Char.IsFemale, 'королевы', 'короля')] державы «[GetTitleByKey('h_the_iron_throne').GetNameNoTier]»"
+
+ #Строительство Харренхолла
+ amsb_build_harrenhal_decision:0 "Возвести могучий Харренхолл"
+ amsb_build_harrenhal_decision_desc:0 "Вы приказываете подготовить планы величайшего замка Вестероса на северном берегу Божьего Ока и начинаете десятилетний строительный проект: «[GetBuilding('harrenhal_01').GetName]».\n\nПо завершении строительства вы получите особое здание и замок 5-го уровня"
+ amsb_build_harrenhal_decision_confirm:0 "Начать планирование Харренхолла"
+ amsb_build_harrenhal_decision_tooltip:0 "Начать планирование строительства Харренхолла"
+
+ #Строительство Чёрной крепости
+ amsb_build_godsfort_decision:0 "Возвести Чёрную крепость"
+ amsb_build_godsfort_decision_desc:0 "Вы приказываете подготовить планы величайшего замка Вестероса на северном берегу Божьего Ока и начинаете десятилетний строительный проект: «[GetBuilding('generic_harrenhal_01').GetName]».\n\nПо завершении строительства вы получите особое здание и замок 5-го уровня"
+ amsb_build_godsfort_decision_confirm:0 "Начать планирование Чёрной крепости"
+ amsb_build_godsfort_decision_tooltip:0 "Начать планирование строительства Чёрной крепости"

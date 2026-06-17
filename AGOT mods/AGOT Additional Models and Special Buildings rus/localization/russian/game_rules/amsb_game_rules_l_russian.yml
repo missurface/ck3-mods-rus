@@ -1,0 +1,44 @@
+﻿l_russian:
+
+  # Правила отречения
+  rule_amsb_abdicate_restrictions:0 "#D AM&SB:#! Ограничения отречения#!"
+  rule_amsb_abdicate_restrictions_desc:0 "Определяет, доступно ли отречение без ограничений, с ограничениями или полностью отключено"
+  setting_amsb_abdicate_no_restriction:0 "#P Без ограничений#!"
+  setting_amsb_abdicate_no_restriction_desc:0 "Отречение разрешено без каких-либо условий"
+  setting_amsb_abdicate_restricted:0 "#Y Ограниченное отречение#!"
+  setting_amsb_abdicate_restricted_desc:0 "Отречение разрешено с ограничениями по возрасту или здоровью"
+  setting_amsb_abdicate_disabled:0 "#R Отречение отключено#!"
+  setting_amsb_abdicate_disabled_desc:0 "Отречение полностью отключено"
+
+  # Минимальный возраст отречения для игроков
+  rule_amsb_player_abdicate_age:0 "#D AM&SB:#! Возраст отречения игрока#!"
+  rule_amsb_player_abdicate_age_desc:0 "Определяет минимальный возраст, с которого игрок может отречься от престола"
+  setting_amsb_player_abdicate_age_60:0 "60 лет"
+  setting_amsb_player_abdicate_age_60_desc:0 "Игроки могут отречься от престола с 60 лет"
+  setting_amsb_player_abdicate_age_70:0 "70 лет"
+  setting_amsb_player_abdicate_age_70_desc:0 "Игроки могут отречься от престола с 70 лет"
+  setting_amsb_player_abdicate_age_80:0 "80 лет"
+  setting_amsb_player_abdicate_age_80_desc:0 "Игроки могут отречься от престола с 80 лет"
+
+  # Правила отречения для ИИ
+  rule_amsb_ai_abdicate_usage:0 "#D AM&SB:#! Отречение ИИ#!"
+  rule_amsb_ai_abdicate_usage_desc:0 "Определяет, могут ли правители под управлением ИИ принимать решение об отречении"
+  setting_amsb_ai_abdicate_disabled:0 "#R Отключено#!"
+  setting_amsb_ai_abdicate_disabled_desc:0 "Правители под управлением ИИ не могут принимать решение об отречении"
+  setting_amsb_ai_abdicate_enabled:0 "#P Включено#!"
+  setting_amsb_ai_abdicate_enabled_desc:0 "Правители под управлением ИИ могут принимать решение об отречении"
+
+  # Правила двора Драконьего Камня
+  rule_amsb_dragonstone_throne_room:0 "#D AM&SB:#! Тронный зал Драконьего Камня#!"
+  rule_amsb_dragonstone_throne_room_desc:0 "Определяет, какой тронный зал будет у Драконьего Камня в начале игры: из AGOT или из телесериала"
+  setting_amsb_dragonstone_throne_room_no:0 "#R Отключено#!"
+  setting_amsb_dragonstone_throne_room_no_desc:0 "Драконий Камень будет использовать тронный зал из AGOT"
+  setting_amsb_dragonstone_throne_room_yes:0 "#P Включено#!"
+  setting_amsb_dragonstone_throne_room_yes_desc:0 "Драконий Камень будет использовать тронный зал из телесериала"
+
+  # Категория правил игры
+  game_rule_category_amsb_game_rules:0 "#D Правила AM&SB#!"
+  game_rule_category_amsb_game_rules_desc:0 "#D Все правила игры, относящиеся к дополнительным механикам и особым зданиям#!"
+
+  dlc_AMSB:0 "Дополнительные модели и особые здания"
+  dlc_AMSB_desc:0 "Расширение CK3AGOT, добавляющее новые особые здания, модели, механики и королевские дворы.\n\nМОД БУДЕТ ОТОБРАЖАТЬСЯ ОТКЛЮЧЁННЫМ, НО ОН ЗАГРУЖЕН"

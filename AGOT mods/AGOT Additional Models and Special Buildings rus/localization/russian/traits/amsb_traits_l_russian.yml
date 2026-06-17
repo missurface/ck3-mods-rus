@@ -1,0 +1,5 @@
+﻿l_russian:
+ #Свойства
+ trait_amsb_abdicated:0 "Отречение от власти"
+ trait_amsb_abdicated_desc:0 "Этот персонаж оставляет властную должность и отказывается от права владеть титулами."
+ trait_amsb_abdicated_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] [Select_CString(ROOT.GetCharacter.IsFemale, 'решила', 'решил')] оставить властную должность и отказаться от права владеть титулами."

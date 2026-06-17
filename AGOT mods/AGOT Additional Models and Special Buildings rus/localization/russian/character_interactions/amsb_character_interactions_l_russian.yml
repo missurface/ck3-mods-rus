@@ -1,0 +1,31 @@
+﻿
+l_russian:
+
+ amsb_bent_knees_vassal_interaction:0 "Призвать вассала преклонить колено"
+ amsb_bent_knees_vassal_interaction_desc:0 "Ценой престижа и отношения призвать вассала в столицу ([actor.GetCapitalLocation.GetName]), чтобы публично преклонить колено и навеки присягнуть дому [actor.GetHouse.GetBaseName], правящему титулом «[actor.GetPrimaryTitle.GetNameNoTier]»."
+
+ amsb_bent_knees_refusal_opinion:0 "Отказ преклонить колено"
+ amsb_bent_knees_opinion:0 "Меня призвали преклонить колено"
+
+ amsb_bent_knees_vassal_interaction_refusal_msg_title:0 "Отказ преклонить колено!"
+ amsb_bent_knees_vassal_interaction_refusal_msg_desc:0 "[recipient.GetFirstName] [Select_CString(recipient.IsFemale, 'отказалась', 'отказался')] преклонить колено, и теперь [recipient.GetHerHim] можно заключить в темницу!"
+
+
+ #Преклонение колена
+ amsb_bent_knees_vassal_interaction_accept_desc_a:0 "Отправляется в столицу ([actor.GetCapitalLocation.GetName]), намереваясь преклонить колено. Но после прибытия вы можете распорядиться иначе..."
+ amsb_bent_knees_vassal_interaction_accept_desc_b:0 "Если вы примете эту присягу, [recipient.GetFirstName]:\n $EFFECT_LIST_BULLET$ Не сможет вступать во фракции против вас в течение 10 лет.\n $EFFECT_LIST_BULLET$ Потеряет #N 20 #!ед. мнения о вас."
+
+ #Принятие чёрного
+ amsb_take_the_black_vassal_interaction:0 "Потребовать от наследника вступить в Ночной Дозор"
+ amsb_take_the_black_vassal_interaction_desc:0 "[recipient.GetFirstName] [Select_CString(recipient.IsFemale, 'должна', 'должен')] принять чёрное или погибнуть от меча."
+
+ amsb_take_the_black_vassal_interaction_accept_desc_a:0 "[recipent.GetName] избирает путь чёрного брата и до конца жизни служит державе на Стене ([GetTitleByKey('k_the_wall').GetNameNoTier])"
+ amsb_take_the_black_vassal_interaction_accept_desc_b:0 "[recipent.GetName] отправляется на Стену служить державе"
+
+ amsb_take_the_black.decline:0 "[recipient.GetName] отвергает несправедливое требование и вызывает вас на смертельный поединок"
+
+ #Флаги
+ refused_to_bend_knees:0 "Отказ преклонить колено"
+
+ #Подсказки
+ amsb_WE_ARE_FRIENDS:0 "Мы #Bold не #!друзья"

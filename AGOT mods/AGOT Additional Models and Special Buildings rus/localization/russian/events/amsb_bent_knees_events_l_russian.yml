@@ -1,0 +1,27 @@
+﻿
+l_russian:
+ #Выбор вассала
+ amsb_bent_knees.0001.t:0 "Призыв преклонить колено"
+ amsb_bent_knees.0001.desc:0 "Я [Select_CString(ROOT.Char.IsFemale, 'получила', 'получил')] ворона от [actor.GetName] из дома [actor.GetHouse.GetBaseNameNoTooltip]. От меня требуют прибыть ко двору, преклонить колено и навеки присягнуть престолу. Такое требование явно выходит за рамки обычая, но мне предстоит решить: исполнить его или отказаться и столкнуться с возможными последствиями..."
+ amsb_bent_knees.0001.a:0 "Путь лежит ко двору ([actor.GetName]), где мне предстоит присягнуть."
+ amsb_bent_knees.0001.b:0 "Я не подчиню ни себя, ни свой дом подобным требованиям!"
+
+ #Событие правителя о преклонении колена
+ amsb_bent_knees.0002.t:0 "Преклонение колена"
+ amsb_bent_knees.0002.desc:0 "[Select_CString(bent_knees.IsFemale, 'Леди', 'Лорд')] [bent_knees.GetFirstName] [bent_knees.GetDynasty.GetName] входит в тронный зал и медленно приближается ко мне.\n\n«Вы прибыли преклонить колено, [Select_CString(bent_knees.IsFemale, 'леди', 'лорд')] [bent_knees.GetFirstNameNoTooltip]?»\n\n«Да, ваша милость», — отвечает [bent_knees.GetSheHe], опускаясь передо мной на колено.\n\n#bold «Я, [bent_knees.GetFirstNameBase] из дома [bent_knees.GetDynasty.GetNameNoTooltip], клянусь в верности [Select_CString(ruler.IsFemale, 'королеве', 'королю')] андалов, ройнаров и Первых людей, [Select_CString(ruler.IsFemale, 'госпоже', 'господину')] Семи Королевств и [Select_CString(ruler.IsFemale, 'защитнице', 'защитнику')] державы — [ruler.GetFirstNameNoTooltip] из дома [ruler.GetHouse.GetBaseNameNoTooltip]».#!\n\nЧерез несколько мгновений [bent_knees.GetSheHe] поднимает голову, ожидая моего ответа."
+ amsb_bent_knees.0002.a:0 "@prestige_icon! Я принимаю вашу клятву верности."
+ amsb_bent_knees.0002.a_tt:0 "Не сможет вступать во фракции против вас в течение 10 лет."
+ amsb_bent_knees.0002.a_title.desc:0 "[bent_knees.GetName] [Select_CString(bent_knees.IsFemale, 'преклонила', 'преклонил')] колено и [Select_CString(bent_knees.IsFemale, 'присягнула', 'присягнул')] короне."
+ amsb_bent_knees.0002.a_title:0 "Вассал преклоняет колено"
+ amsb_bent_knees.0002.b:0 "@dread_icon! Впрочем, добро пожаловать в чёрные темницы!"
+ amsb_bent_knees.0002.c:0 "@death_icon! Простите, но вас призвали сюда на смерть."
+
+#  #Вассал принимает указ
+#  amsb_bent_knees.0003.t:0 "Вассал принимает указ"
+#  amsb_bent_knees.0003.desc:0 "..."
+#  amsb_bent_knees.0003.a:0 "Буду ждать прибытия"
+
+ #Вассал отказывается
+ amsb_bent_knees.0004.t:0 "Вассал отвергает указ"
+ amsb_bent_knees.0004.desc:0 "Я с полным неверием смотрю на послание, принесённое вороном. Письмо от [bent_knees.GetName] сминается в моём кулаке, пока внутри нарастает ярость.\n\n«Я не потерплю такого неуважения!» — кричу я в пустоту, понимая, что без резкого обострения положения сделать почти ничего нельзя.\n\nНо, быть может, именно это и требуется... Возможно, следует преподать урок, чтобы остальные лорды державы знали своё место..."
+ amsb_bent_knees.0004.a:0 "Это недопустимо!"

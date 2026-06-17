@@ -1,0 +1,11 @@
+﻿
+l_russian:
+ #Событие правителя о преклонении колена
+ amsb_court_event.0001.t:0 "Преклонение колена"
+ amsb_court_event.0001.desc:0 "[Select_CString(bent_knees.IsFemale, 'Леди', 'Лорд')] [bent_knees.GetFirstName] [bent_knees.GetDynasty.GetName] входит в тронный зал и медленно приближается ко мне.\n\n«Вы прибыли преклонить колено, [Select_CString(bent_knees.IsFemale, 'леди', 'лорд')] [bent_knees.GetFirstNameNoTooltip]?»\n\n«Да, ваша милость», — отвечает [bent_knees.GetSheHe], опускаясь передо мной на колено.\n\n#bold «Я, [bent_knees.GetFirstNameBase] из дома [bent_knees.GetDynasty.GetNameNoTooltip], клянусь в верности [Select_CString(ruler.IsFemale, 'королеве', 'королю')] андалов, ройнаров и Первых людей, [Select_CString(ruler.IsFemale, 'госпоже', 'господину')] Семи Королевств и [Select_CString(ruler.IsFemale, 'защитнице', 'защитнику')] державы — [ruler.GetFirstNameNoTooltip] из дома [ruler.GetHouse.GetBaseNameNoTooltip]».#!\n\nЧерез несколько мгновений [bent_knees.GetSheHe] поднимает голову, ожидая моего ответа."
+ amsb_court_event.0001.a:0 "@prestige_icon! Я принимаю вашу клятву верности."
+ amsb_court_event.0001.a_tt:0 "Не сможет вступать во фракции против вас в течение 10 лет."
+ amsb_court_event.0001.a_title.desc:0 "[bent_knees.GetName] [Select_CString(bent_knees.IsFemale, 'преклонила', 'преклонил')] колено и [Select_CString(bent_knees.IsFemale, 'присягнула', 'присягнул')] короне."
+ amsb_court_event.0001.a_title:0 "Вассал преклоняет колено"
+ amsb_court_event.0001.b:0 "@dread_icon! Впрочем, добро пожаловать в чёрные темницы!"
+ amsb_court_event.0001.c:0 "@death_icon! Простите, но вас призвали сюда на смерть."

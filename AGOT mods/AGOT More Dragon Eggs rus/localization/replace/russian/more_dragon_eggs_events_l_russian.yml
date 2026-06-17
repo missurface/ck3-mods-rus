@@ -171,9 +171,7 @@
  DRAGON_PITTED_WITH_GUI: "$DRAGON_RELATION_IS_PITTED$ • [Character.Custom('DPGetDragonTypeGuiTooltip')]"
  DRAGON_WANDERING_WITH_GUI: "$DRAGON_RELATION_IS_WANDERING$ • [Character.Custom('DPGetDragonTypeGuiTooltip')]"
  DRAGON_CANT_GO_OUTSIDE: "Перемещение этого дракона наружу приведёт к потере права владения им!"
- SHOW_DRAGONPITS: "#T Показать драконьи логова\n#!Отображает активные [dragonpits|E] и связанные с ними меню."
- SHOW_DRAGONS: "#T Показать драконов\n#!Отображает живых [dragons_plural|E] и связанные с ними меню."
- SHOW_EGGS: "#T Показать драконьи яйца\n#!Отображает существующие яйца [dragon|E] и связанные с ними меню."
+
  can_move_a_dragon_tooltip: "Вы можете переместить дракона."
  TRAVEL_POINT_OF_INTEREST_TT_more_dragon_eggs_poi_dragonlore: "Место, имеющее драконовское значение"
   
@@ -227,7 +225,3 @@
   
  agot_ninepenny.1014.c: "Ночь жива музыкой драконов! Этот ребёнок — [Select_CString(ROOT.Char.IsFemale, '«Драконорождённая»', '«Драконорождённый»' )]!"
  agot_ninepenny.1014.d: "Несмотря на трагедию, с этим ребёнком есть надежда — [Select_CString(ROOT.Char.IsFemale, '«Драконорождённая»', '«Драконорождённый»' )]."
-
- mde_events.0001.t:0 "Меню управления кнопками"
- mde_events.0001.a:0 "Закрыть"
- mde_events.0001.desc:0 ""

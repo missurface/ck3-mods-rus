@@ -2,7 +2,36 @@
  egg_button_manager_text:0 "Показать/скрыть кнопку яйца"
  dragonpit_button_manager_text:0 "Показать/скрыть кнопку драконьей ямы"
  dragon_button_manager_text:0 "Показать/скрыть кнопку дракона"
+ kingsguard_button_manager_text:0 "Переключить кнопку Королевской гвардии"
+ valyrian_steel_button_manager_text:0 "Переключить кнопку валирийской стали"
+
+ mde_is_lord_commander:0 "Лорд-командующий [Character.Custom('KingsguardName')]"
+ mde_is_kingsguard:0 "[Character.Custom('KingsguardName')]"
 
  NO_DRAGONS_TOOLTIP:0 "@warning_icon! #X В мире нет живых драконов!#!"
  NO_EGG_TOOLTIP:0 "@warning_icon! #X В мире не известно ни одного драконьего яйца!#!"
  NO_DRAGONPITS_TOOLTIP:0 "@warning_icon! #X У вас нет доступа ни к одной действующей драконьей яме!#!"
+ NO_KINGSGUARD_TOOLTIP:0 "@warning_icon! #X Королевская гвардия не существует!#"
+ NO_VALYRIAN_STEEL_TOOLTIP:0 "@warning_icon! #X В мире не известно ни одного предмета из валирийской стали!#"
+
+ SHOW_DRAGONPITS:1 "#T Показать драконьи ямы\n#!Показывает активные [dragonpits|E] и соответствующие им меню."
+ SHOW_DRAGONS:1 "#T Показать драконов\n#!Показывает живых [Concept('dragons_plural', 'драконов')|E] и соответствующие им меню."
+ SHOW_EGGS:1 "#T Показать драконьи яйца\n#!Показывает существующие [Concept('dragon', 'драконьи')|E] яйца и соответствующие им меню."
+ SHOW_KINGSGUARD:1 "#T Показать Королевскую гвардию\n#!Показывает действующих членов Королевской гвардии и возможных новобранцев их сюзерену."
+ SHOW_VALYRIAN_STEEL:1 "#T Показать валирийскую сталь\n#!Показывает существующие клинки и предметы из валирийской стали, а также их владельцев и обладателей."
+ 
+ INVITE_TO_KINGSGUARD_TT:0 "@icon_kingsguard!#clickable $invite_to_kingsguard_interaction$"
+
+ mde_menu_events.0001.t:0 "Меню управления кнопками"
+ mde_menu_events.0001.a:0 "Закрыть"
+ mde_menu_events.0001.desc:0 ""
+
+ mde_menu_events.0002.t:0 "[GetPlayer.Custom('mde_temp_kingsguard_gender_title_switch')]"
+ mde_menu_events.0002.desc:0 ""
+
+ mde_menu_events.0003.t:0 "Валирийская сталь"
+ mde_menu_events.0003.desc:0 ""
+
+ mde_menu_events.0004.t:0 "Меню управления кнопками"
+ mde_menu_events.0004.a:0 "Закрыть"
+ mde_menu_events.0004.desc:0 ""

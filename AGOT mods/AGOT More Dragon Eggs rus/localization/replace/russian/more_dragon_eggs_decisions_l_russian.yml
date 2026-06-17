@@ -83,7 +83,9 @@
  choose_dragonblood_tooltip: "Вам будет представлен список всех людей с драконьей кровью"
   
  mde_view_dragon_blood_value: "[Character.MakeScope.ScriptValue('dragonblood_percent')]% Драконьей крови"
-  
+
+
+
  show_dragon_portrait_decision:0 "Show Dragon Portrait"
  show_dragon_portrait_decision_tooltip:0 "Will display the dragon potrait."
  show_dragon_portrait_decision_desc:0 "Shows your dragon's portrait in the bottom left corner of the screen. (Note: Portraits won't appear until the dragon is at least size 3, if you're not seeing them this may be why.)"

@@ -1,0 +1,6 @@
+﻿l_english:
+ select_as_canon_father_interaction:0 "Assign as Canon Father"
+ select_as_canon_father_interaction_desc:0 "Assign this character to take the role of a canon father of this character's children"
+
+ select_as_canon_mother_interaction:0 "Assign as Canon Mother"
+ select_as_canon_mother_interaction_desc:0 "Assign this character to take the role of a canon mother of this character's children"

@@ -1,0 +1,50 @@
+﻿l_english:
+
+ # AGOT: Canon Children Easy Mode
+ game_rule_category_agot_canon_children_easy_mode:0 "Canon Children Easy Mode"
+
+ # Canon Marriage
+ rule_agot_canon_children_easy_mode_canon_marriage:0 "Canon Marriage"
+ setting_agot_canon_children_easy_mode_canon_marriage_enabled:0 "Enabled"
+ setting_agot_canon_children_easy_mode_canon_marriage_enabled_desc:0 "Canon marriages will be applied automatically."
+ setting_agot_canon_children_easy_mode_canon_marriage_multi_enabled:0 "Multi"
+ setting_agot_canon_children_easy_mode_canon_marriage_multi_enabled_desc:0 "Canon marriages will be applied automatically. If a parents of a non-bastard canon child are not married, they will divorce any current partners and marry."
+ setting_agot_canon_children_easy_mode_canon_marriage_disabled:0 "Disabled"
+ setting_agot_canon_children_easy_mode_canon_marriage_disabled_desc:0 "Canon marriages will not be applied automatically."
+
+ # Unmarried Partners Wait
+ rule_agot_canon_children_easy_mode_unmarried_partners_wait:0 "Unmarried Partners Wait"
+ setting_agot_canon_children_easy_mode_unmarried_partners_wait_enabled:0 "Enabled"
+ setting_agot_canon_children_easy_mode_unmarried_partners_wait_enabled_desc:0 "Characters who canonically had children while unmarried will receive the 'Refusing Marriage' trait until five years after their final canon child is born."
+ setting_agot_canon_children_easy_mode_unmarried_partners_wait_disabled:0 "Disabled"
+ setting_agot_canon_children_easy_mode_unmarried_partners_wait_disabled_desc:0 "Characters who canonically had children while unmarried are free to marry immediately."
+
+ # Relationship Restrictions Removed
+ rule_agot_canon_children_easy_mode_restrictions_removed:0 "Conception Restrictions Removed"
+ setting_agot_canon_children_easy_mode_relationship_restrictions_removed:0 "Relationship Restrictions Removed"
+ setting_agot_canon_children_easy_mode_relationship_restrictions_removed_desc:0 "Restrictions on conceiving canon children will be ignored."
+ setting_agot_canon_children_easy_mode_all_restrictions_removed:0 "All Restrictions Removed"
+ setting_agot_canon_children_easy_mode_all_restrictions_removed_desc:0 "All restrictions—including relationship limits, imprisonment, Night's Watch vows, or traits preventing children—will be ignored."
+ setting_agot_canon_children_easy_mode_restrictions_removed_disabled:0 "Disabled"
+ setting_agot_canon_children_easy_mode_restrictions_removed_disabled_desc:0 "Conception restrictions remain in effect."
+
+ # Health Boost
+ rule_agot_canon_children_easy_mode_health_boost:0 "Health Boost"
+ setting_agot_canon_children_easy_mode_health_boost_enabled:0 "Enabled"
+ setting_agot_canon_children_easy_mode_health_boost_enabled_desc:0 "Canon parents receive a health boost until five years after their final canon child is born."
+ setting_agot_canon_children_easy_mode_health_boost_disabled:0 "Disabled"
+ setting_agot_canon_children_easy_mode_health_boost_disabled_desc:0 "Canon parents do not receive a health boost."
+
+ # Canon Marriage Traits
+ rule_agot_canon_children_easy_mode_canon_marriage_traits:0 "Canon Marriage Traits"
+ setting_agot_canon_children_easy_mode_canon_marriage_trait_enabled:0 "Enabled"
+ setting_agot_canon_children_easy_mode_canon_marriage_trait_enabled_desc:0 "Traits reflecting a character's canon marriage and children will be applied."
+ setting_agot_canon_children_easy_mode_canon_marriage_trait_disabled:0 "Disabled"
+ setting_agot_canon_children_easy_mode_canon_marriage_trait_disabled_desc:0 "No canon marriage traits will be applied."
+
+ # Debug
+ rule_agot_canon_children_easy_mode_debug:0 "Debug Mode"
+ setting_agot_canon_children_easy_mode_debug_enabled:0 "Enabled"
+ setting_agot_canon_children_easy_mode_debug_enabled_desc:0 "Debug interactions for canon children easy mode will be enabled by default."
+ setting_agot_canon_children_easy_mode_debug_disabled:0 "Disabled"
+ setting_agot_canon_children_easy_mode_debug_disabled_desc:0 "Debug interactions for canon children easy mode will only be available in debug mode."

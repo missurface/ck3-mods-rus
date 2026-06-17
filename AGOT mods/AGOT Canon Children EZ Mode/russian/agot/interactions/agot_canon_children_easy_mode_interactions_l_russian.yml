@@ -1,0 +1,6 @@
+﻿l_russian:
+ select_as_canon_father_interaction:0 "Назначить каноничным отцом"
+ select_as_canon_father_interaction_desc:0 "Назначить этого персонажа каноничным отцом ваших детей"
+
+ select_as_canon_mother_interaction:0 "Назначить каноничной матерью"
+ select_as_canon_mother_interaction_desc:0 "Назначить этого персонажа каноничной матерью ваших детей"

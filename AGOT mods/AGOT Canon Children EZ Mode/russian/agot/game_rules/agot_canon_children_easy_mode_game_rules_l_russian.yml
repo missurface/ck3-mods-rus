@@ -1,0 +1,50 @@
+﻿l_russian:
+
+ # AGOT: Canon Children Easy Mode
+ game_rule_category_agot_canon_children_easy_mode:0 "Упрощённый режим каноничных детей"
+
+ # Canon Marriage
+ rule_agot_canon_children_easy_mode_canon_marriage:0 "Каноничный брак"
+ setting_agot_canon_children_easy_mode_canon_marriage_enabled:0 "Включено"
+ setting_agot_canon_children_easy_mode_canon_marriage_enabled_desc:0 "Каноничные браки будут заключаться автоматически."
+ setting_agot_canon_children_easy_mode_canon_marriage_multi_enabled:0 "Несколько браков"
+ setting_agot_canon_children_easy_mode_canon_marriage_multi_enabled_desc:0 "Каноничные браки будут заключаться автоматически. Если родители каноничного ребёнка, не являющегося бастардом, не состоят в браке друг с другом, они разведутся с нынешними супругами и поженятся."
+ setting_agot_canon_children_easy_mode_canon_marriage_disabled:0 "Отключено"
+ setting_agot_canon_children_easy_mode_canon_marriage_disabled_desc:0 "Каноничные браки не будут заключаться автоматически."
+
+ # Unmarried Partners Wait
+ rule_agot_canon_children_easy_mode_unmarried_partners_wait:0 "Ожидание для партнёров вне брака"
+ setting_agot_canon_children_easy_mode_unmarried_partners_wait_enabled:0 "Включено"
+ setting_agot_canon_children_easy_mode_unmarried_partners_wait_enabled_desc:0 "Персонажи, у которых по канону были дети вне брака, получат свойство «Отказ от брака» до истечения пяти лет после рождения их последнего каноничного ребёнка."
+ setting_agot_canon_children_easy_mode_unmarried_partners_wait_disabled:0 "Отключено"
+ setting_agot_canon_children_easy_mode_unmarried_partners_wait_disabled_desc:0 "Персонажи, у которых по канону были дети вне брака, смогут вступать в брак без ожидания."
+
+ # Relationship Restrictions Removed
+ rule_agot_canon_children_easy_mode_restrictions_removed:0 "Ограничения на зачатие сняты"
+ setting_agot_canon_children_easy_mode_relationship_restrictions_removed:0 "Ограничения на отношения сняты"
+ setting_agot_canon_children_easy_mode_relationship_restrictions_removed_desc:0 "Ограничения на зачатие каноничных детей будут игнорироваться."
+ setting_agot_canon_children_easy_mode_all_restrictions_removed:0 "Все ограничения сняты"
+ setting_agot_canon_children_easy_mode_all_restrictions_removed_desc:0 "Все ограничения — в том числе ограничения на отношения, заключение в тюрьму, обеты Ночного Дозора и свойства, препятствующие деторождению, — будут игнорироваться."
+ setting_agot_canon_children_easy_mode_restrictions_removed_disabled:0 "Отключено"
+ setting_agot_canon_children_easy_mode_restrictions_removed_disabled_desc:0 "Ограничения на зачатие останутся в силе."
+
+ # Health Boost
+ rule_agot_canon_children_easy_mode_health_boost:0 "Укрепление здоровья"
+ setting_agot_canon_children_easy_mode_health_boost_enabled:0 "Включено"
+ setting_agot_canon_children_easy_mode_health_boost_enabled_desc:0 "Каноничные родители получают прибавку к здоровью до истечения пяти лет после рождения их последнего каноничного ребёнка."
+ setting_agot_canon_children_easy_mode_health_boost_disabled:0 "Отключено"
+ setting_agot_canon_children_easy_mode_health_boost_disabled_desc:0 "Каноничные родители не получают прибавку к здоровью."
+
+ # Canon Marriage Traits
+ rule_agot_canon_children_easy_mode_canon_marriage_traits:0 "Свойства каноничного брака"
+ setting_agot_canon_children_easy_mode_canon_marriage_trait_enabled:0 "Включено"
+ setting_agot_canon_children_easy_mode_canon_marriage_trait_enabled_desc:0 "Будут применены свойства, отражающие каноничный брак и наличие каноничных детей у персонажа."
+ setting_agot_canon_children_easy_mode_canon_marriage_trait_disabled:0 "Отключено"
+ setting_agot_canon_children_easy_mode_canon_marriage_trait_disabled_desc:0 "Свойства каноничного брака применяться не будут."
+
+ # Debug
+ rule_agot_canon_children_easy_mode_debug:0 "Режим отладки"
+ setting_agot_canon_children_easy_mode_debug_enabled:0 "Включено"
+ setting_agot_canon_children_easy_mode_debug_enabled_desc:0 "Отладочные взаимодействия упрощённого режима каноничных детей будут включены по умолчанию."
+ setting_agot_canon_children_easy_mode_debug_disabled:0 "Отключено"
+ setting_agot_canon_children_easy_mode_debug_disabled_desc:0 "Отладочные взаимодействия упрощённого режима каноничных детей будут доступны только в режиме отладки."

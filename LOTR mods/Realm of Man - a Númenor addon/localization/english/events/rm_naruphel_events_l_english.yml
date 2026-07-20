@@ -1,0 +1,31 @@
+﻿l_english:
+
+ rm_naruphel_event.0001.t:0 "The Warrior Princess"
+ rm_naruphel_event.0001.desc:0 "Today I recieved a rather uncommon request. One of my vassals wishes to recommend a courtier to the position of my bodyguard. The uncommon part is, the person in question is a #italic woman#!."
+ rm_naruphel_event.0001.a:0 "Very well, I will hear her out"
+ rm_naruphel_event.0001.b:0 "I have no time for this nonsense"
+
+ rm_naruphel_event.0002.t:0 "A Test of Strength"
+ rm_naruphel_event.0002.desc:0 "In walks the biggest woman I have ever seen. Even from far away I can see her body is steeled. She walks with the kind of stride you would usually see in a battle hardend general. As she bows down, I can see the muscles under her dress working, this is definetly no ordinary woman.\n\n#italic "You seek to join my guard?"#!\n\nShe musters me from head to toe.\n\n#italic "Perhaps, I have heard great things of you my king, but I will not join any man who cannot best me in single combat. Therefore I challenge you. Best me, and I shall be your loyal servant.#!""
+ rm_naruphel_event.0002.a:0 "#italic "Very well, I will personally test your mettle"#!"
+ rm_naruphel_event.0002.a.tt:0 "This starts a duel"
+ rm_naruphel_event.0002.b:0 "#italic "This is perposterous"#!"
+
+ rm_naruphel_event.0003.t:0 "A New Guard"
+ rm_naruphel_event.0003.desc:0 "Although I managed to come out on top, it was a close call. She is no doubt a capable warrior. Even more, she seems to have enjoyed her defeat, at least she does not look too mad.\n\n#italic "My liege, you have bested me. I am a woman of my word. I [GetScriptedCharacterByHistoryID( 'rm_naruphel' ).GetFirstNameRegnal] of house [GetDynastyHouseByID( 'rm_house_pharzubel' ).GetName] swear to be your liege woman with life and limb, your enemies shall be my enemies, your battles shall be my battles. I will defend you until my last dying breath!"#!"
+ rm_naruphel_event.0003.a:0 "#italic "So it shall be"#!"
+
+ rm_naruphel_event.0005.t:0 "An Unconventional Proposal"
+ rm_naruphel_event.0005.desc:0 "There seems to be more on [GetScriptedCharacterByHistoryID( 'rm_naruphel' ).GetFirstNameRegnal]'s mind. She keeps her eyes fixed on me as if she were evaluating something. Then, without any warning, she grabs me by the belt and pulls me closer.\n\n#italic "You are a real catch you know? Not just handsome but also capable and strong. I have decided, it would be a shame to waste you on some weak, witless floozy. You will be my husband!"#!\n\nWhait, What?!"
+ rm_naruphel_event.0005.a:0 "#italic "Alright, let's take this slow"#!""
+ rm_naruphel_event.0005.b:0 "#italic "Deal, no questions asked#!""
+
+ rm_naruphel_event.0006.t:0 "Stiring the Storm"
+ rm_naruphel_event.0006.desc:0 "She does not look pleased with my answer.\n\n#italic "Taking it slow? Why?! We're perfect for each other. Do you think I can't be a good wife just because I'm not some dainty little princess?"#!\n\nI seem to have stirred a storm.\n\n#italic "That is not it, you are quite pleasant in your own way."#!\n\nThat might not have been the best choice of words as it seems to do nothing for her mood\n\n#italic "Then why? I am not some lowly peasant girl either, I am of a royal line just like you!"#!\n\nI am starting to get a little agitated as well.\n\n#italic "I cannot marry someone I just met!"#!\n\nShe does not seem particularly impressed by that anwer.\n\n#italic "That will not change my resolve, I can wait...for a while. But we are meant for each other, and sooner or later you will see it too!"#!\n\nWith those words she leaves the room in directon of the armoury. I cannot help but feel strangely...threatened by here 'resolve'. But a promise is a promise, and her proclaimed affection for me might make her an even better bodyguard in the end. Perhaps, in due time, I could even consider her proposal in earnest."
+ rm_naruphel_event.0006.a:0 "#italic "That was a rather...eventful morning."#!"
+
+ rm_naruphel_event.0007.t:0 "The Lioness"
+ rm_naruphel_event.0007.desc:0 "It happened rather quickly. One moment I was occupied with my own thoughts, the next, someone takes me and pushes me up against the wall. After recovering from the initial shock, I recognise [GetScriptedCharacterByHistoryID( 'rm_naruphel' ).GetFirstNameRegnal].\n\n#italic "My dear [GetScriptedCharacterByHistoryID( 'Zigur_3' ).GetFirstName], I have been very patient. Everyday I see you, everyday I am near you, and I can't take it any longer. You. Are. Mine! And it's time you admit it."#!\n\nUsually, anyone who would even dare to attempt such a thing would be jailed immediately. But there is something... reassuring about her strength, something that, even in this compromising position, makes me feel save. She seems to have noticed, because a mischievious smile begins to form on her lips.\n\n#italic "You like this, don't you? Don't worry darling, there is plenty more where that came from, just give in."#!"
+ rm_naruphel_event.0007.a:0 " Resistance is futile at this point, I guess I am in love"
+ rm_naruphel_event.0007.b:0 "No! Not now, not ever!"
+ rm_naruphel_event.0007.b.tt:0 "#X Hell hath no fury like a woman scorned!#!"

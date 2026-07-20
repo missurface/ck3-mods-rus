@@ -30,3 +30,8 @@
  rm_core_event.0005.a.failure:0 "Failure"
  rm_core_event.0005.a.tt:0 "The storyline will continue regardless of outcome"
 
+ rm_core_event.0006.t:0 "Reunification of Spiritual and Worldly Power"
+ rm_core_event.0006.desc:0 "After achieving full political control over [anadune|E], the consolidation of religious power in [armenelos|E] was only a matter of time. The only question that remains now is, how far do I wish to go? Taking all of house [GetDynastyHouseByID( 'rm_house_inziladun' ).GetName]'s titles may secure direct control over the [meneltarma|E], but it will also most likely antagonise them forever.\nThe other option would be another compromise. I would claim the [GetTitleByKey('d_adunai').GetName], but house Inziladûnhîn would remain the nominal guardians of Meneltarma."
+ rm_core_event.0006.a:0 "I shall only claim the [GetTitleByKey('d_adunai').GetName]"
+ rm_core_event.0006.b:0 "No more compromises. The [GetTitleByKey('c_meneltarma').GetName] is a rightful royal domain!"
+

@@ -5,3 +5,12 @@
  decision_reach_out_to_the_elves_tooltip:0 "You will seek to establish diplomatic relations with the Elves"
  decision_reach_out_to_the_elves_confirm:0 "In times like these, we must stand together"
  has_restored_cardolan_tooltip:0 "Has restored the ancient [numenorean|E] province of [GetTitleByKey('k_cardolan').GetName]"
+
+ decision_claim_religious_leadership:0 "Claim religious leadership over the [adunai|E]"
+ decision_claim_religious_leadership_desc:0 "The negotiated power sharing compromise with house [GetDynastyHouseByID( 'rm_house_inziladun' ).GetName] was always temporary. With enough accumulated power, I can finally correct this and assume religious leadership over all of [anadune|E]."
+ decision_claim_religious_leadership_tooltip:0 "You will claim the [GetTitleByKey('d_adunai').GetName]"
+ decision_claim_religious_leadership_confirm:0 "It is time to complete my consolidation"
+
+ decision_remove_anti_marriage_trait:0 "Seek to marry"
+ decision_remove_anti_marriage_trait_desc:0 "It is futile to whait for the right partner to show up. It is my duty to secure the royal line by taking a suitable wife."
+ decision_remove_anti_marriage_trait_confirm:0 "No more excuses"

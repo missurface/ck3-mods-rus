@@ -1,0 +1,32 @@
+﻿l_english:
+  # House
+ rm_core_event.0001.t:0 "A Realm Divided"
+ rm_core_event.0001.desc:0 "I am at a crossroads. The fragile status quo with which my mother bought us peace for so long now lacks my father's iron fist to enforce it. My mother might be a respected powerbroker, but she is no leader. What [numenor|E] needs right now is a strong vision, a path that can unite both [kingsmen|E] and [faithful|E] in their efforts to restore our nations rightful place in the world.These last few days I have spent considering my options and I am left with three.\n\nI could try to maintain the status quo. This would not be very popular with the Faithful to the north who have been advocating for a change in course for some time now, and they are not likely to fall back in line so easily anymore.\n\nThe other option is one that has been on my mind for some time now. It would constitute a radical theological and philosophical reorganisation of the King's Men's central tenets, emphasising strength, honour, and duty rather than the infamous hedonism of the past.\n\nLastly, I could officialy declare my support for the [GetFaithByKey('faith_adunaic').GetName]. Although this might make me some new friends in the north, it will most definetly anger my father's allies in the south."
+ rm_core_event.0001.a:0 "For the sake of stability, the status quo must be maintained"
+ rm_core_event.0001.b:0 "If the King's Men are to survive, they must overcome their own hubris"
+ rm_core_event.0001.c:0 "For the greater good, I shall embrace the teachings of the Adûnabên"
+
+ rm_core_event.0001.b.tt:0 "Most of your southern vassals will support this decision but it is unlikely to find positive reception in the north."
+ rm_core_event.0001.c.tt:0 "The King's Men will not be pleased..."
+
+ rm_core_event.0002.t:0 "Rise of the Razâ n'Sapthân"
+ rm_core_event.0002.desc:0 "For centuries the [kingsmen|E] were ruled by their most base desires. In ther fear of death they adorned themselves in gold and jewelry, fueling their hedonistic cruelty through reckless tyranny. [eru|E] in his boundless wisdom has blessed the [adunai|E] with a long life and great strength for a sacred purpose. To seek dominion in His name.\nThose who deny their destiny, by clouding their mind with boundless pleasure or by devoting themselves to the far-removed spirits known as the [avaloigods|E], commit the greatest sin an Adûnâ can commit, weakness. Weakness leads to fear, and fear opens the gates of darkness which has been our downfall once before. If the sons of [westernesse|E] are to endure, they must fulfill their destiny and face the darkness head on.\nWith the canonisation of this doctrine in the [GetFaithByKey('faith_sapthan').GetName] and important first step has been taken. From this day onward neither endless greed nor blind worship shall keep us from achieving what our venerated ancestors were tasked with by the One."
+ rm_core_event.0002.a.tt:0 "Although you have chosen the way of reform, most of the [faithful|E] still view you with suspicion."
+ rm_core_event.0002.a:0 "Our destiny awaits!"
+
+ rm_core_event.0003.t:0 "The Southern Uproar"
+ rm_core_event.0003.desc:0 "Earlier today, I recieved a rather uncouth letter from [GetScriptedCharacterByHistoryID( 'lineofvardur53' ).GetFirstNameRegnal], a prominent figure among the southern [kingsmen|E].\n\n#italic "How dare you! We have risked everything for your father's course, and now? You seek to throw it all away to court some cheap favours with the northern heathens?! Me and my people will not let this insult stand!#!"\n\nThis was to be expected. The [kingsmen|E] have long resented the status quo and now that it has shifted to their disadvantage, they will most likely seek to take action in some way or form. Zôrzaga is just one of many and I am pretty sure this letter is just the first of many send up from the south. A rift has opened between me and my father's old allies and only time will tell if it can be mended."
+ rm_core_event.0003.a:0 "Can't they see that this is for the good of the realm?"
+
+
+ rm_core_event.0004.t:0 "Wroth of the Faithful"
+ rm_core_event.0004.desc:0 "[GetScriptedCharacterByHistoryID( 'lineofelros133' ).GetFirstNameRegnal] slaps his hands on my table as he leans forward in anger.\n\n#italic "I had hoped you would not repeat the errors of you father's reign, but alas I have misjudged you. The vain and prideful ways of the past let our people to ruin! How can you not see that? If you continue on this path of yours, you leave me no choice but to take the necessary measures to ensure the savety of the [faithful|E] which I am entrusted with."#!\n\nI knew it would come to this sooner or later, especially after my decision to continue on my father's course. But I did not expect Balkazîr to attack me so brazenly. Does this self-righteous fool think I do not know what his intentions are? He means to use this situation to claim his accursed father's legacy. While I cannot do anything without proof of his treacherous intentions, he also cannot act without sizeable support for his claim. So for the moment, all we can do is glare at each other from across the room.\n\n#italic "If you will excuse me, 'my liege'? Until you find your way to the path of righteousness, there is nothing more to be said between us."#!\n\nBalkazîr's conduct here today was the final confirmation, the Faithful hold little sympathy for me."
+ rm_core_event.0004.a:0 "He did not even bother to close the door..."
+
+ rm_core_event.0005.t:0 "Diplomatic Overtures"
+ rm_core_event.0005.desc:0 "Over the millenia, the knowledge of the [eldar|E] has greatly diminished among my people. The [GetFaithByKey('faith_kings_men_numenorean').GetName] begrudged them, the [GetFaithByKey('melkorite').GetName] despised them. After the [downfall|E], a large portion of what remained was destroyed or left our shores with [GetScriptedCharacterByHistoryID( 'lineofelendil' ).GetFirstNameRegnal]. Nonetheless our archives remain extensive and contain many which is useful to me, especially language manuals.\nFor generations, it was custom for the Kings of [westernesse|E] to be versed in both the tounges of [elves|E] and [men|E]. If I wish to reestablish friendly relationships with the remaining Elven realms of [middleearth|E], learning their language will be a necessity."
+ rm_core_event.0005.a:0 "It can't hurt to try"
+ rm_core_event.0005.a.success:0 "Success"
+ rm_core_event.0005.a.failure:0 "Failure"
+ rm_core_event.0005.a.tt:0 "The storyline will continue regardless of outcome"
+

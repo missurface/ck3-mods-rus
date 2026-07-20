@@ -1,0 +1,91 @@
+﻿l_english:
+
+ # Documentation - By Trig
+ # Formatting gloss tooltips: [Glossary('gloss_txt','GLOSS_KEY')], where "gloss text" is the tooltip, and "GLOSS_KEY" links to the gloss itself. 
+ # Example: " [Glossary( 'Pax Romana', 'PAX_ROMANA_GLOSS' )] "
+ # Formating gloss definititons: GLOSS_KEY: "gloss_tooltip", where "gloss_tooltip" is the translation of the gloss
+ # Example: PAX_ROMANA_GLOSS: "The #bold Pax Romana#! — a Latin phrase meaning "The Roman Peace" — has been historically used to describe the period of "peace" inaugurated by Augustus' victory at Actium. This phrase does not refer to an absence of war, but rather means that all Rome's foes were subdued."
+
+ # Best practice for Realms: place all gloss defintitions here, for easy acess, under the correct language alphabetiacally. If possible, mention where it is used for reference. 
+
+ 
+############ Elven Languages ############
+ 
+### Quenya ###
+andoralcar_gloss: "[quenya_short|E] #bold Andoralcar#! means 'Andor Glory', where Andor refers to the Land of Gift, or Númenor."
+hyarmenion_gloss: "[quenya_short|E] #bold Hyarmenion#! means 'Son of the South'."
+lintamacil_gloss: "[quenya_short|E] #bold Lintamacil#! means 'Swift-sword'."
+londe_ancalimonva_gloss: "[quenya_short|E] #bold Londë Ancalimonva#! means 'Ancalimon's Haven'."
+nucuptar_gloss: "[quenya_short|E] #bold Nucuptar#! means 'Humbler' or 'Vanquisher'."
+
+### Sindarin ###
+
+niben_aranruth_gloss: "[sindarin_short|E] #bold Niben Aranrúth#! means 'Little King's-Ire', and is the blade of the Kings of Númenor, created after its predecessor was lost to [pharazon|E]'s failed armada."
+
+### Silvan/Nandorin ###
+
+ # Telerin #
+
+ # Penni #
+
+ # Cuind #
+
+ # Kinn-lai # 
+
+ # Avari #
+
+############ Khuzdul ############
+
+### Khuzdul names for the Valar ###
+
+### Dwarven MaA ###
+
+ # Longbeards #
+
+ # Firebeards #
+
+ # Broadbeams #
+
+ # Ironfists #
+
+ # Stiffbeards #
+
+ # Blacklocks #
+
+ # Stonefoots #
+
+############ Orcish ############
+
+############ Valarian ############
+
+############ Human Tongues ############
+
+### Adunaic ###
+
+adunaben_gloss: "[adunaic_short|E] #bold Adûnabên#! means 'Servant of the West', the name of the premier faction and faith of [numenor|E]."
+barim_an_anadune_gloss: "[adunaic_short|E] #bold Bârîm-an-Anadûnê#! means 'Lords of Westernesse'."
+batan_an_phazan_gloss: "[adunaic_short|E] #bold Batân an-Phazân#! means 'Path of the Prince', a faction and faith of [numenor|E] founded by Prince Dâirabên."
+narduthoni_gloss: "[adunaic_short|E] #bold Nardûthônî#! means 'Many-soldiers', referring to the legions of [numenor|E]."
+sattaglarrama_gloss: "[adunaic_short|E] #bold Sattaglarrâma#! means 'Second Aglarrâma', the successor to [pharazon|E]'s Aglarrâma."
+uriyaru_gloss: "[adunaic_short|E] #bold Ûriyârû#! means 'Sun-king'."
+zayanmagani_gloss: "[adunaic_short|E] #bold Zâyanmagânî#! means 'Land-builder' - specifically a feminine form of masc. Zâyanmagân."
+raza_n_sapthan_gloss: "[adunaic_short|E] #bold Razâ ’nSapthân#! means 'Mercy of the Wise'."
+tarik_n_katharad_gloss: "[adunaic_short|E] #bold Târik ’nKatharâd#! means 'Pillar of Eternal Life'."
+
+### Westron ###
+
+### Rohirric ###
+
+### Dunlending ###
+
+### Forodwaithrim ###
+
+### Trevan ###
+
+### Apysaic ###
+
+### Magrin ###
+
+### Khyan ###
+
+### Muranian ###

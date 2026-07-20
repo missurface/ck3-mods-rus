@@ -1,0 +1,12 @@
+﻿l_english:
+#  BOOKMARK_RELATION_NEPHEW: "(Nephew)"
+#  BOOKMARK_RELATION_NIECE: "(Niece)"
+#  BOOKMARK_RELATION_GRANDDAUGHTER: "(Granddaughter)"
+#  BOOKMARK_RELATION_RIVAL: "(Rival)"
+#  BOOKMARK_RELATION_VASSAL: "(Vassal)"
+
+#Xaerxys' Submod
+ 
+ bookmark_numenor_adunakhor: "Ar-Adûnakhôr"
+ bookmark_numenor_adunakhor_subheading: "$BOOKMARK_SUBHEADING_DEFAULT$"
+ bookmark_numenor_adunakhor_desc: "Ar-Adûnakhôr's position is a precarious one. He is a descendant of [elrosshort|E] through Gimilzôr, son of Gimilkhâd who was unjustly robbed of his birthright by his brother. It was his father, Ar-Imrazôr who reclaimed their house's rightful crown by slaying the usurper's descendant, Ar-Aglarzîr in a duel, taking the throne of [numenor|E] with blood and sword. While Adûnakhôr rules over a superficially peaceful realm, appearances can be deceiving. While his father held the realm together for decades with sheer force of will, Adûnakhôr does not have such luxury. He is a young and unproven man ruling over a kingdom who's people have long memories, some even outright reject his claim altogether in favour of Ar-Balkazîr, the son of the last Usurper-King.\n\nTimes are perilous and Ar-Adûnakhôr will have to make difficult decisions, will he be able to steer Númenor's course for centuries to come? Or will his folly lead the island into yet another catastrophy?"

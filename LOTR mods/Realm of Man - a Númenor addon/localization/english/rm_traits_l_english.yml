@@ -1,0 +1,4 @@
+﻿l_english:  
+trait_cursed_blood:0 "Agannâlumâbâ" 
+trait_cursed_blood_desc:0 "Through ruthless sacrifice and relentless study, this character has managed to overcome the limits of mortality, although be it at great cost."
+trait_cursed_blood_character_desc:0 "Through ruthless sacrifice and relentless study, [ROOT.GetCharacter.GetFirstNameNoTooltip] has managed to overcome the limits of mortality, although be it at great cost."

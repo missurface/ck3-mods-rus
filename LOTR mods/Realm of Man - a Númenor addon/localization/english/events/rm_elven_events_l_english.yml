@@ -1,0 +1,101 @@
+﻿l_english:
+
+ rm_elven_event.0001.t:0 "The Burden of Rulership"
+ rm_elven_event.0001.desc:0 "The last few days have been rather stressful. Keeping this realm together requires a lot of endurace and patience. Unfortunately, this also means a rather tight sleep schedule. I have barely slept the past night which has led to me developing an awful headache. Perhaps it could be benefical to hold a little afternoon nap..."
+ rm_elven_event.0001.a:0 "Just a short rest..."
+ rm_elven_event.0001.a.tt:0 "They say the realm of dreams holds many secrets..."
+ rm_elven_event.0001.b:0 "I must resist, sleep is for the weak!"
+ rm_elven_event.0001.b.tt:0 "The elven storyline will be skipped"
+
+ rm_elven_event.0002.t:0 "A Dream of the [elderdays|E]"
+ rm_elven_event.0002.desc:0 "...The forest is lush and green, greener than I have ever seen it in my liftime. The birds are singing more beautifully, through the leaves, the sun is shining more brightly. The world feels younger, unburdened by darkness.\nAs I wander on, a distant voice reaches my ear, a voice so beautiful it seems almost otherworldly to me, Someone is singing. I cannot understand the language, but it sounds like something of [elderdays|E], far removed from our mortal world."
+ rm_elven_event.0002.a:0 "I must seek out its source"
+
+ rm_elven_event.0003.t:0 "The Lady of Silver"
+ rm_elven_event.0003.desc:0 "Through woodlands, hills, and meadows I chase the voice which calls to me, after what feels like an eternity, I arrive on a small clearing deep in the heart of the forest. What I see defies even my wildest imagination.\nOn the clearing before me walks a woman, fairer than any I have ever seen. Her skin shining in the sun like marble, her silver hair glitering like a string of pearls. She is an [elf|E], she must be! I have only ever heard of them in tales, but such beauty can not possibly be of men. Even the way she moves has a grace to it which is unlike any human woman.\nI want to call out, make myself known, talk to her, ask her name..."
+ rm_elven_event.0003.a:0 "Greetings Mylady, I..."
+ rm_elven_event.0003.a.tt:0 "Your voice seems to fail you"
+
+ rm_elven_event.0004.t:0 "Just a Dream?"
+ rm_elven_event.0004.desc:0 "I almost fall of my chair as I pull up from my desk. The sun outside is already setting and a deep golden light floods my study. Was it all a dream? The forest, the woman everything? It felt so real, I can practically still smell the trees, feel the air, see...her. That woman, her silver hair, her angelic voice, it all feels as real to me as anything can ever be.\nI wish to see her again, but can I? Does she even exist? I know that [elves|E] are real, There are more than enough stories about them told by my people and the palace archives are also full of them. Is this a sighn of fate? Or was it all just a trick of the mind?"
+ rm_elven_event.0004.a:0 "I must find her, no matter how long it takes!"
+ rm_elven_event.0004.a.tt:0 "To continue the story, the #bold #warning Reach out to the Elves#!#! decision must be taken."
+ rm_elven_event.0004.b:0 "It was just a dream..."
+ rm_elven_event.0004.b.tt:0 "The elven storyline will #warning not#! continue"
+
+ rm_elven_event.0005.t:0 "Visitors from Afar"
+ rm_elven_event.0005.desc:0 "Today, I recieved an unexpected visitor, [GetTitleByKey('d_andunie').GetHolder.GetUIName]. It is even more unexpected considering his visit does not seem dedicated to making my life more miserable for a change:\n\n#italic "My liege, we have recieved visitors from afar. A delegation from the [GetTitleByKey('k_imladris').GetName] arrived in the [GetTitleByKey('c_andunie').GetName] three days ago wishing to treat with you."#!\n\nIt seems my diplomatic overtures have not gone unnoticed."
+ rm_elven_event.0005.a:0 "I will recieve them"
+ rm_elven_event.0005.a.tt:0 "The elven storyline will continue"
+ rm_elven_event.0005.b:0 "I have no need for their friendship anymore"
+ rm_elven_event.0005.b.tt:0 "The elven storyline will #warning not#! continue"
+
+ rm_elven_event.0006.t:0 "A Broken Dream"
+ rm_elven_event.0006.desc:0 "I dreamed a dream once of a woman more beautiful than anything in the world. But the dream was not to be. I have failed to make it reality and it is unlikely that I can pick up the pieces."
+ rm_elven_event.0006.a:0 "It is time to wake up"
+ rm_elven_event.0006.a.tt:0 "You fumbled bro"
+
+ rm_elven_event.0007.t:0 "A Dream Made Manifest"
+ rm_elven_event.0007.desc:0 "As the delegation is lead into the throne room I almost fall off my chair. Leading them is the elven woman I saw in my dream so long ago. She is exactly as I remember, her shining silver curls, the elegant posture, there is no doubt. As I sit completely starstruck, she begins to speak:\n\n#italic "Well met great king [GetScriptedCharacterByHistoryID( 'Zigur_3' ).GetFirstNameRegnal], I bring tidings from my lord [GetScriptedCharacterByHistoryID( 'lineofelrond1' ).GetFirstNameRegnal] of [rivendell|E]. Dark have been our days of late, but yours is a hope we had not dared to dream of until now. For ages we believed the blood of [numenor|E] to be all but spent, but your triumphant return to [middleearth|E] has rekindled hope in the hearts of [men|E]. If we act now, there may yet be hope for all of us.\nMy lord Elrond wishes to propose a defensive alliance against the shadow of [mordor|E]. Let us unite our strength to overcome these dark days and banish our common enemy back into the void from whence he came."#!\n\nA perfectly delivered speech, almost too perfect. I have the feeling her intentions for coming here might not be the same as her lord's. There is a certain urgency in her words, but not for the task she was charged with. Lady from my dreams or not, I cannot agree to any proposal unless I know her full intentions."
+ rm_elven_event.0007.a:0 "#italic "May I have a word in private my lady?"#!"
+ rm_elven_event.0007.a.tt:0 "Let's see what I can find out"
+
+ rm_elven_event.0009.t:0 "Daughter of Silver"
+ rm_elven_event.0009.desc:0 "[GetScriptedCharacterByHistoryID( 'silver_elf' ).GetFirstNameRegnal] - that is her name, as she told me during our walk through the palace gardens. After a short exchange of familiarities, I feel confident enough to ask about her intentions:\n\n#italic "You are very observant my king, my intentions for coming here are indeed my own. I share my lord [GetScriptedCharacterByHistoryID( 'lineofelrond1' ).GetFirstNameRegnal]'s concerns for the future of the Free People, but my contempt for the machinations of the Dark Tower is of a more personal nature. My father was [GetScriptedCharacterByHistoryID( 'lineoffeanor10' ).GetFirstNameRegnal] master smith and ruler of [eregion|E]. He died a horrible death at the hands of [GetScriptedCharacterByHistoryID( 'lineofsauron' ).GetFirstNameRegnal] the Deciever."#!\n\nI believe I understand her designs more clearly now: #italic "It seems, the [darklord|E] has brought doom to both our people."#!\n\n#italic Indeed!- "#! My words seem to have struck a nerve: #italic "-We have a common enemy, Sauron the Deciever! I have dedicated my life to setting things right. To restore my father's titles and honours and have his memory be cherished in the halls of my people once more. Will you aid me in this? My lord Elrond is wise, but he does not believe in the restoration of Elvendom in [middleearth|E] and neither do [lindon|E] or [lothlorien|E]. What little ambition they have left revolves around their retun to the Western Shore. But I do not intend to give up on this land who's shores I was born on, who's trees I have walked under for as long as I can remember. Aid me and my people against the Shadow, and I will eternally be in your debt."#!"
+ rm_elven_event.0009.a:0 "#italic "You and your people can count on the strength of [anadune|E]!"#!"
+ rm_elven_event.0009.a.tt:0 "You will enter into a #I Defensive Alliance #! with [GetTitleByKey('k_imladris').GetHolder.GetUIName]"
+ rm_elven_event.0009.b:0 "#italic "I'm sorry, I cannot afford to take such risks in times like these..."#!"
+ rm_elven_event.0009.b.tt:0 "The elven storyline will #X not#! be continued."
+
+ rm_elven_event.0010.t:0 "Bonds Forged in Silver"
+ rm_elven_event.0010.desc:0 "#italic "My king!-"#! A fire flickers in [GetScriptedCharacterByHistoryID('silver_elf').GetFirstNameRegnal]'s eyes as she reaches out for my hand.\n-"#italic I will forever be in your debt. I do not have much, but in return for your kindness, I am prepared to offer you my service. I am a far cry from the smith my father was, but my skills are manyfold. Accept my fealty, and I shall become your most valuable companion in pursuit of our common goal.#!""
+ rm_elven_event.0010.a:0 "#italic "You have a friend in me Telemniel."#!"
+
+ rm_elven_event.0011.t:0 "Melodies of the [eldar|E]"
+ rm_elven_event.0011.desc:0 "As I take a walk through the royal woods, a strange melody reaches my ear. I spy [GetScriptedCharacterByHistoryID('silver_elf').GetFirstNameRegnal], sitting on a tree stump she plays an unfamiliar yet beautiful melody.\nI wonder, what is its meaning? Maybe I should go and ask her."
+ rm_elven_event.0011.a:0 "Approach her"
+ rm_elven_event.0011.a.tt:0 "The Elven storyline will continue"
+ rm_elven_event.0011.b:0 "I should leave her be"
+ rm_elven_event.0011.b.tt:0 "You decide to #X not#! pursue your relationship with [GetScriptedCharacterByHistoryID('silver_elf').GetFirstNameRegnal] any further"
+
+ rm_elven_event.0012.t:0 "A Child lost Between two Rivers"
+ rm_elven_event.0012.desc:0 "I decide to approach [GetScriptedCharacterByHistoryID('silver_elf').GetFirstNameRegnal]:\n\n#italic "Tell me my lady, where have you learned to play such beautiful songs?"#!\n\nA soft smile graces her lips as she puts away her lute.\n\n#italic "In [lothlorien|E], where I dwelled the first years of my life. The lady [GetScriptedCharacterByHistoryID('lineoffinarfin5').GetFirstNameRegnal] took me under her wing when I was delivered to her doorstep as an infant. In the end, she and I are kin, no matter how far removed."#!\n\nI ask to know more about her kin, but this inquiery seems to somber her mood.\n\n#italic "As I have told you before my friend, I am of the blood of [GetScriptedCharacterByHistoryID('lineoffeanor10').GetFirstNameRegnal] but I have never met anyone else who is. The line of [feanor|E] is all but dead, and I, I am what you might call an orphan. I never knew my parents, in fact, I do not even know my mother's name. All I ever had growing up was my father's name, and his legacy."#!\n\nThat is a feeling which I know all too well.\n\n#italic "A legacy you will stop at nothing to defend..."#!\n\nHer bright eyes light up at those words.\n\n#italic "So you do understand! I was right about you. From the moment I saw you I felt a burden on your shoulders not dissimilar to mine own. We are the scions of great fathers, bound to their legacy while at the same time, seeking to forge our own path forward."#!"
+ rm_elven_event.0012.a:0 "#italic "I am truly glad to have met you Telemniel."#!"
+ rm_elven_event.0012.a.tt:0 "The relationship has deepened"
+
+ rm_elven_event.0013.t:0 "An Invitation"
+ rm_elven_event.0013.a:0 "Of course I will come"
+ rm_elven_event.0013.desc:0 "Today, I recieved a letter from [GetScriptedCharacterByHistoryID('silver_elf').GetFirstNameRegnal]:\n\n#italic "My dear [GetScriptedCharacterByHistoryID('Zigur_3').GetFirstNameRegnal],\nI hope this letter finds you well. The last few months have increasingly confronted me with an issue which, I am afraid, cannot solve without your involvement. Therefore, I humbily ask you to meet me at the spot where we had our first longer conversation all those months ago.\nYour dear friend Telemniel"#!\n\nThat place would naturally be the clearing in the royal woods. Do I follow the invitation?" 
+ rm_elven_event.0013.a.tt:0 "The elven storyline will continue"
+ rm_elven_event.0013.b:0 "Alas, other matters call my attention"
+ rm_elven_event.0013.b.tt:0 "You decide to #x not#! pursue your relationship with [GetScriptedCharacterByHistoryID('silver_elf').GetFirstNameRegnal] any further"
+
+ rm_elven_event.0014.t:0 "Silver Trail"
+ rm_elven_event.0014.desc:0 "I arrive at the designated spot in the woods, and find it empty. As I sit down to wait on the tree stump, I notice something in the grass. A small skillfully crafted piece of silverwork in the shape of a flower.\nAs I bend down to pick it up, I notice another one a few metres away. On closer inspection, I see an entire trail of silver leading away from the clearing, deeper into the woods."
+ rm_elven_event.0014.a:0 "Follow the trail"
+
+ rm_elven_event.0015.t:0 "Lady of Silver Crowned in Gold"
+ rm_elven_event.0015.desc:0 "After what feels like an eternity, I finally arrive at the trail's destination. The scenery which unfolds before my eye is truly breathtaking. Trees of a colour I have never seen before, with golden crowns and white stems radiating wit a warm light that cannot be from this world, and amidst it all, [GetScriptedCharacterByHistoryID('silver_elf').GetFirstNameRegnal] waiting for me.\n\n#italic "These Malorn Trees are ancient Adûnakhôr, more ancient even than the ones in [lothlorien|E]. It is said they carry within them the memories of the [elderdays|E], memories of valor, great deeds... and true love."#!\n\nShe moves like the leaves in the trees, like the water in the springs, before I can form a second thought she has already closed the distance between us.\n\n#italic "Since our very first meeting, I have felt something, something I never thought I would. I have come to know you well and I greatly treasure our friendship. Yet I feel something deeper within my soul that is more than friendship. I feel my soul has found its purpose."#!\n\nShe is very close now, here bright blue eyes are fixated on my face with a deep facination, almost as if she cannot believe what stands before her.\n\n#italic "I have tried to burry these feelings, drown them with reason and a sense of duty, but it is impossible. I cannot escape, you have set my soul ablaze, it burns bright with desire, threatening to consume my everything. Tell me, do you feel the same? Do you love me? Tell me now or let us speak no more of it.""
+ rm_elven_event.0015.a:0 "#italic "I do, with all my heart"#!"
+ rm_elven_event.0015.b:0 "#italic "I am truly honoured by your words, but you are a valued friend, nothing more."#!"
+ rm_elven_event.0015.b.tt:0 "You #X friendzone#! her"
+
+ rm_elven_event.0016.t:0 "Under Elbereth's Light"
+ rm_elven_event.0016.desc:0 "Ever since I dreamed of her so long ago, my love for [GetScriptedCharacterByHistoryID('silver_elf').GetFirstNameRegnal] has only grown stronger. But now that I know more of the [eldar|E], I am afraid of what it might do to her.\n\n"#italic Telemniel, I am but a mortal man and although the [bloodofnumenor|E] flows strong within me, in the end, I too must share in the fate of my kin and pass beyond this world. The though of me causing you grief is-"#!\n\nShe cuts me off by gentily putting her fingers on my lips.\n\n#italic "I know. I know that, to love a mortal, I must watch the world move past him. But such short years make an eternity worth living."#!\n\nShe is very close now, and as she puts her hands in mine it matters not what I am or what she is. Only that she is here with me.\nSitting beneath the trees we see the stars beginning to fill the evening sky with their light. As she puts her head on my shoulder I think, this is how it is meant to be, how it will always be from now on until the end of my days."
+ rm_elven_event.0016.a:0 "#italic "A Elbereth Gilthoniel..."#!"
+
+ rm_elven_event.0017.t:0 "Union of Elves and Men"
+ rm_elven_event.0017.desc:0 "[GetScriptedCharacterByHistoryID('silver_elf').GetFirstNameRegnal] is with child."
+ rm_elven_event.0017.a:0 "Most joyous news"
+
+ rm_elven_event.0018.t:0 "A Child of Elves and Men"
+ rm_elven_event.0018.desc:0 "[GetScriptedCharacterByHistoryID('silver_elf').GetFirstNameRegnal] has given birth to a beautiful girl."
+ rm_elven_event.0018.a:0 "Her name shall be Zimraphêl"
+
+ rm_elven_event.0019.t:0 "Union of Elves and Men"
+ rm_elven_event.0019.desc:0 "I have been informed that [GetScriptedCharacterByHistoryID('silver_elf').GetFirstNameRegnal] is with child once again."
+ rm_elven_event.0019.a:0 "We are truly blessed"
+
+ rm_elven_event.0020.t:0 "A Second Child of Elves and Men"
+ rm_elven_event.0020.desc:0 "[GetScriptedCharacterByHistoryID('silver_elf').GetFirstNameRegnal] has given birth to a beautiful boy. The realm has an heir"
+ rm_elven_event.0020.a:0 "And his name shall be Nimruzîr"

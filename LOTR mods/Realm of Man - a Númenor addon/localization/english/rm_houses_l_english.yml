@@ -1,0 +1,16 @@
+﻿l_english:
+  # House
+  rm_house_zigur: "Gimilzôrhîn"
+  rm_house_zigur_motto: "Hilî 'nAvalôi, Bârî 'nAdûn"
+
+  rm_house_inziladun: "Inziladûnhîn"
+  rm_house_inziladun_motto: "Heirs of [GetScriptedCharacterByHistoryID( 'lineofelros1' ).GetFirstNameRegnal], Guardians of the Faith"
+
+  rm_house_pharzubel: "Pharzubêlôhîn"
+  rm_house_pharzubel_motto: "Warriors of [westernesse|E], Mighty and Proud"
+
+  rm_house_erakhor: "Êrakhôrhîn"
+  rm_house_erakhor_motto: "My Pride is Purity"
+
+  rm_house_silver_star_name: "Nos Telemniel"
+  rm_house_silver_star_motto: "Bonds of Silver Forged in Elder Days"

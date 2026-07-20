@@ -1,0 +1,7 @@
+﻿l_english:
+
+ righteous_cb: "War of Righteousness"
+ righteous_victory_desc_defender: "You will lose your primary [title|E] and your fate will be placed in the hands of the Faithful."
+ righteous_victory_desc:1 "[attacker.GetShortUIName|U] will strip the King of [defender.GetHerHis] [title|E] and organise the coronation of a new king who will pass judgement on the fate of [defender.GetShortUIName|U]."
+ righteous_defeat_desc_defender:1 "You keep your [titles|E] and imprison all rebelling [vassals|E]."
+ righteous_defeat_desc:1 "[defender.GetShortUIName|U] keeps [defender.GetHerHis] [titles|E] and imprisons all rebelling [vassals|E]."

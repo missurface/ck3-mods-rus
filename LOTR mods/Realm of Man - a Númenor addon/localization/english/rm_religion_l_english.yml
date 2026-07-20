@@ -1,0 +1,43 @@
+﻿l_english:
+
+ faith_sapthan:0 "Razâ 'nSapthân"
+ faith_sapthan_adj:0 "Razâ 'nSapthân"
+ faith_sapthan_adherent:0 "Sapthâmbên"
+ faith_sapthan_adherent_plural:0 "Sapthâmbênî"
+ faith_sapthan_desc:0 "[Glossary('Razâ ’nSapthân','raza_n_sapthan_gloss')] is probably the most pragmatic strain of [kingsmen|E] beliefs. Unlike the Ârûwânai or the Batân an-Phazân, who are shackled by their staunch traditionalism the $faith_sapthan_adherent_plural$ have embraced a philosophy of radical stoicism. They firmly reject the pomp and hedonism commonly practiced by other [kingsmen|E], believing them to be the devices of the evil Zigûr. Instead, most of $faith_sapthan$ practices are based around preparing the [adunai|E] for their great destiny of reclaiming dominion over the realms men. They believe it is their duty as the chosen among the men of [middleearth|E] to seek dominion and set an example of true kingship for the benefit of Adûnâi and lesser people alike.\n\nWhile they do adhere to what they claim to be the central teachings of the [avaloigods|E] and [eru|E], their faith differs significantly from that of the [faithful|E], most noteably in their practice ancestor veneration. To the $faith_sapthan_adherent_plural$, the heroes of old are the greatest example of strength and virtue. Only through their guidance can [anadune|E] fulfil its destiny."
+
+ faith_katharad:0 "Târik 'nKatharâd"
+ faith_katharad_desc:0 "Although the consolidation of the [Glossary('Târik ’nKatharâd','tarik_n_katharad_gloss')] is a relatively new phenomenon, its teachings are much older, dating back all the way to the first [kingsmen|E]. At its core, the faith is a deeply fundamentalist interpretation of core King's Men beliefs. Whereas other factions are historically more open to some form of religious compromise with their non-[adunaic|E] subjects for the sake of stability, the Katharâdî are uncompromising ideologues. To them, the highest form of devotion is purity in blood and faith.\n\nIn their belief [eru|E], whom they only call [erutheone|E] in rejection of any elvish names, has created the [adunai|E] as the wisest and purest among man to rule the lesser races of [middleearth|E]. As such, any dilution of their blood or deviation from their ancestral path is inherently heretic. Marrying one's own kin is therefore seen as the most direct way to openly show one's piety and dedication to the faith."
+ faith_katharad_adj:0 "Târik 'nKatharâd"
+ faith_katharad_adherent:0 "Adûnâ"
+ faith_katharad_adherent_plural:0 "Adûnâi"
+
+ tenet_numenor_strength_name:0 "Hâlîth Imrî"
+ tenet_numenor_strength_desc:0 "Why were we punished with the [akallabeth|E]? Why did we allow ourselves to fall victim to the honeyed poison of Mulkhêr and his minions? Because we were weak. We allowed ourselves to fall into decadence, we had forgotten the ways of our forfathers and with it our true destiny. The [adunai|E] are the first among the race of men, and as such it is our duty to guide lesser people. In the end all that is good and righteous shall triumph over wickedness and falsehood. Just has the great kings of old, we dedicate our lives to the righteous cause, fighting darkness and corruption wherever it spreads."
+ 
+ tenet_zigur_name:0 "Aglar n'Adûn"
+ tenet_zigur_desc:0 "The purity of our people is paramount. the [adunai|E] are the greatest civilisation on [arda|E] and our inherent superiority can only be maintained by ensuring an unbroken lineage of the ancient bloodlines which have lead our people for generations."
+ 
+ tenet_num_crusade_name:0 "Sidâzgar"
+ tenet_num_crusade_desc:0 "There is no greater honour than dedication to the cause. We are the children of [anadune|E] and it is our duty to spread our enlightened rule all across [middleearth|E]. All will delight in our rule and those who shun our mercy shall be whiped out with fire and sword."
+
+
+ # Purifying Darkness Descriptions
+
+ doctrine_parameter_has_access_to_trials_by_combat:0 "[crimes|E] by [characters|E] that you cannot [imprison|E] and who aren't your [liege|E] may be settled via [single_combat_fight|E]"
+ doctrine_parameter_can_duel_rivals:0 "$UNLOCKS_ABILITY_TO_DUEL_RIVALS$"
+
+ doctrine_purifying_darkness_name:0 "Purifying Darkness"
+ doctrine_purifying_darkness_desc:0 "WIP"
+
+ doctrine_parameter_hostility_override_doctrine_purifying_darkness: ""
+ 
+ doctrine_parameter_doctrine_purifying_darkness_evil_desc: "#high Sauronic#! [faiths|E] with the #high Sauronic State Faith#! [doctrine|E] are considered $hostility_evil_tooltippable$"
+ doctrine_parameter_doctrine_purifying_darkness_evil_2_desc: "#high [GetReligionFamily('rf_darkness').GetName]#! [faiths|E] with the #high Dominion of the Dark#! [doctrine|E] are considered $hostility_evil_tooltippable$"
+ doctrine_parameter_doctrine_purifying_darkness_hostile_desc: "#high [GetReligionFamily('rf_forcesofevil').GetName]#! [faiths|E] with the #high Survival of the Strong#! [doctrine|E] and #high [GetReligionFamily('rf_darkness').GetName]#! [faiths|E] with the #high A People Apart#! [doctrine|E] are considered $hostility_hostile_tooltippable$"
+ doctrine_parameter_doctrine_purifying_darkness_hostile_2_desc: "#high [GetReligionFamily('rf_eruhini').GetName]#! [faiths|E] and #high [GetReligionFamily('rf_darkness').GetName]#! [faiths|E] with the #high Echoes of the Ainur#! [doctrine|E] are considered $hostility_hostile_tooltippable$"
+ doctrine_parameter_doctrine_purifying_darkness_astray_desc: "#high [GetReligionFamily('rf_darkness').GetName]#! [faiths|E] with the #high Purifying Darkness#! [doctrine|E] are considered $hostility_astray_tooltippable$"
+
+ tenet_adunaic_mission_name:0 "Mission of the Adûnâi"
+ tenet_adunaic_mission_desc:0 "The Adûnâi, mightiest and noblest of all men were bestowed with a sacred errand. All across Middle Earth the taint of the Dark Lord's shadow has spread, and it is our duty to cleanse it off this filth. By the rigeous fury of our swords Sauron and his minions shall be vanquished. Under our rule, Arda shall once again be made pure and prosperous."
+

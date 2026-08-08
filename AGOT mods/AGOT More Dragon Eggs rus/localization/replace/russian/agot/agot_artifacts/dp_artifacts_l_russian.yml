@@ -141,6 +141,3 @@
  dragon_egg_dragon_ancestor_4_ui_desc: "This egg will hatch Peldion."
  dragon_egg_dragon_ancestor_5_ui_desc: "This egg will hatch Volon."
  dragon_egg_dragon_ancestor_6_ui_desc: "This egg will hatch Telarion."
-  
- mde_dragon_egg_gen_parent: "It was laid by [tempdragonparent.GetName]."
- mde_dragon_egg_gen_parents: "It was laid by [tempdragonparent.GetName] and [dragon_parent_other.GetName]."

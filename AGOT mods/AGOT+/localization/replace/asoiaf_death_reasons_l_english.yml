@@ -1,0 +1,3 @@
+﻿l_english:
+ death_aegonvi_murder_known:0 "was "murdered""
+ death_aegonvi_murder_known_killer:0 "was "murdered" by [TARGET_CHARACTER.GetUIName]"

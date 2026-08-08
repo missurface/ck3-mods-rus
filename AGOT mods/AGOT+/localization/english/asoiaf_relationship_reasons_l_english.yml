@@ -33,17 +33,17 @@
 
  asoiaf_stannis_mace_grudge_desc:0 "[CHARACTER.GetFirstName|U] never forgot [TARGET_CHARACTER.GetFirstNamePossessive] brutal siege of Storm's End."
  
- asoiaf_cersei_jaime_lover_desc:0 "[TARGET_CHARACTER.GetShortUIName|U] and [CHARACTER.GetShortUIName] fell in love after growing close to one another and experimenting sexually in their youth."
- asoiaf_cersei_jaime_lover_desc_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] fell in love after growing close to one another and experimenting sexually in their youth."
+ asoiaf_cersei_jaime_lover_desc:0 "[TARGET_CHARACTER.GetShortUINameNotMe|U] and [CHARACTER.GetShortUINameNotMe] fell in love after growing close to one another and experimenting sexually in their youth."
+ asoiaf_cersei_jaime_lover_desc_corresponding:0 "[CHARACTER.GetShortUINameNotMe|U] and [TARGET_CHARACTER.GetShortUINameNotMe] fell in love after growing close to one another and experimenting sexually in their youth."
 
- asoiaf_lanor_joffrey_soulmate_desc:0 "[TARGET_CHARACTER.GetShortUIName|U] and [CHARACTER.GetShortUIName] fell deeply in love after sharing much of their lives together."
- asoiaf_lanor_joffrey_soulmate_desc_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] fell deeply in love after sharing much of their lives together."
+ asoiaf_lanor_joffrey_soulmate_desc:0 "[TARGET_CHARACTER.GetShortUINameNotMe|U] and [CHARACTER.GetShortUINameNotMe] fell deeply in love after sharing much of their lives together."
+ asoiaf_lanor_joffrey_soulmate_desc_corresponding:0 "[CHARACTER.GetShortUINameNotMe|U] and [TARGET_CHARACTER.GetShortUINameNotMe] fell deeply in love after sharing much of their lives together."
 
- asoiaf_rhaenyra_harwin_lover_desc:0 "[TARGET_CHARACTER.GetShortUIName|U] and [CHARACTER.GetShortUIName] fell in love after spending a lot of time with each other at court."
- asoiaf_rhaenyra_harwin_lover_desc_corresponding:0 "[CHARACTER.GetShortUIName] and [TARGET_CHARACTER.GetShortUIName|U] fell in love after spending a lot of time with each other at court."
+ asoiaf_rhaenyra_harwin_lover_desc:0 "[TARGET_CHARACTER.GetShortUINameNotMe|U] and [CHARACTER.GetShortUINameNotMe] fell in love after spending a lot of time with each other at court."
+ asoiaf_rhaenyra_harwin_lover_desc_corresponding:0 "[CHARACTER.GetShortUINameNotMe] and [TARGET_CHARACTER.GetShortUINameNotMe|U] fell in love after spending a lot of time with each other at court."
 
- asoiaf_aegon_daena_lover_desc:0 "[TARGET_CHARACTER.GetShortUIName|U] and [CHARACTER.GetShortUIName] began taking each other to bed in search of excitement and lust."
- asoiaf_aegon_daena_lover_desc_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] began taking each other to bed in search of excitement and lust."
+ asoiaf_aegon_daena_lover_desc:0 "[TARGET_CHARACTER.GetShortUINameNotMe|U] and [CHARACTER.GetShortUINameNotMe] began taking each other to bed in search of excitement and lust."
+ asoiaf_aegon_daena_lover_desc_corresponding:0 "[CHARACTER.GetShortUINameNotMe|U] and [TARGET_CHARACTER.GetShortUINameNotMe] began taking each other to bed in search of excitement and lust."
 
  asoiaf_alicent_rhaenyra_friend_desc:0 "[CHARACTER.GetFirstName] and [TARGET_CHARACTER.GetFirstName] grew up with each other and developed a close friendship."
  asoiaf_alicent_rhaenyra_friend_desc_corresponding:0 "[TARGET_CHARACTER.GetFirstName] and [CHARACTER.GetFirstName] grew up with each other and developed a close friendship."
@@ -51,11 +51,11 @@
  asoiaf_alicent_rhaenyra_rival_desc:0 "[CHARACTER.GetFirstName] despises [TARGET_CHARACTER.GetFirstName] for flouting [TARGET_CHARACTER.GetHerHis] duties while claiming the rightful inheritance of [CHARACTER.GetFirstNamePossessiveNoTooltip] children."
  asoiaf_alicent_rhaenyra_rival_desc_corresponding:0 "[TARGET_CHARACTER.GetFirstName] despises [CHARACTER.GetFirstName] for flouting [CHARACTER.GetHerHis] duties while claiming the rightful inheritance of [TARGET_CHARACTER.GetFirstNamePossessiveNoTooltip] children."
 
- asoiaf_alicent_criston_lover_desc:0 "Following the death of King Viserys I, [CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] deepened their friendship into a sexual relationship."
- asoiaf_alicent_criston_lover_desc_corresponding:0 "Following the death of King Viserys I, [TARGET_CHARACTER.GetShortUIName|U] and [CHARACTER.GetShortUIName] deepened their friendship into a sexual relationship."
+ asoiaf_alicent_criston_lover_desc:0 "Following the death of King Viserys I, [CHARACTER.GetShortUINameNotMe|U] and [TARGET_CHARACTER.GetShortUINameNotMe] deepened their friendship into a sexual relationship."
+ asoiaf_alicent_criston_lover_desc_corresponding:0 "Following the death of King Viserys I, [TARGET_CHARACTER.GetShortUINameNotMe|U] and [CHARACTER.GetShortUINameNotMe] deepened their friendship into a sexual relationship."
 
- asoiaf_alicent_criston_friend_desc:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] grew close after mutual betrayals by Rhaenyra Targaryen, compounded by blossoming mutual respect."
- asoiaf_alicent_criston_friend_desc_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] and [CHARACTER.GetShortUIName] grew close after mutual betrayals by Rhaenyra Targaryen, compounded by blossoming mutual respect."
+ asoiaf_alicent_criston_friend_desc:0 "[CHARACTER.GetShortUINameNotMe|U] and [TARGET_CHARACTER.GetShortUINameNotMe] grew close after mutual betrayals by Rhaenyra Targaryen, compounded by blossoming mutual respect."
+ asoiaf_alicent_criston_friend_desc_corresponding:0 "[TARGET_CHARACTER.GetShortUINameNotMe|U] and [CHARACTER.GetShortUINameNotMe] grew close after mutual betrayals by Rhaenyra Targaryen, compounded by blossoming mutual respect."
 
  asoiaf_criston_aegon_friend_desc:0 "[CHARACTER.GetFirstName|U] took on a fatherly role in [TARGET_CHARACTER.GetFirstNamePossessive] life since infancy."
  asoiaf_criston_aegon_friend_desc_corresponding:0 "[TARGET_CHARACTER.GetFirstName|U] took on a fatherly role in [CHARACTER.GetFirstNamePossessive] life since infancy."
@@ -68,11 +68,11 @@
 
  asoiaf_criston_rhaenyra_grudge_desc:0 "[CHARACTER.GetFirstName] resents [TARGET_CHARACTER.GetFirstName] for dishonouring [CHARACTER.HerHim] with false promises, then proving [TARGET_CHARACTER.GetHerselfHimself] unfit to rule through unbecoming behaviour."
 
- asoiaf_margaery_sansa_friend_desc:0 "Common circumstance has brought [CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName|U] together in friendship."
- asoiaf_margaery_sansa_friend_desc_corresponding:0 "Common circumstance has brought [TARGET_CHARACTER.GetShortUIName|U] and [CHARACTER.GetShortUIName] together in friendship."
+ asoiaf_margaery_sansa_friend_desc:0 "Common circumstance has brought [CHARACTER.GetShortUINameNotMe|U] and [TARGET_CHARACTER.GetShortUINameNotMe|U] together in friendship."
+ asoiaf_margaery_sansa_friend_desc_corresponding:0 "Common circumstance has brought [TARGET_CHARACTER.GetShortUINameNotMe|U] and [CHARACTER.GetShortUINameNotMe] together in friendship."
 
- asoiaf_cersei_margaery_rival_desc:0 "Vying for power at court, [CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUINamePossessive] relationship is mired by constant tension and hatred."
- asoiaf_cersei_margaery_rival_desc_corresponding:0 "Vying for power at court, [TARGET_CHARACTER.GetShortUIName|U] and [CHARACTER.GetShortUINamePossessive] relationship is mired by constant tension and hatred."
+ asoiaf_cersei_margaery_rival_desc:0 "Vying for power at court, [CHARACTER.GetShortUINameNotMe|U] and [TARGET_CHARACTER.GetShortUINamePossessiveNotMy] relationship is mired by constant tension and hatred."
+ asoiaf_cersei_margaery_rival_desc_corresponding:0 "Vying for power at court, [TARGET_CHARACTER.GetShortUINameNotMe|U] and [CHARACTER.GetShortUINamePossessiveNotMy] relationship is mired by constant tension and hatred."
 
  asoiaf_areo_doran_friend_desc:0 "[CHARACTER.GetFirstName|U] devoted [CHARACTER.GetHerselfHimself] to [TARGET_CHARACTER.GetFirstNamePossessive] service after joining [TARGET_CHARACTER.GetHerHis] court, quickly becoming a close confidant and loyal sword."
  asoiaf_areo_doran_friend_desc_corresponding:0 "[TARGET_CHARACTER.GetFirstName|U] devoted [TARGET_CHARACTER.GetHerselfHimself] to [CHARACTER.GetFirstNamePossessive] service after joining [CHARACTER.GetHerHis] court, quickly becoming a close confidant and loyal sword."

@@ -29,12 +29,12 @@
   setting_amsb_ai_abdicate_enabled_desc:0 "Правители под управлением ИИ могут принимать решение об отречении"
 
   # Правила двора Драконьего Камня
-  rule_amsb_dragonstone_throne_room:0 "#D AM&SB:#! Тронный зал Драконьего Камня#!"
-  rule_amsb_dragonstone_throne_room_desc:0 "Определяет, какой тронный зал будет у Драконьего Камня в начале игры: из AGOT или из телесериала"
-  setting_amsb_dragonstone_throne_room_no:0 "#R Отключено#!"
-  setting_amsb_dragonstone_throne_room_no_desc:0 "Драконий Камень будет использовать тронный зал из AGOT"
-  setting_amsb_dragonstone_throne_room_yes:0 "#P Включено#!"
-  setting_amsb_dragonstone_throne_room_yes_desc:0 "Драконий Камень будет использовать тронный зал из телесериала"
+  rule_amsb_dragon_skull_court_restriction:0 "#D AM&SB:#! Throne Room Dragon Skull Artifacts#!"
+  rule_amsb_dragon_skull_court_restriction_desc:0 "Determines if Dragon Skull Artifacts can be displayed in any court (WARNING: Skulls will be tiny depending on throne room)"
+  setting_amsb_dragon_skulls_restricted:0 "#R Restricted#!"
+  setting_amsb_dragon_skulls_restricted_desc:0 "Dragon Skulls can only be displayed in Kings Landing"
+  setting_amsb_dragon_skulls_free:0 "#P Unrestricted#!"
+  setting_amsb_dragon_skulls_free_desc:0 "Dragon Skulls can be displayed in any court county (WARNING: Skulls will be tiny depending on throne room)"
 
   # Категория правил игры
   game_rule_category_amsb_game_rules:0 "#D Правила AM&SB#!"

@@ -1,0 +1,32 @@
+﻿l_russian:
+#VS Weapons
+ vs_torment_name:0 "Torment"
+ vs_torment_description:0 "Torment is a legendary Valyrian steel blade forged by Daemon Volar"
+
+ vs_dragon_halberd_name:0 "Dragon Halberd"
+ vs_dragon_halberd_description:0 "An ancient Valyrian Steel Halberd welded by Dragon Guards in Old Valyria."
+
+ vs_abyss_name:0 "Abyss"
+ vs_abyss_description:0 "A Valyrian Steel war axe with a black driftwood handle. The head and tenticles of a kraken are carved in the head of the axe with ruby gemstones set in the eyes."
+
+ vs_frostbite_hammer_name:0 "Frostbite"
+ vs_frostbite_hammer_description:0 "Frostbite is a weapon of legend, forged from pale blue Valyrian steel, a testament to the might of House Frost. Its massive head, shaped like a crow's beak, is as fearsome as the northern winds that sweep across its icy homeland.\n\nOnce wielded by the last of the Frost kings, it stood as the symbol of a dynasty that ruled from the heart of Frostguard.\n\nLost to time, Frostbite’s whereabouts remain unknown — however, its legend endures, with the weapon whispered to lie hidden somewhere in the frozen wastes, awaiting the hand of someone worthy of its power."
+
+ vs_mages_fire_name:0 "Mage's Fire"
+ vs_mages_fire_desc:0 "A one-handed rapier with a slender double-edged blade designed for thrusting through an opponents defenses. The metal of its guard is finished in a fading color that transverses from white to blue, matching the blue of its grip and pommel. It is a weapon of precision and closer to a work of art than an implement of war."
+
+ vs_stormbringer_name:0 "Stormbringer"
+ vs_stormbringer_description:0 "The Valyrian steel sword of House Varezys, a relic of fire and shadow, a blade wrought in the crucibles of the Fourteen Flames. The blade has seen the furthest expanses of the Valyrian Empire."
+
+ vs_harbinger_name:0 "Harbinger"
+ vs_harbinger_description:0 "The Valyrian steel sword of House Vizeryon, Sa relic of fire, blood and shadow, a blade wrought in the crucibles of the Fourteen Flames."
+
+ vs_shadowborn_name:0 "Shadowborn"
+ vs_shadowborn_description:0 "Shadowborn is said to be the Valyrian Steel sword passed down through the rulers of Oreos in the Valyrian Freehold"
+
+ vs_ashfall_name:0 "Ashfall"
+ vs_ashfall_description:0 "The Valyrian Steel Mace of a wealthy warrior family from the Valyrian Freehold"
+
+# Non VS Weapons  
+ dothraki_arakh_name:0 "Dothraki Arakh"
+ dothraki_arakh_description:0 "Traditional weapon of the Dothraki."

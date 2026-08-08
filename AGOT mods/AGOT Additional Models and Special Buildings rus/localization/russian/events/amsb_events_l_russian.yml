@@ -4,9 +4,24 @@
  amsb_dragonpit.0001.desc:0 "На основании бывшей Септы Поминовения возведено Драконье логово. Прежний центр городского богослужения теперь готов принять драконов державы. Их появление вновь сделало необходимым логово, где чудовища будут жить вдали от городских простолюдинов.\n\nИ лорды, и простой народ боятся драконов, однако мало кто возражает против строительства Драконьего логова, ставшего величественным памятником могуществу престола."
  amsb_dragonpit.0001.a:0 "Воистину великолепно"
 
- #COWBOOK: ХАРРЕНХОЛЛ
+ #COWBOOK HARRENHAL
 #  cowbook.1000.t:0 "Могучий Харренхолл"
 #  cowbook.1000.desc:0 "Пять великих башен Харренхолла показываются перед моим войском за много лиг. Они тянутся к небесам, и всем ясно: людям и осадным орудиям никогда не взять этот великий город и его могучую крепость.\n\nВоеначальники докладывают, что боевой дух солдат угасает, но я напоминаю им: могущество дома Таргариен никогда не зависело от людей, несущих наши знамёна.\n\nЯ оставляю военный лагерь позади, взбираюсь на Балериона и взмываю в небо. Паря высоко над городом, я уже знаю, как уничтожить этот памятник тщеславию смертных."
 #  cowbook.1000.a:0 "Дракарис!"
 #  cowbook.1000.c:0 "Я не могу учинить столь бессмысленную бойню"
 #  cowbook.1000.a.desc:0 "Харренхолл разорён, оплавлен и искорёжен драконьим пламенем; от былого величия осталась лишь разбитая оболочка"
+
+ amsb_valyrian_steel.1000.t:0 "Recover the Varezys Dynasty Artifacts"
+ amsb_valyrian_steel.1000.desc_gen:0 "It has been ages since [aurion.GetFullName] lost Stormbringer during his attempt to conquer the ruined Valyria. House [ROOT.Char.GetDynasty.GetBaseName] has been without a Valyrian steel blade ever since.\n\nPerhaps it is time to attempt to recover the blade? There are few problems that gold cannot solve. With enough money—and daring adventurers—Stormbringer could be recovered.\n\n[explorer.GetFirstName], a local captain, has offered to lead the expedition.\n\nThe trip will be both expensive and dangerous... but the rewards could be impressive."
+ amsb_valyrian_steel.1000.a:0 "Return safely, [explorer.GetName]"
+ amsb_valyrian_steel.1000.a.tt:0 "[explorer.GetFirstName] will travel to Valyria and attempt to retrieve Stormbringer"
+ amsb_valyrian_steel.1000.b:0 "Perhaps now is not the time for a quest to Valyria..."
+ amsb_valyrian_steel.1000.b.tt:0 "You will cancel the expedition and your gold will be refunded"
+
+ amsb_valyrian_steel.1002.t:0 "Recover the Varezys Dynasty Artifacts"
+ amsb_valyrian_steel.1002.desc:0 "Word of [explorer.GetFirstNamePossessive] return has worked its way to me. I rush down to the docks and see that the crew is already unloading chests full of gold and other spoils from Old Valyria.\n\n[explorer.GetFirstName] approaches me with a large greatsword in hand. [explorer.GetSheHe|U] bows and presents it to me. "Stormbringer, my [ROOT.Char.GetLadyLord]. We found the wreck of [aurion.GetFirstNamePossessive] ship deep in the Smoking Sea... It is past time that the sword returns to House [ROOT.Char.GetDynasty.GetBaseName]."\n\nI take the sword into my hands. Stormbringer has finally returned home."
+ amsb_valyrian_steel.1002.a:0 "[ROOT.Char.GetHouse.GetMotto]!"
+
+ amsb_valyrian_steel.1003.t:0 "Recover the Varezys Dynasty Artifacts"
+ amsb_valyrian_steel.1003.desc:0 "[explorer.GetFirstNamePossessive] expedition is long overdue. They were scheduled to have returned by now.\n\nI fear that something has gone terribly wrong in the Smoking Sea..."
+ amsb_valyrian_steel.1003.a:0 "Valyria has claimed another life..."

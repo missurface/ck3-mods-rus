@@ -21,7 +21,7 @@
  
  asoiaf_cersei_unella_grudge_desc:0 "[CHARACTER.GetFirstName|U] твёрдо решила, что [CHARACTER.GetHerHis] лицо станет последним, что увидит [TARGET_CHARACTER.GetFirstName] перед смертью."
  
- asoiaf_aegon_gregor_grudge_desc:0 "[CHARACTER.GetFirstName|U] требует, чтобы [TARGET_CHARACTER.GetFirstName] был предан суду после чудовищных преступлений — изнасилования и убийства [CHARACTER.GetRealMother.GetShortUIName], совершённых [TARGET_CHARACTER.GetFirstName]."
+ asoiaf_aegon_gregor_grudge_desc:0 "[CHARACTER.GetFirstName|U] требует, чтобы [TARGET_CHARACTER.GetFirstName] был предан суду после чудовищных преступлений — изнасилования и убийства [CHARACTER.GetRealMother.GetShortUINameNotMe], совершённых [TARGET_CHARACTER.GetFirstName]."
  
  asoiaf_robert_rhaegar_grudge_desc:0 "[CHARACTER.GetFirstName|U] жаждет мести [TARGET_CHARACTER.GetFirstName] после побега [TARGET_CHARACTER.GetFirstName] с невестой [CHARACTER.GetFirstNamePossessiveNoTooltip]."
  
@@ -33,17 +33,17 @@
  
  asoiaf_stannis_mace_grudge_desc:0 "[CHARACTER.GetFirstName|U] не забывает жестокую осаду Штормового Предела, устроенную [TARGET_CHARACTER.GetFirstNamePossessive]."
  
- asoiaf_cersei_jaime_lover_desc:0 "[TARGET_CHARACTER.GetShortUIName|U] и [CHARACTER.GetShortUIName] полюбили друг друга, сблизившись в юности и пускаясь в смелые эксперименты."
- asoiaf_cersei_jaime_lover_desc_corresponding:0 "[CHARACTER.GetShortUIName|U] и [TARGET_CHARACTER.GetShortUIName] полюбили друг друга, сблизившись в юности и пускаясь в смелые эксперименты."
+ asoiaf_cersei_jaime_lover_desc:0 "[TARGET_CHARACTER.GetShortUINameNotMeNotMe|U] и [CHARACTER.GetShortUINameNotMeNotMe] полюбили друг друга, сблизившись в юности и пускаясь в смелые эксперименты."
+ asoiaf_cersei_jaime_lover_desc_corresponding:0 "[CHARACTER.GetShortUINameNotMeNotMe|U] и [TARGET_CHARACTER.GetShortUINameNotMeNotMe] полюбили друг друга, сблизившись в юности и пускаясь в смелые эксперименты."
  
- asoiaf_lanor_joffrey_soulmate_desc:0 "[TARGET_CHARACTER.GetShortUIName|U] и [CHARACTER.GetShortUIName] полюбили друг друга всем сердцем, разделив значительную часть жизни."
- asoiaf_lanor_joffrey_soulmate_desc_corresponding:0 "[CHARACTER.GetShortUIName|U] и [TARGET_CHARACTER.GetShortUIName] полюбили друг друга всем сердцем, разделив значительную часть жизни."
+ asoiaf_lanor_joffrey_soulmate_desc:0 "[TARGET_CHARACTER.GetShortUINameNotMe|U] и [CHARACTER.GetShortUINameNotMe] полюбили друг друга всем сердцем, разделив значительную часть жизни."
+ asoiaf_lanor_joffrey_soulmate_desc_corresponding:0 "[CHARACTER.GetShortUINameNotMe|U] и [TARGET_CHARACTER.GetShortUINameNotMe] полюбили друг друга всем сердцем, разделив значительную часть жизни."
  
- asoiaf_rhaenyra_harwin_lover_desc:0 "[TARGET_CHARACTER.GetShortUIName|U] и [CHARACTER.GetShortUIName] влюбились друг в друга, проводя много времени вместе при дворе."
- asoiaf_rhaenyra_harwin_lover_desc_corresponding:0 "[CHARACTER.GetShortUIName] и [TARGET_CHARACTER.GetShortUIName|U] влюбились друг в друга, проводя много времени вместе при дворе."
+ asoiaf_rhaenyra_harwin_lover_desc:0 "[TARGET_CHARACTER.GetShortUINameNotMe|U] и [CHARACTER.GetShortUINameNotMe] влюбились друг в друга, проводя много времени вместе при дворе."
+ asoiaf_rhaenyra_harwin_lover_desc_corresponding:0 "[CHARACTER.GetShortUINameNotMe] и [TARGET_CHARACTER.GetShortUINameNotMe|U] влюбились друг в друга, проводя много времени вместе при дворе."
  
- asoiaf_aegon_daena_lover_desc:0 "[TARGET_CHARACTER.GetShortUIName|U] и [CHARACTER.GetShortUIName] стали делить ложе в поисках возбуждения и страсти."
- asoiaf_aegon_daena_lover_desc_corresponding:0 "[CHARACTER.GetShortUIName|U] и [TARGET_CHARACTER.GetShortUIName] стали делить ложе в поисках возбуждения и страсти."
+ asoiaf_aegon_daena_lover_desc:0 "[TARGET_CHARACTER.GetShortUINameNotMe|U] и [CHARACTER.GetShortUINameNotMe] стали делить ложе в поисках возбуждения и страсти."
+ asoiaf_aegon_daena_lover_desc_corresponding:0 "[CHARACTER.GetShortUINameNotMe|U] и [TARGET_CHARACTER.GetShortUINameNotMe] стали делить ложе в поисках возбуждения и страсти."
  
  asoiaf_alicent_rhaenyra_friend_desc:0 "[CHARACTER.GetFirstName] и [TARGET_CHARACTER.GetFirstName] выросли вместе и со временем крепко подружились."
  asoiaf_alicent_rhaenyra_friend_desc_corresponding:0 "[TARGET_CHARACTER.GetFirstName] и [CHARACTER.GetFirstName] выросли вместе и со временем крепко подружились."
@@ -51,11 +51,11 @@
  asoiaf_alicent_rhaenyra_rival_desc:0 "[CHARACTER.GetFirstName] ненавидит [TARGET_CHARACTER.GetFirstName] за пренебрежение [TARGET_CHARACTER.GetHerHis] долгом при притязаниях на законное наследство детей [CHARACTER.GetFirstNamePossessiveNoTooltip]."
  asoiaf_alicent_rhaenyra_rival_desc_corresponding:0 "[TARGET_CHARACTER.GetFirstName] ненавидит [CHARACTER.GetFirstName] за пренебрежение [CHARACTER.GetHerHis] долгом при притязаниях на законное наследство детей [TARGET_CHARACTER.GetFirstNamePossessiveNoTooltip]."
  
- asoiaf_alicent_criston_lover_desc:0 "После смерти короля Визериса I [CHARACTER.GetShortUIName|U] и [TARGET_CHARACTER.GetShortUIName] превратили дружбу в любовную связь."
- asoiaf_alicent_criston_lover_desc_corresponding:0 "После смерти короля Визериса I [TARGET_CHARACTER.GetShortUIName|U] и [CHARACTER.GetShortUIName] превратили дружбу в любовную связь."
+ asoiaf_alicent_criston_lover_desc:0 "После смерти короля Визериса I [CHARACTER.GetShortUINameNotMe|U] и [TARGET_CHARACTER.GetShortUINameNotMe] превратили дружбу в любовную связь."
+ asoiaf_alicent_criston_lover_desc_corresponding:0 "После смерти короля Визериса I [TARGET_CHARACTER.GetShortUINameNotMe|U] и [CHARACTER.GetShortUINameNotMe] превратили дружбу в любовную связь."
  
- asoiaf_alicent_criston_friend_desc:0 "[CHARACTER.GetShortUIName|U] и [TARGET_CHARACTER.GetShortUIName] сблизились после взаимных предательств со стороны Рейниры Таргариен, а также на фоне растущего взаимного уважения."
- asoiaf_alicent_criston_friend_desc_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] и [CHARACTER.GetShortUIName] сблизились после взаимных предательств со стороны Рейниры Таргариен, а также на фоне растущего взаимного уважения."
+ asoiaf_alicent_criston_friend_desc:0 "[CHARACTER.GetShortUINameNotMe|U] и [TARGET_CHARACTER.GetShortUINameNotMe] сблизились после взаимных предательств со стороны Рейниры Таргариен, а также на фоне растущего взаимного уважения."
+ asoiaf_alicent_criston_friend_desc_corresponding:0 "[TARGET_CHARACTER.GetShortUINameNotMe|U] и [CHARACTER.GetShortUINameNotMe] сблизились после взаимных предательств со стороны Рейниры Таргариен, а также на фоне растущего взаимного уважения."
  
  asoiaf_criston_aegon_friend_desc:0 "[CHARACTER.GetFirstName|U] — отцовская фигура в жизни [TARGET_CHARACTER.GetFirstNamePossessive] с младенчества."
  asoiaf_criston_aegon_friend_desc_corresponding:0 "[TARGET_CHARACTER.GetFirstName|U] — отцовская фигура в жизни [CHARACTER.GetFirstNamePossessive] с младенчества."
@@ -68,11 +68,11 @@
  
  asoiaf_criston_rhaenyra_grudge_desc:0 "[CHARACTER.GetFirstName] затаил обиду на [TARGET_CHARACTER.GetFirstName] за бесчестье, причинённое [CHARACTER.GetHerHim] ложными обещаниями, и за то, что недостойное поведение [TARGET_CHARACTER.GetFirstName] показывает: [TARGET_CHARACTER.GetSheHe] не годится для власти."
  
- asoiaf_margaery_sansa_friend_desc:0 "Общие обстоятельства свели [CHARACTER.GetShortUIName|U] и [TARGET_CHARACTER.GetShortUIName|U], превратив их в друзей."
- asoiaf_margaery_sansa_friend_desc_corresponding:0 "Общие обстоятельства свели [TARGET_CHARACTER.GetShortUIName|U] и [CHARACTER.GetShortUIName], превратив их в друзей."
+ asoiaf_margaery_sansa_friend_desc:0 "Общие обстоятельства свели [CHARACTER.GetShortUINameNotMe|U] и [TARGET_CHARACTER.GetShortUINameNotMe|U], превратив их в друзей."
+ asoiaf_margaery_sansa_friend_desc_corresponding:0 "Общие обстоятельства свели [TARGET_CHARACTER.GetShortUINameNotMe|U] и [CHARACTER.GetShortUINameNotMe], превратив их в друзей."
  
- asoiaf_cersei_margaery_rival_desc:0 "В борьбе за власть при дворе отношения [CHARACTER.GetShortUIName|U] и [TARGET_CHARACTER.GetShortUINamePossessive] тонут в постоянном напряжении и ненависти."
- asoiaf_cersei_margaery_rival_desc_corresponding:0 "В борьбе за власть при дворе отношения [TARGET_CHARACTER.GetShortUIName|U] и [CHARACTER.GetShortUINamePossessive] тонут в постоянном напряжении и ненависти."
+ asoiaf_cersei_margaery_rival_desc:0 "В борьбе за власть при дворе отношения [CHARACTER.GetShortUINameNotMe|U] и [TARGET_CHARACTER.GetShortUINamePossessiveNotMy] тонут в постоянном напряжении и ненависти."
+ asoiaf_cersei_margaery_rival_desc_corresponding:0 "В борьбе за власть при дворе отношения [TARGET_CHARACTER.GetShortUINameNotMe|U] и [CHARACTER.GetShortUINamePossessiveNotMy] тонут в постоянном напряжении и ненависти."
  
  asoiaf_areo_doran_friend_desc:0 "[CHARACTER.GetFirstName|U] посвящает [CHARACTER.GetHerselfHimself] службе [TARGET_CHARACTER.GetFirstNamePossessive] после присоединения ко двору [TARGET_CHARACTER.GetHerHis], быстро становясь доверенным лицом и верным мечом."
  asoiaf_areo_doran_friend_desc_corresponding:0 "[TARGET_CHARACTER.GetFirstName|U] посвящает [TARGET_CHARACTER.GetHerselfHimself] службе [CHARACTER.GetFirstNamePossessive] после присоединения ко двору [CHARACTER.GetHerHis], быстро становясь доверенным лицом и верным мечом."

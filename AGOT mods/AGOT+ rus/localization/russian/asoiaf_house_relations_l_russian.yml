@@ -1,2 +1,3 @@
 ﻿l_russian:
- house_relation_reason_asoiaf_destroyed_valyrian_steel_artefact_desc: "[target_char.GetShortUIName|U] [Select_CString(target_char.IsFemale, 'уничтожила', 'уничтожил' )] артефакт из валирийской стали дома [char.GetDynastyHouseName]"
+ house_relation_reason_asoiaf_destroyed_valyrian_steel_artefact_desc: "[target_char.GetShortUINameNotMe|U] [Select_CString(target_char.IsFemale, 'уничтожила', 'уничтожил' )] артефакт из валирийской стали дома [char.GetDynastyHouseName]"
+ house_relation_reason_asoiaf_dismissed_from_kingsguard_desc: "[target_char.GetShortUINameNotMe|U] [Select_CString(target_char.IsFemale, 'исключена', 'исключён' )] [recipient.GetShortUINameNotMe] из Королевской гвардии"

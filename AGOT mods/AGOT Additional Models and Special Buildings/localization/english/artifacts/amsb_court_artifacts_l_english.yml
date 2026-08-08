@@ -1,0 +1,5 @@
+﻿l_english:
+#Thrones
+ harrens_throne_name:0 "Harren's Throne"
+ harrens_throne_description:0 "The feared throne of Harren Hoare who conquered [GetTitleByKey('e_the_riverlands').GetNameNoTier] and pillaged the resources there to construct his mighty castle Harrenhal"
+ harrens_throne_valid:0 "This can only be used in the court of [GetTitleByKey('c_harrenhal').GetNameNoTier]"

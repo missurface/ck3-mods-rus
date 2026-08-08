@@ -60,3 +60,8 @@
  amsb_build_godsfort_decision_desc:0 "You demand plans be drawn up to create the largest castle in Westeros upon the northern shore of the God's Eye and begin a decade-long project to construct [GetBuilding('generic_harrenhal_01').GetName]\n\nWhen this construction completes you will gain the special building and a level 5 castle"
  amsb_build_godsfort_decision_confirm:0 "Begin planning the construction of The Black Castle"
  amsb_build_godsfort_decision_tooltip:0 "Begin planning the construction of The Black Castle"
+
+ amsb_recover_varezys_artifacts_decision:0 "Recover Aurion Varezys Lost Artifacts"
+ amsb_recover_varezys_artifacts_decision_desc:0 "I will fund a brave explorer to venture into the perilous ruins of Old Valyria in search of Stormbringer, the ancestral sword of House Varezys."
+ amsb_recover_varezys_artifacts_decision_tooltip:0 "Plan an expedition to recover Stormbringer"
+ amsb_recover_varezys_artifacts_decision_confirm:0 "Prepare a ship"

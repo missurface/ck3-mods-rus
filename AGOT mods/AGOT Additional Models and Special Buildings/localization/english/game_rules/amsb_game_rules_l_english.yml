@@ -29,12 +29,12 @@
   setting_amsb_ai_abdicate_enabled_desc:0 "AI rulers can use the abdicate decision"
 
   # Dragonstone Court Rules
-  rule_amsb_dragonstone_throne_room:0 "#D AM&SB:#! Dragonstone Throne Room#!"
-  rule_amsb_dragonstone_throne_room_desc:0 "Determines if Dragonstone will start with the AGOT Throne Room or the TV Show Throne Room"
-  setting_amsb_dragonstone_throne_room_no:0 "#R Disabled#!"
-  setting_amsb_dragonstone_throne_room_no_desc:0 "Dragonstone will use the AGOT Throne Room"
-  setting_amsb_dragonstone_throne_room_yes:0 "#P Enabled#!"
-  setting_amsb_dragonstone_throne_room_yes_desc:0 "Dragonstone will use the TV Show Throne Room"
+  rule_amsb_dragon_skull_court_restriction:0 "#D AM&SB:#! Throne Room Dragon Skull Artifacts#!"
+  rule_amsb_dragon_skull_court_restriction_desc:0 "Determines if Dragon Skull Artifacts can be displayed in any court (WARNING: Skulls will be tiny depending on throne room)"
+  setting_amsb_dragon_skulls_restricted:0 "#R Restricted#!"
+  setting_amsb_dragon_skulls_restricted_desc:0 "Dragon Skulls can only be displayed in Kings Landing"
+  setting_amsb_dragon_skulls_free:0 "#P Unrestricted#!"
+  setting_amsb_dragon_skulls_free_desc:0 "Dragon Skulls can be displayed in any court county (WARNING: Skulls will be tiny depending on throne room)"
 
   # Game Rule Category
   game_rule_category_amsb_game_rules:0 "#D AM&SB Rules#!"

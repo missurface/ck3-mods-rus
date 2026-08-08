@@ -1,6 +1,6 @@
 ﻿
 l_english:
-
+ #bend the knee
  amsb_bent_knees_vassal_interaction:0 "Summon To Bend The Knee"
  amsb_bent_knees_vassal_interaction_desc:0 "Exchange prestige and opinion for this vassal to travel to [actor.GetCapitalLocation.GetName] so they can publicly bend the knee and swear fealty to House [actor.GetHouse.GetBaseName] of [actor.GetPrimaryTitle.GetNameNoTier]."
 
@@ -10,8 +10,6 @@ l_english:
  amsb_bent_knees_vassal_interaction_refusal_msg_title:0 "Bend the Knee Refusal!"
  amsb_bent_knees_vassal_interaction_refusal_msg_desc:0 "[recipient.GetFirstName] has refused to bend the knee and may now be imprisoned!"
 
-
- #bend the knee
  amsb_bent_knees_vassal_interaction_accept_desc_a:0 "Travels to to [actor.GetCapitalLocation.GetName] with the intention of bending the knee. But you may decide you have other plans once they arrive... "
  amsb_bent_knees_vassal_interaction_accept_desc_b:0  "If you accept his oath, [recipient.GetFirstName]:\n $EFFECT_LIST_BULLET$ Cannot join a faction against you for 10 years.\n $EFFECT_LIST_BULLET$ Loses #N 20 #!opinion of you."
 
@@ -24,8 +22,20 @@ l_english:
 
  amsb_take_the_black.decline:0 "[recipient.GetName] chooses to defy your unjust demands and challenges you to a duel to the death"
 
+ #Court seat decision
+ amsb_take_a_seat_young_skywalker_interaction:0 "Assign to a Throne Seat"
+ amsb_take_a_seat_young_skywalker_interaction_desc:0 "If your throne room supports it this will allow this character to sit in an empty throne seat."
+ amsb_take_a_seat_young_skywalker:0 "TO DO"
+ amsb_take_a_seat_young_skywalker_interaction_accept_desc:0 "Gain an honorary seat upon an empty throne room seat"
+
+ amsb_lose_your_seat_young_skywalker_interaction:0 "Un-assign to a Throne Seat"
+ amsb_lose_your_seat_young_skywalker_interaction_desc:0 "If your throne room supports it this will allow this character to sit in an empty throne seat."
+ amsb_lose_your_seat_young_skywalker:0 "TO DO"
+ amsb_lose_your_seat_young_skywalker_interaction_accept_desc:0 "Lose your seat upon an empty throne"
+
  #Flags
  refused_to_bend_knees:0 "Refused To Bend The Knee"
+ master_skywalker:0 "Honorary Throne Seat"
 
  #Tooltips
  amsb_WE_ARE_FRIENDS:0 "We are #Bold not #!friends"

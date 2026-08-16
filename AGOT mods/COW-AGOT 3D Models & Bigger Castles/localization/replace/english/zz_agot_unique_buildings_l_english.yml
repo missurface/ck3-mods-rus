@@ -177,6 +177,7 @@
   agot_tradition_stepstones_desc: "The pirates of the Stepstones are a fearsome sight for any trade vessal crossing the Narrow Sea."
   culture_parameter_unlock_maa_stepstone_pirates: "Unlocks Stepstone Pirates Military Units"
 
+  CASTLE_HOARE_REQUIREMENT: "You must hold either the Kingdom of Two Wyks OR the Empire of the Iron Islands. Additionally, you must also hold the Barony of Hoare Castle."
 
   NOT_A_LANNISTER: "You are not Tywin Lannister"
 

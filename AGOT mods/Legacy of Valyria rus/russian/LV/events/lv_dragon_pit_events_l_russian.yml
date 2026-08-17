@@ -1,0 +1,3 @@
+﻿l_russian:
+  colonize_valyria.0007.t:0 "Драконьи стражи учреждены"
+  colonize_valyria.0007.desc:0 "Впервые на горе Гейлитокс появился орден драконьих стражей. [head_dragonkeeper.GetName] [Select_CString(head_dragonkeeper.IsFemale, 'назначена', 'назначен' )] их главой."

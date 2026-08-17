@@ -1,0 +1,19 @@
+﻿l_russian:
+  agot_EE_establish_north_valyria_decision:0 "Основать Северную Валирию"
+  agot_EE_establish_north_valyria_decision_desc:0 "Основать королевство Северной Валирии из множества грызущихся между собой княжеств, существующих к северу от некогда великого полуострова, и превратить его в могучую державу, с которой придётся считаться."
+  agot_EE_establish_north_valyria_decision_tooltip:0 "Основать королевство Северной Валирии"
+  agot_EE_establish_north_valyria_decision_confirm:0 "Собрать державу"
+  agot_EE_establish_north_valyria_tooltip_dejure:0 "Все территории под властью [GetTitleByKey('k_mantarys').GetName], [GetTitleByKey('k_tolos').GetName], [GetTitleByKey('k_elyria_and_velos').GetName] и [GetTitleByKey('k_draconys').GetName] становятся [Concept('de_jure', 'де-юре')|E] подчинёнными [GetTitleByKey('e_north_valyria').GetName]"
+
+  agot_EE_north_valyria.1.t:0 "Северная Валирия восстаёт"
+  agot_EE_north_valyria.1.desc:0 "Со времён [Concept('valyrian_freehold', 'Валирийского Фригольда')|E] его северные города вдоль Расписных гор процветали. Хотя у них не было привилегии самоуправления, они были богаты. После Рока мы утратили былую славу и остались в пепле, вынужденные сами заботиться о себе. Теперь мир увидит, что это больше не так: я [Select_CString(ROOT.Char.IsFemale, 'объединила', 'объединил' )] этих грызущихся мелких лордов под своим знаменем — дипломатией или силой.\n\nСегодня из пепла [Concept('valyrian_freehold_short', 'Фригольда')|E] восстаёт феникс."
+  agot_EE_north_valyria.1.a:0 "Король шепчет, и дракон склоняет голову"
+
+  agot_EE_reestablish_old_valyria_decision:0 "Восстановить Старую империю"
+  agot_EE_reestablish_old_valyria_decision_desc:0 "Из столицы моего процветающего королевства я готов возродить старую империю, вдохнув жизнь в то, что считалось утраченным. Руины моих пращуров шепчут о забытой мощи, о землях, объединённых под властью одной несокрушимой силы, и я готов восстановить это наследие."
+  agot_EE_reestablish_old_valyria_decision_tooltip:0 "Восстановить империю [Concept('old_valyria', 'Старой Валирии')|E]"
+  agot_EE_reestablish_old_valyria_decision_confirm:0 "Восстановить Старую империю"
+
+  agot_EE_old_valyria.1.t:0 "Старая империя восстаёт"
+  agot_EE_old_valyria.1.desc:0 "Как дракон, пробуждающийся от древней дрёмы, [old_valyria|E] вновь возносится! Наше знамя реет высоко над каждым уголком нашей некогда великой империи, несомое ветрами, столь же необузданными, как дух нашего народа. Древний [valyrian_freehold_short|E], некогда сияющий светоч против тьмы, пал в пламени гибели. Пусть мы уже не сможем вернуть его несравненное величие, мы чтим предков, стремясь всё выше. Вместе мы идём вперёд, и старый огонь вновь мерцает. На этот раз [valyria|E] выдержит испытание веками."
+  agot_EE_old_valyria.1.a:0 "Наконец восстановлена!"

@@ -1,0 +1,12 @@
+﻿l_russian:
+  lv_find_the_dragonblood_decision.0001.t:0 "Кровь Старой Валирии"
+  lv_find_the_dragonblood_decision.0001.desc:0 "Вы просматриваете запрошенный вами список всех известных ныне живущих династий, в чьих жилах течёт драконья кровь."
+  lv_find_the_dragonblood_decision.0001.a:0 "Этого достаточно."
+
+  lv_find_the_dragonblood_decision.0002.t:0 "Дома драконьих всадников"
+  lv_find_the_dragonblood_decision.0002.desc:0 "Вы просматриваете запрошенный вами список всех известных ныне живущих династий, чьи представители когда-либо летали на драконах."
+  lv_find_the_dragonblood_decision.0002.a:0 "Этого достаточно."
+
+  lv_find_the_dragonblood_decision.0003.t:0 "Драконьи всадники мира"
+  lv_find_the_dragonblood_decision.0003.desc:0 "Вы просматриваете запрошенный вами список всех известных ныне живущих династий, представители которых сейчас являются драконьими всадниками."
+  lv_find_the_dragonblood_decision.0003.a:0 "Этого достаточно."

@@ -1,0 +1,100 @@
+﻿l_russian:
+  lv_valyria_random_event.0009.t:0 "Преследуемый тенями"
+  lv_valyria_random_event.0009.desc:0 "Местность [haunted_location.GetName] и без того коварна: растрескавшаяся земля, серные испарения, жара. И всё же настоящий урон уже начал укореняться в вашем разуме. С тех пор как вы впервые ступили сюда несколько дней назад, сон превратился в поле битвы. Каждую ночь вы просыпаетесь в поту, с привкусом меди во рту и затухающим эхом тысячи голосов, кричащих в унисон.\n\nНа яву всё ещё хуже. Тишина здесь кажется тяжёлой, настороженной. Краем глаза вы замечаете внезапные проблески движения — вспышки багряной ткани, мерцание серебряных волос на фоне серых скал. Но всякий раз, когда вы поворачиваете голову, там нет ничего, кроме летящего пепла и руин.\n\nВаши спутники становятся всё тревожнее, бормочут о «неспокойной земле» и суде предков. Вас охватывает глубокое чувство, что вы вторглись в место, которое помнит свою силу... и свой гнев."
+  lv_valyria_random_event.0009.a:0 "Всего лишь игра света и усталость. Мы идём дальше."
+  lv_valyria_random_event.0009.b:0 "Нет, это место проклято. Нужно найти другой путь."
+
+  lv_valyria_random_event.0010.t:0 "Фигуры в красных одеяниях"
+  lv_valyria_random_event.0010.desc:0 "Сквозь марево вы видите их — бледных, с длинными белыми волосами. Их лица резко выделяются на фоне пепла. Тёмно-красные одеяния ниспадают с их плеч. Они не двигаются. Только смотрят. Стоит вам моргнуть — и они исчезают."
+  lv_valyria_random_event.0010.a:0 "Они наблюдали за мной."
+  lv_valyria_random_event.0010.b:0 "Я их преемник... или нет?"
+  lv_valyria_random_event.0010.c:0 "Они настоящие — реальнее живых."
+
+  lv_valyria_random_event.0020.t:0 "Они снова здесь"
+  lv_valyria_random_event.0020.desc:0 "Вы вновь видите их среди руин. Теперь ближе: их белые волосы блестят в свете огня. Их глаза встречаются с вашими и не моргают. Когда вы приближаетесь, они исчезают, оставляя лишь следы в пепле, которые тают у вас на глазах."
+  lv_valyria_random_event.0020.a:0 "Я не вынесу их взгляда."
+  lv_valyria_random_event.0020.b:0 "Они испытывают меня — я докажу, что достоин."
+  lv_valyria_random_event.0020.c:0 "Да... да, я иду рядом с ними..."
+
+  lv_valyria_random_event.0030.t:0 "Мёртвые среди вас"
+  lv_valyria_random_event.0030.desc:0 "На этот раз они не исчезают. Бледные фигуры стоят среди ваших спутников — безмолвные, их красные одеяния касаются пепла. Больше никто не реагирует. Их лица обращены только к вам. Вы моргаете — и мир кренится. Они исчезли... но вы уже не уверены, что всё ещё остались собой."
+  lv_valyria_random_event.0030.a:0 "Что всё это значит?"
+  
+  lv_valyria_random_event.0031.t:0 "Забранный"
+  lv_valyria_random_event.0031.desc:0 "Фигуры приближаются. Их бледные руки тянутся к вам, и в одно мгновение мир растворяется во тьме. Когда ваши спутники смотрят вокруг, вас уже просто нет."
+  lv_valyria_random_event.0031.a:0 "Они забирают меня в пепел."
+  
+  lv_valyria_random_event.0032.t:0 "Они теперь живут во мне..."
+  lv_valyria_random_event.0032.desc:0 "Фигуры рассыпаются в пепел — но вы чувствуете их внутри себя, их голоса шепчут на языке древнее людского рода. Их глаза смотрят через ваши."
+  lv_valyria_random_event.0032.a:0 "Я не один в собственном разуме."
+
+  lv_valyria_random_event.0033.t:0 "Проклятый дар"
+  lv_valyria_random_event.0033.desc:0 "Когда фигуры исчезают, в пепле остаётся нечто — осколок Валирии, слабо мерцающий внутренним светом. Вы берёте его дрожащими руками, хотя память об их глазах всё ещё жжёт."
+  lv_valyria_random_event.0033.a:0 "Теперь это моё... какова бы ни была цена."
+
+
+  lv_valyria_random_event.0040.t:0 "Дракон в вышине"
+  lv_valyria_random_event.0040.desc:0 "Сквозь марево пепла и дыма по небу скользит огромная тень. На миг облака расходятся, и вы видите широко раскинутые крылья, чешую, мерцающую словно расплавленная сталь, и дракона, парящего над разрушенным городом. Но стоит вам моргнуть — он исчезает, оставляя лишь тишину и зыбкий мрак. Вы правда его видели... или только вообразили?"
+  lv_valyria_random_event.0040.a:0 "Реально это было или нет, я запомню это зрелище до конца своих дней."
+
+
+  lv_valyria_random_event.0050.t:0 "Исчезающий город"
+  lv_valyria_random_event.0050.desc:0 "Руины меняются у вас на глазах. Чёрный шпиль, служивший вам ориентиром, исчезает, стоит лишь повернуть голову, и на его месте остаётся пустая земля. Улицы, по которым вы шли всего несколько часов назад, ведут в никуда — или обратно к началу пути. Ваши спутники шепчут о колдовстве, разлитом в воздухе."
+  lv_valyria_random_event.0050.a:0 "Он наблюдает за нами. Он движется, когда движемся мы."
+  lv_valyria_random_event.0050.b:0 "Рок исказил даже камни."
+  lv_valyria_random_event.0050.c:0 "Да... он жив. Город дышит вокруг нас."
+
+  lv_valyria_random_event.0060.t:0 "Затерянный в исчезающем городе"
+  lv_valyria_random_event.0060.desc:0 "Вы блуждаете среди башен, которые меняются, стоит лишь перестать за ними наблюдать, и улиц, что сдвигаются прямо под ногами. Знакомые лица исчезают, голоса звучат не там, где должны, а каждый путь будто ведёт всё глубже в пепел. Город не желает вас отпускать."
+  lv_valyria_random_event.0060.a:0 "Это место ломает дух."
+  lv_valyria_random_event.0060.b:0 "Город шепчет... и я должен повиноваться."
+  lv_valyria_random_event.0060.c:0 "Через заблуждение приходит открытие."
+
+  lv_valyria_random_event.0070.t:0 "Сокровище в пепле"
+  lv_valyria_random_event.0070.desc:0 "Извилистый коридор обрушивается, открывая скрытое хранилище. Рассыпанные монеты и наполовину расплавленные украшения мерцают в пепле — остатки валирийского великолепия."
+  lv_valyria_random_event.0070.a:0 "Удача любит смелых."
+
+  lv_valyria_random_event.0080.t:0 "Город забирает своё"
+  lv_valyria_random_event.0080.desc:0 "Голоса ваших спутников становятся всё тише. Стены смыкаются вокруг вас, улицы расплываются, башни вырастают невозможной высоты. Вы кричите, но никто не слышит. Валирия поглощает вас целиком, растворяясь в своём меняющемся лабиринте."
+  lv_valyria_random_event.0080.a:0 "..."
+
+  lv_valyria_random_event.0090.t:0 "Дрожь в пепле"
+  lv_valyria_random_event.0090.desc:0 "Земля вздрагивает у вас под ногами, и наполненный пеплом воздух разрывает рёв. Стены рушатся, башни кренятся, а трещины распахиваются, открывая реки расплавленного пламени. Ваши спутники в панике разбегаются, пока сами руины грозят поглотить вас."
+  lv_valyria_random_event.0090.a:0 "Бежать, пока земля нас не пожрала!"
+  lv_valyria_random_event.0090.b:0 "В огне могут скрываться сокровища..."
+  lv_valyria_random_event.0090.c:0 "Держаться стойко! Не позволяйте страху сломить нас!"
+
+  lv_valyria_random_event.0100.t:0 "Рой угольных дракончиков"
+  lv_valyria_random_event.0100.desc:0 "На вас обрушивается туча крошечных драконоподобных существ, каждое не больше кулака, но им нет числа. Они шипят и визжат, кусают и царапают, пожирая всё живое на своём пути. Пепел и огонь тянутся за ними, когда они движутся подобно живой буре — неумолимой и ужасающей."
+  lv_valyria_random_event.0100.a:0 "Отбиться от них... или погибнуть!"
+  lv_valyria_random_event.0100.b:0 "Попытаться поймать нескольких... если выживете."
+  lv_valyria_random_event.0100.c:0 "Держаться вместе и пережить рой."
+
+  lv_valyria_random_event.0110.t:0 "Засада пепельных змей"
+  lv_valyria_random_event.0110.desc:0 "Огромные бледные змеи скользят по пепельным равнинам и внезапно бросаются на ваш отряд. Их челюсти смыкаются с ужасающей скоростью, а чешуя источает жар. Если вы хотите выжить, действовать нужно быстро."
+  lv_valyria_random_event.0110.a:0 "Стоять и сражаться!"
+  lv_valyria_random_event.0110.b:0 "Бежать и выжить!"
+
+  lv_valyria_random_event.0120.t:0 "Toxic Fumes"
+  lv_valyria_random_event.0120.desc:0 "A thick, acrid vapor seeps from fissures in the blackened ground, burning your eyes and throat. The air is heavy with sulfur — each breath threatens to suffocate you. Pushing forward could prove fatal, but retreat would cost precious time."
+  lv_valyria_random_event.0120.a:0 "Cover your mouth and push through."
+  lv_valyria_random_event.0120.b:0 "Retreat for safer paths."
+  lv_valyria_random_event.0120.c:0 "Burn supplies to mask the air."
+
+  lv_valyria_random_event.0130.t:0 "Aftermath: Illness"
+  lv_valyria_random_event.0130.desc:0 "Coughing wracks your body as the illness settles into your lungs, weakening your strength."
+  lv_valyria_random_event.0130.a:0 "Rally against the fever."
+  lv_valyria_random_event.0130.b:0 "I feel weaker by the hour."
+
+  lv_valyria_random_event.0140.t:0 "Aftermath: Burned"
+  lv_valyria_random_event.0140.desc:0 "Smoldering pain from ash and sulfur sears your skin. Scars burn, reminding you of how close death was."
+  lv_valyria_random_event.0140.a:0 "Alive, at last."
+
+  lv_valyria_random_event.0150.t:0 "Aftermath: Retreat"
+  lv_valyria_random_event.0150.desc:0 "You manage to withdraw from the toxic air, but the memory of proximity to death lingers, making every step feel uncertain."
+  lv_valyria_random_event.0150.a:0 "We press on, shattered but alive."
+
+  lv_valyria_random_event.0160.t:0 "Aftermath: Sacrificed Supplies"
+  lv_valyria_random_event.0160.desc:0 "You burned what little you had to mask the fumes. The air cleared, but the loss of resources now haunts each journeying step."
+  lv_valyria_random_event.0160.a:0 "The sacrifice was worth making."
+  lv_valyria_random_event.0160.b:0 "I fear for what we gave up."

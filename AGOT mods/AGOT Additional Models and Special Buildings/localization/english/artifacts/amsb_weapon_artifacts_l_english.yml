@@ -19,13 +19,16 @@
  vs_stormbringer_description:0 "The Valyrian steel sword of House Varezys, a relic of fire and shadow, a blade wrought in the crucibles of the Fourteen Flames. The blade has seen the furthest expanses of the Valyrian Empire."
 
  vs_harbinger_name:0 "Harbinger"
- vs_harbinger_description:0 "The Valyrian steel sword of House Vizeryon, Sa relic of fire, blood and shadow, a blade wrought in the crucibles of the Fourteen Flames."
+ vs_harbinger_description:0 "The Valyrian steel sword of House Vizeryon, a relic of fire, blood and shadow, a blade wrought in the crucibles of the Fourteen Flames."
 
  vs_shadowborn_name:0 "Shadowborn"
  vs_shadowborn_description:0 "Shadowborn is said to be the Valyrian Steel sword passed down through the rulers of Oreos in the Valyrian Freehold"
 
  vs_ashfall_name:0 "Ashfall"
  vs_ashfall_description:0 "The Valyrian Steel Mace of a wealthy warrior family from the Valyrian Freehold"
+
+ vs_kopesh_name:0 "Dragon's Tooth"
+ vs_kopesh_description:0 "The Valyrian steel Kopesh sword of House Vaelaror, it was made from solid Valyrian Steel from the pommel to the tip of the blade. The handle has two halves of dragonbone inlayed with a sharpened dragon's tooth attached to the bottom of the pommel"
 
 # Non VS Weapons  
  dothraki_arakh_name:0 "Dothraki Arakh"
